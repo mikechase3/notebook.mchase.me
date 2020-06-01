@@ -2,12 +2,14 @@
 description: What is this madness?
 ---
 
-# Lecture 04: Divide and Conquer
+# Lecture 04: Divide and Conquer Methodology
 
 ## Goals
 
 1. Analyze the running time for divide/conquer algorithms.
 2. Understand and apply this strategy.
+
+
 
 ## General Technique
 
@@ -22,7 +24,18 @@ Example:
 In sorting algorithms, sometimes we divide arrays into smaller arrays so we can solve each small part by brute force and put them together.
 {% endhint %}
 
-## Running Time
+### Example: Merge Sort
 
-T\(n\) 
+[Merge sort:](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478)
+
+1. Takes the input array
+2. Splits it in half.
+
+$$
+T(n) ≤ 2T(n/2)+O(n)
+$$
+
+* _\(n/2\)_ is the **split** \(divide\) part of the routine.
+* _2_ is the 2 additional calls that are created.
+* _O\(n\)_ is the merge subroutine.
 
