@@ -26,10 +26,13 @@ In sorting algorithms, sometimes we divide arrays into smaller arrays so we can 
 
 ### Example: Merge Sort
 
-[Merge sort:](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478)
+[Merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478) works in 3 steps:
 
 1. Takes the input array
 2. Splits it in half.
+3. Combines it together.
+
+Given the following equation:
 
 $$
 T(n) ≤ 2T(n/2)+O(n)
@@ -38,4 +41,6 @@ $$
 * _\(n/2\)_ is the **split** \(divide\) part of the routine.
 * _2_ is the 2 additional calls that are created.
 * _O\(n\)_ is the merge subroutine.
+
+
 
