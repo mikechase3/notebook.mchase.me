@@ -66,5 +66,11 @@ This example is from _Back to Back SWE,_ entitled _Divide and Conquer Methodolog
    2. Find the closest points in the right half to the line.
 3. **Merge** them in linear time _\(not explained here\)._
 
+## Analyzing Running Time
+
+When we analyze the running time of recurrence functions, we do so using piecewise functions. 
+
+![An example of a piecewise function defining the running time.](../.gitbook/assets/recurrence-function-time-example.jpg)
+
 
 
