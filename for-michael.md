@@ -10,6 +10,7 @@ description: To help you help me.
    1. Stuff that doesn't come natural to me.
    2. Content is very math heavy.
 2. Concepts are building on fundamental ideas I do not understand.
+3. I'm not able to do homework and practice exercises in a timely manner.
 
 ## What I've Tried
 
