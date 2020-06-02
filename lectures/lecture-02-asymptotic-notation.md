@@ -9,9 +9,8 @@
 
 ## Notation Goals
 
-1. What is the meaning of the goals.
-2. Provide **Sufficient Conditions** so that big oh notations are valid.
-3. Discuss **Necessary Conditions.**
+1. Provide **Sufficient Conditions** so that big oh notations are valid.
+2. Discuss **Necessary Conditions** of each notation.
 
 ## Big Oh Running Time
 

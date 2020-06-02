@@ -1,6 +1,10 @@
-# CPS 450 Yao
+---
+description: >-
+  This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450
+  Course.
+---
 
-This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450 Course.
+# CPS 450 Notes
 
 ## Purpose
 
