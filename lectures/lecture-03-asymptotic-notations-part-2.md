@@ -52,9 +52,10 @@ Little o is like Big O notation, but we care about the constant of the largest t
 * Yilang Li: _Studying for his masters in computer science_
 * Zackary: _Works for the research institute; getting his masters._
 * Karan: _Karan Panchai: Graduate student in UD. Fall 2019, majoring in computer science._
-* Divya Shetty: _Majoring in computer science. Came in 2019._
+* Divya Shetty: \*Majoring in computer science. Came in 2019.
 * Fen Yang: _From China, living in Dayton. Graduate student in electrical engineering._
 * Kuangyi Zhang: _ECE, international student living in Dayton_
+* Karan Panchai: Smart guy who was able to implement the Kth Largest Array.
 
 
 

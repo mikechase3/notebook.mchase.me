@@ -6,6 +6,8 @@ description: >-
 
 # CPS 450 Notes
 
+This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450 Course. I'd recommend you use other outside resources if you're learning this for the first time; see below.
+
 ## Purpose
 
 1. Specifically help other UD students remember what we learned in this class.

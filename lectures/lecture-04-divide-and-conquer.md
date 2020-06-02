@@ -1,8 +1,7 @@
 ---
 description: >-
   In this section, we learn to analyze running times of divide & conquer
-  algorithms so we can use this strategy to solve new problems. Note: left off
-  at 48:00.
+  algorithms so we can use this strategy to solve new problems.
 ---
 
 # Lecture 04: Divide and Conquer Methodology
@@ -103,6 +102,10 @@ function merge(leftArray, rightArray, array) {
 * _O\(n\)_ is the merge subroutine.
 * Divide & Conquer Increases efficiency.
   * For Merge Sort, we took an algorithm that is normally O\(N^2\) and made it O\(n\*log\(n\)\).
+
+$$
+T(n) = T(n/2) + T(n/2) + O(n), n>1
+$$
 
 ### Example: Closest Pair of Points
 
@@ -275,9 +278,32 @@ When we analyze the running time of recurrence functions, we do so using piecewi
 
 ![An example of a piecewise function defining the running time.](../.gitbook/assets/recurrence-function-time-example.jpg)
 
+## Homework
+
+* Find the kth largest element in an unsorted array.
+* Use the _divide and conquer_ approach.
+* Don't sort the array.
+
+```java
+Example 1:
+    //Because k is 2, we'll find the 2nd largest item.
+    Input: [3, 2, 1, 5, 6, 4] and k = 2 
+    Output: 5
+    
+Example 2:
+    //Because k is 4, we'll find the 4th largest item.
+    Input: [3, 2, 3, 1, 2, 4, 5, 5, 6]
+    Output: 4
+    
+```
+
+{% hint style="info" %}
+Hint: try partitioning like in quick sort.
+{% endhint %}
+
 ## Work Cited
 
 1. [Making sense of merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478), Base CS blog _\(definitions and merge sort implementation\)._
-2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Content not used, but was taught\)._
+2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Piecewise Function\)._
 3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
 
