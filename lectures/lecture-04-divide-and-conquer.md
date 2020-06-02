@@ -280,6 +280,12 @@ When we analyze the running time of recurrence functions, we do so using piecewi
 
 ## Homework
 
+#### Kth Element
+
+{% hint style="danger" %}
+I was unable to implement this in a reasonable amount of time.
+{% endhint %}
+
 * Find the kth largest element in an unsorted array.
 * Use the _divide and conquer_ approach.
 * Don't sort the array.
@@ -301,9 +307,19 @@ Example 2:
 Hint: try partitioning like in quick sort.
 {% endhint %}
 
+#### Given two sorted arrays, describe the recurrence relation for the divide & conquer algorithm used to find the median and then use the master theorem to derive its running time.
+
+{% hint style="danger" %}
+Haven't attempted yet.
+{% endhint %}
+
+{% hint style="info" %}
+See other problems on her Isidore site.
+{% endhint %}
+
 ## Work Cited
 
 1. [Making sense of merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478), Base CS blog _\(definitions and merge sort implementation\)._
-2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Piecewise Function\)._
+2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Piecewise Function, Homework Questions\)._
 3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
 

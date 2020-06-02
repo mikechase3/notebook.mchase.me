@@ -2,7 +2,7 @@
 description: To help you help me.
 ---
 
-# For Michael
+# For Michael Key
 
 ## What's Going On?
 
@@ -16,11 +16,16 @@ description: To help you help me.
 Ranked in order from most effective to least effective.
 
 1. Participating in class _\(I'm often wrong and question everything I do, but I learn the most by failing and being corrected\)._
-2. Taking detailed notes _I_ 
+2. Taking notes using this platform. _\(The first step is to figure out what I don't know; good notes help me do that_ _and pay attention\)_.
+3. Re-watching lectures.
+4. Paid source of videos, Back to Back SWE. _\(Good: provides an overview, shows me what I don't know. Bad: Dr. Yao uses different notation/techniques sometimes. The audience is for those who have a grasp of this content already and are preparing for interviews\)._
+5. YouTube videos: _\(Sometimes helpful, but it takes a long time to find a relevant one. Also, notation is different. Oftentimes, the quality is mediocre and not any more helpful than class videos\)._
+6. Textbook. _\(It takes me forever, usually isn't worth reading\)._
 
-## Have you had a chance to answer the previous question?
+## What Would Work Best:
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+1. Getting help from Dr. Yao. _\(But I'm afraid, because she's not a tutor\)._
+2. Working through problems similar to homework with her or someone more knowledgeable. _\(Tutoring\)._
 
 
 
