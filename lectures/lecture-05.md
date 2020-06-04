@@ -20,5 +20,5 @@ Hello  world?
 What about hints?
 {% endhint %}
 
-Oh boy. There is so much to learn! Avoid the insane chicks.
+
 
