@@ -1,8 +1,8 @@
 ---
-description: 'This doesn''t exist yet, but I want it to.'
+description: 'Haven''t watched this yet, but I will soon.'
 ---
 
-# Lecture 05
+# Lecture 05: Divide and Conquer, Part 2
 
 Hello world.
 
