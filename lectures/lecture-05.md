@@ -106,7 +106,7 @@ class Solution {
 {% endtab %}
 
 {% tab title="Quadratic Time" %}
-This work is not my own, but again, from Back to Back SWE:
+This work is not my own, but again, from [Back to Back SWE](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum):
 
 ```java
 class Solution {
@@ -261,22 +261,7 @@ class Solution {
 ## Works Cited
 
 1. [Back to Back SWE: Max Contiguous Subarray Sum Solutions](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions)
-
-
-
-## So what happens when I do something like
-
-This?
-
-``will code blocks work?```
-
-```text
-Hello  world?
-```
-
-{% hint style="info" %}
-What about hints?
-{% endhint %}
+2. Dr. Yao's classroom lecture \(problems & formatting mostly\).
 
 
 
