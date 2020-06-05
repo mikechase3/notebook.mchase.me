@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CPS 450 Class Notes](README.md)
-* [For Michael Key](for-michael.md)
+* [Notes to Self](for-michael.md)
 
 ## Lectures
 
