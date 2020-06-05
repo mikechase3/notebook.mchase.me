@@ -73,7 +73,8 @@ This work is not my own, but from [Back to Back SWE](https://backtobackswe.com/p
 class Solution {
   public int maxContiguousSubarraySum(int[] nums) {
     int n = nums.length;
-    int maximumSubArraySum = Integer.MIN_VALUE;
+    //Mike Chase: .Min_Value is the smallest (most negative) number.
+    int maximumSubArraySum = Integer.MIN_VALUE; //Like -228,333...
 
     /*
       We will use these outer 2 for loops to investigate all
