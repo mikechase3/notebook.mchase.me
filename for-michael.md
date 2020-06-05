@@ -2,7 +2,7 @@
 description: To help you help me.
 ---
 
-# Notes to Self
+# Notes to Sel
 
 ## What's Going On?
 
