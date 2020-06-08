@@ -257,12 +257,21 @@ class Solution {
 {% endtab %}
 {% endtabs %}
 
+## Master Theorem
+
+![Source: Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition](../.gitbook/assets/screenshot_2020-06-08-09.41.13_ujt0gs.jpg)
+
+{% hint style="info" %}
+T\(n\) is the worst case running time on the problem. **n** is the problem size. **a** is the number of sub problems. **n/b** is the size of each subproblem. **f\(n\)** is the worst-case running time for the divide & combination step.
+{% endhint %}
+
 
 
 ## Works Cited
 
 1. [Back to Back SWE: Max Contiguous Subarray Sum Solutions](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions)
 2. Dr. Yao's classroom lecture \(problems & formatting mostly\).
+3. Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition
 
 
 
