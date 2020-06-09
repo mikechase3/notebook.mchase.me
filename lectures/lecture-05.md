@@ -271,6 +271,31 @@ T\(n\) is the worst case running time on the problem. **n** is the problem size.
 What are the steps for solving ad divide/conquer running time?
 {% endhint %}
 
+* [ ] Look at each sub-problem and find the running time _\(see merge-sort and quick-sort examples above\)._
+* [ ] **Add** each sub-problem together and set them equal to **T\(n\)**
+* [ ] **Solve** for a, b, and n in the master theorem. 
+* [ ] **Substitute** variables to solve:
+
+$$
+\log_{b}(n) = Z
+$$
+
+* [ ] **Compare** f\(n\) to n^Z to figure out which of the three rules you're going to use.
+
+$$
+[f(n)] \approx ? [\log_{b}(n)]
+$$
+
+* [ ] Write your final equation in the proper form:
+
+{% hint style="danger" %}
+This final equation is just an example for merge-sort. Your answer will look different based on which theorem you use and what the recursive function looks like.
+{% endhint %}
+
+$$
+T(n) = \theta(n^{\log_{b}{n}}) \cdot \ln n
+$$
+
 ## Works Cited
 
 1. [Back to Back SWE: Max Contiguous Subarray Sum Solutions](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions)
