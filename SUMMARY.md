@@ -11,7 +11,7 @@
 * [Lecture 04: Divide and Conquer Methodology](lectures/lecture-04-divide-and-conquer.md)
 * [Lecture 05: Divide and Conquer, Part 2](lectures/lecture-05.md)
 
-## Personal
+## Assignments
 
-* [ASGN 01 Priority Queues Implementation Report](personal/asgn-01-priority-queues-implementation-report.md)
+* [ASGN 01 Priority Queues Implementation Report](assignments/asgn-01-priority-queues-implementation-report.md)
 

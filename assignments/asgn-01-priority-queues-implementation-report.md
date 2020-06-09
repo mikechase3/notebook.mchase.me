@@ -14,7 +14,7 @@ This was due on Monday Jun 9, 2020 and I started on the Jun 4. I thought 5 days 
 
 ### The Math
 
-I had all of the math done from last time luckily, but I still had to draw myself out some visualizations.
+I had all of the math done from last time luckily, but I still had to draw myself out some visualizations and remind myself where items in the heap go in different parts of the array. Luckily, this was just a 3-way heap and not the d-way heap I had to implement last time. This made the math much easier.
 
 ![](../.gitbook/assets/threewayheapvisualizationsketch.jpeg)
 
@@ -24,7 +24,7 @@ Even though I just took CPS 350, a lot of examples had generic classes in them, 
 
 I spent a lot of time reading and going through old textbooks, but ultimately, I went back to what I knew because I couldn't figure it out. At least now, I know it's something useful that I'll have to learn. 
 
-![](../.gitbook/assets/generic-methods-big-java-late-objects.jpg)
+![Source: Big Java Late Objects Textbook](../.gitbook/assets/generic-methods-big-java-late-objects.jpg)
 
 ```java
 public class Key<K>{
@@ -266,5 +266,28 @@ All of the input values are strings, and all of the keys are converted to double
 
 The primary test shown here adds a bunch of elements to an array and is easily modifiable for other tests.
 
-\*\*\*\*
+## Final Note
+
+{% hint style="warning" %}
+I modified the interface to throw exceptions. I think the names "key" and "val" were changed too by my IDE while refactoring.
+{% endhint %}
+
+```java
+    public void insert(Key key, Value val) throws Exception; //I changed this to handle an exception.
+
+    /**
+     * Removes the pair with the minimum key from the priority queue 
+     * and returns its value
+     * @return the value of the pair that has the minimum key
+     * @throws EmptyPQException
+     *             if priority queue contains no elements
+     */
+    public Value deleteMin() throws Exception;
+
+    /**
+     * Resets the priority queue to appear as not containing any elements.
+     */
+```
+
+
 
