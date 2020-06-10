@@ -1,3 +1,7 @@
+---
+description: 'Finished for the day at 17:00'
+---
+
 # Lecture 06: Dynamic Programming Fundamentals
 
 ## Dynamic Programming Fundamentals
@@ -52,7 +56,7 @@ If you're completely new to this like I was, this [video](https://www.youtube.co
 
 
 
-### Different Approaches
+### Different Approaches to Matrix Multiplication
 
 {% tabs %}
 {% tab title="Brute Force" %}
@@ -82,7 +86,7 @@ Assume we're using a 4x4 matrix. _See her video at 4:40_
 When this is all set and done, we find that the run time is:
 
 $$
-T(n) = 8T\left (\frac{n}{2}  \right )+Θ\left (n^2 \right)
+T(n) = 8T\left (\frac{n}{2}  \right )+\Theta \left (n^2 \right)
 $$
 
 #### Master Theorem
@@ -115,15 +119,47 @@ $$
 
 Which, unfortunately, is the same running time as our brute force method.
 {% endtab %}
+
+{% tab title="Strassen\'s Method" %}
+#### The Main Idea
+
+Recall from earlier, the running time of the divide & conquer approach:
+
+$$
+T(n) = 8T\left (\frac{n}{2}  \right )+\Theta \left (n^2 \right)
+$$
+
+Strassen's main idea is to make the recursion tree less bushy by lowering `a`. Here, we can **perform only 7 recursive multiplicaitons** of `n/2` x `n/2` matrices, rather than 8.
+
+$$
+\begin{cases}
+\Theta(1) & \text{ if } n=1 \\ 
+7T(\frac{n}{2}) & \text{ if } n>1
+\end{cases}
+$$
+
+Now, `a` is 7 and b is 2, so:
+
+$$
+n^{log_2(7)}\rightarrow n^{2.81}
+$$
+
+#### Finding Big Theta
+
+We'll use the master theorem again to compare `f(n) = Θ(n^2)` to `n^{log_b(a)} = 2.81` and we'll clearly be using case a.
+
+![Source: Dr. Yao&apos;s Notes](../.gitbook/assets/image%20%283%29.png)
+
+Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better.
+
+#### Optional Further Reading
+
+* The best case by this method runs in `Θ(n^(2.376)` time.
+* _Textbook:_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _\(Chapter 15_\).
+{% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
-Something
+## Fibonacci Numbers
 
 
 
@@ -131,8 +167,8 @@ Something
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(\)._
-2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Simplified Master's Theorem Cases\)._
+2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Quicksort video\)_
 3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4, 15**_\).
 4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms&chapter=complexity-runtime-analysis)
 
