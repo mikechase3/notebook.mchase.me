@@ -14,9 +14,11 @@ This heading is covered in Back to Back SWE. Not class.
 
 There are three fundamental ideas of [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming).
 
-1. Sub problems explicitly overlap.
-2. Sub-problems can be related together.
-3. Solutions to sub-problems can be stored in cache using [memoization](https://en.wikipedia.org/wiki/Memoization).
+> 1. Sub problems explicitly overlap.
+> 2. Sub-problems can be related together.
+> 3. Solutions to sub-problems can be stored in cache using [memoization](https://en.wikipedia.org/wiki/Memoization).
+>
+> _Source: Back to Back SWE. Dynamic programming fundamentals._
 
 Unlike divide & conquer algorithms, the problems did not explicitly overlap, and we couldn't cache any of the solutions for later usage. It was straight-up recursion.
 
@@ -159,7 +161,59 @@ Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better
 {% endtab %}
 {% endtabs %}
 
-## Fibonacci Numbers
+## Dynamic Programming
+
+### Four Step Method
+
+> 1. **Characterize the structure of an optimal solution**. _\(What are the sub-problems?\)_
+> 2. **Recursively define the value of an optimal solution.** _\(i.e. recurrence for Fibonacci\(n\): Fib\(n\) = Fib\(n-1\)+\(n-2\), which is a formula involving only smaller sub-problems._
+> 3. **Compute the value of an optimal solution in a** _**bottom-up**_ **fashion**. Store \(memorize\) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
+> 4. **Construct an optimal solution from computed information.**
+>
+> _Source: Dr. Yao's Slides, Dynamic Programming Part 1. \(Paraphrased\)_
+
+_\*\*\*\*_
+
+\*\*\*\*
+
+### Example: Fibonacci Numbers
+
+* Below is sample code for the Fibonacci sequence.
+* Notice how we store values we've already calculated in the array `f[]`.
+
+```java
+// Fibonacci Series using Dynamic Programming 
+class fibonacci 
+{ 
+   static int fib(int n) 
+    { 
+    /* Declare an array to store Fibonacci numbers. */
+    int f[] = new int[n+2]; // 1 extra to handle case, n = 0 
+    int i; 
+       
+    /* 0th and 1st number of the series are 0 and 1*/
+    f[0] = 0; 
+    f[1] = 1; 
+      
+    for (i = 2; i <= n; i++) 
+    { 
+       /* Add the previous 2 numbers in the series 
+         and store it */
+        f[i] = f[i-1] + f[i-2]; 
+    } 
+       
+    return f[n]; 
+    } 
+       
+    public static void main (String args[]) 
+    { 
+        int n = 9; 
+        System.out.println(fib(n)); 
+    } 
+} 
+/* This code is contributed by Rajat Mishra */
+// Source: Geeks For Geeks.
+```
 
 
 
@@ -167,8 +221,9 @@ Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Simplified Master's Theorem Cases\)._
-2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Quicksort video\)_
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Four-step method.\)._
+2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Quick sort video\)_
 3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4, 15**_\).
 4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms&chapter=complexity-runtime-analysis)
+5. Geeks for Geeks: Fibonacci Sequence
 
