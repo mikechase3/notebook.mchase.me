@@ -1,10 +1,11 @@
 ---
 description: >-
-  Note: there's lots of things I do not understand. Go back to 25:00 and try to
-  finish. Also try maximum subarray problem on Leetcode.
+  We focused on two concepts in this class: first, we worked at the maximum
+  separate problem and analyze the running time. Then we use the masters theorem
+  to analyze the running time of other algorithms
 ---
 
-# Lecture 05: Divide and Conquer, Part 2
+# Lecture 05: Divide and Conquer Analysis
 
 ## Goals
 
@@ -300,7 +301,7 @@ $$
 
 1. [Back to Back SWE: Max Contiguous Subarray Sum Solutions](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions)
 2. Dr. Yao's classroom lecture \(problems & formatting mostly\).
-3. Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition
+3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4**_\)
 
 
 

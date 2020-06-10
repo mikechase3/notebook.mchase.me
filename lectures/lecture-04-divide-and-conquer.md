@@ -322,4 +322,7 @@ See other problems on her Isidore site.
 1. [Making sense of merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478), Base CS blog _\(definitions and merge sort implementation\)._
 2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Piecewise Function, Homework Questions\)._
 3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
+4. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4**_\).
+
+
 
