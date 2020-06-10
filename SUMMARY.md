@@ -9,7 +9,7 @@
 * [Lecture 02: Asymptotic Notation](lectures/lecture-02-asymptotic-notation.md)
 * [Lecture 03: Asymptotic Notations Part 2](lectures/lecture-03-asymptotic-notations-part-2.md)
 * [Lecture 04: Divide and Conquer Methodology](lectures/lecture-04-divide-and-conquer.md)
-* [Lecture 05: Divide and Conquer Analysis](lectures/lecture-05.md)
+* [Lecture 05: Divide and Conquer Analysis](lectures/lecture-05-divide-and-conquer-analysis.md)
 * [Lecture 06: Dynamic Programming Fundamentals](lectures/lecture-06-dynamic-programming-fundamentals.md)
 
 ## Assignments

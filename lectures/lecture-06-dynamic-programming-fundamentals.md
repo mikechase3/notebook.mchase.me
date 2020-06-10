@@ -16,35 +16,6 @@ There are three fundamental ideas of [dynamic programming](https://en.wikipedia.
 
 Unlike divide & conquer algorithms, the problems did not explicitly overlap, and we couldn't cache any of the solutions for later usage. It was straight-up recursion.
 
-### Scheduling Example
-
-_Source: Back to Back SWE: Dynamic Programming Fundamentals_
-
-{% hint style="info" %}
-This example is incomplete and will not make sense to anyone besides me. Venture onward, my friend.
-{% endhint %}
-
-Every interval has a start and a finished, notated by:
-
-$$
-(s_i, f_i) ⇒ f_i ≤ s_{i+1}
-$$
-
-With this, we can make sure that every finish interval is going to be before the next block's starting interval.
-
-#### Weights
-
-Now, if we introduce weights, the goal is to maximize the weight. Now, our greedy algorithms fail here and we have to use 
-
-{% hint style="warning" %}
-I did not understand this problem and need to re-watch it.
-{% endhint %}
-
-#### Base Case
-
-* It's an input to our algorithm that's often known in O\(1\) time.
-* It provides the knowledge we need to solve recursive cases.
-
 ## Matrix Multiplication
 
 $$
@@ -65,7 +36,7 @@ $$
 \end{bmatrix}
 $$
 
-### How To Multiply A Matrix
+### Understanding The Problem
 
 If you're completely new to this like I was, this [video](https://www.youtube.com/watch?v=2spTnAiQg4M) is super helfpul!
 
@@ -81,7 +52,7 @@ If you're completely new to this like I was, this [video](https://www.youtube.co
 
 
 
-### Running Time
+### Different Approaches
 
 {% tabs %}
 {% tab title="Brute Force" %}
@@ -90,9 +61,13 @@ To perform `A x B`, the straightforward algorithm is `Θ(n^3)`.
 * We have to multiply one row by one column. That takes `O(n)` time.
 * Then we have to add up those numbers. `O(n)`
 * Then we have to do that for all the other columns. `Θ(n)` time.
+
+$$
+T(n) = O(n^3)
+$$
 {% endtab %}
 
-{% tab title="Divide & Conquer Improvements" %}
+{% tab title="Divide & Conquer" %}
 {% hint style="info" %}
 Assume we're using a 4x4 matrix. _See her video at 4:40_
 {% endhint %}
@@ -104,11 +79,53 @@ Assume we're using a 4x4 matrix. _See her video at 4:40_
   * Conquering makes 8 recursive calls ⇒`8T(n/2)`
   * Combining takes time to add `n/2` x `n/2` matrices four times ⇒ Θ\(n^2\) time.
 
+When this is all set and done, we find that the run time is:
+
 $$
-T(n) = 8T\left (\frac{n}{2}  \right )+Θn^2
+T(n) = 8T\left (\frac{n}{2}  \right )+Θ\left (n^2 \right)
 $$
+
+#### Master Theorem
+
+![Source: Brilliant, Master Theorem](../.gitbook/assets/image.png)
+
+Roughly, this theorem says:
+
+![Source: Dr. Zhongmei Yao&apos;s Slides](../.gitbook/assets/image%20%281%29.png)
+
+Here, `a=8`, `b=2`, and `f(n) = n^2`. We'll compare `f(n) = n^2` `to n^{\log_{b}a}`. Let's solve for that now:
+
+$$
+n^{\log_{b}a} \rightarrow n^{\log_{2}8} \rightarrow n^3
+$$
+
+Now we'll compare to find out which case we want to use.
+
+$$
+[f(n)] \approx ? [\log_{b}(n)] \rightarrow n^2 < n^3 \rightarrow \texttt{Use Case A}
+$$
+
+#### Conclusion
+
+Therefore, we can conclude the running time is:
+
+$$
+T(n) = Θ(n^3)
+$$
+
+Which, unfortunately, is the same running time as our brute force method.
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+Something
+
+
 
 
 
@@ -117,4 +134,5 @@ $$
 1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(\)._
 2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
 3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4, 15**_\).
+4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms&chapter=complexity-runtime-analysis)
 
