@@ -12,7 +12,7 @@
 * [Lecture 05: Divide and Conquer Analysis](lectures/lecture-05-divide-and-conquer-analysis.md)
 * [Lecture 06: Dynamic Programming Fundamentals](lectures/lecture-06-dynamic-programming-fundamentals.md)
 * [Lecture 07: Dynamic Programming](lectures/lecture-07-dynamic-programming.md)
-* [Interlude: Q&A Session 03](lectures/interlude-q-and-a-session-03.md)
+* [Problem Session: Dynamic Programming](lectures/interlude-q-and-a-session-03.md)
 
 ## Assignments
 

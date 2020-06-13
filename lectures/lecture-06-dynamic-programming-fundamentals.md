@@ -221,7 +221,7 @@ class fibonacci
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Four-step method.\)._
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Four-step method\)._
 2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Quick sort video\)_
 3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4, 15**_\).
 4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms&chapter=complexity-runtime-analysis)
