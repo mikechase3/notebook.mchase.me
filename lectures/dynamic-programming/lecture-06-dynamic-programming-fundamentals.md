@@ -93,11 +93,11 @@ $$
 
 #### Master Theorem
 
-![Source: Brilliant, Master Theorem](../.gitbook/assets/image.png)
+![Source: Brilliant, Master Theorem](../../.gitbook/assets/image.png)
 
 Roughly, this theorem says:
 
-![Source: Dr. Zhongmei Yao&apos;s Slides](../.gitbook/assets/image%20%281%29.png)
+![Source: Dr. Zhongmei Yao&apos;s Slides](../../.gitbook/assets/image%20%281%29.png)
 
 Here, `a=8`, `b=2`, and `f(n) = n^2`. We'll compare `f(n) = n^2` `to n^{\log_{b}a}`. Let's solve for that now:
 
@@ -150,7 +150,7 @@ $$
 
 We'll use the master theorem again to compare `f(n) = Θ(n^2)` to `n^{log_b(a)} = 2.81` and we'll clearly be using case a.
 
-![Source: Dr. Yao&apos;s Notes](../.gitbook/assets/image%20%283%29.png)
+![Source: Dr. Yao&apos;s Notes](../../.gitbook/assets/image%20%283%29.png)
 
 Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better.
 

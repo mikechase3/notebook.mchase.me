@@ -260,11 +260,11 @@ class Solution {
 
 ## Master Theorem
 
-![Source: Brilliant Wiki Master Theorem](../.gitbook/assets/image.png)
+![Source: Brilliant Wiki Master Theorem](../../.gitbook/assets/image.png)
 
 Roughly, this means:
 
-![Source: Dr. Yao&apos;s Slides](../.gitbook/assets/image%20%283%29.png)
+![Source: Dr. Yao&apos;s Slides](../../.gitbook/assets/image%20%283%29.png)
 
 {% hint style="info" %}
 T\(n\) is the worst case running time on the problem. **n** is the problem size. **a** is the number of sub problems. **n/b** is the size of each subproblem. **f\(n\)** is the worst-case running time for the divide & combination step.
