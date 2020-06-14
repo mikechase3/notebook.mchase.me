@@ -1,10 +1,14 @@
 # Python Crash Course
 
-## Work Cited: [Srebalaji Thirumala](https://www.freecodecamp.org/news/author/srebalaji/) \| FreeCodeCamp <a id="title-holder"></a>
+## Work Cited: [Srebalaji Thirumala](https://www.freecodecamp.org/news/author/srebalaji/) \| [FreeCodeCamp](https://www.freecodecamp.org/donate/) <a id="title-holder"></a>
 
 I straight-up copied and pasted all of this material. I'm allowed to use it because it's open source. Please check out \(and donate to\) freeCodeCamp.org and view this specific article [here](https://www.freecodecamp.org/news/python-crash-course/). 
 
 FreeCodeCamp - I'm 99% sure I'm free to copy/past this content. It even says I can use this for educational purposes for classes in your FAQs. If you have a problem with this, I will gladly take it down upon request at me @ \[thisDomainName: mchase.me\].
+
+{% hint style="info" %}
+Things that appear in 'info' boxes like this one are written by me, Mike Chase. I've also touched up on formatting just a tad.
+{% endhint %}
 
 ## Python crash course <a id="title-holder"></a>
 
@@ -67,7 +71,7 @@ print(type(msg_from_computer)) # <type 'str'>. We will see the explanation of th
 
 Be careful in Concatenation:
 
-```text
+```python
 count = 5
 
 print("I need" + count + "chocolates") # This line will throw error. As count is a integer, you have to type cast it.
@@ -77,7 +81,7 @@ print("I need" + str(count) + "chocolates") # This will work
 
 #### Bool
 
-```text
+```python
 True # First letter is caps
 
 False
@@ -94,7 +98,7 @@ bool(1) # Returns True
 
 Lists are basically like arrays. In the Python world, they call them `List`. And they are ordered.
 
-```text
+```python
 numbers = ["one", "two", "three"]
 
 numbers[0] # one
@@ -159,7 +163,7 @@ another_alpha = alpha # This is not copying the array. Any changes in alpha will
 
 Tuples are just like lists but they are **immutable.** This means you can’t add or update them. You can just read elements. And remember, like lists, Tuples are also sequential.
 
-```text
+```python
 nums = (1, 2, 3)
 
 print(nums) # (1, 2, 3)
@@ -186,7 +190,7 @@ print(new_tuple) # (1, 2, 3, 'a')
 
 Sets are unordered collections with no duplicate elements.
 
-```text
+```python
 alpha = {'a', 'b', 'c', 'a'}
 
 print(alpha) # set(['a', 'c', 'b']) As you can see, duplicates are removed in sets. And also the output is not ordered.
@@ -215,7 +219,7 @@ alpha.discard('a') # It's safer to use discard than remove. Discard will never t
 
 Dictionaries are key-value maps in Python. They're unordered.
 
-```text
+```python
 user = {'id': 1, 'name': 'John wick', 'email': 'john@gmail.com'}
 
 user['id'] # 1
@@ -260,7 +264,11 @@ user = {
 
 You likely already know how the `if..else` statement works. But let's see an example here:
 
-```text
+{% hint style="info" %}
+Else if statements are abbreviated elif. We use and, or, and not instead of &&, \|\|, and ! Be careful with indentation. There is also some short-hand if/else statements at the end that seem useful.
+{% endhint %}
+
+```python
 a = 5
 b = 10
 
@@ -297,6 +305,25 @@ if a == 5: print('A is five')
 print('A is five') if a == 5 else print('A is not five')
 ```
 
+{% hint style="danger" %}
+Don't use braces for if/else statements. Just use proper indenting.
+
+```python
+if x < 0:
+    x = 0
+    print("I'm still in the if statement")
+    
+else if x=0{
+    #This will throw an error & won't compile... 
+    #if Python is even a compiled language which I think it is. 
+    print("This doesn't work")
+}
+
+else:
+    print("Indented code here")
+```
+{% endhint %}
+
 ### Loops
 
 Python has two types of loops:
@@ -306,7 +333,11 @@ Python has two types of loops:
 
 #### while loops
 
-```text
+{% hint style="info" %}
+While loops have an _else_ part that executes when the loop is completed \(unless you break\).
+{% endhint %}
+
+```python
 # The following while print till 5. Remember the indentation.
 i = 0
 while i <= 5:
@@ -356,7 +387,15 @@ else:
 
 #### For loops
 
-```text
+{% hint style="danger" %}
+Mike Chase: Start reviewing from here!
+{% endhint %}
+
+{% hint style="info" %}
+You iterate over items instead of using \(int i = 0; i &lt; arr.length; i++\){...}
+{% endhint %}
+
+```python
 # For loops like for(i=0; i<5; i++) are not mostly used in Python. Instead, Python insists on iterating over items
 
 arr = ['a', 'b', 'c', 'd', 'e']

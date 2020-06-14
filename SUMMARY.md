@@ -15,7 +15,7 @@
   * [Lecture 05: Divide and Conquer Analysis](lectures/divide-and-conquer/lecture-05-divide-and-conquer-analysis.md)
 * [Dynamic Programming](lectures/dynamic-programming/README.md)
   * [Lecture 06: Dynamic Programming Fundamentals](lectures/dynamic-programming/lecture-06-dynamic-programming-fundamentals.md)
-  * [Lecture 07: Dynamic Programming](lectures/dynamic-programming/lecture-07-dynamic-programming.md)
+  * [Lecture 07: Longest Common Subsequence](lectures/dynamic-programming/lecture-07-dynamic-programming.md)
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/interlude-q-and-a-session-03.md)
   * [Lecture 08: Dynamic Programming](lectures/dynamic-programming/lecture-08-dynamic-programming.md)
 
