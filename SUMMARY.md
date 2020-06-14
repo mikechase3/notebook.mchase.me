@@ -21,3 +21,12 @@
 
 ## AWS Machine Learning
 
+* [Understanding Learning](understanding-learning/README.md)
+  * [Artificial Intelligence](understanding-learning/artificial-intelligence.md)
+  * [Machine Learning](understanding-learning/machine-learning.md)
+  * [Deep Learning](understanding-learning/deep-learning.md)
+
+## Languages
+
+* [Python Crash Course](languages/python-crash-course.md)
+
