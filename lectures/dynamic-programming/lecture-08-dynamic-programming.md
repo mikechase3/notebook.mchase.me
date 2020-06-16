@@ -71,5 +71,73 @@ $$
 I've got no idea what this formula means.
 {% endhint %}
 
+### Decomposition Table
 
+* Once we solve a smaller problem, we need to place it into a table. 
+
+| Item / Weight | 0 | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 3 | 3 | 3 | 3 |
+| 2 | 0 | 0 | 3 | 4 | 4 | 7 |
+| 3 |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |
+
+{% hint style="danger" %}
+I don't understand this decomposition table.
+{% endhint %}
+
+### Solution to Maximize B\[n,w\]
+
+* Once we solve something, we need to put it in a table. 
+
+```java
+for w = 0 to W
+    B[0, w] = 0
+for i = 1 to n
+    B[i,0];
+for i = 1 to n
+    for i = 1 to n
+        if wi ≤ w //item i can be part of the solution
+            B[i,w] = bi + B[i-1, w-wi] //Add item i.
+        else
+            B[i,w] = B[i-1,w]
+    else B[i,w] = B[i-1,w] //wi > w; does not add item i.
+```
+
+## Optimal Binary Search Tree With Minimum Search Cost
+
+### Problem
+
+Given the sequence $$K = \{k_1, k_2, ..., k_n\}$$ of `n` distinct keys:
+
+* AND sorted $$k_1 < k_2 < ... < k_n$$ 
+* AND the probability of searching $$k_i \texttt{ is } p_i$$ 
+
+The goal is to create a binary search tree with minimum expected search cost.
+
+* The number of items examined ⇒Actual cost.
+* For key $$k_i$$ the cost is equal to $$\texttt{depth}_T (k_i) + 1$$ , where $$\texttt{depth}_t(k_i) = \texttt{depth of }k_i$$ in BST _T_ \(the root has depth 0\).
+* The expected cost of search a key in the tree:
+
+$$
+\sum_{i=1}^{n}(\texttt{depth}_T(k_i) + 1) \cdot p_i
+$$
+
+$$
+\sum_{i=1}^{n}\texttt{depth}_T(k_i) + 1 \cdot p_i + \sum_{i=1}^{n}p_i
+$$
+
+{% hint style="warning" %}
+Why are there two equations? What do these mean \(ahhhh\)
+{% endhint %}
+
+{% hint style="info" %}
+Left of at 39:00 in the video.
+{% endhint %}
+
+## Works Cited
+
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Table content and solution\)._
+2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Nothing yet, but I'm sure I'll use it when I review.\)_
 
