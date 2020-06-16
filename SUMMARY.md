@@ -29,4 +29,5 @@
 ## Languages
 
 * [Python Crash Course](languages/python-crash-course.md)
+* [Swift Cheat Sheet](languages/swift-cheat-sheet-1.md)
 
