@@ -2,7 +2,7 @@
 description: 'We present and discuss further examples. Left off around 14:08.'
 ---
 
-# Lecture 07: Longest Common Subsequence
+# Lecture 07: Longest Common Subsequence & Max Subarray
 
 ## Recall: Four Step Method
 
@@ -26,6 +26,8 @@ $$
 {% hint style="warning" %}
 A subsequence doesn't have to be consecutive, but it has to be in order.
 {% endhint %}
+
+### The Solutions
 
 {% tabs %}
 {% tab title="Brute Force" %}
@@ -125,6 +127,49 @@ class Solution {
 Obviously, this is way better than brute force.
 {% endtab %}
 {% endtabs %}
+
+## Maximum Subarray Problem
+
+### Divide and Conquer Methodology
+
+Recall the [maximum subarray problem](../divide-and-conquer/lecture-05-divide-and-conquer-analysis.md#maximum-contiguous-subarray-problem) from lecture 05:
+
+* Goal: find the largest sum within the entire array. Like a stock market, after what day should we have sold the stock?
+* Solve it using divide/conquer by splitting arrays into half, calculating individual sums and merging them... somehow. I forgot.
+* The running time is: `T(n) = 2T(n/2) + O(n)`.
+  * `2`: Left and right half.
+  * `n/2` because it's just half of the array.
+  * `O(n)` because we have to check all the numbers when merging it together.
+* By the master theorem: `T(n) = O(n*log(n))`
+
+### Dynamic Approach Solution
+
+> * Items in a subarray must be consecutive.
+> * If adding nums\[i\] to s\[i-1\] is not bigger than nums\[i\] itself, simply let's have a new subarray starting with nums\[i\].
+
+Below is the dynamic approach solution:
+
+> ```java
+> int[] s = new int[nums.length];
+> s[0] = nums[0]; //s[i]: sum of items in a subarray of nums[0,i]
+> int max = nums[0]; //Keep track of the maximum sum.
+>
+> for (int i = 1; i < nums.length; i++){
+>     s[i] = Math.max(nums[i], s[i-1] + nums[i]);
+>     if (s[i] > max)
+>         max = s[i];
+> }
+> return max
+> ```
+>
+> _Source: Dr. Yao's Notes_
+
+* The run time is now `O(n)` instead of `O(n * log(n))`
+
+## Works Cited
+
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Maximum Subarray problem & solution\)._
+2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Longest Common Sub-Sequence Problem & Solution\)_
 
 
 

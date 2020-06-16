@@ -2,7 +2,7 @@
 description: 'Finished for the day at 17:00'
 ---
 
-# Lecture 06: Dynamic Programming Fundamentals
+# Lecture 06: Matrix Multiplication & Fibonacci
 
 ## Dynamic Programming Fundamentals
 
