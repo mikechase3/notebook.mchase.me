@@ -41,6 +41,10 @@ Because there are n letters, there are `2^n` subsequences, worst case.
 {% endtab %}
 
 {% tab title="Recursive Solution" %}
+{% hint style="info" %}
+From: [longest common subsequence](https://www.youtube.com/watch?v=ASoaQq66foQ) from Back to Back SWE.
+{% endhint %}
+
 ### Sub Problems
 
 When we want to break a problem into smaller sub-problems, oftentimes, we **start at the end** and work backwards. Let's look at an example. Say we have two substrings: `size = lcs("aab", "azb")`.
@@ -66,7 +70,52 @@ So, recursively of course, we now look at smaller problems and there are again t
 
 ![](../../.gitbook/assets/dynamic-programming-sub-problem-subsequence-decomposition.jpeg)
 
-## Complexity
+#### Bottom-Up Solution
+
+```java
+class Solution {
+  public int longestCommonSubsequenceLength(String s1, String s2) {
+    /*
+     * s2 will be on the rows, s1 will be on the columns.
+     * 
+     * +1 to leave room at the left for the "".
+     */
+    int cache[][] = new int[s2.length() + 1][s1.length() + 1];
+
+    /*
+     * cache[s2.length()][s1.length()] is our original subproblem. Each entry in the
+     * table is taking a substring operation against whatever string is on the rows
+     * or columns.
+     * 
+     * It goes from index 0 to index s2Row/s1Col (exclusive)
+     * 
+     * So if my s1 = "azb" and s1Col = 2...then my substring that I pass to the
+     * lcs() function will be:
+     * 
+     * 0 1 2 "a  z  b"
+     * 
+     * "az" (index 2...our upper bound of the snippet...is excluded)
+     */
+    for (int s2Row = 0; s2Row <= s2.length(); s2Row++) {
+      for (int s1Col = 0; s1Col <= s1.length(); s1Col++) {
+        if (s2Row == 0 || s1Col == 0) {
+          cache[s2Row][s1Col] = 0;
+        } else if (s2.charAt(s2Row - 1) == s1.charAt(s1Col - 1)) {
+          cache[s2Row][s1Col] = cache[s2Row - 1][s1Col - 1] + 1;
+        } else {
+          cache[s2Row][s1Col] = Math.max(
+            cache[s2Row - 1][s1Col], cache[s2Row][s1Col - 1]
+          );
+        }
+      }
+    }
+
+    return cache[s2.length()][s1.length()];
+  }
+}
+```
+
+#### Complexity
 
 * n=s1.len
 * m=s2.len
@@ -76,6 +125,8 @@ So, recursively of course, we now look at smaller problems and there are again t
 Obviously, this is way better than brute force.
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
