@@ -31,6 +31,10 @@ What do we want to take? We want to be as rich as possible, so we must **maximiz
   * That means there are two choices per each item.
   * That means there are `2^n` possible combinations of items.
 
+{% hint style="warning" %}
+I don't understand anything after this.
+{% endhint %}
+
 ### The Subproblem 
 
 | Symbol | Meaning |
@@ -47,5 +51,25 @@ $$
 
 The subproblem is to compute the maximum value by choosing items from `1, 2, ...k`, up to the weight limit `w`. 
 
-\*\*\*\*
+For example, `B[2, 3]` means the maximum value when we consider items `1` and `2` with a weight limit of `3`.
+
+### Recursive Formula
+
+> * Item k's weight $$W_k$$ &lt; w. Item _k_ cannot be part of the solution
+> * Case $$w_k ≤ w$$. Item k should be in the solution if it increases the total value.
+
+$$
+B[k,w] =
+
+\begin{Bmatrix}B[k-1, w] \texttt{ if } w_k > w
+ & \\ \texttt{max} \{B[k-1], w], B[k-1, w-w_k]+b_k\} \texttt{ else}
+ &
+\end{Bmatrix}
+$$
+
+{% hint style="danger" %}
+I've got no idea what this formula means.
+{% endhint %}
+
+
 
