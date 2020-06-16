@@ -31,7 +31,21 @@ What do we want to take? We want to be as rich as possible, so we must **maximiz
   * That means there are two choices per each item.
   * That means there are `2^n` possible combinations of items.
 
-### Dynamic Approach
+### The Subproblem 
+
+| Symbol | Meaning |
+| :--- | :--- |
+| B\[x, y\] | The maximum value when choosing from `k` items. |
+| k | Represents an item: `1, 2, ..., k` |
+| w | The weight limit of that particular item. |
+
+$$
+\texttt{Item 1: }w_1 = 2 \texttt{ pounds, } b_1 = \texttt{\$}3
+$$
+
+
+
+The subproblem is to compute the maximum value by choosing items from `1, 2, ...k`, up to the weight limit `w`. 
 
 \*\*\*\*
 
