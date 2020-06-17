@@ -10,32 +10,7 @@
 Work I created and comments I added are placed in hints that look like these.
 {% endhint %}
 
-## Table Of Contents
 
-* [Variables]()
-* [Functions]()
-* [Operators]()
-* [Classes, Objects, Properties]()
-* [Structs]()
-* [Control Flow]()
-  * [Conditionals]()
-  * [Loops]()
-  * [Switch]()
-* [Strings]()
-* [Optionals]()
-* [Collections]()
-  * [Arrays]()
-  * [Dictionaries]()
-  * [Sets]()
-* [Closures]()
-* [Guard and Defer]()
-  * [Guard]()
-  * [Defer]()
-* [Generics]()
-* [Tuples]()
-* [Enumerations]()
-* [Error Handling]()
-* [Resources]()
 
 ## Variables
 
