@@ -10,7 +10,7 @@
 Work I created and comments I added are placed in hints that look like these.
 {% endhint %}
 
-
+See also: Ray Wenderlich [Cheat Sheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Swift-5.1-Cheatsheet-1.0.1.pdf) if you're looking for something even more condensed. 
 
 ## Variables
 
