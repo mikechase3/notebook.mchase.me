@@ -16,7 +16,7 @@ Now, in order to feed yourself, you want to take the most expensive items and se
 | :--- | :--- | :--- | :--- | :--- |
 | Nintendo Switch Lite | 1 | 6 lb. | $200 | $33.33 |
 | Camera | 1 | 10 lb. | $300 | $30 |
-| Mechanical Pencils | 1 | 1 lb. | $6 | $30 |
+| Mechanical Pencils | 1 | 1 lb. | $6 | $6 |
 | Blade-less Fans | 1 | 5 lb. | $200 | $40 |
 | Red Bull | 1 | 10 lb. | $40 | $4 |
 | Off-Brand Laptops | 1 | 10 lb. | $150 | $15 |
