@@ -75,7 +75,7 @@ I've got no idea what this formula means.
 
 * Once we solve a smaller problem, we need to place it into a table. 
 
-| Item / Weight | 0 | 1 | 2 | 3 | 4 | 5 |
+| Item ↓ \| Weight 👉 | 0 | 1 | 2 | 3 | 4 | 5 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | 0 | 0 | 3 | 3 | 3 | 3 |
@@ -113,6 +113,10 @@ Given the sequence $$K = \{k_1, k_2, ..., k_n\}$$ of `n` distinct keys:
 
 * AND sorted $$k_1 < k_2 < ... < k_n$$ 
 * AND the probability of searching $$k_i \texttt{ is } p_i$$ 
+
+{% hint style="warning" %}
+I don't know what the probability of searching means. 
+{% endhint %}
 
 **The goal is to create a binary search tree with minimum expected search cost.**
 
