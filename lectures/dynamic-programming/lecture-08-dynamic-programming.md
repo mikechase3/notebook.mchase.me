@@ -114,7 +114,7 @@ Given the sequence $$K = \{k_1, k_2, ..., k_n\}$$ of `n` distinct keys:
 * AND sorted $$k_1 < k_2 < ... < k_n$$ 
 * AND the probability of searching $$k_i \texttt{ is } p_i$$ 
 
-The goal is to create a binary search tree with minimum expected search cost.
+**The goal is to create a binary search tree with minimum expected search cost.**
 
 * The number of items examined ⇒Actual cost.
 * For key $$k_i$$ the cost is equal to $$\texttt{depth}_T (k_i) + 1$$ , where $$\texttt{depth}_t(k_i) = \texttt{depth of }k_i$$ in BST _T_ \(the root has depth 0\).
@@ -132,12 +132,39 @@ $$
 Why are there two equations? What do these mean \(ahhhh\)
 {% endhint %}
 
-{% hint style="info" %}
-Left of at 39:00 in the video.
+### Solution
+
+{% hint style="warning" %}
+What do these even mean? i and pi and kr?
 {% endhint %}
+
+* We take the full problem with a range of $$k_i \text{ to }k_j$$ and divide it up into two parts: $$k_i \text{ to } k_{r-1}$$ and $$k_{r+1} \text{ to } k_j$$ 
+
+![Source: Dr. Yao&apos;s Slides](../../.gitbook/assets/image%20%289%29.png)
+
+If we consider the subproblem: `k1, k2, k3:`
+
+> * $$k_1$$ in the root, left subtree of root is empty,  $$\{k_2 \text{, } k_3\}$$ is on right subtree of the root:
+>   * The optimal BST for {k2, k3} is already solved with a cost of 0.3
+>   * So the cost for {k1, k2, k3} with k1 as root is 0 \(from empty left-subtree\) + 0.3 \(from right-subtree\) + p1 + p2 + p3 = 0.8
+> * k2 in root, {k1} is on the left subtree of the root, k3 is on the right subtree
+>   * So the cost is 0.25 from left subtree + 0.05 from the right subtree + p1 + p2 + p3 = 0.8
+> * k3 in root, {k1, k2} is on left subtree of the root, right subtree is empty.
+>   * The optimal tree for {k1, k2} is already solved, with cost 0.65
+> * Select 1 or 2 as optimal BST for {k1, k2, k3}
+
+{% hint style="warning" %}
+At this point, I'm so far gone that I just put this here.
+{% endhint %}
+
+![Source: Dr. Yao](../../.gitbook/assets/image%20%287%29.png)
+
+![Source: Dr. Yao&apos;s Slides](../../.gitbook/assets/image%20%288%29.png)
+
+
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Table content and solution\)._
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Table content, solutions, and full slides. TODO: Remove\)._
 2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Nothing yet, but I'm sure I'll use it when I review.\)_
 

@@ -18,6 +18,7 @@
   * [Lecture 07: Longest Common Subsequence & Max Subarray](lectures/dynamic-programming/lecture-07-dynamic-programming.md)
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/interlude-q-and-a-session-03.md)
   * [Lecture 08: Knapsack Problem](lectures/dynamic-programming/lecture-08-dynamic-programming.md)
+  * [Problem Session: Dynamic Programming](lectures/dynamic-programming/problem-session-dynamic-programming.md)
 
 ## AWS Machine Learning
 
