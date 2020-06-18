@@ -375,6 +375,81 @@ switch weather
 }
 ```
 
+{% hint style="info" %}
+Here's a more simple example:
+
+```java
+switch city {
+  case "Rapa Nui":
+    print("Moai 🗿")
+  case "New York":  
+    print("Statue of Liberty 🗽")
+  case "Rome":
+    print("Colosseum 🏛")
+  default: 
+    print("A famous landmark is the Eiffel Tower!")
+}
+```
+
+You can also use intervals like this:
+
+```swift
+var year = 1943
+
+switch year {
+  case 1701...1800:
+    print("18th century") 
+  case 1801...1900:
+    print("19th century")
+  case 1901...2000: 
+    print("20th century")
+  case 2001...2100: 
+    print("21st century")
+  default: 
+    print("You're a time traveler!")
+} 
+// Prints: 20th century
+
+```
+
+Or, if you have multiple values, you can separate them with a comma:
+
+```swift
+var country = "India"
+
+switch country {
+  case "USA", "Mexico", "Canada":
+    print("\(country) is in North America. 🌏")
+  case "South Africa", "Nigeria", "Kenya":
+    print("\(country) is in Africa. 🌍")
+  case "Bangladesh", "China", "India":
+    print("\(country) is in Asia. 🌏")
+  default: 
+    print("This country is somewhere in the world!")
+} 
+// Prints: India is in Asia. 🌏
+```
+
+The where clause:
+
+```swift
+var randomNumber = Int.random(in: 0...10)
+
+switch randomNumber {
+  case let x where x % 2 == 0:
+    print("\(randomNumber) is even")
+  case let x where x % 2 == 1:
+    print("\(randomNumber) is odd")
+  default:
+    print("Invalid")
+}
+```
+
+Check out [Codecademy](https://www.codecademy.com), which is where these code blocks came from.
+{% endhint %}
+
+
+
 In Swift, `switch` statements don't have an implicit _fall-through_, but you can use `fallthrough` explicitly. Every case needs to have at least one line of code in it. You don't have to use a `break` explicitly to end a case.
 
 The `switch` cases need to be _exhaustive_. For example, when working with an `enum`, you'll need to incorporate every value in the enumeration. You can also provide a `default` case, which is similar to `else` in a conditional.
