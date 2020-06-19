@@ -30,9 +30,66 @@
 
 ### Types of Neural Networks
 
+![](../.gitbook/assets/image%20%2812%29.png)
+
+#### Feedforward Network
+
+* Data moves from one input to output without working backwards.
+* Doesn't form a cycle between neurons.
+
+#### Recurrent Networks
+
+* Became much more popular after 2007.
+* Speech recognition programs, text to speech, handwriting.
+
+### Industry Domains and Use Cases
+
+* Text analysis: analyzing mood, feelings, etc.
+* Time series & predictive analysis
+* Sound Analysis \(e.g. Automotive and engineering for fluid motion\)
+* Image analysis \(Tagging and identifying people in pictures\)
+
+## Amazon API Services
+
+### Amazon Lex
+
+* Conversational engine
+* Speech to text.
+* Natural language understanding to understand the intent of the input.
+
+### Amazon Polly
+
+* Lifelike Speech
+
+### Amazon Rekognition
+
+* Search and compare faces
+* Recognize people.
+
+## Deep Learning AMI
+
+* Supports existing deep learning frameworks at scale.
+* It helps you get started quickly.
+
+### Getting Started
+
+* One-click deploy from the AWS Marketplace
+* GPU for large-scale training
+* CPUs for interences.
+* Launch an AWS Learning Template.
 
 
-{% hint style="info" %}
-Left off on "What is Deep Learning? 5:25
-{% endhint %}
+
+## Amazon Linux
+
+* It's a linux image provided by AWS for use on AMazon Elastic Compute Cloud.
+* It makes AWS Integration easier.
+
+## C-Span Case Study
+
+They did amazing things with the ability to upload tons of faces!
+
+
+
+
 
