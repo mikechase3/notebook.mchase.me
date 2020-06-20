@@ -16,6 +16,12 @@
 * Written in the past tense.
 * Brief, 50 characters or less.
 
+## Getting started
+
+* Checkout [this](https://www.codecademy.com/paths/computer-science/tracks/cspath-development-skills/modules/learn-git-git-workflow-u/articles/f1-u3-git-setup) article for how to get started with git and Github
+* It's focused on syncing, not the commands or anything.
+* There are also some [videos](https://www.codecademy.com/paths/computer-science/tracks/cspath-development-skills/modules/learn-git-git-workflow-u/articles/getting-started-git-and-github) which might be helpful.
+
 ## Work Cited
 
 * Codecademy's bash/terminal course. There's a [cheatsheet](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-development-skills/modules/learn-git-git-workflow-u/cheatsheet) too - though I don't think it's that good.
