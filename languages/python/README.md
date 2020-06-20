@@ -115,7 +115,20 @@ Am I projecting? Sorry.
 """
 ```
 
+## Functions
 
+### Returning Multiple Values
+
+We can return multiple values. It's so amazing!
+
+```python
+def get_boundaries(target, margin):
+  low_limit = target-margin
+  high_limit = margin+target
+  return low_limit, high_limit
+
+low_limit, high_limit = get_boundaries(100, 20)
+```
 
 
 
