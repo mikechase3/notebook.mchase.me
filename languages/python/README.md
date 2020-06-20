@@ -130,5 +130,18 @@ def get_boundaries(target, margin):
 low_limit, high_limit = get_boundaries(100, 20)
 ```
 
+### Default Values
 
+* When specifying parameters, you can assign default values.
+* Here, if nothing is passed, `num_repeats` is assigned to 10 by default
+
+```python
+def repeat_stuff(stuff, num_repeats=10):
+  return stuff*num_repeats
+repeat_stuff("Row ", 3) #repeats 3 times because we specified that. 
+lyrics = repeat_stuff("Row ", 3) + "Your Boat. "
+song = repeat_stuff(lyrics)
+
+print(song) #Repeats 10 times because it uses the default value.
+```
 

@@ -41,3 +41,8 @@
   * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
 * [Swift Cheat Sheet](languages/swift-cheat-sheet-1.md)
 
+## Misc
+
+* [Bash](misc/bash.md)
+* [Git](misc/git.md)
+
