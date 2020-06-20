@@ -17,5 +17,105 @@ year = 1999
 runtime = 2
 ```
 
+## \#Comments
+
+```python
+#This is a Python comment
+//This is me being an idiot. #Thank God for syntax highlighting. 
+```
+
+## Math 🎲
+
+### Exponents
+
+Instead of `Math.pow(3, 2)` we have the `**` operator. 🔥
+
+```python
+# This keeps track of how many squares you need in quilts.
+
+# Calculation of squares for:
+# 6x6 quilt
+print(6**2) #This is 6^2
+# 7x7 quilt
+print(7**2)
+# 8x8 quilt
+print(8**2)
+# How many squares for 6 people to have 6 quilts each that are 6x6?
+print(6**4) #6^4
+```
+
+## Strings
+
+### Concatenation
+
+{% hint style="warning" %}
+This one always gets me.
+{% endhint %}
+
+You can't add non-strings to strings.
+
+```python
+print("Hello" + 3) //Error.
+
+print("Hello "+ (str) (3) //Hello 3
+
+--
+#Example: source codecademy
+birthday_string = "I am "
+age = 10
+birthday_string_2 = " years old today!"
+
+# Concatenating an integer with strings is possible if we turn the integer into a string first
+full_birthday_string = birthday_string + str(age) + birthday_string_2
+
+# Prints "I am 10 years old today!"
+print(full_birthday_string)
+
+# If we just want to print an integer 
+# we can pass a variable as an argument to 
+# print() regardless of whether 
+# it is a string.
+
+# This also prints "I am 10 years old today!"
+print(birthday_string, age, birthday_string_2)
+```
+
+### Multi-Line Strings
+
+It's just like swift.
+
+```python
+my_sad_poem = """
+Roses are red
+Violets are blue.
+I like learning python.
+But I wish I was doing it with you.
+
+(Didn't realize what I said until after I wrote it)
+(Please submit inquires at me@mchase.me)
+(I should make a dating website for myself).
+(Instead of hello cupid it'll be like hello Mike Chase)
+
+(and I'll be lonely forever)
+
+(But I'll know a lot of Python).
+
+And COBOL. You know how lonely I am?
+I know some COBOL. That's how lonely I am.
+
+You know...
+Maybe it's time for a girlfriend.
+
+I always say I don't have time for one.
+But I also spend time learning COBOL.
+
+I've never been so useful and useless at the same time.
+
+Am I projecting? Sorry.
+"""
+```
+
+
+
 
 
