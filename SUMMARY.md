@@ -36,6 +36,8 @@
 
 ## Languages
 
-* [Python Crash Course](languages/python-crash-course.md)
+* [Python](languages/python/README.md)
+  * [Language Crash Course](languages/python/python-crash-course.md)
+  * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
 * [Swift Cheat Sheet](languages/swift-cheat-sheet-1.md)
 
