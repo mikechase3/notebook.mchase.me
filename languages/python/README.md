@@ -7,15 +7,29 @@ description: >-
 
 # Python
 
-## Variable Names
+## Naming Conventions
+
+* Variables are lowercase.
+* Classes are uppercase.
+
+### Variables
 
 Python likes to name things with underscores, not camelCase.
 
 ```python
 # Define the release and runtime integer variables below:
 year = 1999
-runtime = 2
+runtime_of_crap = 2
 ```
+
+### Reveal Variable Type
+
+* Use the type\(\) function.
+* `print(type(what_is_this_mysterious_variable))`
+
+### Classes
+
+* Class names are upper case.
 
 ## \#Comments
 
@@ -143,5 +157,21 @@ lyrics = repeat_stuff("Row ", 3) + "Your Boat. "
 song = repeat_stuff(lyrics)
 
 print(song) #Repeats 10 times because it uses the default value.
+```
+
+## Expressions
+
+### Booleans
+
+{% hint style="warning" %}
+Use capital letters for `True` and `False`. 
+{% endhint %}
+
+```python
+statement_one = True
+
+statement_two = False
+
+statement_three = True
 ```
 

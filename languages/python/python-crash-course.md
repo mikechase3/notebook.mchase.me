@@ -40,7 +40,7 @@ Variables can contain letters, numbers, and underscores.
 
 #### Strings
 
-```text
+```python
 # This is comment in Python
 msg_from_computer = "Hello" # String
 another_msg ='Hello in single quote' # This is also a String.
