@@ -175,3 +175,18 @@ statement_two = False
 statement_three = True
 ```
 
+## Error Handling
+
+* You "raise" errors instead of throwing them.
+* You except errors instead of catching them.
+* Trying is still the same as Java.
+
+```python
+def raises_value_error():
+  try:
+    raise ValueError
+  except ValueError:
+    print("You raised a ValueError!")
+raises_value_error()
+```
+
