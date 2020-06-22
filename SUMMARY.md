@@ -19,6 +19,7 @@
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/interlude-q-and-a-session-03.md)
   * [Lecture 08: Knapsack Problem](lectures/dynamic-programming/lecture-08-dynamic-programming.md)
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/problem-session-dynamic-programming.md)
+  * [Programming Assignments](lectures/dynamic-programming/programming-assignments.md)
 
 ## AWS Machine Learning
 
@@ -39,6 +40,7 @@
 * [Python](languages/python/README.md)
   * [Language Crash Course](languages/python/python-crash-course.md)
   * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
+  * [Best Resource Ever](languages/python/best-resource-ever.md)
 * [Swift Cheat Sheet](languages/swift-cheat-sheet-1.md)
 
 ## Misc
