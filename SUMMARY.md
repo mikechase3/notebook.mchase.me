@@ -24,6 +24,8 @@
 * [Amortized Analysis](lectures/amortized-analysis/README.md)
   * [Lecture 10: Amortized Analysis](lectures/amortized-analysis/lecture-10-amoritized-analysis.md)
   * [Lecture 11: More Amortized Analysis](lectures/amortized-analysis/lecture-11-more-amortized-analysis.md)
+  * [Problem Session](lectures/amortized-analysis/problem-session.md)
+* [Midterm Preparation](lectures/midterm-preparation.md)
 
 ## AWS Machine Learning
 

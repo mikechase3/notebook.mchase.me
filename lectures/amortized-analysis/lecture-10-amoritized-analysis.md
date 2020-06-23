@@ -14,7 +14,7 @@
 
 ### What are Heaps?
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 > A heap is a binary tree storing keys at its internal nodes and satisfying the following properties:
 
