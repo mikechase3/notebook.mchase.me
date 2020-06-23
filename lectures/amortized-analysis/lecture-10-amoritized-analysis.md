@@ -93,6 +93,10 @@ Multipop(S, k)
 | Pop\(S\) | Pops the top item off the stack. |
 | Multipop\(S, k\) | Pop the top k elements, k ≤ size of S. |
 
+{% hint style="info" %}
+From Dr. Yao: When we use the notation \|S\|, that refers to the size of the stack. When we use ’S’, it means we’re referring to the size of the estack.
+{% endhint %}
+
 {% hint style="warning" %}
 I don't know what the parameters mean for the push\(S,x\) mean.
 {% endhint %}
