@@ -55,7 +55,87 @@ This may be viewed as the ultimate form of dynamic programming, in which only on
 
 The problem needs be more structured for this approach to work \(i.e., a matroid\)?
 
-## 
+## Fractional Knapsack Problem
+
+### Understanding the New Problem
+
+#### Recall: 0-1 Knapsack Problem
+
+* The items cannot be divided?
+* The thief must take the entire item or leave it behind.
+* Dynamic programming solution: _if item weights are an integer, the running time is `Θ(nW)`_
+
+#### What makes fractional different?
+
+* The thief can take partial items
+  * For instance, if items are liquids or powders
+* This is where we'll want to use the greedy algorithm approach.
+
+{% hint style="success" %}
+Summary: the fractional knapsack problem now lets us take fractions of items.
+{% endhint %}
+
+### The Greedy Approach
+
+1. Sort the items in decreasing order of value per pound. Rank them by value/weight: $$b_i/w_i$$ .
+2. While there is still room in the knapsack \(with a limit of _W_ pounds\):
+   1. Consider the next item in the sorted list
+   2. Take as much possible \(all there is or as much as what will fit\)
+
+```python
+def fracctional_knapsack(v, w, W):
+    load = 0
+    i = 1
+    while load < W and i ≤ n:
+        if initial_weight ≤ W-load:
+            take all of the item i
+        else:
+            take (W-load)/wi of item i #wi is w_i. (w sub i)
+            i = i + 1 #Add what was taken to load
+```
+
+{% hint style="warning" %}
+I don't understand what all these variables are.
+
+* W is the total amount of weight you can carry?
+* v \(I have no idea\)
+* w \(I have no idea\)
+* initial\_weight: why is this in the while loop? Is this how much space you have left?
+* i: Is this the total number of items that are available?
+* W\_i \(Sub i\): The weight of each item.
+{% endhint %}
+
+### Greedy Will Fail
+
+* Greedy will fail in general.
+  * The greedy choice property is that a globally optimal solution can be arrived at by making a local optimal \(greedy\) choice.
+* Greedy algorithms are easily designed, but correctness of the algorithm is harder to show.
+  * We'll later examine proofs.
+
+{% hint style="warning" %}
+Why did the knapsack problem fail? It seems like it will work.
+{% endhint %}
+
+## Matroids: An Abstract Structure
+
+> **Matroids** characterize a group of problems for which the greedy algorithm yields an optimal solution.
+
+### Notation Definitions
+
+| Symbol | Meaning |
+| :--- | :--- |
+| S | A finite set of items. |
+| F | A nonempty collection of subsets \(S\) |
+
+### Notation Examples
+
+$$
+Q: S=\{1, 2, 3\}
+$$
+
+
+
+
 
 ## Works Cited
 
@@ -63,5 +143,5 @@ The problem needs be more structured for this approach to work \(i.e., a matroid
 | :--- | :--- | :--- |
 | [Greedy Algorithms Fundamentals](https://backtobackswe.com/platform/content/greedy-algorithms-fundamentals) | Benyam Ephrem | Making Change Example |
 | [Erase Interval Overlaps](https://backtobackswe.com/platform/content/erase-interval-overlaps) | Back to Back Team | Problem, Solution |
-| Searching for the optimal solution | Dr. Yao | Her structure, what she said. |
+| Lecture Notes & Slides | Dr. Yao | Definitions, some problems/examples. ⚠️ |
 
