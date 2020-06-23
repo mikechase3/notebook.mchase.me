@@ -21,7 +21,9 @@
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/problem-session-dynamic-programming.md)
   * [Programming Assignments](lectures/dynamic-programming/programming-assignments.md)
 * [Lecture 09: Greedy Algorithms](lectures/greedy-algorithms.md)
-* [Amoritized Analysis](lectures/amoritized-analysis.md)
+* [Amortized Analysis](lectures/amortized-analysis/README.md)
+  * [Lecture 10: Amortized Analysis](lectures/amortized-analysis/lecture-10-amoritized-analysis.md)
+  * [Lecture 11: More Amortized Analysis](lectures/amortized-analysis/lecture-11-more-amortized-analysis.md)
 
 ## AWS Machine Learning
 
