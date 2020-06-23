@@ -64,5 +64,93 @@ Which algorithm design paradigm is exemplified by the longest palindromic substr
 * Dynamic programming.
 * It’s **O\(n^2\)**
 
+## Practice Problems
+
+{% hint style="info" %}
+See the PDF Dr. Yao attached on Isidore
+{% endhint %}
+
+### First Problem
+
+> If the set of stack operations included a multipush operation, which push k items onto the stack would the O\(1\) bound on the amoritized cost of stack operation continue to hold? Explain
+
+Push, pop, multipop\(k\), multipush\(k\)
+
+> We will consider n operations. We will figure out the cost for n operations. T\(n\)/n implies the amortized cost or the cost per operation.
+
+What if all n operations are multipush\(k\)? What is the total cost then?
+
+* We can assume that since each operation takes `O(k)`, we can multiply it by `n` operations, which means tot total cost is `O(n*k)`.
+* Multipop is still `O(1)` because it depends on the number of items we push on the stack.
+
+### Second Problem
+
+> Suppose we perform a sequence of stack operations on a stack whose size never exceeds k. After every k operations, we make a copy of the entire stack for backuip pusposes. Show that the cost of `n` stack operations, including the copying the stack, is O\(n\) by assigning suitable amoritized costs to the various stack operations.
+
+* It’s O\(n\) for the explanation above.
+
+### Accounting Method
+
+{% hint style="warning" %}
+I’m so confused.
+{% endhint %}
+
+> Suppose we perform a sequence of stack operations on a stack whose size never exceeds k. After every k operations, we make a copy of the entire stack for backup purposes. Show that the cost of n stack operations, including the copying the stack is O\(n\) by assigning suitable amortized costs to the various stack operations.
+
+#### Step 1: Assign Budget for Operations
+
+* Push, we assign $5
+* Pop, we assign $1
+* Copy, we assign $0.
+
+#### Step 2: We will show we have enough budget for n operations.
+
+After every `k` operations, we will have copy: K operations.
+
+* The push costs $1, so do we have savings here? _Yes, save $4._
+* Pop: costs $1, so do we have a savings here? _No, we save $0._
+
+We will show we have enough budget for `n` operations: after every k operations, we will have copy:
+
+* k operations
+* Push, cost $1, do we have saving here? Save $1? \(She crossedf out $4\)
+* Pop: Cost $1. ~~We can use $4 that we save via push for pop~~ save $1.
+
+> ”But you can see we saved enough money. Our bank balance is never negative.
+
+#### Summary
+
+We start from an arbitrary budget, but then we revise our budget to make our argument simple and strong.
+
+### Third Problem
+
+> Amortized anlysis determines the running time for a sequence of operations. Consider a FIFO queue that is implemented using two stacks:
+>
+> 1. Enqueue\(x\): push x onto stack1
+> 2. dequeue\(\): if stack2 is empty then pop the entire contents of stack1 pushing each element in turn onto stack 2. Now pop from stack2 and return the result.
+>
+> Enqueue\(A\), B, C
+>
+> dequeue\(\): Return A
+>
+> enqueue\(D\), E, F
+>
+> dequeue\(\): which tiem? Reutnr B.
+>
+> What is T\(n\), the cost of n operations?
+
+{% hint style="warning" %}
+I don’t know what this means.
+{% endhint %}
+
+> Recall stacks three operations: push, pop, and empty. Each having cost 1. Analyze the total cost \(i.e. running time of a sequence of `n` operations on the queue for n&gt;1. Initially, the queue is empty.
+
+* Our total cost is T\(n\).
+* Dr. Yao likes it because you can change your money as long as it’s a fixed number?
+
+### Wrap Up
+
+* We need to revize our budget to make our budget.
+
 
 
