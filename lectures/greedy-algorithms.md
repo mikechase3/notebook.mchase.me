@@ -1,4 +1,4 @@
-# Greedy Algorithms
+# Lecture 09: Greedy Algorithms
 
 ## Fundamentals
 
@@ -31,7 +31,7 @@ However, that greedy approach might not always be the best approach.
 ## Finding the Optimal Solutions
 
 {% hint style="info" %}
-I don't understand what's the point of this section. _\(Time: 00:15\)_
+I don't understand what this section is about.. _\(Time: 00:15\)_
 {% endhint %}
 
 | Method | Explanation |
@@ -133,9 +133,9 @@ $$
 Q: S=\{1, 2, 3\}
 $$
 
-
-
-
+{% hint style="danger" %}
+Left off at 15:00.
+{% endhint %}
 
 ## Works Cited
 
@@ -143,5 +143,5 @@ $$
 | :--- | :--- | :--- |
 | [Greedy Algorithms Fundamentals](https://backtobackswe.com/platform/content/greedy-algorithms-fundamentals) | Benyam Ephrem | Making Change Example |
 | [Erase Interval Overlaps](https://backtobackswe.com/platform/content/erase-interval-overlaps) | Back to Back Team | Problem, Solution |
-| Lecture Notes & Slides | Dr. Yao | Definitions, some problems/examples. ⚠️ |
+| Lecture Notes & Slides | Dr. Zhongmei Yao | Definitions, some problems/examples. ⚠️ |
 

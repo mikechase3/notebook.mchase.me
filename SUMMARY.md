@@ -20,7 +20,8 @@
   * [Lecture 08: Knapsack Problem](lectures/dynamic-programming/lecture-08-dynamic-programming.md)
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/problem-session-dynamic-programming.md)
   * [Programming Assignments](lectures/dynamic-programming/programming-assignments.md)
-* [Greedy Algorithms](lectures/greedy-algorithms.md)
+* [Lecture 09: Greedy Algorithms](lectures/greedy-algorithms.md)
+* [Amoritized Analysis](lectures/amoritized-analysis.md)
 
 ## AWS Machine Learning
 
