@@ -116,6 +116,7 @@ I don't understand what \|S\| is, or why it's in an absolute value bracket. She 
 * Show that a sequence of `n` operations takes T\(n\) time.
 * We can say that the amortized cost per operation ****is then T\(n\)/n
 * Makes no distinction between operation types.
+* T\(n\) is the time it takes to do `n` operations; and the n is the total operations.
 
 {% hint style="warning" %}
 I don't understand this at all. Where'd we get `T(n)/n` from. Doesn't T\(n\) depend on how many operations there are? Like if we make 10 copies of arrays, we'd have T\(10\*n\), so what's `T(n)`
@@ -125,35 +126,59 @@ And how can `T(n)` be divided by n if `T(n)` depends on what `n` is? Are they mi
 
 #### Simple Argument
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Argument of what?
 {% endhint %}
 
 > In a sequence of `n` operations, the stack never holds more than `n` elements. So the cost of a multipop is O\(n\).
->
+
+* So it's talking about any combination of operations.
+* You can do some pushes, some pops, in whatever order you want.
+
+
+
+{% hint style="info" %}
+The goal is to find out the worst-case running time of any `n` operations.
+{% endhint %}
+
 > The worst-case of any sequence of n operations is O\(n^2\). Hence, the amortized cost per operation is: $$O(n^2/n) = O(n)$$ .
 >
 > But this is an over-estimate!
 
+* We got the n^2 by saying n remove stack operations, and each operation is O\(n\).
+  * It's the maximum running time for completing n operations.
+* 
 {% hint style="warning" %}
 Why is it an overestimate? I thought the whole point of amortized analysis was so we don't have over-estimates.
 {% endhint %}
 
-### The Aggregate Method... Again?
+### Aggregate, cont.
 
 > Key idea: total number of elements popped in the entire sequence of n operations is at most the total number of pushes done for both pop and multipop.
 >
 > The maximum number of pushes is n.
->
-> So time for the entire sequence is O\(n\) + O\(n\)
+
+The maximum amount of work you can do is add `n` elements and remove `n` elements, so it's just `O(n) + O(n)`.
 
 * O\(n\) is for the pushes.
 * O\(n\) is for both pops and multipops.
 
+> So time for the entire sequence is O\(n\) + O\(n\)
+
 > And amortized cost per operation is  $$O(\frac{2n}{n}) = O(1)$$
+
+{% hint style="success" %}
+This doesn't tell you the running time of an algorithm, but the average running time of a whole bunch of operations. 
+{% endhint %}
 
 {% hint style="warning" %}
 How did she come to this conclusion? Where'd she get the 2n/n?
+{% endhint %}
+
+### Summary
+
+{% hint style="info" %}
+In Notes.
 {% endhint %}
 
 ## Accounting Method
