@@ -129,13 +129,45 @@ Why did the knapsack problem fail? It seems like it will work.
 
 ### Notation Examples
 
-$$
-Q: S=\{1, 2, 3\}
-$$
+Let `S` be a finite set, and F a non-empty collection of subsets S.
 
-{% hint style="danger" %}
-Left off at 15:00.
+![](../.gitbook/assets/image%20%2823%29.png)
+
+#### What does it mean to be in a subset? What's the size of a subset?
+
+![](../.gitbook/assets/image%20%2827%29.png)
+
+### Defining a Matroid
+
+{% hint style="warning" %}
+What does all of this notation mean?
 {% endhint %}
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+### Example: Graphic Matroids
+
+#### Proving if \(S, F\) is a matroid
+
+{% hint style="warning" %}
+What is \(S, F\).  What does it mean that "F is a subset of S?" Is S an element? A collection of elements?
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
+### Weighted Matroids
+
+* We call a matroid weighted if it contains a weight function?
+
+{% hint style="warning" %}
+What's a weight function? What does the definition _A_ mean? **I'm getting lost in the notation.**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+
+
+
 
 ## Works Cited
 
