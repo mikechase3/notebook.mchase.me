@@ -165,7 +165,9 @@ What's a weight function? What does the definition _A_ mean? **I'm getting lost 
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-
+{% hint style="info" %}
+Click this [link](https://www.dropbox.com/s/iwf13fzz4tbbfna/Lecture%2009%20Greedy%20Approach.pdf?dl=0) to see Dr. Yao's slides on correctness where I get lost in notation again, spanning trees, Kruskal's Minimum Spanning Tree, and the running time of these greedy algorithms.
+{% endhint %}
 
 
 
