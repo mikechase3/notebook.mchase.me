@@ -2,6 +2,8 @@
 
 ## Introduction
 
+> **Amortized analysis allows one to estimate the cost `T(n)` of a sequence of `n` operations on a data structure.**
+
 > In an **amortized analysis**, we average the time required to perform a sequence of data-structure operations over all the operations performed.
 >
 > * We can show that the average cost of an operation is small, if we average over a sequence of operations, even though a single operation within the sequence might be expensive.
@@ -9,6 +11,26 @@
 > * It guarantees the **average performance of east operation in the worst case.**
 >
 > _Source: Introduction to Algorithms; Cormen et. al._
+
+### The Goal of Amortized Analysis
+
+We want to show that although some individual operations may be expensive, on average, the cost-per-operation is lower than the cost of those expensive ones. 
+
+On average, the cost per operation is lower than the cost of those expensive ones. **We want to measure the average cost of operation** instead of the worst case. 
+
+### Three Different Approaches
+
+Below are 3 different approaches to figure out how to measure the average cost of operation: the aggregate method, the accounting method, and the potential method.
+
+| Method | What it is | When to use it |
+| :--- | :--- | :--- |
+| Aggregate | A quick average. |  |
+| Accounting | A bank account. |  |
+| Potential | ? |  |
+
+{% hint style="warning" %}
+When should we use each one?
+{% endhint %}
 
 ## Heap Sort Example
 
@@ -46,27 +68,6 @@ Heap-sort lets you put things in order by using a heap.
 * Different insertions take different amounts of time.
 * Many of the insertions are on significantly smaller heaps.
 
-## The Goal of Amortized Analysis
-
-We want to show that although some individual operations may be expensive, on average, the cost-per-operation is lower than the cost of those expensive ones. 
-
-On average, the cost per operation is lower than the cost of those expensive ones. **We want to measure the average cost of operation** instead of the worst case. 
-
-{% hint style="info" %}
-Below are 3 different approaches to figure out how to measure the average cost of operation: the aggregate method, the accounting method, and the potential method.
-{% endhint %}
-
-### Three Different Approaches
-
-1. Aggregate Method
-2. Accounting Method:
-
-   > Assign costs to each operation so that it is easy to sum them up while still ensuring that result is accurate - Dr. Yao
-
-3. Potential Method:
-
-   > A more sophisticated version of the accounting method - Dr. Yao
-
 ## Aggregate Method: Augmented Stack
 
 ![](../../.gitbook/assets/image%20%2815%29.png)
@@ -78,7 +79,7 @@ It's a stack, but you can pop multiple items from the stack at the same time.
 {% endhint %}
 
 ```java
-Multipop(S, k)
+multipop(S, k)
     while S is not empty and k > 0
         Pop(S)
         k = k-1
@@ -89,12 +90,12 @@ Multipop(S, k)
 
 | Operations | Description |
 | :--- | :--- |
-| push\(S, x\) |  |
-| Pop\(S\) | Pops the top item off the stack. |
-| Multipop\(S, k\) | Pop the top k elements, k ≤ size of S. |
+| `push(S, x)` | \`\` |
+| `pop(S)` | Pops the top item off the stack. |
+| `multipop(|S|, k)` | Pop the top k elements, k ≤ size of S. |
 
 {% hint style="info" %}
-From Dr. Yao: When we use the notation \|S\|, that refers to the size of the stack. When we use ’S’, it means we’re referring to the size of the estack.
+When we use the notation \|S\|, that refers to the size of the stack.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -178,21 +179,15 @@ Like in a business, our **price, or amortized cost, is the independent variable.
 
 Let's provide a working example first where we control our independent variables and assign them prices in such a way that we will **never have a negative balance**. In the accounting method, it is vital that at any point, we never have a negative balance \(because then it is not an accurate upper bound\).
 
-| Method | Price / Amortized Cost | Production Cost / Actual Cost |
-| :--- | :--- | :--- |
-| Push | $2, O\(2\) | O\(1\) |
-| Pop | $0, O\(0\) | O\(1\) |
-| Multipop | $0 | O\(1\) |
+| Method | Price / Amortized Cost | Production Cost / Actual Cost | Comment |
+| :--- | :--- | :--- | :--- |
+| Push | $2, O\(2\) | O\(1\) | We're saving more money into the bank. |
+| Pop | $0, O\(0\) | O\(1\) | We withdraw from the bank. |
+| Multipop | $0 | O\(1\) | We withdraw from the bank. |
 
 {% hint style="info" %}
-Notice how in some instances, we're losing money. This is like a credit card sign-up bonus because really, they're breaking even. They just want to get you to sign up. \(Though ignore the fact that credit card companies may earn temporarily negative profit\).
-
-Scrap that. It's like one of those ads. "Buy 3 pushes, get 3 pops free!"
+Notice how in some instances, we're losing money? This is like a _buy 3 push, get 3 pops free_ advertisement. Notice that even though we're losing money in some cases, we never go bankrupt.
 {% endhint %}
-
-> Which operation "saves money to the bank" when performed?
->
-> For push, the actual cost is 1. Store the extra 1 as a crtedit, associated with the pushed element.
 
 Another question:
 
@@ -200,28 +195,27 @@ Another question:
 >
 > * The actual cost for Pop 1 is 1. For multipop, the actual cost is min\(\|S\|, k\)
 
-{% hint style="info" %}
-There are other questions; see her slides.
-{% endhint %}
+#### Questions to Consider
 
-### Conclusion
+> Which operation "saves money to the bank" when performed?
 
-#### We can make a conclusion in 3 steps.
+* The push cost really only takes `T(1)` time.
+* We pretend that it costs `T(2)` time and store an extra `T(1)` in the bank.
 
-1. Assign these amortized costs \(budget\) like we did above.
-2. I don't know what step 2 is. It's long.
+> Which operation "needs money from the bank when performed?"
 
-![What does this mean?](../../.gitbook/assets/image%20%2814%29.png)
+* Pop needs `T(1)`.
+* Multipop's actual cost is `min(|S|, k)`.
+  * We have two options here.
+  * Either, we pop k elements from the stack.
+  * OR, if the user tries to remove more elements than the stack actually holds, we only remove \|S\| elements.
+  * \|S\| is the size of the stack, so it's like saying _remove all the elements from the stack, and stop trying to because it's empty, even though the user keeps trying because they're an idiot and don't know there's nothing there._
 
-> \[The\] amortized cost per operation is O\(1\) since budget for any operation is O\(1\) given in step 1 and we show that the bank account is never negative.
+> **Does our bank have enough to pay for each multipop operation?**
 
-{% hint style="warning" %}
- 🤷🏻  How did she make this conclusion?
-{% endhint %}
+This is the most important question to consider. If our bank account ever goes negative, we can't make any conclusions about the amortized cost per operation.
 
-
-
-
+If our bank does, then we've established an upper bound on the _amortized cost per operation._
 
 ## Works Cited
 
