@@ -54,3 +54,7 @@
 * [Bash](misc/bash.md)
 * [Git](misc/git.md)
 
+## CPS 350
+
+* [Java Review](cps-350/java-review.md)
+

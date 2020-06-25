@@ -155,33 +155,39 @@ How did she come to this conclusion? Where'd she get the 2n/n?
 
 ## Accounting Method
 
-> A bank account allows us to save our excess money, and the money can be used later when needed.
+In the accounting method, we pretend like we have a **bank account** which can never be over-drafted. We can use this method to address multiple operations within a function and find an upper-bound on the average running time. The upper bound is the cost per operation; while the average refers to the entire set.
 
-* This bank account idea is similar to the accounting method.
+This will be more clear with an example, but generally, it's a 2-step process:
 
-> Each operation has an amortized cost \(i.e. budget\)
->
-> * If amortized cost ≥ actual cost, we save the excess in the bank.
-> * Else, we use savings to help the payment.
+1. Assign a "cost" for every operation. _For example, if we were adding elements into a dynamically resizing array, we might say "The add function costs O\(3\), even though it only costs O\(1\). We'll just store an extra O\(2\) in a bank for later use._
+2. When we have to do weird operations for cases that are more rare, we'll use the money we stored from the bank. _In a dynamic array, once we run out of space, we'll copy all the values from the small array into a larger array. We'll take these funds from our bank._
 
-* Never let the account be negative.
-
-### The Augmented Stack
-
-Let's revisit this from the last section.
-
-#### Assign these amortized costs \(budget\)
-
-* Push is 2.
-* Pop is 0.
-* Multipop is 0.
-
-{% hint style="info" %}
-These were assigned arbitrarily.
+{% hint style="danger" %}
+Is this an accurate statement? I wrote it myself.
 {% endhint %}
 
-{% hint style="warning" %}
-Why did she assign them? She had some thinking and justified it in 17:50.
+### Example: Augmented Stack
+
+This example uses the same augmented stack as the example in the last section. Let's take this example and follow the 2-step method I just described above. 
+
+#### Step 1: Assign functions an amortized cost.
+
+Remember science labs when you had an **independent** and **dependent** variable? We cannot control the actual cost of _how many operations does resizing take_ because to resize an array, it will always take `O(n)`. But what we can control is the _cost_, or what we charge our user for performing these calculations.
+
+Like in a business, our **price, or amortized cost, is the independent variable.** We can charge however much we want; however, to stay in business and be competitive, we want to keep it as small as we can without losing money. **Our production costs, our profit/loss** isn't something we can really control.
+
+Let's provide a working example first where we control our independent variables and assign them prices in such a way that we will **never have a negative balance**. In the accounting method, it is vital that at any point, we never have a negative balance \(because then it is not an accurate upper bound\).
+
+| Method | Price / Amortized Cost | Production Cost / Actual Cost |
+| :--- | :--- | :--- |
+| Push | $2, O\(2\) | O\(1\) |
+| Pop | $0, O\(0\) | O\(1\) |
+| Multipop | $0 | O\(1\) |
+
+{% hint style="info" %}
+Notice how in some instances, we're losing money. This is like a credit card sign-up bonus because really, they're breaking even. They just want to get you to sign up. \(Though ignore the fact that credit card companies may earn temporarily negative profit\).
+
+Scrap that. It's like one of those ads. "Buy 3 pushes, get 3 pops free!"
 {% endhint %}
 
 > Which operation "saves money to the bank" when performed?
