@@ -118,7 +118,9 @@ I don't understand what \|S\| is, or why it's in an absolute value bracket. She 
 * Makes no distinction between operation types.
 
 {% hint style="warning" %}
-I don't understand this at all. Where'd we get T\(n\)/n from
+I don't understand this at all. Where'd we get `T(n)/n` from. Doesn't T\(n\) depend on how many operations there are? Like if we make 10 copies of arrays, we'd have T\(10\*n\), so what's `T(n)`
+
+And how can `T(n)` be divided by n if `T(n)` depends on what `n` is? Are they mismatched parentheses? Should it be `T(n/n)`? But that makes no sense because it's just 1.
 {% endhint %}
 
 #### Simple Argument
