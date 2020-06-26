@@ -19,7 +19,8 @@ This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450 Cours
 
 | Resource | Content |
 | :--- | :--- |
-|  |  |
+| Programiz | [Asymptotic Analysis](https://www.programiz.com/dsa/asymptotic-notations#:~:text=Theta%20Notation%20%28%CE%98%2Dnotation%29,case%20complexity%20of%20an%20algorithm), Language-Specific |
+| Tutorials Point | Good reading for popular algorithms. [Greedy](https://www.tutorialspoint.com/introduction-to-greedy-algorithms#:~:text=In%20greedy%20algorithm%20approach%2C%20decisions,lead%20to%20globally%20optimized%20solutions), [Min Spanning Tree](https://www.tutorialspoint.com/Kruskal-s-Minimum-Spanning-Tree-Algorithm), etc. |
 
 1. Back to Back SE \(Paid, $100/year.\)
 2. Coursera _Algorithms_ from Princeton and this corresponding [textbook](https://algs4.cs.princeton.edu/home/)
