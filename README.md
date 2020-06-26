@@ -15,7 +15,11 @@ This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450 Cours
 3. Remember what I learned in this class.
 4. Find and provide resources for others taking this, specific class.
 
-## Suggested Resources
+## The Holy Grail of Resources
+
+| Resource | Content |
+| :--- | :--- |
+|  |  |
 
 1. Back to Back SE \(Paid, $100/year.\)
 2. Coursera _Algorithms_ from Princeton and this corresponding [textbook](https://algs4.cs.princeton.edu/home/)

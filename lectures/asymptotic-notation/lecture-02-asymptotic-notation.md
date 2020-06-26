@@ -1,6 +1,10 @@
+---
+description: Chapter 3
+---
+
 # Lecture 02: Asymptotic Notation
 
-* From Chapter 3
+* Checkout [this](https://www.programiz.com/dsa/asymptotic-notations#:~:text=Theta%20Notation%20%28%CE%98%2Dnotation%29,case%20complexity%20of%20an%20algorithm) amazing resource first!
 
 ## Asymptotic Notation Describes Growth To Infinity
 
