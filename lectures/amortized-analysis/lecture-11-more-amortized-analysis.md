@@ -180,7 +180,7 @@ Clearly, we have enough budget to cover all the bit flips. This means the balanc
 
 ## The Potential Method
 
-The accounting method is similar to the accounting method, but it's a little bit more formally defined.
+The potential method is similar to the accounting method, but it's a little bit more formally defined. We will use some potential phi function. Then, we'll map the data structure's current status to a real number. 
 
 #### Formal Definition 
 
@@ -225,6 +225,53 @@ What is the _state_ of the data structure? Like, what does that mean?
 {% hint style="warning" %}
 What does $$\Phi(D_0) = 0$$ mean? A function that takes a data structure? Is that just an example that says when you put initial state of any data structure in it, it just returns zero?
 {% endhint %}
+
+### Augmented Stack Example
+
+If the $$i^{th}$$ operation is a push and stack has `s` elements, this implies that:
+
+$$
+m_i = c_i + \Phi(D_i) - \Phi(D_{i-1}) ⇒ 1 + (s+1) -s ⇒2
+$$
+
+If the $$i^{th}$$ operation is a pop and stack has `s` elements, this implies that:
+
+$$
+m_i = c_i + \Phi(D_i) - \Phi(D_{i-1}) ⇒ 1 + (s-1) -s ⇒0
+$$
+
+If the $$i^{th}$$ operation is a Multipop and stack has `s` elements, this implies that:
+
+$$
+\text{Let } x = min(s,k), m_i = c_i + \Phi(D_i)-\Phi(D_{i-1}) = x+(s-x) -s = 0
+$$
+
+{% hint style="info" %}
+Notice the `s+1` and `s-1` respectively.
+{% endhint %}
+
+{% hint style="warning" %}
+I don't understand what these equations mean. Is this adding 2 elements and removing 2 elements? Is the `2` the budget we've decided to assign? But this isn't the accounting method.
+{% endhint %}
+
+{% hint style="warning" %}
+Regarding the first two equations. In Dr. Yao's, she says equals instead of implications. However, **the first half**, before the implication is the exact same. Therefore, D\_i, or c\_i must be different. **What is different?**
+{% endhint %}
+
+#### Conclusions
+
+* All operations have `O(1)` amortized cost.
+* Therefore, the cost of the entire operation will be `O(n)`.
+
+## Summary
+
+| Method | What Is It? | How Do We Use It? |
+| :--- | :--- | :--- |
+| Aggregate | Average | Analyze the entire sequence and then calculate the amortized cost  |
+| Accounting | ? | Assign an amortized cost per operation, and then check that the balance is never negative. _Tip: We usually link each saving \# to a specific object in the data structure \(i.e. item in a stack or bit in a binary counter\), which is called the credit stored in an object._ |
+| Potential | Equation | ¯\\_\(ツ\)\_/¯ |
+
+Help me!
 
 ## Works Cited
 
