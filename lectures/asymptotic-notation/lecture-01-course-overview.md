@@ -46,3 +46,17 @@
 
 1. Leetcode: _Median of Two Sorted Arrays_ \(Solveable only by divide/conquer.\)
 
+## Works Cited
+
+| Title | Content Used | Author |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+

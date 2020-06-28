@@ -324,5 +324,19 @@ See other problems on her Isidore site.
 3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
 4. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4**_\).
 
+## Works Cited
+
+| Title | Content Used | Author |
+| :--- | :--- | :--- |
+| Introduction to Algorithms | Definitions for introduction | Cormen et. al. |
+| Wikimedia Commons | K-bit counter photo. | Various. Noncommercial reuse. |
+| Class lecture & slideshow | Structures, definition, and content | [Dr. Zhongmei Yao](http://academic.udayton.edu/zhongmeiyao/) |
+| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI_Rs) | K-bit example, graphs. | simrob \(Youtube\) |
+| [Amortized Analysis \(of the k-bit counter\)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy. | simrob \(Youtube\) |
+| Thomas Calculus | Geometric Series | Thomas. Pearson e-Text. Free |
+| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential_method) | Equations | Wikipedia Authors |
+
+
+
 
 

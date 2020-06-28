@@ -40,3 +40,17 @@ Can you prove that `f(n) = 2n+10 is in O(n)?` 1. If the maximum is `c*n`, then w
 
 1. What does it mean that a function is contained in another function? _See functions_
 
+## Works Cited
+
+| Title | Content Used | Author |
+| :--- | :--- | :--- |
+| Introduction to Algorithms | Definitions for introduction | Cormen et. al. |
+| Wikimedia Commons | K-bit counter photo. | Various. Noncommercial reuse. |
+| Class lecture & slideshow | Structures, definition, and content | [Dr. Zhongmei Yao](http://academic.udayton.edu/zhongmeiyao/) |
+| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI_Rs) | K-bit example, graphs. | simrob \(Youtube\) |
+| [Amortized Analysis \(of the k-bit counter\)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy. | simrob \(Youtube\) |
+| Thomas Calculus | Geometric Series | Thomas. Pearson e-Text. Free |
+| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential_method) | Equations | Wikipedia Authors |
+
+
+

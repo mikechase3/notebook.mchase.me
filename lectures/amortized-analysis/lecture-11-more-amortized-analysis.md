@@ -137,13 +137,13 @@ So obviously, by this point, we know two important things. And as a result of th
 
  
 
-![Notice A\[0\] \(At the right\) is flipped every time. A\[1\] \(2nd from right\) is flipped n/2 times, and so on.](../../.gitbook/assets/image%20%2833%29.png)
+![Notice A\[0\] \(At the right\) is flipped every time. A\[1\] \(2nd from right\) is flipped n/2 times, and so on.](../../.gitbook/assets/image%20%2835%29.png)
 
 #### Using Geometric Series
 
 * The pattern we're noticing, `n`, `n/2`, `n/4`... is a [geometric series](https://media.pearsoncmg.com/cmg/pmmg_mml_shared/mathstats_html_ebooks/ThomasCalcET14e/page_592.html) because geometric series have the form:
 
-![Source: Thomas Calculus](../../.gitbook/assets/image%20%2829%29.png)
+![Source: Thomas Calculus](../../.gitbook/assets/image%20%2830%29.png)
 
 $$
 n + n/2 + n/4 + ... ⇒  \sum _{n=1}^{\infty } 2^{-n}=1
@@ -172,7 +172,7 @@ $$
   * For every bit flip from 0 to 1, we use $1 for the flip.
   * We associate the extra $1 with bit 1, which will be used when we flip this bit from 1 back to 0.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 #### Conclusions
 
