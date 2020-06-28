@@ -5,8 +5,7 @@
 
 ## CPS 450 <a id="lectures"></a>
 
-* [CPS 350 \| Day 1-5](lectures/untitled.md)
-* [Untitled](lectures/cps-350.md)
+* [CPS 350 Miscellaneous](lectures/untitled.md)
 * [Asymptotic Notation](lectures/asymptotic-notation/README.md)
   * [Lecture 01: Course Overview](lectures/asymptotic-notation/lecture-01-course-overview.md)
   * [Lecture 02: Asymptotic Notation](lectures/asymptotic-notation/lecture-02-asymptotic-notation.md)
@@ -48,6 +47,7 @@
   * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
   * [Best Resource Ever](languages/python/best-resource-ever.md)
 * [Swift Cheat Sheet](languages/swift-cheat-sheet-1.md)
+* [MIPS](languages/mips.md)
 
 ## Misc
 

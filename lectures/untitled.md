@@ -1,10 +1,11 @@
 ---
 description: >-
   Sadly, I can't import textbundles here, so I lost all the images. Which is
-  sad.
+  sad. It also didn't import pictures from HTML which is also sad. It let me use
+  Microsoft Word, but MS word looked like crap.
 ---
 
-# CPS 350 \| Day 1-5
+# CPS 350 Miscellaneous
 
 ## CPS 350 \| Day 1-5 \| Java Fundamentals
 
