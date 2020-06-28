@@ -7,6 +7,7 @@ description: >-
 # CPS 450 Class Notes
 
 This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS 450 class. She normally does not teach this class, but during the summer, she is teaching it remotely.
+
 ## Purpose
 
 1. Specifically help other UD students remember what we learned in this class.
@@ -34,3 +35,4 @@ Where I've used it is shown at the bottom of each page, if I used it.
 2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(I've used homework problems and code; never images or full slides\)._
 3. \_\_[Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code)
 4. Base CS [Blog ](https://medium.com/basecs)series for computer science courses.
+

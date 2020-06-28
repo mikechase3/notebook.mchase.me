@@ -69,6 +69,8 @@ Notice how our predicted cost never exceeds the actual cost. This is good!
 If we used the worst-case cost, we would have dramatically over-estimated the actual cost. By using an amortized analysis, we got a much tighter bound.
 {% endhint %}
 
+
+
 ## Works Cited
 
 | Title | Content Used | Author |

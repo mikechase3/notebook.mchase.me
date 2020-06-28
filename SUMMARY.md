@@ -29,13 +29,11 @@
 
 ## AWS Machine Learning
 
----
-
-* [Understanding Learning](understanding-learning/README.md)
-  * [Artificial Intelligence](understanding-learning/artificial-intelligence.md)
-  * [Machine Learning](understanding-learning/machine-learning.md)
-  * [Deep Learning](understanding-learning/deep-learning.md)
-  * [Understanding Neural Networks](understanding-learning/understanding-neural-networks.md)
+* [Understanding Learning](aws-machine-learning/understanding-learning/README.md)
+  * [Artificial Intelligence](aws-machine-learning/understanding-learning/artificial-intelligence.md)
+  * [Machine Learning](aws-machine-learning/understanding-learning/machine-learning.md)
+  * [Deep Learning](aws-machine-learning/understanding-learning/deep-learning.md)
+  * [Understanding Neural Networks](aws-machine-learning/understanding-learning/understanding-neural-networks.md)
 
 ## Unity
 
