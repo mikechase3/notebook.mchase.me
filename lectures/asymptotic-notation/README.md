@@ -11,6 +11,10 @@
 
 > Definitions \(except little o\) are from [programiz](https://www.programiz.com/dsa/asymptotic-notations). See their super awesome [article](https://www.programiz.com/dsa/asymptotic-notations) for more! Little o definition is from [tutorials point.](https://www.tutorialspoint.com/little-oh-notation-o#:~:text=The%20little%20o%20notation%20is,that%20map%20positive%20real%20numbers.)
 
+{% hint style="warning" %}
+How do I analyze the running time of algorithms so I can develop equations that look like these?
+{% endhint %}
+
 ## Big-O Notation
 
 > Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the **worst case complexity** of an algorithm.
