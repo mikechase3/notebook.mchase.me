@@ -6,14 +6,14 @@ description: >-
 
 # CPS 450 Class Notes
 
-This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450 Course. I'd recommend you use other outside resources if you're learning this for the first time; see below.
-
+This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS 450 class. She normally does not teach this class, but during the summer, she is teaching it remotely.
 ## Purpose
 
 1. Specifically help other UD students remember what we learned in this class.
 2. Present future students with a glimpse at what they'll be learning in this class.
 3. Remember what I learned in this class.
 4. Find and provide resources for others taking this, specific class.
+5. Make Mike Chase's future interviewing life easier.
 
 ## The Holy Grail of Resources
 
@@ -33,6 +33,3 @@ Where I've used it is shown at the bottom of each page, if I used it.
 2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(I've used homework problems and code; never images or full slides\)._
 3. \_\_[Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code)
 4. Base CS [Blog ](https://medium.com/basecs)series for computer science courses.
-
-
-
