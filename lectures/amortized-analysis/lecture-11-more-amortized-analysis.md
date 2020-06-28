@@ -271,8 +271,6 @@ Regarding the first two equations. In Dr. Yao's, she says equals instead of impl
 | Accounting | ? | Assign an amortized cost per operation, and then check that the balance is never negative. _Tip: We usually link each saving \# to a specific object in the data structure \(i.e. item in a stack or bit in a binary counter\), which is called the credit stored in an object._ |
 | Potential | Equation | ¯\\_\(ツ\)\_/¯ |
 
-Help me!
-
 ## Works Cited
 
 | Title | Content Used | Author |
