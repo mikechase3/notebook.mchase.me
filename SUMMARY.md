@@ -5,6 +5,8 @@
 
 ## CPS 450 <a id="lectures"></a>
 
+* [CPS 350 \| Day 1-5](lectures/untitled.md)
+* [Untitled](lectures/cps-350.md)
 * [Asymptotic Notation](lectures/asymptotic-notation/README.md)
   * [Lecture 01: Course Overview](lectures/asymptotic-notation/lecture-01-course-overview.md)
   * [Lecture 02: Asymptotic Notation](lectures/asymptotic-notation/lecture-02-asymptotic-notation.md)
