@@ -14,6 +14,7 @@ This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS
 3. Remember what I learned in this class.
 4. Find and provide resources for others taking this, specific class.
 5. Make Mike Chase's future interviewing life easier.
+6. I don't know please work Gitfox.
 
 ## The Holy Grail of Resources
 
