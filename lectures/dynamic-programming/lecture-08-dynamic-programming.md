@@ -172,17 +172,13 @@ At this point, I'm so far gone that I just put this here.
 1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Table content, solutions, and full slides. TODO: Remove\)._
 2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Nothing yet, but I'm sure I'll use it when I review.\)_
 
+\_\_
+
 ## Works Cited
 
 | Title | Content Used | Author |
 | :--- | :--- | :--- |
-| Introduction to Algorithms | Definitions for introduction | Cormen et. al. |
-| Wikimedia Commons | K-bit counter photo. | Various. Noncommercial reuse. |
-| Class lecture & slideshow | Structures, definition, and content | [Dr. Zhongmei Yao](http://academic.udayton.edu/zhongmeiyao/) |
-| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI_Rs) | K-bit example, graphs. | simrob \(Youtube\) |
-| [Amortized Analysis \(of the k-bit counter\)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy. | simrob \(Youtube\) |
-| Thomas Calculus | Geometric Series | Thomas. Pearson e-Text. Free |
-| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential_method) | Equations | Wikipedia Authors |
+| Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
 
 
 

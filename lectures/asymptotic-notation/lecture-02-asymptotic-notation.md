@@ -4,8 +4,6 @@ description: Chapter 3
 
 # Lecture 02: Asymptotic Notation
 
-* Checkout [this](https://www.programiz.com/dsa/asymptotic-notations#:~:text=Theta%20Notation%20%28%CE%98%2Dnotation%29,case%20complexity%20of%20an%20algorithm) amazing resource first!
-
 ## Asymptotic Notation Describes Growth To Infinity
 
 1. Asymptotic notation is a way to describe the behavior when n goes to infinity.
@@ -44,13 +42,7 @@ Can you prove that `f(n) = 2n+10 is in O(n)?` 1. If the maximum is `c*n`, then w
 
 | Title | Content Used | Author |
 | :--- | :--- | :--- |
-| Introduction to Algorithms | Definitions for introduction | Cormen et. al. |
-| Wikimedia Commons | K-bit counter photo. | Various. Noncommercial reuse. |
-| Class lecture & slideshow | Structures, definition, and content | [Dr. Zhongmei Yao](http://academic.udayton.edu/zhongmeiyao/) |
-| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI_Rs) | K-bit example, graphs. | simrob \(Youtube\) |
-| [Amortized Analysis \(of the k-bit counter\)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy. | simrob \(Youtube\) |
-| Thomas Calculus | Geometric Series | Thomas. Pearson e-Text. Free |
-| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential_method) | Equations | Wikipedia Authors |
+| Class Lecture | Structure | Dr. Zhongmei Yao |
 
 
 
