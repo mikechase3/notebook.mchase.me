@@ -146,11 +146,7 @@ I don’t know what this means.
 > Recall stacks three operations: push, pop, and empty. Each having cost 1. Analyze the total cost \(i.e. running time of a sequence of `n` operations on the queue for n&gt;1. Initially, the queue is empty.
 
 * Our total cost is T\(n\).
-* Dr. Yao likes it because you can change your money as long as it’s a fixed number?
-
-### Wrap Up
-
-* We need to revize our budget to make our budget.
+* You can change your money as long as it’s a fixed number?
 
 
 

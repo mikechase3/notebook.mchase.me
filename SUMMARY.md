@@ -26,6 +26,7 @@
   * [Lecture 10: Amortized Analysis](lectures/amortized-analysis/lecture-10-amoritized-analysis.md)
   * [Lecture 11: More Amortized Analysis](lectures/amortized-analysis/lecture-11-more-amortized-analysis.md)
   * [Problem Session](lectures/amortized-analysis/problem-session.md)
+  * [Amortized Analysis Quiz](lectures/amortized-analysis/amortized-analysis-quiz.md)
 * [Midterm Preparation](lectures/midterm-preparation.md)
 
 ## AWS Machine Learning
@@ -38,7 +39,12 @@
 
 ## Unity
 
-* [Unwritten](unity/unwritten.md)
+* [Player Control](unity/unwritten.md)
+* [Basic Gameplay](unity/basic-gameplay.md)
+* [Sound and Effects](unity/sound-and-effects.md)
+* [Gameplay Mechanics](unity/gameplay-mechanics.md)
+* [User Interface](unity/user-interface.md)
+* [Next Steps](unity/next-steps.md)
 
 ## Languages
 

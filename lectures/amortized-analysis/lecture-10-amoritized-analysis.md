@@ -90,7 +90,7 @@ multipop(S, k)
 
 | Operations | Description |
 | :--- | :--- |
-| `push(S, x)` | \`\` |
+| `push(S, x)` | Pushes one item on the stack. |
 | `pop(S)` | Pops the top item off the stack. |
 | `multipop(|S|, k)` | Pop the top k elements, k ≤ size of S. |
 
@@ -126,8 +126,8 @@ And how can `T(n)` be divided by n if `T(n)` depends on what `n` is? Are they mi
 
 #### Simple Argument
 
-{% hint style="info" %}
-Argument of what?
+{% hint style="warning" %}
+Argument for what?
 {% endhint %}
 
 > In a sequence of `n` operations, the stack never holds more than `n` elements. So the cost of a multipop is O\(n\).
@@ -147,7 +147,7 @@ The goal is to find out the worst-case running time of any `n` operations.
 
 * We got the n^2 by saying n remove stack operations, and each operation is O\(n\).
   * It's the maximum running time for completing n operations.
-* 
+
 {% hint style="warning" %}
 Why is it an overestimate? I thought the whole point of amortized analysis was so we don't have over-estimates.
 {% endhint %}
