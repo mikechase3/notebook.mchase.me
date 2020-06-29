@@ -52,7 +52,9 @@
   * [Language Crash Course](languages/python/python-crash-course.md)
   * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
   * [Best Resource Ever](languages/python/best-resource-ever.md)
-* [Swift Cheat Sheet](languages/swift-cheat-sheet-1.md)
+* [iOS and Swift](languages/ios-and-swift/README.md)
+  * [The Swift Language Programming Guide](languages/ios-and-swift/the-swift-language-programming-guide.md)
+  * [Swift Cheat Sheet](languages/ios-and-swift/swift-cheat-sheet-1.md)
 * [MIPS](languages/mips.md)
 
 ## Misc
