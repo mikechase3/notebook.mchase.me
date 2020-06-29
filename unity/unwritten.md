@@ -238,3 +238,23 @@ This component lets you add basic physics into objects.
 
 ## 1.3: High Speed Chase
 
+### Variables
+
+#### Initializing Floats
+
+```csharp
+public float speed = 5.0f #The f makes it a float instead of a double. 
+```
+
+{% hint style="info" %}
+Make sure it's public! That way, unity can interface with it.
+{% endhint %}
+
+### Game Objects
+
+* We can get references to our different objects like our `FollowPlayer` method. 
+* We can drag our objects \(like `Vehicle`\) into our `Player` class request in Unity.
+  * Then, we can call a method of that object like `playerObject.transform.position;`
+
+
+
