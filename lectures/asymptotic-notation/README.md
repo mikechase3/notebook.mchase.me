@@ -15,6 +15,10 @@
 How do I analyze the running time of algorithms so I can develop equations that look like these?
 {% endhint %}
 
+## Recurrence Relations
+
+If this makes no sense to you, you might want to go back and check out [recurrence relations](https://users.cs.duke.edu/~ola/ap/recurrence.html).
+
 ## Big-O Notation
 
 > Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the **worst case complexity** of an algorithm.

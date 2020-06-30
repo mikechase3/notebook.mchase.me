@@ -133,7 +133,7 @@ class Solution {
 ```
 {% endtab %}
 
-{% tab title="Linear Time \(Divide & Conquer\)" %}
+{% tab title="Linear-Ish Time \(Divide & Conquer\)" %}
 #### Divide into Two Halves
 
 Given the subarray: `[3, -2, 5, -1]`, we can split it up into the left half and the right half:
