@@ -250,11 +250,128 @@ public float speed = 5.0f #The f makes it a float instead of a double.
 Make sure it's public! That way, unity can interface with it.
 {% endhint %}
 
-### Game Objects
+### Data Types
 
 * We can get references to our different objects like our `FollowPlayer` method. 
 * We can drag our objects \(like `Vehicle`\) into our `Player` class request in Unity.
   * Then, we can call a method of that object like `playerObject.transform.position;`
 
+### Using the GameObjects class
 
+Things like obstacles or vehicles in our project are GameObjects and we can get references directly to our different game objects like our player from our camera.
+
+#### Declaration of the object
+
+```csharp
+public class FollowPlayer : MonoBehaviour { 
+
+    //Data Variables
+    public GameObject player;
+```
+
+#### Accessing that object
+
+Just use a dot operator to the object you are referencing.
+
+```csharp
+// Update is called once per frame
+void Update(){
+    transform.position = player.transform.position;
+}
+```
+
+### Camera Offset and Adding Vectors
+
+Our player position is providing a `Vector3`, we can offset the position by creating another `Vector3` and adding two vectors together.
+
+```csharp
+void Update(){
+    //Offset the camer behind the player by adding to the player's position.
+    transform.position = player.transform.position + new Vector3(0, 5, -7);
+}
+```
+
+#### Better Method
+
+It's better to assign this new vector to a private variable. This is kind-of obvious, but it makes our code cleaner to change values at the class level instead of hard coding.
+
+```csharp
+public class FollowPlayer : MonoBehaviour{
+    // Class Variables
+    public GameObject player; //Gets input from the actual player.
+    private Vector3 offset= new Vector3(0, 5, -7) //Camera offset from player.
+    
+    // Class Methods
+    void Update(){
+        transform.position = player.transform.position + offset;
+```
+
+### Playmode Tint Color
+
+You can do a blueout tint to make sure you do not change your program while in play-mode. This is done by adding a Playmode tint in the preferences. You can access them here.
+
+`Edit` &gt; `Preferences` &gt; `Colors` &gt; 
+
+My color is b\*\*\*\*\*d amber `#FFCC88` because it brings back theater memories. That's a technical term. You can thank the theater industry for that. Same with the audio industry. They have poor naming like `dead cats` to cover microphones. It's a skin that covers a microphone so the wind does not get picked up by the microphone. If you're my future employer searching my website for profanity... I promise I'm not an evil person. Please hire me.
+
+## 1.4 User Input
+
+### Turning Our Car
+
+1. Make a public `turnspeed` variable to the class as a float.
+2. Make the car transform when we move that variable by saying \(in the update method\) `transform.Translate(Vector3.`right`* Time.deltaTime * turnSpeed);`
+
+#### Code For Turning
+
+```csharp
+//using lotsOfKeywords
+public class PlayerController : MonoBehaviour
+{
+    //Member Variables
+    public float speed = 5.0f;
+    public float turnSpeed = 0.1f;
+
+
+    // Update is called once per frame
+    void Update()
+    {
+        //We'll move the vehicle forward.
+        transform.Translate(Vector3.forward * Time.deltaTime * speed);
+        transform.Translate(Vector3.right * Time.deltaTime * turnSpeed);
+    }
+}
+
+```
+
+### Keyboard Input
+
+Unity does a lot of things that make our lives easy.
+
+#### Input Manager
+
+![](../.gitbook/assets/image%20%2851%29.png)
+
+The input manager maps keyboard input to things we can write in our code
+
+* Jumping, firing, horizontal, vertical axes, sensitivity, etc. 
+
+#### In Our Code
+
+Unity provides a class called `Input` with a bunch of methods. The one we're going to use is `Input.getAxis()` which will return a string. 
+
+![](../.gitbook/assets/image%20%2849%29.png)
+
+{% hint style="success" %}
+When you add to a vector position, it knows which direction you're facing. So when we say Vector3.forward, it won't change the car's position relative to the ground, but the car's position relative to the car. We don't have to calculate any fancy vector formulas to calculate velocity in a certain direction into the separate x and y components. It's not based on global coordinates. 
+{% endhint %}
+
+
+
+![You can change from local to global here!](../.gitbook/assets/image%20%2854%29.png)
+
+
+
+### Rotation
+
+Currently, when we press the left arrow key, we slide to the left and slide to the right. But like, directly to the left and right. The car doesn't rotate which is very abnormal
 

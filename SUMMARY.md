@@ -67,3 +67,7 @@
 
 * [Java Review](cps-350/java-review.md)
 
+## Psychology
+
+* [Programiz: How We Use Psychology to Market Our Products](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
+
