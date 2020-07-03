@@ -30,6 +30,7 @@
 * [Midterm Preparation](lectures/midterm-preparation.md)
 * [Graph Algorithms](lectures/elementary-graph-algorithms/README.md)
   * [Lecture 12: Graph Fundamentals](lectures/elementary-graph-algorithms/lecture-12-graph-fundamentals.md)
+  * [Lecture 13: DFS BFS Applications](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
 
 ## AWS Machine Learning
 
@@ -72,4 +73,8 @@
 ## Psychology
 
 * [Programiz: How We Use Psychology to Market Our Products](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
+
+## Marriage
+
+* [Grave Responsibility](marriage/grave-responsibility.md)
 
