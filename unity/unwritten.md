@@ -349,7 +349,7 @@ Unity does a lot of things that make our lives easy.
 
 #### Input Manager
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 The input manager maps keyboard input to things we can write in our code
 
@@ -367,7 +367,7 @@ When you add to a vector position, it knows which direction you're facing. So wh
 
 
 
-![You can change from local to global here!](../.gitbook/assets/image%20%2854%29.png)
+![You can change from local to global here!](../.gitbook/assets/image%20%2859%29.png)
 
 
 
