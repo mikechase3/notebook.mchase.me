@@ -18,6 +18,8 @@ Defining Undirected Graphs
 {% endtab %}
 {% endtabs %}
 
+Common Graph Problems
+
 ## Breadth First Search
 
 ## Depth First Search
