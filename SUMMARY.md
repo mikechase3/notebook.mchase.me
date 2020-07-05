@@ -74,7 +74,3 @@
 
 * [Programiz: How We Use Psychology to Market Our Products](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
 
-## Marriage
-
-* [Grave Responsibility](marriage/grave-responsibility.md)
-
