@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CPS 450 Class Notes](README.md)
+* [For Zach](for-zach.md)
 * [Notes to Self](for-michael.md)
 
 ## CPS 450 <a id="lectures"></a>

@@ -148,13 +148,30 @@ DFS and BFS are guaranteed to search their connected component, but they are not
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-Left off at 12:50 on the video.
+#### Strongly Connected
+
+{% hint style="danger" %}
+Is this actually what a strong connection means?
 {% endhint %}
 
+Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection_ implies`v` can get to `u` and `u` can get to `v`. 
 
+![Strong Connection](../../.gitbook/assets/image%20%2864%29.png)
 
-#### 
+![No strong connection between u and v.](../../.gitbook/assets/image%20%2865%29.png)
+
+### Tree Terminology
+
+A forest is a graph with no cycles, and a tree is a connected forest. That makes a tree a directed, acyclic graph. \(Directed, has no cycles because it's a forest, and is a graph\).
+
+| Term | Definition |
+| :--- | :--- |
+| Forest | A graph with no cycles. |
+| Tree | A connected forest. \(A directed, acyclic graph\). |
+| Leaf | Any child of any parent. We can choose anything but the root to be a leaf. |
+| Root | Whatever vertex we choose to be the root. |
+| Parent | One of the node's neighbors that is closest to the root.  |
+| Acyclic | It means there are no cycles. |
 
 ## Works Cited
 
