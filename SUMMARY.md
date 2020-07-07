@@ -1,7 +1,6 @@
 # Table of contents
 
 * [CPS 450 Class Notes](README.md)
-* [For Zach](for-zach.md)
 * [Notes to Self](for-michael.md)
 
 ## CPS 450 <a id="lectures"></a>
@@ -31,7 +30,9 @@
 * [Midterm Preparation](lectures/midterm-preparation.md)
 * [Graph Algorithms](lectures/elementary-graph-algorithms/README.md)
   * [Lecture 12: Graph Representations](lectures/elementary-graph-algorithms/lecture-12-graph-fundamentals.md)
-  * [Lecture 13: DFS BFS Applications](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
+  * [Lecture 13: WEIGHTED Graph Representations](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
+  * [Lecture 14:](lectures/elementary-graph-algorithms/lecture-14.md)
+  * [Graphs Problem Solving Session](lectures/elementary-graph-algorithms/graphs-problem-solving-session.md)
 
 ## AWS Machine Learning
 

@@ -1,4 +1,4 @@
-# Lecture 13: DFS BFS Applications
+# Lecture 13: WEIGHTED Graph Representations
 
 ## 
 

@@ -135,7 +135,7 @@ $$
 
 Adjacency lists maintain a vertex-indexed array of lists. 
 
-## API
+## Undirected Graph API
 
 | Method | Description |
 | :--- | :--- |
@@ -147,7 +147,7 @@ Adjacency lists maintain a vertex-indexed array of lists.
 
 
 
-## Implementation
+### Adjacency List Implementation
 
 ```java
 public class Graph{
@@ -182,17 +182,29 @@ public class Graph{
 What is the iterator? Line 20?  What is it iterating through? is v's neighbor set the 
 {% endhint %}
 
+## Directed Graphs
 
+### Directed Graphs API
 
+![](../../.gitbook/assets/image%20%2877%29.png)
 
+### Directed Graphs Implementation
 
+![](../../.gitbook/assets/image%20%2876%29.png)
 
+## Importing From a File
 
-## Breadth First Search
+{% hint style="info" %}
+Go through this later to see if I understand it.
+{% endhint %}
 
-## Depth First Search
+![](../../.gitbook/assets/image%20%2878%29.png)
 
-## Works Cited
+## Summary
+
+> Q: Can you find all nodes/edges in an unknown network? ● Q: Find a shortest path \(\# of hops\) from u to v? ● Q: Topological sort: Given a directed acyclic graph \(DAG\), can you find a linear ordering of the vertices such that if \(u, v\) is an edge then u precedes v? − DAG indicates precedence among events: Vertices are events, edge uv means u has precedence over v − Tasks that have to be done before one eats breakfast: ● Get glass, pour juice, get bowl, pour cereal/milk, get spoon, eat ● Brute force searching in a graph for all applications above 18
+>
+> Breadth-first search: Go level by level in the graph − Applications of BFS: ● Crawling a network \(finding all nodes/edges on a graph\) ● Finding the shortest path \(\# of hops\) from a source to a destination ● Depth-first search: Go as deep as you can, then backtrack − Applications of DFS: ● Topological sort ● Finding strongly connected components of a graph ● Both take Θ\(\|V\|+\|E\|\) time − where \|V\| is the number of vertices and \|E\| is the number of edges
 
 | Title | Content Used | Author |
 | :--- | :--- | :--- |
