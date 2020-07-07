@@ -30,7 +30,7 @@
   * [Amortized Analysis Quiz](lectures/amortized-analysis/amortized-analysis-quiz.md)
 * [Midterm Preparation](lectures/midterm-preparation.md)
 * [Graph Algorithms](lectures/elementary-graph-algorithms/README.md)
-  * [Lecture 12: Graph Fundamentals](lectures/elementary-graph-algorithms/lecture-12-graph-fundamentals.md)
+  * [Lecture 12: Graph Representations](lectures/elementary-graph-algorithms/lecture-12-graph-fundamentals.md)
   * [Lecture 13: DFS BFS Applications](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
 
 ## AWS Machine Learning

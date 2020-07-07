@@ -1,6 +1,6 @@
-# Lecture 12: Graph Fundamentals
+# Lecture 12: Graph Representations
 
-## Graph Representations
+## Common Graph Operations
 
 {% tabs %}
 {% tab title="Undirected Graphs" %}
@@ -94,7 +94,7 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 What is the x and y value for the nodes? What does that mean?
 {% endhint %}
 
-### Adjacency Matrices
+## Adjacency Matrices
 
 {% hint style="info" %}
 Don't worry about the adjacency list representation just yet.
@@ -129,7 +129,7 @@ $$
 * In the real world, we use sparse graphs or adjacency lists. There are a huge number of vertices, but small average vertex degrees. They save you lots of space.
 * For a given situation, your implementation will likely depend on how your program uses the graph and the programming language.
 
-### Adjacency Lists
+## Adjacency Lists
 
 ![An Adjacency List Representation of the Graph](../../.gitbook/assets/image%20%2875%29.png)
 
@@ -139,13 +139,41 @@ Adjacency lists maintain a vertex-indexed array of lists.
 
 | Method | Description |
 | :--- | :--- |
-| `Graph(int V)` | Creates an empty graph with `V` vertices |
-| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. |
-| `Iterable adj(int v)` | Returns vertices adjacent from `v`. |
+| `Graph(int V)` | Constructs an empty graph with `V` nodes on the graph. |
+| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. We specify two nodes. |
+| `Iterable adj(int v)` | Returns v's neighbors: a list of nodes adjacent to the specified nodes.  |
 | `int V()` | Return the number of vertices |
 | `int E()` | Return the number of edges. |
 
+
+
 ## Implementation
+
+```java
+public class Graph{
+    private final int V; //We don't want to change the number of nodes.
+    private ArrayList<Integer>[] adj; //holds the list.
+    
+    //Create the Array of lists.
+    public Graph(int V){
+        this.V = V;adj = V;
+        adj = new ArrayList[V]; //Array of array lists.
+        for (int v = 0; v < V; v++)
+            adj[v] = new ArrayList<Integer>(); //Give each node an empty list.
+    }
+    
+    //Fill in the array lists.
+    public void addEdge(int v, int w){ // v points to w. w points to v.
+
+```
+
+
+
+
+
+
+
+
 
 ## Breadth First Search
 
@@ -158,4 +186,5 @@ Adjacency lists maintain a vertex-indexed array of lists.
 | CPS 450 Class | Structure | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
 | [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals) |
 | Introduction to Algorithms | Adjacency Matrix | Thomas e.t. al. |
+| Graph | None, but see quizzes. | Visualgo |
 
