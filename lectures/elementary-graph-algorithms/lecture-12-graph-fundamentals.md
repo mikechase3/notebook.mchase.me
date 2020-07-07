@@ -39,15 +39,62 @@ I have no idea how to implement the first three or what arguments they would tak
 | Plalanarity | Can the graph be drawn in the plane with no crossing edges? |
 | Graph isomorphism | Are two graphs isomorphic? \(They are equivalent even though they look differently? |
 
-## Gathering Information From Files
+## Gathering Nodes and Edges From Files
 
-{% hint style="info" %}
-Left off at 10:48
+
+
+#### The Text File
+
+We can sort the values using spaces or a CSV or tab spaced.
+
+1. The first line describes how many nodes and how many edges there are.
+2. Lines 2-6 contain information about the nodes.
+3. Lines 7-11 contain information about the edges.
+
+```java
+graph.txt:
+4 5 // 4 nodes, 5 edges.
+0 10 10 // Node 0 has an x-value of 10 and a y-value of 10.
+1 90 40 // Node 1 has an x-value of 90 and a y-value of 40.
+2 30 10
+3 90 10
+0 2 1 //Node #0 is connected to node #2. The weight is 1.
+1 2 5 //Node #1 is connected to node #2. The weight is 5.
+2 3 3 //Node #2 is connected to node #3. The weight is 3.
+1 3 2
+0 3 10
+```
+
+{% hint style="warning" %}
+She describes the text-file as having an x and a y axis. Why? How? Why do node have 3 parameters?
 {% endhint %}
 
+#### Reading Data into the text file.
 
+![](../../.gitbook/assets/image%20%2869%29.png)
 
+| Function | Description |
+| :--- | :--- |
+| `BufferedReader in = new BR(new FR(args[0]));` | Opens the text file. |
+| `StringTokenizer(oneLine);` | Gets one line? |
+| `int V` | Number of vertices. |
+| `int E` | Number of edges. |
+| `G` | Pointer to a graph object |
+| `G = new EdgeWeightedDiagraph(V);` | Create a new graph with `V` objects. |
+| `for (int i = 0; i < V; i++){`  | For all the vertexes... |
+| `oneLine = in.readLine()` | Grab the line. It's stored in a weird type. |
+| `str = new StringTokenizer(oneLine);` | Convert it from a weird type to a string. |
+| `v = Integer.parseInt(str.nextToken());` | Takes that string |
+| `x = Double.parseInt(str.nextToken());` | Take the string and find x. |
+| `y = Double.parseInt(str.nextToken());` | Take the string and find y. |
+| `for(int i = 0; i < E; i++){` | For loop for reading edge information |
+| `v = Integer.parseInt(str.nextToken());` | Get first node connection. |
+| `w = Integer.parseInt(str.nextToken());` | Get the second node. |
+| `weight = Double.parseDouble(str.nextToken());` | Get the weight. |
 
+{% hint style="warning" %}
+What is the x and y value for the nodes?
+{% endhint %}
 
 ## Breadth First Search
 
