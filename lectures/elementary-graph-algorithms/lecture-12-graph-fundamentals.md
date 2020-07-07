@@ -91,14 +91,37 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 | `v = Integer.parseInt(str.nextToken());` | Get first node connection. |
 | `w = Integer.parseInt(str.nextToken());` | Get the second node. |
 | `weight = Double.parseDouble(str.nextToken());` | Get the weight. |
+| `e = new DirectedEdge(v, w, weight);` | Make an edge object. |
+| `G.addEdge(e);` | Adds a directed edge to the graph. |
 
 {% hint style="warning" %}
-What is the x and y value for the nodes?
+What is the x and y value for the nodes? What does that mean?
 {% endhint %}
+
+### Adjacency Matrix
+
+We can define a graph by vertices and edges. Formally, we define a _\|V\| x \|V\| matrix A =_ $$a_{ij}$$ where
+
+$$
+|V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases}
+ &1 \text{ if } (i,j)\in E\\ 
+ &0 \text{ if } (i,j)\notin E
+\end{cases}
+$$
+
+![](../../.gitbook/assets/image%20%2873%29.png)
+
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 ## Breadth First Search
 
 ## Depth First Search
 
-## 
+## Works Cited
+
+| Title | Content Used | Author |
+| :--- | :--- | :--- |
+| CPS 450 Class | Structure | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
+| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals) |
+| Introduction to Algorithms | Adjacency Matrix | Thomas e.t. al. |
 
