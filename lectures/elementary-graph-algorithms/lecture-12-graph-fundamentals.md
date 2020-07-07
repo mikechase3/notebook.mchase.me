@@ -164,10 +164,23 @@ public class Graph{
     
     //Fill in the array lists.
     public void addEdge(int v, int w){ // v points to w. w points to v.
-
+        adj[v].add(w); //Add w to v's adjacency list (neighbor set)
+        adj[w].add(v); //Add v to w's neighbor set.
+    }
+    
+    public Iterable adj(int v){ 
+        return adj[v]; //Return iterator for v's neighbor set.
+    }
+    
+    public int V(){
+        return V;
+    }
+}
 ```
 
-
+{% hint style="warning" %}
+What is the iterator? Line 20?  What is it iterating through? is v's neighbor set the 
+{% endhint %}
 
 
 
