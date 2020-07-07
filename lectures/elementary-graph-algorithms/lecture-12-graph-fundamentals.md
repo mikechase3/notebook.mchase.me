@@ -39,11 +39,7 @@ I have no idea how to implement the first three or what arguments they would tak
 | Plalanarity | Can the graph be drawn in the plane with no crossing edges? |
 | Graph isomorphism | Are two graphs isomorphic? \(They are equivalent even though they look differently? |
 
-## Gathering Nodes and Edges From Files
-
-
-
-#### The Text File
+### Text File Representations
 
 We can sort the values using spaces or a CSV or tab spaced.
 
@@ -98,9 +94,13 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 What is the x and y value for the nodes? What does that mean?
 {% endhint %}
 
-### Adjacency Matrix
+### Adjacency Matrices
 
-We can define a graph by vertices and edges. Formally, we define a _\|V\| x \|V\| matrix A =_ $$a_{ij}$$ where
+{% hint style="info" %}
+Don't worry about the adjacency list representation just yet.
+{% endhint %}
+
+For unweighted graphs, especially small ones, we use adjacency matrices because they only take up 1 bit. We can define a graph by vertices and edges. Formally, we define a _\|V\| x \|V\| matrix A =_ $$a_{ij}$$ where
 
 $$
 |V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases}
@@ -112,6 +112,40 @@ $$
 ![](../../.gitbook/assets/image%20%2873%29.png)
 
 ![](../../.gitbook/assets/image%20%2872%29.png)
+
+#### Adjacency Matrix Analysis
+
+| Representation | Space | Add Edge | Find if Edge Exists | Iterate over Adj. Vertices |
+| :--- | :--- | :--- | :--- | :--- |
+| Adjacency matrix | $$V^2$$  | 1 | 1 | V |
+| Adjacency Lists | E+V | 1 | `degree(v)` | `degree(v)` |
+
+* The space requirement is $$\Theta(|V|^2)$$ 
+* The time complexity for listing all vertices adjacent to node `u` is $$\Theta(|V|)$$, which is how long it takes to check one row of the adjacency matrix. _This is asking "what is adjacent to this node, not all nodes\)._
+* The running time to determine if two nodes are directly connected is $$\Theta(1).$$ You can just check the adjacency list.
+
+#### Real-World Differences
+
+* In the real world, we use sparse graphs or adjacency lists. There are a huge number of vertices, but small average vertex degrees. They save you lots of space.
+* For a given situation, your implementation will likely depend on how your program uses the graph and the programming language.
+
+### Adjacency Lists
+
+![An Adjacency List Representation of the Graph](../../.gitbook/assets/image%20%2875%29.png)
+
+Adjacency lists maintain a vertex-indexed array of lists. 
+
+## API
+
+| Method | Description |
+| :--- | :--- |
+| `Graph(int V)` | Creates an empty graph with `V` vertices |
+| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. |
+| `Iterable adj(int v)` | Returns vertices adjacent from `v`. |
+| `int V()` | Return the number of vertices |
+| `int E()` | Return the number of edges. |
+
+## Implementation
 
 ## Breadth First Search
 
