@@ -1,7 +1,5 @@
 # Lecture 13: WEIGHTED Graph Representations
 
-## 
-
 ## Topological Sorting
 
 ## Strong Connected Components

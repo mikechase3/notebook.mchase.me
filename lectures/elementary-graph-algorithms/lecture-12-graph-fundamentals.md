@@ -2,6 +2,12 @@
 
 ## Common Graph Operations
 
+Graphs have a set of edges and a set of vertices:
+
+{% hint style="info" %}
+`G = ({a, b, c}, { {a,b}, {b,c} }` Set of vertices and edges.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Undirected Graphs" %}
 Defining Undirected Graphs
