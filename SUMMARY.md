@@ -33,6 +33,7 @@
   * [Lecture 13: WEIGHTED Graph Representations](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
   * [Lecture 14:](lectures/elementary-graph-algorithms/lecture-14.md)
   * [Graphs Problem Solving Session](lectures/elementary-graph-algorithms/graphs-problem-solving-session.md)
+  * [Graph Components Quiz](lectures/elementary-graph-algorithms/graph-components-quiz.md)
 
 ## AWS Machine Learning
 
