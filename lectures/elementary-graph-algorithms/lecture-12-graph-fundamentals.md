@@ -137,6 +137,9 @@ $$
 
 ## Adjacency Lists
 
+* The size of the array `adj[]` is the number of nodes on the graphs.
+* Each node \# points to it's outgoing neighbors.
+
 ![An Adjacency List Representation of the Graph](../../.gitbook/assets/image%20%2875%29.png)
 
 Adjacency lists maintain a vertex-indexed array of lists. 
@@ -190,6 +193,10 @@ What is the iterator? Line 20?  What is it iterating through? is v's neighbor se
 
 ## Directed Graphs
 
+Directed graphs store the outgoing edges in their adjacency list.
+
+![](../../.gitbook/assets/image%20%2881%29.png)
+
 ### Directed Graphs API
 
 ![](../../.gitbook/assets/image%20%2877%29.png)
@@ -212,10 +219,11 @@ Go through this later to see if I understand it.
 >
 > Breadth-first search: Go level by level in the graph − Applications of BFS: ● Crawling a network \(finding all nodes/edges on a graph\) ● Finding the shortest path \(\# of hops\) from a source to a destination ● Depth-first search: Go as deep as you can, then backtrack − Applications of DFS: ● Topological sort ● Finding strongly connected components of a graph ● Both take Θ\(\|V\|+\|E\|\) time − where \|V\| is the number of vertices and \|E\| is the number of edges
 
+## Works Cited
+
 | Title | Content Used | Author |
 | :--- | :--- | :--- |
 | CPS 450 Class | Structure | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
-| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals) |
 | Introduction to Algorithms | Adjacency Matrix | Thomas e.t. al. |
 | Graph | None, but see quizzes. | Visualgo |
 
