@@ -11,13 +11,49 @@ When it comes to directed **weighted** graphs; however, we also have to specify 
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
+### Weighted Digraph Implementation
+
+```java
+public class DirectedEdge{ //Define a class for the edge.
+
+    //Class Variables. Edges are only declared once.
+    private final int v, w;
+    private final double weight;
+    
+    //Constructor to make the directed edge.
+    public DirectedEdge(int v, int w, double weight){
+        this.v = v;
+        this.w = w;
+        this.weight = weight;
+    }
+    
+    // Member Methods; (v is source, w is destination).
+    
+    //Find the source node.
+    public int from(){ //endpoint v of edge v->w
+        return v;
+    }
+    
+    //Find the destination node.
+    public int to(){ //Endpoint v -> w
+        return w;
+    }
+    
+    public double weight(){
+        return weight;
+    }
+}
+```
+
+### Importing Graph Nodes & Edges
+
+```java
+Google how to import graphs nodes and edges from a text file.
+```
+
 {% hint style="info" %}
-Left off at 07:50
+Breadth First Search is covered just a bit in lecture 13, but is primarily discussed in lecture 14 so I put it there. 
 {% endhint %}
-
-
-
-## Adjacency
 
 ## Works Cited
 

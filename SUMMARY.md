@@ -31,9 +31,10 @@
 * [Graph Algorithms](lectures/elementary-graph-algorithms/README.md)
   * [Lecture 12: Graph Representations](lectures/elementary-graph-algorithms/lecture-12-graph-fundamentals.md)
   * [Lecture 13: WEIGHTED Graph Representations](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
-  * [Lecture 14:](lectures/elementary-graph-algorithms/lecture-14.md)
+  * [Lecture 14: BFS & DFS](lectures/elementary-graph-algorithms/lecture-14.md)
   * [Graphs Problem Solving Session](lectures/elementary-graph-algorithms/graphs-problem-solving-session.md)
   * [Graph Components Quiz](lectures/elementary-graph-algorithms/graph-components-quiz.md)
+  * [Lecture 15: Topological Sort & Strongly Connected Components](lectures/elementary-graph-algorithms/lecture-15-topological-sort-and-strongly-connected-components.md)
 
 ## AWS Machine Learning
 
