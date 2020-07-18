@@ -64,7 +64,7 @@
   * [The Swift Language Programming Guide](languages/ios-and-swift/the-swift-language-programming-guide.md)
   * [Swift Cheat Sheet](languages/ios-and-swift/swift-cheat-sheet-1.md)
 * [MIPS](languages/mips.md)
-* [Java](languages/java.md)
+* [Java Collections Framework](languages/java.md)
 
 ## Misc
 
