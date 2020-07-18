@@ -395,7 +395,23 @@ public class ArrayDequeDemo {
 {% endtab %}
 
 {% tab title="Sets" %}
+1. Unordered objects
+2. Duplicates cannot be stored.
 
+```java
+Set<T> hs = new HashSet<> ();
+Set<T> lhs = new LinkedHashSet<> ();
+Set<T> ts = new TreeSet<> ();
+Where T is the type of the object.
+```
+
+## HashSet
+
+## LinkedHashSet
+
+## Sorted Set
+
+### TreeSet
 {% endtab %}
 
 {% tab title="" %}
