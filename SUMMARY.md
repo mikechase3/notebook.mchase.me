@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CPS 450 Class Notes](README.md)
+* [Mike Chase's Notebook](README.md)
 * [Notes to Self](for-michael.md)
 
 ## CPS 450 <a id="lectures"></a>
@@ -70,10 +70,6 @@
 
 * [Bash](misc/bash.md)
 * [Git](misc/git.md)
-
-## CPS 350
-
-* [Java Review](cps-350/java-review.md)
 
 ## Psychology
 

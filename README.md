@@ -1,10 +1,11 @@
 ---
 description: >-
-  This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450
-  Course.
+  This is a collection of Mike Chase's notes from like 70% of his computer
+  science classes after he realized there's no way he'll remember everything he
+  learned.
 ---
 
-# CPS 450 Class Notes
+# Mike Chase's Notebook
 
 This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS 450 class. She normally does not teach this class, but during the summer, she is teaching it remotely.
 

@@ -49,7 +49,6 @@ Collection is the interface which implements iterable. It contains the following
 | **spliterator\(\)** | This method is used to create a [Spliterator](https://www.geeksforgeeks.org/java-program-to-convert-iterator-to-spliterator/) over the elements in this collection. |
 | **stream\(\)** | This method is used to return a sequential Stream with this collection as its source. |
 | **toArray\(\)** | This method is used to return an array containing all of the elements in this collection. |
-|  |  |
 {% endtab %}
 
 {% tab title="List" %}
@@ -407,7 +406,92 @@ Where T is the type of the object.
 
 ## HashSet
 
+`HashSet`is the implementation of a hash table. It also lets you insert Null Elements. 
+
+#### Example
+
+```java
+// Java program to demonstrate the 
+// working of a HashSet 
+
+import java.util.*; 
+public class HashSetDemo { 
+	public static void main(String args[]) 
+	{ 
+		// Creating HashSet and 
+		// adding elements 
+		HashSet<String> hs = new HashSet<String>(); 
+
+		hs.add("Geeks"); 
+		hs.add("For"); 
+		hs.add("Geeks"); 
+		hs.add("Is"); 
+		hs.add("Very helpful"); 
+
+		// Traversing elements 
+		Iterator<String> itr = hs.iterator(); 
+		while (itr.hasNext()) { 
+			System.out.println(itr.next()); 
+		} 
+	} 
+} 
+
+```
+
+#### Output
+
+```java
+Very helpful
+Geeks
+For
+Is
+```
+
 ## LinkedHashSet
+
+This is a `HashSet`, but it uses a doubly linked list and **retains the ordering of the elements.** It still won't accept duplicates though.
+
+#### Example
+
+```java
+// Java program to demonstrate the 
+// working of a LinkedHashSet 
+
+import java.util.*; 
+public class LinkedHashSetDemo { 
+	public static void main(String args[]) 
+	{ 
+		// Creating LinkedHashSet and 
+		// adding elements 
+		LinkedHashSet<String> lhs 
+			= new LinkedHashSet<String>(); 
+
+		lhs.add("Geeks"); 
+		lhs.add("For"); 
+		lhs.add("Geeks"); 
+		lhs.add("Is"); 
+		lhs.add("Very helpful"); 
+
+		// Traversing elements 
+		Iterator<String> itr = lhs.iterator(); 
+		while (itr.hasNext()) { 
+			System.out.println(itr.next()); 
+		} 
+	} 
+} 
+
+```
+
+#### Output
+
+```java
+Geeks
+For
+Is
+Very helpful
+```
+
+
 
 ## Sorted Set
 
