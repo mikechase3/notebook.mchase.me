@@ -42,9 +42,7 @@ We require:
 | \[B, J, G\] | \[A, B, J, G\] | A |
 | \[J, G, D\] | \[A, B, J, G, D\] | \[A, B, J\] |
 
-{% hint style="info" %}
-Lef off at 06:35
-{% endhint %}
+
 
 ## Depth First Search
 
