@@ -286,6 +286,7 @@ class GFG {
 #### What is It?
 
 ```java
+Queue <T> q = new LinkedList<Integer>
 Queue <T> pq = new PriorityQueue<> ();
 Queue <T> ad = new ArrayDeque<> ();
 Where T is the type of the object.
