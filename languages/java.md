@@ -227,6 +227,8 @@ Stack is a subclass of Vector and a legacy class. It is thread safe which might 
 
 #### What is it?
 
+I don't know. Nobody ever taught us about Vectors. One of my instructors said they're not important. That's probably not true or they wouldn't exist. And Stacks use them I guess; I'm sure it's efficient and important somewhere. But I don't know where yet. 
+
 > [**Vector:**](https://www.geeksforgeeks.org/java-util-vector-class-java/) A vector provides us with dynamic arrays in Java. Though, it may be slower than standard arrays but can be helpful in programs where lots of manipulation in the array is needed. This is identical to ArrayList in terms of implementation. However, the primary difference between a vector and an ArrayList is that a Vector is synchronized and an ArrayList is non-synchronized. Let’s understand the Vector with an example:
 
 #### How to use it:
@@ -493,19 +495,181 @@ Very helpful
 
 
 
-## Sorted Set
+## TreeSet
 
-### TreeSet
+{% hint style="info" %}
+TreeSet is actually under the sorted set interface.
+{% endhint %}
+
+#### What is it?
+
+It's like the set interface, but for trees. Therefore, you can use some more methods that handle the ordering and the data that goes in. Probably for like BinarySearch but I don't know that for sure... yet.
+
+> [**TreeSet:**](https://www.geeksforgeeks.org/treeset-in-java-with-examples/) The TreeSet class uses a Tree for storage. The ordering of the elements is maintained by a set using their natural ordering whether or not an explicit comparator is provided. This must be consistent with equals if it is to correctly implement the Set interface. It can also be ordered by a Comparator provided at set creation time, depending on which constructor is used. Let’s understand TreeSet with an example:
+
+```java
+// Java program to demonstrate the 
+// working of a TreeSet 
+
+import java.util.*; 
+public class TreeSetDemo { 
+	public static void main(String args[]) 
+	{ 
+		// Creating TreeSet and 
+		// adding elements 
+		TreeSet<String> ts 
+			= new TreeSet<String>(); 
+
+		ts.add("Geeks"); 
+		ts.add("For"); 
+		ts.add("Geeks"); 
+		ts.add("Is"); 
+		ts.add("Very helpful"); 
+
+		// Traversing elements 
+		Iterator<String> itr = ts.iterator(); 
+		while (itr.hasNext()) { 
+			System.out.println(itr.next()); 
+		} 
+	} 
+} 
+
+```
+
+#### Output
+
+```java
+For
+Geeks
+Is
+Very helpful
+```
 {% endtab %}
 
 {% tab title="" %}
+#### What is it?
 
+You know, I wish somebody would've taught me to use these interfaces. I learned about `ArrayLists` in my java classes, but nobody ever taught me how to use Map Interfaces in Java. 
+
+I know how to implement one. That's what we do in data structures, but you know... unless I end up at Facebook or Google or somewhere where there's a million data points I'll just use standard libraries and collections.
+
+```java
+Map<T> hm = new HashMap<> ();
+Map<T> tm = new TreeMap<> ();
+Map<T> sm = new SortedMap<> ();
+Where T is the type of the object.
+```
+
+## HashMap
+
+#### Example
+
+```java
+// Java program to demonstrate the 
+// working of a HashMap 
+
+import java.util.*; 
+public class HashMapDemo { 
+	public static void main(String args[]) 
+	{ 
+		// Creating HashMap and 
+		// adding elements 
+		HashMap<Integer, String> hm 
+			= new HashMap<Integer, String>(); 
+
+		hm.put(1, "Geeks"); 
+		hm.put(2, "For"); 
+		hm.put(3, "Geeks"); 
+
+		// Finding the value for a key 
+		System.out.println("Value for 1 is " + hm.get(1)); 
+
+		// Traversing through the HashMap 
+		for (Map.Entry<Integer, String> e : hm.entrySet()) 
+			System.out.println(e.getKey() + " " + e.getValue()); 
+	} 
+} 
+
+```
+
+#### Output
+
+```text
+Value for 1 is Geeks
+1 Geeks
+2 For
+3 Geeks
+```
 {% endtab %}
 {% endtabs %}
 
+So now you know that these interfaces exist! If you actually want to actually get good at them, 
+
+## Further Reading
+
+This is copied and pasted from Geeks For Geeks, the same resource I used \(too much\) to put a couple of reminders in my notes.
 
 
-#### Further Reading & Works Cited
+
+#### What You Should Learn in Java Collections?
+
+1. [List Interface](https://www.geeksforgeeks.org/list-interface-java-examples/)
+   * [Abstract List Class](https://www.geeksforgeeks.org/abstractlist-in-java-with-examples/)
+   * [Abstract Sequential List Class](https://www.geeksforgeeks.org/abstractsequentiallist-in-java-with-examples/)
+   * [Array List](https://www.geeksforgeeks.org/arraylist-in-java/)
+   * [Vector Class](https://www.geeksforgeeks.org/java-util-vector-class-java/)
+   * [Stack Class](https://www.geeksforgeeks.org/stack-class-in-java/)
+   * [LinkedList Class](https://www.geeksforgeeks.org/linked-list-in-java/)
+2. [Queue Interface](https://www.geeksforgeeks.org/queue-interface-java/)
+   * [Blocking Queue Interface](https://www.geeksforgeeks.org/blockingqueue-interface-in-java/)
+   * [AbstractQueue Class](https://www.geeksforgeeks.org/abstractqueue-in-java-with-examples/)
+   * [PriorityQueue Class](https://www.geeksforgeeks.org/priority-queue-class-in-java-2/)
+   * [PriorityBlockingQueue Class](https://www.geeksforgeeks.org/priorityblockingqueue-class-in-java/)
+   * [ConcurrentLinkedQueue Class](https://www.geeksforgeeks.org/concurrentlinkedqueue-in-java-with-examples/)
+   * [ArrayBlockingQueue Class](https://www.geeksforgeeks.org/arrayblockingqueue-class-in-java/)
+   * [DelayQueue Class](https://www.geeksforgeeks.org/delayqueue-class-in-java-with-example/)
+   * [LinkedBlockingQueue Class](https://www.geeksforgeeks.org/linkedblockingqueue-class-in-java/)
+   * [LinkedTransferQueue](https://www.geeksforgeeks.org/linkedtransferqueue-in-java-with-examples/)
+3. [Deque Interface](https://www.geeksforgeeks.org/deque-interface-java-example/)
+   * BlockingDeque Interface
+   * [ConcurrentLinkedDeque Class](https://www.geeksforgeeks.org/concurrentlinkeddeque-in-java-with-examples/)
+   * [ArrayDeque Class](https://www.geeksforgeeks.org/arraydeque-in-java/)
+4. [Set Interface](https://www.geeksforgeeks.org/set-in-java/)
+   * [Abstract Set Class](https://www.geeksforgeeks.org/abstractset-class-in-java-with-examples/)
+   * [CopyOnWriteArraySet Class](https://www.geeksforgeeks.org/copyonwritearrayset-in-java/)
+   * [EnumSet Class](https://www.geeksforgeeks.org/enumset-class-java/)
+   * [ConcurrentHashMap Class](https://www.geeksforgeeks.org/concurrenthashmap-in-java/)
+   * [HashSet Class](https://www.geeksforgeeks.org/hashset-in-java/)
+   * [LinkedHashSet Class](https://www.geeksforgeeks.org/linkedhashset-in-java-with-examples/)
+5. [SortedSet Interface](https://www.geeksforgeeks.org/sortedset-java-examples/)
+   * [NavigableSet Interface](https://www.geeksforgeeks.org/navigableset-java-examples/)
+   * [TreeSet](https://www.geeksforgeeks.org/treeset-in-java-with-examples/)
+   * [ConcurrentSkipListSet Class](https://www.geeksforgeeks.org/concurrentskiplistset-in-java-with-examples/)
+6. [Map Interface](https://www.geeksforgeeks.org/map-interface-java-examples/)
+   * [SortedMap Interface](https://www.geeksforgeeks.org/sortedmap-java-examples/)
+   * [NavigableMap Interface](https://www.geeksforgeeks.org/navigablemap-interface-in-java-with-example/)
+   * [ConcurrentMap Interface](https://www.geeksforgeeks.org/concurrentmap-interface-java/)
+   * [TreeMap Class](https://www.geeksforgeeks.org/treemap-in-java/)
+   * AbstractMap Class
+   * [ConcurrentHashMap Class](https://www.geeksforgeeks.org/concurrenthashmap-in-java/)
+   * [EnumMap Class](https://www.geeksforgeeks.org/enummap-class-java-example/)
+   * [HashMap Class](https://www.geeksforgeeks.org/java-util-hashmap-in-java-with-examples/)
+   * [IdentityHashMap Class](https://www.geeksforgeeks.org/identityhashmap-class-java/)
+   * [LinkedHashMap Class](https://www.geeksforgeeks.org/linkedhashmap-class-java-examples/)
+   * [HashTable Class](https://www.geeksforgeeks.org/hashtable-in-java/)
+   * [Properties Class](https://www.geeksforgeeks.org/java-util-properties-class-java/)
+7. Other Important Concepts
+   * How to convert HashMap to ArrayList
+   * [Randomly select items from a List](https://www.geeksforgeeks.org/randomly-select-items-from-a-list-in-java/?ref=rp)
+   * [How to add all items from a collection to an ArrayList](https://www.geeksforgeeks.org/how-to-add-all-items-from-a-collection-to-an-arraylist-in-java/?ref=rp)
+   * [Conversion of Java Maps to List](https://www.geeksforgeeks.org/conversion-of-java-maps-to-list/)
+   * [Array to ArrayList Conversion](https://www.geeksforgeeks.org/array-to-arraylist-conversion-in-java/?ref=rp)
+   * [ArrayList to Array Conversion](https://www.geeksforgeeks.org/arraylist-array-conversion-java-toarray-methods/?ref=rp)
+   * [Differences between Array and ArrayList](https://www.geeksforgeeks.org/array-vs-arraylist-in-java/?ref=rp)
+
+## Works Cited
+
+All the content comes from here... well, with the exception of some stuff I wrote up. But 80% of it is from Geeks For Geeks authors:
 
 * [Geeks for Geeks: Java Collections](https://www.geeksforgeeks.org/collections-in-java-2/)
 
