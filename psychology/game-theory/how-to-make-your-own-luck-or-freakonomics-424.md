@@ -1,3 +1,9 @@
+---
+description: >-
+  Because life is a game of incomplete information, where you never know
+  everything, you can control how you play in poker, and in life.
+---
+
 # How to Make Your Own Luck \| Freakonomics 424
 
 ## Synopsis
@@ -16,12 +22,18 @@ This is a Freakonomics Radio episode dealing in behavioral psychology. It regard
 * Do you want something safe and predictable, or something more rewarding in your career?
 * For me, computer science is stable. Low risk \(because it's high paying\), but low reward in that it's not super fun.
 
+### Life is Uncertain
+
+Poker is a metaphor for life. It's a tool that lets you ask psychological questions. Because life is filled with incomplete information, you must control how you represent yourself and choose how to play.
+
+There's so much more you can do, but the ultimate outcome comes down to you.
+
 ### We Decide on Uncertainty
 
 You never know why a person makes the decisions they do. We can speculate based on incomplete data. You're put in high pressure situations.
 
 * If you want to play, you must play the big blind.
-* Maybe she has a premiuym hand.
+* Maybe she has a premium hand.
 * Maybe she has a mediocre hand but she thinks she can beat the other players.
 * She may also choose to fold or raise.
 * She has observed the other players are conservative.
@@ -29,16 +41,17 @@ You never know why a person makes the decisions they do. We can speculate based 
 * **Conclusion**: Her reasoning, like her cards, is only known to her. It's not the best hand that wins, it's the best player.
 * We must **decide on uncertainty.** The world is gray, not black and white.
 
-### Doctors and Diagnoses
+### Overconfidence: Doctors and Diagnoses
 
 * Once your certainty reaches a certain threshold, the doctor treats it like it's certain.
 * Really, the doctor is just doing the best that he can.
-* Communication is often communicated poorly.
+* We're too overconfident after a certain threshold.
 
 ### Our Feedback Is Limited
 
 * In most life, we don't get immediate feedback.
-* It's convluted.
+* It's convoluted.
+* Poker reduces the noise and allows you to get immediate feedback.
 
 ## Locus of Control
 
@@ -61,7 +74,7 @@ Most of the time, when good things happen, people take the internal locus of con
 * You solve this puzzle through decision making and analysis.
 * What did I control? What did I not? What was the outcome?
 
-## Victims or Victors
+## Victims and Victors
 
 There is no such thing as objective reality. Every time we experience something, we cast our own judgment on it and see it for ourselves.
 
@@ -81,6 +94,76 @@ There is no such thing as objective reality. Every time we experience something,
 
 * People are sick of hearing you complain.
 * It's a downward spiral that continues.
+
+## Deception Is Part Of Life
+
+Deception is not only valuable, but it's necessary. Deception is usually considered negative in real life.
+
+We use deception much more than we realize.
+
+* Every single social interaction has deception.
+* You don't like everyone as much as you tell them.
+* When you're in a negotiation, you present yourself as a little stronger than you actually are.
+* You present yourself in the best light to get hired.
+* The person interviewing you is going to present the job in the best way possible so you like the job and take a lower salary.
+* You choose **what** to present about yourself, and you choose **how** to present yourself.
+
+Many of us underestimate our strength in real life, but we have so much control over just how we present ourselves.
+
+### The Confidence Game
+
+Your confidence is a signal of how successful you'll be. It's a little bit dispiriting actually. If I go in expecting I'll get the job, I'm more likely to put in the initial effort, research the company, send a thank you letter. I might not even try if I don't feel confident, even though I'm just as qualified for the job.
+
+## Gender and Confidence
+
+Research shows there's a big split of confidence between genders.
+
+> I can to realize in the poker world that stereotypes exist. I thought I was above all that. Part of it is the immigrant in me. I was an outsider who didn't speak English and I didn't have money. I wore hand-me-downs. All of those things stuck with me and made me a little more **self-conscious**.
+>
+> When you're female, other people won't step on your toes. They try to be nice and affable, not confrontational.
+
+* Girls are more self-conscious.
+* When you're female, you try not to step on other people's toes. You try to be nice and affable, not confontational.
+* If you're confrontational, you push back and it's not going to go well you think.
+* Women are judged on a very different scale then men.
+* If you're confrontational, and you're a girl, and you try to push back, you're not going to look well. Women who negotiate more are not going to get what they negotiate for and are generally liked way less.
+
+### Gender is an Asset and a Curse
+
+* The first thing is that people realize she's a women.
+* How do you see women and how do you see women playing poker?
+* Someone gave the women information and power. He wanted him to know that he was being a gentlemen.
+* Men are nice and chivalrous.
+* Other men think you should not be at the poker table at all. They will bull you because you're a woman. 
+
+## Insecurity
+
+### The Need To Be Liked
+
+In poker, she realized she was being passive so often and she didn't stand up for herself. She thought if men raised, it was because they had a better hand. **The need to be liked is stronger than the need to actually win.**
+
+### Stop Being Passive
+
+* There's a false sense of security in passavity.
+* Every passive decision leads to less chips.
+* How many times have I walked away from someone when they showed me their strength, when I shouldn't have?
+* In truth, this is the **seed** of far bigger problems.
+* I had to overcome my socialization to take bigger steps forward in life.
+* There's so much emotional baggage that has accumulated over my life, and that needs to change in order to be more aggressive in life and win more chips.
+
+## Good Players Figure Out What Works For Them
+
+* You need to master yourself and learn what works best for you.
+
+## The Ludic Fallacy
+
+He says you can't use games at a metaphor. Life is messy and games are neat, but Konnikova argues that its what makes it a wonderful tool.
+
+That's what makes them powerful as teaching tools. You can't learn in noisy environments because there are too many variables, but poker removes them in an artificial way which alows you to acccess your thoughts on a much deeper way.
+
+In life, you can use 
+
+
 
 ## Lessons Learned
 
