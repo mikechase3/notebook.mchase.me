@@ -1,310 +1,542 @@
 # How to Make Your Own Luck \| Freakonomics 424
 
+## Synopsis
 
+This is a Freakonomics Radio episode dealing in behavioral psychology. It regards Maria Konnikova and the lessons she's learned from playing professional poker, which she recorded in her new book: _The Biggeest Bluff_. Below are my personal notes, and you can find the original episode and transcript [here](https://freakonomics.com/podcast/konnikova-biggest-bluff/).
 
-> Before she decided to become a poker pro, Maria Konnikova didn’t know how many cards are in a deck. But she did have a Ph.D. in psychology, a brilliant coach, and a burning desire to know whether life is driven more by skill or chance. She found some answers in poker — and in her new book _The Biggest Bluff_, she’s willing to tell us everything she learned.
->
-> _Listen and subscribe to our podcast at_ [_**Apple Podcasts**_](https://itunes.apple.com/podcast/freakonomics-radio/id354668519)_,_ [_**Stitcher**_](https://www.stitcher.com/podcast/freakonomics-radio)_, or_ [_**elsewhere**_](https://freakonomics.com/about/where-to-listen-to-the-podcast/)_. Below is a transcript of the episode, edited for readability. For more information on the people and ideas in the episode, see the links at the bottom of this post._
->
-> \*      \*      \*
->
-> I’d like you to pay special attention to this episode, because there will be a quiz at the end. We’re trying something a bit different. If it works, we might start a spinoff podcast based on this idea. The inspiration goes back to the fact that before _Freakonomics Radio_ took over my life, I wrote books. And the thing about a book is, you often spend several years on it — there’s the idea, the research and reporting, outlining, rough drafts and more drafts, and finally, you publish your book. Then, if you’re lucky, you get to go on a radio or T.V. show or podcast to talk about it, to promote it. But as every author knows, this experience can be unsatisfying.
->
-> The interviewer often hasn’t even cracked your book. So, you get a lot of questions like: “What’s your book about exactly?” and “So, why’d you want to write this book about” — long pause here while they look at the book — “about, um, behavioral economics?” And then you, the author, get a few minutes to summarize your book and, inevitably, your summary isn’t very good. And why would it be? The words on the page — that’s what you’re good at. Instead, you’re now being asked to ad lib a quickie replica of the book you spent years writing. Now that I’m making podcasts instead of books — at least for the time being — I don’t have to suffer through this process. But I hear a lot of other writers who are still doing a lot of suffering.
->
-> I do occasionally hear a great interview with an author that gives me a sense of them and their book — but only occasionally. Usually, my experience as a listener is just as unsatisfying as my experience was as an author. So, I got to thinking — what if, rather than asking writers to summarize their books and ask them a few generic questions, what if we tried something a bit different? What if we had the authors read some excerpts of the book, so listeners can hear the actual writing, and what if we also interviewed the author? Wouldn’t that give listeners a truer sense of things? So, that’s what we’re trying in this week’s episode, this hybrid model. We picked a book and author I think you’re going to love; I certainly did. Remember — pay attention because we’ll have some questions for you at the end.
->
-> \*      \*      \*
->
-> I love a book that immediately lets you see what the writer is seeing. Lets you hear what they’re hearing — even smell what they’re smelling:
->
-> > _The room is a sea of people. Bent heads, pensive faces, many obscured by sunglasses, hats, hoodies, massive headphones. It’s difficult to discern where the bodies end, and the green of the card tables begins. The smell of stale casino air fills the room — old carpet; powder; cold fried food and flat beer; and the unmistakable metallic tang of several thousand exhausted bodies that have been sharing the same space since morning._
-> >
-> > _It’s the first day of the biggest poker tournament of the year, the Main Event of the World Series of Poker_
-> >
-> > \*      \*      \*
-> >
-> > _Stephen DUBNER: Did you truly not know how many cards are in a deck of cards?_
-> >
-> > _Maria KONNIKOVA: Yes, I thought there were 54. This is a true story. It’s not exaggerated for the book._
->
-> That’s [**Maria Konnikova**](http://www.mariakonnikova.com/about/). Her new book is called [_The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win_](https://www.amazon.com/gp/product/052552262X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=freakonomic08-20&creative=9325&linkCode=as2&creativeASIN=052552262X&linkId=586bf6b46d43f6d1a06f3ef3bd662d1d)_._ It chronicles her journey from poker novice to poker professional. _The Biggest Bluff_ is Konnikova’s third book. The others are called [_Mastermind: How to Think Like Sherlock Holmes_](https://www.amazon.com/gp/product/014312434X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=freakonomic08-20&creative=9325&linkCode=as2&creativeASIN=014312434X&linkId=ebf7760d699a97c5b9e2cb62bdcb22f4) and [_The Confidence Game_](https://www.amazon.com/gp/product/0143109871/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=freakonomic08-20&creative=9325&linkCode=as2&creativeASIN=0143109871&linkId=fa7b44245528020806a8781bbadd58f1), which is about con artists. If you think you’re detecting a theme in [Konnikova’s writing](https://fivethirtyeight.com/features/the-hard-truth-of-poker-and-life-youre-never-due-for-good-cards/) — yes, there is a theme. She writes about psychology — in her books and for _The_ _New Yorker_.
->
-> She also has a [Ph.D. in psychology](https://academiccommons.columbia.edu/doi/10.7916/D8QR54B5) from Columbia University. She did not get the Ph.D. in order to teach, or to treat patients. She only [wanted to be a writer](https://www.newyorker.com/news/postscript/remembering-walter-mischel-with-love-and-procrastination), and she thought that getting a doctorate in psychology would give her good insights into how people think and make decisions; whether our lives are shaped primarily by those decisions or by chance; also: insights into how we present our true selves and how we bluff. These curiosities ultimately brought her to poker.
->
-> > _KONNIKOVA: The deeper I went into poker, the better of a metaphor for life I realized it was, and the stronger of a tool I realized it was to address so many of the psychological questions that had been percolating in my head for years. Because life is a game of incomplete information. You never know everything, and you are able to control a good amount of decisions leading up to the end because you can control how you present yourself. You can control whether or not you play. You can control how you play. But ultimately, you can’t control the cards. And I think that that’s a very good reflection of what goes on in life. There’s so much you can do, but then the ultimate outcome is not up to you. And you have to be okay with that._
-> >
-> > _DUBNER: What would you say, Maria, is the luckiest thing that’s ever happened to you?_
-> >
-> > _KONNIKOVA: That is the question for all questions. I think that it’s a toss-up between two things. I mean, one, it’s really difficult to call this the luckiest thing. But honestly, being born and being born to my parents and having the genetic makeup that I have, I think, is the luckiest thing that happened. But that aside, I think the luckiest thing that ever happened was the fact that when I was 4 years old, my parents decided to leave the Soviet Union and come to the United States. My life would be so different had I grown up in the Soviet Union. I have no idea what would’ve happened or what I would’ve done._
-> >
-> > _DUBNER: How old are you now?_
-> >
-> > _KONNIKOVA: I’m 36._
-> >
-> > _DUBNER: So, you’re saying that the two luckiest things that ever happened to you, neither of them were in the past 32 years?_
-> >
-> > _KONNIKOVA: Yes, I think I’ve had a lot of very lucky things happen along the way. But you asked the absolute luckiest. And you have to think what really changed the trajectory of your life in the most profound way? And honestly, being a Jew in the Soviet Union — this was before the Berlin Wall fell — was no fun. I would not have been a writer because you really couldn’t do anything in the humanities. I can’t even begin to imagine what my life would look like._
->
-> When her family emigrated, they settled in Acton, Massachusetts, outside of Boston. From early on, [she was an achiever and an overachiever](http://www.mariakonnikova.com/about/); she wound up going to Harvard. Afterward, she was a producer on [_The Charlie Rose Show_](https://charlierose.com/videos/23308). But then, [back to school](https://www.the-scientist.com/daily-news/its-elementary-39942) for that [Ph.D.](https://blogs.scientificamerican.com/network-central/welcome-literally-psyched-the-newest-blog-at-sciamblogs/) under the legendary psychologist Walter Mischel. He was best-known for a series of studies built around the “[marshmallow test](https://www.npr.org/sections/health-shots/2018/09/21/650015068/remembrance-for-walter-mischel-psychologist-who-devised-the-marshmallow-test),” which examined the human capacity for self-control. I asked Konnikova why Mischel and the idea of self-control had appealed to her.
->
-> > _KONNIKOVA: There were two things. One, Walter Mischel as a person appealed to me because he was someone who liked to think big and ask big questions about the human mind. And the other thing is, I did feel like self-control was something that could be incredibly useful to me as a human, and just in general, to understand. Because it seemed to me that it was such an important thing in life to learn about emotional management, to learn about how to handle yourself._
-> >
-> > _DUBNER: You write that an academic career, had you chosen that, would have been a gamble as well, which is a really interesting thought because I think a lot of people when they’re choosing their careers, there is that fundamental fork in the road of the safe or at least predictable one and then the other options. So, what would have been the risk had you chosen the academic career?_
-> >
-> > _KONNIKOVA: I think that you are so dependent on the biases of other people because the academic job market is an incredibly biased place, as is any job market. You’re at the mercy of what types of things do the people who are in this particular place want to study? How do your theories fit into it? Even as I was going into the graduate program to study with Walter Mischel, I knew that I was entering an area that was on the outs because the hot areas were neuroscience, the hot areas were kind of all of the very hard cognition. And even at Columbia, while I was there, all of the tenure offers went to neuroscientists and there were a few amazing social psychologists who didn’t get job offers. And I was seeing this and thought, “Uh-oh, if I actually want to do this, that’s a big, big risk.”_
-> >
-> > _DUBNER: How meritocratic would you say academic psychology is?_
-> >
-> > _KONNIKOVA: I think it thinks of itself as incredibly meritocratic. I think that it’s much more biased than that. I think you need merit up to a certain point, but then it’s personal favorites. Who did you study with? Who do I owe a favor to? The office politics in academia are just insane._
-> >
-> > _DUBNER: And how would you compare academia to poker, in terms of meritocracy?_
-> >
-> > _KONNIKOVA: I mean, I don’t even think there is a comparison. I think poker is so much more meritocratic than academia. I was about to say a million times, but one of the things that poker taught me is to be precise. So, it’s not actually a million times. That would be an exaggeration._
-> >
-> > _DUBNER: That would indeed. Let me just ask you, how numerate did you consider yourself before playing poker?_
-> >
-> > _KONNIKOVA: Not at all numerate. I actually still — I know that this isn’t something to be proud of, it’s just the way my mind works — I still count on my fingers. I need that visual and tangible cue to help myself out. The last math class I took was in high school._
-> >
-> > _DUBNER: When it comes to probability, however, you don’t have to learn higher-order math to understand probability, but you do need to understand probability to play poker. So, how did you grow from innumerate to a good understanding of probability?_
-> >
-> > _KONNIKOVA: I think it helped that I did once upon a time have a good math background. I mean, I took calculus. I was good at math in high school. I just never really liked it and dropped it soon after. So, it was just a muscle of mine that I hadn’t used at all. But as Erik Seidel, who became my coach told me very early on, “All you really need to know how to do is add, subtract, multiply, divide.” And the thing is, you are constantly doing, and the human mind learns best by doing. And in poker, you also have very immediate feedback. If you make math mistakes, you’re going to lose money. And I found that as I was put in these high-pressure situations and was forced to think in that way, my mind eventually un-rusted itself._
-> >
-> > \*      \*      \*
-> >
-> > _Imagine two players at a table. The cards are dealt. Each player must look at her cards and decide whether or not the cards on their own are good enough to bet. If she wishes to play, she must at minimum “call” the big blind — that is, place as much into the pot as the highest bet that already exists. She may also choose to fold or raise. But who knows what factors she’s using to make her decision? Maybe she has a premium hand. Maybe she has a mediocre hand but thinks she can outplay her opponent and so chooses to engage anyway. Maybe she has observed that the other player views her as conservative because she doesn’t play many hands, and she’s taking advantage of that image by opening up with worse cards than normal. Or maybe she’s just bored out of her mind. Her reasoning, like her cards, is known only to her._
-> >
-> > _Each decision throws off signals, and the good player must learn to read them. It’s a constant back‐and‐forth interpretive dance: How do I react to you? How do you react to me? More often than not, it’s not the best hand that wins. It’s the best player._
-> >
-> > _Betting on uncertainty is one of the best ways of understanding it. And it is one of the best ways of conquering the pitfalls of our decision processes in just about any endeavor. It doesn’t take a gambler to understand why. In his_ Critique of Pure Reason_, the German philosopher Immanuel Kant proposes betting as an antidote to one of the great ills of society: false confidence bred from an ignorance of the probabilistic nature of the world, from a desire to see black and white where we should rightly see gray._
-> >
-> > _From a misplaced faith in certainty, the fact that to our minds, 99 percent, even 90 percent, basically means 100 percent — even though it doesn’t, not really. Kant offers the example of a doctor asked to make a diagnosis. The doctor reaches a verdict on the patient’s malady to the best of his knowledge — but that conclusion isn’t necessarily correct. It’s just the best he can do given the information he has and his experience in this particular area. But will he tell the patient he’s unsure? Maybe. But more likely, if his certainty reaches a specific threshold — a different one for different doctors, to be sure — he will just state his diagnosis as fact._
-> >
-> > _But what if he had to bet on it?_
-> >
-> > \*      \*      \*
-> >
-> > _DUBNER: Describe quickly for me the year 2015 for the Konnikova family._
-> >
-> > _KONNIKOVA: It wasn’t a great year. The year started off with my mom losing her job and my grandmother dying. So, that was quite a shock because she had been healthy. She was completely self-sufficient. She was a volunteer in World War II and had survived so much during the Soviet era. And she died because she slipped in the night. She put one foot wrong. My mom had never lost her job, ever. And so, that was quite a shock that she was just let go during a private-equity acquisition. My husband lost his job. And at the same time, I had this really big health scare and it was really just horrifying._
-> >
-> > _DUBNER: So, that was a really bad year. I’m sure the_ [_work of Tom Gilovich and others_](https://pubmed.ncbi.nlm.nih.gov/27869473/)_, with headwinds and tailwinds. Tell me, do most people believe that the good things that happen in their lives are because of their abilities and the bad things that happen in their lives are because of bad luck?_
-> >
-> > _KONNIKOVA: This goes back to an idea called the locus of control. And it was the work of_ [_Julian Rotter_](https://psycnet.apa.org/record/2011-19211-001)_. And Rotter found that there are two types of locus of control. And by that he meant where you think control over events resides, internal and external. So, if you have an internal locus of control, when good things happen, you take credit for them and you say, “Yeah, that was me.” And an external locus of control, you say, “Oh, no, no it was events in the world. I had nothing to do with it.” Most people, he found, have an internal locus when it comes to good things. They take credit for their success. But an external locus — they — switch when things go wrong. They say, “Oh, it wasn’t my fault. Here are all of the reasons why this went wrong.” But there are exceptions. There are people who have an external locus always. That’s not good at all. There are people who have an internal locus always. That’s also not good. And the normal signature is also not great, because if you always take credit for the good things and don’t take blame for the bad things, you’re going to be overconfident. So, you need to learn how to balance the two._
-> >
-> > _DUBNER: It sounds, though, as if you’ve just drawn an unsolvable puzzle. You say both extremes are poor, but also the compromise or the moderate version is poor. So, how do you optimize external vs. internal?_
-> >
-> > _KONNIKOVA: I think that the important thing is to have an internal locus most of the time in the sense that you understand that you do control a lot of things. But that also means keeping that internal locus for some of the bad events. But also, I think the way that you solve that puzzle is through decision-making and analysis. You actually learn that both modes of thought are possible. And so, before you jump to any conclusions, you break it apart and you say, “Okay, what was my decision process? What did I control here? What didn’t I? What was the outcome? And am I responsible for that outcome or not?” Because sometimes it will be something else and sometimes it will be you._
-> >
-> > _DUBNER: And pre-poker, how would you describe yourself on the internal vs. external scale?_
-> >
-> > _KONNIKOVA: I was probably someone who was more external on a lot of the good things and more internal things on a lot of the bad things._
-> >
-> > _DUBNER: So, the good things that happened were luck and the bad things were “my fault.”_
-> >
-> > _KONNIKOVA: Yes. I think that was a lot of the way that I thought about things I’d actually hadn’t asked myself that question until you just asked me. But now that I think about it, I think that that was a lot of my mindset pre-poker, which isn’t ideal._
-> >
-> > \*      \*      \*
-> >
-> > _There is no such thing as objective reality. Every time we experience something, we interpret it for ourselves. Do we see ourselves as victims or victors? A victim: The cards went against me. Things are being done to me, things are happening around me, and I am neither to blame nor in control. A victor: I made the correct decision. Sure, the outcome didn’t go my way, but I thought correctly under pressure. And that’s the skill I can control._
-> >
-> > _A victim of the cruel cards? This may serve as something I think of as a luck-dampener effect: because you’re wallowing in your misfortune, you fail to see the things you could be doing to overcome it. Potential opportunities pass you by; people get tired of hearing you complain, so your social network of support and opportunities also dwindles; you don’t even attempt certain activities because you think, “I’ll lose anyway, why try?”; your mental health suffers; and the spiral continues._
-> >
-> > _If you think of yourself instead as an almost-victor who thought correctly and did everything possible but was foiled by crap variance? No matter: you will have other opportunities, and if you keep thinking correctly, eventually it will even out. These are the seeds of resilience, of being able to overcome the bad beats that you can’t avoid and mentally position yourself to be prepared for the next time. People share things with you: if you’ve lost your job, your social network thinks of you when new jobs come up; if you’re recently divorced or separated or bereaved, and someone single who may be a good match pops up, you’re top of mind. That attitude is what I think of as a luck amplifier. Sure, you can’t actually change the cards, and the variance will be what it will be — but you will feel a whole lot happier and better adjusted while you take life’s blows, and your ready mindset will prepare you for the change in variance that will come at some point, even if that point is far in the future._
-> >
-> > _Indeed, it’s easy to see how the bad beat seeps into everything. It’s not just complaining about the runout. It’s complaining in general. Once you do that, you slide into dangerous mental waters. “I have a bad table draw — why are all the good players at my table while I see so many easier tables around? I’m card-dead — why are other people getting all the big pairs, and I’m getting unplayable crap?” \(Later, Erik will pull me aside in a big tournament and tell me he’s worried about my thinking. I’m describing things as happening to me rather than taking responsibility for my actions.\)_
-> >
-> > _The great players don’t play that way. It’s too draining, and it makes you too much the victim. And the victim doesn’t win. Bad table draw? It’s a challenging table that will force you to play well. Card-dead? No one knows that. If your face reads card-dead, everyone will walk all over you as you meekly fold. Everything is in how you perceive it._
-> >
-> > \*      \*      \*
-> >
-> > _DUBNER: The story — the main story in the book — begins really with your pursuit of a coach,_ [_Erik Seidel_](https://www.pokernews.com/news/2019/02/erik-seidel-before-the-game-part-one-33371.htm)_, who is a great and famous poker player and backgammon player. Tell us briefly about that. Had you considered perhaps people before him?_
-> >
-> > _KONNIKOVA: Erik ended up being my first choice. And he was my only choice because he said, yes, but I did do research. And I did look at a number of possibilities before settling on Erik._
-> >
-> > _DUBNER: So, you targeted and subsequently stalked your poker mentor, Erik Seidel._
-> >
-> > _KONNIKOVA: Well, now that you put it that way._
-> >
-> > _DUBNER: Well, I think it’s not so—._
-> >
-> > _KONNIKOVA: I did. No, I did. I did. I totally stalked him._
-> >
-> > _DUBNER: I mean, stalked in a quasi-appealing way. But tell us what he had or represented that made him the mentor you wanted._
-> >
-> > _KONNIKOVA: He had a few different characteristics. First, longevity. There is actually no comparison between him and any other player in terms of staying at the top of competitive poker for decades. And most people, they have kind of this peak and then they go away. The other component was that he seemed more old school in the sense of being more psychological, more thinking in his approach, rather than a lot of the newer poker players who, while brilliant, are very mathematically minded. And they have just a very calculational approach. And that’s not my background. That’s not my strength. I wanted to make sure to work with someone who could actually help amplify the skills that I already had._
-> >
-> > _DUBNER: Okay, but at this point knowing how to play poker was not among your skills. You didn’t know the game at all; you’d never played any card games. Had you played other games as a kid?_
-> >
-> > _KONNIKOVA: No, we were not a games-playing household. I read and because I’m a Russian Jew, my parents decided that maybe I would like chess. So, at some point in elementary school, they enrolled me in this chess club, and I lasted exactly two weeks._
-> >
-> > _DUBNER: Why was it that poker captured your attention?_
-> >
-> > _KONNIKOVA: I was originally introduced to poker through game theory, through the work of John Von Neumann. As I was reading about luck and kind of immersing myself in the world of chance and how to think about chance, I read_ [_John Von Neumann’s_ ](https://www.amazon.com/gp/product/0691130612/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=freakonomic08-20&creative=9325&linkCode=as2&creativeASIN=0691130612&linkId=5ec5b9d5a08678e0bae0a77bb198c90e)[Theory of Games](https://www.amazon.com/gp/product/0691130612/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=freakonomic08-20&creative=9325&linkCode=as2&creativeASIN=0691130612&linkId=5ec5b9d5a08678e0bae0a77bb198c90e)_, which is the foundational text of game theory. And I didn’t know much about Von Neumann or his work._
-> >
-> > _DUBNER: And he loved poker, correct?_
-> >
-> > _KONNIKOVA: Yes. He was just an_ [_avid poker player_](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html) _and he hated games, by the way. He hated roulette. He hated chess. He hated Go. He thought that they were boring because they were either solvable or unsolvable. And he—_
-> >
-> > _DUBNER: Back up for a second. So, you’re saying he hated roulette and he hated chess. And on the spectrum of information, those are at opposite ends of the spectrum._
-> >
-> > _KONNIKOVA: Exactly._
-> >
-> > _DUBNER: So, talk about that and what it was that he was looking for, what it was that he didn’t like about those._
-> >
-> > _KONNIKOVA: Von Neumann was drawn to poker because it was a game of incomplete information. There was a solvable component to it, but there was always an element of the unknown. And he was working at the time as a national security adviser in the United States government. He was_ [_working on the hydrogen bomb_](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html)_. I mean, this is someone who was involved at the very highest levels of decision-making. And when he saw poker, he said, this is a good analog for that, because it’s a game of incomplete information. Chess is boring because it can be solved. There is theoretically always a correct move. And roulette is boring because it can’t be solved. It’s all chance. The house wins. You know, there’s nothing you can do._
-> >
-> > _Poker is interesting because we can try to find a framework to develop a solution, how to think through it. And yet, it’s not solved in the sense that there are these elements of the unknown, this human element of bluffing, of representing and misrepresenting information. This is what decision-making in the real world is actually about. That was the germ of game theory. He came up with game theory as a way to try to solve poker and then ultimately shed a light onto how to make these very complex strategic decisions at the highest levels of government._
-> >
-> > _DUBNER: You write about Von Neumann, he was a God-awful player by every account — poker player. So, this shook me because we think of Von Neumann as a few things: the pioneer, inventor of game theory, intersecting with the birth of computing. But if he was so bad at poker, how good could he have been at game theory?_
-> >
-> > _KONNIKOVA: He was very good at game theory. He had personal failings that came out at the poker table and he didn’t care. He liked to have fun when he played poker. He liked to host poker games at his house. He liked to drink while he played. No serious poker player does this. He had a little too much gamble to him. I think that he was one of those people who wasn’t very good at applying the game theory to the actual game when it came to poker._
-> >
-> > \*      \*      \*
-> >
-> > _Poker isn’t a homogeneous game; there are multiple varieties of play, with names like Stud, Omaha, Razz, Badugi, and HORSE. Each has its own unique set of rules, but in any style of poker, the basic parameters are essentially the same: Some cards are dealt face-up, visible to all — these are the community cards — and some face-down, so that only the person to whom they are dealt can see them. You make bets based on how strong your hand is and how strong you think others’ hands are. Because the only other cards you know for sure are your own, you are in a game of incomplete information: You must make the best decision you can, given the little you know._
-> >
-> > _But the style I’ve chosen to pursue is one particular variant of the game, which happens to be the most popular: No-Limit Texas Hold’em. How No-Limit Hold’em differs from other forms of poker is twofold. The first is in the precise amount of information that is held in common vs. in private. Each player is dealt two cards face-down: the hole cards. This is privileged information. I can try to guess what you have based on how you act, but I can’t know for sure. The only information I’ll have is your betting patterns once the public information — the cards dealt to the middle of the table, face-up — is known._
-> >
-> > _The amount of incomplete information in Texas Hold’em creates a particularly useful balance between skill and chance. Two hole cards is just about as practical a ratio as you can have: Enough unknown to make the game a good simulation of life, but not so much that it becomes a total crapshoot._
-> >
-> > _The second thing that distinguishes this particular playing style is the concept of no-limit — Von Neumann’s own preferred style. “The power of the pure bluff is restricted in a game of limit,” explains Amarillo Slim, one of the best poker players of his day. When there’s a limit, it means that the exact amount you bet has a ceiling on it. In no-limit, you can bet everything you have, at any point._
-> >
-> > _And that’s what makes this game a particularly strong metaphor for our daily decision-making. Because in life, there is never a limit. What’s to stop you from risking all your money, your reputation, your heart, even your life at any point you choose? Nothing. There are no rules at the end of the day, save some internal calculus that only you are privy to. And everyone around you has to know that when they make their decisions: Knowing you can go all the way, how much should they themselves invest? It’s the endless game of brinkmanship, popularized by another giant of game theory, the Nobel‐winning economist Thomas Schelling, that plays out everywhere in our lives. Who will say “I love you” first, moving “all in” in the relationship — and if you say it, will you be left out, so to speak? Who will walk away from the business negotiation? Who will wage war? The ability to go all in — and the knowledge that going all in is an option for everyone around us — is the crucial variable that makes so many decisions so very difficult._
-> >
-> > _You can emerge with the deal of a lifetime, or a life partner — or you can find yourself bankrupt or emotionally devastated. Like life, no-limit poker is high risk and high reward. And it’s no coincidence that that is the style of play I have chosen to learn. If you’re trying to make the best decisions, you might as well go with the best proxy._
-> >
-> > \*      \*      \*
-> >
-> > _DUBNER: In the beginning of the book where a smart person who’s a writer who’d never played cards before, decides that they’re going to play competitive poker at a really high level — it feels like a stunt book. And granted, it’s a good stunt. It’s a really good stunt. But it’s a writer who’s got a Ph.D. in psychology putting her research about chance and skill to a real test while entering this competitive and alien ecosystem. So, I didn’t mind the stunt, but it did feel like a stunt._
-> >
-> > _But over time, your zeal and your desire to learn and study was so contagious that it felt not like a stunt anymore. And I’m curious whether that experience was a little parallel for you. In other words, how much of it was a great conceit, that would make a good book? And how much of it was really a way for you to work out your deepest insights about chance and skill and decision-making?_
-> >
-> > _KONNIKOVA: That’s an excellent question and I think that the way that it felt for you is actually spot on. This started out as something of a stunt. I was looking for a way into luck and this seemed like a good idea. And I was like, “Bam, this is gonna sell.” And it was a stunt in a very kind of self-conscious way of knowing that there are lots of books like this where people do something for a year, try something out, and people like to read that. And I thought that I could gain some insight along the way. And boy, did it change as I actually embarked on this project._
-> >
-> > _And I think that this had to do with Erik and with the fact that Erik loves poker — he was able to actually instill some of that love in me from the very early days. And I realized that this was so much more than a stunt, that this could truly be a way to become a better human, to become a better decision-maker, to learn about myself. And so, it became something very different. I could never have imagined that that would have been three years of my life, that the old end point would just come and go. And it became a different book. It became a different project. It became a passion of mine._
-> >
-> > _DUBNER: And how much of it is also that feedback in poker is immediate and real, whereas in life, a lot of things we do, we don’t really get great feedback, especially if it’s from other people that we’re interacting with?_
-> >
-> > _KONNIKOVA: I think the fact that in poker you do get immediate feedback is incredibly valuable because that’s also how the mind learns best. So, that we know right or wrong? How did this feel? How was my decision? And normally in life, it’s just too noisy of an environment. There’s too much of a lag between decision and outcome. There are too many variables going on. And so it’s just this whole morass that your mind can’t disentangle. So, you can’t figure out what was me? What wasn’t? How do I improve? It’s incredibly difficult._
-> >
-> > _It’s what_ [_Robin Hogarth calls a wicked environment_](https://pdfs.semanticscholar.org/5c5d/33b858eaf38f6a14b3f042202f1f44e04326.pdf)_. Most of life is wicked. And at the poker table, you actually are able to make a decision and then you see what happens. And over time, you start getting feedback as you play through hands over and over and over. Because one time, anything can happen. You can make a horrible decision and you get a good outcome. Or you can make a really good decision and get a bad outcome. So, the feedback’s wrong. But if you do that hundreds of times, the feedback becomes aligned. And so, you’re learning, “Oh, this is the way that I’m thinking correctly. And these are the mistakes I’m making, because I’m losing money and it hurts.” And that also helps you learn._
-> >
-> > \*      \*      \*
-> >
-> > _I raise. An aggressive hedge-fund guy who is running over the table re‐raises me. I make my first mistake by not folding. I can’t help but think I’m being pushed around and decide to hold my ground. And that may well be true, but I’m not picking the best spot or way to do it. Part of me knows that holding my ground with such a marginal hand is a mistake but the other part lacks the nerve to raise and is too stubborn to fold. And so I call, leaving myself precious few chips. And then I whiff the flop completely. The board in no way matches my cards. I have almost no prospects of actually making the best hand. It’s either bluff or get out. The hedge-fund guy, though, is first to act, and he puts in a massive bet — enough to force me to go all in if I want to call. But just as I’m miserably about to fold my cards, a gentleman to my left intervenes._
-> >
-> > _“What? Are you going to let him get away with that?”_
-> >
-> > _I laugh nervously._
-> >
-> > _“Come on, you have to call. He’s bluffing, can’t you see?”_
-> >
-> > _The table all chimes in, confirming my duty to call, and I, putting aside everything I’ve learned, do so. The hedge-fund guy turns over aces, and my first live poker tournament is at an end._
-> >
-> > _I wander away, hating myself. I knew better than to do that. That wasn’t my knowledge playing. That was the worst possible combination of traits: Insecurity and gutlessness, leading to half measures that will never win. I’ve let them get to me. I didn’t want to be pushed around — but I wasn’t comfortable doing the pushing around, either. And the result is this mess of a hand. I’m hopeless at this game. And apparently, I’m hopeless at life. A gutless female who wants to be liked more than she wants to win._
->
-> \*      \*      \*
->
-> Maria Konnikova had long wondered how much of our life outcomes one should attribute to chance and how much to one’s own volition, and skill, and decision-making. In the game of poker, she found the perfect medium to answer this question. She was a total novice, but she persuaded the poker legend Erik Seidel to coach her; he appreciated her intellect, and he could see how seriously she took the challenge. The original plan called for Konnikova to play for a year and write a book about it. But after that one year, she was just getting started. She saw that she’d made an excellent choice in choosing poker — that unlike most games, it could hold a mirror up to real life.
->
-> \*      \*      \*
->
-> > _I decide to fire out another hefty bet. Aces, aces, la la la. Except now, instead of calling, he raises, and the raise is a sizable one. Uh‐oh. Red flags should be waving, horns should be blasting. And I should be folding. But none of this enters my mind. I hardly pause a second before calling. Aces, aces, aces!!!_
-> >
-> > \*      \*      \*
-> >
-> > _DUBNER: Deception in poker is not only valuable, but it’s necessary. In real life, deception is usually considered a negative. Is deception therefore an outlier in the poker vs. real life parallel, or no?_
-> >
-> > _KONNIKOVA: I don’t think so. I think that we use deception in real life much more than we realize. Every single social interaction has deception. You don’t necessarily like everyone as much as you tell them you like them. And then on a much broader level, when you’re in a negotiation, you use deception all the time to present yourself, as a little stronger than you actually are._
-> >
-> > _You present yourself in the best light possible in order to be hired or you’re not going to be hired. The person interviewing you is going to present the job in the best light possible. All of these are subtle deceptions, and that’s the level of deception that we’re talking about in poker. It’s not like you’re completely lying. You are just choosing what and how to present, what and how to present about your hand, about yourself._
-> >
-> > _DUBNER: Here’s an amazing statistic that I read in your book that an analysis done by Ingo Fiedler found that the actual best hand won on average only 12 percent of the time. That’s interesting because it conveys what makes poker so interesting, but it also made me wonder what lesson is to be drawn from that. It seems to perhaps imply that many of us underestimate our strength in real life, I mean._
-> >
-> > _KONNIKOVA: I do agree. I do agree. I think that that is a fascinating analysis that he did of online poker. First of all, it shows just how much of a skill game poker is, because you are convincing people that you have the best hand when you don’t. And it does make you realize that in real life, it’s not the people who hold the best cards. It’s the people who convince everyone else, who are the most confident. To me, it’s a little bit dispiriting because it’s very hard for me to be that way in real life. It’s very hard for me to be the person who oversells my hand because one of the things I studied in grad school was overconfidence. It’s one of the things that I’m always aware of and trying not to fall into._
-> >
-> > _DUBNER: Let me ask you whether, or to what degree, do you think that’s a mark of gender? Because research shows that there’s a_ [_big split in confidence and overconfidence_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089055/) _between the genders. And I’m curious whether you feel yours is gender-driven, whether it’s immigrant-driven, whether it’s a quirk of your personality, or what?_
-> >
-> > _KONNIKOVA: I think it’s both. I definitely think it’s gender-driven. And I actually came to realize that as I immersed myself in the poker world, because I never thought of myself as someone who internalized gender stereotypes because I studied psychology. I knew what they were. And I thought that I was above all of that. And then poker made me realize how much I had and how often I acted because I’d been socialized to act in that way._
-> >
-> > _But I think you make a very interesting point that there is also — part of it is immigrant me. And the fact that I came to this country and was a total outsider, that I didn’t speak English, that we didn’t have any money. I wore hand-me-down clothes and not the cool-kid clothes. All of those things probably stayed with me on some level and made me feel a little bit more self-conscious._
-> >
-> > _DUBNER: And when you say you were socialized to act in that way as a female, what do you mean, “in that way,” and how did that translate to playing poker?_
-> >
-> > _KONNIKOVA: When you’re female, you try not to step on people’s toes. You try to be affable. You try to be nice. You try to not be confrontational. And it’s very adaptive, because if you’re confrontational, if you actually push back it’s not going to go well, because all of the research on the psychology of negotiation and negotiating while female shows you that women are judged on very different criteria from men, and that women who negotiate more are not only not liked as well, but they’re not going to get what they negotiate for. And so, you become socialized in a sense to really embody a lot of those characteristics because it’s the smarter way to go._
-> >
-> > _So, in poker, I realized that I was being passive, that I was folding more often, that I wasn’t standing up for myself because I always assumed, “Well, if you’re raising, you must have the better hand. Oh, well, I don’t want to be too aggressive because then you’re not going to like me.” And it was just this realization that the need to be liked was somehow stronger than the need to actually win._
-> >
-> > _DUBNER: So, as you’re getting acclimated to the game, you recognize that, A, you’ve got these traits that are traditionally female and that you want to adjust them. But you also understand that your gender can be used to your advantage against male players who may have their own perceptions of how a female should or would play._
-> >
-> > _KONNIKOVA: It was one of these “aha” moments for me when I realized that gender could actually be a huge asset at the poker table because people form impressions of everyone right away. I mean, it’s just something that our brains do intuitively. The first thing people notice about me is that I’m a woman because that’s what stands out at a poker table. And so they react not to me as a player, but to me as a female first of all. The best players will adjust eventually, but especially at the levels where I started out, these weren’t the best players._
-> >
-> > _To me, the most important thing became how do they see women and how do they see women who play poker? And they will show you pretty early on. I remember one experience where I was playing against this guy and he just kept betting and betting. And finally, I folded. And he placed his cards face-up and said, “See, I had you beat. I had the best hand.” And that was one of these moments of realization of — “Oh well, thank you so much. Thank you, sir. I appreciate the information.” Because in anything, information is power._
-> >
-> > _DUBNER: He’s showing you because he wants to be seen as someone who wasn’t exploiting you by bluffing, correct?_
-> >
-> > _KONNIKOVA: Exactly. He wanted me to know that he was trying to be a gentleman. And he actually said, “I didn’t want to take any more of your chips.” You know, they’re very chivalrous. They don’t want to be perceived as kind of bullying a woman. So, you adjust to that. Whenever they bet big, you fold. You fold very good hands._
-> >
-> > _Then you have the people who just — they don’t think you should be at the poker table at all. And they’re gonna do a few different things. When they bet big, you have to call and you have to find it in yourself to keep calling, because they’re going to try to bluff you over and over and over. Because they don’t think you should be there, so they’re going to bully you. So, once you figure out how do you see women? What’s your perception? And how do you want to kind of play against me because you’re playing against a woman? Then, all of a sudden, I have this very powerful arsenal of new weapons and new ways to play against you._
-> >
-> > \*      \*      \*
-> >
-> > _There’s a false sense of security in passivity. You think that you can’t get into too much trouble — but really, every passive decision leads to a slow but steady loss of chips. And chances are, if I’m choosing those lines at the table, there are deeper issues at play. Who knows how many proverbial chips a default passivity has cost me throughout my life. How many times I’ve walked away from situations because of someone else’s show of strength, when I really shouldn’t have. How many times I’ve passively stayed in a situation, eventually letting it get the better of me, instead of actively taking control and turning things around. Hanging back only seems like an easy solution. In truth, it can be the seed of far bigger problems._
-> >
-> > _I know all this, but I had somehow thought that my training in psychology, my knowledge of these biases, the fact that I’ve achieved some form of professional success in my life, meant that I had overcome my socialization. But what poker is showing me, now that I take a moment to really look, is how far that is from the truth. It isn’t that I’m incapable of learning an aggressive approach or understanding its merits. It’s that I have learned and understood, and want to make it work — but can’t because of the emotional baggage that has accumulated, without my awareness, throughout my entire professional life. I’m not a blank slate after all. It isn’t a pleasant realization, but it is an important one. Now that I see it, perhaps I can start working through it._
-> >
-> > \*      \*      \*
-> >
-> > _DUBNER: So, one would think that even a poker novice — having a Ph.D. in psychology, one would think that that would prove incredibly useful in reading other players. Did it?_
-> >
-> > _KONNIKOVA: It did. It did, but not necessarily in the way that I thought it would. I thought that I would actually have some better abilities at tells, at reading players and figuring out what’s going on. It ends up that I didn’t, especially at the beginning, that I would fall for actually a lot of the biases that I’d studied, that I would make assumptions about players in the same way that they were making assumptions about me, only I didn’t quite realize just how wrong my assumptions were._
-> >
-> > _But where it did help eventually is in kind of a metacognitive awareness that helped me identify those mistakes and fix them. Because I had the vocabulary. I realized that I was focusing on the wrong things. I was focusing on what people looked like, things like that how they acted. And what I should have been focused on — which is quite funny, because it was most of what Walter Mischel’s work had been for the last 20 years ­— was on situational dynamics. What’s going on at this table? How are these people relating to each other? How are they reacting? How do they act under these different situations? Once I realized that that was the most important thing, then my reading abilities improved, and I was actually able to use my psychology background._
-> >
-> > _DUBNER: But there have been poker players who really dismiss the people-reading part of it and the social-dynamic part of it and just are quants, just play the probabilities and succeed. So, what’s to say that you’re not overvaluing that part?_
-> >
-> > _KONNIKOVA: Nothing. And I think that they would probably say that I am overvaluing it. I think that you play to your strengths. The quant side is not my strength. I’ve mastered it to the point that I don’t make horrible mistakes of addition and subtraction when I’m calculating pot odds, but that’s about it. I think the way that you become a great player is to figure out what works for you. What Erik taught me is that there’s almost never a right way to do something, a right way to play in a certain situation. There is a right way to think about it._
-> >
-> > _DUBNER: So, one gathers that it took you a little longer to get good than you maybe thought or would have liked, but then you really start improving on many dimensions, gameplay and strategy and stamina and self-control. And then in 2018, you have a really good year and you win a big tournament. Congratulations._
-> >
-> > _KONNIKOVA: Thank you._
-> >
-> > _DUBNER: Which is super fun to read about. And then the next year you have a less good year. Let me just ask you to summarize on balance, especially the financial part. We are told that you took in over_ [_$300,000 in poker earnings_](https://pokerdb.thehendonmob.com/player.php?a=r&n=531869)_, which sounds like a lot of money. But what did it cost you to get that $300,000? Over what length of time are we talking? And then what were the expenses? Because you’re traveling and staying in places and I even want to hear about the opportunity costs. In other words, did you come out ahead, or no?_
-> >
-> > _KONNIKOVA: What people don’t realize when they look at tournament earnings, which is what that over $300,000 is, is that that’s just earnings. That does not count buy-ins. That does not count travel. That does not count all of those expenses. So, this is over my entire time. This is over three years. When I first started playing, I was losing money and I was writing it off as kind of an expense for the book. This was experience. This was the cost of doing it. And then in 2018, when I won over $200,000, what I really took home was much less because I’d been traveling all over the world. I had played a lot of tournaments in which I hadn’t cashed. So, I made much less than that. Maybe somewhere like $50,000, which is still very good. It’s still an up year._
-> >
-> > _But as you correctly say, there are also opportunity costs. I wasn’t taking any writing assignments. I was on leave from_ The New Yorker_. I think at the end of the day, it was still worth it because it enabled me to gain this experience. It enabled me to write the book. And it also gave me very valuable and marketable experience in other ways. After I’d had my wonderful year, I was invited to Davos to talk about my poker experience at the_ [_World Economic Forum_](https://finance.yahoo.com/news/poker-champ-wows-davos-secret-smart-decision-making-163950133.html)_. I’ve never been invited to Davos. And that door would not have opened to me otherwise._
-> >
-> > _DUBNER: So, this is one of those books that I really, really didn’t want to end because the journey was so satisfying and as you’re learning about poker, we’re learning it with you. But there was one thing that just kept nagging at me, which is how much does poker really relate to real life? And the more I read, the more I’d come to think the answer was not really that much, that most interactions we have with people, either individually or in groups or society, that it doesn’t really translate so much. But you were arguing that it really does._
-> >
-> > _So, I was really happy to see that your last chapter addressed this head-on. It’s called “The Ludic Fallacy.” So, describe for us where this name comes from,_ [_Nassim Taleb_](https://www.fooledbyrandomness.com/)_, and how you wrestle with it, because your book is essentially a willful suspension of this idea that you go at head on._
-> >
-> > _KONNIKOVA: So, Nassim Taleb coined this phrase, “The Ludic Fallacy,” which basically just tears apart the whole premise of my book. He says that you can’t use games as a metaphor for life because games are neat, and life is messy. And I actually wholeheartedly agree with the fact that life is messy, and games are not. And I think that that actually makes them much more powerful as teaching tools. We don’t learn well in life because it’s a noisy environment, because you can’t figure out what’s going on, because there are too many variables. It’s too uncontrollable. What poker does is remove some of that noise. Yes, in an artificial way, but in a way that actually allows you to access your thought process on a much deeper level. And then you can go to that noisy arena of life and learn to deal with it better._
-> >
-> > _Yes, poker doesn’t have as terrible outcomes. Even no-limit Hold ’em, where you can wager it all — all you’re going to lose are your chips or however much money is on the table. In life, you can lose everything. But poker, in teaching you how to deal with those losses, on a game level, it then translates to a life level where all of a sudden you have the skills. You have the skills of emotional resilience. You have the skills of self-analysis to be able to get through those moments where life gets you down much more than poker ever could._
-> >
-> > _DUBNER: Can you give me an example of a good decision you’ve made in real life recently that you feel was directly influenced by your poker training?_
-> >
-> > _KONNIKOVA: I think that I’ve started approaching relationships in a very different way. One of the things that poker really brings home is the “sunk-cost fallacy,” which is something that plagues us a lot in our decision process, which is — basically we look at things that we’ve already invested and rather than say, “I can’t change it. That’s the past. I need to move on and make the best decision I can knowing what I know now,” we actually don’t do that. And instead, we say, “Well, I’ve already spent so much, I might as well keep going.” And this is true financially. We put good money after bad when it’s clear that an investment wasn’t working._
-> >
-> > _It’s true personally when we say, “Well, I’ve already spent so much time on this, I might as well finish it.” Instead, we’d be much better suited to say, “Hey, you know, that was time I can’t get back. But what I can control is the time I spend now. So, why don’t I actually use it in a more productive and a better way?” Poker has actually forced me to confront that head-on in my own life. And over the last few years, I’ve cut so many toxic relationships from my life that I realized had only been a part of my life because I’d invested so much time and energy into them — friendships that I’ve had for a very, very long time that I realized weren’t friendships, that were draining me more than anything else._
-> >
-> > _DUBNER: All right. Let me ask you the last question. So, you’ve gone to a lot of trouble in your life. I mean, I shouldn’t say trouble. You’ve enjoyed it and done well with it, but you’ve gotten a Ph.D. in psychology, then you immersed yourself in a very serious study of poker and traveled around the world to play and get better and ultimately become good and win and so on. For someone who isn’t going to do any of that, how can we get better at basic decision-making and self-control?_
-> >
-> > _KONNIKOVA: A lot of the things that I try to distill in my book are the mini lessons that I learned from myself through doing this. So, I hope that actually — I know this is a terrible answer because it sounds like, “Read my book” — but I hope that the book can actually serve as a cheat sheet for people. You know, I did this so that you don’t have to. All it comes down to ultimately is something that you can, I think, get without reading my book, which is learn to see yourself from an external perspective. Learn to be more mindful and more in tune with what you’re thinking, what you’re feeling. That’s what will enable you to spot the errors that you make in your decision process._
-> >
-> > _Most of the time we don’t notice it because we don’t pay attention to ourselves. We don’t notice that we’re making a decision while angry because we don’t stop to assess, “Oh, I’m angry. What’s making me angry?” We just don’t have that sort of internal conversation. And I think getting into the habit where just before you make any decision, before you do anything, you just stop, take a breath, and take a moment to reflect and to check in with yourself and see, “What am I thinking? Why am I thinking that? What am I feeling? Why am I feeling that way? Okay, now let me act. Now let me respond.” I think that that’s one of the most powerful tools that we can use without poker, without anything, that will enable us to be better versions of ourselves and make better decisions at the end of the day._
-> >
-> > \*      \*      \*
-> >
-> > _Nothing is all skill. Ever. I shy away from absolutes, but this one calls out for my embrace. Because life is life, luck will always be a factor in anything we might do or undertake. Skill can open up new vistas, new choices, allow us to see the chance that others less skilled than us, less observant or less keen, may miss — but should chance go against us, all our skill can do is mitigate the damage._
-> >
-> > _And the biggest bluff of all? That skill can ever be enough. That’s the hope that allows us to move forward in those moments when luck is most stacked against us, the useful delusion that lets us push on rather than give up. We don’t know, we can’t ever know, if we’ll manage or not. But we must convince ourselves that we can. That, in the end, our skill will be enough to carry the day. Because it has to be._
->
-> That was Maria Konnikova; her book is called _The Biggest Bluff_, and you can get it wherever you get your books. You remember books, don’t you? Rectangular. Made from trees. Or from bits and bytes. In any case, I would really like to know what you thought of this episode. Our address is radio@freakonomics.com. As I mentioned at the top, we are thinking about doing this more often, some sort of Freakonomics Book Club. What do you think? What did you like about this episode? What would you do differently? What kind of books and authors would you like to hear about? All feedback is welcome — again, we’re at radio@freakonomics.com. We’ll be back next week. Until then, take care of yourself — and, if you can, someone else too.
->
-> \*      \*      \*
->
-> _Freakonomics Radio_ is produced by Stitcher and Dubner Productions. This episode was produced by **Mary Diduch**. Audio excerpted courtesy Penguin Random House Audio from _The Biggest Bluff_ by Maria Konnikova, narrated by the author. Our staff also includes [Alison Craiglow](https://www.linkedin.com/in/alison-craiglow-aa60315/), [Greg Rippin](http://www.ripleyaudiopost.com/work), **Matt Hickey**, **Corinne Wallace**, **Zack Lapinski,** and **Daphne Chen**. Our intern is **Emma Tyrrell**. Our theme song is “Mr. Fortune,” by the Hitchhikers; the rest of our music was composed and performed by Luis Guerra, with additional music this week by Michael Reola and Stephen Ulrich. You can subscribe to _Freakonomics Radio_ on [Apple Podcasts](https://itunes.apple.com/podcast/freakonomics-radio/id354668519), [Stitcher](https://www.stitcher.com/podcast/freakonomics-radio), or [wherever you get your podcasts](https://freakonomics.com/about/where-to-listen-to-the-podcast/).
+## Background
+
+* Psychology
+* Columbia University PhD.
+* Getting a doctorate in psychology gives her insight into good decision making.
+
+## How Poker Relates to Life
+
+* Poker can explain how you handle yourself.
+* Do you want something safe and predictable, or something more rewarding in your career?
+* For me, computer science is stable. Low risk \(because it's high paying\), but low reward in that it's not super fun.
+
+### We Decide on Uncertainty
+
+You never know why a person makes the decisions they do. We can speculate based on incomplete data. You're put in high pressure situations.
+
+* If you want to play, you must play the big blind.
+* Maybe she has a premiuym hand.
+* Maybe she has a mediocre hand but she thinks she can beat the other players.
+* She may also choose to fold or raise.
+* She has observed the other players are conservative.
+* She is bored out of her mind.
+* **Conclusion**: Her reasoning, like her cards, is only known to her. It's not the best hand that wins, it's the best player.
+* We must **decide on uncertainty.** The world is gray, not black and white.
+
+### Doctors and Diagnoses
+
+* Once your certainty reaches a certain threshold, the doctor treats it like it's certain.
+* Really, the doctor is just doing the best that he can.
+* Communication is often communicated poorly.
+
+### Our Feedback Is Limited
+
+* In most life, we don't get immediate feedback.
+* It's convluted.
+
+## Locus of Control
+
+Most of the time, when good things happen, people take the internal locus of control standpoint. When bad things happen, they take the external locus of control.
+
+### Internal Locus of Control
+
+* "Yeah, that was me."
+* Most people believe the good things in life happen because of their abilities.
+
+### External locus of control
+
+* "No, that had nothing to do with me."
+* Most people believe bad things were due to externalities that the player can not control.
+* "It's not my fault. Here are all of the reasons why this went wrong."
+
+### The Ideal Balance
+
+* The extremes are poor and the moderate is poor.
+* You solve this puzzle through decision making and analysis.
+* What did I control? What did I not? What was the outcome?
+
+## Victims or Victors
+
+There is no such thing as objective reality. Every time we experience something, we cast our own judgment on it and see it for ourselves.
+
+### Victors
+
+* I made the correct decision. It didn't go over my way, but under pressure, I made the right decision.
+* Luck dampner effect: you fail to see the things you can be doing to overcome some of these problems.
+
+### Victims
+
+1. "The cards were against me."
+2. Things are being done around me and I cannot be blamed.
+3. Things are happpening around me and I am neither to blame nor in control.
+4. I will be ready for more opportunities and be ready and prepared for next time.
+
+#### Outcomes
+
+* People are sick of hearing you complain.
+* It's a downward spiral that continues.
+
+## Lessons Learned
+
+* Be precise. Don't exaggerate.
+
+## Further Reading
+
+* Marshmallow Test for self control.
+
+For personal use only:
+
+```text
+-----BEGIN PGP MESSAGE-----
+Version: BCPG v1.63
+
+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
+=J7EQ
+-----END PGP MESSAGE-----
+
+```
 
