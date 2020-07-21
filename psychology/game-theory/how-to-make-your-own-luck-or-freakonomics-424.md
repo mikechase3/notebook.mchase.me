@@ -1,5 +1,7 @@
 # How to Make Your Own Luck \| Freakonomics 424
 
+
+
 > Before she decided to become a poker pro, Maria Konnikova didn’t know how many cards are in a deck. But she did have a Ph.D. in psychology, a brilliant coach, and a burning desire to know whether life is driven more by skill or chance. She found some answers in poker — and in her new book _The Biggest Bluff_, she’s willing to tell us everything she learned.
 >
 > _Listen and subscribe to our podcast at_ [_**Apple Podcasts**_](https://itunes.apple.com/podcast/freakonomics-radio/id354668519)_,_ [_**Stitcher**_](https://www.stitcher.com/podcast/freakonomics-radio)_, or_ [_**elsewhere**_](https://freakonomics.com/about/where-to-listen-to-the-podcast/)_. Below is a transcript of the episode, edited for readability. For more information on the people and ideas in the episode, see the links at the bottom of this post._
