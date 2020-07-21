@@ -35,6 +35,11 @@
   * [Graphs Problem Solving Session](lectures/elementary-graph-algorithms/graphs-problem-solving-session.md)
   * [Graph Components Quiz](lectures/elementary-graph-algorithms/graph-components-quiz.md)
   * [Lecture 15: Topological Sort & Strongly Connected Components](lectures/elementary-graph-algorithms/lecture-15-topological-sort-and-strongly-connected-components.md)
+  * [Lecture 16 Graph Exercises](lectures/elementary-graph-algorithms/lecture-16-graph-exercises.md)
+  * [Lecture 16: Single Source Paths: Dijkstra's Algorithm](lectures/elementary-graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
+  * [Lecture 17: Bellman-Ford Algorithm](lectures/elementary-graph-algorithms/lecture-17-bellman-ford-algorithm.md)
+  * [Lecture 18: Minimum Spanning Tree: Kruskal's & Disjoint Sets](lectures/elementary-graph-algorithms/lecture-18-minimum-spanning-tree-kruskals-and-disjoint-sets.md)
+  * [Lecture 18: Graph Exercises](lectures/elementary-graph-algorithms/lecture-18-graph-exercises.md)
 
 ## AWS Machine Learning
 
