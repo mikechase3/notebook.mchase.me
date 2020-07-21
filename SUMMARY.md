@@ -74,4 +74,6 @@
 ## Psychology
 
 * [Programiz: How We Use Psychology to Market Our Products](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
+* [Game Theory](psychology/game-theory/README.md)
+  * [How to Make Your Own Luck \| Freakonomics 424](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
 
