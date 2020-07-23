@@ -173,6 +173,22 @@ A forest is a graph with no cycles, and a tree is a connected forest. That makes
 | Parent | One of the node's neighbors that is closest to the root.  |
 | Acyclic | It means there are no cycles. |
 
+## Algorithms
+
+| Algorithm | Use/Goal | Comment |
+| :--- | :--- | :--- |
+| BFS | Graph Traversal | Used for others. |
+| DFS | Graph Traversal | Used for others. |
+| Prim's |  |  |
+| Kruskal's | Finds minimum spanning tree \(cheapest roads to connect all cities\). | No starting node.  |
+| Floyd |  |  |
+| Bellmond-Ford | Find shortest path from source to all others. | Handles for negative weights. O\(V\*E\) |
+| Dikstra's | Find shortest path. | Faster if there's not negative weights. O\(V+E\) |
+
+Shortest path: You start at a source node.
+
+Minimum spanning: 
+
 ## Works Cited
 
 | Title | Content Used | Author |
