@@ -9,7 +9,7 @@ _Depth First Search_ and _Breadth First Search_ both:
 3. Visit adjacent nodes.
 4. Queue or push unseen adjacent nodes. 
 
-The difference is that they have different ways of traversing through that graph.
+The difference is that they have different ways of traversing through that graph. Check out this [visualization](https://visualgo.net/en/dfsbfs) while you're using these notes.
 
 ## Breadth First Search
 
@@ -27,20 +27,18 @@ We're to **process layer by layer**. We're not going deep into a path.
 
 ![](../../.gitbook/assets/image%20%2885%29.png)
 
-We require:
+### Memoization
 
 1. **Queue:** Tells us which nodes we'll examine next.
 2. **"Seen" Hash-Set**: Ensures we don't add nodes to the queue we've already added and processed.
 3. **Output Nodes**: Shows us the output of the nodes.
 
-### Next Iterations
+So the basic form of DFS uses an array **status\[u\]** of size **V** vertices to decide between binary conditions: Whether vertex **u** has been visited or unvisited. Only if vertex **u** is still unvisited, then DFS can visit vertex **u**.
 
-* If something has been queued for work, it has most definitely been seen.
+#### Memorizing the path
 
-| Queue | Seen | Output |
-| :--- | :--- | :--- |
-| \[B, J, G\] | \[A, B, J, G\] | A |
-| \[J, G, D\] | \[A, B, J, G, D\] | \[A, B, J\] |
+DFS uses another array **p\[u\]** of size **V** vertices to remember the **parent/predecessor/previous** of each vertex **u** along the DFS traversal path.  
+
 
 
 
