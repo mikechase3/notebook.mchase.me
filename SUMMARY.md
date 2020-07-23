@@ -3,6 +3,18 @@
 * [Mike Chase's Notebook](README.md)
 * [Notes to Self](for-michael.md)
 
+## Languages
+
+* [Java Collections Framework](languages/java.md)
+* [Python](languages/python/README.md)
+  * [Language Crash Course](languages/python/python-crash-course.md)
+  * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
+  * [Programiz](languages/python/best-resource-ever.md)
+* [iOS and Swift](languages/ios-and-swift/README.md)
+  * [The Swift Language Programming Guide](languages/ios-and-swift/the-swift-language-programming-guide.md)
+  * [Swift Cheat Sheet](languages/ios-and-swift/swift-cheat-sheet-1.md)
+* [MIPS](languages/mips.md)
+
 ## CPS 450 <a id="lectures"></a>
 
 * [CPS 350 Miscellaneous](lectures/untitled.md)
@@ -28,18 +40,21 @@
   * [Problem Session](lectures/amortized-analysis/problem-session.md)
   * [Amortized Analysis Quiz](lectures/amortized-analysis/amortized-analysis-quiz.md)
 * [Midterm Preparation](lectures/midterm-preparation.md)
-* [Graph Algorithms](lectures/elementary-graph-algorithms/README.md)
-  * [Lecture 12: Graph Representations](lectures/elementary-graph-algorithms/lecture-12-graph-fundamentals.md)
-  * [Lecture 13: WEIGHTED Graph Representations](lectures/elementary-graph-algorithms/lecture-13-dfs-bfs-applications.md)
-  * [Lecture 14: BFS & DFS](lectures/elementary-graph-algorithms/lecture-14.md)
-  * [Graphs Problem Solving Session](lectures/elementary-graph-algorithms/graphs-problem-solving-session.md)
-  * [Graph Components Quiz](lectures/elementary-graph-algorithms/graph-components-quiz.md)
-  * [Lecture 15: Topological Sort & Strongly Connected Components](lectures/elementary-graph-algorithms/lecture-15-topological-sort-and-strongly-connected-components.md)
-  * [Lecture 16 Graph Exercises](lectures/elementary-graph-algorithms/lecture-16-graph-exercises.md)
-  * [Lecture 16: Single Source Paths: Dijkstra's Algorithm](lectures/elementary-graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
-  * [Lecture 17: Bellman-Ford Algorithm](lectures/elementary-graph-algorithms/lecture-17-bellman-ford-algorithm.md)
-  * [Lecture 18: Minimum Spanning Tree: Kruskal's & Disjoint Sets](lectures/elementary-graph-algorithms/lecture-18-minimum-spanning-tree-kruskals-and-disjoint-sets.md)
-  * [Lecture 18: Graph Exercises](lectures/elementary-graph-algorithms/lecture-18-graph-exercises.md)
+* [Graph Algorithms](lectures/graph-algorithms/README.md)
+  * [Graph Fundamentals](lectures/graph-algorithms/elementary-graph-algorithms.md)
+  * [Lecture 12: Graph Representations](lectures/graph-algorithms/lecture-12-graph-fundamentals.md)
+  * [Lecture 13: WEIGHTED Graph Representations](lectures/graph-algorithms/lecture-13-dfs-bfs-applications.md)
+  * [BFS & DFS](lectures/graph-algorithms/lecture-14.md)
+  * [Lecture 14: BFS & DFS](lectures/graph-algorithms/lecture-14-bfs-and-dfs.md)
+  * [Graphs Problem Solving Session](lectures/graph-algorithms/graphs-problem-solving-session.md)
+  * [Graph Components Quiz](lectures/graph-algorithms/graph-components-quiz.md)
+  * [Topological Sorting](lectures/graph-algorithms/topological-sorting.md)
+  * [Lecture 15: Topological Sort & Strongly Connected Components](lectures/graph-algorithms/lecture-15-topological-sort-and-strongly-connected-components.md)
+  * [Lecture 16: Single Source Paths: Dijkstra's Algorithm](lectures/graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
+  * [Lecture 16 Graph Exercises](lectures/graph-algorithms/lecture-16-graph-exercises.md)
+  * [Lecture 17: Bellman-Ford Algorithm](lectures/graph-algorithms/lecture-17-bellman-ford-algorithm.md)
+  * [Lecture 18: Minimum Spanning Tree: Kruskal's & Disjoint Sets](lectures/graph-algorithms/lecture-18-minimum-spanning-tree-kruskals-and-disjoint-sets.md)
+  * [Lecture 18: Graph Exercises](lectures/graph-algorithms/lecture-18-graph-exercises.md)
 
 ## AWS Machine Learning
 
@@ -58,18 +73,6 @@
 * [User Interface](unity/user-interface.md)
 * [Next Steps](unity/next-steps.md)
 * [Roll A Ball Project](unity/roll-a-ball-project.md)
-
-## Languages
-
-* [Python](languages/python/README.md)
-  * [Language Crash Course](languages/python/python-crash-course.md)
-  * [Codecademy Cheatsheets](languages/python/codecademy-cheatsheets.md)
-  * [Best Resource Ever](languages/python/best-resource-ever.md)
-* [iOS and Swift](languages/ios-and-swift/README.md)
-  * [The Swift Language Programming Guide](languages/ios-and-swift/the-swift-language-programming-guide.md)
-  * [Swift Cheat Sheet](languages/ios-and-swift/swift-cheat-sheet-1.md)
-* [MIPS](languages/mips.md)
-* [Java Collections Framework](languages/java.md)
 
 ## Misc
 
