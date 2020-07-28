@@ -28,6 +28,8 @@ This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS
 1. Back to Back SE \(Paid, $100/year.\)
 2. Coursera _Algorithms_ from Princeton and this corresponding [textbook](https://algs4.cs.princeton.edu/home/)
 
+## 
+
 ## Works Cited
 
 Where I've used it is shown at the bottom of each page, if I used it.

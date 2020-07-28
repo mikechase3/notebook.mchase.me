@@ -1,4 +1,4 @@
-# BFS & DFS
+# BFS & DFS Basics \(L14\)
 
 ## Introduction
 
@@ -73,6 +73,7 @@ So now `S` goes to Gregg and asks "Hey Greg, do you have a path to Hal? And then
 | :--- | :--- | :--- |
 | [DFS & BFS](https://www.youtube.com/watch?v=TIbUeeksXcI) | [Back to Back SWE](https://backtobackswe.com/platform/content/depth-first-search-and-breadth-first-search) | Structure, Pictures, Explanations... I watched his videos and took notes. |
 | [Algorithms: Graph Search, DFS, and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w&t=209s) | ![](../../.gitbook/assets/image%20%2889%29.png) | Screenshots,  |
+| [Lecture 13: BFS](https://www.youtube.com/watch?v=s-CYnVz-uh4&t=2s) | Erik Demaine; MIT Open Courseware | None \(But really good resource\). |
 
 
 

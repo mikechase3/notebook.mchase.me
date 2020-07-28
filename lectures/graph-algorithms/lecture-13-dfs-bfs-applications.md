@@ -1,4 +1,4 @@
-# Lecture 13: WEIGHTED Graph Representations
+# Weighted Graphs \(L13\)
 
 ## Weighted Digraphs
 

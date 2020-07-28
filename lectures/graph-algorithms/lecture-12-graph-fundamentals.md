@@ -1,4 +1,4 @@
-# Lecture 12: Graph Representations
+# Graph Representations \(L12\)
 
 ## Common Graph Operations
 
