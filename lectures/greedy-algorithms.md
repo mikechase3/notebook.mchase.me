@@ -1,4 +1,4 @@
-# Lecture 09: Greedy Algorithms
+# Greedy Algorithms \(L09\)
 
 ## Fundamentals
 

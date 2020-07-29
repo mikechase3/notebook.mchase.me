@@ -79,6 +79,7 @@
 
 ## Ford-Fulkerson Method
 
+* Applications: Maximize data flowing through a network, utilizing all possible paths from source to destination.
 * _Augmenting Path_: We're increasing flow in the network.
 * _Residual Network:_ The leftovers.
 
@@ -90,6 +91,10 @@ return f
 ```
 
 ## Residual Networks
+
+#### What is a residual network?
+
+It's an entirely new graph, but we're defining all the nodes and edges by how much free-space they have at each edge. More formally:
 
 $$G_f = (V, E_f)$$ describes a residual network. The edges with residual capacities, $$E_f$$ describe how we can change the _flow_ on edges of $$G=(V,E)$$ 
 

@@ -33,7 +33,7 @@
   * [Lecture 08: Knapsack Problem](lectures/dynamic-programming/lecture-08-dynamic-programming.md)
   * [Problem Session: Dynamic Programming](lectures/dynamic-programming/problem-session-dynamic-programming.md)
   * [Programming Assignments](lectures/dynamic-programming/programming-assignments.md)
-* [Lecture 09: Greedy Algorithms](lectures/greedy-algorithms.md)
+* [Greedy Algorithms \(L09\)](lectures/greedy-algorithms.md)
 * [Amortized Analysis](lectures/amortized-analysis/README.md)
   * [Lecture 10: Amortized Analysis](lectures/amortized-analysis/lecture-10-amoritized-analysis.md)
   * [Lecture 11: More Amortized Analysis](lectures/amortized-analysis/lecture-11-more-amortized-analysis.md)
@@ -53,6 +53,7 @@
   * [Lecture 17: Bellman-Ford Algorithm](lectures/graph-algorithms/lecture-17-bellman-ford-algorithm.md)
   * [Lecture 18: Minimum Spanning Tree: Kruskal's & Disjoint Sets](lectures/graph-algorithms/lecture-18-minimum-spanning-tree-kruskals-and-disjoint-sets.md)
   * [Maximum Flow \(L19\)](lectures/graph-algorithms/maximum-flow-l19.md)
+* [Linear Programming](lectures/linear-programming.md)
 
 ## AWS Machine Learning
 
