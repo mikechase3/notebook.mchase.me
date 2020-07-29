@@ -46,6 +46,7 @@
   * [Weighted Graphs \(L13\)](lectures/graph-algorithms/lecture-13-dfs-bfs-applications.md)
   * [BFS & DFS Basics \(L14\)](lectures/graph-algorithms/lecture-14.md)
   * [Graphs Problem Solving Session](lectures/graph-algorithms/graphs-problem-solving-session.md)
+  * [Graphs Problem Solving 2](lectures/graph-algorithms/graphs-problem-solving-2.md)
   * [Topological Sorting \(L15\)](lectures/graph-algorithms/topological-sorting.md)
   * [Single Source Shortest Paths \(L16\)](lectures/graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
   * [Untitled](lectures/graph-algorithms/untitled.md)
