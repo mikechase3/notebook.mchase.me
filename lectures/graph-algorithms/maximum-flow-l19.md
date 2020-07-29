@@ -44,7 +44,7 @@
     <tr>
       <td style="text-align:left">Sink Vertex <em>(t)</em>
       </td>
-      <td style="text-align:left">Has no outgoing edges.</td>
+      <td style="text-align:left">Where all the flow points to; no outgoing edges.</td>
     </tr>
     <tr>
       <td style="text-align:left">Vertex <em>(v)</em>
@@ -62,8 +62,38 @@
         <p>The flow going into all the edges is the same going out of all the edges.</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Flow</td>
+      <td style="text-align:left">
+        <p>The total amount currently going out of the source node - flow going into
+          the source node (usually none).</p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
-Left off at 3:25
+## Ford-Fulkerson Method
+
+* _Augmenting Path_: We're increasing flow in the network.
+* _Residual Network:_ The leftovers.
+
+```text
+Iniialize flow f to all 0's:
+while (there is an augmenting path p in residual network Gf):
+    augment flow f along p
+return f
+```
+
+## Residual Networks
+
+$$G_f = (V, E_f)$$ describes a residual network. The edges with residual capacities, $$E_f$$ describe how we can change the _flow_ on edges of $$G=(V,E)$$ 
+
+If an edge _\(u, v\)_ in _G_ can admit additional flow, we place the edge into $$G_f$$ with a _residual capacity_ $$c_f (u,v) = c(u, v) - f(u, v)$$ . Edges where$$c_f (u, v) = 0 \implies c_f(u, v) \notin G_f$$ 
+
+
 
