@@ -1,8 +1,65 @@
-# Linear Programming
+# Linear Programming \(L20\)
 
 ## What is Optimization?
 
 When we are faced with a linear programming problem, we usually want to optimize a bunch of different conditions.
+
+## Optimization Examples
+
+{% tabs %}
+{% tab title="General" %}
+
+{% endtab %}
+
+{% tab title="Investment" %}
+
+{% endtab %}
+
+{% tab title="LP Knapsack" %}
+
+{% endtab %}
+
+{% tab title="" %}
+LP Maximum Flow Problem
+
+Our goal is to solve this maximum flow problem 
+
+#### Constraints
+
+* There is an inequality constraint for every edge.
+* There is an equality constraint for every vertex.
+
+{% hint style="info" %}
+Notation: $$x_{ij} \implies \text{flow in edge } i \rightarrow j$$ 
+{% endhint %}
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Edge Capacity Constraints</th>
+      <th style="text-align:left">Equilibrium Constraints</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/image (97).png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/image (98).png" alt/>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+![](../.gitbook/assets/image%20%2896%29.png)
+
+* 
+{% endtab %}
+{% endtabs %}
 
 ### Investment Profile Example
 
@@ -34,16 +91,24 @@ We can define these constraints using functions. We can model this problem like 
 I skipped this section because it was confusing. Left off at 04:25
 {% endhint %}
 
-## Fractional Knapsack Problem
+### Fractional Knapsack Problem
+
+#### Problem
 
 * Suppose a thief is stealing stuff.
+* You want to optimize the total value.
 
-| Object | Profits | Weight |
-| :--- | :--- | :--- |
-| Profits |  |  |
-|  |  |  |
+| Symbol | Meaning |
+| :--- | :--- |
+| $$v_j$$  | The value of the \(entire\) item j. |
+| $$w_j$$  | The weight of the \(entire\) item j. |
+| $$x_j$$  | The fraction of item j that is taken. |
 
+#### Maximizing Value
 
+* You want to maximize the value of all the items you choose.: $$v_1x_1 + ... + v_nx_n$$ .
+* We are subjected to the weight limit: $$w_1x_1 + ... + w_nx_n \leq W$$ 
+* The fractional of each item must be between: $$0 \leq x_j \leq 1, \text{for } j = 1, ..., n$$ .
 
 
 
