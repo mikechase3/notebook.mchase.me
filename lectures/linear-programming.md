@@ -34,7 +34,14 @@ We can define these constraints using functions. We can model this problem like 
 I skipped this section because it was confusing. Left off at 04:25
 {% endhint %}
 
+## Fractional Knapsack Problem
 
+* Suppose a thief is stealing stuff.
+
+| Object | Profits | Weight |
+| :--- | :--- | :--- |
+| Profits |  |  |
+|  |  |  |
 
 
 
