@@ -139,7 +139,7 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 ![](../.gitbook/assets/image%20%2896%29.png)
 
 {% hint style="info" %}
-Left off at 17:45
+Left off at 17:45: [link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true).
 {% endhint %}
 {% endtab %}
 {% endtabs %}
