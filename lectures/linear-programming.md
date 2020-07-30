@@ -40,8 +40,6 @@ I skipped this section because it was confusing. Left off at 04:25
 
 
 
-
-
 ## Works Cited
 
 | Resource | Author |
