@@ -105,6 +105,18 @@ More words here.
 
 
 {% tabs %}
+{% tab title="Summary" %}
+### **Summary**
+
+The simplex method says: travel along the corner points until you reach a local maximum. This is best illustrated through examples.
+
+### Steps
+
+Phase 1 \(start-up\): Find any corner point feasible solution. In many standard LPs the origin can serve as the start-up comer point
+
+Phase 2 \(iterate\): Repeatedly move to a better adjacent corner point feasible solution until no further better adjacent comer point feasible solution can be found. The final corner point defines the optimum point
+{% endtab %}
+
 {% tab title="Toy Factory" %}
 ### Toy Factory
 
@@ -139,10 +151,37 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 ![](../.gitbook/assets/image%20%2896%29.png)
 
 {% hint style="info" %}
-Left off at 17:45: [link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true).
+Left off at 17:45: [link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true). Of quality watching.
 {% endhint %}
+
+#### Step 4: Observe:
+
+1. An optimum solution is always at a corner point. 
+   1. It might be that the constant line is parallel to a constraint line, in which case, there are many optimum points.
+2. There is a finite number of **corner points** or feasible solutions.
+3. If a corner point feasible solution has an objective function value that is better than or equal to **all**  its **adjacent corner point** feasible solutions, then **it is optimal.**
+
+Summary: The simplex method says: travel along the corner points until you reach a local maximum.
+
+#### Phase Steps
+
+![](../.gitbook/assets/image%20%28102%29.png)
+
+Here, we'll iterate through all the points where there is an intersection between the feasible region and examine what `z` is at each point.
+
+> Phase 1: start at \(0, 0\) ~ Objective value = Z\(0, 0\)=0 
+>
+> Iteration 1: Move to \(2, 0\) ~ Z\(2, 0\)=30. An Improvement 
+>
+> Iteration 2: Move to \(2, 2\) ~ Z\(2, 2\)=50. An Improvement 
+>
+> Iteration 3: Consider moving to \(1, 3\) ~ Z\(1, 3\) = 45 &lt; 50
+>
+> Conclude that \(2, 2\) 1s optimum corner!
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
