@@ -1,10 +1,20 @@
 # Linear Programming \(L20\)
 
-## What is Optimization?
+## What is Linear Programming?
 
-When we are faced with a linear programming problem, we usually want to optimize a bunch of different conditions.
+> Linear programming \(LP\) is a method to achieve the optimum outcome under some requirements represented by linear relationships. More precisely, LP can solve the problem of maximizing or minimizing a linear objective function subject to some linear constraints. 
+>
+> In general, the standard form of LP consists of 
+>
+> 1. Variables: x = \(x1, x2,...,xd\)
+> 2. Objective function: c · x 
+> 3. Inequalities \(constraints\): Ax ≤ b, where A is a n × d matirix.
+>
+> and we maximize the objective function subject to the constraints and x ≥ 0. 
+>
+> LP has many different applications, such as flow, shortest paths, and even politics. In this lecture, we will be covering different examples of LP, and present an algorithm for solving them. We will also learn how to convert any LP to the standard form in this lecture
 
-### Examples
+## Examples of Linear Programming
 
 {% tabs %}
 {% tab title="General" %}
@@ -100,21 +110,41 @@ More words here.
 {% endtab %}
 {% endtabs %}
 
-## Simplex Method
+## Simplex Algorithm
 
-
+> In the feasible region, x moves from vertex to vertex in direction of c. The algorithm is simple, but runs in exponential time in the worst case.
 
 {% tabs %}
 {% tab title="Summary" %}
 ### **Summary**
 
-The simplex method says: travel along the corner points until you reach a local maximum. This is best illustrated through examples.
+The simplex method says: travel along the corner points until you reach a local maximum. This is best illustrated through examples. The textbook describes the _simplex algorithm_ like so:
 
-### Steps
+> The _**simplex algorithm**_ takes as input a linear program and returns an optimal solution. It starts at some vertex of the simplex and performs a sequence of iterations. In each iteration, it moves along an edge of the simplex from a current for tax to a neighboring vertex whose objective value is no smaller than that of current vertex. The simplex algorithm terminates when it reaches a local maximum, which is a vertex from which all neighboring vertices have a smaller objective value.
+
+### Steps \(MIT\)
+
+1. Represent LP in "slack" form
+2. Convert one slack form into an equivalent slack form, while likely increasing the value of the objective function, and ensuring that the value does not decrease.
+3. Repeat until the optimal solution becomes apparent.
+
+### Steps \(Yao\)
 
 Phase 1 \(start-up\): Find any corner point feasible solution. In many standard LPs the origin can serve as the start-up comer point
 
 Phase 2 \(iterate\): Repeatedly move to a better adjacent corner point feasible solution until no further better adjacent comer point feasible solution can be found. The final corner point defines the optimum point
+
+### Formal Proof
+
+{% hint style="info" %}
+See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true).
+{% endhint %}
+{% endtab %}
+
+{% tab title="Other LP Algorithms" %}
+**Ellipsoid algorithm**: It starts with an ellipsoid that includes the optimal solution, and keeps shrinking the ellipsoid until the optimal solution is found. This was the first poly-time algorithm, and was a theoretical breakthrough. However, the algorithm is impractical in practice.
+
+**Interior Point Method**: x moves inside the polytope following c. This algorithm runs in poly-time, and is practical
 {% endtab %}
 
 {% tab title="Toy Factory" %}
@@ -150,9 +180,7 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 
 ![](../.gitbook/assets/image%20%2896%29.png)
 
-{% hint style="info" %}
-Left off at 17:45: [link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true). Of quality watching.
-{% endhint %}
+
 
 #### Step 4: Observe:
 
@@ -179,7 +207,50 @@ Here, we'll iterate through all the points where there is an intersection betwee
 >
 > Conclude that \(2, 2\) 1s optimum corner!
 {% endtab %}
+
+{% tab title="MIT Example" %}
+### MIT Example
+
+Consider the following example:
+
+Minimize $$3x_{1} + x_2 + x_3$$ subject to: 
+
+1. $$x_1 + x_2 + 3x_3 ≤30$$ 
+2. $$2x_1 + 2x_2 + 5x_3 ≤ 24$$ 
+3. $$4x_1 + x_2 + 2x_3 ≤ 36$$ 
+4. $$x_1 + x_2 + x_3 ≥ 0$$ 
+
+#### Step 1: Change to Slack Form
+
+Change the given LP problem to slack form, consisting of the original variables called _nonbasic_ variables, and new variables representing slack called _basic_ variables.
+
+$$
+z = 3x_1 + x_2 + x_3
+$$
+
+$$
+x_4 = 30-x_1-x_2-3x_3
+$$
+
+a
+
+a
+
+a
+
+a
+{% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -196,5 +267,5 @@ Here, we'll iterate through all the points where there is an intersection betwee
 | Resource | Author |
 | :--- | :--- |
 | [Chapter 29 Linear Programming](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true) | Dr. Zhongmei Yao |
-|  |  |
+| [Linear Programming: LP, Reductions, Simplex](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_lec15.pdf) | Prof. Srini Devadas |
 
