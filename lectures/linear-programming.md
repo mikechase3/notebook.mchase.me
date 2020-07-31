@@ -213,6 +213,8 @@ Here, we'll iterate through all the points where there is an intersection betwee
 
 Consider the following example:
 
+#### Given Statements
+
 Minimize $$3x_{1} + x_2 + x_3$$ subject to: 
 
 1. $$x_1 + x_2 + 3x_3 ≤30$$ 
@@ -222,25 +224,35 @@ Minimize $$3x_{1} + x_2 + x_3$$ subject to:
 
 #### Step 1: Change to Slack Form
 
-Change the given LP problem to slack form, consisting of the original variables called _nonbasic_ variables, and new variables representing slack called _basic_ variables.
+Change the given LP problem to slack form, consisting of the **original** variables **called** _**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities** by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
 
 $$
-z = 3x_1 + x_2 + x_3
+a+b+c+d ≥ 30 \implies x_n=(a+b+c+d)-30, x_n≥0
 $$
 
-$$
-x_4 = 30-x_1-x_2-3x_3
-$$
+Applying it to the example, we 
 
-a
+1. $$z = 3x_1 + x_2 + x_3$$ _set equal to 0._
+2. $$x_4 = 30-x_1-x_2-3x_3$$ _Subtract each term from the left-hand side._
+3. $$x_5 = 24-2x_1-2x_2-5x_3$$ 
+4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$ 
 
-a
+### Basic Solution
 
-a
+1. Set all nonbasic values to a feasible value.
+2. Compute the value of the basic variables.
+
+For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given statements.
+
+### Pivoting Step
+
+
 
 a
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
