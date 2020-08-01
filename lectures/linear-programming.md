@@ -141,6 +141,61 @@ See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6
 {% endhint %}
 {% endtab %}
 
+{% tab title="Converting to Slack" %}
+### MIT Example
+
+Consider the following example:
+
+#### Given Statements
+
+Minimize $$3x_{1} + x_2 + x_3$$ subject to: 
+
+1. $$x_1 + x_2 + 3x_3 ≤30$$ 
+2. $$2x_1 + 2x_2 + 5x_3 ≤ 24$$ 
+3. $$4x_1 + x_2 + 2x_3 ≤ 36$$ 
+4. $$x_1 + x_2 + x_3 ≥ 0$$ 
+
+#### Step 1: Change to Slack Form
+
+Change the given LP problem to slack form, consisting of the **original** variables **called** _**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities** by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
+
+$$
+a+b+c+d ≥ 30 \implies x_n=(a+b+c+d)-30, x_n≥0
+$$
+
+Applying it to the example, we 
+
+1. $$z = 3x_1 + x_2 + x_3$$ _set equal to 0._
+2. $$x_4 = 30-x_1-x_2-3x_3$$ _Subtract each term from the left-hand side._
+3. $$x_5 = 24-2x_1-2x_2-5x_3$$ 
+4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$ 
+
+If we're asked to convert minimums to maximums, multiply all terms by -1.
+
+### 
+
+
+
+a
+{% endtab %}
+
+{% tab title="" %}
+### Solving
+
+### Basic Solution
+
+1. Set all nonbasic values to a feasible value.
+2. Compute the value of the basic variables.
+
+For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given statements.
+
+### Pivoting Step
+
+1. Select a nonbasic variable $$x_e$$ whose coefficient in the objective function is positive.
+2. Increase the value of $$x_e$$ as much as possible without violating any constraints.
+3. Set $$x_e$$ to be basic, while some other basic variables become nonbasic.
+{% endtab %}
+
 {% tab title="Other LP Algorithms" %}
 **Ellipsoid algorithm**: It starts with an ellipsoid that includes the optimal solution, and keeps shrinking the ellipsoid until the optimal solution is found. This was the first poly-time algorithm, and was a theoretical breakthrough. However, the algorithm is impractical in practice.
 
@@ -206,53 +261,6 @@ Here, we'll iterate through all the points where there is an intersection betwee
 > Iteration 3: Consider moving to \(1, 3\) ~ Z\(1, 3\) = 45 &lt; 50
 >
 > Conclude that \(2, 2\) 1s optimum corner!
-{% endtab %}
-
-{% tab title="MIT Example" %}
-### MIT Example
-
-Consider the following example:
-
-#### Given Statements
-
-Minimize $$3x_{1} + x_2 + x_3$$ subject to: 
-
-1. $$x_1 + x_2 + 3x_3 ≤30$$ 
-2. $$2x_1 + 2x_2 + 5x_3 ≤ 24$$ 
-3. $$4x_1 + x_2 + 2x_3 ≤ 36$$ 
-4. $$x_1 + x_2 + x_3 ≥ 0$$ 
-
-#### Step 1: Change to Slack Form
-
-Change the given LP problem to slack form, consisting of the **original** variables **called** _**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities** by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
-
-$$
-a+b+c+d ≥ 30 \implies x_n=(a+b+c+d)-30, x_n≥0
-$$
-
-Applying it to the example, we 
-
-1. $$z = 3x_1 + x_2 + x_3$$ _set equal to 0._
-2. $$x_4 = 30-x_1-x_2-3x_3$$ _Subtract each term from the left-hand side._
-3. $$x_5 = 24-2x_1-2x_2-5x_3$$ 
-4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$ 
-
-### Basic Solution
-
-1. Set all nonbasic values to a feasible value.
-2. Compute the value of the basic variables.
-
-For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given statements.
-
-### Pivoting Step
-
-1. Select a nonbasic variable $$x_e$$ whose coefficient in the objective function is positive.
-2. Increase the value of $$x_e$$ as much as possible without violating any constraints.
-3. Set $$x_e$$ to be basic, while some other basic variables become nonbasic.
-
-
-
-a
 {% endtab %}
 {% endtabs %}
 
