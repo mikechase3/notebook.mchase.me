@@ -246,6 +246,10 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 ### Pivoting Step
 
+1. Select a nonbasic variable $$x_e$$ whose coefficient in the objective function is positive.
+2. Increase the value of $$x_e$$ as much as possible without violating any constraints.
+3. Set $$x_e$$ to be basic, while some other basic variables become nonbasic.
+
 
 
 a
