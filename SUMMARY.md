@@ -79,6 +79,7 @@
 
 * [Bash](misc/bash.md)
 * [Git](misc/git.md)
+* [Penetration Testing](misc/penetration-testing.md)
 
 ## Psychology
 
