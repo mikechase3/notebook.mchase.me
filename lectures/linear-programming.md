@@ -138,17 +138,17 @@ See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6
 {% tab title="Maximization" %}
 ## Maximization
 
-![Dr. Yao&apos;s slide summarizing slack form.](../.gitbook/assets/image%20%28110%29.png)
+![Dr. Yao&apos;s slide summarizing slack form.](../.gitbook/assets/image%20%28117%29.png)
 
 ### Givens
 
 We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 ### Convert to Slack Form
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 * Now we have three more variables. All of them are subject to being greater than 0.
 * $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$ 
@@ -161,7 +161,7 @@ We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 Where did x' come from? What does it mean?
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 #### Unknown Step
 
@@ -169,11 +169,11 @@ Where did x' come from? What does it mean?
 How did we get here?
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 ### Summary
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 {% endtab %}
 
 {% tab title="Minimization" %}
