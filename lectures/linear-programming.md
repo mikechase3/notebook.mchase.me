@@ -102,12 +102,6 @@ Notation: $$x_{ij} \implies \text{flow in edge } i \rightarrow j$$
 
 More words here.
 {% endtab %}
-
-{% tab title="Toy Factory" %}
-### 
-
-### 
-{% endtab %}
 {% endtabs %}
 
 ## Simplex Algorithm
@@ -141,21 +135,60 @@ See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6
 {% endhint %}
 {% endtab %}
 
-{% tab title="Converting to Slack" %}
-### MIT Example
+{% tab title="Maximization" %}
+## Maximization
+
+![Dr. Yao&apos;s slide summarizing slack form.](../.gitbook/assets/image%20%28110%29.png)
+
+### Givens
+
+We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
+
+![](../.gitbook/assets/image%20%28109%29.png)
+
+### Convert to Slack Form
+
+![](../.gitbook/assets/image%20%28106%29.png)
+
+* Now we have three more variables. All of them are subject to being greater than 0.
+* $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$ 
+
+### Solving
+
+#### Unknown Step
+
+{% hint style="danger" %}
+Where did x' come from? What does it mean?
+{% endhint %}
+
+![](../.gitbook/assets/image%20%28107%29.png)
+
+#### Unknown Step
+
+{% hint style="danger" %}
+How did we get here?
+{% endhint %}
+
+![](../.gitbook/assets/image%20%28105%29.png)
+
+### Summary
+
+![](../.gitbook/assets/image%20%28108%29.png)
+{% endtab %}
+
+{% tab title="Minimization" %}
+## Minimization
 
 Consider the following example:
 
 #### Given Statements
 
-Minimize $$3x_{1} + x_2 + x_3$$ subject to: 
+_Minimize_ $$3x_{1} + x_2 + x_3$$ subject to: 
 
 1. $$x_1 + x_2 + 3x_3 ≤30$$ 
 2. $$2x_1 + 2x_2 + 5x_3 ≤ 24$$ 
 3. $$4x_1 + x_2 + 2x_3 ≤ 36$$ 
 4. $$x_1 + x_2 + x_3 ≥ 0$$ 
-
-#### Step 1: Change to Slack Form
 
 Change the given LP problem to slack form, consisting of the **original** variables **called** _**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities** by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
 
@@ -171,16 +204,12 @@ Applying it to the example, we
 4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$ 
 
 If we're asked to convert minimums to maximums, multiply all terms by -1.
-
-### 
-
-
-
-a
 {% endtab %}
 
-{% tab title="" %}
-### Solving
+{% tab title="Solving" %}
+## Solving
+
+### Minimization Example
 
 ### Basic Solution
 
@@ -194,6 +223,8 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 1. Select a nonbasic variable $$x_e$$ whose coefficient in the objective function is positive.
 2. Increase the value of $$x_e$$ as much as possible without violating any constraints.
 3. Set $$x_e$$ to be basic, while some other basic variables become nonbasic.
+
+### Maximization Example 
 {% endtab %}
 
 {% tab title="Other LP Algorithms" %}
@@ -263,6 +294,10 @@ Here, we'll iterate through all the points where there is an intersection betwee
 > Conclude that \(2, 2\) 1s optimum corner!
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
