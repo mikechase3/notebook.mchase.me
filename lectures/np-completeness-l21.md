@@ -252,9 +252,9 @@ See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk&list=P
 
 ## Works Cited
 
-Erik Demaine, and Srini Devadas. _6.006 Introduction to Algorithms._ Fall 2011. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Erik Demaine, and Srini Devadas. _6.006 Introduction to Algorithms._ Fall 2011. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lecture 23.
 
-Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms._ Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms._ Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lecture 16.
 
 Chang, Cory. [_P vs. NP - An Introduction_](https://www.youtube.com/watch?v=OY41QYPI8cw)_._ Undefined Behavior.
 
