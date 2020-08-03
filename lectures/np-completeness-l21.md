@@ -169,6 +169,10 @@ I don't understand reductions or these definitions very well.
 
 ### 3SAT Reduction
 
+![](../.gitbook/assets/image%20%28121%29.png)
+
+
+
 ## Works Cited
 
 Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms._ Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).  

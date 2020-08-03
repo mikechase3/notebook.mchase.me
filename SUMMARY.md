@@ -80,6 +80,7 @@
 * [Bash](misc/bash.md)
 * [Git](misc/git.md)
 * [Penetration Testing](misc/penetration-testing.md)
+* [HTML CSS](misc/html-css.md)
 
 ## Psychology
 
