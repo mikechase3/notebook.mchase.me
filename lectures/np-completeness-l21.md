@@ -1,35 +1,67 @@
 # NP Completeness \(L21\)
 
-## Introduction
+## Complexity Theory
+
+![Different problems have different amounts of difficulty.](../.gitbook/assets/image%20%28129%29.png)
 
 * An entire field in one lecture.
 * We're going to show that Super Mario Bros is NP Complete.
 * This is all about reductions and converting one problem into another.
 
-![The scale of NP Hardness. P is what we&apos;ve done. NP is harder. NP Complete or harder is worse.](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
-### P
+This expands out to cover NP:
 
-* P describes all the problems that can be solved in polynomial time.
+![](../.gitbook/assets/image%20%28110%29.png)
+
+### Polynomial Time \(P\)
+
+* P is the set of all problems that can be solved in polynomial time.
 * Basically everything we learned so far, up until this point, is polynomial $$n^{\text{some constant}}$$ 
 
-{% hint style="warning" %}
-Can you elaborate on what P is and why we call it P? Is it an object? A set of all solvable problems? 
-{% endhint %}
+### Exponential Time \(EXP\)
 
-### NP
+![We try to bring anything exponential into polynomial time as much as possible](../.gitbook/assets/image%20%28126%29.png)
 
+* EXP is the set of all problems you can solve in exponential time.
+* Exponential means $$2^{n^\text{some constant}}$$ 
+
+### Recursive \(R\)
+
+* Describes problems that are solvable in a finite time.
+* Most problems are not solvable.
+
+### Nondeterministic Polynomial \(NP\)
+
+![](../.gitbook/assets/image%20%28130%29.png)
+
+* _**NP**_ describes a set of decision problems:
+  * Solvable in polynomial time via a _lucky_ algorithm.
+  * _**Lucky**: Lucky algorithms make guesses. It just needs to try 1 problem because it's really lucky and always guesses the right choice._ 
 * _**NP decision**_ problems are solvable in _**nondeterministic**_ _**polynomial**_ time.
   * Polynomial:  $$n^{\text{some constant}}$$ 
   * _**Nondeterminstic:**_ in O\(1\) time, you can _guess_ among polynomial number of choices. If the computer guesses a yes answer, then we get such a guess.
   * _**Decision**_: The output is yes or no.
-  * Informally, nondeterminstic means it's the 'lucky' model.
 
-#### Problem X Is...
+#### Nondeterministic Model
+
+![](../.gitbook/assets/image%20%28125%29.png)
+
+* An algorithm that makes guesses and then says _yes_ or _no_.
+* You give it a list of choices, and somehow, a choice is made \(by magic, it just chooses\)
+* The guesses are guaranteed to lead to a _yes_ answer if possible.
+
+### NP Complete
+
+![](../.gitbook/assets/image%20%28131%29.png)
 
 * _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$ 
   * Problem X is NP-Complete if X is in NP and X is _NP-Hard_
   * _You are exactly as hard as NP. No harder and no easier._
+* Bonus: [Mario is computationally hard](https://arxiv.org/abs/1203.1895).
+
+### NP Hard
+
 * _**NP-Hard**_ if every problem $$Y\in \text{NP}$$ reduces to X.
   * If $$P \neq \text{NP} \implies x \notin P$$ 
     * Aka: Your problem is not polynomial solvable.
@@ -68,9 +100,15 @@ They're both problems. What's the difference?
 
 ![](../.gitbook/assets/image%20%28107%29.png)
 
-* _**Certificate**_: 
-* 
+### Exptime
+
+![](../.gitbook/assets/image%20%28132%29.png)
+
+* Exptime contains problems that are not solvable in P.
+
 ## 3 SAT \(Satisfiability\)
+
+![SAT is the king of NP. SAT is able to completely represent every other problem in NP. That makes SAT NP Complete.](../.gitbook/assets/image%20%28124%29.png)
 
 ### Problem
 
@@ -132,6 +170,8 @@ What is a certificate? What is a verifier? These don't make sense.
 
 #### Step 1: Show $$x \in \text{NP}$$ 
 
+![Showing that our problems are in SAT means our problem is in NP.](../.gitbook/assets/image%20%28123%29.png)
+
 * Recall: We can do this by using:
   * A nondeterministic algorithm
   * Certificate + verifier.
@@ -162,6 +202,8 @@ I don't understand reductions or these definitions very well.
 
 ## Super Mario Bros
 
+![Super Mario Bros is a 3SAT Problem \(see works cited\).](../.gitbook/assets/image%20%28122%29.png)
+
 ### Generalized Problem
 
 * We're going to reduce 3SAT to Super Mario Brothers, but we have an arbitrary screen size. My entire level will be in one big screen and forget about the side scrolling example.
@@ -171,10 +213,20 @@ I don't understand reductions or these definitions very well.
 
 ![](../.gitbook/assets/image%20%28121%29.png)
 
-
+{% hint style="info" %}
+See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk&list=PLlwsleWT767dnN25K_QgvdKkovK_t4K6-&index=8&t=36s).
+{% endhint %}
 
 ## Works Cited
 
-Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms._ Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Erik Demaine, and Srini Devadas. _6.006 Introduction to Algorithms._ Fall 2011. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms._ Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Chang, Cory. [_P vs. NP - An Introduction_](https://www.youtube.com/watch?v=OY41QYPI8cw)_._ Undefined Behavior.
+
+Chang, Cory. [_What Makes Mario NP-Hard? \(Polynomial Reductions\)_](https://www.youtube.com/watch?v=oS8m9fSk-Wk&list=PLlwsleWT767dnN25K_QgvdKkovK_t4K6-&index=8&t=36s)_._ Undefined Behavior.
+
+  
 
 
