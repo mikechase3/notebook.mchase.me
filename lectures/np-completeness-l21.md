@@ -2,13 +2,13 @@
 
 ## Complexity Theory
 
-![Different problems have different amounts of difficulty.](../.gitbook/assets/image%20%28129%29.png)
+![Different problems have different amounts of difficulty.](../.gitbook/assets/image%20%28132%29.png)
 
 * An entire field in one lecture.
 * We're going to show that Super Mario Bros is NP Complete.
 * This is all about reductions and converting one problem into another.
 
-![](../.gitbook/assets/image%20%28127%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 This expands out to cover NP:
 
@@ -21,7 +21,7 @@ This expands out to cover NP:
 
 ### Exponential Time \(EXP\)
 
-![We try to bring anything exponential into polynomial time as much as possible](../.gitbook/assets/image%20%28126%29.png)
+![We try to bring anything exponential into polynomial time as much as possible](../.gitbook/assets/image%20%28129%29.png)
 
 * EXP is the set of all problems you can solve in exponential time.
 * Exponential means $$2^{n^\text{some constant}}$$ 
@@ -33,7 +33,7 @@ This expands out to cover NP:
 
 ### Nondeterministic Polynomial \(NP\)
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 * _**NP**_ describes a set of decision problems:
   * Solvable in polynomial time via a _lucky_ algorithm.
@@ -43,9 +43,13 @@ This expands out to cover NP:
   * _**Nondeterminstic:**_ in O\(1\) time, you can _guess_ among polynomial number of choices. If the computer guesses a yes answer, then we get such a guess.
   * _**Decision**_: The output is yes or no.
 
+{% hint style="info" %}
+When the answer is YES, you can prove it and check that proof in polynomial time. Your proof is the sequence you choose.
+{% endhint %}
+
 #### Nondeterministic Model
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 * An algorithm that makes guesses and then says _yes_ or _no_.
 * You give it a list of choices, and somehow, a choice is made \(by magic, it just chooses\)
@@ -53,7 +57,7 @@ This expands out to cover NP:
 
 ### NP Complete
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28134%29.png)
 
 * _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$ 
   * Problem X is NP-Complete if X is in NP and X is _NP-Hard_
@@ -63,6 +67,7 @@ This expands out to cover NP:
 ### NP Hard
 
 * _**NP-Hard**_ if every problem $$Y\in \text{NP}$$ reduces to X.
+* In English, NP hard means that it's at least as hard as every problem in NP.
   * If $$P \neq \text{NP} \implies x \notin P$$ 
     * Aka: Your problem is not polynomial solvable.
   * \[Reduction from problem A to problem B\] = \[polynomial-time algorithm converting A inputs into equivalent _\(same yes/no answer\)_ B inputs\]
@@ -71,6 +76,7 @@ This expands out to cover NP:
     * If B has a polynomial time algorithm, than so does A because you can just convert A into B and then solve B.
     * This works for nondeterministic algorithms.
   * If I can solve B, then I can solve A, so B is at least as hard as A.
+* Tetris is _NP-hard_, meaning "as hard as" every problem in NP.
 
 ![](../.gitbook/assets/image%20%28106%29.png)
 
@@ -102,13 +108,34 @@ They're both problems. What's the difference?
 
 ### Exptime
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 * Exptime contains problems that are not solvable in P.
 
+### Summary of Complexities
+
+That are useful for me to know thus far:
+
+![](../.gitbook/assets/image%20%28135%29.png)
+
+## Reductions: $$A \implies B$$ 
+
+Convert your problem into a problem you already know how to solve instead of solving it from scratch.
+
+![](../.gitbook/assets/image%20%28127%29.png)
+
+### Dijkstra's Example 
+
+* Suppose your friend gives you a problem for unweighted Shortest paths.
+* How do you solve unweighted paths? Do BFS if you're smart.
+* But suppose someone gave you dijkstra's code and goes "how do you do it?" Just set all the weights to 1.
+  * Weighted -&gt; Unweighted. //Just set all the weights to 1.
+
+
+
 ## 3 SAT \(Satisfiability\)
 
-![SAT is the king of NP. SAT is able to completely represent every other problem in NP. That makes SAT NP Complete.](../.gitbook/assets/image%20%28124%29.png)
+![SAT is the king of NP. SAT is able to completely represent every other problem in NP. That makes SAT NP Complete.](../.gitbook/assets/image%20%28126%29.png)
 
 ### Problem
 
@@ -170,7 +197,7 @@ What is a certificate? What is a verifier? These don't make sense.
 
 #### Step 1: Show $$x \in \text{NP}$$ 
 
-![Showing that our problems are in SAT means our problem is in NP.](../.gitbook/assets/image%20%28123%29.png)
+![Showing that our problems are in SAT means our problem is in NP.](../.gitbook/assets/image%20%28125%29.png)
 
 * Recall: We can do this by using:
   * A nondeterministic algorithm
@@ -202,7 +229,7 @@ I don't understand reductions or these definitions very well.
 
 ## Super Mario Bros
 
-![Super Mario Bros is a 3SAT Problem \(see works cited\).](../.gitbook/assets/image%20%28122%29.png)
+![Super Mario Bros is a 3SAT Problem \(see works cited\).](../.gitbook/assets/image%20%28124%29.png)
 
 ### Generalized Problem
 
@@ -216,6 +243,12 @@ I don't understand reductions or these definitions very well.
 {% hint style="info" %}
 See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk&list=PLlwsleWT767dnN25K_QgvdKkovK_t4K6-&index=8&t=36s).
 {% endhint %}
+
+
+
+## Further Examples
+
+![](../.gitbook/assets/image%20%28122%29.png)
 
 ## Works Cited
 
