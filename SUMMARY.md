@@ -55,8 +55,9 @@
   * [Lecture 18: Minimum Spanning Tree: Kruskal's & Disjoint Sets](lectures/graph-algorithms/lecture-18-minimum-spanning-tree-kruskals-and-disjoint-sets.md)
   * [Maximum Flow \(L19\)](lectures/graph-algorithms/maximum-flow-l19.md)
 * [Linear Programming \(L20\)](lectures/linear-programming.md)
-* [NP Completeness](lectures/np-completeness.md)
-* [NP Completeness \(L21\)](lectures/np-completeness-l21.md)
+* [NP Completeness](lectures/np-completeness/README.md)
+  * [NP Completeness \(L21\)](lectures/np-completeness/np-completeness-l21.md)
+  * [NP Reductions and Applications \(L22\)](lectures/np-completeness/np-reductions-and-applications-l22.md)
 
 ## AWS Machine Learning
 
