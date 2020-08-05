@@ -67,15 +67,19 @@
   * [Deep Learning](aws-machine-learning/understanding-learning/deep-learning.md)
   * [Understanding Neural Networks](aws-machine-learning/understanding-learning/understanding-neural-networks.md)
 
-## Unity
+## Game Development <a id="unity"></a>
 
-* [Player Control](unity/unwritten.md)
-* [Basic Gameplay](unity/basic-gameplay.md)
-* [Sound and Effects](unity/sound-and-effects.md)
-* [Gameplay Mechanics](unity/gameplay-mechanics.md)
-* [User Interface](unity/user-interface.md)
-* [Next Steps](unity/next-steps.md)
-* [Roll A Ball Project](unity/roll-a-ball-project.md)
+* [Unreal Engine](unity/unreal-engine/README.md)
+  * [Editor basics](unity/unreal-engine/editor-basics.md)
+  * [Settings](unity/unreal-engine/settings.md)
+  * [Projects and File Structure](unity/unreal-engine/projects-and-file-structure.md)
+* [Unity](unity/unity/README.md)
+  * [Player Control](unity/unity/unwritten.md)
+  * [Basic Gameplay](unity/unity/basic-gameplay.md)
+  * [Sound and Effects](unity/unity/sound-and-effects.md)
+  * [Gameplay Mechanics](unity/unity/gameplay-mechanics.md)
+  * [User Interface](unity/unity/user-interface.md)
+  * [Roll A Ball Project](unity/unity/roll-a-ball-project.md)
 
 ## Misc
 
