@@ -96,4 +96,6 @@
 ## Career
 
 * [Salary Negotiation](career/salary-negotiation.md)
+* [How To Quit](career/how-to-quit.md)
+* [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
 
