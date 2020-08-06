@@ -87,6 +87,7 @@
 * [Git](misc/git.md)
 * [Penetration Testing](misc/penetration-testing.md)
 * [HTML CSS](misc/html-css.md)
+* [Discord Python Bot](misc/discord-python-bot.md)
 
 ## Psychology
 
