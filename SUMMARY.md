@@ -73,6 +73,7 @@
   * [Editor basics](unity/unreal-engine/editor-basics.md)
   * [Settings](unity/unreal-engine/settings.md)
   * [Projects and File Structure](unity/unreal-engine/projects-and-file-structure.md)
+  * [Source Control](unity/unreal-engine/source-control.md)
 * [Unity](unity/unity/README.md)
   * [Player Control](unity/unity/unwritten.md)
   * [Basic Gameplay](unity/unity/basic-gameplay.md)
