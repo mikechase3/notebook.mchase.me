@@ -1,4 +1,8 @@
-# Understanding Learning
+---
+description: Coursera's AWS Machine Learning Course. Taught by experts at Amazon.
+---
+
+# AWS Machine Learning
 
 ## Goals
 
