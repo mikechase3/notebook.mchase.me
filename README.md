@@ -1,41 +1,24 @@
 ---
 description: >-
-  This is a collection of Mike Chase's notes from like 70% of his computer
-  science classes after he realized there's no way he'll remember everything he
-  learned.
+  This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450
+  Course.
 ---
 
 # Mike Chase's Notebook
 
-This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS 450 class. She normally does not teach this class, but during the summer, she is teaching it remotely.
+## Situation
 
-## Purpose
+Throughout his life, Mike Chase has been obsessed with record keeping. First, he kept a giant notebook leaving blank pages like empty arrays until there were no more. Then, it became a massive OneNote notebook which he ran out of space. Notability worked as a temporary solution, but used this in conjunction with files and folders.
 
-1. Specifically help other UD students remember what we learned in this class.
-2. Present future students with a glimpse at what they'll be learning in this class.
-3. Remember what I learned in this class.
-4. Find and provide resources for others taking this, specific class.
-5. Make Mike Chase's future interviewing life easier.
-6. I don't know please work Gitfox.
+## Problem
 
-## The Holy Grail of Resources
+Finally, I grew too impatient to keep up with every source of information. Coming up with computerized solutions to short-term projects and long-term projects has certainly not been my forte. That has not dissuaded me, however. After all, mastering note-taking, something I seem uniquely suited for, requires nothing short of a powerful mind.
 
-| Resource | Content |
-| :--- | :--- |
-| Programiz | [Asymptotic Analysis](https://www.programiz.com/dsa/asymptotic-notations#:~:text=Theta%20Notation%20%28%CE%98%2Dnotation%29,case%20complexity%20of%20an%20algorithm), Language-Specific |
-| Tutorials Point | Good reading for popular algorithms. [Greedy](https://www.tutorialspoint.com/introduction-to-greedy-algorithms#:~:text=In%20greedy%20algorithm%20approach%2C%20decisions,lead%20to%20globally%20optimized%20solutions), [Min Spanning Tree](https://www.tutorialspoint.com/Kruskal-s-Minimum-Spanning-Tree-Algorithm), etc. |
+## Solution
 
-1. Back to Back SE \(Paid, $100/year.\)
-2. Coursera _Algorithms_ from Princeton and this corresponding [textbook](https://algs4.cs.princeton.edu/home/)
+So, it's with great optimism that I once again present to you, the next generation of note-taking. I give you, a database filled with latex equations, handwritten notes attached as images, code samples, and plenty more.
 
-## 
+## Evaluation
 
-## Works Cited
-
-Where I've used it is shown at the bottom of each page, if I used it.
-
-1. Introduction to Algorithms, MIT Press, [textbook](https://mitpress.mit.edu/books/introduction-algorithms-third-edition). \(Links: [Fair use](https://mitpress.mit.edu/sites/default/files/uploads/GuidelinesforFair%20UseMITPressMaterial-2017Revision%202.pdf). Permission [request](https://mitpress.mit.edu/sites/default/files/quicklinks/2019-03/MIT-Press-Books-Fillable-Permission-Request-Form-030119.pdf)\).
-2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(I've used homework problems and code; never images or full slides\)._
-3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code)
-4. Base CS [Blog ](https://medium.com/basecs)series for computer science courses.
+So far, it's received lavish praise. Please send me your feedback.
 
