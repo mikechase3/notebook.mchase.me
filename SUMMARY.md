@@ -57,14 +57,11 @@
   * [NP Completeness](computer-science/data-structures-and-algorithms/np-completeness/README.md)
     * [NP Completeness \(L21\)](computer-science/data-structures-and-algorithms/np-completeness/np-completeness-l21.md)
     * [NP Reductions and Applications \(L22\)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
-
-## AWS Machine Learning
-
-* [AWS Machine Learning](aws-machine-learning/understanding-learning/README.md)
-  * [Artificial Intelligence](aws-machine-learning/understanding-learning/artificial-intelligence.md)
-  * [Machine Learning](aws-machine-learning/understanding-learning/machine-learning.md)
-  * [Deep Learning](aws-machine-learning/understanding-learning/deep-learning.md)
-  * [Understanding Neural Networks](aws-machine-learning/understanding-learning/understanding-neural-networks.md)
+* [AWS Machine Learning](computer-science/understanding-learning/README.md)
+  * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
+  * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
+  * [Deep Learning](computer-science/understanding-learning/deep-learning.md)
+  * [Understanding Neural Networks](computer-science/understanding-learning/understanding-neural-networks.md)
 
 ## Game Development <a id="unity"></a>
 
