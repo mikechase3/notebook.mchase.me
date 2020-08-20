@@ -62,29 +62,23 @@
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
   * [Deep Learning](computer-science/understanding-learning/deep-learning.md)
   * [Understanding Neural Networks](computer-science/understanding-learning/understanding-neural-networks.md)
-
-## Game Development <a id="unity"></a>
-
-* [Unreal Engine](unity/unreal-engine/README.md)
-  * [Editor basics](unity/unreal-engine/editor-basics.md)
-  * [Settings](unity/unreal-engine/settings.md)
-  * [Projects and File Structure](unity/unreal-engine/projects-and-file-structure.md)
-  * [Source Control](unity/unreal-engine/source-control.md)
-* [Unity](unity/unity/README.md)
-  * [Player Control](unity/unity/unwritten.md)
-  * [Basic Gameplay](unity/unity/basic-gameplay.md)
-  * [Sound and Effects](unity/unity/sound-and-effects.md)
-  * [Gameplay Mechanics](unity/unity/gameplay-mechanics.md)
-  * [User Interface](unity/unity/user-interface.md)
-  * [Roll A Ball Project](unity/unity/roll-a-ball-project.md)
-
-## Misc
-
-* [Bash](misc/bash.md)
-* [Git](misc/git.md)
-* [Penetration Testing](misc/penetration-testing.md)
-* [HTML CSS](misc/html-css.md)
-* [Untitled](misc/untitled.md)
+* [Unreal Engine](computer-science/unreal-engine/README.md)
+  * [Editor basics](computer-science/unreal-engine/editor-basics.md)
+  * [Settings](computer-science/unreal-engine/settings.md)
+  * [Projects and File Structure](computer-science/unreal-engine/projects-and-file-structure.md)
+  * [Source Control](computer-science/unreal-engine/source-control.md)
+* [Unity](computer-science/unity-1/README.md)
+  * [Player Control](computer-science/unity-1/unwritten.md)
+  * [Basic Gameplay](computer-science/unity-1/basic-gameplay.md)
+  * [Sound and Effects](computer-science/unity-1/sound-and-effects.md)
+  * [Gameplay Mechanics](computer-science/unity-1/gameplay-mechanics.md)
+  * [User Interface](computer-science/unity-1/user-interface.md)
+  * [Roll A Ball Project](computer-science/unity-1/roll-a-ball-project.md)
+* [Miscellaneous](computer-science/miscellaneous/README.md)
+  * [HTML CSS](computer-science/miscellaneous/html-css.md)
+  * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
+  * [Git](computer-science/miscellaneous/git.md)
+  * [Bash](computer-science/miscellaneous/bash.md)
 
 ## Psychology
 
