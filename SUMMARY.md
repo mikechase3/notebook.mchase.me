@@ -97,5 +97,6 @@
 
 ## Math
 
-* [Calculus 3](math/calculus-3.md)
+* [Calculus 3](math/calculus-3/README.md)
+  * [Untitled](math/calculus-3/untitled.md)
 
