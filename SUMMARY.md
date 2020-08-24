@@ -102,3 +102,7 @@
 * [Calculus 3](math/calculus-3/README.md)
   * [Untitled](math/calculus-3/untitled.md)
 
+## Communication
+
+* [Propaganda](communication/propaganda.md)
+
