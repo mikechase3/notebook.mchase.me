@@ -104,5 +104,6 @@
 
 ## Communication
 
-* [Propaganda](communication/propaganda.md)
+* [Propaganda](communication/propaganda/README.md)
+  * [Syllabus Day](communication/propaganda/syllabus-day.md)
 
