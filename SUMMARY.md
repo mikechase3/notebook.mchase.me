@@ -95,3 +95,7 @@
 * [How To Quit](career/how-to-quit.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
 
+## Math
+
+* [Calculus 3](math/calculus-3.md)
+
