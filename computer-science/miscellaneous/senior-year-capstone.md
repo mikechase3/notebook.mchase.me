@@ -31,3 +31,9 @@
 * Suggested projects from Dr. Phung and other faculty.
 * My own project idea?
 
+## System Development Lifecycle
+
+This explains to you how to describe how you work through projects.
+
+![](../../.gitbook/assets/image%20%28140%29.png)
+
