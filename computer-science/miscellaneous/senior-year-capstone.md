@@ -7,7 +7,7 @@
 
 ## Career Skills & Proficiencies
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+![](../../.gitbook/assets/image%20%28141%29.png)
 
 ## Course Goals
 
@@ -34,6 +34,16 @@
 ## System Development Lifecycle
 
 This explains to you how to describe how you work through projects.
+
+![](../../.gitbook/assets/image%20%28142%29.png)
+
+## Iterative and Agile Systems Development Lifecycle \(SDLC\)
+
+![](../../.gitbook/assets/image%20%28143%29.png)
+
+## SCRUM
+
+
 
 ![](../../.gitbook/assets/image%20%28140%29.png)
 
