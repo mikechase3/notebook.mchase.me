@@ -103,7 +103,7 @@
 ## Math
 
 * [Calculus 3](math/calculus-3/README.md)
-  * [Untitled](math/calculus-3/untitled.md)
+  * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled.md)
 
 ## Communication
 
