@@ -94,7 +94,8 @@
 
 ## Career
 
-* [Computer Science Capstone](career/computer-science-capstone.md)
+* [Computer Science Capstone](career/computer-science-capstone/README.md)
+  * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 * [How To Quit](career/how-to-quit.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
