@@ -36,6 +36,10 @@
 2. Demonstrate at an increased level their ability to work in a team setting.
 3. Demonstrate the diverse skills and problem-solving abilities acquired during the students' undergraduate education
 4. Impact society by designing state-of-the-art software packages.
+
+{% hint style="info" %}
+Left off on slide 12.
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
