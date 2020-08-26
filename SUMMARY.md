@@ -59,6 +59,7 @@
     * [NP Reductions and Applications \(L22\)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
+  * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
 * [AWS Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)

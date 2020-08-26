@@ -45,7 +45,17 @@ This explains to you how to describe how you work through projects.
 
 ## SCRUM
 
+Scrum focuses on how you work on a team together. 
 
+
+
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 ![](../../.gitbook/assets/image%20%28140%29.png)
+
+### Project Overview
+
+![](../../.gitbook/assets/image%20%28157%29.png)
+
+## 
 
