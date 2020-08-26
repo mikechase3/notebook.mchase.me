@@ -19,7 +19,7 @@ Common functions of interruptions:
 
 ## Computer System Structure
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 ## Components of a Computer System
 
@@ -27,13 +27,13 @@ Common functions of interruptions:
 
 ## What do Operating Systems Do?
 
-![](../../.gitbook/assets/image%20%28159%29.png)
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 ## Operating System Definition
 
 ![](../../.gitbook/assets/image%20%28148%29.png)
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 ## Computer Startup
 
@@ -45,13 +45,13 @@ Common functions of interruptions:
 
 ## Computer System Operation
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
 
 ## Common Functions of Interrupts
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
-![](../../.gitbook/assets/image%20%28156%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
 
 

@@ -95,6 +95,8 @@
 
 ## Career
 
+* [Graduate School](career/graduate-school/README.md)
+  * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
 * [Computer Science Capstone](career/computer-science-capstone/README.md)
   * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
 * [Salary Negotiation](career/salary-negotiation.md)

@@ -49,13 +49,13 @@ Scrum focuses on how you work on a team together.
 
 
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
 
 ![](../../.gitbook/assets/image%20%28140%29.png)
 
 ### Project Overview
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 ## 
 
