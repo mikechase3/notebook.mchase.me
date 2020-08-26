@@ -94,6 +94,7 @@
 
 ## Career
 
+* [Computer Science Capstone](career/computer-science-capstone.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 * [How To Quit](career/how-to-quit.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
