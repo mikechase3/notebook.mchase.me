@@ -1,5 +1,9 @@
 # Git
 
+## Introduction
+
+* Git is a version control system
+* 
 ## Common Commands
 
 * `git init` creates a new Git repository

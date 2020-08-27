@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Notebook](README.md)
+* [List of Resources](list-of-resources.md)
 
 ## Computer Science
 
@@ -60,6 +61,8 @@
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
+* [Networking](computer-science/networking/README.md)
+  * [Syllabus](computer-science/networking/syllabus.md)
 * [AWS Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
