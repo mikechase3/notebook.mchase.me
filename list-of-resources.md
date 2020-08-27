@@ -6,10 +6,11 @@
 
 | Resource | Price | Rating | Caption |
 | :--- | :--- | :--- | :--- |
-| Github |  |  |  |
-| Bitbucket |  |  |  |
-| Gitlab | Free | ? | Locally hosted source control. |
+| Github | Free-ish |  |  |
+| Bitbucket | Free-ish |  |  |
+| Gitlab | Free-ish | ? | Locally hosted source control. |
 | Gitfox | $30/yr | ? | MacOS nice client. Also supports |
+| [Git SCM](https://git-scm.com/) | Free |  | Local branch9ing.  |
 
 * Git: [https://git-scm.com/](https://git-scm.com/)
 
