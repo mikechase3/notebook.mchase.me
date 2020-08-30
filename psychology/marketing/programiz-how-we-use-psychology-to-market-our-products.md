@@ -46,7 +46,7 @@ Be sure to read the full article [here](https://www.programiz.com/blog/use-psych
             <p>&quot;Starting out coding? Programiz makes every concept easier to understand.&quot;</p>
             <p></p>
             <p>
-              <img src="../.gitbook/assets/image (51).png" alt/>
+              <img src="../../.gitbook/assets/image (51).png" alt/>
             </p>
           </li>
         </ol>
@@ -67,7 +67,7 @@ Be sure to read the full article [here](https://www.programiz.com/blog/use-psych
               here.</p>
             <p></p>
             <p>
-              <img src="../.gitbook/assets/image (55).png" alt/>
+              <img src="../../.gitbook/assets/image (55).png" alt/>
             </p>
           </li>
         </ol>
@@ -87,7 +87,7 @@ Be sure to read the full article [here](https://www.programiz.com/blog/use-psych
         </ol>
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (54).png" alt/>
+          <img src="../../.gitbook/assets/image (54).png" alt/>
         </p>
       </td>
     </tr>
@@ -98,13 +98,13 @@ Be sure to read the full article [here](https://www.programiz.com/blog/use-psych
 
 We change our behavior to be more like others. 
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 ## Cognitive Dissonance
 
 Try to reach a state of consonance \(mental comfort\) when we face a situation of discomfort.
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 \*\*\*\*
 

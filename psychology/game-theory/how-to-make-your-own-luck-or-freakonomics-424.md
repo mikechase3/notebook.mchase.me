@@ -4,7 +4,7 @@ description: >-
   everything, you can control how you play in poker, and in life.
 ---
 
-# How to Make Your Own Luck \| Freakonomics 424
+# Deciding on Uncertainty, Locus of Control, Victors, Victims
 
 ## Synopsis
 

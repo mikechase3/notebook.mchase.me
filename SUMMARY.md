@@ -89,14 +89,16 @@
   * [Git](computer-science/miscellaneous/git.md)
   * [Bash](computer-science/miscellaneous/bash.md)
 
-## Psychology
+## Business <a id="psychology"></a>
 
-* [Programiz: How We Use Psychology to Market Our Products](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
+* [Colors and Marketing](psychology/colors-and-marketing.md)
+* [Marketing](psychology/marketing/README.md)
+  * [Programiz: How We Use Psychology to Market Our Products](psychology/marketing/programiz-how-we-use-psychology-to-market-our-products.md)
 * [Placebo](psychology/placebo.md)
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
 * [Game Theory](psychology/game-theory/README.md)
-  * [How to Make Your Own Luck \| Freakonomics 424](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
+  * [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
 
 ## Career
 
