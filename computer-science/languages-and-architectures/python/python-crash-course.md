@@ -51,6 +51,10 @@ print(msg_from_computer + " World..!")
 print(type(msg_from_computer)) # <type 'str'>. We will see the explanation of this later.
 ```
 
+_**Getting User Input**_
+
+Get user input using the `input()` function.
+
 #### Numbers
 
 ```text

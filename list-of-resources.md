@@ -20,3 +20,12 @@
 | :--- | :--- | :--- | :--- |
 | TinkerCad | 0 | 3 | Online CAD Development for 3D Models. |
 
+### Languages
+
+#### Python
+
+| Resource | Description | Caption |
+| :--- | :--- | :--- |
+| Jetbrains Academy | Great all-in-one learn via a project. | Not free |
+| Programiz | All-in-one reference sheet. |  |
+
