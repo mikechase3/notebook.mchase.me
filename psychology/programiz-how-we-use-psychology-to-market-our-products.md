@@ -1,0 +1,120 @@
+# Marketing: Framing, Conformity, Cognitive Dissonance
+
+## Mike Chase's Takeaway
+
+I found a really interesting article about one company's marketing strategy to promote their programming product. There are 3 primary strategies to try and they are things I should incorporate into the content that I create.
+
+Be sure to read the full article [here](https://www.programiz.com/blog/use-psychology-to-market-products/); below is a quick reference for me to go back to!
+
+## The Framing Effect
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Term/Strategy</th>
+      <th style="text-align:left">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Data-Driven Process for Campaign Development.</td>
+      <td style="text-align:left">Brainstorm -&gt; Prototype -&gt; Vote -&gt; AB Testing</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">CTR</td>
+      <td style="text-align:left">Click through rate. How often people stopped scrolling to click the link
+        on ads.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">CPC</td>
+      <td style="text-align:left">Cost per click rate.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">The Framing Effect</td>
+      <td style="text-align:left">&quot;People make decisions based on whether a situation is a gain or
+        loss scenario for them&quot;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Positive Framing</td>
+      <td style="text-align:left">
+        <p>Set a scenario where the recipient can potentially gain from the situation.</p>
+        <p></p>
+        <ol>
+          <li>&quot;Be a python Guru with Programiz.&quot;</li>
+          <li>&quot;Start a brilliant python career.&quot;</li>
+          <li>
+            <p>&quot;Starting out coding? Programiz makes every concept easier to understand.&quot;</p>
+            <p></p>
+            <p>
+              <img src="../.gitbook/assets/image (51).png" alt/>
+            </p>
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Negative Framing</td>
+      <td style="text-align:left">
+        <p>We set a scenario to be a loss situation for the recipient if they fail
+          to comply with the message:
+          <br />
+        </p>
+        <ol>
+          <li>Tired of boring coding lessons? Learn Python: Programiz makes learning
+            fun.</li>
+          <li>
+            <p>Tired of trying out different Python apps? The definitive Python app is
+              here.</p>
+            <p></p>
+            <p>
+              <img src="../.gitbook/assets/image (55).png" alt/>
+            </p>
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Statistical Framing</td>
+      <td style="text-align:left">
+        <p>Use statistics to set a scenario to be a gain situation. Simply put, use
+          statistics on top of positive framing.</p>
+        <p></p>
+        <ol>
+          <li>Over 2 million students rely on Programiz to start their careers.</li>
+          <li>Facebook Python Developer earns 190,000</li>
+          <li>Google Python Developer earns 150,000.</li>
+          <li>An average Python Dveloper earns 110,000</li>
+        </ol>
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/image (54).png" alt/>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Conformity
+
+We change our behavior to be more like others. 
+
+![](../.gitbook/assets/image%20%2863%29.png)
+
+## Cognitive Dissonance
+
+Try to reach a state of consonance \(mental comfort\) when we face a situation of discomfort.
+
+![](../.gitbook/assets/image%20%2860%29.png)
+
+\*\*\*\*
+
+**Works Cited**: [How We Use Psychology to Market Our Products](https://www.programiz.com/blog/use-psychology-to-market-products/)
+
+
+
+> For Mike Chase only:
+>
+> -----BEGIN PGP MESSAGE----- Version: BCPG v1.63
+>
+> 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 jIvf =GGxt -----END PGP MESSAGE-----
+

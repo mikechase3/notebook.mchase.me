@@ -92,8 +92,7 @@
 ## Business <a id="psychology"></a>
 
 * [Colors and Marketing](psychology/colors-and-marketing.md)
-* [Marketing](psychology/marketing/README.md)
-  * [Programiz: How We Use Psychology to Market Our Products](psychology/marketing/programiz-how-we-use-psychology-to-market-our-products.md)
+* [Marketing: Framing, Conformity, Cognitive Dissonance](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
 * [Placebo](psychology/placebo.md)
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
