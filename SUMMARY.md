@@ -62,7 +62,7 @@
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
-  * [Untitled](computer-science/operating-systems/untitled.md)
+  * [Processes](computer-science/operating-systems/untitled.md)
 * [Networking](computer-science/networking/README.md)
   * [Syllabus](computer-science/networking/syllabus.md)
 * [AWS Machine Learning](computer-science/understanding-learning/README.md)
