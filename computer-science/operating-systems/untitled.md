@@ -2,7 +2,7 @@
 
 ## Processes in Memory
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 * An operating system executes a variety of programs
   * Batch systems: **jobs**.
@@ -20,7 +20,7 @@
 
 ## Process States
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28184%29.png)
 
 | Process | Comment |
 | :--- | :--- |

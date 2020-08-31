@@ -1,6 +1,8 @@
+---
+description: 'Purpose: Build better 3D Textures'
+---
+
 # Textures
-
-
 
 ## Textures
 
