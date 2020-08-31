@@ -34,7 +34,10 @@
 
 ![](../../.gitbook/assets/image%20%28173%29.png)
 
+### Process Scheduling
 
+* Process Scheduling
+* Job Queues
 
 
 
