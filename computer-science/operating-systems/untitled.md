@@ -16,7 +16,7 @@
   * Stack: contains temporary data.
     * Function parameters, return addresses, local variables.
     * In operating systems, it specifies a region in the hardware.
-  * Data Ssection: contains global regions?
+  * Data Section: contains global regions?
 
 ## Process States
 
