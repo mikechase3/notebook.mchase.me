@@ -106,6 +106,7 @@
 
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
+  * [Personal Statements](career/graduate-school/personal-statements.md)
 * [Computer Science Capstone](career/computer-science-capstone/README.md)
   * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
 * [Salary Negotiation](career/salary-negotiation.md)
@@ -119,6 +120,10 @@
 
 ## Communication
 
+* [The Introduction](communication/the-introduction.md)
+* [The Conclusion](communication/the-conclusion.md)
+* [The Argumentative Essay](communication/the-argumentative-essay.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
+  * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
 
