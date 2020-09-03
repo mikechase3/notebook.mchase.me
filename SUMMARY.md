@@ -109,6 +109,7 @@
   * [Personal Statements](career/graduate-school/personal-statements.md)
 * [Computer Science Capstone](career/computer-science-capstone/README.md)
   * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
+  * [Lecture 02: Git & Trello](career/computer-science-capstone/lecture-02-git-and-trello.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 * [How To Quit](career/how-to-quit.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
