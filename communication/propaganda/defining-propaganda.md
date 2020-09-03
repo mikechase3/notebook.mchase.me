@@ -27,16 +27,11 @@ The idea here is tot hink what propaganda isn't.
 
 * Deliberate
 * Systematic
-
-Attempt
-
-Shaping Perceptions
-
-Manipulating Cognitions
-
-Directing Specific Behavior
-
-Achieving a Response
+* Attempt
+* Shaping Perceptions
+* Manipulating Cognition
+* Directing Specific Behavior
+* Achieving a Response
 
 ## Characteristics
 
