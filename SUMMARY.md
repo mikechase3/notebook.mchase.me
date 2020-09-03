@@ -78,6 +78,7 @@
     * [Textures](computer-science/unreal-engine/source-control/textures.md)
     * [Static Meshes](computer-science/unreal-engine/source-control/static-meshes.md)
     * [Exporting and Importing](computer-science/unreal-engine/source-control/exporting-and-importing.md)
+    * [Materials](computer-science/unreal-engine/source-control/materials.md)
 * [Unity](computer-science/unity-1/README.md)
   * [Player Control](computer-science/unity-1/unwritten.md)
   * [Basic Gameplay](computer-science/unity-1/basic-gameplay.md)
