@@ -92,6 +92,7 @@
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
   * [Bash](computer-science/miscellaneous/bash.md)
+  * [Secrets](computer-science/miscellaneous/secrets.md)
 
 ## Business <a id="psychology"></a>
 
