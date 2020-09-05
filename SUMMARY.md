@@ -91,6 +91,7 @@
   * [User Interface](computer-science/unity-1/user-interface.md)
   * [Roll A Ball Project](computer-science/unity-1/roll-a-ball-project.md)
 * [Miscellaneous](computer-science/miscellaneous/README.md)
+  * [Regex Expressions](computer-science/miscellaneous/regex-expressions.md)
   * [Senior Year Capstone](computer-science/miscellaneous/senior-year-capstone.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
