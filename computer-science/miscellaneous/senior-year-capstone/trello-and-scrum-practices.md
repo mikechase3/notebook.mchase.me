@@ -2,7 +2,7 @@
 
 ## SCRUM Purpose
 
-* SCRUM helps you develop in a tesm.
+* SCRUM helps you develop in a team.
 * **Project Backlog**: a prioritized list of user requirements for your project. What are the requirements?
 * **Product Owner:** The owner is the person controlling the backlog
 * **Scrum Master**: The project manager. 
