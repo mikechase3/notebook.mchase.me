@@ -2,7 +2,7 @@
 description: 'Purpose: Walk through settings & best practices for working with teams.'
 ---
 
-# Building Better Pipelines
+# Source Control
 
 * Follow [naming conventions](https://www.tomlooman.com/ue4-naming-convention/).
 
