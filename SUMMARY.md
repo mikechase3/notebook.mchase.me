@@ -68,7 +68,7 @@
   * [Processes](computer-science/operating-systems/untitled.md)
   * [Something New](computer-science/operating-systems/something-new.md)
 * [Networking](computer-science/networking/README.md)
-  * [Syllabus](computer-science/networking/syllabus.md)
+  * [Socket Programming In Python](computer-science/networking/syllabus.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
