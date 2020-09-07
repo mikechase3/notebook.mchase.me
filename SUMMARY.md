@@ -100,6 +100,7 @@
     * [Software Development Life Cycle](computer-science/miscellaneous/senior-year-capstone/software-development-life-cycle.md)
     * [Git & Cloud Shell](computer-science/miscellaneous/senior-year-capstone/git-and-cloud-shell.md)
     * [Trello & SCRUM Practices](computer-science/miscellaneous/senior-year-capstone/trello-and-scrum-practices.md)
+    * [Presentation](computer-science/miscellaneous/senior-year-capstone/presentation.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
