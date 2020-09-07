@@ -86,6 +86,7 @@
     * [Textures](computer-science/unreal-engine/projects-and-file-structure/textures.md)
   * [Blueprints](computer-science/unreal-engine/blueprints/README.md)
     * [Creating Blueprints & Editor UI](computer-science/unreal-engine/blueprints/creating-blueprints-and-editor-ui.md)
+    * [Blueprint Components](computer-science/unreal-engine/blueprints/blueprint-components.md)
 * [Unity](computer-science/unity-1/README.md)
   * [Player Control](computer-science/unity-1/unwritten.md)
   * [Basic Gameplay](computer-science/unity-1/basic-gameplay.md)
