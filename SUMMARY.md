@@ -142,4 +142,9 @@
 * [Propaganda](communication/propaganda/README.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
   * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
+  * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
+
+## Personal Essays
+
+* [The Most Boring Article about Libertarian Advertising You'll Ever Read](personal-essays/the-most-boring-article-about-libertarian-advertising-youll-ever-read.md)
 
