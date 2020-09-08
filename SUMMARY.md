@@ -71,6 +71,8 @@
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
 * [Networking](computer-science/networking/README.md)
   * [Socket Programming In Python](computer-science/networking/syllabus.md)
+  * [Lecture 02: Learn Python](computer-science/networking/lecture-02-learn-python.md)
+  * [Lecture 03](computer-science/networking/lecture-03.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
