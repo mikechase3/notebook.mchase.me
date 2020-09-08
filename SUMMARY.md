@@ -105,6 +105,7 @@
     * [Git & Cloud Shell](computer-science/miscellaneous/senior-year-capstone/git-and-cloud-shell.md)
     * [Trello & SCRUM Practices](computer-science/miscellaneous/senior-year-capstone/trello-and-scrum-practices.md)
     * [Presentation](computer-science/miscellaneous/senior-year-capstone/presentation.md)
+    * [Design to Implementation: Introduction to Node JS](computer-science/miscellaneous/senior-year-capstone/design-to-implementation-introduction-to-node-js.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
@@ -151,4 +152,5 @@
 ## Personal Essays
 
 * [The Most Boring Article about Libertarian Advertising You'll Ever Read](personal-essays/the-most-boring-article-about-libertarian-advertising-youll-ever-read.md)
+* [Microwaves: The Weapon of Mass Destruction](personal-essays/microwaves-the-weapon-of-mass-destruction.md)
 
