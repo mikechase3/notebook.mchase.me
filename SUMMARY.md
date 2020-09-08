@@ -67,6 +67,8 @@
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
   * [Processes](computer-science/operating-systems/untitled.md)
   * [Something New](computer-science/operating-systems/something-new.md)
+* [Linux](computer-science/linux/README.md)
+  * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
 * [Networking](computer-science/networking/README.md)
   * [Socket Programming In Python](computer-science/networking/syllabus.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
