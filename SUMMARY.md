@@ -111,6 +111,7 @@
   * [Git](computer-science/miscellaneous/git.md)
   * [Bash](computer-science/miscellaneous/bash.md)
   * [Secrets](computer-science/miscellaneous/secrets.md)
+  * [Staff](computer-science/miscellaneous/staff.md)
 
 ## Business <a id="psychology"></a>
 
