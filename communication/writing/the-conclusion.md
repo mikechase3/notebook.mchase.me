@@ -122,3 +122,9 @@ No one doubts that computers in the classroom are here to stay. They open doors 
 
 ·       Develop a connection to the introductory strategy.
 
+
+
+{% page-ref page="the-conclusion.md" %}
+
+
+
