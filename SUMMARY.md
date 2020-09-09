@@ -141,9 +141,11 @@
 
 ## Communication
 
-* [The Introduction](communication/the-introduction.md)
-* [The Conclusion](communication/the-conclusion.md)
-* [The Argumentative Essay](communication/the-argumentative-essay.md)
+* [Economics](communication/economics.md)
+* [Writing](communication/writing/README.md)
+  * [The Introduction](communication/writing/the-introduction.md)
+  * [The Conclusion](communication/writing/the-conclusion.md)
+  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
   * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
