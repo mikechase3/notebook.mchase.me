@@ -8,9 +8,14 @@
 * Likes to dance.
 * She was blessed by the pope when she went to Rome.
 * Advising all CompSci, Computer Info Systems, Adding/droping.
-* 
-## Mike Chase
 
-* Senior undergrad.
-* Employed at Wright-Patt Air Force baes.
+### Office Hours
+
+![](../../.gitbook/assets/screen-shot-2020-09-09-at-5.08.15-pm.png)
+
+## Phu Phung
+
+* Hacker, but not an attacker. 
+
+
 
