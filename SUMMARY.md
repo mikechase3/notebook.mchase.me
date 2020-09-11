@@ -142,6 +142,7 @@
 
 ## Communication
 
+* [Ideation](communication/ideation.md)
 * [Economics](communication/economics.md)
 * [Writing](communication/writing/README.md)
   * [The Introduction](communication/writing/the-introduction.md)
