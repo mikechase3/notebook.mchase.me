@@ -134,6 +134,8 @@
 * [Salary Negotiation](career/salary-negotiation.md)
 * [How To Quit](career/how-to-quit.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
+* [Better Meeting Tools](career/better-meeting-tools.md)
+* [Goal Setting](career/goal-setting.md)
 
 ## Math
 
@@ -142,7 +144,8 @@
 
 ## Communication
 
-* [Ideation](communication/ideation.md)
+* [Ideation](communication/ideation/README.md)
+  * [Act 3](communication/ideation/act-3.md)
 * [Economics](communication/economics.md)
 * [Writing](communication/writing/README.md)
   * [The Introduction](communication/writing/the-introduction.md)
