@@ -74,6 +74,7 @@
   * [Lecture 01 Syllabus](computer-science/networking/lecture-01-syllabus.md)
   * [Lecture 02: Learn Python](computer-science/networking/lecture-02-learn-python.md)
   * [Lecture 03: GET and HEAD](computer-science/networking/lecture-03.md)
+  * [Lecture 04](computer-science/networking/lecture-04.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
