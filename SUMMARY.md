@@ -157,6 +157,7 @@
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
   * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
   * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
+  * [Techniques of Propaganda](communication/propaganda/techniques-of-propaganda.md)
 
 ## Personal Essays
 
