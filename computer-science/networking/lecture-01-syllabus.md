@@ -35,6 +35,9 @@
 * Check if the IP Address is unique. _**Make sure it's unique!**_
 * Connect on robots. 
 * Load the web page from the URL.
+
+
+
 * Parse the next URL.
   * Check the host name
   * Check the IP
@@ -48,6 +51,7 @@
   * After we send this _GET_ request, you'll get a reply.
 * `RECV` function call receives data and stores it into a string.
   * You can parse the string and do some nice data analysis.
+  * 
 
 ### Part 3: Multithreading
 
