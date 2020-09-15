@@ -91,5 +91,9 @@
   * These aren't my numbers, you can trust me.
 * By claiming this trustworthy, reliable source, I'm deflecting the attacks on me as a propagandist. 
 
+## Self-Generated Persuasion
+
+## Sympathetic Anthropomorphism
+
 
 
