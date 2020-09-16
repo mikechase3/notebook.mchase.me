@@ -82,6 +82,7 @@
   * [Understanding Neural Networks](computer-science/understanding-learning/understanding-neural-networks.md)
   * [Text Generation: Textgenrnn](computer-science/understanding-learning/text-generation-textgenrnn.md)
 * [Unreal Engine](computer-science/unreal-engine/README.md)
+  * [Victory Plug In](computer-science/unreal-engine/victory-plug-in.md)
   * [Editor basics](computer-science/unreal-engine/editor-basics.md)
   * [Settings](computer-science/unreal-engine/settings.md)
   * [Projects and File Structure](computer-science/unreal-engine/projects-and-file-structure/README.md)
