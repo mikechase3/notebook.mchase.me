@@ -26,5 +26,28 @@ Web pages are text files in plaintext, written as an HTML document.
 * Flash/ActionScript
 * Microsoft Silverlight. 
 
+## MongoDB
 
+* Adding features is hard
+* Pulling data from so many places is inefficient.
+
+![](../../../.gitbook/assets/image%20%28235%29.png)
+
+![](../../../.gitbook/assets/image%20%28236%29.png)
+
+### Documents
+
+* Data is stored in documents. 
+* Stored in a way which is efficient for people to process.
+* You can add data when you need to quickly and efficiently.
+* Fault tolerances
+
+### Management Tools
+
+* MongoDB is good for the cloud.
+* Available on AWS, Microsoft Azure. Through other interfaces.
+
+### Resources
+
+* [MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
 

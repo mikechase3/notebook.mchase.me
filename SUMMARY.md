@@ -110,6 +110,7 @@
     * [Presentation](computer-science/miscellaneous/senior-year-capstone/presentation.md)
     * [Design to Implementation: Introduction to Node JS](computer-science/miscellaneous/senior-year-capstone/design-to-implementation-introduction-to-node-js.md)
     * [Lecture 06: Designing the User Interface](computer-science/miscellaneous/senior-year-capstone/lecture-06-designing-the-user-interface.md)
+    * [Untitled](computer-science/miscellaneous/senior-year-capstone/untitled.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
