@@ -31,9 +31,9 @@ Web pages are text files in plaintext, written as an HTML document.
 * Adding features is hard
 * Pulling data from so many places is inefficient.
 
-![](../../../.gitbook/assets/image%20%28235%29.png)
+![](../../../.gitbook/assets/image%20%28239%29.png)
 
-![](../../../.gitbook/assets/image%20%28236%29.png)
+![](../../../.gitbook/assets/image%20%28241%29.png)
 
 ### Documents
 
