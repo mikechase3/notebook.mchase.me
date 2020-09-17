@@ -1,2 +1,2 @@
-# Ch 14:
+# Ch 14: Partial Derivatives
 

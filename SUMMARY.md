@@ -159,7 +159,7 @@
     * [SKIP EVERYTHING ELSE](math/calculus-3/ch-13-vector-valued-functions-and-motion-in-space/skip-everything-else.md)
     * [Untitled](math/calculus-3/ch-13-vector-valued-functions-and-motion-in-space/untitled-1.md)
     * [Untitled](math/calculus-3/ch-13-vector-valued-functions-and-motion-in-space/untitled.md)
-  * [Ch 14:](math/calculus-3/ch-14/README.md)
+  * [Ch 14: Partial Derivatives](math/calculus-3/ch-14/README.md)
     * [14.1: Skip](math/calculus-3/ch-14/14.1-skip.md)
     * [14.2: Limits and Continuity](math/calculus-3/ch-14/14.2-limits-and-continuity.md)
     * [14.3: Don't Go Furthur Yet.](math/calculus-3/ch-14/14.3-dont-go-furthur-yet..md)
