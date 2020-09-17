@@ -51,3 +51,62 @@ Web pages are text files in plaintext, written as an HTML document.
 
 * [MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
 
+### Pricing
+
+* 512MB of cloud storage
+* Shared RAM
+
+## HTML & CSS
+
+* [Learn HTML in 12 minutes](https://www.youtube.com/watch?v=bWPMSSsVdPk)
+* Bradley will be the lead for HTML/CSS/[Javascript](https://www.youtube.com/watch?v=0afZj1G0BIE)
+
+## Node.JS
+
+* It's a platform built on Chrome's Javascript runtime
+* Used for easily building fast & scalable network applications.
+
+### How to learn
+
+* nodejs.dev
+* Youtube: Node.js Tutorial for Beginners
+* Udemy.coom
+* Nodeschool.io
+* Nodetuts.com
+
+### How to use it
+
+* Chatbot with Node JS Example
+* Create a basic express application starting by creating the application, enter lines in your tutorial
+* Add some useful packages
+* Add logic
+
+## Express.JS
+
+* A node JS web application server framework
+* Specifically designed for building single-page, multi-page, and hybrid web applications.
+
+### How to learn it
+
+* Youtube is the best way
+* It's not very hard to learn. It'll take a day or two.
+
+## Javascript
+
+### Resources
+
+* [Cheat sheet with some basic stuff.](www.htmlcheatsheet.com/js)
+* Javascript for beginners
+* Build a Chat App with MongoDB & Socket.io
+
+## Socket.io
+
+* A javascript library for realtime web applications
+* It enables realtime, bi-directional communication between web clients & servers
+* 2 parts: client-side library that runs in the browser
+* Server-side library for Node.JS
+
+### 
+
+
+
