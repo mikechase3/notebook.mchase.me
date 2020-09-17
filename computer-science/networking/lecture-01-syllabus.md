@@ -1,4 +1,4 @@
-# Lecture 01 Syllabus
+# Week 01 Syllabus
 
 ## Instructor
 
@@ -67,7 +67,9 @@
 
 
 
+## Works Cited
 
+[Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
 
 
 

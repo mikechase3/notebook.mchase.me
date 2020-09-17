@@ -1,4 +1,4 @@
-# Lecture 04
+# Week 03 Multithreading & Python Types
 
 ## Assignment 1
 
@@ -105,7 +105,9 @@ s = "".join(list_build)  # Allocate3 a single string to put data in.
 
 
 
+## Works Cited
 
+[Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
 
 
 

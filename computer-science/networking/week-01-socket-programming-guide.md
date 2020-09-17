@@ -60,7 +60,9 @@
 | `accept()` | Completes a connection when the `listen()` function finds something. |
 |  |  |
 
+## Works Cited
 
+* [Real Python's Python Sockets](https://realpython.com/python-sockets/)
 
 
 
