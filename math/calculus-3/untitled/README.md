@@ -11,19 +11,19 @@
 
 #### Finding Magnitudes
 
-![](../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28169%29.png)
 
 #### Multiplying Vectors
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../../.gitbook/assets/image%20%28164%29.png)
 
 #### Adding and Multiplying Vectors
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../../.gitbook/assets/image%20%28165%29.png)
 
 ### Finding component forms of vectors in space \(3D\)
 
-![](../../.gitbook/assets/image%20%28172%29.png)
+![](../../../.gitbook/assets/image%20%28172%29.png)
 
 
 
@@ -31,7 +31,7 @@
 
 ### Expressing vectors as products of length and direction
 
-![](../../.gitbook/assets/image%20%28168%29.png)
+![](../../../.gitbook/assets/image%20%28168%29.png)
 
 ### Find Directions of Vectors and Midpoints of Line Segments
 

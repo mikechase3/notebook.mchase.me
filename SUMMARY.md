@@ -145,7 +145,13 @@
 ## Math
 
 * [Calculus 3](math/calculus-3/README.md)
-  * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled.md)
+  * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled/README.md)
+    * [12.1:](math/calculus-3/untitled/12.1.md)
+    * [12.2: Vectors](math/calculus-3/untitled/12.2-vectors.md)
+    * [12.3: The Dot Product](math/calculus-3/untitled/12.3-the-dot-product.md)
+    * [Untitled](math/calculus-3/untitled/untitled-2.md)
+    * [Untitled](math/calculus-3/untitled/untitled.md)
+    * [Untitled](math/calculus-3/untitled/untitled-1.md)
 
 ## Communication
 
