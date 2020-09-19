@@ -178,6 +178,7 @@
   * [The Conclusion](communication/writing/the-conclusion.md)
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Propaganda](communication/propaganda/README.md)
+  * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
   * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
   * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
