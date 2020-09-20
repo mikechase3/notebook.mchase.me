@@ -2,7 +2,7 @@
 
 ## Ted Talk: Dan Ariely
 
-### Two Tables
+### Two Tables Optical Illusion
 
 1. Dan shows 2 tables and measures them against an optical illusions.
 2. When he points to the lines, they're identical.
