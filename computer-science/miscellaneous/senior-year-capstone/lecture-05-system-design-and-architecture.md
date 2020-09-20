@@ -107,6 +107,10 @@ We only covered the application components more thoroughly.
 ## Works Cited
 
 * [Dr. Phu Phung](https://academic.udayton.edu/PhuPhung/)'s CPS 490 class. Lecture 5: System Design & Architecture.
+  * The design models are his \(or at least grabbed from his slides\).
+  * Purple and blue/yellow/green diagrams are mine, but heavily based off his work.
+
+
 
 
 
