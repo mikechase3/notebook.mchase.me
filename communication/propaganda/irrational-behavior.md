@@ -1,5 +1,5 @@
 ---
-description: Test
+description: And How to Manipulate People When Barhopping
 ---
 
 # Irrational Behavior
