@@ -2,7 +2,7 @@
 description: Lecture 02
 ---
 
-# Git & Cloud Shell
+# Lecture 02: Tools
 
 ## Google Cloud Platform CloudShell
 

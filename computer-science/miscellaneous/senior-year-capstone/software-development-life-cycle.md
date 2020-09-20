@@ -1,8 +1,4 @@
----
-description: 'Lecture 01: Course overviews & Software Development Lie Cycle'
----
-
-# Software Development Life Cycle
+# Lecture 03: SCRUM Practices with Rello
 
 ## System Development Lifecycle
 
