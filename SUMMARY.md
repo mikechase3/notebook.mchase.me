@@ -183,6 +183,7 @@
   * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
   * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
   * [Techniques of Propaganda](communication/propaganda/techniques-of-propaganda.md)
+  * [Irrational Behavior](communication/propaganda/irrational-behavior.md)
 
 ## Personal Essays
 
