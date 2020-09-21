@@ -32,7 +32,18 @@ _Conclusion: Rome with coffee looks more favorable simply because one looks like
 
 ![](../../.gitbook/assets/image%20%28362%29.png)
 
-### 
+## Coffee
+
+* By distracting you a third choice, you make irrational behaviors. 
+* Adding a third example makes the decision much harder.
+  * Nobody is going to choose the middle.
+* By throwing in the $4 coffee, $5 looks like a much _better deal_.
+  * _Look at how much I saved. I got so much more coffee for so much less._
+  * Even though you made a quick reaction, you feel like you've made the right choice.
+
+_**Conclusion: Give your audience a good reason to make themselves feel better.**_ 
+
+![](../../.gitbook/assets/image%20%28389%29.png)
 
 
 
