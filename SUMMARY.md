@@ -163,7 +163,7 @@
     * [14.1: Skip](math/calculus-3/ch-14/14.1-skip.md)
     * [14.2: Limits and Continuity](math/calculus-3/ch-14/14.2-limits-and-continuity.md)
     * [14.3: Don't Go Furthur Yet.](math/calculus-3/ch-14/14.3-dont-go-furthur-yet..md)
-    * [14.4](math/calculus-3/ch-14/untitled-1.md)
+    * [14.4: The Chain Rule](math/calculus-3/ch-14/untitled-1.md)
     * [Untitled](math/calculus-3/ch-14/untitled.md)
   * [Untitled](math/calculus-3/untitled-3.md)
   * [Untitled](math/calculus-3/untitled-1.md)
