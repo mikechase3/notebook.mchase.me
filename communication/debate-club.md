@@ -13,3 +13,9 @@
 
 * Attack them 
 
+## Structure
+
+### Opening Speech
+
+* Define what you are arguing
+* 
