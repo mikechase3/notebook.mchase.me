@@ -53,6 +53,15 @@
 * Don't feel compelled to answer every prompt. 
 * Show the committee that you're ready to be a graduate student. That you're ready to do the work that grad students do. That they partake in a scholarly conversation. 
 
+## Brainstorm
+
+### Hook
+
+* The grass always looked greener on the other side.
+  * That's why I changed majors 5 times during my undergrad.
+  * Engineering -&gt; Electrical -&gt; Theatre -&gt; Communication -&gt; CompSci
+  * I changed with the full intention of 0
+
 ## Further Reading
 
 * [Personal Statement](https://owl.purdue.edu/owl/job_search_writing/preparing_an_application/writing_the_personal_statement/index.html): Purdue Owl. 
