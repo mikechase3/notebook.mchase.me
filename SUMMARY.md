@@ -177,6 +177,7 @@
   * [The Introduction](communication/writing/the-introduction.md)
   * [The Conclusion](communication/writing/the-conclusion.md)
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
+* [Debate Club](communication/debate-club.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
