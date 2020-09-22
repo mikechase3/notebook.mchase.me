@@ -75,6 +75,7 @@
   * [Lecture 02: Python, GET, HEAD Requests](computer-science/networking/week-02-python-get-head-requests.md)
   * [Week 03 Multithreading & Python Types](computer-science/networking/week-03-multithreading-and-python-types.md)
   * [Week 04: Internet & Network Edge & Core](computer-science/networking/week-04-internet-and-network-edge-and-core.md)
+  * [Week 05: Application Layer](computer-science/networking/week-05-application-layer.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
