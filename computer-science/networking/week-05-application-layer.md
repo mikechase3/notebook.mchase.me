@@ -14,11 +14,11 @@ description: Follows chapter 2 of the textbook.
   * Host name
   * Path name
 
-![](../../.gitbook/assets/image%20%28392%29.png)
+![](../../.gitbook/assets/image%20%28394%29.png)
 
 ## HTTP Connections
 
-![](../../.gitbook/assets/image%20%28391%29.png)
+![](../../.gitbook/assets/image%20%28393%29.png)
 
 ### HTTP 1.0 vs 1.1
 
@@ -26,7 +26,7 @@ description: Follows chapter 2 of the textbook.
 If we use HTTP/1.1, we get 10 extra credit points onto part 3.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28395%29.png)
+![](../../.gitbook/assets/image%20%28403%29.png)
 
 #### Symbols
 
@@ -52,13 +52,13 @@ If we use HTTP/1.1, we get 10 extra credit points onto part 3.
 * Suppose a user enters the URL www.someSchool.edu/someDepartment/home.
 * Below lists the process
 
-![](../../.gitbook/assets/image%20%28393%29.png)
+![](../../.gitbook/assets/image%20%28396%29.png)
 
-![](../../.gitbook/assets/image%20%28397%29.png)
+![](../../.gitbook/assets/image%20%28406%29.png)
 
 ## Non-Persistent 1.0 HTTP: Response Time
 
-![](../../.gitbook/assets/image%20%28394%29.png)
+![](../../.gitbook/assets/image%20%28402%29.png)
 
 **RTT**: The time for a small packet to travel from a client to server and back.
 
@@ -78,11 +78,11 @@ I missed about 15 minutes of class here.
 
 ## Summary: HTTP Requests
 
-![](../../.gitbook/assets/image%20%28396%29.png)
+![](../../.gitbook/assets/image%20%28404%29.png)
 
 ## HTTP Response Codes
 
-![](../../.gitbook/assets/image%20%28390%29.png)
+![](../../.gitbook/assets/image%20%28392%29.png)
 
 
 
