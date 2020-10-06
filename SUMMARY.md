@@ -114,6 +114,7 @@
     * [Lecture 05: System Design & Architecture](computer-science/miscellaneous/senior-year-capstone/lecture-05-system-design-and-architecture.md)
     * [Lecture 06: Designing the User Interface](computer-science/miscellaneous/senior-year-capstone/lecture-06-designing-the-user-interface.md)
     * [Lecture 08: Application Deployment on Cloud, Use Case, and Sprint 1](computer-science/miscellaneous/senior-year-capstone/untitled.md)
+    * [Lecture 09: Authentication in Web Sockets](computer-science/miscellaneous/senior-year-capstone/lecture-09-authentication-in-web-sockets.md)
     * [Lecture 09: Missing](computer-science/miscellaneous/senior-year-capstone/lecture-09-missing.md)
     * [Lecture 10:](computer-science/miscellaneous/senior-year-capstone/lecture-10.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
