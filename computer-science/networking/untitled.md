@@ -53,7 +53,6 @@ $$
 
 ![7 sec + 20 seconds + 10 seconds to push the whole file onto the 3rd link.](../../.gitbook/assets/image%20%28407%29.png)
 
-## Queuing Delay of Packets
+## HTTP Thing
 
-
-
+* 
