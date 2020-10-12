@@ -64,3 +64,22 @@ There are some cultural wars.
 * The role of the US is to stand-up for other countries.
 * If we don't do this, someone worse will take advantage of the situation.
 
+{% hint style="info" %}
+At this point, we're switching out of Spanish-American war and looking how propaganda is being used in the US against other countries.
+{% endhint %}
+
+## Creating an Enemy
+
+![](../../.gitbook/assets/image%20%28412%29.png)
+
+* Germany is a _threat to democracy._
+  * And therefore, a threat to the US.
+* Emphasized _savagery_ of Germans.
+  * Opposed to _civilized Europe_
+* American duty to promote democracy worldwide.
+  * First ideological war.
+
+## Assignment
+
+* Create a poster to attack the Canadian Bacon Lovers.
+
