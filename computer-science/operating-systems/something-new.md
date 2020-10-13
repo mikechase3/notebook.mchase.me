@@ -1,8 +1,23 @@
 # Something New
 
 {% hint style="info" %}
-September 4, 2020
+This starts content under "Week 7"
 {% endhint %}
 
+## Review
 
+### Semaphores
+
+![](../../.gitbook/assets/image%20%28413%29.png)
+
+### Mutex
+
+
+
+| Term | Definition |
+| :--- | :--- |
+| Semaphore |  |
+| Mutex |  |
+| Deadlock |  |
+| Priority Inversion |  |
 
