@@ -77,7 +77,6 @@
   * [Week 04: Internet & Network Edge & Core](computer-science/networking/week-04-internet-and-network-edge-and-core.md)
   * [Week 05: Application Layer](computer-science/networking/week-05-application-layer.md)
   * [Prep Test](computer-science/networking/untitled.md)
-  * [Transport Layer](computer-science/networking/transport-layer.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
