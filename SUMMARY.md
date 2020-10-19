@@ -192,6 +192,8 @@
   * [Irrational Behavior](communication/propaganda/irrational-behavior.md)
   * [The Language of Propaganda](communication/propaganda/the-language-of-propaganda.md)
   * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
+  * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
+  * [Midterm](communication/propaganda/midterm.md)
 
 ## Personal Essays
 
