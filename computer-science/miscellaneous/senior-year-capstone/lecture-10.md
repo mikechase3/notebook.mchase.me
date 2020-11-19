@@ -1,6 +1,6 @@
-# Lecture 10:
+# Ethics
 
-## See annotated slides.
+## Assignment Too Hard
 
-
+* Answer it's unrealistic.
 

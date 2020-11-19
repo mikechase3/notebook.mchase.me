@@ -116,7 +116,7 @@
     * [Lecture 08: Application Deployment on Cloud, Use Case, and Sprint 1](computer-science/miscellaneous/senior-year-capstone/untitled.md)
     * [Lecture 09: Authentication in Web Sockets](computer-science/miscellaneous/senior-year-capstone/lecture-09-authentication-in-web-sockets.md)
     * [Lecture 09: Missing](computer-science/miscellaneous/senior-year-capstone/lecture-09-missing.md)
-    * [Lecture 10:](computer-science/miscellaneous/senior-year-capstone/lecture-10.md)
+    * [Ethics](computer-science/miscellaneous/senior-year-capstone/lecture-10.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
