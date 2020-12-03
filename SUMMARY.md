@@ -117,12 +117,13 @@
     * [Lecture 09: Authentication in Web Sockets](computer-science/miscellaneous/senior-year-capstone/lecture-09-authentication-in-web-sockets.md)
     * [Lecture 09: Missing](computer-science/miscellaneous/senior-year-capstone/lecture-09-missing.md)
     * [Ethics](computer-science/miscellaneous/senior-year-capstone/lecture-10.md)
+    * [GitLab CICD Pipeline](computer-science/miscellaneous/senior-year-capstone/gitlab-cicd-pipeline.md)
   * [HTML CSS](computer-science/miscellaneous/html-css.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
   * [Bash](computer-science/miscellaneous/bash.md)
   * [Secrets](computer-science/miscellaneous/secrets.md)
-  * [Staff](computer-science/miscellaneous/staff.md)
+  * [CPS Staff](computer-science/miscellaneous/staff.md)
 
 ## Business <a id="psychology"></a>
 
