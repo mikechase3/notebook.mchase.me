@@ -65,7 +65,7 @@
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
-  * [Processes](computer-science/operating-systems/untitled.md)
+  * [Processes & Process Management](computer-science/operating-systems/untitled.md)
   * [Something New](computer-science/operating-systems/something-new.md)
 * [Linux](computer-science/linux/README.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)

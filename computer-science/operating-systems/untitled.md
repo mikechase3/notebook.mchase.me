@@ -1,4 +1,4 @@
-# Processes
+# Processes & Process Management
 
 ## Processes in Memory
 
