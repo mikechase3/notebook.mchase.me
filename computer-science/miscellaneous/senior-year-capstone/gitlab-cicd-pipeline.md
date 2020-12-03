@@ -3,7 +3,7 @@
 ## Project
 
 * [https://gitlab.com/devops457](https://gitlab.com/devops457)
-* 
+
 ## Describe Ci/CD
 
 * Automates software development and testing.
