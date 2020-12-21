@@ -508,7 +508,7 @@ user_info(1, 'Srebalaji', fav_language=['Python', 'Ruby'], twitter_handle='@sreb
 
 ### Classes
 
-```text
+```python
 # Python is general purpose and also object oriented language.
 
 # It's a convention that the class name starts with caps. But Python doesn't throw any error if you are not following it.

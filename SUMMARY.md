@@ -9,6 +9,8 @@
   * [Java](computer-science/languages-and-architectures/java/README.md)
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [Python](computer-science/languages-and-architectures/python/README.md)
+    * [Resources](computer-science/languages-and-architectures/python/resources.md)
+    * [Personal Notes](computer-science/languages-and-architectures/python/personal-notes.md)
     * [Language Crash Course](computer-science/languages-and-architectures/python/python-crash-course.md)
     * [Codecademy Cheatsheets](computer-science/languages-and-architectures/python/codecademy-cheatsheets.md)
     * [PEP 8 Style Guide](computer-science/languages-and-architectures/python/pep-8-style-guide.md)
