@@ -7,6 +7,7 @@
 
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
   * [Java](computer-science/languages-and-architectures/java/README.md)
+    * [Resources](computer-science/languages-and-architectures/java/resources.md)
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [Python](computer-science/languages-and-architectures/python/README.md)
     * [Resources](computer-science/languages-and-architectures/python/resources.md)
