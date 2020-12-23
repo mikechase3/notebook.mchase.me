@@ -301,6 +301,21 @@ raises_value_error()
 | x = bytearray\(5\) | bytearray | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytearray2) |
 | x = memoryview\(bytes\(5\)\) | memoryview | Try it » |
 
+### List Operations
+
+* **Access**: `print(myList[-1])  # -1 refers to last element in the list.`
+* **Append:** Use `yourNamedList.append(itemToAppend)` 
+* **Append Another List:** Just use the `+` operator: `firstList + secondList`.
+* **Count:** `trump_votes = votes.count('Trump')` ****will ****return a number. 
+* **Length \(Size\)**: `len(listVariable)`
+* **Slice:** You can slice a list to get a sublist. `sublist = letters[1:6]`
+  * You can get the last 3 items of the list using: `sublist = letters[-3:]`
+* **Sort** _does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
+* **Sorted**  generates a new list without affecting the old one and uses the syntax `sorted(myList).` 
+  * You can also sort in reverse order: `list1.sort(reverse=True).`
+
+
+
 ## Built In Functions
 
 <table>
@@ -318,6 +333,8 @@ raises_value_error()
         <p><code>range(low_bound, upper_Bound, step)</code>
         </p>
         <ul>
+          <li>Upper bound doesn&apos;t include upper bound. i.e. <code>range(10)</code> returns
+            nums 0 to 9.</li>
           <li>Returns an immutable sequence.</li>
           <li>Steps can be positive or negative.</li>
           <li>It&apos;s a weird data type I don&apos;t understand.</li>
@@ -327,8 +344,19 @@ raises_value_error()
         </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;<a href="https://www.programiz.com/python-programming/methods/built-in/zip"><code>zip(a, b, c)</code></a>&lt;code&gt;&lt;/code&gt;</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>Zip takes iterables and aggregates them into a tuple.</li>
+          <li>The iterables must be the same length. Any <em>extraneous values will be cut off</em>
+          </li>
+          <li>It casts to a <code>set()</code> or <code>list()</code>
+          </li>
+          <li>You can also unzip: <code>c, v =.zip(*results).</code>See the bottom of
+            the link for a better explanation.</li>
+        </ul>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -337,8 +365,5 @@ raises_value_error()
   </tbody>
 </table>
 
-## Range
 
-* There's no `for (int i = 0; i < 10; i++)` so we have to use `range()` a lot of times.
-* The `range()` function generates a tuple?
 

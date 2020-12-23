@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Notebook](README.md)
-* [List of Resources](list-of-resources.md)
+* [Reference Resources](list-of-resources.md)
 
 ## Computer Science
 
