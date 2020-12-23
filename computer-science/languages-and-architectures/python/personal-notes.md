@@ -34,7 +34,7 @@ runtime_of_crap = 2
 
 * You should also use type hints because it'll help you.
 
-### Built in Types
+### Type Hints for Built in Types
 
 ```python
 from typing import List, Set, Dict, Tuple, Optional
@@ -234,7 +234,7 @@ def get_boundaries(target, margin):
 low_limit, high_limit = get_boundaries(100, 20)
 ```
 
-### Default Values
+### Assigning Default Values
 
 * When specifying parameters, you can assign default values.
 * Here, if nothing is passed, `num_repeats` is assigned to 10 by default
@@ -301,11 +301,10 @@ raises_value_error()
 | x = bytearray\(5\) | bytearray | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytearray2) |
 | x = memoryview\(bytes\(5\)\) | memoryview | Try it » |
 
-### Lists
+## Built In Functions
 
-| Function | Example |
+| Function | How to use it |
 | :--- | :--- |
-| Declare a list | my\_list:  |
-
-
+| `range()` | `range(low_bound, upper_Bound)` |
+|  |  |
 
