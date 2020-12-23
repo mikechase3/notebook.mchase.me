@@ -303,8 +303,42 @@ raises_value_error()
 
 ## Built In Functions
 
-| Function | How to use it |
-| :--- | :--- |
-| `range()` | `range(low_bound, upper_Bound)` |
-|  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Function</th>
+      <th style="text-align:left">How to use it</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;<a href="https://www.programiz.com/python-programming/methods/built-in/range"><code>range()</code></a>&lt;code&gt;&lt;/code&gt;</td>
+      <td
+      style="text-align:left">
+        <p><code>range(low_bound, upper_Bound, step)</code>
+        </p>
+        <ul>
+          <li>Returns an immutable sequence.</li>
+          <li>Steps can be positive or negative.</li>
+          <li>It&apos;s a weird data type I don&apos;t understand.</li>
+          <li>You can cast it to a list via:<code>list(range(start, stop, step)))</code>
+          </li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
+## Range
+
+* There's no `for (int i = 0; i < 10; i++)` so we have to use `range()` a lot of times.
+* The `range()` function generates a tuple?
 
