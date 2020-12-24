@@ -24,7 +24,7 @@ runtime_of_crap = 2
 
 * Class names are upper case.
 
-## Comments
+## Type Hints
 
 * Type hints are super nice and will be checked by mypy if you install the package.\#This is a Python comment
 
@@ -124,7 +124,7 @@ quux(__x=3)  # Error
 
 I grabbed these from the [Mypy documentation](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html). Check it out for more details. 
 
-## Math 🎲
+## Math
 
 ### Exponents
 
@@ -301,7 +301,7 @@ raises_value_error()
 | x = bytearray\(5\) | bytearray | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytearray2) |
 | x = memoryview\(bytes\(5\)\) | memoryview | Try it » |
 
-### List Operations
+## Lists
 
 * **Access**: `print(myList[-1])  # -1 refers to last element in the list.`
 * **Append:** Use `yourNamedList.append(itemToAppend)` 
@@ -314,7 +314,9 @@ raises_value_error()
 * **Sorted**  generates a new list without affecting the old one and uses the syntax `sorted(myList).` 
   * You can also sort in reverse order: `list1.sort(reverse=True).`
 
-#### [List Comprehensions](https://www.w3schools.com/python/python_lists_comprehension.asp)
+### [List Comprehensions](https://www.w3schools.com/python/python_lists_comprehension.asp)
+
+Note: these examples were taken from my[ CodeCademy course.](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-flow-data-iteration/modules/dspath-python-loops/cheatsheet)
 
 Let’s say we have scraped a certain website and gotten these words:
 
@@ -355,13 +357,44 @@ This list comprehension:
 
 **Note:** if we hadn’t done any checking \(let’s say we had omitted `if word[0] == '@'`\), the new list would be just a copy of `words`
 
-Another example: 
+#### A second example: Filtering A List
 
 ```python
 heights = [161, 164, 156, 144, 158, 170, 163, 163, 157] 
 can_ride_coaster = [h for h in heights if h > 161] 
 print(can_ride_coaster) # Returns numbers lareger than 161. 
 ```
+
+#### [A third example](http://zetcode.com/python/listcomprehensions/): Change The Initial element
+
+Note: taken from zetcode.
+
+We have a list of temperatures in Celsius. We want to create a new list of temperatures expressed in Fahrenheit temperature.fahrenheit\_celsius.py
+
+```python
+#!/usr/bin/python3
+
+celsius = [22, 28, 33, 42, 52]
+
+fahr = [e * 9/5 + 32 for e in celsius]
+print(fahr)
+```
+
+The example creates a new list of Fahrenheit temperatures calculated from a list of Celsius temperatures.
+
+```python
+fahr = [e * 9/5 + 32 for e in celsius]
+```
+
+The calculation is done in the third, expression part of the Python list comprehension.
+
+{% code title="$ ./fahrenheit\_celsius.py " %}
+```text
+[71.6, 82.4, 91.4, 107.6, 125.6]
+```
+{% endcode %}
+
+This is the output of the example.
 
 ## Built In Functions
 
