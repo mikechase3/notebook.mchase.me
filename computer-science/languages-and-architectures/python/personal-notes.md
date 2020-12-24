@@ -314,7 +314,50 @@ raises_value_error()
 * **Sorted**  generates a new list without affecting the old one and uses the syntax `sorted(myList).` 
   * You can also sort in reverse order: `list1.sort(reverse=True).`
 
+#### [List Comprehensions](https://www.w3schools.com/python/python_lists_comprehension.asp)
 
+Let’s say we have scraped a certain website and gotten these words:
+
+```python
+words = ["@coolguy35", "#nofilter", "@kewldawg54", "reply", "timestamp", "@matchamom", "follow", "#updog"]
+```
+
+We want to make a new list, called `usernames`, that has all of the strings in `words` with an `'@'` as the first character. We know we can do this with a for loop:
+
+```python
+words = ["@coolguy35", "#nofilter", "@kewldawg54", "reply", "timestamp", "@matchamom", "follow", "#updog"] 
+usernames = []
+for word in words: 
+    if word[0] == '@':
+        usernames.append(word)
+    
+>>> print(usernames)["@coolguy35", "@kewldawg54", "@matchamom"]
+```
+
+Python has a convenient shorthand to create lists like this with one line:
+
+```python
+usernames = [word for word in words if word[0] == '@']
+```
+
+This is called a _list comprehension_. It will produce the same output as the for loop did:
+
+```python
+["@coolguy35", "@kewldawg54", "@matchamom"]
+```
+
+This list comprehension:
+
+1. Takes an element in `words`
+2. Assigns that element to a variable called `word`
+3. Checks if `word[0] == '@'`, and if so, it adds word to the new list, `usernames`. If not, nothing happens.
+4. Repeats steps 1-3 for all of the strings in `words`
+
+**Note:** if we hadn’t done any checking \(let’s say we had omitted `if word[0] == '@'`\), the new list would be just a copy of `words`
+
+Another example: 
+
+`heights = [161, 164, 156, 144, 158, 170, 163, 163, 157] can_ride_coaster = [h for h in heights if h > 161] print(can_ride_coaster)`
 
 ## Built In Functions
 
