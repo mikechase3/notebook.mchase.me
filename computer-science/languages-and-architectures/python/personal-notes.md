@@ -357,7 +357,11 @@ This list comprehension:
 
 Another example: 
 
-`heights = [161, 164, 156, 144, 158, 170, 163, 163, 157] can_ride_coaster = [h for h in heights if h > 161] print(can_ride_coaster)`
+```python
+heights = [161, 164, 156, 144, 158, 170, 163, 163, 157] 
+can_ride_coaster = [h for h in heights if h > 161] 
+print(can_ride_coaster) # Returns numbers lareger than 161. 
+```
 
 ## Built In Functions
 
