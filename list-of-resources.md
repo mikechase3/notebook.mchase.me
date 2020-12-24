@@ -14,18 +14,15 @@ description: >-
 * [Jetbrains Academy](https://www.jetbrains.com/academy/) contains a variety of hands-on learning projects for Python, Java, Javascript, Klotin. They are state-of-the-art. It grades your code style and works directly in IDEs like PyCharm and IntelliJ. This resource costs $50/month, but is worth it for one month or powering through a free-trial.
 * [Stepik](https://stepik.org/catalog) contains a collection of medium and low quality courses. It's like Jetbrains Academy, but icludes lots of free courses.
 
-### CAD
+## CAD
 
 | Resource | Price | Rating | Caption |
 | :--- | :--- | :--- | :--- |
-| TinkerCad | 0 | 3 | Online CAD Development for 3D Models. |
+| TinkerCad | 0 | 3 | Online CAD Development for 3D Models. sheet. |
 
-### Languages
+## Professional Development
 
-#### Python
-
-| Resource | Description | Caption |
-| :--- | :--- | :--- |
-| Jetbrains Academy | Great all-in-one learn via a project. | Not free |
-| Programiz | All-in-one reference sheet. |  |
+* BigInterview helps you develop your charismatic skills, but tailored to responding to interviews. 
+* [Jobscan](https://www.jobscan.co/) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
+* Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.  
 
