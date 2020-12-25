@@ -361,7 +361,10 @@ raises_value_error()
 * **Append:** Use `yourNamedList.append(itemToAppend)` 
 * **Append Another List:** Just use the `+` operator: `firstList + secondList`.
 * **Count:** `trump_votes = votes.count('Trump')` ****will ****return a number. 
+* **Del:** Removes an element from the list: 
 * **Length \(Size\)**: `len(listVariable)`
+* **Pop:** Removes the last index, but you can pass the index you want to remove as an argument.
+* **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index. 
 * **Slice:** You can slice a list to get a sublist. `sublist = letters[1:6]`
   * You can get the last 3 items of the list using: `sublist = letters[-3:]`
 * **Sort** _does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
