@@ -24,15 +24,67 @@ runtime_of_crap = 2
 
 * Class names are upper case.
 
-## Type Hints
+## Documentation & Type Hints
 
-* Type hints are super nice and will be checked by mypy if you install the package.\#This is a Python comment
+### Comments
 
 ```python
 //This is me being an idiot. #Thank God for syntax highlighting. 
 ```
 
-* You should also use type hints because it'll help you.
+### [Docstrings](https://www.programiz.com/python-programming/docstrings) \(See Programiz\)
+
+#### Example 1: Docstrings
+
+```text
+def square(n):
+    '''Takes in a number n, returns the square of n'''
+    return n**2
+```
+
+Here, the string literal:
+
+```text
+'''Takes in a number n, returns the square of n'''
+```
+
+Inside the triple quotation marks is the **docstring** of the function `square()` as it appears right after its definition.
+
+**Note:** We can also use triple `"""` quotations to create docstrings.
+
+#### Python \_\_doc\_\_ attribute
+
+Whenever string literals are present just after the definition of a function, module, class or method, they are associated with the object as their `__doc__` attribute. We can later use this attribute to retrieve this docstring.
+
+_Example 2: Printing docstring_
+
+```text
+def square(n):
+    '''Takes in a number n, returns the square of n'''
+    return n**2
+
+print(square.__doc__)
+```
+
+**Output**
+
+```text
+Takes in a number n, returns the square of n
+```
+
+Here, the documentation of our `square()` function can be accessed using the `__doc__` attribute.
+
+#### Using the help\(\) Function for Docstrings
+
+We can also use the `help()` function to read the docstrings associated with various objects.
+
+_Example 7: Read Docstrings with the help\(\) function:_
+
+We can use the `help()` function on the class `Person` in **Example 6** as:
+
+```text
+help(Person)
+```
 
 ### Type Hints for Built in Types
 
@@ -119,6 +171,8 @@ def quux(__x: int) -> None:
 quux(3)  # Fine
 quux(__x=3)  # Error
 ```
+
+
 
 #### Works Cited
 
@@ -342,7 +396,7 @@ Python has a convenient shorthand to create lists like this with one line:
 usernames = [word for word in words if word[0] == '@']
 ```
 
-This is called a _list comprehension_. It will produce the same output as the for loop did:
+This is called a _list comprehension._ It will produce the same output as the for loop did:
 
 ```python
 ["@coolguy35", "@kewldawg54", "@matchamom"]
