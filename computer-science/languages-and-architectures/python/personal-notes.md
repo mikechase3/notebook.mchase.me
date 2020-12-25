@@ -389,7 +389,7 @@ fahr = [e * 9/5 + 32 for e in celsius]
 The calculation is done in the third, expression part of the Python list comprehension.
 
 {% code title="$ ./fahrenheit\_celsius.py " %}
-```text
+```python
 [71.6, 82.4, 91.4, 107.6, 125.6]
 ```
 {% endcode %}
