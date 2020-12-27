@@ -10,7 +10,7 @@ description: >-
 
 * AlgoExpert
 * BackToBack SWE
-* [Codecademy Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all) contains a wonderful collection of cheatsheets for multiple languages and tons of subjects.
+* [Codecademy Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all) contains a wonderful collection of cheatsheets for multiple languages and tons of subjects. Make sure to check out their [student center](https://www.codecademy.com/student-center) too!
 * [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices. 
 * [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
 * [Jetbrains Academy](https://www.jetbrains.com/academy/) contains a variety of hands-on learning projects for Python, Java, Javascript, Klotin. They are state-of-the-art. It grades your code style and works directly in IDEs like PyCharm and IntelliJ. This resource costs $50/month, but is worth it for one month or powering through a free-trial.

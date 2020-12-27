@@ -453,7 +453,7 @@ The calculation is done in the third, expression part of the Python list compreh
 
 This is the output of the example.
 
-## Built In Functions
+### Built In Functions
 
 <table>
   <thead>
