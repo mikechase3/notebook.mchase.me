@@ -451,7 +451,18 @@ The calculation is done in the third, expression part of the Python list compreh
 ```
 {% endcode %}
 
-This is the output of the example.
+#### Fourth Example
+
+Suppose we want to create empty list for each element in an existing list. We can do this with the following code.
+
+```python
+destinations = ["Paris, France", "Shanghai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cario, Egypt"]
+attractions = [[] for thing in destinations]
+
+print(attractions)  # [[], [], [], [], []]
+```
+
+
 
 ### Built In Functions
 
@@ -496,8 +507,15 @@ This is the output of the example.
         </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><code>.index(element)</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Gets the index given an. element.</li>
+          <li><code>[&quot;foo&quot;, &quot;bar&quot;, &quot;baz&quot;].index(&quot;bar&quot;)</code> will
+            return <code>1</code>.</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
