@@ -200,6 +200,24 @@ print(6**4) #6^4
 
 ## Strings
 
+### Slicing
+
+#### Get the last few characters
+
+```python
+favorite_fruit = 'blueberry'
+print(favorite_fruit[-1])
+# => 'y'
+ 
+print(favorite_fruit[-2])
+# => 'r'
+ 
+print(favorite_fruit[-3:])
+# => 'rry'
+```
+
+
+
 ### Concatenation
 
 {% hint style="warning" %}
@@ -272,6 +290,17 @@ Am I projecting? Sorry.
 ### Eval\(\)
 
 * Use eval\(\) to have python evaluate a regular expression.
+
+### I**n keyword**
+
+* `in` checks if one string is part of another string.
+
+```python
+print("e" in "blueberry")
+# => True
+print("a" in "blueberry")
+# => False
+```
 
 ## Functions
 
