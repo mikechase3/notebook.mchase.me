@@ -73,7 +73,7 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 
 #### Reading Data into the text file.
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../.gitbook/assets/image%20%2869%29%20%283%29.png)
 
 | Function | Description |
 | :--- | :--- |
@@ -195,7 +195,7 @@ What is the iterator? Line 20?  What is it iterating through? is v's neighbor se
 
 Directed graphs store the outgoing edges in their adjacency list.
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%2879%29%20%281%29.png)
 
 ### Directed Graphs API
 

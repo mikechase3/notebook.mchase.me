@@ -12,10 +12,7 @@ description: >-
 
 ## Communication
 
-
 ## Computer Science
-
-
 
 ### Data Structures and Algorithms
 
@@ -25,15 +22,13 @@ description: >-
 * [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
 * [Princeton Data Structure and Algorithms](hhttps://www.coursera.org/learn/algorithms-part1#syllabus) has a complete, free course available for auditing. The ratings are extremely high. Be sure to have a Java background, otherwise you might have a little difficulty with the assignments. It'll say it costs money, but look for a button that says "audit this course" for free access.
 
-
-
 ### Data Science & Visualization
+
 #### The Pudding
 
-[The Pudding](https://pudding.cool) is my favorite source of essays. Most essays are beautifully and exciting, and I would love to become an intern there one day, perhaps soon. Specifically though, you'll want to check out their how-to articles: [Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/), [Design](https://pudding.cool/process/how-to-make-dope-shit-part-2/), and [Storytelling](https://pudding.cool/process/how-to-make-dope-shit-part-2/). It's a journalistic approach, but I'm extremely passionate about it, so much so I donate... and probably need to donate more. If you like this, checkout all of the *how-to* articles.
+[The Pudding](https://pudding.cool) is my favorite source of essays. Most essays are beautifully and exciting, and I would love to become an intern there one day, perhaps soon. Specifically though, you'll want to check out their how-to articles: [Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/), [Design](https://pudding.cool/process/how-to-make-dope-shit-part-2/), and [Storytelling](https://pudding.cool/process/how-to-make-dope-shit-part-2/). It's a journalistic approach, but I'm extremely passionate about it, so much so I donate... and probably need to donate more. If you like this, checkout all of the _how-to_ articles.
 
 {% embed url="https://pudding.cool/" caption="The Pudding" %}
-
 
 ### Game Development \(Unity and Unreal Engine\)
 
@@ -50,7 +45,7 @@ description: >-
 
 #### Effective Python, Java, CSS, Typescript, More.
 
-\_\_[Effective Python](https://effectivepython.com/)_/Java/C++/Typescript/More_ are books that tell you how to get from mediocrity to mastery by identifying best practices. This is a poor choice for beginners, but great once you get familiar with the programming language by showing you a bit under the hood and helping you learn better practices for each language. 
+\_\_[Effective Python](https://effectivepython.com/)_/Java/C++/Typescript/More_ are books that tell you how to get from mediocrity to mastery by identifying best practices. This is a poor choice for beginners, but great once you get familiar with the programming language by showing you a bit under the hood and helping you learn better practices for each language.
 
 {% embed url="https://effectivepython.com/" caption="Effective Python" %}
 
@@ -62,17 +57,15 @@ description: >-
 
 #### MyPy \(Python\)
 
-MyPy is a Python static type checker. This will force you to make sure your code works as expected and saves you time during complicated Python projects. Why do you need this you ask? Because one day you'll accidentally pass a string instead of a tuple and you'll spend four hours debugging something so simple you'll feel like an idiot. We have the technology, we only have to use it. 
+MyPy is a Python static type checker. This will force you to make sure your code works as expected and saves you time during complicated Python projects. Why do you need this you ask? Because one day you'll accidentally pass a string instead of a tuple and you'll spend four hours debugging something so simple you'll feel like an idiot. We have the technology, we only have to use it.
 
-{% embed url="https://mypy.readthedocs.io/en/stable/cheat\_sheet\_py3.html" %}
+{% embed url="https://mypy.readthedocs.io/en/stable/cheat\_sheet\_py3.html" caption="" %}
 
 #### Stepik
 
-[Stepik](https://stepik.org/catalog) contains a collection of medium and low quality courses. It's like Jetbrains Academy, but include lots of free courses. I would recommend paying for a different service instead, with an exception being the Java challenges. 
+[Stepik](https://stepik.org/catalog) contains a collection of medium and low quality courses. It's like Jetbrains Academy, but include lots of free courses. I would recommend paying for a different service instead, with an exception being the Java challenges.
 
-{% embed url="https://stepik.org/catalog" %}
-
-
+{% embed url="https://stepik.org/catalog" caption="" %}
 
 ### Linux
 
@@ -93,8 +86,8 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 `Pass`
 
-
 ## Marketing
+
 * Canva has some kickass marketing tools.
 
 ## Personal Essays
@@ -104,3 +97,4 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 * BigInterview helps you develop your charismatic skills, but tailored to responding to interviews. 
 * [Jobscan](https://www.jobscan.co/) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
 * Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.  
+

@@ -221,7 +221,7 @@ I don't understand reductions or these definitions very well.
 
 #### Proof Your Own Algorithms Summary
 
-![Choose a problem and reduce it down to prove something is NP Complete](../../../.gitbook/assets/image%20%28115%29.png)
+![Choose a problem and reduce it down to prove something is NP Complete](../../../.gitbook/assets/image%20%28118%29.png)
 
 * Cook proved \(through a pain in the a\*\*\) that the 3SAT problem is NP complete.
 * Now, you just have to pick your favorite problem, and reduce from any known problem \(like 3SAT\) to your problem that you're trying to prove is NP Hard.

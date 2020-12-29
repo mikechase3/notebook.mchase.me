@@ -11,11 +11,11 @@
 
 ### The Dependency Diagram
 
-![](../../../.gitbook/assets/image%20%28380%29.png)
+![](../../../.gitbook/assets/image%20%28379%29%20%281%29.png)
 
 ## Functions of 2 Variables
 
-![](../../../.gitbook/assets/image%20%28377%29.png)
+![](../../../.gitbook/assets/image%20%28377%29%20%281%29.png)
 
 ## Theorem 6
 
@@ -23,9 +23,9 @@
 No idea what this is
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28388%29.png)
+![](../../../.gitbook/assets/image%20%28377%29%20%286%29.png)
 
-![](../../../.gitbook/assets/image%20%28376%29.png)
+![](../../../.gitbook/assets/image%20%28377%29.png)
 
 ### Note on Exercises
 

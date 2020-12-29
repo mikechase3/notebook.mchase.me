@@ -264,7 +264,7 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 
 
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%28100%29%20%281%29.png)
 
 
 
