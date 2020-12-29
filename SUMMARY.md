@@ -180,8 +180,7 @@
 
 ## Communication
 
-* [Ideation](communication/ideation/README.md)
-  * [Act 3](communication/ideation/act-3.md)
+* [Ideation](communication/ideation.md)
 * [Economics](communication/economics.md)
 * [Writing](communication/writing/README.md)
   * [The Introduction](communication/writing/the-introduction.md)

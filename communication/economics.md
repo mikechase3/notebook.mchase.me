@@ -1,3 +1,7 @@
+---
+description: Notes from when I took ECO-203 with Dr. Haskell
+---
+
 # Economics
 
 ## Course Description
