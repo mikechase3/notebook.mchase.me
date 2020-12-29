@@ -130,8 +130,6 @@
 
 ## Business <a id="psychology"></a>
 
-* [Colors and Marketing](psychology/colors-and-marketing.md)
-* [Marketing: Framing, Conformity, Cognitive Dissonance](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
 * [Placebo](psychology/placebo.md)
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
@@ -201,6 +199,8 @@
 
 ## Marketing
 
+* [Colors and Marketing](marketing/colors-and-marketing.md)
+* [Marketing: Framing, Conformity, Cognitive Dissonance](marketing/programiz-how-we-use-psychology-to-market-our-products.md)
 * [Untitled](marketing/untitled.md)
 
 ## Personal Essays
