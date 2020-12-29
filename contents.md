@@ -81,6 +81,8 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 ## Marketing
 
+* Canva kicks butt.
+
 ## Professional Development
 
 * BigInterview helps you develop your charismatic skills, but tailored to responding to interviews. 
