@@ -29,6 +29,7 @@
 
 * [Ideation](communication/ideation.md)
 * [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
+* [The Feynmenn Technique](communication/the-feynmenn-technique.md)
 * [Balancing Normalness](communication/quirkiness.md)
 * [Placebo](communication/placebo.md)
 * [Writing](communication/writing/README.md)
