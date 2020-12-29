@@ -26,7 +26,7 @@ description: >-
 
 \_\_[Jetbrains Academy](https://www.jetbrains.com/academy/) contains a variety of hands-on learning projects for Python, Java, Javascript, Klotin. They are state-of-the-art. It grades your code style and works directly in IDEs like PyCharm and IntelliJ. This resource costs $50/month, but is worth it for one month or powering through a free-trial.
 
-{% embed url="https://www.jetbrains.com/academy/" %}
+{% embed url="https://www.jetbrains.com/academy/" caption="Jetbrains Academy. $50/month." %}
 
 #### MyPy \(Python\)
 
@@ -49,9 +49,7 @@ MyPy is a Python static type checker. This will force you to make sure your code
 * [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices. 
 * [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
 
-### Web Development and Design
-
-`Pass`
+### 
 
 ### Data Science & Visualization
 
@@ -74,6 +72,10 @@ MyPy is a Python static type checker. This will force you to make sure your code
 Unfortunately, I took operating systems from a professor who did a poor job teaching remotely. This is a good place to start:
 
 * [The Top 10 Operating Systems Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
+
+### Web Development and Design
+
+`Pass`
 
 ## Business
 
