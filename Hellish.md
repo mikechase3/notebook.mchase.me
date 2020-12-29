@@ -6,6 +6,13 @@ description: >-
 
 # Table of Contents
 
+## Business
+
+## Career
+
+## Communication
+
+
 ## Computer Science
 
 
@@ -86,12 +93,11 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 `Pass`
 
-## Business
 
 ## Marketing
 * Canva has some kickass marketing tools.
 
-
+## Personal Essays
 
 ## Professional Development
 
