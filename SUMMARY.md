@@ -29,7 +29,7 @@
 
 * [Ideation](communication/ideation.md)
 * [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
-* [Quirkiness](communication/quirkiness.md)
+* [Balancing Normalness](communication/quirkiness.md)
 * [Placebo](communication/placebo.md)
 * [Writing](communication/writing/README.md)
   * [The Introduction](communication/writing/the-introduction.md)
