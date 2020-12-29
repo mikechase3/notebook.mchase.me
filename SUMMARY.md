@@ -3,6 +3,51 @@
 * [Mike Chase's Notebook](README.md)
 * [Table of Contents](list-of-resources.md)
 
+## Business <a id="psychology"></a>
+
+* [Cognitive Biases](psychology/cognitive-biases.md)
+* [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
+* [Game Theory](psychology/game-theory/README.md)
+  * [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
+* [Economics](psychology/economics.md)
+
+## Career
+
+* [Graduate School](career/graduate-school/README.md)
+  * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
+  * [Personal Statements](career/graduate-school/personal-statements.md)
+* [Computer Science Capstone](career/computer-science-capstone/README.md)
+  * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
+  * [Lecture 02: Git & Trello](career/computer-science-capstone/lecture-02-git-and-trello.md)
+* [Salary Negotiation](career/salary-negotiation.md)
+* [How To Quit](career/how-to-quit.md)
+* [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
+* [Better Meeting Tools](career/better-meeting-tools.md)
+* [Goal Setting](career/goal-setting.md)
+
+## Communication
+
+* [Ideation](communication/ideation.md)
+* [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
+* [Quirkiness](communication/quirkiness.md)
+* [Placebo](communication/placebo.md)
+* [Writing](communication/writing/README.md)
+  * [The Introduction](communication/writing/the-introduction.md)
+  * [The Conclusion](communication/writing/the-conclusion.md)
+  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
+* [Debate Club](communication/debate-club.md)
+* [Propaganda](communication/propaganda/README.md)
+  * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
+  * [Syllabus Day](communication/propaganda/syllabus-day.md)
+  * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
+  * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
+  * [Techniques of Propaganda](communication/propaganda/techniques-of-propaganda.md)
+  * [Irrational Behavior](communication/propaganda/irrational-behavior.md)
+  * [The Language of Propaganda](communication/propaganda/the-language-of-propaganda.md)
+  * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
+  * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
+  * [Midterm](communication/propaganda/midterm.md)
+
 ## Computer Science
 
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
@@ -127,50 +172,6 @@
   * [Bash](computer-science/miscellaneous/bash.md)
   * [Secrets](computer-science/miscellaneous/secrets.md)
   * [CPS Staff](computer-science/miscellaneous/staff.md)
-
-## Business <a id="psychology"></a>
-
-* [Cognitive Biases](psychology/cognitive-biases.md)
-* [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
-* [Game Theory](psychology/game-theory/README.md)
-  * [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
-* [Economics](psychology/economics.md)
-
-## Career
-
-* [Graduate School](career/graduate-school/README.md)
-  * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
-  * [Personal Statements](career/graduate-school/personal-statements.md)
-* [Computer Science Capstone](career/computer-science-capstone/README.md)
-  * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
-  * [Lecture 02: Git & Trello](career/computer-science-capstone/lecture-02-git-and-trello.md)
-* [Salary Negotiation](career/salary-negotiation.md)
-* [How To Quit](career/how-to-quit.md)
-* [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
-* [Better Meeting Tools](career/better-meeting-tools.md)
-* [Goal Setting](career/goal-setting.md)
-
-## Communication
-
-* [Ideation](communication/ideation.md)
-* [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
-* [Placebo](communication/placebo.md)
-* [Writing](communication/writing/README.md)
-  * [The Introduction](communication/writing/the-introduction.md)
-  * [The Conclusion](communication/writing/the-conclusion.md)
-  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
-* [Debate Club](communication/debate-club.md)
-* [Propaganda](communication/propaganda/README.md)
-  * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
-  * [Syllabus Day](communication/propaganda/syllabus-day.md)
-  * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
-  * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
-  * [Techniques of Propaganda](communication/propaganda/techniques-of-propaganda.md)
-  * [Irrational Behavior](communication/propaganda/irrational-behavior.md)
-  * [The Language of Propaganda](communication/propaganda/the-language-of-propaganda.md)
-  * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
-  * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
-  * [Midterm](communication/propaganda/midterm.md)
 
 ## Math
 
