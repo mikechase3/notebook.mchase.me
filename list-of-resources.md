@@ -89,6 +89,7 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 ## Business
 
 ## Marketing
+* Canva has some kickass marketing tools.
 
 
 
