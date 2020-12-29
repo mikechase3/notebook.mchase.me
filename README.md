@@ -1,7 +1,5 @@
 ---
-description: >-
-  This is a collection of Mike Chase's notes from Dr. Zhongmei Yao's CPS 450
-  Course.
+description: See the table of contents.
 ---
 
 # Mike Chase's Notebook
