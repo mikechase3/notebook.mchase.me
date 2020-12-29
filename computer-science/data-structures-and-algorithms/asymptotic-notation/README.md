@@ -102,7 +102,7 @@ When I graphed them in Desmos, I got these:
 
 The bounds also don't have to be touching exactly. Here's an [example](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) from [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation):
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../.gitbook/assets/image%20%2839%29%20%281%29.png)
 
 Note here that we don't care about the small cases, but only when `n` gets really large, or after the dashed line in this case.
 
