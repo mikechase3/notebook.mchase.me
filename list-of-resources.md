@@ -8,6 +8,31 @@ description: >-
 
 ## Computer Science
 
+
+
+### Data Structures and Algorithms
+
+* AlgoExpert
+* BackToBack SWE
+* [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices. 
+* [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
+* [Princeton Data Structure and Algorithms](hhttps://www.coursera.org/learn/algorithms-part1#syllabus) has a complete, free course available for auditing. The ratings are extremely high. Be sure to have a Java background, otherwise you might have a little difficulty with the assignments. It'll say it costs money, but look for a button that says "audit this course" for free access.
+
+
+
+### Data Science & Visualization
+#### The Pudding
+
+[The Pudding](https://pudding.cool) is my favorite source of essays. Most essays are beautifully and exciting, and I would love to become an intern there one day, perhaps soon. Specifically though, you'll want to check out their how-to articles: [Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/), [Design](https://pudding.cool/process/how-to-make-dope-shit-part-2/), and [Storytelling](https://pudding.cool/process/how-to-make-dope-shit-part-2/). It's a journalistic approach, but I'm extremely passionate about it, so much so I donate... and probably need to donate more. If you like this, checkout all of the *how-to* articles.
+
+{% embed url="https://pudding.cool/" caption="The Pudding" %}
+
+
+### Game Development \(Unity and Unreal Engine\)
+
+* [Unity Learn](https://pudding.cool/) is worth checking out. I use it for mobile development and the occasional wacky project that only works on Unity.
+* [Learn Unreal Engine](https://learn.unrealengine.com/home/dashboard) has a that's slow and painful. I hate their whole website because it feels slow and disorganized much like this website you are reading - at least the disorganized part. Sorry I'm projecting. I'd give it a 3/5 rating. It's very comprehensive and I haven't found anything better... yet. That being said, I haven't pulled out my wallet because I'll just ask my coworkers when I have problems.
+
 ### [Languages and Architectures](computer-science/languages-and-architectures/)
 
 #### Codecademy Cheatsheets
@@ -42,26 +67,10 @@ MyPy is a Python static type checker. This will force you to make sure your code
 
 
 
-### Data Structures and Algorithms
-
-* AlgoExpert
-* BackToBack SWE
-* [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices. 
-* [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
-
-### 
-
-### Data Science & Visualization
-
-`Pass`
-
-### Game Development \(Unity and Unreal Engine\)
-
-`Pass`
-
 ### Linux
 
-`Pass`
+* [Codecademy](https://www.codecademy.com/resources/cheatsheets/all) has a navigation tool. It'll teach you some basic commands everyone should know like navigate the file system. It's probably a little too basic, but it's a good place to start.
+* I'm not going to focus too much effort here, but I'd love someone else to contribute and share their knowledge!
 
 ### Machine Learning
 
