@@ -130,7 +130,6 @@
 
 ## Business <a id="psychology"></a>
 
-* [Placebo](psychology/placebo.md)
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
 * [Game Theory](psychology/game-theory/README.md)
@@ -154,6 +153,8 @@
 ## Communication
 
 * [Ideation](communication/ideation.md)
+* [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
+* [Placebo](communication/placebo.md)
 * [Writing](communication/writing/README.md)
   * [The Introduction](communication/writing/the-introduction.md)
   * [The Conclusion](communication/writing/the-conclusion.md)
