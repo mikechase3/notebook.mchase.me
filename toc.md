@@ -90,7 +90,7 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 ## Marketing
 
-* Canva has some kickass marketing tools.
+* Canva has some awesome marketing tools. You can get a free 12-month subscription with the Github Student pack.
 
 ## Personal Essays
 

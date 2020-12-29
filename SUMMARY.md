@@ -210,5 +210,5 @@
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
 * [The Most Boring Article about Libertarian Advertising You'll Ever Read](personal-essays/the-most-boring-article-about-libertarian-advertising-youll-ever-read.md)
 * [Microwaves: The Weapon of Mass Destruction](personal-essays/microwaves-the-weapon-of-mass-destruction.md)
-* [How Propaganda Works](how-propaganda-works.md)
+* [How Propaganda Works](personal-essays/how-propaganda-works.md)
 

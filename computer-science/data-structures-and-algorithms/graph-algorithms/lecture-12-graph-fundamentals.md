@@ -73,7 +73,7 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 
 #### Reading Data into the text file.
 
-![](../../../.gitbook/assets/image%20%2869%29%20%285%29%20%283%29.png)
+![](../../../.gitbook/assets/image%20%2869%29%20%285%29%20%285%29%20%283%29.png)
 
 | Function | Description |
 | :--- | :--- |
