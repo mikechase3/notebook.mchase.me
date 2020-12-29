@@ -137,6 +137,7 @@
 * [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
 * [Game Theory](psychology/game-theory/README.md)
   * [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
+* [Economics](psychology/economics.md)
 
 ## Career
 
@@ -151,6 +152,26 @@
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
 * [Better Meeting Tools](career/better-meeting-tools.md)
 * [Goal Setting](career/goal-setting.md)
+
+## Communication
+
+* [Ideation](communication/ideation.md)
+* [Writing](communication/writing/README.md)
+  * [The Introduction](communication/writing/the-introduction.md)
+  * [The Conclusion](communication/writing/the-conclusion.md)
+  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
+* [Debate Club](communication/debate-club.md)
+* [Propaganda](communication/propaganda/README.md)
+  * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
+  * [Syllabus Day](communication/propaganda/syllabus-day.md)
+  * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
+  * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
+  * [Techniques of Propaganda](communication/propaganda/techniques-of-propaganda.md)
+  * [Irrational Behavior](communication/propaganda/irrational-behavior.md)
+  * [The Language of Propaganda](communication/propaganda/the-language-of-propaganda.md)
+  * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
+  * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
+  * [Midterm](communication/propaganda/midterm.md)
 
 ## Math
 
@@ -178,26 +199,9 @@
   * [Untitled](math/calculus-3/untitled-3.md)
   * [Untitled](math/calculus-3/untitled-1.md)
 
-## Communication
+## Marketing
 
-* [Ideation](communication/ideation.md)
-* [Economics](communication/economics.md)
-* [Writing](communication/writing/README.md)
-  * [The Introduction](communication/writing/the-introduction.md)
-  * [The Conclusion](communication/writing/the-conclusion.md)
-  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
-* [Debate Club](communication/debate-club.md)
-* [Propaganda](communication/propaganda/README.md)
-  * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
-  * [Syllabus Day](communication/propaganda/syllabus-day.md)
-  * [Defining Propaganda](communication/propaganda/defining-propaganda.md)
-  * [Grouping and Tribalism](communication/propaganda/grouping-and-tribalism.md)
-  * [Techniques of Propaganda](communication/propaganda/techniques-of-propaganda.md)
-  * [Irrational Behavior](communication/propaganda/irrational-behavior.md)
-  * [The Language of Propaganda](communication/propaganda/the-language-of-propaganda.md)
-  * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
-  * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
-  * [Midterm](communication/propaganda/midterm.md)
+* [Untitled](marketing/untitled.md)
 
 ## Personal Essays
 
