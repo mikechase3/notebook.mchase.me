@@ -1,3 +1,7 @@
+---
+description: A Propaganda Analysis
+---
+
 # Why We Fight: Wartime Propaganda and its Application Today
 
 ## Abstract

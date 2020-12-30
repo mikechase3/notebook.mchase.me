@@ -6,9 +6,7 @@
 ## Business <a id="psychology"></a>
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
-* [Habitual and Sensitization](psychology/habitual-and-sensitization.md)
-* [Game Theory](psychology/game-theory/README.md)
-  * [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/game-theory/how-to-make-your-own-luck-or-freakonomics-424.md)
+* [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/how-to-make-your-own-luck-or-freakonomics-424.md)
 * [Economics](psychology/economics.md)
 
 ## Career
@@ -28,6 +26,7 @@
 ## Communication
 
 * [Ideation](communication/ideation.md)
+* [Habitual and Sensitization](communication/habitual-and-sensitization.md)
 * [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
 * [The Feynmenn Technique](communication/the-feynmenn-technique.md)
 * [Balancing Normalness](communication/quirkiness.md)
