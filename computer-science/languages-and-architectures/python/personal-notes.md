@@ -304,7 +304,9 @@ print("a" in "blueberry")
 
 ### String Methods
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+Checkout Codecademy's [cheat sheet](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/cheatsheet) for this topic. Scroll down on that page & you'll see the methods.
+
+![Codecademy&apos;s Summary of String Methods](../../../.gitbook/assets/image%20%281%29.png)
 
 ## Functions
 
