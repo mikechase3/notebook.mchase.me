@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Notebook](README.md)
-* [Inbox](INBOX.md)
+* [Inbox](inbox.md)
 
 ## Business <a id="psychology"></a>
 

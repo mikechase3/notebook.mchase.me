@@ -302,6 +302,10 @@ print("a" in "blueberry")
 # => False
 ```
 
+### String Methods
+
+![](../../../.gitbook/assets/image%20%281%29.png)
+
 ## Functions
 
 ### Returning Multiple Values
