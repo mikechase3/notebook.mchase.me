@@ -1,8 +1,7 @@
 import os
 import sys
 from enum import Enum
-# from interface.TableAppender import TableAppender
-import TableAppender
+from interface.TableAppender import TableAppender
 
 class Location(Enum):
 	INBOX = "/Users/mikechase3/Dropbox/Active Documents/Inbox/ForTheWall/QUOTES.csv"  # Mike Chase's default location.
@@ -47,10 +46,10 @@ if __name__ == '__main__':
 				"\n===========================\n" + "Quote: " + quote + "\nSource: " + source + "\nComment: " + comment
 				+ "\nLocation: '" + str(location) + "' ?  \n===========================\nDoes this look right? (y/n): ")
 			if i == "y" or "Y" or "yes":
-				appender = interface.TableAppender(location)
+				appender = TableAppender(location)
 				to_append = [quote, source, comment]
 				appender.append_list(to_append)
-				print("Success. Added to: ", location)
+				print("Success. Added.")
 			else:
 				print("Ok, Mike Chase didn't add it.")
 			print("----------------------")
@@ -71,7 +70,7 @@ if __name__ == '__main__':
 		location = ""  # Location
 
 		# Add to markdown file.
-		appender = interface.TableAppender("")
+		appender = TableAppender("")
 		appender.append_list(l)
 		print("Appended your quote (w/o source or comment) to the table on Github. Make sure to commit & push!")
 
@@ -83,7 +82,7 @@ if __name__ == '__main__':
 		location = ""  # Location
 
 		# Add to markdown file.
-		appender = interface.TableAppender("")
+		appender = TableAppender("")
 		appender.append_list(l)
 		print("Appended your quote & source to the table on Github. Make sure to commit & push!")
 	elif len(sys.argv) == 4:  # Quote, Source, and Comment
@@ -94,7 +93,7 @@ if __name__ == '__main__':
 		location = ""  # Location
 
 		# Add to markdown file.
-		appender = interface.TableAppender(location)
+		appender = TableAppender(location)
 		appender.append_list(l)
 		print("Appended your quote & source & comment to the table on Github. Make sure to commit & push!")
 	elif len(sys.argv) == 5:  # Quote, source, comment, and location
@@ -105,6 +104,6 @@ if __name__ == '__main__':
 		location = sys.argv[4]  # Location
 
 		# Add to markdown file.
-		appender = interface.TableAppender(location)
+		appender = TableAppender(location)
 		appender.append_list(l)
 		print("Appended your quote & source & comment to the table at", location)
