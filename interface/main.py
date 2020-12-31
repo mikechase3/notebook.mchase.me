@@ -1,42 +1,12 @@
 import os
 import sys
 from enum import Enum
-
-from FileAppender import FileAppender
+from interface.TableAppender import TableAppender
 
 
 class Location(Enum):
 	INBOX = "/Users/mikechase3/Dropbox/Active Documents/Inbox/ForTheWall/QUOTES.csv"  # Mike Chase's default location.
-	CURRENTPATH = str(os.path) + "output.csv"
-
-
-def sanitize(s: str) -> str:
-	"""Sanitizes a string by appending quotes around it. """
-	# s = s.replace(',', '')  # A backup plan. This will just remove all the commas.
-	s = s.replace('\"', '')  # Remove any double quotes which will screw up the CSV.
-	s = s.replace('\'', '')  # Remove the single quotes which will screw up the CSV.
-	s = "\"" + s + "\""  # Now put these in quotes.
-	return s
-
-
-def addQuote(quote: str, source: str = "Not Specified", comment: str = '',
-             location: str = (str(Location.INBOX.value))) -> None:
-	""" Adds a quote to the CSV: quote, src, comment, str.
-	:param source: The source or where you heard it.
-	:type source: str
-	:rtype: None
-	:param quote: Quote to be added to the file
-	:type quote: str
-	:param comment: Comment about the quote.
-	:type comment: str
-	:param location: the location to save the file to. Is the terminal path to begin with.
-	:type location: str
-	"""
-	appender = FileAppender(location)
-	quote = sanitize(quote)
-	comment = sanitize(comment)
-	source = sanitize(source)
-	appender.append_to_file(quote + "," + source + "," + comment)
+	CURRENT_PATH = str(os.path) + "output.csv"
 
 
 if __name__ == '__main__':
@@ -58,56 +28,84 @@ if __name__ == '__main__':
 			comment = input("Enter a comment: ")
 			try:  # User validation
 				locationOption = input(
-					"Do you want to save this to mike's (i)nbox, the (c)urrent directory, or somewhere (e)lse?")
+					"Do you want to save this to (g)ithub, mike's (i)nbox, the (c)urrent directory, or somewhere (e)lse? ")
 				if locationOption == "i":
 					location = Location.INBOX.value
+				elif locationOption == "g":
+					location = ""  # Will be converted in FileAppender.py
 				elif locationOption == "c":
-					location = Location.CURRENTPATH.value
+					location = Location.CURRENT_PATH.value
 				elif locationOption == "e":
 					location = input("Type the in the location. This is relative to the script's location but a fixed "
-					                 "location is also acceptable.")
+					                 "location is also acceptable. Blank will use github repo I'll fix later.")
 				else:
-					raise Exception("You selected an invalid option. Type 'i', 'c', or 'e' and try again.")
-			except:
-				continue
+					raise ValueError("Invalid option selected. Program terminated.")
+			except ValueError:
+				exit()
 
 			# Ask the user if everything looks right.
 			i = input(
 				"\n===========================\n" + "Quote: " + quote + "\nSource: " + source + "\nComment: " + comment
 				+ "\nLocation: '" + str(location) + "' ?  \n===========================\nDoes this look right? (y/n): ")
 			if i == "y" or "Y" or "yes":
-				addQuote(quote, source, comment, location)
+				appender = TableAppender(location)
+				to_append = [quote, source, comment]
+				appender.append_list(to_append)
 				print("Success. Added to: ", location)
 			else:
-				print("Ok, I didn't add it.")
+				print("Ok, Mike Chase didn't add it.")
 			print("----------------------")
 
 			i = input("Would you like to add another quote? (y/n)? ")
 			if i == "y":
 				continue
 			else:
-				keepRunning = False
-				print("Ended")
+				keepRunning = False  # will return exit 0.
+				print("Ended\n")
 
 	# TODO: Keep Running?
-	elif len(sys.argv) == 2:  # Quote w/o comment
-		addQuote(sys.argv[1])
-		print("Appended to " + Location.INBOX.value, "with no comment")
-	elif len(sys.argv) == 3:  # Quote & Source
-		addQuote(sys.argv[1], sys.argv[2])
-		print("Appended to: " + Location.INBOX.value)
+	elif len(sys.argv) == 2:  # Quote only.
+		l = []
+		l[0] = sys.argv[1]  # Quote
+		l[1] = "No Source Provided"  # Source
+		l[2] = "No Comment Provided"
+		location = ""  # Location
+
+		# Add to markdown file.
+		appender = TableAppender("")
+		appender.append_list(l)
+		print("Appended your quote (w/o source or comment) to the table on Github. Make sure to commit & push!")
+
+	elif len(sys.argv) == 3:  # Quote & Source & Comment
+		l = []
+		l[0] = sys.argv[1]  # Quote
+		l[1] = sys.argv[2]  # Source
+		l[2] = "No Comment Provided"
+		location = ""  # Location
+
+		# Add to markdown file.
+		appender = TableAppender("")
+		appender.append_list(l)
+		print("Appended your quote & source to the table on Github. Make sure to commit & push!")
 	elif len(sys.argv) == 4:  # Quote, Source, and Comment
-		# Ask the user if everything looks right.
-		i = input(
-			"\n===========================\n" + "Quote: " + sys.argv[1] + "\nSource: " + sys.argv[2]
-			+ "\nComment: '" + sys.argv[3] + "' ?  \n Does this look right?: (y/n): ")
-		print("\n===========================\n")
-		if i == "y" or "Y" or "yes":
-			addQuote(sys.argv[1], sys.argv[2], sys.argv[3])
-			print("\nSuccess. Added to: ", Location.INBOX.value)
-		else:
-			print("Ok, I didn't add it.")
-		print("Added!")
+		l = []
+		l[0] = sys.argv[1]  # Quote
+		l[1] = sys.argv[2]  # Source
+		l[2] = sys.argv[3]  # Comment
+		location = ""  # Location
+
+		# Add to markdown file.
+		appender = TableAppender(location)
+		appender.append_list(l)
+		print("Appended your quote & source & comment to the table on Github. Make sure to commit & push!")
 	elif len(sys.argv) == 5:  # Quote, source, comment, and location
-		addQuote(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
-		print("\nSuccess. Added to: ", sys.argv[4])
+		l = []
+		l[0] = sys.argv[1]  # Quote
+		l[1] = sys.argv[2]  # Source
+		l[2] = sys.argv[3]  # Comment
+		location = sys.argv[4]  # Location
+
+		# Add to markdown file.
+		appender = TableAppender(location)
+		appender.append_list(l)
+		print("Appended your quote & source & comment to the table at", location)
