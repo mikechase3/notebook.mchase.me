@@ -308,6 +308,15 @@ Checkout Codecademy's [cheat sheet](https://www.codecademy.com/learn/paths/compu
 
 ![Codecademy&apos;s Summary of String Methods](../../../.gitbook/assets/image%20%281%29.png)
 
+#### String Format
+
+You can insert keywords to make your code more legible.: 
+
+```python
+def favorite_song_statement(song, artist):
+    return "My favorite song is {song_label} by {artist_label}.".format(song_label=song, artist_label=artist)
+```
+
 ## Functions
 
 ### Returning Multiple Values
