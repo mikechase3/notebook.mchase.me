@@ -1,4 +1,4 @@
-# This class handles the whole 'list/string' to markdown functionality. -Mike Chase
+"""This class handles the whole 'list/string' to markdown functionality. -Mike Chase"""
 
 import os.path
 from pathlib import Path
@@ -18,13 +18,20 @@ class TableAppender:
 		----------
 		file_name_and_path : str, optional.
 			Will default to INBOX.md in the parent directory.
+
+		Returns
+		---------
+		None
+			Just an Initializer for the class.
 		"""
 		# Determine file path to write to & save it to File_Path
-		if len(file_name_and_path) < 2:  # Aka if no argument is given. 2 b/c I don't know python well if "" is size(1).
+		if len(file_name_and_path) < 2:  # No location specified? Append it to my Github...
 			current_path = Path("main.py").parent.absolute()
 			parent_path = current_path.parent
-			file_name_and_path = str(parent_path) + "/INBOX.md"  # Located the file we're writing to.
-		self.FILE_PATH = file_name_and_path  # Initialize the global variable.
+			file_name_and_path = str(parent_path) + "/inbox.md"  # Located the file we're writing to.
+			self.FILE_PATH = file_name_and_path
+		else:  # Use location passed in during initialization.
+			self.FILE_PATH = file_name_and_path  # Initialize the global variable.
 
 		# Examine the file.
 		self.FILE_HEADER = [h.replace('|', '') for h in self.FILE_HEADER]
@@ -77,12 +84,7 @@ class TableAppender:
 		-------
 		None
 
-		Warnings
-		-------
-		incorrect_file_exists
-			There's a corner case unresolved. If the file exists, but has an incorrect header,
-			this program won't fix it. It can be fixed by checking the first line matches the list above,
-			but I didn't write that. TODO: check comparison to make sure first line of file matches expected.
+
 		"""
 		# writer = csv.writer(appender, delimiter="|", lineterminator='\n')  # Old, for CSVs only.
 		header_string = "|"
