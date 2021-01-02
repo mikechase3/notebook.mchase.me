@@ -10,5 +10,4 @@ Note to self:
 
 |Quote|Source|Comment|
 | :--- | :--- | :--- |
-   |this is my test quote|my source|my comment|
-   |hello|world|beautiful|
+   |Am I? Because it looks more like I'm putting you to sleep|Unknown|I do this.|

@@ -120,11 +120,11 @@ def text_interface():  # Takes system arguments
 
 def debug_github_path():
 	""" Debugging for github file relative paths only."""
-	print("DEBUGGING: APPLIES TO GITHUB FILE ONLY:")
-	current_path = Path("main.py").parent.absolute()
-	parent_path = current_path.parent
-	file_name_and_path = str(parent_path) + "/inbox.md"  # Located the file we're writing to.
-	file = open(file_name_and_path, "r")
+	# print("DEBUGGING: APPLIES TO GITHUB FILE ONLY:")
+	# current_path = Path("main.py").parent.absolute()
+	# parent_path = current_path.parent
+	# file_name_and_path = str(parent_path) + "/inbox.md"  # Located the file we're writing to.
+	file = open(Location.GITHUB_INBOX_PATH.value, "r")
 	print(file.read())
 
 
