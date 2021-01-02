@@ -115,3 +115,4 @@ class TableAppender:
 			t = self.sanitize_string(t)
 			header_string = " " + header_string + t + "|"
 		self.appender.write("\n" + header_string)
+		print("", end="")

@@ -2,7 +2,7 @@ import os
 import sys
 from enum import Enum
 from interface.TableAppender import TableAppender
-from interface.UserInterface import *
+from interface.UserInterface import UI
 
 class Location(Enum):
 	INBOX = "/Users/mikechase3/Dropbox/Active Documents/Inbox/ForTheWall/QUOTES.csv"  # Mike Chase's default location.
@@ -10,7 +10,7 @@ class Location(Enum):
 
 def launchUI():
 	"""Launch the UI"""
-	# ui = UserInterface()
+	ui = UI()
 
 
 
@@ -124,5 +124,5 @@ if __name__ == '__main__':
 	# print("NumArgs: ", len(sys.argv), end="; ")  # Debugging
 	# print("Argument List: ", str(sys.argv))
 
-	# text_interface()  # TODO: UNDELETE
-	launchUI()
+	text_interface()  # TODO: UNDELETE
+	# launchUI()

@@ -7,7 +7,3 @@ Note to self: omit new line at the bottom. Will screw up program.
 
 |Quote|Source|Comment|
 | :--- | :--- | :--- |
-   |testQuote|testsource|testcomment|
-   |testQuote|testsource|testcomment|
-   |testQuote|testsource|testcomment|
-   |testQuote|testsource|testcomment|
