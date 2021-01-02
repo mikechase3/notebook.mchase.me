@@ -33,7 +33,7 @@ Web pages are text files in plaintext, written as an HTML document.
 
 ![](../../../.gitbook/assets/image%20%28239%29.png)
 
-![](../../../.gitbook/assets/image%20%28243%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/image%20%28243%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ### Documents
 

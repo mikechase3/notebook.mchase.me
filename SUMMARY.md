@@ -2,6 +2,7 @@
 
 * [Mike Chase's Notebook](README.md)
 * [Inbox](inbox.md)
+* [Backlog](backlog.md)
 
 ## Business <a id="psychology"></a>
 

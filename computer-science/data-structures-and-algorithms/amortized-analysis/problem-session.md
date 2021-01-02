@@ -6,7 +6,7 @@
 
 The correct answer is A.
 
-![](../../../.gitbook/assets/image%20%2818%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../../../.gitbook/assets/image%20%2818%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ### 0-1 Knapsack Problem
 
