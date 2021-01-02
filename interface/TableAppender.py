@@ -23,15 +23,27 @@ class TableAppender:
 		---------
 		None
 			Just an Initializer for the class.
+
+		Warnings
+		---------
+			Wrong File Path:
+				Works great in pycharm w/ default configuration. Have ./interface as the working directory.
+
+				This isn't going to be the case most of the time when using terminal, especially since you're supposed
+				to launch it as `python3 -m /../notebook-mchase-me interface.main since you launch from the package.
+
+				A quick/easy fix is to make it a requirement that the file exists and surround it with a try/except.
+				Another way is to use absolute directories which is what I'm using now in the main interface.
 		"""
 		# Determine file path to write to & save it to File_Path
 		if len(file_name_and_path) < 2:  # No location specified? Append it to my Github...
-			current_path = Path("main.py").parent.absolute()
+			current_path = Path("main.py").parent.absolute()  # BUG. Should always get us to notebook-mchase-me, but does not always.
 			parent_path = current_path.parent
 			file_name_and_path = str(parent_path) + "/inbox.md"  # Located the file we're writing to.
 			self.FILE_PATH = file_name_and_path
 		else:  # Use location passed in during initialization.
 			self.FILE_PATH = file_name_and_path  # Initialize the global variable.
+		print("DEBUG_save: Saved to: ", self.FILE_PATH)  # Bug. Sometimes in parent of the entire package, not file!
 
 		# Examine the file.
 		self.FILE_HEADER = [h.replace('|', '') for h in self.FILE_HEADER]

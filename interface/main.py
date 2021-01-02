@@ -1,12 +1,15 @@
 import os
 import sys
 from enum import Enum
+from pathlib import Path
+
 from interface.TableAppender import TableAppender
 from interface.UserInterface import UI
 
 class Location(Enum):
 	INBOX = "/Users/mikechase3/Dropbox/Active Documents/Inbox/ForTheWall/QUOTES.csv"  # Mike Chase's default location.
 	CURRENT_PATH = str(os.path) + "output.csv"
+	GITHUB_INBOX_PATH = "/Users/mikechase3/Dropbox/Active Documents/16th Grade/Personal/Git Repositories/Notebook/notebook-mchase-me/inbox.md"
 
 def launchUI():
 	"""Launch the UI"""
@@ -76,29 +79,29 @@ def text_interface():  # Takes system arguments
 	# TODO: Keep Running?
 	elif len(sys.argv) == 2:  # Quote only.
 		l = [sys.argv[1], "No Source Provided", "No Comment Provided"]
-		location = ""  # Location
+		location = Location.GITHUB_INBOX_PATH.value  # Location. BUG: Should be relative.
 
 		# Add to markdown file.
-		appender = TableAppender("")
+		appender = TableAppender(location)
 		appender.append_list(l)
 		print("Appended your quote (w/o source or comment) to the table on Github. Make sure to commit & push!")
 
 	elif len(sys.argv) == 3:  # Quote & Source & Comment
 		l = [sys.argv[1], sys.argv[2], "No Comment Provided"]
-		location = ""  # Location
-
-		# Add to markdown file.
-		appender = TableAppender("")
-		appender.append_list(l)
-		print("Appended your quote & source to the table on Github. Make sure to commit & push!")
-	elif len(sys.argv) == 4:  # Quote, Source, and Comment
-		l = [sys.argv[1], sys.argv[2], sys.argv[3]]
-		location = ""  # Location
+		location = Location.GITHUB_INBOX_PATH.value  # Location. BUG: Should be relative.
 
 		# Add to markdown file.
 		appender = TableAppender(location)
 		appender.append_list(l)
-		print("Appended your quote & source & comment to the table on Github. Make sure to push manually for now!")
+		print("Appended your quote & source to the table on Github. Make sure to commit & push!")
+	elif len(sys.argv) == 4:  # Quote, Source, and Comment
+		l = [sys.argv[1], sys.argv[2], sys.argv[3]]
+		location = Location.GITHUB_INBOX_PATH.value  # Location. BUG: Should be relative.
+
+		# Add to markdown file.
+		appender = TableAppender(location)
+		appender.append_list(l)
+		print("Success")
 	# git_mgr = GitManager("this does noting ignore me")
 	# git_mgr.update_repo(git_mgr)
 	# print("Maybe it pushed?")
@@ -111,7 +114,18 @@ def text_interface():  # Takes system arguments
 		# Add to markdown file.
 		appender = TableAppender(location)
 		appender.append_list(l)
-		print("Appended your quote & source & comment to the table at", location)
+		print("Saved")
+	debug_github_path()
+
+
+def debug_github_path():
+	""" Debugging for github file relative paths only."""
+	print("DEBUGGING: APPLIES TO GITHUB FILE ONLY:")
+	current_path = Path("main.py").parent.absolute()
+	parent_path = current_path.parent
+	file_name_and_path = str(parent_path) + "/inbox.md"  # Located the file we're writing to.
+	file = open(file_name_and_path, "r")
+	print(file.read())
 
 
 if __name__ == '__main__':
@@ -121,8 +135,8 @@ if __name__ == '__main__':
 	@:arg[2]: The comment
 	@:arg[3]: The file location
 	"""
-	# print("NumArgs: ", len(sys.argv), end="; ")  # Debugging
-	# print("Argument List: ", str(sys.argv))
+	print("DEBUG_NumArgs: ", len(sys.argv), end="; ")  # Debugging
+	print("DEBUG_Argument List: ", str(sys.argv))
 
 	text_interface()  # TODO: UNDELETE
 	# launchUI()
