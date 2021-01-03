@@ -355,6 +355,12 @@ song = repeat_stuff(lyrics)
 print(song) #Repeats 10 times because it uses the default value.
 ```
 
+### [Lambda Functions](https://www.youtube.com/watch?v=25ovCm9jKfA)
+
+![Source: Socratica. My Favorite Beginner Python Series of 2020.](../../../.gitbook/assets/image%20%2816%29.png)
+
+![Source: Socratica. My Favorite Beginner Python Series of 2020.](../../../.gitbook/assets/image%20%2818%29.png)
+
 ## Expressions
 
 ### Booleans
