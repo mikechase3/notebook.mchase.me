@@ -61,7 +61,6 @@
     * [Language Crash Course](computer-science/languages-and-architectures/python/python-crash-course.md)
     * [Codecademy Cheatsheets](computer-science/languages-and-architectures/python/codecademy-cheatsheets.md)
     * [PEP 8 Style Guide](computer-science/languages-and-architectures/python/pep-8-style-guide.md)
-    * [Annotation: Types and Functions](computer-science/languages-and-architectures/python/annotation-types-and-functions.md)
     * [User input](computer-science/languages-and-architectures/python/user-input.md)
     * [Numbers](computer-science/languages-and-architectures/python/numbers.md)
     * [Boolean Logic](computer-science/languages-and-architectures/python/boolean-logic.md)

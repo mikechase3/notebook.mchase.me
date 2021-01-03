@@ -578,5 +578,59 @@ print(attractions)  # [[], [], [], [], []]
   </tbody>
 </table>
 
+## User Input
+
+* The `input()` function reads a line from the user and returns it in a program as a string.
+
+```python
+user_name = input()
+print("Hello, " + user_name) #You don't need to cast this, already str.
+```
+
+### Specify Clear Messages
+
+* State clearly the type of input we expect from our user.
+* The `input()` function takes an optional argument, a message.
+
+```python
+user_name = input("Please, enter your name: ")
+print("Hello, " + user_name)
+
+# The user will see this:
+Please, enter your name: Sauron
+Hello, Sauron
+```
+
+### Type Check
+
+You can check that a value works by typecasting it or using the type function to check if the type is equal to the expected type; however, the latter isn't recommended because of a corner case of "4" and "4.0" and the user won't know better. If you choose the ladder, just use an 'or' to make sure that it's a float/int and cast it over to what it needs to be. Actually, that's probably best now that I. think about it.
+
+* If the user doesn't enter any input, the program will not execute any further.
+* All input is always type `str`. You have to cast it if you want anything else:
+* _An error will appear_ if the user enters a value that cannot be converted.
+
+```python
+print("What's your favorite number?")
+value = int(input()) # now, the value keeps an integer number. 
+```
+
+## Command Line Arguments
+
+Below is a snippet of something I wrote when I had to figure this out the first time.
+
+```python
+def main(): # function, method are the same
+    host = "www.google.com"
+
+    # Check Command Line Input to make sure some stuff was entered.
+    print("Number of arguments: " + str(len(sys.argv)) + " arguments")
+    if (1 == len(sys.argv)):
+        print("You didn't specify a host name, so we're using Google")
+    else:
+        host = sys.argv.__getitem__(1)
+        print("The host you specified was: " + host)
+    print("===============================================\nNow commencing Dr. Yao's Code... \n")
+```
+
 
 
