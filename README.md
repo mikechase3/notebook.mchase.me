@@ -4,13 +4,13 @@ description: See the table of contents.
 
 # Mike Chase's Notebook
 
-## 
-
 ## Business
 
-This should now say toc.
+Working on it...
 
 ## Career
+
+Also working on it.
 
 ## Communication
 
