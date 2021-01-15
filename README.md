@@ -92,7 +92,7 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 ## Health
 
-* [DareBee](https://darebee.com/) has a huge collection of workout resources.
+* [DareBee](https://darebee.com/) has a huge collection of workout and health infographics.
 
 ## Marketing
 
