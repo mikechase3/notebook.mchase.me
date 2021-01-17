@@ -18,8 +18,10 @@
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
+* [Information Ethics](career/information-ethics.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
+* [Secure App Development](career/secure-app-development.md)
 
 ## Communication
 
