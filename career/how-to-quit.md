@@ -1,4 +1,4 @@
-# How To Quit
+# Quitting
 
 {% hint style="danger" %}
 This is not my work, see [candor.co](https://candor.co/guides/how-to-quit)

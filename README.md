@@ -27,11 +27,27 @@ How do we decide on victors, victims? Who wins and who loses?
 ## Career
 
 {% tabs %}
-{% tab title="CompSci" %}
+{% tab title="CompSci Management" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Feedback" %}
+
+{% endtab %}
+
+{% tab title="Goals" %}
+
+{% endtab %}
+
+{% tab title="Graduate School" %}
+
+{% endtab %}
+
+{% tab title="Quitting" %}
+
+{% endtab %}
+
+{% tab title="Salary Negotiation" %}
 
 {% endtab %}
 {% endtabs %}

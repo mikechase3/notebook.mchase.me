@@ -14,11 +14,11 @@
 
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
+* [Goal Setting](career/goal-setting.md)
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
-* [Goal Setting](career/goal-setting.md)
-* [How To Quit](career/how-to-quit.md)
+* [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 
 ## Communication
