@@ -25,6 +25,7 @@
 
 ## Communication
 
+* [Cone of Learning](communication/cone-of-learning.md)
 * [Ideation](communication/ideation.md)
 * [Habitual and Sensitization](communication/habitual-and-sensitization.md)
 * [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
