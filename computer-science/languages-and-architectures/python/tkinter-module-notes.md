@@ -19,5 +19,19 @@ description: Personal notes and examples all about tkinter.
 
 ## Random
 
+## TKinter
+
+### Comprehensive Guide
+
+{% embed url="https://users.tricity.wsu.edu/~bobl/cpts481/tkinter\_nmt.pdf" %}
+
+
+
+### Dropdown Menus
+
+{% embed url="https://www.youtube.com/watch?v=PSm-tq5M-Dc&t=329s" %}
+
+
+
 
 
