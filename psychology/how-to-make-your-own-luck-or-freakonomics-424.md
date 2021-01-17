@@ -1,10 +1,11 @@
 ---
 description: >-
-  Because life is a game of incomplete information, where you never know
-  everything, you can control how you play in poker, and in life.
+  Deciding on Uncertainty, Locus of Control, Victors, Victims Because life is a
+  game of incomplete information, where you never know everything, you can
+  control how you play in poker, and in life.
 ---
 
-# Deciding on Uncertainty, Locus of Control, Victors, Victims
+# Uncertainty
 
 ## Synopsis
 

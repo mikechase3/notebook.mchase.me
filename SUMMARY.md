@@ -7,22 +7,19 @@
 ## Business <a id="psychology"></a>
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
-* [Deciding on Uncertainty, Locus of Control, Victors, Victims](psychology/how-to-make-your-own-luck-or-freakonomics-424.md)
 * [Economics](psychology/economics.md)
+* [Uncertainty](psychology/how-to-make-your-own-luck-or-freakonomics-424.md)
 
 ## Career
 
+* [CompSci Management Practices](career/lecture-01-course-overview.md)
+* [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
-* [Computer Science Capstone](career/computer-science-capstone/README.md)
-  * [Lecture 01: Course overview](career/computer-science-capstone/lecture-01-course-overview.md)
-  * [Lecture 02: Git & Trello](career/computer-science-capstone/lecture-02-git-and-trello.md)
-* [Salary Negotiation](career/salary-negotiation.md)
-* [How To Quit](career/how-to-quit.md)
-* [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
-* [Better Meeting Tools](career/better-meeting-tools.md)
 * [Goal Setting](career/goal-setting.md)
+* [How To Quit](career/how-to-quit.md)
+* [Salary Negotiation](career/salary-negotiation.md)
 
 ## Communication
 
@@ -57,7 +54,8 @@
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [Python](computer-science/languages-and-architectures/python/README.md)
     * [Personal Notes](computer-science/languages-and-architectures/python/personal-notes.md)
-    * [Resources](computer-science/languages-and-architectures/python/resources.md)
+    * [TKinter Module Notes](computer-science/languages-and-architectures/python/tkinter-module-notes.md)
+    * [External Resources](computer-science/languages-and-architectures/python/resources.md)
     * [Language Crash Course](computer-science/languages-and-architectures/python/python-crash-course.md)
     * [Codecademy Cheatsheets](computer-science/languages-and-architectures/python/codecademy-cheatsheets.md)
     * [PEP 8 Style Guide](computer-science/languages-and-architectures/python/pep-8-style-guide.md)
@@ -206,7 +204,4 @@
 ## Personal Essays
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
-* [The Most Boring Article about Libertarian Advertising You'll Ever Read](personal-essays/the-most-boring-article-about-libertarian-advertising-youll-ever-read.md)
-* [Microwaves: The Weapon of Mass Destruction](personal-essays/microwaves-the-weapon-of-mass-destruction.md)
-* [How Propaganda Works](personal-essays/how-propaganda-works.md)
 

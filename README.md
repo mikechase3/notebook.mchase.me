@@ -6,11 +6,35 @@ description: See the table of contents.
 
 ## Business
 
-Working on it...
+{% tabs %}
+{% tab title="Cognitive Biases" %}
+I want to study this more. How do cognitive biases play a role in our lives?
+{% endtab %}
+
+{% tab title="Economics" %}
+I took an economics course during my undergrad; it was super interesting and I want to remember concepts so I can apply them to my life.
+{% endtab %}
+
+{% tab title="Uncertainty" %}
+How do we decide on victors, victims? Who wins and who loses? 
+
+{% embed url="https://freakonomics.com/podcast/konnikova-biggest-bluff/" %}
+{% endtab %}
+{% endtabs %}
+
+
 
 ## Career
 
-Also working on it.
+{% tabs %}
+{% tab title="CompSci" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 ## Communication
 
@@ -70,6 +94,10 @@ MyPy is a Python static type checker. This will force you to make sure your code
 [Stepik](https://stepik.org/catalog) contains a collection of medium and low quality courses. It's like Jetbrains Academy, but include lots of free courses. I would recommend paying for a different service instead, with an exception being the Java challenges.
 
 {% embed url="https://stepik.org/catalog" caption="" %}
+
+#### TKinter
+
+Tkinter is a GUI for python. It's widely supported and built-into Python.
 
 ### Linux
 
