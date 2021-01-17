@@ -111,9 +111,13 @@ MyPy is a Python static type checker. This will force you to make sure your code
 
 {% embed url="https://stepik.org/catalog" caption="" %}
 
-#### TKinter
+#### TKinter \(Python\)
 
 Tkinter is a GUI for python. It's widely supported and built-into Python.
+
+{% embed url="https://users.tricity.wsu.edu/~bobl/cpts481/tkinter\_nmt.pdf" %}
+
+
 
 ### Linux
 
