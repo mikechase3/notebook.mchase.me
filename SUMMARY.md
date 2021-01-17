@@ -57,7 +57,7 @@
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [Python](computer-science/languages-and-architectures/python/README.md)
     * [Personal Notes](computer-science/languages-and-architectures/python/personal-notes.md)
-    * [TKinter Module Notes](computer-science/languages-and-architectures/python/tkinter-module-notes.md)
+    * [Modules](computer-science/languages-and-architectures/python/tkinter-module-notes.md)
     * [External Resources](computer-science/languages-and-architectures/python/resources.md)
     * [Language Crash Course](computer-science/languages-and-architectures/python/python-crash-course.md)
     * [Codecademy Cheatsheets](computer-science/languages-and-architectures/python/codecademy-cheatsheets.md)
