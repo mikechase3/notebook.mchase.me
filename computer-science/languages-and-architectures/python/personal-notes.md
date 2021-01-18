@@ -582,6 +582,28 @@ print(attractions)  # [[], [], [], [], []]
   </tbody>
 </table>
 
+## Dictionaries
+
+* **General Syntax:** `my_dictionary = {key: value, key: value}` 
+* Keys must be immutable. Aka no lists.
+
+{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-dictionaries/cheatsheet" %}
+
+#### Add a Key
+
+
+
+#### Update a Key
+
+```python
+locations['Paris'] = 100
+locations.update({"London": 75})
+locations.update({"New York": 83, "Vancouver" : 110})
+
+print(locations)
+# {'Paris': 100, 'London': 75, 'New York': 83, 'Vancouver': 110}
+```
+
 ## User Input
 
 * The `input()` function reads a line from the user and returns it in a program as a string.
