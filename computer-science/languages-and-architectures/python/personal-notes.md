@@ -2,6 +2,12 @@
 
 ## Naming Conventions
 
+{% embed url="https://www.python.org/dev/peps/pep-0008/\#id34" %}
+
+{% page-ref page="pep-8-style-guide.md" %}
+
+
+
 * Variables are lowercase.
 * Classes are uppercase.
 
@@ -414,7 +420,7 @@ value = int(input()) # now, the value keeps an integer number.
 
 ## Command Line Arguments
 
-Below is a snippet of something I wrote when I had to figure this out the first time.
+* Arguments passed in through the command line come in as a tuple.
 
 ```python
 def main(): # function, method are the same
@@ -429,6 +435,8 @@ def main(): # function, method are the same
         print("The host you specified was: " + host)
     print("===============================================\nNow commencing Dr. Yao's Code... \n")
 ```
+
+## Classes
 
 
 

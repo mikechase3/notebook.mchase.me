@@ -1,5 +1,9 @@
 # PEP 8 Style Guide
 
+{% embed url="https://www.python.org/dev/peps/pep-0008/\#id34" %}
+
+
+
 ## Purpose
 
 * Explain how to write code that's clean & easy to read.

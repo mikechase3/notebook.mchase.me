@@ -8,6 +8,9 @@ description: >-
 
 ## Data Types
 
+* We can check what type a variable is by calling `type()` on it.
+* For example, `type("hello")` will return that it's the type string.
+
 [Works cited: w3schools.com: Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
 | Example | Data Type | Try it |
