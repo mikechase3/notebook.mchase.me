@@ -457,6 +457,8 @@ Use `def __init()__:` within the class to make a constructor.
 
 ### Attribute Functions
 
+* You can examine an object's attributes at runtime by using `dir(ur_object)`
+
 > ```python
 > class NoCustomAttributes:
 >   pass
@@ -505,7 +507,22 @@ Use `def __init()__:` within the class to make a constructor.
 >
 > _\(Source: Codecademy, Python Programming Course\)_
 
+### String Representation: \_\_repr\_\_\(\)
 
+* To have a default string representation of an object, use `__repr(self)__:`
+
+```python
+class Employee():
+  def __init__(self, name):
+    self.name = name
+ 
+  def __repr__(self):
+    return self.name
+ 
+argus = Employee("Argus Filch")
+print(argus)
+# prints "Argus Filch"
+```
 
 
 
