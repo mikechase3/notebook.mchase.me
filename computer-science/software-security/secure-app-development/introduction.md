@@ -12,7 +12,7 @@
 
 * We're going to be developing applications. 
 
-![](../../../.gitbook/assets/image%20%2866%29.png)
+![](../../../.gitbook/assets/image%20%2868%29.png)
 
 ## Attacks
 
@@ -25,7 +25,19 @@
 * Previously, a security team would test and improve an application.
 * Nowawadays, the developer is responsible for security, called the _Secure Development Life Cycle_
 
-![](../../../.gitbook/assets/image%20%2867%29.png)
+![](../../../.gitbook/assets/image%20%2869%29.png)
 
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
+## Contact Information
+
+![](../../../.gitbook/assets/image%20%2871%29.png)
+
+* TA: Chaitanya Ballipalli
+* MCS Student
+* He holds regular office hours.
+
+## Homework
+
+![](../../../.gitbook/assets/image%20%2866%29.png)
 

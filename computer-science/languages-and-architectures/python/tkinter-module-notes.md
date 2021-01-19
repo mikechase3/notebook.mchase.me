@@ -93,7 +93,7 @@ cost_of_transaction = cost_of_gum + cost_of_gumdrop
 
 If all goes to plan, you'll see a plot produced with the dataset.
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 ## Pipenv
 
