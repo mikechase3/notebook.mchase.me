@@ -1,5 +1,11 @@
 # Integrators and Compilers
 
+## Concepts and Implementations of Languages
+
+* Office hours are by appointment only.
+* Ask the difference between abstract types and static methods.
+* Homework: read chapter 1.
+* 
 ## Topics
 
 ![](../../.gitbook/assets/image%20%2881%29.png)
