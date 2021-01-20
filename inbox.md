@@ -9,6 +9,11 @@ Note to self:
 * omit new line at the bottom. Will screw up program.
 * Usage: `python3 -m interface.main "this is my test quote" "my source" "my comment" "my_location.md"`
 * Make sure you launch from the package \(notebook-mchase-me\), not the interface directory.
+* How Bizzare, to UDayton TikTok
+
+### Resources
+
+* FlashPoint
 
 | Quote | Source | Comment |
 | :--- | :--- | :--- |
