@@ -115,7 +115,7 @@
     * [NP Reductions and Applications \(L22\)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
 * [Linux](computer-science/linux/README.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
-  * [Untitled](computer-science/linux/untitled.md)
+  * [Getting Started](computer-science/linux/untitled.md)
 * [Software Security](computer-science/software-security/README.md)
   * [Secure App Development](computer-science/software-security/secure-app-development/README.md)
     * [Introduction](computer-science/software-security/secure-app-development/introduction.md)
