@@ -1,5 +1,10 @@
 # Information Ethics
 
+## Megan Edmonds
+
+* She teaches economics and morality.
+* Also business ethics.
+
 ## Overview
 
 “Technology is neither good nor bad; nor is it neutral.” ~Melvin Kranzberg’s first law of technology
@@ -21,4 +26,10 @@ This course will begin by introducing a few ways of discerning right from wrong.
 9. Professional Codes of Ethics
 10. Confidentiality
 11. Ethics & Humor
+
+## Theory
+
+* Aristotle
+* 
+
 
