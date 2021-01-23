@@ -212,6 +212,16 @@
 * [Marketing: Framing, Conformity, Cognitive Dissonance](marketing/programiz-how-we-use-psychology-to-market-our-products.md)
 * [Untitled](marketing/untitled.md)
 
+## Music
+
+* [Theory](music/theory/README.md)
+  * [Rhythm and Meter](music/theory/rhythm-and-meter.md)
+  * [Scales and Key Signatures](music/theory/scales-and-key-signatures.md)
+  * [Intervals](music/theory/intervals.md)
+  * [Chords](music/theory/chords.md)
+  * [Diatonic Chords](music/theory/diatonic-chords.md)
+  * [Chord Progressions](music/theory/chord-progressions.md)
+
 ## Personal Essays
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)

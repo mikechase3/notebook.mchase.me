@@ -146,6 +146,12 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 * Canva has some awesome marketing tools. You can get a free 12-month subscription with the Github Student pack.
 
+## Music
+
+{% embed url="https://www.musictheory.net/" %}
+
+
+
 ## Personal Essays
 
 ## Professional Development
