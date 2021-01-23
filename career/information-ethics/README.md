@@ -1,5 +1,11 @@
 # Information Ethics
 
+## Resources
+
+{% embed url="http://www.philosophypages.com/index.htm" %}
+
+
+
 ## Megan Edmonds
 
 * She teaches economics and morality.
