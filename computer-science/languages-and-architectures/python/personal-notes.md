@@ -216,8 +216,6 @@ print(6**4) #6^4
 
 ```python
 favorite_fruit = 'blueberry'
-print(favorite_fruit[-1])
-# => 'y'
  
 print(favorite_fruit[-2])
 # => 'r'
@@ -229,10 +227,6 @@ print(favorite_fruit[-3:])
 
 
 ### Concatenation
-
-{% hint style="warning" %}
-This one always gets me.
-{% endhint %}
 
 You can't add non-strings to strings.
 
@@ -291,6 +285,8 @@ print("a" in "blueberry")
 ```
 
 ### String Methods
+
+{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/cheatsheet" %}
 
 * `.upper()`, `.title()`, and `.lower()` adjust the casing of your string.
 * `.split()` takes a string and creates a list of substrings.
@@ -523,6 +519,10 @@ argus = Employee("Argus Filch")
 print(argus)
 # prints "Argus Filch"
 ```
+
+## Generators
+
+{% embed url="https://www.youtube.com/watch?v=bD05uGo\_sVI" %}
 
 
 
