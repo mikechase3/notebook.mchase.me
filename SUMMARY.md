@@ -70,7 +70,7 @@
     * [Swift Cheat Sheet](computer-science/languages-and-architectures/ios-and-swift/swift-cheat-sheet-1.md)
   * [Regex Expressions](computer-science/languages-and-architectures/regex-expressions.md)
   * [HTML CSS](computer-science/languages-and-architectures/html-css.md)
-  * [Integrators and Compilers](computer-science/languages-and-architectures/integrators-and-compilers.md)
+  * [Concepts & Implementations](computer-science/languages-and-architectures/integrators-and-compilers.md)
   * [MIPS](computer-science/languages-and-architectures/mips.md)
 * [Data Structures & Algorithms](computer-science/data-structures-and-algorithms/README.md)
   * [CPS 350 Miscellaneous](computer-science/data-structures-and-algorithms/untitled.md)
