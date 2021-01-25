@@ -332,6 +332,9 @@ for company, value in biggest_brands.items():  # Key, Value in dictionary.ITEMS(
 ## Heaps
 
 * Use these if you have to implement some sort-of priority queue.
+* My favorite resource is 1.5 from _The Python Cookbook \(below\)._
+
+{% embed url="https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/ch01.html" %}
 
 {% embed url="https://docs.python.org/3/library/heapq.html" %}
 
