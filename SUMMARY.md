@@ -58,7 +58,7 @@
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [Python](computer-science/languages-and-architectures/python/README.md)
     * [Python Basics](computer-science/languages-and-architectures/python/personal-notes.md)
-    * [Lists and Dictionaries](computer-science/languages-and-architectures/python/lists-and-dictionaries.md)
+    * [Lists, Dict, Set, Heaps](computer-science/languages-and-architectures/python/lists-and-dictionaries.md)
     * [Classes and Inheritance](computer-science/languages-and-architectures/python/classes-and-inheritance.md)
     * [Modules](computer-science/languages-and-architectures/python/tkinter-module-notes.md)
     * [External Resources](computer-science/languages-and-architectures/python/resources.md)

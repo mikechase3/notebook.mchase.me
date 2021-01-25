@@ -4,7 +4,7 @@ description: >-
   new page.
 ---
 
-# Lists and Dictionaries
+# Lists, Dict, Set, Heaps
 
 ## Data Types
 
@@ -323,6 +323,19 @@ biggest_brands = {"Apple": 184, "Google": 141.7, "Microsoft": 80, "Coca-Cola": 6
 for company, value in biggest_brands.items():  # Key, Value in dictionary.ITEMS()
   print(company + " has a value of " + str(value) + " billion dollars. ")
 ```
+
+## Sets
+
+* Sets are basically dictionaries, but just without keys and values. Just include values.
+* Defined using `{something, something_else}`
+
+## Heaps
+
+* Use these if you have to implement some sort-of priority queue.
+
+{% embed url="https://docs.python.org/3/library/heapq.html" %}
+
+{% embed url="https://docs.python.org/3/library/heapq.html" %}
 
 
 
