@@ -22,5 +22,15 @@
 * **Intrinsic:** good for its own sake, not for something else. _ie. friendship._
 * _**Eudaemonia**: Never instrumental, always intrinsic._
 
-##   Another new heading..   New Heading Why are you making me 
+### Types of Virtue
+* **Intellectual Virtues:** are a result of teaching.
+* **Moral Virtues:** are a result of habit and how we choose to live our lives. (Habit involves human choice, not being passive).
 
+### Defining Moral Virtue (Book 2, Secion 6)
+* Airstotle makes this argument very carefully.
+* Aristotle categorizes groups. (His favorite animal was the cuddlefish).
+
+### The Function Argument (Book 1 Section 7)
+* The _good and well_ is though to reside in the function -> man has function.
+* There remains the active life of the element that has a rational principle.
+* A virtue is good if it is performed by a good rational man in an excellent manner.
