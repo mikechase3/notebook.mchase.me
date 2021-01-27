@@ -12,3 +12,15 @@ O
 ----  
 Now for some live testing. 
 
+
+
+## With No Extensions
+
+* It works perfectly.
+* Wow!.
+* What could be the problem?
+
+That OR... it could be something with my cookies?
+
+
+
