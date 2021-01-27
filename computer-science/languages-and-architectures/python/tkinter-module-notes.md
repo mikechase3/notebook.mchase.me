@@ -70,6 +70,8 @@ date_string = datetime.strftime(datetime.now(), '%b %d, %Y')
 
 ## Decimal
 
+* `random.choice()` takes a list as an argument and picks one.
+* `random.randint()` takes 2 numbers as arguments and returns an int between the two.
 * **Purpose**: Perform decimal arithmetic more accurately.
 * **Import**: `from decimal import Decimal`
 * **Usage:** 

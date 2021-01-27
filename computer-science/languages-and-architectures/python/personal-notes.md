@@ -383,6 +383,12 @@ raises_value_error()
 * The `input()` function reads a line from the user and returns it in a program as a string.
 
 ```python
+new_list = [what_will_replace_i for i in some_list_or_range]
+```
+
+Let’s say we have scraped a certain website and gotten these words:
+
+```python
 user_name = input()
 print("Hello, " + user_name) #You don't need to cast this, already str.
 ```
