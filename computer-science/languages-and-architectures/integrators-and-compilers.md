@@ -32,9 +32,23 @@ description: CPS 352 Equivalent.
 4. Python
 5. **Racket**, a functional language of scheme. It has an open source IDE called Dr. Racket
 
-## Pure Interpretation
+## Introduction to Programming Languages
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+### Hybrid Implementation Systems
 
-* No translation to machine code is required. Debugging and transplanting are easy.
+* They are trade-offs between compiled and interperted environments.
+* A translation to intermediate code is required before running.
+* Easy transplanting
+* Applicability of code optimization?
+* **Disadvantages:** More costly than pure compiled languages & debuggins is not easy.
+
+{% hint style="warning" %}
+What is transplanting? Does that just mean it's easy to move from one system to another? What about 'Applicability of code optimization?'
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%2870%29.png)
+
+### Programming Paradigms
+
+
 

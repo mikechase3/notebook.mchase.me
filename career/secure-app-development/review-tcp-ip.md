@@ -4,7 +4,7 @@
 * **Protocol Stack**: Application, transport, network, link, physical layers make up the stack.
 * **OSI Model**: 
 
-![OSI vs. TCP Models. Source: Dr. Phu Phung&apos;s SAD Course; Lecture 3.](../../.gitbook/assets/image%20%2870%29.png)
+![OSI vs. TCP Models. Source: Dr. Phu Phung&apos;s SAD Course; Lecture 3.](../../.gitbook/assets/image%20%28120%29.png)
 
 
 
