@@ -20,7 +20,25 @@ Now for some live testing.
 * Wow!.
 * What could be the problem?
 
+That OR... it could be something with my cookies?
 
+
+
+## Safari Issue
+
+* `CMD + '/'` only turns the status bar on/off.
+* I'm doing a time lapse, so it might not appear.
+* But in the bottom left, a message that says 'status bar is on' appears when you use the shortcut.
+
+{% hint style="info" %}
+But sometimes... it works. I don't know what I just did!
+{% endhint %}
+
+{% hint style="danger" %}
+Now it's doing both. It'll launch more menus & turn the status bar on/off.
+{% endhint %}
+
+## Back to Brave...
 
 
 
