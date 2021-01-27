@@ -6,7 +6,7 @@
 
 ## Setup
 
-* Dr.Racket is the IDE we will use.
+* Dr.Racket is the ID E we will use.
 * Racket is a dialect of scheme, so the syntax contains the Scheme syntax.
 
 ## 
