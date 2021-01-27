@@ -40,5 +40,14 @@ Now it's doing both. It'll launch more menus & turn the status bar on/off.
 
 ## Back to Brave...
 
+* Now Brave just worked all the sudden. W  Nope. Nevermind.  I spoke too soon.  Time to disable extensions...   Let's see if that's the culpret.
 
+## Yes
 
+* It was
+* Now it works normally.
+* Wow.
+
+### Always blame the extensions.
+
+* 
