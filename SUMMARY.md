@@ -22,7 +22,8 @@
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
-* [Secure App Development](career/secure-app-development.md)
+* [Secure App Development](career/secure-app-development/README.md)
+  * [Review: TCP/IP](career/secure-app-development/review-tcp-ip.md)
 
 ## Communication
 
