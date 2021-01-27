@@ -158,5 +158,5 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 * BigInterview helps you develop your charismatic skills, but tailored to responding to interviews. 
 * [Jobscan](https://www.jobscan.co/) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
-* Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.  
+* Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.
 
