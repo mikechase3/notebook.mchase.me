@@ -54,11 +54,11 @@
 ## Computer Science
 
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
+  * [Bash](computer-science/languages-and-architectures/bash.md)
   * [Java](computer-science/languages-and-architectures/java/README.md)
     * [Resources](computer-science/languages-and-architectures/java/resources.md)
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [Python](computer-science/languages-and-architectures/python/README.md)
-    * [Bash](computer-science/languages-and-architectures/python/bash.md)
     * [Python Basics](computer-science/languages-and-architectures/python/personal-notes.md)
     * [Lists, Dict, Set, Heaps](computer-science/languages-and-architectures/python/lists-and-dictionaries.md)
     * [Classes and Inheritance](computer-science/languages-and-architectures/python/classes-and-inheritance.md)
