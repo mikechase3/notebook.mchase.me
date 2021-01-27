@@ -10,20 +10,37 @@ description: CPS 352 Equivalent.
 * Ask the difference between abstract types and static methods.
 * Homework: read chapter 1.
 
-### Topics
+{% tabs %}
+{% tab title="Schedule" %}
+
 
 ![](../../.gitbook/assets/image%20%2881%29.png)
+{% endtab %}
 
-### What We'll Learn
+{% tab title="Topics" %}
+### What we'll Study
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+* Compiled vs. Interpreted Languages
+  * What are the advantages/disadvantages?
+* Formal languages & grammar
+  * How to define syntax.
+  * What is the right way to write a statement?
+* Scanning and Parsing \(Semantics\)
+  * How to recognize some statements
+  * How do you integrate statements?
+  * How can we execute a statement?
+* Binding & Scope
+  * How do we define variables?
+* Types
+  * How do we associate those variables with types?
+* Local binding & Conditional Evaluation?
+  * How can we evaluate expressions?
+* Functions and closures
+  * How can we explain and integrate sub-procedures?
+* Functional Programming \(Scheme\)
+{% endtab %}
 
-* Regex Expressions
-* Make your own programming languages
-* Compiled v. Interpreted languages and their comparative advantages/disadvantages.
-  * Compiled has higher performance, but is harder to debug.
-  * Running environments, syntax/semantics, and code syntax paradigms.
-
+{% tab title="Languages We\'ll Learn" %}
 ### Languages We'll Learn
 
 1. Fortran 77
@@ -31,24 +48,188 @@ description: CPS 352 Equivalent.
 3. Java
 4. Python
 5. **Racket**, a functional language of scheme. It has an open source IDE called Dr. Racket
+{% endtab %}
+{% endtabs %}
 
-## Introduction to Programming Languages
 
-### Hybrid Implementation Systems
 
-* They are trade-offs between compiled and interperted environments.
-* A translation to intermediate code is required before running.
+## Languages Introduction
+
+### Comparing Programming Languages
+
+{% tabs %}
+{% tab title="Pure" %}
+#### What is Pure Interpretation
+
+* The source code is run directly by an interpreter.
+
+#### Advantages
+
+* No translation is required before running
+* Easy debugging
 * Easy transplanting
-* Applicability of code optimization?
-* **Disadvantages:** More costly than pure compiled languages & debuggins is not easy.
 
-{% hint style="warning" %}
-What is transplanting? Does that just mean it's easy to move from one system to another? What about 'Applicability of code optimization?'
-{% endhint %}
+#### Disadvantages
+
+* More resource costly.
+* Slow Execution
+
+#### Examples
+
+* Python
+* Matlab
+
+![](../../.gitbook/assets/image%20%28160%29.png)
+{% endtab %}
+
+{% tab title="Hybrid" %}
+#### What is it?
+
+* A tradeoff between pure compiled languages and pure interpreted languages.
+* It uses a virtual machine.
+
+#### Advantages
+
+* Good efficiency.
+* Easy transplanting: _runs on different operating systems easily. Doesn't require recompiling._
+
+#### Disadvantages
+
+* More costly than pure compiled languages.
+* Debugging is slightly easier than compiled languages, but not as good as pure languages.
+* A translation to intermediate code is required before running.
+
+#### Examples
+
+* Java
+* .NET languages
 
 ![](../../.gitbook/assets/image%20%2870%29.png)
+{% endtab %}
 
-### Programming Paradigms
+{% tab title="Compiled" %}
+#### What are they?
+
+#### Advantages
+
+#### Disadvantages
+
+#### Examples
+
+* C/C++
+{% endtab %}
+{% endtabs %}
+
+### Programming paradigms
+
+{% tabs %}
+{% tab title="Procedual" %}
+#### Characteristics
+
+* FORTRAN, Pascal, C.
+
+#### Advantages
+
+#### Disadvantages
+
+#### Examples
+
+* FORTRAN, Pascal, C.
+{% endtab %}
+
+{% tab title="Object Oriented" %}
+#### Characteristics
+
+#### Advantages
+
+#### Disadvantages
+
+#### Examples
+
+* Smalltalk \(Academia\)
+* C++ / Java
+{% endtab %}
+
+{% tab title="Functional" %}
+#### Characteristics
+
+* **Languages**: LISP, Scheme, Haskell, Racket \(dialect of Scheme\).
+* The design tries to minimize the syntax content _e.g. no main method, class keyword, virtual, static to make your program very simple and concise._
+* When you remove these, it makes your program harder to read.
+* Most of these programs look like math formulas but their definitions are \(too\) simple and concise. 
+
+#### Advantages
+
+* Less syntax.
+* Concise.
+
+#### Disadvantages
+
+* Everything looks like math formulas.
+* No english-looking language.
+* Hard to read.
+* Scheme is an exception, but loops are typically handled with recursions because in formal mathematics, loops are handled by recursion.
+
+#### Examples
+
+![Recursively computing a factorial in Scheme](../../.gitbook/assets/image%20%28241%29.png)
+
+* All expressions using scheme use prefix notation: `if( (= n 0)`  checks whether n is equal to zero or not.
+  * If it's true, return 1. _We see it's really simple. It's just_  `1` _which eliminates so much syntax._
+  * The second line is the 'else' condition. 
+* In scheme, the nested structures use parenthesis. 
+{% endtab %}
+
+{% tab title="Logic" %}
+
+
+#### Characteristics
+
+* All of the statements are logic formulas.
+* Languages: Prolog, ASP, CLP
+
+#### Advantages
+
+* Less syntax
+
+#### Disadvantages
+
+* Really only used in academia.
+
+#### Examples
+
+![](../../.gitbook/assets/image%20%28215%29.png)
+
+* The first line is the base case.
+* The second line and indented lines describe the recursive call.
+* `F1` is like a return value. 
+{% endtab %}
+
+{% tab title="Scripting or Domain-Specific" %}
+#### Characteristics
+
+#### Advantages
+
+#### Disadvantages
+
+#### Examples
+
+* JavaScript, PHP, Python, Flash. 
+{% endtab %}
+{% endtabs %}
+
+### Parsing Programs
+
+* We can define high priorities for division and multiplication and low priorities for addition and subtraction.
+* We can evaluate expressions so `+-` is an illegal operator.
+* We can also have programs throw errors, such that `int i = 3.0` is illegal without typecasting.
+* Parsers must recognize when `+` is used for concatenation or adding integers depending on the context.
+  * Different contexts have different roles. 
+* When do we pass by reference and when do we make copies?
+
+## Works Cited
+
+* [Chen, Xin. Concepts and Implementations of Programming Languages. Lecture 3](https://udayton.edu/directory/artssciences/computerscience/chen-xin.php)
 
 
 
