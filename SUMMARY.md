@@ -71,6 +71,7 @@
   * [iOS and Swift](computer-science/languages-and-architectures/ios-and-swift/README.md)
     * [The Swift Language Programming Guide](computer-science/languages-and-architectures/ios-and-swift/the-swift-language-programming-guide.md)
     * [Swift Cheat Sheet](computer-science/languages-and-architectures/ios-and-swift/swift-cheat-sheet-1.md)
+  * [C](computer-science/languages-and-architectures/c.md)
   * [Regex Expressions](computer-science/languages-and-architectures/regex-expressions.md)
   * [HTML CSS](computer-science/languages-and-architectures/html-css.md)
   * [Scheme](computer-science/languages-and-architectures/scheme.md)
