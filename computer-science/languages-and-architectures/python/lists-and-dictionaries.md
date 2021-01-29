@@ -207,13 +207,33 @@ print(attractions)  # [[], [], [], [], []]
 We can add multiple keys to a dictionary by using the `.update()` method. 
 
 ```python
-locations['Paris'] = 100
+locations = {}
+locations['Paris'] = 100 
 locations.update({"London": 75})
 locations.update({"New York": 83, "Vancouver" : 110})
 
 print(locations)
 # {'Paris': 100, 'London': 75, 'New York': 83, 'Vancouver': 110}
 ```
+
+#### Adding via defaultdict
+
+* An easy way to start making a list is to use the `defaultdict` module.
+
+```python
+from collections import defaultdict
+
+d = defaultdict(list)  # or set.
+d['a'].append(1)
+d['a'].append(2)
+d['b'].append(4)
+```
+
+* _Warning:_ it will create dictionary enteries for keys accessed later on, even if they are not currently in the dictionary. If you don't want this behavior, you can call `d.setdefault()` on an ordinary dictionary. \(Beazley Jones 12\).
+
+{% hint style="info" %}
+This doesn't make sense to me.
+{% endhint %}
 
 ### Get a Key
 
@@ -260,7 +280,7 @@ mydict["new_key"] = mydict.pop("old_key")
 "No Prize"
 ```
 
-### Making a Dictionary From Two Lists Using List Comprehension
+### Two Lists -&gt; Key
 
 Let’s say we have two lists that we want to combine into a dictionary, like a list of students and a list of their heights, in inches:
 
@@ -322,6 +342,26 @@ biggest_brands = {"Apple": 184, "Google": 141.7, "Microsoft": 80, "Coca-Cola": 6
  
 for company, value in biggest_brands.items():  # Key, Value in dictionary.ITEMS()
   print(company + " has a value of " + str(value) + " billion dollars. ")
+```
+
+### OrderedDict
+
+* Ordered dictionaries maintain order when iterating.
+* It preserves the original insertion order of data. 
+
+```python
+from collections import OrderedDict
+
+fav_movies = OrderedDict()
+fav_movies["Back to the Future"] = "I loved the car"
+fav_movies["Race to Witch Mountain"] = "Had a crush on the actress"
+
+for movie in fav_movies:
+    print(movie, fav_movie[key])
+
+# Returns
+# Back to the Future I loved the car
+# Race to Witch Mountain Crush on the actress
 ```
 
 ## Sets
