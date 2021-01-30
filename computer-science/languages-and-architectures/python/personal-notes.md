@@ -345,6 +345,16 @@ print(song) #Repeats 10 times because it uses the default value.
 
 ![Source: Socratica. My Favorite Beginner Python Series of 2020.](../../../.gitbook/assets/image%20%2818%29.png)
 
+## Generators
+
+* Generators are basically functions, but use the `yield` keyword instead of `return` 
+* When a generator is called again, the function picks up right where it left out
+  * Functions by contrast will start at the beginning of the function.
+
+{% embed url="https://www.youtube.com/watch?v=bD05uGo\_sVI" %}
+
+
+
 ## Expressions
 
 ### Booleans
@@ -437,98 +447,6 @@ def main(): # function, method are the same
         print("The host you specified was: " + host)
     print("===============================================\nNow commencing Dr. Yao's Code... \n")
 ```
-
-## Classes
-
-{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-classes/cheatsheet" caption="Checkout Codecademy\'s \'Classes Cheatsheet\' where I learned and sourced this section." %}
-
-```python
-# Define
-class Facade:
-  pass
-
-# Instantiate
-facade_1 = Facade()
-```
-
-### Constructors
-
-> There are several methods that we can define in a Python class that have special behavior. These methods are sometimes called “magic,” because they behave differently from regular methods. Another popular term is _dunder methods_, so-named because they have two underscores \(double-underscore abbreviated to “dunder”\) on either side of them. \(Source: Codecademy\)
-
-Use `def __init()__:` within the class to make a constructor.
-
-### Attribute Functions
-
-* You can examine an object's attributes at runtime by using `dir(ur_object)`
-
-> ```python
-> class NoCustomAttributes:
->   pass
->  
-> attributeless = NoCustomAttributes()
->  
-> try:
->   attributeless.fake_attribute
-> except AttributeError:
->   print("This text gets printed!")
->  
-> # prints "This text gets printed!"
-> ```
->
-> What if we aren’t sure if an object has an attribute or not?
->
-> *  `hasattr()` will return `True` if an object has a given attribute and `False` otherwise. 
-> * If we want to get the actual value of the attribute, `getattr()` is a Python function that will return the value of a given object and attribute. 
-> * In this function, we can also supply a third argument that will be the default if the object does not have the given attribute.
->
->
->
-> The syntax and parameters for these functions look like this:
->
-> `hasattr(object, “attribute”)` has two parameters:
->
-> * _object_ : the object we are testing to see if it has a certain attribute
-> * _attribute_ : name of attribute we want to see if it exists
->
-> `getattr(object, “attribute”, default)` has three parameters \(one of which is optional\):
->
-> * _object_ : the object whose attribute we want to evaluate
-> * _attribute_ : name of attribute we want to evaluate
-> * _default_ : the value that is returned if the attribute does not exist \(note: this parameter is **optional**\)
->
-> ```python
-> can_we_count_it = [{'s': False}, "sassafrass", 18, ["a", "c", "s", "d", "s"]]
->
-> for obj in can_we_count_it:
->   if hasattr(obj, "count"):
->     print(str(type(obj)) + " has the count attribute!")
->       
-> # <class 'str'> has the count attribute!
-> # <class 'list'> has the count attribute!
-> ```
->
-> _\(Source: Codecademy, Python Programming Course\)_
-
-### String Representation: \_\_repr\_\_\(\)
-
-* To have a default string representation of an object, use `__repr(self)__:`
-
-```python
-class Employee():
-  def __init__(self, name):
-    self.name = name
- 
-  def __repr__(self):
-    return self.name
- 
-argus = Employee("Argus Filch")
-print(argus)
-# prints "Argus Filch"
-```
-
-## Generators
-
-{% embed url="https://www.youtube.com/watch?v=bD05uGo\_sVI" %}
 
 
 
