@@ -10,8 +10,6 @@ description: Personal notes and examples all about tkinter.
 
 
 
-## Custom Modules
-
 #### Import a Class
 
 ```python
@@ -23,6 +21,14 @@ from your_file import YourClass
 ```python
 from your_file import your_function  # Imports the function so you can use it.
 ```
+
+## AWS
+
+{% embed url="https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/" %}
+
+
+
+
 
 ## DateTime
 
