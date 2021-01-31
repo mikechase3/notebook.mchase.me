@@ -122,6 +122,14 @@ If all goes to plan, you'll see a plot produced with the dataset.
 
 * Use `r.sample(range(numbers_to_produce: int), 12))` to generate a list of 12 random numbers.
 
+## STL Tools
+
+* Convert python code to generate STL geometry from text, LaTeX, numpy arrays, and pictures.
+
+{% embed url="https://github.com/thearn/stl\_tools" %}
+
+
+
 ## TKinter
 
 ### Comprehensive Guide
