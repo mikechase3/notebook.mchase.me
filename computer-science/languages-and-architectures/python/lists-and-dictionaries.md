@@ -344,6 +344,18 @@ for company, value in biggest_brands.items():  # Key, Value in dictionary.ITEMS(
   print(company + " has a value of " + str(value) + " billion dollars. ")
 ```
 
+{% hint style="info" %}
+Getting the smallest item is always quickest using heaps because it's O\(log N\) operations.
+{% endhint %}
+
+* `heap[0]` is always the smallest item in a heap.
+* Subsequent items can easily be found using the `heapq.heappop()` method.
+* To find the single smallest number, it's faster to use `min()` and `max()`.
+
+_Source: Beazley, Jones Python Cookbook 3ed. See page 7._
+
+
+
 ### OrderedDict
 
 * Ordered dictionaries maintain order when iterating.
