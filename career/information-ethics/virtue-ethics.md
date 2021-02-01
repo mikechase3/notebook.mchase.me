@@ -77,9 +77,23 @@
 
 #### Humor: Borishness, Wit, Buffoonery
 
-* Boorishness: Defficency
+* Boorishness: Deficiency
 * Wit: Mean
 * Buffoonery: excess
+
+## Immanuel Kant
+
+* Morality must be rooted in _reason_, not _emotion_. 
+
+### The Categorical Imperative
+
+* Act as though the maxim of your action were to become, through your will, a universal law of nature \(24\).
+  * A _maxim_ is any actionable statement. Like "everyone should not lie."
+  * It needs to be **universal** 
+  * No contradictions are allowed.
+* You must be able to rationally establish that all other rational beings must always do this action as a matter of moral course.
+* Everyone has to follow these because _everyone_ has the ability to be rational \(26\).
+  * Except slaves maybe.
 
 
 
