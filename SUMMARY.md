@@ -126,6 +126,7 @@
   * [Secure App Development](computer-science/software-security/secure-app-development/README.md)
     * [Introduction](computer-science/software-security/secure-app-development/introduction.md)
     * [Network Security](computer-science/software-security/secure-app-development/lecture-2.md)
+    * [Introduction to C](computer-science/software-security/secure-app-development/introduction-to-c.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
