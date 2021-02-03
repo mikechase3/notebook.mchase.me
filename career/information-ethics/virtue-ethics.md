@@ -1,3 +1,7 @@
+---
+description: What is good and what is bad?
+---
+
 # Virtue Ethics
 
 * Virtue Ethics is necessary for excellence and a good life.
@@ -94,6 +98,6 @@
 * You must be able to rationally establish that all other rational beings must always do this action as a matter of moral course.
 * Everyone has to follow these because _everyone_ has the ability to be rational \(26\).
   * Except slaves maybe.
-
-
-
+* Do not _use_ people, but respect everyone's dignity even though we're all sort-of using our employers as means for a paycheck and employers using us as a means for profit.
+  * We're also treated with respect and freely-choosing individuals.
+* 
