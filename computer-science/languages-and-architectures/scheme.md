@@ -9,6 +9,10 @@
 * Dr.Racket is the ID E we will use.
 * Racket is a dialect of scheme, so the syntax contains the Scheme syntax.
 
+## Data Types
+
+* **Characters:** `\#a` is a character.
+
 ## Flow Control
 
 ### If/Then/Else
@@ -92,5 +96,19 @@ You can also just call `(modulo 2 3)` or `(remainder 2 3)`
                 (disp (cdr node))))))  ; List reference moves to the next one.
             
 (disp '(w a t e r m e l o n))
+```
+
+#### Example: Linear Search in a List
+
+```scheme
+(define search
+    (lambda (node x)
+        (if (equal? '() node)
+            (display "The given value is not found")
+            (begin
+                (if (equal? x (car node))
+                    (display "The given value is in the list")
+                    (search (cdr node) x))))))
+(search '(a b c d) 'c)  ; 'c' is a symbol, so make sure to put a quote before it.
 ```
 
