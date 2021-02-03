@@ -38,13 +38,15 @@ con-clause = [test-expr then-body ...+] | [else then-body ...+]
 #### Example: Grade Translation
 
 ```scheme
+#lang racket
+
 (define grade
   (lambda (x)
     (cond
-    [(>= grade 90) "A"]
-    [(>= grade 80) "B"]  ; Else if this holds... B
-    [(>= grade 70) "C"]  ; Else if th is holds... C
-    [(>= grade 60) "D"]
+    [(>= x 90) "A"]
+    [(>= x 80) "B"]  ; Else if this holds... B
+    [(>= x 70) "C"]  ; Else if th is holds... C
+    [(>= x 60) "D"]
     [else "F"])))
 
 (grade 90); err
