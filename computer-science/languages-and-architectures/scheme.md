@@ -11,7 +11,7 @@
 
 ## Flow Control
 
-#### If/Then/Else
+### If/Then/Else
 
 ```scheme
 > (if (and (<= x 3) (>= x 2))  ; Test Expression
@@ -19,7 +19,7 @@
     "x is Not in the range")  ; else expression.
 ```
 
-#### Conditional Expressions
+### Conditional Expressions
 
 Example
 
@@ -31,7 +31,7 @@ con-clause = [test-expr then-body ...+] | [else then-body ...+]
 
 ```
 
-Example: Grade Translation
+#### Example: Grade Translation
 
 ```scheme
 (define grade
@@ -46,7 +46,7 @@ Example: Grade Translation
 (grade 90); err
 ```
 
-Example: Divisible?
+#### Example: Divisibility
 
 ```scheme
 #lang racket
@@ -58,5 +58,39 @@ Example: Divisible?
         "No")))  ; Else
 
 (divisible 10 2)
+```
+
+#### Built-Ins
+
+You can also just call `(modulo 2 3)` or `(remainder 2 3)`
+
+## Recursion
+
+#### Example: Factorial
+
+```scheme
+(define fact
+    (lambda (n)
+        (if (= n 0)
+            1  ; Base case 
+            (* n (fact (- n 1))))))  ; Recursive call n-1
+(fact 5)
+```
+
+#### Example: Display all Elements in a List
+
+```scheme
+#lang racket
+
+(define disp
+    (lambda (node)
+        (if (equal? '() node) ; If node is already at the end of the list. 
+            "end" 
+            (begin  ; Using begin to sequence multiple expressions
+                (display (car node))
+                (newline)  ; Takes no arguments, moves to new line.
+                (disp (cdr node))))))  ; List reference moves to the next one.
+            
+(disp '(w a t e r m e l o n))
 ```
 
