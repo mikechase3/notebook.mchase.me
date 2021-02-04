@@ -1,4 +1,16 @@
-# Introduction to C
+# C Programming Security
+
+## Lab 2 Outline
+
+{% embed url="https://accounts.google.com/signin/continue?sarp=1&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fu%2F1%2Fd%2F1q0g8MZFUP9XE1BfQnMdHioaMMbkkFqThkVlBZSDEnr0%2Fedit%3Fusp%3Dsharing&plt=AKgnsbuylbKj6vaHtHdjZc5jkq535i3\_mUdZeJ4Ph37OYhbZWFC7H7h0TmC\_RIdpnWzA6ymUkLaeXUQdEdC1Xg2-5NMNV7wUKn8whx8cIG7zONMiw4ua90kcTxeflYu\_m27f7QlWQ5HU&PersistentCookie=1&scc=0&service=wise" %}
+
+
+
+## Languages and Direct Memory Access
+
+![](../../../.gitbook/assets/image%20%28376%29.png)
+
+
 
 ## Key Features
 
@@ -29,4 +41,20 @@
 ### The Fix
 
 ![](../../../.gitbook/assets/image%20%28258%29.png)
+
+## Insecure Functions
+
+* Avoid using vulnerable functions in which no bounds are checked.
+  * strcpy, strcat, sprintf, scanf, sscanf, gets, read, 
+* Use equivalent safe functions which restrict the scope of stuff that can go wrong.
+
+![Source: Dr. Phu Phung&apos;s Software Security Course. 2021.](../../../.gitbook/assets/image%20%28377%29.png)
+
+![Source: Dr. Phu Phung&apos;s Software Security. 2021.](../../../.gitbook/assets/image%20%28272%29.png)
+
+## Your Responsibilities
+
+
+
+
 
