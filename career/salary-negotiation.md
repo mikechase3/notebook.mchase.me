@@ -38,7 +38,7 @@ The more expensive/higher level you are, the more complex your comp mix becomes 
 
 #### Understanding & valuing equity
 
-Women[earn _half_ the equity men do](https://carta.com/blog/gap-table/) – equity is complex and ripe for bad outcomes.
+Women [earn _half_ the equity men do](https://carta.com/blog/gap-table/) – equity is complex and ripe for bad outcomes.
 
 Equity is an ownership stake in the company. Your stake in the company converts to money only if one of two things happens: the company is purchased or it becomes listed on the stock market \(an IPO\).
 
