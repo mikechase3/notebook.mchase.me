@@ -8,7 +8,7 @@
 
 ## Languages and Direct Memory Access
 
-![](../../../.gitbook/assets/image%20%28376%29.png)
+![](../../.gitbook/assets/image%20%28376%29.png)
 
 
 
@@ -26,7 +26,7 @@
 
 * If we don't format it as a string literal, there's a vulnerability
 
-![](../../../.gitbook/assets/image%20%28259%29.png)
+![](../../.gitbook/assets/image%20%28259%29.png)
 
 ### Attacks
 
@@ -40,7 +40,7 @@
 
 ### The Fix
 
-![](../../../.gitbook/assets/image%20%28258%29.png)
+![](../../.gitbook/assets/image%20%28258%29.png)
 
 ## Insecure Functions
 
@@ -48,9 +48,9 @@
   * strcpy, strcat, sprintf, scanf, sscanf, gets, read, 
 * Use equivalent safe functions which restrict the scope of stuff that can go wrong.
 
-![Source: Dr. Phu Phung&apos;s Software Security Course. 2021.](../../../.gitbook/assets/image%20%28377%29.png)
+![Source: Dr. Phu Phung&apos;s Software Security Course. 2021.](../../.gitbook/assets/image%20%28377%29.png)
 
-![Source: Dr. Phu Phung&apos;s Software Security. 2021.](../../../.gitbook/assets/image%20%28272%29.png)
+![Source: Dr. Phu Phung&apos;s Software Security. 2021.](../../.gitbook/assets/image%20%28272%29.png)
 
 ## Your Responsibilities
 

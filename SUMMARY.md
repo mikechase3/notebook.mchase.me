@@ -22,8 +22,6 @@
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
-* [Secure App Development](career/secure-app-development/README.md)
-  * [Review: TCP/IP](career/secure-app-development/review-tcp-ip.md)
 
 ## Communication
 
@@ -122,12 +120,12 @@
 * [Linux](computer-science/linux/README.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
   * [Getting Started](computer-science/linux/untitled.md)
-* [Software Security](computer-science/software-security/README.md)
-  * [Secure App Development](computer-science/software-security/secure-app-development/README.md)
-    * [Introduction](computer-science/software-security/secure-app-development/introduction.md)
-    * [Network Security](computer-science/software-security/secure-app-development/lecture-2.md)
-    * [C Programming Security](computer-science/software-security/secure-app-development/introduction-to-c.md)
-    * [Secure App Quiz Questions](computer-science/software-security/secure-app-development/secure-app-quiz-questions.md)
+* [Secure App Development](computer-science/secure-app-development/README.md)
+  * [Introduction](computer-science/secure-app-development/introduction.md)
+  * [Network Security](computer-science/secure-app-development/lecture-2.md)
+  * [C Programming Security](computer-science/secure-app-development/introduction-to-c.md)
+  * [Secure App Quiz Questions](computer-science/secure-app-development/secure-app-quiz-questions.md)
+  * [Secure Sockets](computer-science/secure-app-development/secure-sockets.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
