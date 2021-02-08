@@ -227,6 +227,12 @@ description: CPS 352 Equivalent.
   * Different contexts have different roles. 
 * When do we pass by reference and when do we make copies?
 
+## Syntax and Semantics
+
+![Chomsky Hierarchy](../../.gitbook/assets/image%20%28379%29.png)
+
+
+
 ## Works Cited
 
 * [Chen, Xin. Concepts and Implementations of Programming Languages. Lecture 3](https://udayton.edu/directory/artssciences/computerscience/chen-xin.php)

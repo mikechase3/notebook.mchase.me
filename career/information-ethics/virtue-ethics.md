@@ -100,4 +100,9 @@ description: What is good and what is bad?
   * Except slaves maybe.
 * Do not _use_ people, but respect everyone's dignity even though we're all sort-of using our employers as means for a paycheck and employers using us as a means for profit.
   * We're also treated with respect and freely-choosing individuals.
-* 
+
+### Hedonic Calculus
+
+* **Sensation**: Intensity, Duration, Certainty/Uncertainty \(Obviousness of Sensation\), Propinquity.
+* **Relationship:** Fecundity \(Fruitfulness/Racism\). Purity \(absence of side effects\).
+
