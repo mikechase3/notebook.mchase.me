@@ -92,6 +92,10 @@ cost_of_transaction = cost_of_gum + cost_of_gumdrop
 # Returns 0.45 instead of 0.44999999999999996
 ```
 
+## Itertools
+
+* `itertools.groupby()` is a function that is particularly useful for grouping data in dictionaries or objects together. 
+
 ## MatPlotLib
 
 * `from matplotlib import pyplot as plt` will import what we need to graph stuff.
