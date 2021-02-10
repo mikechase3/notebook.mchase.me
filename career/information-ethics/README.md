@@ -33,9 +33,5 @@ This course will begin by introducing a few ways of discerning right from wrong.
 10. Confidentiality
 11. Ethics & Humor
 
-## Theory
-
-* Aristotle
-* 
 
 

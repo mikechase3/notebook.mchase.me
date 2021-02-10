@@ -106,3 +106,7 @@ description: What is good and what is bad?
 * **Sensation**: Intensity, Duration, Certainty/Uncertainty \(Obviousness of Sensation\), Propinquity.
 * **Relationship:** Fecundity \(Fruitfulness/Racism\). Purity \(absence of side effects\).
 
+## Bentham
+
+## Mill
+
