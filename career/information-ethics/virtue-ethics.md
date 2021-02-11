@@ -89,10 +89,25 @@ description: What is good and what is bad?
 
 * Morality must be rooted in _reason_, not _emotion_. 
 
+### Religion
+
+* Religion is going to vary from person to person.
+* Instead, morality is a constant, almost like mathematics.
+
+### Hypothetical Imperatives
+
+* Most of the time, whether or not we ought to do something isn't a moral choice, but rather, it's contingent upon our desires.
+* These are about prudence, not morality.
+* If you don't care about getting a good grade, then studying is optional.
+
 ### The Categorical Imperative
 
+{% hint style="info" %}
+Commands you must follow regardless of your desires. These are moral obligations derived from pure reason.
+{% endhint %}
+
 * Act as though the maxim of your action were to become, through your will, a universal law of nature \(24\).
-  * A _maxim_ is any actionable statement. Like "everyone should not lie."
+* * A _maxim_ is any actionable statement. Like "everyone should not lie."
   * It needs to be **universal** 
   * No contradictions are allowed.
 * You must be able to rationally establish that all other rational beings must always do this action as a matter of moral course.
@@ -101,10 +116,34 @@ description: What is good and what is bad?
 * Do not _use_ people, but respect everyone's dignity even though we're all sort-of using our employers as means for a paycheck and employers using us as a means for profit.
   * We're also treated with respect and freely-choosing individuals.
 
+#### Summary
+
+Proper, rational application of the categorical imperative will lead us to moral truth that is fixed & applicable to all moral agents.
+
 ### Hedonic Calculus
 
 * **Sensation**: Intensity, Duration, Certainty/Uncertainty \(Obviousness of Sensation\), Propinquity.
 * **Relationship:** Fecundity \(Fruitfulness/Racism\). Purity \(absence of side effects\).
+
+### The Universalization Principle
+
+> Act only according to that maxim which you can at the same time will that it should become a universal law without contradiction.
+
+#### Why Stealing Doesn't Work
+
+* If you steal a banana, you are universalizing an idea.
+  * This is a contradiction.
+  * Everyone cannot steal bananas.
+* Everyone would be stealing bananas from each other
+  * It's not practical.
+
+### The Formula of Humanity
+
+> "Act so that you treat humanity, whether in your own person or in your own person or in that of another, always as an end, and never as a mere means."
+
+* Humans exist for themselves.
+* Recognizing an "end-in-oneself" means to recognize the humanity of the person you're interacting with and keeping that in mind.
+* It's ok to use people people, but not as a _mere_ means.
 
 ## Bentham
 
