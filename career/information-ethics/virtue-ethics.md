@@ -85,7 +85,7 @@ description: What is good and what is bad?
 * Wit: Mean
 * Buffoonery: excess
 
-## Immanuel Kant
+## Kant & The Categorical Imperative
 
 * Morality must be rooted in _reason_, not _emotion_. 
 
@@ -145,9 +145,25 @@ Proper, rational application of the categorical imperative will lead us to moral
 * Recognizing an "end-in-oneself" means to recognize the humanity of the person you're interacting with and keeping that in mind.
 * It's ok to use people people, but not as a _mere_ means.
 
-## Bentham
+## Utilitarianism w/ Bentham & Mill
 
-* 
-## Mill
+![](../../.gitbook/assets/image%20%28387%29.png)
 
-* 
+* Not Egoism: egoism is for ourselves.
+* We should always act to produce the greatest good for the greatest number of people.
+
+### Principle of Utility
+
+* We should always act so as to produce the greatest good for the greatest number.
+* Make your decisions from a benevolent disinterested thinker.
+  * Spectator, not emotionally invested.
+  * Seen as an advisor.
+
+### Act Utilitarianism
+
+![](../../.gitbook/assets/image%20%28385%29.png)
+
+### Rule Utilitarianism
+
+![](../../.gitbook/assets/image%20%28384%29.png)
+
