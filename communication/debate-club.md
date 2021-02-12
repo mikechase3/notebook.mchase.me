@@ -1,4 +1,4 @@
-# Debate Club
+# Debate
 
 ## Requirements
 

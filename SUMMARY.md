@@ -26,18 +26,6 @@
 
 ## Communication
 
-* [Cone of Learning](communication/cone-of-learning.md)
-* [Ideation](communication/ideation.md)
-* [Habitual and Sensitization](communication/habitual-and-sensitization.md)
-* [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
-* [The Feynmenn Technique](communication/the-feynmenn-technique.md)
-* [Balancing Normalness](communication/quirkiness.md)
-* [Placebo](communication/placebo.md)
-* [Writing](communication/writing/README.md)
-  * [The Introduction](communication/writing/the-introduction.md)
-  * [The Conclusion](communication/writing/the-conclusion.md)
-  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
-* [Debate Club](communication/debate-club.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
@@ -49,6 +37,18 @@
   * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
   * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
   * [Midterm](communication/propaganda/midterm.md)
+* [Debate](communication/debate-club.md)
+* [Cone of Learning](communication/cone-of-learning.md)
+* [Ideation](communication/ideation.md)
+* [Habitual and Sensitization](communication/habitual-and-sensitization.md)
+* [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
+* [The Feynmenn Technique](communication/the-feynmenn-technique.md)
+* [Balancing Normalness](communication/quirkiness.md)
+* [Placebo](communication/placebo.md)
+* [Writing](communication/writing/README.md)
+  * [The Introduction](communication/writing/the-introduction.md)
+  * [The Conclusion](communication/writing/the-conclusion.md)
+  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 
 ## Computer Science
 
