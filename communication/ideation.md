@@ -1,4 +1,4 @@
-# Ideation
+# Generating Ideas
 
 ## Creative Ideas
 
