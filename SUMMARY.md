@@ -20,7 +20,7 @@
   * [Personal Statements](career/graduate-school/personal-statements.md)
 * [Information Ethics](career/information-ethics/README.md)
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
-  * [Untitled](career/information-ethics/untitled.md)
+  * [Freedom of Speech](career/information-ethics/untitled.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 
@@ -184,7 +184,7 @@
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
   * [Git](computer-science/miscellaneous/git.md)
   * [Bash](computer-science/miscellaneous/bash.md)
-  * [Secrets](computer-science/miscellaneous/secrets.md)
+  * [Dungeons and Dragons](computer-science/miscellaneous/secrets.md)
   * [CPS Staff](computer-science/miscellaneous/staff.md)
 
 ## Math
@@ -217,7 +217,6 @@
 
 * [Colors and Marketing](marketing/colors-and-marketing.md)
 * [Marketing: Framing, Conformity, Cognitive Dissonance](marketing/programiz-how-we-use-psychology-to-market-our-products.md)
-* [Untitled](marketing/untitled.md)
 
 ## Music
 
