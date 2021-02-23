@@ -2,17 +2,21 @@
 
 ## Cycles of Anxiety & Depression
 
+### Cycles of Anxiety
+
 ![](../.gitbook/assets/image%20%28440%29.png)
 
 * It often occurs as a cycle.
 * **Avoidance**: It's really effective short-term, but increases in the long-term.
+
+### Cycles of Depression
 
 ![](../.gitbook/assets/image%20%28438%29.png)
 
 * You'll have cycles of increased and decreased activity.
 * To intervene, engage in _behavioral activation_ and avoid depressed behaviors \(like doing nothing\).
 
-## The Cognitive Model
+### The Cognitive Model
 
 ![](../.gitbook/assets/image%20%28436%29.png)
 
@@ -92,7 +96,34 @@ Unhelpful thinking patterns
 * What is the big picture?
 * Ask what information supports my hypothesis?
 
+## Triggers
 
+Triggers are both internal external.
+
+* **Emotions:** Something
+* Mental Images: 
+* Physical State: 
+* Thoughts: 
+* Presence of Others: 
+* Physical Setting
+* **Social Pressures:** Comparing yourself to others, 
+* **Activities**: Staying in your room alone for too long. 
+
+### Solutions
+
+* Aromatherapy: Google charts.
+* Listen to podcasts or music.
+
+#### Set Boundaries
+
+* It's not my job to fix others.
+* It's ok to say no.
+* It's not my job to take responsibility for others.
+* I do not have to anticipate the needs for others.
+* Nobody has to agree with me.
+* I am responsible for my own happiness
+* I have a right to my own feelings.
+* I have a right to express my needs honestly.
 
 ## Works Cited
 
