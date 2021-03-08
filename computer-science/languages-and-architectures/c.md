@@ -33,8 +33,6 @@
 * `"x"` is a string constant with one character. Not a char.
 * `'x'` is a char because it has single quotation marks.
 
-
-
 | Type | Size \(bytes\) | Format Specifier |
 | :--- | :--- | :--- |
 | `int` | at least 2, usually 4 | `%d`, `%i` |
@@ -67,7 +65,8 @@
 
 
 
-## 
+
+## WARNING 
 
 DON"T PUT ANYTHING BELOW ME.
 
