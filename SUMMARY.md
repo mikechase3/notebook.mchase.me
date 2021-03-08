@@ -123,7 +123,7 @@
     * [NP Reductions and Applications \(L22\)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
 * [Linux](computer-science/linux/README.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
-  * [Getting Started](computer-science/linux/untitled.md)
+  * [Getting Started](computer-science/linux/getting-started.md)
 * [Secure App Development](computer-science/secure-app-development/README.md)
   * [Introduction](computer-science/secure-app-development/introduction.md)
   * [Network Security](computer-science/secure-app-development/lecture-2.md)

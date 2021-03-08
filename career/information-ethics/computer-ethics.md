@@ -9,3 +9,4 @@
 
 * There's an important paper called "Car Computer History": [link](https://itstillruns.com/car-computer-history5082250.html).
 * The computer is special because of 'logical malleability' meaning that the logic works differently somehow idk.
+
