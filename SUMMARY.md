@@ -20,7 +20,7 @@
   * [Personal Statements](career/graduate-school/personal-statements.md)
 * [Information Ethics](career/information-ethics/README.md)
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
-  * [Freedom of Speech](career/information-ethics/untitled.md)
+  * [Computer Ethics](career/information-ethics/computer-ethics.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 
