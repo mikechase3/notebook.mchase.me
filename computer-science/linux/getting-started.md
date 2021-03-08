@@ -15,3 +15,5 @@ This is useless for anyone else but Mike Chase. This is just stuff he doesn't al
 
 `sudo apt-get install gcc` should install the C compiler.
 
+Tried to change the getting started file. DEETE THIS LINE
+
