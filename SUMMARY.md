@@ -130,6 +130,7 @@
   * [C Programming Security](computer-science/secure-app-development/introduction-to-c.md)
   * [Multithreaded & Concurrent Programming](computer-science/secure-app-development/multithreaded-and-concurrent-programming.md)
   * [Secure App Quiz Questions](computer-science/secure-app-development/secure-app-quiz-questions.md)
+  * [Robust Programming](computer-science/secure-app-development/robust-programming.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)

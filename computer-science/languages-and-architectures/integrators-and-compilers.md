@@ -172,7 +172,7 @@ description: CPS 352 Equivalent.
 
 #### Examples
 
-![Recursively computing a factorial in Scheme](../../.gitbook/assets/image%20%28217%29%20%281%29%20%281%29.png)
+![Recursively computing a factorial in Scheme](../../.gitbook/assets/image%20%28217%29%20%281%29%20%281%29%20%281%29.png)
 
 * All expressions using scheme use prefix notation: `if( (= n 0)`  checks whether n is equal to zero or not.
   * If it's true, return 1. _We see it's really simple. It's just_  `1` _which eliminates so much syntax._
