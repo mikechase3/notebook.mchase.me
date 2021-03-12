@@ -10,3 +10,23 @@
 * There's an important paper called "Car Computer History": [link](https://itstillruns.com/car-computer-history5082250.html).
 * The computer is special because of 'logical malleability' meaning that the logic works differently somehow idk.
 
+## Anatomy of the Computer Revolution
+
+* Technological Introduction Stage: how to use it.
+* Technological permeation stage: transformation of society \(voting, 'work', finance, education\)
+
+## The Invisibility Factor
+
+* We cannot see what programmers _value_ in their code.
+* We also don't know how calculations are performed.
+
+## Computer Ethics
+
+* Anonymity
+* Reason, Relativity, and Responsibility
+  * Routine Ethics
+  * Cultural relativism
+  * Moor dude rejects both in favor of core values: life/happiness/ability/freedom/knowledge/resources/security.
+
+
+

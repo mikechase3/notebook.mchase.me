@@ -21,6 +21,7 @@
 * [Information Ethics](career/information-ethics/README.md)
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
   * [Computer Ethics](career/information-ethics/computer-ethics.md)
+  * [Anti-Vaxxers](career/information-ethics/anti-vaxxers.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 
