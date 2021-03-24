@@ -8,6 +8,8 @@
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Economics](psychology/economics.md)
+* [Colors and Marketing](psychology/colors-and-marketing.md)
+* [Marketing: Framing, Conformity, Cognitive Dissonance](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
 
 ## Career
 
@@ -217,11 +219,6 @@
     * [Untitled](math/calculus-3/ch-14/untitled.md)
   * [Untitled](math/calculus-3/untitled-3.md)
   * [Untitled](math/calculus-3/untitled-1.md)
-
-## Marketing
-
-* [Colors and Marketing](marketing/colors-and-marketing.md)
-* [Marketing: Framing, Conformity, Cognitive Dissonance](marketing/programiz-how-we-use-psychology-to-market-our-products.md)
 
 ## Music
 
