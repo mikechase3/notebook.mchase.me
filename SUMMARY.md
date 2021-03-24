@@ -8,7 +8,6 @@
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Economics](psychology/economics.md)
-* [Uncertainty](psychology/how-to-make-your-own-luck-or-freakonomics-424.md)
 
 ## Career
 
@@ -38,6 +37,7 @@
   * [Propaganda of Empire](communication/propaganda/propaganda-of-empire.md)
   * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
   * [Midterm](communication/propaganda/midterm.md)
+* [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
 * [Debate](communication/debate-club.md)
 * [Handling Stress](communication/handling-stress.md)
 * [Cone of Learning](communication/cone-of-learning.md)
@@ -51,6 +51,7 @@
   * [The Introduction](communication/writing/the-introduction.md)
   * [The Conclusion](communication/writing/the-conclusion.md)
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
+* [Charisma](communication/charisma.md)
 
 ## Computer Science
 
