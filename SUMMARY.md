@@ -57,6 +57,7 @@
 
 ## Computer Science
 
+* [Visual Studio](computer-science/visual-studio.md)
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
   * [Bash](computer-science/languages-and-architectures/bash.md)
   * [Java](computer-science/languages-and-architectures/java/README.md)
