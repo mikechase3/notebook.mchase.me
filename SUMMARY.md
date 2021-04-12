@@ -57,7 +57,6 @@
 
 ## Computer Science
 
-* [Visual Studio](computer-science/visual-studio.md)
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
   * [Bash](computer-science/languages-and-architectures/bash.md)
   * [Java](computer-science/languages-and-architectures/java/README.md)
@@ -84,6 +83,9 @@
   * [Scheme](computer-science/languages-and-architectures/scheme.md)
   * [Concepts & Implementations](computer-science/languages-and-architectures/integrators-and-compilers.md)
   * [MIPS](computer-science/languages-and-architectures/mips.md)
+* [Visual Studio](computer-science/visual-studio.md)
+* [Databases](computer-science/databases/README.md)
+  * [MySQL](computer-science/databases/mysql.md)
 * [Data Structures & Algorithms](computer-science/data-structures-and-algorithms/README.md)
   * [CPS 350 Miscellaneous](computer-science/data-structures-and-algorithms/untitled.md)
   * [Asymptotic Notation](computer-science/data-structures-and-algorithms/asymptotic-notation/README.md)
