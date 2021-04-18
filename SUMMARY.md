@@ -25,6 +25,7 @@
   * [Anti-Vaxxers](career/information-ethics/anti-vaxxers.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
+* [Seven Habits](career/seven-habits.md)
 
 ## Communication
 
