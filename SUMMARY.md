@@ -81,7 +81,7 @@
   * [Go](computer-science/languages-and-architectures/go.md)
   * [Regex Expressions](computer-science/languages-and-architectures/regex-expressions.md)
   * [HTML CSS](computer-science/languages-and-architectures/html-css.md)
-  * [Scheme](computer-science/languages-and-architectures/scheme.md)
+  * [Racket](computer-science/languages-and-architectures/scheme.md)
   * [Concepts & Implementations](computer-science/languages-and-architectures/integrators-and-compilers.md)
   * [MIPS](computer-science/languages-and-architectures/mips.md)
 * [Visual Studio](computer-science/visual-studio.md)
