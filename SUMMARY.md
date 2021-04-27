@@ -138,6 +138,7 @@
   * [C Programming Security](computer-science/secure-app-development/introduction-to-c.md)
   * [Robust Programming](computer-science/secure-app-development/robust-programming.md)
   * [L25: Input Validation and Regular Expressions](computer-science/secure-app-development/l25-input-validation-and-regular-expressions.md)
+  * [L26:](computer-science/secure-app-development/l26.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
   * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
