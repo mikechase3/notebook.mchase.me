@@ -63,9 +63,7 @@
 * Check the size of a varaible using the `sizeof(<a variable already defined>)`. \(Note: requires `include <stdio.h>`
 * Arrays, pointers, and structs are called _derived types_.
 
-## WARNING
 
-DON"T PUT ANYTHING BELOW ME.
 
 ## Structures
 

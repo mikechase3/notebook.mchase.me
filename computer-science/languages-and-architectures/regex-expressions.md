@@ -1,10 +1,14 @@
-# Regex Expressions
+# Regular Expressions
 
-| Resource | Caption |
-| :--- | :--- |
-| Regex Crossword | Training for Regex |
+## Resources
 
-## Regex Cheat Sheet
+{% embed url="https://regexcrossword.com/" %}
+
+
+
+## Quick Notes
+
+Regex Cheat Sheet
 
 
 

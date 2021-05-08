@@ -1,4 +1,4 @@
-# Go
+# Golang
 
 {% embed url="https://learning.oreilly.com/library/view/head-first-go/9781491969540/ch03.html" %}
 

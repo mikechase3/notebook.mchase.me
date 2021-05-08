@@ -2,7 +2,19 @@
 description: CPS 352 Equivalent.
 ---
 
-# Concepts & Implementations
+# Compiler Theory
+
+## Resources
+
+{% embed url="https://en.wikipedia.org/wiki/Compilers:\_Principles,\_Techniques,\_and\_Tools" %}
+
+Dr. Chen's Slides:
+
+{% embed url="https://www.dropbox.com/sh/smje0varxy6m44l/AABjK5U9yL6tOn99Dj8mcjyla?dl=0" %}
+
+
+
+
 
 ## Concepts and Implementations of Languages
 
