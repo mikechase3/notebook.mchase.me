@@ -18,7 +18,13 @@ PHP also provides the underlying code for many e-commerce sites including [WooCo
 
 PHP contains built-in functionality for interacting with web data, _Vanilla PHP_, or PHP without any other tools, can be used on its own to create web application back-ends. But we don’t have to reinvent the wheel every time! Once we’re comfortable with the basics of the PHP language, we have our pick of powerful PHP frameworks to choose from! These frameworks provide scaffolding and solutions to common problems in back-end web development. Some popular PHP frameworks are [Laravel](https://laravel.com/), [CakePHP](https://cakephp.org/), and [Symfony](https://symfony.com/).
 
-## Terminal
+## Getting Started
+
+{% embed url="https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet" %}
+
+
+
+### Terminal
 
 When writing a PHP script file, we still need to denote that we are beginning our PHP code using `<?php`, but the closing tag is no longer required. It is typically left out by convention.
 
@@ -31,7 +37,7 @@ phpecho "Hello, World!";
 
 When the code above is run, `"Hello, World!"` will be output to the terminal.
 
-## Strings
+### Strings
 
 Escape Sequences
 
@@ -53,7 +59,11 @@ echo "one" . " " . "two" . " " . "three"; // Prints: one two three
 
 
 
-## Variables and Data Types
+## Variables
+
+{% embed url="https://www.codecademy.com/learn/learn-php/modules/learn-php-variables/cheatsheet" %}
+
+
 
 One common convention when naming PHP variables is to use an underscore between words on variable names with more than one word in their name. This is known as ****_**snake case**_**:**
 
