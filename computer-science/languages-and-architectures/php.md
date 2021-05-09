@@ -68,6 +68,30 @@ echo $favorite_food;
 // Prints: Red curry with eggplant, green beans, and peanuts
 ```
 
+Variables
+
+PHP strings allow us to place variables directly into double quoted strings. These variables will be _parsed_ which means the computer will read the variables as the value they hold rather than see them as just a sequence of characters.
+
+```php
+$dog_name = "Tadpole";
+$favorite_food = "treat";
+$color = "brown";
+ 
+echo "I have a ${color}ish dog named $dog_name and her favorite food is ${favorite_food}s.";
+// Prints: I have a brownish dog named Tadpole and her favorite food is treats.
+```
+
+ PHP allows us to **specifically indicate the variable name by wrapping it in curly braces** to avoid any confusion. We’ll include the dollar sign followed by the variable name wrapped in curly braces:
+
+```php
+$dog_name = "Tadpole";
+$favorite_food = "treat";
+$color = "brown";
+ 
+echo "I have a ${color}ish dog named $dog_name and her favorite food is ${favorite_food}s.";
+// Prints: I have a brownish dog named Tadpole and her favorite food is treats.
+```
+
 
 
 ## Misc
