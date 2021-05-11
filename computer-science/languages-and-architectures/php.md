@@ -57,6 +57,14 @@ We can also combine, or chain, our operations to get a final result:
 echo "one" . " " . "two" . " " . "three"; // Prints: one two three
 ```
 
+#### Shorthand Concatenation
+
+```php
+$full_name = "Aisle";
+$full_name .= " Nevertell";
+echo $full_name; // Prints: Aisle Nevertell
+```
+
 
 
 ## Variables
