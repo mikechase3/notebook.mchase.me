@@ -55,6 +55,7 @@
   * [The Conclusion](communication/writing/the-conclusion.md)
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Charisma](communication/charisma.md)
+* [Dating](communication/dating.md)
 
 ## Computer Science
 
