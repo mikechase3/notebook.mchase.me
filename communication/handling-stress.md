@@ -125,6 +125,32 @@ Triggers are both internal external.
 * I have a right to my own feelings.
 * I have a right to express my needs honestly.
 
+## Physiology
+
+### Stress and Anxiety
+
+![](../.gitbook/assets/image%20%28452%29.png)
+
+![](../.gitbook/assets/image%20%28451%29.png)
+
+![](../.gitbook/assets/image%20%28453%29.png)
+
+![](../.gitbook/assets/image%20%28454%29.png)
+
+![](../.gitbook/assets/image%20%28449%29.png)
+
+![](../.gitbook/assets/image%20%28455%29.png)
+
+### How to Manage This
+
+* Deep Breathing
+* Square Breathing
+* Progressive Muscle Relaxation
+
+![](../.gitbook/assets/image%20%28450%29.png)
+
+![](../.gitbook/assets/image%20%28448%29.png)
+
 ## Works Cited
 
 * Dr. Jess Williams
