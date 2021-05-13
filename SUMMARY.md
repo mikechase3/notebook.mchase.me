@@ -4,6 +4,10 @@
 * [Inbox](inbox.md)
 * [Backlog](backlog.md)
 
+## Automotive
+
+* [References](automotive/references.md)
+
 ## Business <a id="psychology"></a>
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
