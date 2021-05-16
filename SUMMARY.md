@@ -61,6 +61,10 @@
 * [Charisma](communication/charisma.md)
 * [Dating](communication/dating.md)
 
+## Chemistry
+
+* [Glue Cleaning Recipe](chemistry/glue-cleaning-recipe.md)
+
 ## Computer Science
 
 * [Databases](computer-science/databases/README.md)
