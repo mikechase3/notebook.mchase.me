@@ -59,6 +59,7 @@
   * [The Conclusion](communication/writing/the-conclusion.md)
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Charisma](communication/charisma.md)
+* [Islamic Tradition](communication/islamic-tradition.md)
 * [Dating](communication/dating.md)
 
 ## Chemistry
