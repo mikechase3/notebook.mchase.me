@@ -148,6 +148,7 @@
     * [Language Crash Course](computer-science/languages-and-architectures/python/python-crash-course.md)
     * [Codecademy Cheatsheets](computer-science/languages-and-architectures/python/codecademy-cheatsheets.md)
     * [PEP 8 Style Guide](computer-science/languages-and-architectures/python/pep-8-style-guide.md)
+    * [TKinter](computer-science/languages-and-architectures/python/tkinter.md)
   * [Racket](computer-science/languages-and-architectures/scheme.md)
   * [Regular Expressions](computer-science/languages-and-architectures/regex-expressions.md)
 * [Linux](computer-science/linux/README.md)

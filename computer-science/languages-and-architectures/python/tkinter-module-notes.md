@@ -140,18 +140,6 @@ If all goes to plan, you'll see a plot produced with the dataset.
 
 
 
-## TKinter
-
-### Comprehensive Guide
-
-{% embed url="https://users.tricity.wsu.edu/~bobl/cpts481/tkinter\_nmt.pdf" %}
-
-
-
-### Dropdown Menus
-
-{% embed url="https://www.youtube.com/watch?v=PSm-tq5M-Dc&t=329s" %}
-
 
 
 
