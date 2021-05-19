@@ -60,7 +60,8 @@
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Charisma](communication/charisma.md)
 * [Dating](communication/dating.md)
-* [Islamic Tradition](communication/islamic-tradition.md)
+* [Islamic Tradition](communication/islamic-tradition/README.md)
+  * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
 
 ## Chemistry
 
