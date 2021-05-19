@@ -150,6 +150,8 @@
     * [Language Crash Course](computer-science/languages-and-architectures/python/python-crash-course.md)
     * [Codecademy Cheatsheets](computer-science/languages-and-architectures/python/codecademy-cheatsheets.md)
     * [PEP 8 Style Guide](computer-science/languages-and-architectures/python/pep-8-style-guide.md)
+    * [re Regular Expressions Package](computer-science/languages-and-architectures/python/re-regular-expressions-package.md)
+    * [str Package](computer-science/languages-and-architectures/python/str-package.md)
     * [TKinter](computer-science/languages-and-architectures/python/tkinter.md)
   * [Racket](computer-science/languages-and-architectures/scheme.md)
 * [Linux](computer-science/linux/README.md)
