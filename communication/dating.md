@@ -17,5 +17,14 @@ Useful advice later...
 * Make the EULA super long - like Microsoft level long. 
 * On the 27th page, put a dating clause requiring users to date me.
 
+## Dating Apps
+
+* Financial burden of dating is worse for men.
+* Statistically dating apps are much worse for men.
+* Amount of options a single man has is much lower than a single women.
+* A man who is busy with his career would rather work
+* A percentage of women think that all men are trash and men are sick of hearing that. 
+* Men who have options can hook up without starting a relationship. 
+
 
 
