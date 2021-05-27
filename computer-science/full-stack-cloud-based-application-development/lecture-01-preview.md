@@ -1,4 +1,4 @@
-# Lecture 01: Preview
+# Lecture 00: Preview
 
 ## Review of Traditional Software Applications
 
