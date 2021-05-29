@@ -10,19 +10,70 @@ description: Understanding Basics of Islamic Culture
 
 ## Key Terms
 
-| Term | About |
-| :--- | :--- |
-| Abu Bakr |  |
-| Abu Sufyan |  |
-| Abyssinia |  |
-| Ansar |  |
-| Aqabah |  |
-| Hudaybiyah |  |
-| Khadijah |  |
-| Maslama/Musaylimah |  |
-| Muanfiqun |  |
-| Nakhla |  |
-| Umar b. al-Khattab |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Term</th>
+      <th style="text-align:left">About</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Abu Bakr</td>
+      <td style="text-align:left">
+        <ul>
+          <li>A man only two years younger than Muhammad, and probably his friend for
+            many years (Watt 35).</li>
+          <li>He made a living by commerce, but his business was small.</li>
+          <li>Established himself as chief lieutenant and adviser of Muslims (35).</li>
+          <li>He led a pilgrimage to Mecca in 631 (Watt 227)</li>
+          <li>He came from a very weak clan, but was the most important Muslim after
+            Muhammad.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Abu Sufyan</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Abyssinia</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ansar</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Aqabah</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hudaybiyah</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Khadijah</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Maslama/Musaylimah</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Muanfiqun</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nakhla</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Umar b. al-Khattab</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Rhaman's Approaches to Islam
 
