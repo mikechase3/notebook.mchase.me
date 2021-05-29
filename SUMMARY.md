@@ -62,6 +62,7 @@
 * [Dating](communication/dating.md)
 * [Islamic Tradition](communication/islamic-tradition/README.md)
   * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
+  * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
 
 ## Chemistry
 

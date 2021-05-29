@@ -19,7 +19,7 @@
 * One in the graveyard.
 * One in this life.
 * One in heaven.
-* Not sure about the fourth.
+* Forgot the 4th
 
 ## The Islamic World is not a Monolothic Entity
 
