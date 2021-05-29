@@ -4,6 +4,10 @@ description: Understanding Basics of Islamic Culture
 
 # Lecture 02-04 Study Guide
 
+{% embed url="https://www.dropbox.com/s/gb5acbupfgnpg8a/Midterm%20Study%20Guide.pdf?dl=0" %}
+
+
+
 ## Key Terms
 
 | Term | About |
@@ -36,5 +40,11 @@ As to how someone should study 'other' human religions with the focus on the out
 
 What was the situation during this time?
 
+## Mecca Boycott of Muslims
 
+Describe the events that led to the boycott of Muslims in Mecca, the impact of the boycott to Muslims, and the events that followed after it.
+
+## Ummah
+
+Elaborate the formation and the characteristics of the Muslim ummah and the formation of the early Islamic polity of Muhammad in Medina. What were the major changes in Medinian society after the immigration of Meccan Muslins?
 
