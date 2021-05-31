@@ -20,5 +20,7 @@ Software applications are computer programs that are developed by software vendo
 
 ![](../../.gitbook/assets/image%20%28457%29.png)
 
+## Works Cited
 
+* [Dr. Phu Phung's CPS 449 Creative Cloud Applications course. ](https://academic.udayton.edu/phuphung/)
 

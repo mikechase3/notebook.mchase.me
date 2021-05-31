@@ -15,5 +15,7 @@
 
 ![](../../.gitbook/assets/image%20%28460%29.png)
 
+## Works Cited
 
+* [Dr. Phu Phung's CPS 449 Creative Cloud Applications course. ](https://academic.udayton.edu/phuphung/)
 
