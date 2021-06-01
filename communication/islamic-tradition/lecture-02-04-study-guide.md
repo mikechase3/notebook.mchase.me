@@ -75,9 +75,11 @@ description: Understanding Basics of Islamic Culture
   </tbody>
 </table>
 
-## Rhaman's Approaches to Islam
+## Essay Questions
 
-### Main Lines of Arguments
+### Rhaman's Approaches to Islam
+
+Discuss the main lines of arguments of the article by Fazlur Rahman on Approaches to Islam in Religious Studies as to how should one study ‘other’ human’s religion with the focus on the outsider/insider dichotomy in studying Islam
 
 As to how someone should study 'other' human religions with the focus on the outsider/insider dichotomy in studying Islam.
 
@@ -85,17 +87,15 @@ As to how someone should study 'other' human religions with the focus on the out
 
 {% embed url="http://meis500.weebly.com/uploads/1/3/5/2/13525224/reli2070\_rahman\_approaches.pdf" %}
 
-## Arab Bedouin-Based Culture during Muhammad's Time
+### Arab Bedouin-Based Culture during Muhammad's Time
 
-### Arab International Politics
-
-What was the situation during this time?
+Based on Hodgson, what was the Arab Bedouin - based culture during Muhammad’s time, particularly in Mecca and what was the situation of Arabs in general in international politics at that time? 
 
 ## Mecca Boycott of Muslims
 
 Describe the events that led to the boycott of Muslims in Mecca, the impact of the boycott to Muslims, and the events that followed after it.
 
-## Ummah
+### Ummah and Islamic Polity in Medina
 
 Elaborate the formation and the characteristics of the Muslim ummah and the formation of the early Islamic polity of Muhammad in Medina. What were the major changes in Medinian society after the immigration of Meccan Muslins?
 
