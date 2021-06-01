@@ -1,4 +1,12 @@
-# Lecture 00: Preview
+# Lecture 01: Course Overview
+
+## Slides
+
+For myself - contact Phu for access \(in works cited\).
+
+{% embed url="https://www.dropbox.com/s/m0t7qx0qdzugdiy/Week%2001%20Course%20Overview.pdf?dl=0" %}
+
+
 
 ## Review of Traditional Software Applications
 

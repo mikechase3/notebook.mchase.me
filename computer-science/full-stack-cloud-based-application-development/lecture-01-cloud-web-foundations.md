@@ -1,4 +1,12 @@
-# Lecture 01: Cloud Web Foundations
+# Week 02: Cloud Web Foundations
+
+## Slides
+
+Link is for myself - contact Phu for access.
+
+{% embed url="https://www.dropbox.com/s/qgokxgififoios8/Week%2002.pdf?dl=0" %}
+
+
 
 ## What is a Virtual Machine
 
