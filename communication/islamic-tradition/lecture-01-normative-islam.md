@@ -21,7 +21,9 @@
 * One in heaven.
 * Forgot the 4th
 
-## The Islamic World is not a Monolothic Entity
+## Works Cited
+
+[Dr. Jusef Salih's Islamic Faith Traditions Course](https://udayton.edu/directory/artssciences/religiousstudies/salih_jusuf.php)
 
 
 
