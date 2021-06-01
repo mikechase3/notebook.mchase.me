@@ -99,3 +99,12 @@ Describe the events that led to the boycott of Muslims in Mecca, the impact of t
 
 Elaborate the formation and the characteristics of the Muslim ummah and the formation of the early Islamic polity of Muhammad in Medina. What were the major changes in Medinian society after the immigration of Meccan Muslins?
 
+
+
+## Works Cited
+
+* [Dr. Jusef Salih's Islamic Faith Traditions Course](https://udayton.edu/directory/artssciences/religiousstudies/salih_jusuf.php)
+* Rhaman's "Approaches to Islam in Religious Studies"
+
+
+
