@@ -99,7 +99,7 @@ description: Understanding Basics of Islamic Culture
       <td style="text-align:left">Abyssinia</td>
       <td style="text-align:left">
         <ul>
-          <li>Rhaman Appendix I: Religious Situation fo Muslim Community in Mecca</li>
+          <li>Rhaman Appendix I: Religious Situation of Muslim Community in Mecca</li>
         </ul>
       </td>
     </tr>
