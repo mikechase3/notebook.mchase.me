@@ -41,6 +41,17 @@ The reading for this class was "Major Themes" by Rhaman.
 * **Islam**: A religion.
 * **Islamic**: Associated relatively closely with the act of islam and its spiritual implications
 * **Islamicate**: Associated with Islam more indirectly through forming a part of the overall civilization in which Muslims were leaders.
+  * Anything that occurred under the Muslim rule. Built under the Islamic rule with the influence, but not necessarily Islam.
+
+## Islamicate Civilization
+
+* Shares largely the same roots as those of western \(occidental\) civilization
+
+
+
+## Works Cited
+
+[Dr. Jusef Salih's Islamic Faith Traditions Course](https://udayton.edu/directory/artssciences/religiousstudies/salih_jusuf.php)
 
 
 
