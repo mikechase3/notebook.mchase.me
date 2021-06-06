@@ -100,6 +100,13 @@ description: Understanding Basics of Islamic Culture
       <td style="text-align:left">
         <ul>
           <li>Rhaman Appendix I: Religious Situation of Muslim Community in Mecca</li>
+          <li>Watt: The Migration to Abyssinia (p.65)
+            <ul>
+              <li>Around 615, a bunch of people went to Abyssinia</li>
+              <li>Some returned to Mecca, Medina, and stayed in Abyssinia.</li>
+              <li>The satanic verses had something to d with the immigration?</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
@@ -154,7 +161,7 @@ As to how someone should study 'other' human religions with the focus on the out
 
 Based on Hodgson, what was the Arab Bedouin - based culture during Muhammad’s time, particularly in Mecca and what was the situation of Arabs in general in international politics at that time? 
 
-## Mecca Boycott of Muslims
+### Mecca Boycott of Muslims
 
 Describe the events that led to the boycott of Muslims in Mecca, the impact of the boycott to Muslims, and the events that followed after it.
 
