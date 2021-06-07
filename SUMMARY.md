@@ -64,6 +64,7 @@
   * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
   * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
   * [Lecture 05: Islam in Medina](communication/islamic-tradition/lecture-05-islam-in-medina.md)
+  * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
 
 ## Chemistry
 
