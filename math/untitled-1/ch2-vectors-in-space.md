@@ -10,19 +10,19 @@
 
 ## Equation Sheet
 
-![](../../.gitbook/assets/image%20%28476%29.png)
+![](../../.gitbook/assets/image%20%28484%29.png)
 
 ## 2.1: Vectors in the Plane
 
 ### Review
 
-![](../../.gitbook/assets/image%20%28474%29.png)
+![](../../.gitbook/assets/image%20%28482%29.png)
 
 ## 2.2: Vectors in Three Dimensions
 
 ### Review
 
-![](../../.gitbook/assets/image%20%28482%29.png)
+![](../../.gitbook/assets/image%20%28492%29.png)
 
 ### My Open Math
 
@@ -44,63 +44,91 @@
 
 ### My Open math
 
-![](../../.gitbook/assets/image%20%28480%29.png)
+![](../../.gitbook/assets/image%20%28488%29.png)
 
-![](../../.gitbook/assets/image%20%28469%29.png)
+![](../../.gitbook/assets/image%20%28475%29.png)
 
-![](../../.gitbook/assets/image%20%28468%29.png)
+![](../../.gitbook/assets/image%20%28474%29.png)
 
 ## 2.4: The Cross Product
 
 ### Review
 
-![](../../.gitbook/assets/image%20%28481%29.png)
+![](../../.gitbook/assets/image%20%28489%29.png)
 
 ### Homework
 
 
 
-![](../../.gitbook/assets/image%20%28472%29.png)
+![](../../.gitbook/assets/image%20%28479%29.png)
 
-![](../../.gitbook/assets/image%20%28475%29.png)
+![](../../.gitbook/assets/image%20%28483%29.png)
+
+![](../../.gitbook/assets/image%20%28485%29.png)
 
 ![](../../.gitbook/assets/image%20%28477%29.png)
 
-![](../../.gitbook/assets/image%20%28470%29.png)
+
+
+![](../../.gitbook/assets/image%20%28464%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28462%29.png)
+![](../../.gitbook/assets/image%20%28465%29.png)
 
-
-
-![](../../.gitbook/assets/image%20%28463%29.png)
-
-![](../../.gitbook/assets/image%20%28479%29.png)
+![](../../.gitbook/assets/image%20%28487%29.png)
 
 
 
 2.4.9
 
-![](../../.gitbook/assets/image%20%28466%29.png)
+![](../../.gitbook/assets/image%20%28469%29.png)
 
 2.4.10: Area of triangles given 3 points
 
-![](../../.gitbook/assets/image%20%28467%29.png)
+![](../../.gitbook/assets/image%20%28471%29.png)
 
 2.4.11: Find area of a parallelogram formed by 3 vectors
 
-![](../../.gitbook/assets/image%20%28471%29.png)
+![](../../.gitbook/assets/image%20%28478%29.png)
 
 ## 2.5: Equations of Lines and Planes in Space
 
 ### Review
 
-![](../../.gitbook/assets/image%20%28465%29.png)
+![](../../.gitbook/assets/image%20%28467%29.png)
 
 ### My Open Math
 
+#### 2.5.1: Equations of a line in space
 
+![](../../.gitbook/assets/image%20%28480%29.png)
+
+![We need theorem 2.13 for this](../../.gitbook/assets/image%20%28468%29.png)
+
+{% hint style="warning" %}
+Aren't there infinite parallel lines? Why did my intuition work to correctly answer this question?
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28472%29.png)
+
+#### 2.5.2: Parametric Equations of a Line Segment
+
+![](../../.gitbook/assets/image%20%28462%29.png)
+
+
+
+To solve this, we'll need to refer to this theorem again:
+
+![](../../.gitbook/assets/image%20%28473%29.png)
+
+![](../../.gitbook/assets/image%20%28491%29.png)
+
+#### 2.5.3: Convert Line Determined by Symmetric Equations
+
+![](../../.gitbook/assets/image%20%28470%29.png)
+
+#### 2.5.4: 
 
 ## Works Cited
 
