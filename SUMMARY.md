@@ -233,7 +233,8 @@
 
 ## Math
 
-* [Calculus 3](math/calculus-3/README.md)
+* [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
+* [Calculus 3 \(Bad\)](math/calculus-3/README.md)
   * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled/README.md)
     * [12.1:](math/calculus-3/untitled/12.1.md)
     * [12.2: Vectors](math/calculus-3/untitled/12.2-vectors.md)

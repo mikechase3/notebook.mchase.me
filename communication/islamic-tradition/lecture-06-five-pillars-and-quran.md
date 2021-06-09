@@ -19,7 +19,7 @@
 
 ## Major Themes
 
-### Gabriel
+![](../../.gitbook/assets/image%20%28462%29.png)
 
 
 

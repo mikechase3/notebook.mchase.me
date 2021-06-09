@@ -1,4 +1,4 @@
-# Calculus 3
+# Calculus 3 \(Bad\)
 
 ## Format
 
