@@ -19,7 +19,7 @@
 
 ## Major Themes
 
-![](../../.gitbook/assets/image%20%28462%29.png)
+![](../../.gitbook/assets/image%20%28464%29.png)
 
 
 

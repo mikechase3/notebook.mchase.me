@@ -234,6 +234,9 @@
 ## Math
 
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
+* [Calc 3](math/untitled-1/README.md)
+  * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
+  * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
 * [Calculus 3 \(Bad\)](math/calculus-3/README.md)
   * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled/README.md)
     * [12.1:](math/calculus-3/untitled/12.1.md)
@@ -256,7 +259,6 @@
     * [14.4: The Chain Rule](math/calculus-3/ch-14/untitled-1.md)
     * [Untitled](math/calculus-3/ch-14/untitled.md)
   * [Untitled](math/calculus-3/untitled-3.md)
-  * [Untitled](math/calculus-3/untitled-1.md)
 
 ## Music
 
@@ -272,4 +274,8 @@
 ## Personal Essays
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
+
+---
+
+* [Untitled](untitled.md)
 
