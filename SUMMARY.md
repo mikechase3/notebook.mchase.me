@@ -65,6 +65,7 @@
   * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
   * [Lecture 05: Islam in Medina](communication/islamic-tradition/lecture-05-islam-in-medina.md)
   * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
+  * [Lecture 07](communication/islamic-tradition/lecture-07.md)
 
 ## Chemistry
 
