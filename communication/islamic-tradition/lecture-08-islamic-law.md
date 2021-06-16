@@ -68,3 +68,7 @@
 
 ## The Scope of Fiqh
 
+![Works Cited: Dr. Salih REL 250 Islamic Faith Traditions](../../.gitbook/assets/image%20%28493%29.png)
+
+
+
