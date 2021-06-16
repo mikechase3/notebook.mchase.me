@@ -70,5 +70,44 @@
 
 ![Works Cited: Dr. Salih REL 250 Islamic Faith Traditions](../../.gitbook/assets/image%20%28493%29.png)
 
+## Principles of Islamic Jurisprudence \(Usal-al-fiqh\)
+
+#### Qur'an \(Divine Revelation\)
+
+#### Sunnah \(Prophetic Tradition\)
+
+#### Qiyas \(Analogy\)
+
+#### Ijma \(Consent\)
+
+#### Istihsan \(Preference\)
+
+#### Maslaha \(Public Good\)
+
+* If your dad is dying, you can let your father die in the hospital if your money will do much better being spent on something more productive and let your father die a natural death.
+
+#### URF \(Tradition/culture/custom of a society\)
+
+## Shari Ah Schools \(Madhhab\)
+
+![Works Cited: Dr. Salih REL 250](../../.gitbook/assets/image%20%28495%29.png)
+
+* Any Muslims will be part of these schools.
+
+![](../../.gitbook/assets/image%20%28497%29.png)
+
+![](../../.gitbook/assets/image%20%28496%29.png)
+
+## States of Human Religious Experience
+
+1. Islam: complete surrender
+2. Iman: interior aspect of faith
+3. Ihsan: "worship God as if you see him"
+4. Wara': Virtue of abstinence
+5. Ma'rifa: intuitive knowledge of God
+6. 'Ilm: discursive knowledge of divine.
+
+![](../../.gitbook/assets/image%20%28494%29.png)
+
 
 
