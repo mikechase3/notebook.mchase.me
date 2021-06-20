@@ -4,31 +4,23 @@
 
 {% embed url="https://openstax.org/books/calculus-volume-3/pages/2-introduction" %}
 
-## Review
-
-{% embed url="https://openstax.org/books/calculus-volume-3/pages/2-key-terms" %}
-
-## Equation Sheet
+## Formulas
 
 ![](../../.gitbook/assets/image%20%28484%29.png)
 
-## 2.1: Vectors in the Plane
+## Key Concepts
 
-### Review
+{% embed url="https://openstax.org/books/calculus-volume-3/pages/2-key-terms" %}
+
+### 2.1: Vectors in the Plane
 
 ![](../../.gitbook/assets/image%20%28482%29.png)
 
-## 2.2: Vectors in Three Dimensions
-
-### Review
+### 2.2: Vectors in Three Dimensions
 
 ![](../../.gitbook/assets/image%20%28492%29.png)
 
-### My Open Math
-
-## 2.3: The Dot Product
-
-### Review
+### 2.3: The Dot Product
 
 * The dot product, or scalar product, of two vectors 𝐮=〈𝑢1,𝑢2,𝑢3〉u=〈u1,u2,u3〉 and 𝐯=〈𝑣1,𝑣2,𝑣3〉v=〈v1,v2,v3〉 is 𝐮·𝐯=𝑢1𝑣1+𝑢2𝑣2+𝑢3𝑣3.u·v=u1v1+u2v2+u3v3.
 * The dot product satisfies the following properties:
@@ -42,7 +34,17 @@
 * The vector projection of **v** onto **u** is the vector proj𝐮𝐯=𝐮·𝐯‖𝐮‖2𝐮.projuv=u·v‖u‖2u. The magnitude of this vector is known as the _scalar projection_ of **v** onto **u**, given by comp𝐮𝐯=𝐮·𝐯‖𝐮‖.compuv=u·v‖u‖.
 * Work is done when a force is applied to an object, causing displacement. When the force is represented by the vector **F** and the displacement is represented by the vector **s**, then the work done _W_ is given by the formula 𝑊=𝐅·𝑠=‖𝐅‖‖𝐬‖cos𝜃.
 
-### My Open math
+### 2.4: The Cross Product
+
+![](../../.gitbook/assets/image%20%28489%29.png)
+
+### 2.5: Equations of Lines and Planes in Space
+
+![](../../.gitbook/assets/image%20%28467%29.png)
+
+## My Open Math
+
+### 2.3: The Dot Product
 
 ![](../../.gitbook/assets/image%20%28488%29.png)
 
@@ -50,15 +52,7 @@
 
 ![](../../.gitbook/assets/image%20%28474%29.png)
 
-## 2.4: The Cross Product
-
-### Review
-
-![](../../.gitbook/assets/image%20%28489%29.png)
-
-### Homework
-
-
+### 2.4: Cross Product
 
 ![](../../.gitbook/assets/image%20%28479%29.png)
 
@@ -92,13 +86,7 @@
 
 ![](../../.gitbook/assets/image%20%28478%29.png)
 
-## 2.5: Equations of Lines and Planes in Space
-
-### Review
-
-![](../../.gitbook/assets/image%20%28467%29.png)
-
-### My Open Math
+### 2.5: Equations of Lines and Planes in Space
 
 #### 2.5.1: Equations of a line in space
 
