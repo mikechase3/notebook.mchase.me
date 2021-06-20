@@ -2,7 +2,9 @@
 
 {% embed url="https://openstax.org/books/calculus-volume-3/pages/3-key-terms" %}
 
+## Key Concepts
 
+![](../../.gitbook/assets/image%20%28498%29.png)
 
 ## Works Cited
 
