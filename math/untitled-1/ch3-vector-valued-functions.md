@@ -4,7 +4,7 @@
 
 ## Formulas
 
-![](../../.gitbook/assets/image%20%28507%29.png)
+![](../../.gitbook/assets/image%20%28510%29.png)
 
 ## Key Concepts
 
@@ -28,7 +28,23 @@
 
 ![](../../.gitbook/assets/mat-2290-scrap.jpg)
 
+![](../../.gitbook/assets/image%20%28510%29.png)
+
+## My Open Math
+
+### 3.1: Vector Valued Functions
+
+#### 3.1.1: Match each graph with it's equation
+
+Here, we're asked to match graphs with the equations that describe them.
+
 ![](../../.gitbook/assets/image%20%28507%29.png)
+
+If you come across a tough one, search "Parametric Plot &lt;function&gt; &lt;range of t&gt;" on Wolfram Alpha to see the graph.
+
+![](../../.gitbook/assets/image%20%28506%29.png)
+
+#### 3.1.2: 
 
 ## Works Cited
 
