@@ -239,6 +239,7 @@
 * [Calc 3](math/untitled-1/README.md)
   * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
+  * [CH4:](math/untitled-1/ch4.md)
 * [Calculus 3 \(Bad\)](math/calculus-3/README.md)
   * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled/README.md)
     * [12.1:](math/calculus-3/untitled/12.1.md)
