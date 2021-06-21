@@ -1,5 +1,11 @@
 # Lecture 08: Islamic Law
 
+## Reading \(p.318-340\)
+
+
+
+
+
 ## Bidah
 
 * It means to create something without precedence.
@@ -109,5 +115,7 @@
 
 ![](../../.gitbook/assets/image%20%28494%29.png)
 
+## Works Cited
 
+* Dr. Jusef Salih's REL 250: Islamic Traditions at the University of Dayton. \(Slides especially\).
 
