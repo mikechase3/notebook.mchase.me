@@ -67,7 +67,6 @@
   * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
   * [Lecture 07](communication/islamic-tradition/lecture-07.md)
   * [Lecture 08: Islamic Law](communication/islamic-tradition/lecture-08-islamic-law.md)
-  * [Lecture 09:](communication/islamic-tradition/lecture-09.md)
 
 ## Chemistry
 
