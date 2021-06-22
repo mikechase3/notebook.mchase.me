@@ -123,6 +123,7 @@
   * [Lecture 01: Course Overview](computer-science/full-stack-cloud-based-application-development/lecture-01-preview.md)
   * [Week 02: Cloud Web Foundations](computer-science/full-stack-cloud-based-application-development/lecture-01-cloud-web-foundations.md)
   * [Week 03 Front-End Jvascript CSS jQuery](computer-science/full-stack-cloud-based-application-development/week-03-front-end-jvascript-css-jquery.md)
+  * [Week 05: Microservices Architecture & Implementation with Express](computer-science/full-stack-cloud-based-application-development/week-05-microservices-architecture-and-implementation-with-express.md)
 * [Ghost](computer-science/ghost.md)
 * [IOS Programming](computer-science/ios-programming/README.md)
   * [Untitled](computer-science/ios-programming/untitled.md)
