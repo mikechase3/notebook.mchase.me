@@ -21,6 +21,16 @@
   * The constraint will be a subset of a curve.
   * He mentioned "Lagrange multipliers"
 
+#### 4.23 Approximation
+
+![](../../.gitbook/assets/image%20%28519%29.png)
+
+#### 4.30 Chain Rule
+
+![](../../.gitbook/assets/cleanshot-2021-06-23-at-00.49.44-2x.jpg)
+
+
+
 ## Works Cited
 
 * All problems are completed by Michael Chase
