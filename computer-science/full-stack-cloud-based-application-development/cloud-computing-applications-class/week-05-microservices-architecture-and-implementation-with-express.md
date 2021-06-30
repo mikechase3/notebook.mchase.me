@@ -10,7 +10,7 @@
 
 ### Monolithic
 
-![The three-tier monolithic design](../../.gitbook/assets/image%20%28517%29.png)
+![The three-tier monolithic design](../../../.gitbook/assets/image%20%28517%29.png)
 
 #### What is a monolithic design?
 
@@ -39,7 +39,7 @@
 
 ## Microservices
 
-![](../../.gitbook/assets/image%20%28514%29.png)
+![](../../../.gitbook/assets/image%20%28514%29.png)
 
 * This is an application architecture and development approach to building **large applications** consisting of a collection of small, autonomous services.
 * Each service is self-contained implementing a **single** business capability.
@@ -84,7 +84,7 @@
 * Add a new route to the application using `app.Method(path, handler)`
 * Use functions and getters/setters. So everything is an interface of sorts.
 
-![](../../.gitbook/assets/image%20%28515%29.png)
+![](../../../.gitbook/assets/image%20%28515%29.png)
 
 ## Cross-Origin Resource Sharing \(CORS\)
 
@@ -92,7 +92,7 @@
 
 ### Usage Example
 
-![](../../.gitbook/assets/image%20%28516%29.png)
+![](../../../.gitbook/assets/image%20%28516%29.png)
 
 {% hint style="info" %}
 **Check your understanding:** True/False: a microservice API allow CORS by default. _False._

@@ -22,11 +22,11 @@ Software applications are computer programs that are developed by software vendo
 
 ## Cloud Computing Software-Oriented Architecture
 
-![Cloud Architecture](../../.gitbook/assets/image%20%28459%29.png)
+![Cloud Architecture](../../../.gitbook/assets/image%20%28459%29.png)
 
 ### Hidden Services
 
-![](../../.gitbook/assets/image%20%28457%29.png)
+![](../../../.gitbook/assets/image%20%28457%29.png)
 
 ## Works Cited
 

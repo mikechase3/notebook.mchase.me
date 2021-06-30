@@ -21,7 +21,7 @@ Link is for myself - contact Phu for access.
 
 ### IaaS vs PaaS
 
-![](../../.gitbook/assets/image%20%28460%29.png)
+![](../../../.gitbook/assets/image%20%28460%29.png)
 
 ## Works Cited
 
