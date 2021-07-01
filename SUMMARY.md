@@ -119,6 +119,7 @@
     * [NP Completeness \(L21\)](computer-science/data-structures-and-algorithms/np-completeness/np-completeness-l21.md)
     * [NP Reductions and Applications \(L22\)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
 * [Full Stack Development](computer-science/full-stack-cloud-based-application-development/README.md)
+  * [Resources](computer-science/full-stack-cloud-based-application-development/resources.md)
   * [Javascript Syntax](computer-science/full-stack-cloud-based-application-development/javascript-syntax.md)
   * [Web Development Environment](computer-science/full-stack-cloud-based-application-development/web-development-environment.md)
   * [HTML](computer-science/full-stack-cloud-based-application-development/html.md)
