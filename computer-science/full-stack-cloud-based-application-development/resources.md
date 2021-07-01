@@ -20,7 +20,7 @@ Here are the best resources that'll help you along the way:
 
 ## Reference Sites
 
-### MDN Web Docs
+### Mozilla Developer Network \(MDN\) Web Docs
 
 {% embed url="https://developer.mozilla.org/en-US/" %}
 
