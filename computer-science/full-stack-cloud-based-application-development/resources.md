@@ -63,5 +63,9 @@ Here are the best resources that'll help you along the way:
 
 {% embed url="https://bookshop.org/books/cracking-the-coding-interview-189-programming-questions-and-solutions/9780984782857" %}
 
+## misc
+
+{% embed url="https://discuss.codecademy.com/c/project/1833" %}
+
 
 
