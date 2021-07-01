@@ -18,7 +18,7 @@ Here are the best resources that'll help you along the way:
 
 
 
-## Reference
+## Reference Sites
 
 ### MDN Web Docs
 
@@ -51,7 +51,17 @@ Here are the best resources that'll help you along the way:
 
 {% embed url="https://css-tricks.com/guides/" %}
 
+## Books
+
+{% embed url="https://bookshop.org/books/html-and-css-design-and-build-websites/9781118008188" %}
+
+{% embed url="https://bookshop.org/books/javascript-and-jquery-interactive-front-end-web-development/9781118531648" %}
+
+### Eloquent Javascript \(Free\)
+
+{% embed url="https://eloquentjavascript.net/" %}
+
+{% embed url="https://bookshop.org/books/cracking-the-coding-interview-189-programming-questions-and-solutions/9780984782857" %}
 
 
-### 
 
