@@ -74,8 +74,6 @@
 
 ## Computer Science
 
-* [Databases](computer-science/databases/README.md)
-  * [MySQL](computer-science/databases/mysql.md)
 * [Data Structures & Algorithms](computer-science/data-structures-and-algorithms/README.md)
   * [CPS 350 Miscellaneous](computer-science/data-structures-and-algorithms/untitled.md)
   * [Asymptotic Notation](computer-science/data-structures-and-algorithms/asymptotic-notation/README.md)
@@ -124,6 +122,8 @@
   * [Web Development Environment](computer-science/full-stack-cloud-based-application-development/web-development-environment.md)
   * [HTML](computer-science/full-stack-cloud-based-application-development/html.md)
   * [Deployment](computer-science/full-stack-cloud-based-application-development/deployment.md)
+  * [Databases](computer-science/full-stack-cloud-based-application-development/databases/README.md)
+    * [MySQL](computer-science/full-stack-cloud-based-application-development/databases/mysql.md)
   * [Cloud Computing Applications Class](computer-science/full-stack-cloud-based-application-development/cloud-computing-applications-class/README.md)
     * [Lecture 01: Course Overview](computer-science/full-stack-cloud-based-application-development/cloud-computing-applications-class/lecture-01-preview.md)
     * [Week 02: Cloud Web Foundations](computer-science/full-stack-cloud-based-application-development/cloud-computing-applications-class/lecture-01-cloud-web-foundations.md)
