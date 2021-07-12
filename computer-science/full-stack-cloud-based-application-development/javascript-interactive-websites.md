@@ -106,13 +106,111 @@ Use it when it interacts with the DOM.
 
 ## Accessing and Modifying Content
 
-### Inner HTML
+### document.body Object
 
-We can access and modify HTML elements like so:
+* References the entire `<body>` of the HTML page.
+* The `<body>` element contains all visible content of the page.
 
-![Source: Codecademy Full-Stack Course](../../.gitbook/assets/image%20%28526%29.png)
+### document.createElement\(\) Method
 
-### CSS, Class, and ID
+#### The JavaScript `document.createElement()` Method
+
+```text
+const newButton = document.createElement("button");
+```
+
+The `document.createElement()` method creates and returns a reference to a new Element Node with the specified tag name.
+
+`document.createElement()` does not actually add the new element to the DOM, it must be attached with a method such as `element.appendChild()`.
+
+### document.getElementById\(\) Method
+
+* Returns the element that has the `id` attirbute with the specified value.
+* Returns null if no elements with the ID exist.
+* Only returns the first element, so make sure to only use an ID once.
+
+```markup
+// To save a reference to the element with id 'demo':
+const demoElement = document.getElementById('demo');
+```
+
+### document.querySelector\(\)
+
+The `.querySelector()` method selects the first child/descendant element that matches its selector argument.
+
+It can be invoked on the `document` object to search the entire document or on a single element instance to search that element’s descendants.
+
+```javascript
+// Select the first <div>
+const firstDiv = document.querySelector('div');
+ 
+// Select the first .button element inside .main-navigation
+const navMenu = document.getElementById('main-navigation');
+const firstButtonChild = navMenu.querySelector('.button');
+```
+
+### element.appendChild\(\) Method
+
+* Takes an element as a parameter.
+* Appends the element as the last child of the parent.
+* In the example, the newly created `<li>` element will be appended as the last child of the HTML element with the ID list.
+
+```markup
+var node1 = document.createElement('li');
+document.getElementById('list').appendChild(node1);
+```
+
+### element.InnerHTML
+
+The `element.innerHTML` property can be used to access the HTML markup that makes up an element’s contents.
+
+`element.innerHTML` can be used to access the current value of an element’s contents or to reassign them.
+
+```markup
+<box>
+  <p>Hello there!</p>
+</box>
+ 
+<script>
+  const box = document.querySelector('p');
+  // Outputs '<p>Hello there!</p>':
+  console.log(box.innerHTML)
+  // Reassigns the value:
+  box.innerHTML = '<p>Goodbye</p>'
+</script>
+```
+
+### element.style.&lt;css property&gt;
+
+* Modifies the CSS style of that element.
+* Follows the `element.style.property` format.
+* Note that we use camelCase in Javascript, not hyphens.
+* The example below...
+  * Selects the first element with a class of blue.
+  * Assigns blue as that background color.
+
+```javascript
+let blueElement = document.querySelector('.blue');  // .blue is a class in CSS
+blueElement.style.backgroundColor = 'blue';
+
+// Alternative formatting
+document.querySelector('.blue').style.fontFamily = 'Roboto';
+
+// Corresponding CSS this is affecting
+.blue {
+  background-color: #270d30;
+  margin: 0;
+  padding: 0;
+}
+```
 
 
+
+## Javascript Events
+
+
+
+## Works Cited
+
+Large portions of this were  taken from CodeCademy's [cheatsheet](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-javascript-and-the-dom/cheatsheet) so I want to acknowledge them. They also word it better than I do, so you'll want to go right there if you're new to this. I re-type sometimes it so it sticks in my brain.
 
