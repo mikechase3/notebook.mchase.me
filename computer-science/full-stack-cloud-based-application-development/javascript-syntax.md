@@ -6,7 +6,7 @@
 
 
 
-## Cheat Sheet
+## Cheat Sheet For Basics
 
 {% embed url="https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf" %}
 
@@ -27,6 +27,10 @@
 ![Image source: Codecademy in article &quot;JavaScript Versions: ES6 and Before](../../.gitbook/assets/image%20%28521%29.png)
 
 {% embed url="https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-i/modules/fscp-introduction-to-programming-with-javascript/articles/javascript-versions" %}
+
+## Arrow Functions
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions" %}
 
 
 
