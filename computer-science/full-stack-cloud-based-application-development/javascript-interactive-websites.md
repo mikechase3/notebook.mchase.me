@@ -155,9 +155,13 @@ const firstButtonChild = navMenu.querySelector('.button');
 * Appends the element as the last child of the parent.
 * In the example, the newly created `<li>` element will be appended as the last child of the HTML element with the ID list.
 
-```markup
-var node1 = document.createElement('li');
-document.getElementById('list').appendChild(node1);
+```javascript
+let newDestination = document.createElement('li');
+newDestination.id = 'oaxaca';
+newDestination.innerHTML = 'Oaxaca, Mexico';
+
+let parent = document.getElementById('more-destinations')
+parent.appendChild(newDestination); // Append to parent object. Not document.parent
 ```
 
 ### element.InnerHTML
