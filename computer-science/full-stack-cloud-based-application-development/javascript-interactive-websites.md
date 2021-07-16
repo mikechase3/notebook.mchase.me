@@ -189,7 +189,7 @@ let parent = document.getElementById('more-destinations')
 parent.appendChild(newDestination); // Append to parent object. Not document.parent
 ```
 
-### element.InnerHTML
+### element.innerHTML
 
 The `element.innerHTML` property can be used to access the HTML markup that makes up an element’s contents.
 
@@ -251,6 +251,30 @@ invoked on the event object, when the node is clicked. What we pass to
 the listener is just a reference to the function, not the invocation of 
 that function. It is up to the handler to invoke this when that time comes.*/
 element.onclick = turnButtonRed;
+```
+
+## Event Handler
+
+```javascript
+let eventTarget = document.getElementById('targetElement');
+ 
+eventTarget.addEventListener('click', function() {
+  // this block of code will run when click event happens on eventTarget element
+});
+```
+
+* We selected our event target from the DOM using `document.getElementById('targetElement')`.
+* We used the `.addEventListener()` method on the `eventTarget` DOM element.
+* The `.addEventListener()` method takes two arguments: an event name in _string_ format and an event handler function. We will learn about different values we can use as event names in a later lesson.
+* In this example, we used the `'click'` event, which fires when the user clicks on `eventTarget`.
+* The code block in the event handler function will execute when the `'click'` event is detected.
+
+```javascript
+function eventHandlerFunction() {
+  // this block of code will run when click event happens
+}
+ 
+eventTarget.addEventListener('click', eventHandlerFunction);
 ```
 
 ## Works Cited
