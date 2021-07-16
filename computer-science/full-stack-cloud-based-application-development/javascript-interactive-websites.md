@@ -238,7 +238,19 @@ document.querySelector('.blue').style.fontFamily = 'Roboto';
 ## Using the .onclick
 
 ```javascript
+let element = document.querySelector("button");
 
+function turnButtonRed (){
+  element.style.backgroundColor = 'red';
+  element.style.color = 'white';
+  element.innerHTML = 'Red Button';
+};
+
+/*We are registering the event and giving it a callback that will be 
+invoked on the event object, when the node is clicked. What we pass to 
+the listener is just a reference to the function, not the invocation of 
+that function. It is up to the handler to invoke this when that time comes.*/
+element.onclick = turnButtonRed;
 ```
 
 ## Works Cited
