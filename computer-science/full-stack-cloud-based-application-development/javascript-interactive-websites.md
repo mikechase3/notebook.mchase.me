@@ -149,6 +149,31 @@ const navMenu = document.getElementById('main-navigation');
 const firstButtonChild = navMenu.querySelector('.button');
 ```
 
+### document.removeChild\(\) and "hidden"
+
+* Removes an specified child from a parent.
+* The following code removes the first paragraph in a document
+
+```javascript
+let paragraph = document.querySelector('p');
+document.body.removeChild(paragraph);
+
+//Another example using IDs.
+const parent = document.querySelector("#more-destinations");
+const child = document.querySelector("#oaxaca");
+parent.removeChild(child);
+```
+
+* You could instead just hide elements instead of remove it.
+* This is not the same as hidden in CSS. Read more in the [MDN docs.](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/hidden)
+* Link to [demo](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-javascript-and-the-dom/lessons/javascript-dom/exercises/remove-element), requires codecademy pro.
+
+```javascript
+document.getElementById('sign').hidden = true;
+```
+
+
+
 ### element.appendChild\(\) Method
 
 * Takes an element as a parameter.
@@ -210,9 +235,11 @@ document.querySelector('.blue').style.fontFamily = 'Roboto';
 
 
 
-## Javascript Events
+## Using the .onclick
 
+```javascript
 
+```
 
 ## Works Cited
 
