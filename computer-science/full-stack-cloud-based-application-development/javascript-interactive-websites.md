@@ -253,7 +253,10 @@ that function. It is up to the handler to invoke this when that time comes.*/
 element.onclick = turnButtonRed;
 ```
 
-## Event Handler
+## [Event Handler Registration](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers) and [.onevent\(\)](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/add-event-listener)
+
+> Using the `.addEventListener()` method, we can have a DOM element listen for a specific event and execute a block of code when the event is detected. The DOM element that listens for an event is called the _event target_ and the block of code that runs when the event happens is called the _event handler_.  
+> - Source: [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers)
 
 ```javascript
 let eventTarget = document.getElementById('targetElement');
@@ -263,11 +266,13 @@ eventTarget.addEventListener('click', function() {
 });
 ```
 
-* We selected our event target from the DOM using `document.getElementById('targetElement')`.
-* We used the `.addEventListener()` method on the `eventTarget` DOM element.
-* The `.addEventListener()` method takes two arguments: an event name in _string_ format and an event handler function. We will learn about different values we can use as event names in a later lesson.
-* In this example, we used the `'click'` event, which fires when the user clicks on `eventTarget`.
-* The code block in the event handler function will execute when the `'click'` event is detected.
+> * We selected our event target from the DOM using `document.getElementById('targetElement')`.
+> * We used the `.addEventListener()` method on the `eventTarget` DOM element.
+> * The `.addEventListener()` method takes two arguments: an event name in _string_ format and an event handler function. We will learn about different values we can use as event names in a later lesson.
+> * In this example, we used the `'click'` event, which fires when the user clicks on `eventTarget`.
+> * The code block in the event handler function will execute when the `'click'` event is detected.
+>
+> Source: [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers)
 
 ```javascript
 function eventHandlerFunction() {
@@ -276,6 +281,10 @@ function eventHandlerFunction() {
  
 eventTarget.addEventListener('click', eventHandlerFunction);
 ```
+
+
+
+
 
 ## Works Cited
 
