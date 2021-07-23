@@ -253,10 +253,16 @@ that function. It is up to the handler to invoke this when that time comes.*/
 element.onclick = turnButtonRed;
 ```
 
+## DOM Events
+
 ## [Event Handler Registration](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers) and [.onevent\(\)](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/add-event-listener)
+
+
 
 > Using the `.addEventListener()` method, we can have a DOM element listen for a specific event and execute a block of code when the event is detected. The DOM element that listens for an event is called the _event target_ and the block of code that runs when the event happens is called the _event handler_.  
 > - Source: [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers)
+
+## HTML Forms
 
 ```javascript
 let eventTarget = document.getElementById('targetElement');
