@@ -204,6 +204,17 @@ print(8**2)
 print(6**4) #6^4
 ```
 
+If we need to get a square root and cuberoot, then you can raise it to 0.5 or 1/3. If it needs to be exact, use numpy:
+
+```python
+import numpy as np 
+arr1 = [1, 8, 27, 64] 
+arr2 = np.cbrt(arr1) 
+print(arr2)
+
+# Output: [1. 2. 3. 4.]
+```
+
 ### Compound Operators
 
 > Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
