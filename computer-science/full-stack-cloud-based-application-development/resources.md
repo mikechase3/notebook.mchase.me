@@ -29,41 +29,57 @@ Here are the best resources that'll help you along the way:
 
 [https://www.bitdegree.org/learn/](https://www.bitdegree.org/learn/)
 
+### W3 Schools
+
+{% embed url="https://www.w3schools.com/" %}
+
+* Lots of well-documented references with examples you can try out on-the-fly.
+* It's super well organized and easy to navigate.
+* This is my personal favorite.
+
+### XUL \(HTML/CSS/JS\)
+
+
+
+![XUL Table of contents for Javascript section](../../.gitbook/assets/image%20%28528%29.png)
+
+{% embed url="https://www.xul.fr/javascript/language.php" %}
+
+* Lightweight. Only has the basics.
+* I recommend it as a resource for beginners not familiar with syntax.
+* You won't get an information-overload.
+
+### OverAPI \(CSS/Javascript/Python/NodeJS/Express/More\)
+
+* OverAPI is like a giant cheat-sheet.
+* Everything links to official documentation \(like MDN in the case of Javascript, pictured below\).
+
+![OverAPI.com/javascript](../../.gitbook/assets/image%20%28529%29.png)
+
+## Courses/Programs/Books
+
 ### Bit Degree
 
 {% embed url="https://www.bitdegree.org/learn/" %}
 
-
-
 * Coding with a gamified experience.
 * Aimed at beginners.
 
-### W3 \(CSS\)
+#### Books I Love:
 
-{% embed url="https://www.w3.org/TR/2011/REC-CSS2-20110607/\#minitoc" %}
-
-* The primary source for CSS information.
-* Highly technical.
-
-### CSS-Tricks
-
-{% embed url="https://css-tricks.com/almanac/" %}
-
-{% embed url="https://css-tricks.com/guides/" %}
-
-## Books
+The HTML/CSS/JavaScript books here are aimed for beginners. They are designed beautifully which makes reading fun.
 
 {% embed url="https://bookshop.org/books/html-and-css-design-and-build-websites/9781118008188" %}
 
 {% embed url="https://bookshop.org/books/javascript-and-jquery-interactive-front-end-web-development/9781118531648" %}
 
-### Eloquent Javascript \(Free\)
-
 {% embed url="https://eloquentjavascript.net/" %}
+
+People like this one - though I haven't read it. It doesn't deal with JS specifically:
 
 {% embed url="https://bookshop.org/books/cracking-the-coding-interview-189-programming-questions-and-solutions/9780984782857" %}
 
-## misc
+You're able to share and get feedback from a community on your projects, so that's pretty cool:
 
 {% embed url="https://discuss.codecademy.com/c/project/1833" %}
 
