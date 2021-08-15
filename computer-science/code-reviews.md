@@ -1,5 +1,7 @@
 # Code Reviews
 
+{% embed url="https://www.youtube.com/watch?v=TlXy\_i27N3w" caption="Source of content. Notes below." %}
+
 ## Why Review Other's Code?
 
 1. Add comments to specific lines of code
