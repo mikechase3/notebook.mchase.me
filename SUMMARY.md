@@ -33,6 +33,7 @@
 
 ## Communication
 
+* [Anthropology](communication/anthropology.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
