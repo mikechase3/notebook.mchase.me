@@ -240,7 +240,8 @@
 ## Math
 
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
-* [Linear Algebra and Matrix Theory/Apps](math/matrix-theory.md)
+* [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
+  * [Matrix Theory & Apps](math/matrix-theory/matrix-theory-and-apps.md)
 * [Calc 3](math/untitled-1/README.md)
   * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
