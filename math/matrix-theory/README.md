@@ -101,7 +101,7 @@ We next went over some cool stuff about column space with the following lab:
 
 #### Finding Angle Between Vectors
 
-![](../../.gitbook/assets/image%20%28531%29.png)
+![](../../.gitbook/assets/image%20%28536%29.png)
 
 We solved this by using the formula:
 
@@ -109,7 +109,7 @@ $$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac
 
 #### Find Nonzero Vector
 
-![](../../.gitbook/assets/image%20%28532%29.png)
+![](../../.gitbook/assets/image%20%28540%29.png)
 
 Here, we basically ran out of time. But we plugged things in and got the answers \[4,1,0\] and \[3,0,3\]
 

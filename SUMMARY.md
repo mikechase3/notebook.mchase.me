@@ -239,6 +239,8 @@
 
 ## Math
 
+* [Rocks for Jocks](math/rocks-for-jocks/README.md)
+  * [Astronomy](math/rocks-for-jocks/astronomy.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Matrix Theory & Apps](math/matrix-theory/matrix-theory-and-apps.md)
