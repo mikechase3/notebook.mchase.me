@@ -43,7 +43,7 @@ $$
 * We can solve this if A & **x** are given.
 * More interesting is what to do when A and **b** are given.
 
-## Class 2: Dot Product
+## Class 02: Dot Product
 
 ### Uses for Dot Product
 
@@ -89,9 +89,27 @@ This also means if we square both sides, then if we dot it, we can simplify it l
 >
 > $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$
 
-We next went over some 
+We next went over some cool stuff about column space with the following lab:
+
+{% embed url="https://www.geogebra.org/resource/cfeayta7/9fTewx4V0FmMQs82/material-cfeayta7.pdf" %}
+
+
 
 {% embed url="https://www.geogebra.org/m/fkk8j959" %}
 
+### Sample Problems
 
+#### Finding Angle Between Vectors
+
+![](../../.gitbook/assets/image%20%28531%29.png)
+
+We solved this by using the formula:
+
+$$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac{-2+12}{(33)(21)}$$ 
+
+#### Find Nonzero Vector
+
+![](../../.gitbook/assets/image%20%28532%29.png)
+
+Here, we basically ran out of time. But we plugged things in and got the answers \[4,1,0\] and \[3,0,3\]
 
