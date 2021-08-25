@@ -89,5 +89,9 @@ This also means if we square both sides, then if we dot it, we can simplify it l
 >
 > $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$
 
+We next went over some 
+
+{% embed url="https://www.geogebra.org/m/fkk8j959" %}
+
 
 
