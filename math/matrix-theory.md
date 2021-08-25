@@ -1,4 +1,4 @@
-# Matrix Theory
+# Linear Algebra and Matrix Theory/Apps
 
 ## First Class
 
