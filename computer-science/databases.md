@@ -38,4 +38,4 @@
 * Datatypes are different
   * ProstgreSQL includes more options like `varchar(n)`, `char(n)`, or `text`.
 * Different systems include different built-in tables
-* * 
+
