@@ -107,7 +107,7 @@ We solved this by using the formula:
 
 $$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac{-2+12}{(33)(21)}$$ 
 
-#### Find Nonzero Vector
+#### Find Two Independent Vectors in the Plane
 
 ![](../../.gitbook/assets/image%20%28540%29.png)
 
