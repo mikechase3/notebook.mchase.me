@@ -1,4 +1,4 @@
-# Lecture 03: Multiplying Matrices
+# Lecture 03: Multiplying and Factoring Matrices
 
 ## Multiplying Matrices
 
@@ -20,6 +20,18 @@ Here, we're taking the rows
 
 
 ![Example from Su p.51. Annotated by me.](../../.gitbook/assets/image%20%28544%29.png)
+
+## Factoring a Matrix Into Two Products
+
+**Goal:** Factor a matrix `A` into `A=CR` to make the column space and its dimensions more obvious and the size of the column space more obvious. This factorization is designed to get rid of dependent columns.
+
+### Steps to factor a Matrix into 2 Products
+
+1. Find the dependent column of `A` by sight or intuition.
+2. Define `C` with just the independent columns of A \(and cross out the dependent ones\).
+3. For `R`, define its columns by using weights on the columns of `C` that equal the corresponding column of `A`.
+
+
 
 ## Works Cited
 
