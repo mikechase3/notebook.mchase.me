@@ -39,5 +39,11 @@
   * ProstgreSQL includes more options like `varchar(n)`, `char(n)`, or `text`
 * Different systems include different built-in tables
 
+## Cheat-Sheets
+
+
+
+{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-databases/modules/cspath-working-with-your-first-database/cheatsheet" %}
+
 
 

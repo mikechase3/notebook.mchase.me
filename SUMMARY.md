@@ -33,7 +33,8 @@
 
 ## Communication
 
-* [Anthropology](communication/anthropology.md)
+* [Anthropology](communication/anthropology/README.md)
+  * [Lecture 01: What is Anthropology](communication/anthropology/lecture-01-what-is-anthropology.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
