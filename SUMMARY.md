@@ -77,6 +77,8 @@
 ## Computer Science
 
 * [Code Reviews](computer-science/code-reviews.md)
+* [Cybersecurity](computer-science/cybersecurity/README.md)
+  * [Lecture 01: Cyber Security Fundamentals](computer-science/cybersecurity/lecture-01-cyber-security-fundamentals.md)
 * [Databases](computer-science/databases.md)
 * [Data Structures & Algorithms](computer-science/data-structures-and-algorithms/README.md)
   * [CPS 350 Miscellaneous](computer-science/data-structures-and-algorithms/untitled.md)
