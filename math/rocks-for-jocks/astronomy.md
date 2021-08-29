@@ -42,5 +42,22 @@ The faster a light source moves away from an observer, the more red they look. T
 
 ![](../../.gitbook/assets/image%20%28533%29.png)
 
-### Primordial Background Radiation
+### Big Bang Hypothesis
+
+1. **Define Problem**: How did the univeerse originate?
+2. **Collect Data & Make Observations**: The doppler effect shows that all galaxies are moving outward, away from earth and that the farther a galaxy is away, the faster it is moving.
+3. **Formulate Hypothesis**: The universe began as an infinitely hot, dense, point of energy that explodes. Matter and space are created the universe expands and accelerates outwards.
+4. **Test Hypothesis**: Collect more data. 
+   1. Black body radiation left over from the big bang. Discovered andd fits predicted intensity curve.
+   2. Primordial helium: scientists predicted that the big bang should've created approximately 75% hydrogen and 25% helium. But fusion in stars should create more helium. The older a star is, the more helium it should contain. Our sun has 28% helium. 
+5. **Corroborate or Dispute Hypothesis:** A good theory, but people always refute it somehow.
+
+## Life Cycle of a Star
+
+![](../../.gitbook/assets/image%20%28545%29.png)
+
+1. Stars burn hydrogen and convert it to helium.
+2. The helium accumulates.
+3. Gravitational contraction of core heats it up.
+4. Helium begins to fuse into elements up to carbon.
 
