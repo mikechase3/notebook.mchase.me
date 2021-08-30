@@ -61,3 +61,7 @@ The faster a light source moves away from an observer, the more red they look. T
 3. Gravitational contraction of core heats it up.
 4. Helium begins to fuse into elements up to carbon.
 
+## The Nebula Theory of Solar System Formation
+
+
+
