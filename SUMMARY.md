@@ -248,6 +248,7 @@
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Class 01 & 02: Matrices Review](math/matrix-theory/matrix-theory-and-apps.md)
   * [Lecture 03: Multiplying and Factoring Matrices](math/matrix-theory/lecture-03-multiplying-matrices.md)
+  * [Lecture 04: Row Column Model](math/matrix-theory/lecture-04-row-column-model.md)
 * [Calc 3](math/untitled-1/README.md)
   * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)

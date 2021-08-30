@@ -57,6 +57,31 @@ $$
 
 
 
+### Steps \(Restated Differently\)
+
+$$
+\begin{bmatrix}1 & -1 & -1 & 0\\-2 & 2 & 0 & -6 \end{bmatrix}
+$$
+
+1. Find the independent and dependent.
+   1. We start with only a 0 vector. The first adds something new to the column space.
+   2. The second column is just a multiple, so we skip that. It's dependent.
+   3. The third one is Independent.
+   4. The fourth is dependent because it's a linear combination.
+2. I know I'm going to need 4 columns in `R` because that's how many I'm solving for.
+   1. For the first column, how many of the first and how many of the 2nd do you need to equal the original?
+   2. Do this for each set of columns to get `R`.
+
+![](../../.gitbook/assets/image%20%28548%29.png)
+
+![](../../.gitbook/assets/image%20%28549%29.png)
+
+### Good Example
+
+Start here because I 100% understood this problem and how to do it at one point.
+
+![](../../.gitbook/assets/image%20%28550%29.png)
+
 ## Works Cited
 
 * Bush, Arthur. "MTH 301 Matrix Theory and Applications." _Physical Class at the University of Dayton._
