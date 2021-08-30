@@ -61,7 +61,75 @@ The faster a light source moves away from an observer, the more red they look. T
 3. Gravitational contraction of core heats it up.
 4. Helium begins to fuse into elements up to carbon.
 
-## The Nebula Theory of Solar System Formation
+### The Nebula Theory of Solar System Formation
+
+I got distracted because the girl sitting next to me started drawing on a post-it note, so I made my own drawing. It was significantly less good than her's. I have little idea of what this is, so I should look it up later.
+
+![](../../.gitbook/assets/image%20%28548%29.png)
+
+{% embed url="https://cdn.kastatic.org/KA-share/BigHistory/KU3.0.9\_Life\_Cycle\_of\_Stars.pdf" caption="Life Cycle of Stars: Khan Academy PDF" %}
 
 
+
+## The Planets
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Density</th>
+      <th style="text-align:left">Atmosphere Makeup</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Terrestrial</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Dense, Rocky, Small.</li>
+          <li>Density of for earth.</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Oxygen (29%)</li>
+          <li>Nitrogen (71%)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Gas Giants</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Huge, gaseous, but the center is lightweight.</li>
+          <li>Saturn is .</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Primarily hydrogen and helium.</td>
+    </tr>
+  </tbody>
+</table>
+
+### Photosynthesis
+
+$$
+CO_2+H_2O \xrightarrow[\texttt{Energy}]{\texttt{Sun's}} C_6H_{12}O_6 +6O_2\texttt{ (aka Glucose)} + O_2
+$$
+
+* I'm not sure why he wrote Oxygen twice... must've missed something.
+
+### Resource: Nasa Visualization
+
+{% embed url="https://solarsystem.nasa.gov/planets/overview/" %}
+
+### Terrestrial Planets
+
+* **Mercury**: Impacts caused **craters**. 
+
+  * Has no wind, water, or erosion which would destroy the craters.
+  * Meteors burn in earth's atmosphere, but not Mercury.
+  * Earth has plate active plate tectonics, particularly volcanism.
+  * The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet_ because it doesn't have an active heat engine like the earth does.
 

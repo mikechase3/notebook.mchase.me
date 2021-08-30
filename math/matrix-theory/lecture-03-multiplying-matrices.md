@@ -72,15 +72,15 @@ $$
    1. For the first column, how many of the first and how many of the 2nd do you need to equal the original?
    2. Do this for each set of columns to get `R`.
 
-![](../../.gitbook/assets/image%20%28548%29.png)
-
 ![](../../.gitbook/assets/image%20%28549%29.png)
+
+![](../../.gitbook/assets/image%20%28550%29.png)
 
 ### Good Example
 
 Start here because I 100% understood this problem and how to do it at one point.
 
-![](../../.gitbook/assets/image%20%28550%29.png)
+![](../../.gitbook/assets/image%20%28552%29.png)
 
 ## Works Cited
 
