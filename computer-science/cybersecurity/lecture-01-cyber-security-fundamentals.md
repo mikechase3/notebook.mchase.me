@@ -1,4 +1,4 @@
-# Lecture 01: Cyber Security Fundamentals
+# Lecture 00: Cyber Security Fundamentals
 
 ## What is Cyberspace
 

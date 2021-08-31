@@ -1,4 +1,4 @@
-# Lecture 03: Malicious Software
+# Lecture 01: Malicious Software
 
 ## 6.1: Types of Malicious Software \(Malware\)
 
