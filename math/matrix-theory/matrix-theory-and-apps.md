@@ -113,3 +113,23 @@ $$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac
 
 Here, we basically ran out of time. But we plugged things in and got the answers \[4,1,0\] and \[3,0,3\]
 
+## Miscellaneous
+
+### Angle Between Two Vectors
+
+1. First do the dot product between the two vectors
+2. Second, find the lengths of each and multiply them together, put that on the denominator.
+3. Lastly, find the arccos of that.
+
+$$
+\texttt{angle}=\arccos({\frac{\vec{v}\cdot\vec{w}}{||\vec{v}||\ast||\vec{w}||}})
+$$
+
+You're probably more familiar with the formula below:
+
+![](../../.gitbook/assets/image%20%28564%29.png)
+
+
+
+
+
