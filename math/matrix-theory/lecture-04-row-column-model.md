@@ -76,9 +76,5 @@ $$
 M= \begin{bmatrix}(3+0+12) & (6+-1+-6) \\ 0 & 1 \end{bmatrix}
 $$
 
-## When to use each model
-
-{% hint style="danger" %}
-Ask Dr. Arthur when to use each model.
-{% endhint %}
+## 
 
