@@ -124,12 +124,66 @@ $$
 
 {% embed url="https://solarsystem.nasa.gov/planets/overview/" %}
 
-### Terrestrial Planets
+### Mercury
+
+![Source: EarthHow](../../.gitbook/assets/image%20%28569%29.png)
 
 * **Mercury**: Impacts caused **craters**. 
+* Has no wind, water, or erosion which would destroy the craters.
+* Meteors burn in earth's atmosphere, but not Mercury.
+* Earth has plate active plate tectonics, particularly volcanism.
+* The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet_ because it doesn't have an active heat engine like the earth does.
+* The planet is cooling down and shrinking slowly.
 
-  * Has no wind, water, or erosion which would destroy the craters.
-  * Meteors burn in earth's atmosphere, but not Mercury.
-  * Earth has plate active plate tectonics, particularly volcanism.
-  * The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet_ because it doesn't have an active heat engine like the earth does.
+### Venus
 
+![Source: EarthHow](../../.gitbook/assets/image%20%28570%29.png)
+
+* Similar in size to earth.
+* The $$CO_2$$ makes up 96% of the atmosphere.
+* Runaway greenhouse effect at $$900\degree F$$ at the surface.
+* Rather than have sections or plates interacting with each other.
+* The hottest planet in the solar system.
+
+#### Phosphene & Fraudulent Claims
+
+The more extraordinary the claim, the more evidence is required to support it. Phosphene signals that there might be life on Venus, but scientists disagree with that paper and the methods they used.
+
+#### Venus's Volcanoes
+
+Venus has volcanoes which form rhyolite which cause circular volcanoes.
+
+![](../../.gitbook/assets/image%20%28566%29.png)
+
+### 
+
+### Earth
+
+* First photosynthetic life 3.8bn years ago.
+
+#### Earth's Core
+
+We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
+
+* **Inner core**: made of iron
+* **Outer core**: silicon, iron
+* **Mantle**: Nobody has gotten into the mantle to collect a sample.
+
+
+
+### Mars
+
+![Source: Earth How](../../.gitbook/assets/image%20%28567%29.png)
+
+* The atmosphere is thin and mostly composed of $$CO_2$$ 
+* Red because of oxidized iron.There's a tiny bit of oxygen on mars.
+* Contains polarized carbon dioxide ice.
+* **Craters** tell us that Mars is a _dead_ planet with little/no internal heat.
+* **Cracks**: Water was probably running on Mars at one point.
+
+
+
+## References/Works Cited
+
+* Infographics from EarthHow: [https://earthhow.com/category/outer-space/solar-system/](https://earthhow.com/category/outer-space/solar-system/)
+* 
