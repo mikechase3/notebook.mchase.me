@@ -44,3 +44,23 @@ $$
 
 * We can not divide a matrix by another matrix.
 
+
+
+## Examples
+
+### Ex1
+
+![](../../.gitbook/assets/image%20%28571%29.png)
+
+We should really think of this problem as:
+
+$$
+a(-4) +b(-3) = -4
+$$
+
+$$
+[-4, -3]  \begin{bmatrix} a & b \\ c & d \end{bmatrix} = -3
+$$
+
+
+

@@ -1,4 +1,4 @@
-# Lecture 04: Row Column Model
+# Lecture 04: Row-Column & Column-Row
 
 ## Second Model: Row-Column Model
 
