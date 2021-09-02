@@ -125,6 +125,111 @@ A compression virus inserts itself such that the virus size doesn't change.
 
 ![](../../.gitbook/assets/image%20%28561%29.png)
 
+### Worm Target Discovery: Scanning Strategies
+
+Every worm does some sort-of scanning. When you ping a particular port, if there is a service available on that port, it is going to respond in some manner or fashion. The software that services hat port might change depending on the version or who wrote that software. For example, TCP software adheres to that standard, but they have slightly different versions of TCP. By saying it's running this company's version of TCP on this versions of Windows, it can tell that there's an exploit for that.
+
+* **Random**: a very noisy attack which will generate high volumes of internet traffic. 
+* **Hit-List**: You know where you're trying to go. You have a list of particular machines you're interested in or know that you have an exploit for this. Once a machine is affected, it is assigned a portion of that list to work on. It results in a short scanning period and is a lot more efficient.
+* **Topological:** This uses information on the affected machine to decide where it's going to attack next.
+* **Local Subnet**: You have this one subnet where you trust everyone by default. Since everyone is trusted within this subnet, I'm going to start looking for machines that are already in this subnet.
+
+### Worm Propagation Model
+
+![From &quot;Computer Security Principles and Practices&quot;](../../.gitbook/assets/image%20%28576%29.png)
+
+### The Morris Worm \(p.219\)
+
+* Robert Morris wrote it in 1988 and was designed to work on Linux systems.
+* Attempted to crack the local password file on one system and use that password on other systems.
+* After it found the password, it would use the `finger` command to see if another user exists on a different machine and login.
+* Once it got onto another machine, 1 out of 7 times, it would replicate even if it was already on the system which caused Morris to lose control of the propagation.
+* Successful attacks achieved communication with the operating system command interpreter.
+* He was convicted of violating _Computer Fraud and Abuse Act_.
+
+### Recent Worms
+
+![Source: Rusty Baldwin&apos;s Slides](../../.gitbook/assets/image%20%28577%29.png)
+
+* **Miria**: Interesting because it specifically targeted unsecured IoT devices. 600K infected devices induced a DDoS attack of 901 Gbps. A typical DDosS attack was 10-20Gbps.
+
+### Worm Tech \(p.222\)
+
+* **Metamorphic:** It's going to change itself slightly to avoid detection
+* **Polymorphic:** Will change completely.
+* **Ultrafast spreading:** it'll be slow so it's mostly undetected.
+* Multiplatform
+* Multiexploit
+
+### Mobile Code \(p.222\)
+
+These aren't mobile phones
+
+* They can be shipped unchanged to a variety of platforms.
+* These are installed and not every computer had the right drivers. So websites would send up some box and say _in order to watch this, you need to download this driver_ which was sometimes a virus.
+* Java applets, ActiveX \(horrible in regard to security\), JavaScript, and VBScript \(visual basic\).
+
+### Mobile Phone Worms
+
+* The target is the smartphone.
+
+### Drive By Downloads \(223\)
+
+* You download a virus just by visiting a page without even having to do anything.
+* **Fast-Flux Techniques**: How often the server its directing you changes its IP address so there's not a static address someone can go to and try to block it. But - this malicious code knows how to detect its current IP address.
+* **Exploits:** Commercial exploit packages in the OS, browser, Java, PDF readers, media players, and other plugins.
+* **Infection:** downloads payloads that will steal/extort money.
+* **Execution:** Malware calls home with sensitive data.
+
+### Clickjacking \(224\)
+
+* You think you're clicking on a particular button, but the malicious software has somehow obscured the button you think you're clicking and inserts its own button that takes yo to a place to download malicious software.
+* You can be typing your information into an invisible frame.
+
+## 6.5: Social Engineering
+
+* Tricking users to assist in the compromise of their own systems.
+* **Spam:** unsolicited bulk email, significant carrier of malware, used for phishing attacks.
+* **Trojan Horse:** Idk.
+* **Mobile Phone Trojans:** 
+
+## 6.6: Payload System Corruption \(227\)
+
+* **Chernobyl Virus**: First seen in 1992 which infects executable files and corrupts the entire file system when a trigger date is reached.
+* **Kelz**: On the trigger date, it caused the files on the hard drive to become empty; mass mailing worm infecting Windows 95 systems to XP systems.
+* **Ransomware**: Encrypts the user's data and demands payment in order to access the key needed to recover the information.
+  * PC Cyborg Trojan \(1989\)
+  * Gpcode Trojan \(2006\)
+
+## 6.8: Payload \(231\)
+
+* Takes over another internet attached computer and uses that computer to launch or manage attacks.
+* **Botnet**: a collection of bots capable of acting in a coordinated manner.
+
+### Remote Control Facility \(RCF\)
+
+* RCF is a means of implementing the remote control facility 
+* It issues all the commands for the bots.
+
+### Keylogger
+
+* Steals your keystrokes.
+
+### Spyware
+
+* Spies on you.
+
+### Phishing
+
+* **Spear-Phishing**: is where recipients are carefully researched by the attacker.
+* They are only sending messages to you. 
+
+## 6.9: Payloads, Stealthing, Backdoors \(233\).
+
+{% hint style="warning" %}
+Incomplete
+{% endhint %}
+
 
 
 ## Works Cited
@@ -132,7 +237,7 @@ A compression virus inserts itself such that the virus size doesn't change.
 * Brown and Stallings _Computer Security Principles and Practice_
 * Dr. Rusty Baldwin's Slides, Lecture 03: Malware.
 
-## Resources
+## Further Reading
 
-* Dark Reading: what is happening in the cybersecurity side?
+* **Dark Reading**: what is happening in the cybersecurity side?
 
