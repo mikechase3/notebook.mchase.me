@@ -136,7 +136,7 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 ### Worm Propagation Model
 
-![From &quot;Computer Security Principles and Practices&quot;](../../.gitbook/assets/image%20%28576%29.png)
+![From &quot;Computer Security Principles and Practices&quot;](../../.gitbook/assets/image%20%28577%29.png)
 
 ### The Morris Worm \(p.219\)
 
@@ -149,7 +149,7 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 ### Recent Worms
 
-![Source: Rusty Baldwin&apos;s Slides](../../.gitbook/assets/image%20%28577%29.png)
+![Source: Rusty Baldwin&apos;s Slides](../../.gitbook/assets/image%20%28578%29.png)
 
 * **Miria**: Interesting because it specifically targeted unsecured IoT devices. 600K infected devices induced a DDoS attack of 901 Gbps. A typical DDosS attack was 10-20Gbps.
 
@@ -224,11 +224,43 @@ These aren't mobile phones
 * **Spear-Phishing**: is where recipients are carefully researched by the attacker.
 * They are only sending messages to you. 
 
-## 6.9: Payloads, Stealthing, Backdoors \(233\).
+## 6.9: Payloads, Stealthing, Backdoors, Rootkits \(233\).
 
 {% hint style="warning" %}
 Incomplete
 {% endhint %}
+
+### Rootkits
+
+* Sets of hidden programs installed on a system to maintain covert access to that system.
+* It gives the attacker administrative privileges.
+
+#### Characteristics
+
+1. **Persistent**: 
+2. **Memory Based**: 
+3. **User Mode**: 
+4. **Kernel Mode**: At a super high level.
+5. **Virtual Machine Based**: Some root kits can break out of virtual machines.
+6. **External Mode**: Basically used to exfiltrate data with respect to their operation.
+
+### System Call: Table Modification by Rootkit
+
+{% hint style="warning" %}
+Dr. Baldwin - I hear the words coming out of you mouth, but I don't understand :\(
+{% endhint %}
+
+This is an attack where you change the contents of memory and update something in the system call table.
+
+
+
+![](../../.gitbook/assets/image%20%28576%29.png)
+
+* On a linux system, if you want to execute another process, it's called _forking_ a process. It executes another process for you.
+
+## 6.10: Countermeasures
+
+### Generations of Anti-Virus Software
 
 
 
