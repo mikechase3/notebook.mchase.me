@@ -173,13 +173,13 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 
 
-## Earth
+## Earth & the Iron Catastrophe Hypothesis
 
 * First photosynthetic life 3.8bn years ago.
 
 ### Composition
 
-![Source: Earth Guide Web: Oceanic and Continental Crust](../../.gitbook/assets/image%20%28579%29.png)
+![Source: Earth Guide Web: Oceanic and Continental Crust](../../.gitbook/assets/image%20%28581%29.png)
 
 We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
 
@@ -202,6 +202,41 @@ We can figure out what comes from the core through volcanoes and earthquakes. We
    3. Radioactivity
 3. Earth reaches Iron's melting point of 2800F
 4. Iron Melts, earth destablizes, and differentiates based on desnsity in the process called the "Iron Catastrophe"
+
+### Density of Earth
+
+$$
+\texttt{Density} = \frac{\texttt{Mass}}{\texttt{Volume}}
+$$
+
+#### Calculating the Volume
+
+* Roughly 2,000 years ago, some scientist was able to take a measurement using distance and some constant points in space to determine the volume of the earth within a 1% margin of error.
+* Now, we've got satellites.
+
+#### Calculating the Mass
+
+* Scientists couldn't calculate mass until gravity was really understood around Isaac Newton's time.
+
+#### Density
+
+* The entire earth's density is $$5.5 \frac{g}{cm^3}$$ 
+
+### Evidence from Precession of the Equinoxes
+
+![](../../.gitbook/assets/image%20%28580%29.png)
+
+* **Eccentricity**: tell us how eeliptical something is around the sun with a 100,000 year cycle.
+* **Obliquity \(tilt\)**: Over 41,000 years, the tilt goes between 22 and 24 degree.
+* **Precession \(Wobble\):** 23,000. This describes the amount of wobble the Earth has.
+
+### Evidence from Seismic Waves
+
+When you have an earthquake, there's a bunch of waves that pas sthrough the earth and bounce off different rock waves. An enormous amount of energy hits the earth and passes through it in seismic waves. This hits rocks with different compositions and are bounced around them. If they bounce and come back, we can measure it's speed coming back. 
+
+In dense stuff, they travel back fast. In non-dense material, it'll come back, but a lot more slowly.
+
+![A Seismic Wave](../../.gitbook/assets/image%20%28579%29.png)
 
 
 
