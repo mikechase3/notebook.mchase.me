@@ -245,7 +245,7 @@
 
 ## Math
 
-* [Geology](math/rocks-for-jocks/README.md)
+* [Rocks for Jocks](math/rocks-for-jocks/README.md)
   * [Prelude: What is Geology?](math/rocks-for-jocks/prelude-what-is-geology.md)
   * [Astronomy](math/rocks-for-jocks/astronomy.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)

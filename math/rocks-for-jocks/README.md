@@ -1,4 +1,4 @@
-# Geology
+# Rocks for Jocks
 
 ## Identifying Rocks
 

@@ -157,17 +157,7 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 ### 
 
-### Earth
-
-* First photosynthetic life 3.8bn years ago.
-
-#### Earth's Core
-
-We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
-
-* **Inner core**: made of iron
-* **Outer core**: silicon, iron
-* **Mantle**: Nobody has gotten into the mantle to collect a sample.
+### 
 
 
 
@@ -182,6 +172,18 @@ We can figure out what comes from the core through volcanoes and earthquakes. We
 * **Cracks**: Water was probably running on Mars at one point.
 
 
+
+## Earth
+
+* First photosynthetic life 3.8bn years ago.
+
+#### Earth's Core
+
+We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
+
+* **Inner core**: made of iron
+* **Outer core**: silicon, iron
+* **Mantle**: Nobody has gotten into the mantle to collect a sample.
 
 ## References/Works Cited
 
