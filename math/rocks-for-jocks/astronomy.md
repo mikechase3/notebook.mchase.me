@@ -177,13 +177,33 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 * First photosynthetic life 3.8bn years ago.
 
-#### Earth's Core
+### Composition
+
+![Source: Earth Guide Web: Oceanic and Continental Crust](../../.gitbook/assets/image%20%28579%29.png)
 
 We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
 
 * **Inner core**: made of iron
 * **Outer core**: silicon, iron
 * **Mantle**: Nobody has gotten into the mantle to collect a sample.
+
+#### Not sure what these are...
+
+1. Iron Meteorites are all iron.
+2. Chrondritic \(Chrondrules\) are 35% iron and never been remelted.
+3. Stoney Iron: have remelted & differentiated \(35%\)
+
+### History
+
+1. Early earth is homogenous
+2. Early earth heats up:
+   1. Impacts from meteorites \(etc\)
+   2. Heating from gravitational contraction
+   3. Radioactivity
+3. Earth reaches Iron's melting point of 2800F
+4. Iron Melts, earth destablizes, and differentiates based on desnsity in the process called the "Iron Catastrophe"
+
+
 
 ## References/Works Cited
 
