@@ -40,5 +40,36 @@ Relationships are placed in diamonds.
 
 ![For a department to exist, there has to be an employee managing it; not every employee is a manager.](../../../.gitbook/assets/image%20%28588%29.png)
 
+## Weak Entities
+
+* A **weak identity** for each relationship is identified by considering the primary key of another \(owner\) identity.
+  * it's attached to its identifying owner.
+  * The **double diamond \(or bold diamond\)** shows the **identifying relationship**.
+* Whenever there is a weak entity, there is always going to be an existence dependency. 
+
+![ssn is a primary key. ](../../../.gitbook/assets/image%20%28591%29.png)
+
+**In this example...**
+
+* Key: social security number for employees.
+* Dependence is a weak entity. It cannot exist without a relationship with the other entity.
+* `pname` is a **partial key.**
+* Identifying relationship: policy. It connects the employee with the dependent.
+
+## Superkeys
+
+* A **superkey** is any set of attributes that uniquely identify a row.
+  * If a key just had `{course#,section#}`, it would be a primary key because it has enough information to uniquely identify it.
+  * A super key would be `{course#,section#,room#}`. It is super because it contains _all_ the information, beyond what is needed.
+* A superkey for which no subset is also a superkey is a **candidate key**.
+
+{% hint style="info" %}
+Ask Prof. Buckley to check accuracy here regarding the specific definitions. Does a super key need _all_ that information? Or just some of it? What makes it super? And what is a candidate key?  Why is it called that?
+{% endhint %}
+
+## Example
+
+![](../../../.gitbook/assets/image%20%28592%29.png)
+
 
 
