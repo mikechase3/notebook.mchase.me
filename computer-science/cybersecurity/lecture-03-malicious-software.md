@@ -262,12 +262,48 @@ This is an attack where you change the contents of memory and update something i
 
 ### Generations of Anti-Virus Software
 
+* **First Generation**: simple scanners require a malware signature to identify the malware. It was limited to the detection of known malware.
+* **Second Generation: heuristic scanners** use heuristic rules to search for probable malware instances. Another approach is integrity checker.
+* **Third generation: activity traps**: memory-resident programs identifying malware by actions rather than its structure in an infected program
+* **Forth generation: full-featured protection**: packages consisting of a variety of anti=virus techniques used in conjunction including scanning and activity trap components and access control capability.
+
+### Generic Decryption \(GD\)
+
+* It's essentially a **mini virtual machine**. Most malware will encrypt itself with a key such that a signature or heuristic scanner cannot detect it because it doesn't do anything until it's decrypted.
+* GD tries to take software it hasn't otherwise verified and let it execute in a sandbox and wait to decrypt itself before it lets itself out on the system.
+* It includes a CPU emulator and a virus signature scanner.
+
+#### What does Malicious Software Do to Counter This?
+
+* It'll recognize it's in a virtual machine.
+* It won't decrypt its payload.
+
+### Host-Based Behavior Blocking Software
+
+* As software has been more sophisticated, the software has been moving to the _host_ level, not the server itself.
+* This integrates with the OS of the host itself and monitors behavior in real-time.
+* Let's monitor it and stop it before it does any damage. 
+* **Limitations**: because malicious code must run on the target machine before all its behaviors can be identified, it has to cause harm before the _cat_ gets smarter. \(Cat being blocking\).
+
+### \(Network\) Perimeter Scanning
+
+#### Ingress Monitor
+
+* Examines inbound traffic and things connecting to you.
+
+#### Egress Monitor
+
+* You're wondering where it's going.
+* You can check if your network has been compromised and you're a part of the bot-net.
+
+## 6.11: Summary/Homework
+
 
 
 ## Works Cited
 
 * Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014.
-* Dr. Rusty Baldwin's Slides, Lecture 03: Malware.
+* Dr. Rusty Baldwin's Slides: Malware.
 
 ## Further Reading
 
