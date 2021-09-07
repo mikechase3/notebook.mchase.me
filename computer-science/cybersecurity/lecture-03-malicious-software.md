@@ -1,4 +1,4 @@
-# Lecture 01: Malicious Software
+# Chapter 06: Malicious Software
 
 ## 6.1: Types of Malicious Software \(Malware\)
 
@@ -266,7 +266,7 @@ This is an attack where you change the contents of memory and update something i
 
 ## Works Cited
 
-* Brown and Stallings _Computer Security Principles and Practice_
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014.
 * Dr. Rusty Baldwin's Slides, Lecture 03: Malware.
 
 ## Further Reading

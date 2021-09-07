@@ -78,9 +78,10 @@
 
 * [Code Reviews](computer-science/code-reviews.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
-  * [Lecture 00: Cyber Security Fundamentals](computer-science/cybersecurity/lecture-01-cyber-security-fundamentals.md)
-  * [Lecture 01: Malicious Software](computer-science/cybersecurity/lecture-03-malicious-software.md)
-  * [Lecture 02: DoS Attacks](computer-science/cybersecurity/lecture-02-dos-attacks.md)
+  * [Chapter 01: Cyber Security Fundamentals](computer-science/cybersecurity/lecture-01-cyber-security-fundamentals.md)
+  * [Chapter 06: Malicious Software](computer-science/cybersecurity/lecture-03-malicious-software.md)
+  * [Chapter 07: DoS Attacks](computer-science/cybersecurity/lecture-02-dos-attacks.md)
+  * [Chapter 12: OS Security](computer-science/cybersecurity/chapter-12-os-security.md)
 * [Databases](computer-science/databases/README.md)
   * [University Coursework](computer-science/databases/university-coursework/README.md)
     * [Entity Relationship Model](computer-science/databases/university-coursework/entity-relationship-model.md)

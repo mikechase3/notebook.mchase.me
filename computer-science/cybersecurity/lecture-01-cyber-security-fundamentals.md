@@ -1,4 +1,4 @@
-# Lecture 00: Cyber Security Fundamentals
+# Chapter 01: Cyber Security Fundamentals
 
 ## What is Cyberspace
 
@@ -28,5 +28,7 @@
 13. Cryptographic algorithms
 14. System administration.
 
+## Works Cited
 
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014. 
 
