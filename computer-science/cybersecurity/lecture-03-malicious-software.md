@@ -300,6 +300,46 @@ This is an attack where you change the contents of memory and update something i
 
 
 
+## 6.11: Summary/Homework Conflicted Copy
+
+> Questions from Computer Security: Principles and Practice, Global Edition, 4/e
+
+1. What are three broad mechanisms that malware can use to propagate?
+   1. Social Engineering
+   2. Exploits
+   3. Targeted attacks via viruses and worms.
+2. What are four broad categories of payloads that malware may carry?
+   1. Spyware
+   2. Ransomware
+   3. Remote Execution or Login
+   4. Steal information
+   5. Denial of Service
+3. What characteristics of an advanced persistent threat give it that name?
+4. What are typical phases of operation of a virus or worm?
+5. What is a blended attack?
+6. What is the difference between a worm and a zombie?
+7. What does “fingerprinting” mean for network worms?
+8. What is a “drive-by-download” and how does it differ from a worm?
+9. How does a Trojan enable malware to propagate? How common are Trojans on
+
+   computer systems? Or on mobile platforms?
+
+10. What is a “logic bomb”?
+11. What is the difference between a backdoor, a bot, a keylogger, spyware, and a rootkit?
+
+    Can they all be present in the same malware?
+
+12. What is the difference between a “phishing” attack and a “spear-phishing” attack,
+
+    particularly in terms of who the target may be?
+
+13. What is a clickjacking vulnerability?
+14. List a few characteristics to classify rootkits.
+15. Briefly describe the elements of a GD scanner.
+16. Describe some rootkit countermeasures.
+
+
+
 ## Works Cited
 
 * Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014.
