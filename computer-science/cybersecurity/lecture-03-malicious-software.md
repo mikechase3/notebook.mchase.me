@@ -298,6 +298,44 @@ This is an attack where you change the contents of memory and update something i
 
 ## 6.11: Summary/Homework
 
+{% embed url="https://quizlet.com/613351992/cyber-security-princikples-and-practice-chapter-6-malicious-software-flash-cards/" caption="Flashcards Available Here" %}
+
+6.1 What are three broad mechanisms that malware can use to propagate? 
+
+* Injection, exploits, and social engineering.
+
+6.2 What are four broad categories of payloads that malware may carry? 
+
+* DoS attacks
+* 
+6.3 What characteristics of an advanced persistent threat give it that name? 
+
+6.4 What are typical phases of operation of a virus or worm? 
+
+6.5 What mechanisms can a virus use to conceal itself? 
+
+6.6 What is the difference between machine executable and macro viruses? 
+
+6.7 What means can a worm use to access remote systems to propagate? 
+
+6.8 What is a “drive-by-download” and how does it differ from a worm? 
+
+6.9 How does a Trojan enable malware to propagate? How common are Trojans on com-puter systems? Or on mobile platforms? 
+
+6.10 What is a “logic bomb”? 
+
+6.11 What is the difference between a backdoor, a bot, a keylogger, spyware, and a rootkit? Can they all be present in the same malware? 
+
+6.12 What is the difference between a “phishing” attack and a “spear-phishing” attack, par-ticularly in terms of who the target may be? 
+
+6.13 List some the different levels in a system that a rootkit may use. 
+
+6.14 Describe some malware countermeasure elements. 
+
+6.15 List three places malware mitigation mechanisms may be located. 
+
+6.16 Briefly describe the four generations of anti-virus software.
+
 
 
 ## 6.11: Summary/Homework Conflicted Copy
