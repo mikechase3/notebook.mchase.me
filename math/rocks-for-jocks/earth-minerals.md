@@ -20,3 +20,10 @@
 
 ![](../../.gitbook/assets/image%20%28582%29.png)
 
+| Bond Type | Explanation | Strength | Example |
+| :--- | :--- | :--- | :--- |
+| Ionic | Atoms lose or gain electrons to/from other atoms | Strong | NaCl-Haloite |
+| Covalent | Atoms share 1 or more electrons | Very Strong | Carbon-diamond; chlorine gas. |
+|  |  |  |  |
+| Metalic | Electrons act as mobile clouds moving from atom to atom. | Variable | Copper & Silver |
+
