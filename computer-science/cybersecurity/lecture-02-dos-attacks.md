@@ -96,6 +96,107 @@
 * It doesn't ever complete the request, sending it... but just super slow.
 * It eventually consume's a web servers connection capacity.
 
+## 7.5: Reflection and Amplification Attacks
+
+### Reflection
+
+Port 7 is an ICMP echo port which is carried out by using a spoofed address.
+
+![](../../.gitbook/assets/image%20%28604%29.png)
+
+### Amplification Attacks
+
+* Has a bunch of zombies make reflector attacks using spoofed addresses.
+* This way, the target is flooded with attacks.
+
+## 7.6: DoS Attack Defenses
+
+* These attacks can't be prevented entirely.
+* High traffic volumes may be legitimate
+  * High publicity about a specific site
+  * Activity on a popular site.
+
+### DoS Attack Prevention
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Idea</th>
+      <th style="text-align:left">Execution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Block spoofed source addresses</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Send a request to the suspected spoofed address.</li>
+          <li>The response if received should be consistent with the previously received
+            packet.
+            <ul>
+              <li>If what you receive/send should have the same number of hops.</li>
+              <li>If what you send has more hops, assume the original packet sent isn&apos;t
+                legitimate.</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Reverse path forwarding (RPF)</td>
+      <td style="text-align:left">
+        <p>Verifies the interface a packet was received on is on the same interface
+          a path to the claimed source will use. If not, drop it.</p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Use modified TCP connection handling code</td>
+      <td style="text-align:left">Cryptographically encode critical information in a cookie sent as the
+        server&apos;s initial sequence number. If the cookie doesn&apos;t come
+        back correctly, drop it.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Block IP directed broadcasts</td>
+      <td style="text-align:left">Within the IP protocol, there are certain services that&apos;ll send something
+        to every server on the network. You can just refuse to forward any broadcast
+        packets on.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Block suspicious service/port combinations.</td>
+      <td style="text-align:left">If you get an incoming service on a strange port, it&apos;s probably not
+        legitimate.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Manage application attacks with some site of captcha.</td>
+      <td style="text-align:left">You&apos;ll know you&apos;re responding to a captcha if you put up a puzzle
+        that they have to solve.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Use mirrored/replicated servers.</td>
+      <td style="text-align:left">If you are able to bring on legitamate servers, you can dynamically adjust
+        to your traffic level. If you&apos;re getting DoSsed, you can service the
+        legit attacks while figuring out how to discard illegitimate attacks. Illegitimate.
+        Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate.
+        Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate.
+        Illegitimate. Illegitimate.</td>
+    </tr>
+  </tbody>
+</table>
+
+## 7.7: Responses
+
+* Have a good **incident response plan**.
+* Antispoofing, directed broadcast, and rate limiting filters should be implemented.
+* Ideally have network monitors and IDS to detect and notify abnormal traffic patterns.
+
+### Responding to DoS Attacks
+
+* Identify the type of attack.
+* Have your ISP trace packet flow back to the source.
+* Implement a contingency plan; new servers with different addresses.
+* Update an incident response plan with lessions you've learned.
+
 ## Works Cited
 
 * Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014. 
