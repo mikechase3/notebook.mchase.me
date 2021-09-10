@@ -78,5 +78,8 @@ $$
 \begin{bmatrix} V & | & \vec{0} \end{bmatrix}
 $$
 
+## 2.2: Elimination Matrices and Inverse Matrices
 
+* Inverses are unique.
+* Not every square matrix has an inverse.
 
