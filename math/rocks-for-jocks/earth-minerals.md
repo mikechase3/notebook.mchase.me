@@ -27,3 +27,5 @@
 |  |  |  |  |
 | Metalic | Electrons act as mobile clouds moving from atom to atom. | Variable | Copper & Silver |
 
+
+
