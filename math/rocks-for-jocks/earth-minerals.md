@@ -1,4 +1,4 @@
-# Earth Minerals
+# Chapter 6: Earth Minerals
 
 ## Goals
 
@@ -24,8 +24,27 @@
 | :--- | :--- | :--- | :--- |
 | Ionic | Atoms lose or gain electrons to/from other atoms | Strong | NaCl-Haloite |
 | Covalent | Atoms share 1 or more electrons | Very Strong | Carbon-diamond; chlorine gas. |
-|  |  |  |  |
 | Metalic | Electrons act as mobile clouds moving from atom to atom. | Variable | Copper & Silver |
 
+## Bowen's Reaction Series
 
+{% hint style="info" %}
+Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28609%29.png)
+
+![](../../.gitbook/assets/image%20%28610%29.png)
+
+## 6.6: Igneous Rock Classification
+
+![](../../.gitbook/assets/image%20%28605%29.png)
+
+![](../../.gitbook/assets/image%20%28607%29.png)
+
+![](../../.gitbook/assets/image%20%28612%29.png)
+
+## Works Cited
+
+* Graphics: Earth Science by Stephen Marshak
 

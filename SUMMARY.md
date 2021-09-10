@@ -253,7 +253,7 @@
 * [Rocks for Jocks](math/rocks-for-jocks/README.md)
   * [Prelude: What is Geology?](math/rocks-for-jocks/prelude-what-is-geology.md)
   * [Astronomy](math/rocks-for-jocks/astronomy.md)
-  * [Earth Minerals](math/rocks-for-jocks/earth-minerals.md)
+  * [Chapter 6: Earth Minerals](math/rocks-for-jocks/earth-minerals.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Class 01 & 02: Matrices Review](math/matrix-theory/matrix-theory-and-apps.md)
