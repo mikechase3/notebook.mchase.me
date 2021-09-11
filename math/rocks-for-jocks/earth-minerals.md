@@ -44,6 +44,10 @@ Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 
 ![](../../.gitbook/assets/image%20%28612%29.png)
 
+## Extrusive Igneous Rocks: Volcanoes
+
+Lit!
+
 ## Works Cited
 
 * Graphics: Earth Science by Stephen Marshak
