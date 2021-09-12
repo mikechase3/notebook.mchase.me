@@ -1,4 +1,4 @@
-# Astronomy
+# Chapter 1: Cosmology
 
 ## Basic Definitions
 
