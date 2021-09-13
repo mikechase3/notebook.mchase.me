@@ -31,6 +31,27 @@
 
 ## Changing Culture
 
+* TV/Shows and movies change around a lot.
+* Masks is a world-wide social norm nowadays. \(Being contested - but a lot more normal\).
+
+## Enculturation
+
+* The process of learning a culture throughout our lives.
+* Foundations begin in early childhood, but never stops.
+* We belong to many cultures throughout our lives.
+  * Age group culture
+  * Ethnic culture
+  * Hobby culture \(renaissance fair\).
+
+## Cultural Relativism
+
+### Slavery and Culture Acceptableness
+
+* Should all cultures be treated as equally acceptable?
+* You have to understand the culture according to it's own logic. 
+
+Culture relativism is methodological. We seek to understand why it occurred and the processes it occured in a non-judgemental way. Then we take a moral stance.
+
 
 
 
