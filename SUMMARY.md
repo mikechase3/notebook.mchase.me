@@ -61,7 +61,6 @@
   * [The Conclusion](communication/writing/the-conclusion.md)
   * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Charisma](communication/charisma.md)
-* [Dating](communication/dating.md)
 * [Islamic Tradition](communication/islamic-tradition/README.md)
   * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
   * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
@@ -247,6 +246,10 @@
     * [Creating Blueprints & Editor UI](computer-science/unreal-engine/blueprints/creating-blueprints-and-editor-ui.md)
     * [Blueprint Components](computer-science/unreal-engine/blueprints/blueprint-components.md)
 * [Visual Studio](computer-science/visual-studio.md)
+
+## Life
+
+* [Dating](life/dating.md)
 
 ## Math
 
