@@ -19,7 +19,6 @@
 
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
-* [Goal Setting](career/goal-setting.md)
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
@@ -52,7 +51,6 @@
 * [Generating Ideas](communication/ideation.md)
 * [Habitual and Sensitization](communication/habitual-and-sensitization.md)
 * [Polarized Learning](communication/polarized-learning.md)
-* [Consent Outside the Bedroom](communication/consent-outside-the-bedroom.md)
 * [The Feynmenn Technique](communication/the-feynmenn-technique.md)
 * [Balancing Normalness](communication/quirkiness.md)
 * [Placebo](communication/placebo.md)
@@ -68,10 +66,6 @@
   * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
   * [Lecture 07](communication/islamic-tradition/lecture-07.md)
   * [Lecture 08: Islamic Law](communication/islamic-tradition/lecture-08-islamic-law.md)
-
-## Chemistry
-
-* [Glue Cleaning Recipe](chemistry/glue-cleaning-recipe.md)
 
 ## Computer Science
 
@@ -249,9 +243,12 @@
 
 ## Life
 
+* [Consent Outside the Bedroom](life/consent-outside-the-bedroom.md)
 * [Dating](life/dating.md)
+* [Goal Setting](life/goal-setting.md)
+* [Values](life/values.md)
 
-## Math
+## Math and Sciences <a id="math"></a>
 
 * [Rocks for Jocks](math/rocks-for-jocks/README.md)
   * [Prelude: What is Geology?](math/rocks-for-jocks/prelude-what-is-geology.md)
@@ -269,6 +266,7 @@
   * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
   * [CH4:](math/untitled-1/ch4.md)
+* [Glue Cleaning Recipe](math/glue-cleaning-recipe.md)
 * [Calculus 3 \(Bad\)](math/calculus-3/README.md)
   * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled/README.md)
     * [12.1:](math/calculus-3/untitled/12.1.md)

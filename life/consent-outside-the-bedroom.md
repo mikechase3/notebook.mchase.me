@@ -82,9 +82,7 @@ Talk about boundaries:
 2. "It's ok if you'd rather not."
 3. "What would you like instead?"
 
-### 
-
-## Works Cited
+### Further Reading
 
 * How to Ask for Consent the Right Way _Flight and Scarlet_
 * [Practice Consent Beyond Sex](https://everydayfeminism.com/2015/11/practice-consent-beyond-sex/) _Everyday Feminism_
