@@ -46,7 +46,11 @@ Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 
 ## Extrusive Igneous Rocks: Volcanoes
 
-Lit!
+**9/13/21**: We watched a video on volcanoes and volcanologists. Here are some notes from the video.
+
+### Andies in 1988
+
+* Thick lava generates pyroclastic flow.
 
 ## Works Cited
 
