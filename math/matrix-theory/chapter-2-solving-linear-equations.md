@@ -83,3 +83,9 @@ $$
 * Inverses are unique.
 * Not every square matrix has an inverse.
 
+I switched completely to handwritten notes. Find these here:
+
+{% embed url="https://www.dropbox.com/s/rifd9429zlpfmqs/Chapter%202%20Matrix.pdf?dl=0" %}
+
+
+
