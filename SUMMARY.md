@@ -34,6 +34,13 @@
 
 * [Anthropology](communication/anthropology/README.md)
   * [Lecture 01: What is Anthropology](communication/anthropology/lecture-01-what-is-anthropology.md)
+  * [Lecture 02: Physical Anthropology](communication/anthropology/lecture-02-physical-anthropology.md)
+  * [Interlude: First Steps Video](communication/anthropology/interlude-first-steps-video.md)
+  * [Lecture 03: Archaeology](communication/anthropology/lecture-03-archaeology.md)
+  * [Lecture 04: Linguistic Anthropology](communication/anthropology/lecture-04-linguistic-anthropology.md)
+  * [Interlude: Neanderthals](communication/anthropology/interlude-neanderthals.md)
+  * [Lecture 05: The Maya Part 1](communication/anthropology/lecture-05-the-maya-part-1.md)
+  * [Lecture 06: Culture](communication/anthropology/lecture-06-culture.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
