@@ -4,7 +4,7 @@
 
 * The **SMM** stands for the System Management Module. Before the operating system takes over and gets booted up, you can put an intel chip into a different configuration and have extremely low-level access to the chip before the operating system boots up.
 
-![](../../.gitbook/assets/image%20%28621%29.png)
+![](../../.gitbook/assets/image%20%28622%29.png)
 
 * The **TPM** makes sure that the firmware of BIOS/SMM doesn't change. 
 * **Physical hardware:** has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
@@ -32,7 +32,7 @@
 * Who is going to be responsible for the responsibility of this system?
 * Identify all appropriate personnel and training to install/manage the system.
 
-![Source: Dr. Baldwin&apos;s slides.](../../.gitbook/assets/image%20%28620%29.png)
+![Source: Dr. Baldwin&apos;s slides.](../../.gitbook/assets/image%20%28621%29.png)
 
 ## 12.3: Operating System Hardening
 
@@ -55,7 +55,7 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 ### OS Installation: Initial setup and patching.
 
-![](../../.gitbook/assets/image%20%28619%29.png)
+![](../../.gitbook/assets/image%20%28620%29.png)
 
 1. Be disconnected from the network.
 2. Install minimum necessary for the desired system.
@@ -79,7 +79,20 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 * Default configurations are intended to maximize ease of use than security.
 
-### Remove nnecesRemoff
+### Configure Users/Groups/Authentication
+
+### Application Configuration
+
+### Encryption Technology
+
+![Dr. Baldwin&apos;s Slides](../../.gitbook/assets/image%20%28619%29.png)
+
+* Encrypt your file system.
+* Encrypt SSH keys.
+
+## 12.5: Security Maintenance
+
+
 
 ## Works Cited
 
