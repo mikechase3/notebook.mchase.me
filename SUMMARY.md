@@ -262,6 +262,8 @@
   * [Chapter 1: Cosmology](math/rocks-for-jocks/astronomy.md)
   * [Chapter 2: Journey to Center of Earth](math/rocks-for-jocks/chapter-2-journey-to-center-of-earth.md)
   * [Chapter 6: Earth Minerals](math/rocks-for-jocks/earth-minerals.md)
+  * [Chapter 7: Volcanoes, Weathering, Sedimentary Rock](math/rocks-for-jocks/chapter-7-volcanoes-weathering-sedimentary-rock.md)
+  * [Chapter 9: Volcanoes!](math/rocks-for-jocks/chapter-9-volcanoes.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Class 01 & 02: Matrices Review](math/matrix-theory/matrix-theory-and-apps.md)

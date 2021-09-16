@@ -52,6 +52,8 @@ Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 
 * Thick lava generates pyroclastic flow.
 
+## 
+
 ## Works Cited
 
 * Graphics: Earth Science by Stephen Marshak
