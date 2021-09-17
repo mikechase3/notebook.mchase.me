@@ -90,7 +90,9 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 * Encrypt your file system.
 * Encrypt SSH keys.
 
-## 12.5: Security Maintenance
+## Interlude
+
+* Shodan.io: resource for finding open things on the internet.
 
 
 
