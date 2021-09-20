@@ -14,5 +14,10 @@ Some information...
 | Stratovolcano | Andesite | Convergent ocean/continent subduction | Explosive | Mt. St. Helens \(Cascade Mountains\) |
 |  |  |  |  |  |
 
+## Contouring
 
+* **Contour Line**: a line on which every point has the same value.
+* Contour lines cannot cross.
+
+![](../../.gitbook/assets/image%20%28623%29.png)
 
