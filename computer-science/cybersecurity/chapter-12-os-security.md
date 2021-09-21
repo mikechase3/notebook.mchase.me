@@ -94,7 +94,134 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 * Shodan.io: resource for finding open things on the internet.
 
+## 12.5: Security Maintenance
 
+### On Logging
+
+1. Logs can only inform you about bad things that already happened.
+2. Logs help system administrators figure out what happened more quickly.
+3. Range of data acquired: you can/should tailor which information you want logged.
+4. **Automated analysis** is preferred. 
+5. Logs generate a large amount of information, so it's important space is allocated to them.
+
+### Data Backup and Archive
+
+* There are legal and operational requirements for the retention of data.
+* **Backup**: making copies at regular intervals
+* **Archives**: kept for regulatory/legal purposes.
+
+{% embed url="https://en.wikipedia.org/wiki/9\_track\_tape" caption="Mediums are out of date." %}
+
+## 12.6: Linux/Unix Security
+
+### Patch Management
+
+* Make sure everything is updated.
+* If they can subvert patch servers like Microsoft/Apple servers that push out patches, then they can subvert the entire universe.
+
+### Application and Service Configuration
+
+* Most commonly implemented using separate text files for each application/service.
+* Most of the configs are stored in readable text files located in the `/etc` directory.
+* Disable services and remove applications that are not required because it reduces the attack surface available for hackers to subvert.
+
+{% hint style="info" %}
+**Project**: Disable which are essential for Unix to run and what can I remove. First, disable the FTP service and disable the port it uses too.
+{% endhint %}
+
+### Users, Groups, and Permissions
+
+* Checkout the users list. It'll probably have a bunch of users that don't need to be there.
+* Guides recommend changing the access permissions for critical files and directories.
+* **Local exploit:** a software vulnerability that can be exploited by an attacker to gain elevated privileges.
+* **Remote exploit**: software vulnerability in a network server that could be triggered by a remote attacker.
+
+### Remote Access Controls
+
+* Most systems provide an administrative utility to select which services will be permitted to access the system.
+
+### Logging and Log Rotation
+
+* It's almost invariably true that the default configuration for the logging on the system is not appropriate for what you needed.
+
+### Chroot Jail
+
+* This is an operating system utility that forces a particular view into the directory hierarchy.
+* `chroot` makes something else look like a root directory. There's a pseudo root directory, and so if a hacker tries to subvert your software, when it references root.
+* It gives an app a fake root. It's the process by mapping the root of the file directory to somewhere else.
+* Disadvantage: added complexity.
+
+## 12.7: Windows Security
+
+### Patch Management
+
+* Various DNS attacks try and redirect you to a different server then you're expecting.
+* 3rd party applications use the _Windows Update_ service but other times, they use their own.
+
+### Users, Groups, and Permissions
+
+#### Integrity
+
+* **Mandatory Integrity Controls**: 
+* **Integrity Levels**: the windows system will not let it write any information to higher levels.
+* **Biba Integrity Model**: Biba was a researcher. It basically makes sure that objects with low integrity levels aren't messing with things of high integrity levels.
+
+![Integrity Controls](../../.gitbook/assets/image%20%28626%29.png)
+
+#### Low Privilege Service Accounts
+
+* Used for long-lived service processes such as file, print, and DNS services.
+
+### Application and Service Configuration
+
+* Much of the configuration information is centralized in the registry.
+* **Registry**: forms a database of keys/values that may be queried and interpreted by applications.
+* Registry keys can be directly modified using the registry editor.
+
+### Other Security Controls
+
+* Anti-virus
+* Anti-spyware
+* Personal firewall
+* Cryptographic functions
+  * AES using BitLocker
+  * Encrypting files/directories using the EFS \(Encrypting File System\) service.
+* Microsoft Security Compliance Toolkit
+  * Free tool checking for compliance with Microsoft's security recommendations.
+
+## 12.8: Virtualization Security
+
+* Virtualization provides an abstraction fo the resources used by some software running on a virtual machine.
+* Benefits include better efficiency int he use of physical system resources.
+* Provides support for multiple, distinct operating systems.
+
+### Virtualization Alternatives
+
+![](../../.gitbook/assets/image%20%28628%29.png)
+
+### Native Virtualization
+
+Native virtualization 
+
+![](../../.gitbook/assets/image%20%28625%29.png)
+
+### Host Virtualization
+
+Whatever you install it on, 
+
+
+
+![](../../.gitbook/assets/image%20%28627%29.png)
+
+### Virtualization Security Issues
+
+* **Guest OS Isolation**: the host can only access/use the resources allocated to it \(and nothing more\).
+* Guest OS monitoring by the hypervisor: this has privileged access to the programs/data in each guest OS.
+* Virtualized environment security: particularly image and snapshot management which attackers may attempt to view/modify.
+
+### Securing Virtualization Systems
+
+* It's an operating system, so all of these things 
 
 ## Works Cited
 
