@@ -258,6 +258,7 @@
 ## Math and Sciences <a id="math"></a>
 
 * [Rocks for Jocks](math/rocks-for-jocks/README.md)
+  * [External Resources](math/rocks-for-jocks/external-resources.md)
   * [Prelude: What is Geology?](math/rocks-for-jocks/prelude-what-is-geology.md)
   * [Chapter 1: Cosmology](math/rocks-for-jocks/astronomy.md)
   * [Chapter 2: Journey to Center of Earth](math/rocks-for-jocks/chapter-2-journey-to-center-of-earth.md)
