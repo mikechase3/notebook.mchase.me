@@ -82,6 +82,7 @@
   * [Chapter 06: Malicious Software](computer-science/cybersecurity/lecture-03-malicious-software.md)
   * [Chapter 07: DoS Attacks](computer-science/cybersecurity/lecture-02-dos-attacks.md)
   * [Chapter 12: OS Security](computer-science/cybersecurity/chapter-12-os-security.md)
+  * [Chapter 03: User Authentication](computer-science/cybersecurity/chapter-03-user-authentication.md)
 * [Databases](computer-science/databases/README.md)
   * [University Coursework](computer-science/databases/university-coursework/README.md)
     * [Entity Relationship Model](computer-science/databases/university-coursework/entity-relationship-model.md)
