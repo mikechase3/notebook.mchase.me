@@ -1,5 +1,11 @@
 # Table Manipulation
 
+## Better External Resources
+
+{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-databases/modules/cspath-working-with-your-first-database/cheatsheet" %}
+
+
+
 ## SQL Statements
 
 * Statements end in `;`
