@@ -78,5 +78,15 @@ See page 212.
 
 ### Graded Bedding
 
-## 
+## Summary Uniformitarianism
+
+* Color: Reds: _oxidized iron, red beds;_ Black: _unoxidized organics, swamp, deep marine_.
+* Mineralogy
+* Grain size
+* Sorting \(size distribution\)
+* Grain shape \(roundness\)
+* Fossils
+* Sedimentary structures: ripples, cross bedding, mud cracks.
+
+You cannot observe all these characteristics in every rock.
 
