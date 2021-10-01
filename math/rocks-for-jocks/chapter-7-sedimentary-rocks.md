@@ -90,3 +90,11 @@ See page 212.
 
 You cannot observe all these characteristics in every rock.
 
+### Story of Ancestral Rockies
+
+1. There were mountains called the **ancestral rockies**
+2. A red magma body came up 60 million years ago. Magma pushed up through these sediments.
+3. In he modern-day rockies, the red pieces of sandstone are the remnants of ancestral rockies that weathered down and disappeared.
+
+
+
