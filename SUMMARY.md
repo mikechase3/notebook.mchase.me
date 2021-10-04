@@ -28,6 +28,8 @@
   * [Anti-Vaxxers](career/information-ethics/anti-vaxxers.md)
 * [Interviewing](career/interviewing/README.md)
   * [Best Practices](career/interviewing/best-practices.md)
+  * [Types of Interviews](career/interviewing/types-of-interviews.md)
+  * [Different Interviewers](career/interviewing/different-interviewers.md)
   * [Q/A](career/interviewing/q-a.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)

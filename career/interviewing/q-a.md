@@ -44,9 +44,85 @@ The purpose is to objectively verify the credentials presented in your backgroun
 
 The purpose is to subjectively evaluate the experiences in my background.
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Question</th>
+      <th style="text-align:left">Tips</th>
+      <th style="text-align:left">Engineer</th>
+      <th style="text-align:left">Business</th>
+      <th style="text-align:left">Theater</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Describe your current role.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Describe top achievements and responsibilities.</li>
+          <li>Focus on areas of work I&apos;d be doing if hired.</li>
+          <li>How did you go above/beyond.</li>
+          <li>Focus on highlights the interviewer will care about.</li>
+          <li>Define unfamiliar terms.</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p>I have been a software engineer at the GRILL for the last 2 years, responsible
+          for managing STEM related activities at the Dayton Regional STEM School,
+          mentoring a group of high-school students in Unreal Engine projects, and
+          maintaining the website I created to highlight what we do.</p>
+        <p></p>
+        <p>I wear lots of different hats and love the fast pace of the job and the
+          ability to innovate.</p>
+        <p></p>
+        <p>Most recently, I helped pioneer an unmanned drone event to engage more
+          students than previously in our Full Throttle STEM program. It has been
+          a huge success and led to dozens of more girls engaging in our programs.</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Opinion
 
 The purpose is to subjectively analyze how you would respond in a series of scenarios. 
+
+> Why did you choose this career?
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Question</th>
+      <th style="text-align:left">Tips</th>
+      <th style="text-align:left">Engineer</th>
+      <th style="text-align:left">Business</th>
+      <th style="text-align:left">Theater</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Why did you choose this career?</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>It comes natural to me.</li>
+          <li>I chose to be an engineer, but doubted myself when I switched to</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Works Cited
 
