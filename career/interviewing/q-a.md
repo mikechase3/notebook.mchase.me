@@ -44,85 +44,83 @@ The purpose is to objectively verify the credentials presented in your backgroun
 
 The purpose is to subjectively evaluate the experiences in my background.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Question</th>
-      <th style="text-align:left">Tips</th>
-      <th style="text-align:left">Engineer</th>
-      <th style="text-align:left">Business</th>
-      <th style="text-align:left">Theater</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Describe your current role.</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Describe top achievements and responsibilities.</li>
-          <li>Focus on areas of work I&apos;d be doing if hired.</li>
-          <li>How did you go above/beyond.</li>
-          <li>Focus on highlights the interviewer will care about.</li>
-          <li>Define unfamiliar terms.</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <p>I have been a software engineer at the GRILL for the last 2 years, responsible
-          for managing STEM related activities at the Dayton Regional STEM School,
-          mentoring a group of high-school students in Unreal Engine projects, and
-          maintaining the website I created to highlight what we do.</p>
-        <p></p>
-        <p>I wear lots of different hats and love the fast pace of the job and the
-          ability to innovate.</p>
-        <p></p>
-        <p>Most recently, I helped pioneer an unmanned drone event to engage more
-          students than previously in our Full Throttle STEM program. It has been
-          a huge success and led to dozens of more girls engaging in our programs.</p>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+### Describe your Current Role
+
+#### Tips for describing role.
+
+* Describe top achievements and responsibilities. 
+* Focus on areas of work I'd be doing if hired. 
+* How did you go above/beyond. 
+* Focus on highlights the interviewer will care about. 
+* Define unfamiliar terms.
+
+#### CompSci Response
+
+I have been a software engineer at the GRILL for the last 2 years, responsible for managing STEM related activities at the Dayton Regional STEM School, mentoring a group of high-school students in Unreal Engine projects, and maintaining the website I created to highlight what we do.
+
+I wear lots of different hats and love the fast pace of the job and the ability to innovate.
+
+Most recently, I helped pioneer an unmanned drone event to engage more students than previously in our Full Throttle STEM program. It has been a huge success and led to dozens of more girls engaging in our programs.
+
+### What are your most relevant qualifications for this position?
+
+#### Engineer
+
+#### Business
+
+* Computer competencies: 
+* Entrepreneurship: 
+* Leadership: 
+
+## Inappropriate Questions
+
+* Interviewers should only be asking questions related to your ability to do the job, not your personal life.
+* Sometimes personal questions are asked innocently.
+* Sometimes, the interviewer has a bias and is looking to exclude you.
+
+### How to handle inappropriate questions
+
+* It's probably in your best interest to deflect the question.
+* If the interviewer is probing for irrelevant.
+* "I don't think that's too relevant, but I would love to tell you about my programming experience"
+
+> You could say something like: "Thanks, but I'm really here to talk about the job." He might take the hint and drop the obnoxious flirtation.
+>
+> If he really crosses the line, it may be worth your time to bring the bad behavior to the attention of others at the company.
+
+### Federal & State Protections
+
+It's not illegal to ask these questions, but it's illegal to base your hiring decisions based on these questions.
+
+* Marital status
+* Family obligations \(like children and other responsibilities\)
+* National origin/race
+* Age
+* Gender
+* Sexual preference
+* Disabilities or health conditions.
+
+### Do you have any kids?
+
+* The interviewer might be looking to avoid candidates with personal responsibilities.
+
+### When did you graduate?
+
+* This touches on the subject of age.
+
+
 
 ## Opinion
 
 The purpose is to subjectively analyze how you would respond in a series of scenarios. 
 
-> Why did you choose this career?
+### Why did you choose this career?
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Question</th>
-      <th style="text-align:left">Tips</th>
-      <th style="text-align:left">Engineer</th>
-      <th style="text-align:left">Business</th>
-      <th style="text-align:left">Theater</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Why did you choose this career?</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <ul>
-          <li>It comes natural to me.</li>
-          <li>I chose to be an engineer, but doubted myself when I switched to</li>
-        </ul>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+#### Engineering Response
+
+* It comes natural to me
+
+
 
 ## Works Cited
 
