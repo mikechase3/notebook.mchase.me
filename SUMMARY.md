@@ -8,7 +8,7 @@
 
 * [References](automotive/references.md)
 
-## Business <a id="psychology"></a>
+## Business <a href="psychology" id="psychology"></a>
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Economics](psychology/economics.md)
@@ -115,7 +115,7 @@
     * [Lecture 08: Knapsack Problem](computer-science/data-structures-and-algorithms/dynamic-programming/lecture-08-dynamic-programming.md)
     * [Problem Session: Dynamic Programming](computer-science/data-structures-and-algorithms/dynamic-programming/problem-session-dynamic-programming.md)
     * [Programming Assignments](computer-science/data-structures-and-algorithms/dynamic-programming/programming-assignments.md)
-  * [Greedy Algorithms \(L09\)](computer-science/data-structures-and-algorithms/greedy-algorithms.md)
+  * [Greedy Algorithms (L09)](computer-science/data-structures-and-algorithms/greedy-algorithms.md)
   * [Amortized Analysis](computer-science/data-structures-and-algorithms/amortized-analysis/README.md)
     * [Lecture 10: Amortized Analysis](computer-science/data-structures-and-algorithms/amortized-analysis/lecture-10-amoritized-analysis.md)
     * [Lecture 11: More Amortized Analysis](computer-science/data-structures-and-algorithms/amortized-analysis/lecture-11-more-amortized-analysis.md)
@@ -123,23 +123,23 @@
     * [Amortized Analysis Quiz](computer-science/data-structures-and-algorithms/amortized-analysis/amortized-analysis-quiz.md)
   * [Midterm Preparation](computer-science/data-structures-and-algorithms/midterm-preparation.md)
   * [Graph Algorithms](computer-science/data-structures-and-algorithms/graph-algorithms/README.md)
-    * [Graph Fundamentals \(L12\)](computer-science/data-structures-and-algorithms/graph-algorithms/elementary-graph-algorithms.md)
-    * [Graph Representations \(L12\)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-12-graph-fundamentals.md)
-    * [Weighted Graphs \(L13\)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-13-dfs-bfs-applications.md)
-    * [BFS & DFS Basics \(L14\)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-14.md)
+    * [Graph Fundamentals (L12)](computer-science/data-structures-and-algorithms/graph-algorithms/elementary-graph-algorithms.md)
+    * [Graph Representations (L12)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-12-graph-fundamentals.md)
+    * [Weighted Graphs (L13)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-13-dfs-bfs-applications.md)
+    * [BFS & DFS Basics (L14)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-14.md)
     * [Graphs Problem Solving Session](computer-science/data-structures-and-algorithms/graph-algorithms/graphs-problem-solving-session.md)
     * [Graphs Problem Solving 2](computer-science/data-structures-and-algorithms/graph-algorithms/graphs-problem-solving-2.md)
-    * [Topological Sorting \(L15\)](computer-science/data-structures-and-algorithms/graph-algorithms/topological-sorting.md)
-    * [Single Source Shortest Paths \(L16\)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
+    * [Topological Sorting (L15)](computer-science/data-structures-and-algorithms/graph-algorithms/topological-sorting.md)
+    * [Single Source Shortest Paths (L16)](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
     * [Untitled](computer-science/data-structures-and-algorithms/graph-algorithms/untitled.md)
     * [Lecture 16 Graph Exercises](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-16-graph-exercises.md)
     * [Lecture 17: Bellman-Ford Algorithm](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-17-bellman-ford-algorithm.md)
     * [Lecture 18: Minimum Spanning Tree: Kruskal's & Disjoint Sets](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-18-minimum-spanning-tree-kruskals-and-disjoint-sets.md)
-    * [Maximum Flow \(L19\)](computer-science/data-structures-and-algorithms/graph-algorithms/maximum-flow-l19.md)
-  * [Linear Programming \(L20\)](computer-science/data-structures-and-algorithms/linear-programming.md)
+    * [Maximum Flow (L19)](computer-science/data-structures-and-algorithms/graph-algorithms/maximum-flow-l19.md)
+  * [Linear Programming (L20)](computer-science/data-structures-and-algorithms/linear-programming.md)
   * [NP Completeness](computer-science/data-structures-and-algorithms/np-completeness/README.md)
-    * [NP Completeness \(L21\)](computer-science/data-structures-and-algorithms/np-completeness/np-completeness-l21.md)
-    * [NP Reductions and Applications \(L22\)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
+    * [NP Completeness (L21)](computer-science/data-structures-and-algorithms/np-completeness/np-completeness-l21.md)
+    * [NP Reductions and Applications (L22)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
 * [Full Stack Development](computer-science/full-stack-cloud-based-application-development/README.md)
   * [Resources](computer-science/full-stack-cloud-based-application-development/resources.md)
   * [Javascript Syntax](computer-science/full-stack-cloud-based-application-development/javascript-syntax.md)
@@ -269,7 +269,7 @@
 * [Goal Setting](life/goal-setting.md)
 * [Values](life/values.md)
 
-## Math and Sciences <a id="math"></a>
+## Math and Sciences <a href="math" id="math"></a>
 
 * [Rocks for Jocks](math/rocks-for-jocks/README.md)
   * [External Resources](math/rocks-for-jocks/external-resources.md)
@@ -279,6 +279,7 @@
   * [Chapter 6: Earth Minerals](math/rocks-for-jocks/earth-minerals.md)
   * [Chapter 7: Volcanoes, Weathering, Sedimentary Rock](math/rocks-for-jocks/chapter-7-volcanoes-weathering-sedimentary-rock.md)
   * [Chapter 9: Volcanoes!](math/rocks-for-jocks/chapter-9-volcanoes.md)
+  * [Temp Waves](math/rocks-for-jocks/temp-waves.md)
   * [Chapter 7: Sedimentary Rocks](math/rocks-for-jocks/chapter-7-sedimentary-rocks.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
@@ -292,7 +293,7 @@
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
   * [CH4:](math/untitled-1/ch4.md)
 * [Glue Cleaning Recipe](math/glue-cleaning-recipe.md)
-* [Calculus 3 \(Bad\)](math/calculus-3/README.md)
+* [Calculus 3 (Bad)](math/calculus-3/README.md)
   * [Ch 12: Vectors and Space Geometry](math/calculus-3/untitled/README.md)
     * [12.1:](math/calculus-3/untitled/12.1.md)
     * [12.2: Vectors](math/calculus-3/untitled/12.2-vectors.md)
@@ -326,7 +327,6 @@
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Chord Progressions](music/theory/chord-progressions.md)
 
-## Boring Essays <a id="personal-essays"></a>
+## Boring Essays <a href="personal-essays" id="personal-essays"></a>
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
-
