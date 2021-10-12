@@ -8,7 +8,7 @@
 
 ### STAR Format
 
-By answering question s in STAR format, you answer behavioral questions directly instead of the interviewer having to pry out details out of you. You can say "_Let me tell you about a specific situation_" and _"Here are the actions I took"_ and _"Here are the results achieved_".
+By answering question s in STAR format, you answer behavioral questions directly instead of the interviewer having to pry out details out of you. You can say "_Let me tell you about a specific situation_" and _"Here are the actions I took" _and _"Here are the results achieved_".
 
 * SITUATION
 * TASK
@@ -86,14 +86,14 @@ Most recently, I helped pioneer an unmanned drone event to engage more students 
 
 > You could say something like: "Thanks, but I'm really here to talk about the job." He might take the hint and drop the obnoxious flirtation.
 >
-> If he really crosses the line, it may be worth your time to bring the bad behavior to the attention of others at the company.
+> If he really crosses the line, it may be worth your time to bring the bad behavior to the attention of others at the company. 
 
 ### Federal & State Protections
 
 It's not illegal to ask these questions, but it's illegal to base your hiring decisions based on these questions.
 
 * Marital status
-* Family obligations \(like children and other responsibilities\)
+* Family obligations (like children and other responsibilities)
 * National origin/race
 * Age
 * Gender
@@ -125,4 +125,4 @@ The purpose is to subjectively analyze how you would respond in a series of scen
 ## Works Cited
 
 * [https://collegegrad.com/mastering-the-interview/the-eight-types-of-interview-questions](https://collegegrad.com/mastering-the-interview/the-eight-types-of-interview-questions)
-* 
+*

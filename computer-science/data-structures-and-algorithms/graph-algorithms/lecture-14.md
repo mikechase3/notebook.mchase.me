@@ -1,4 +1,4 @@
-# BFS & DFS Basics \(L14\)
+# BFS & DFS Basics (L14)
 
 ## Introduction
 
@@ -13,7 +13,7 @@ The difference is that they have different ways of traversing through that graph
 
 ## Breadth First Search
 
-![](../../../.gitbook/assets/image%20%2886%29.png)
+![](<../../../.gitbook/assets/image (86).png>)
 
 _Breadth First Search_ uses a queue. It's a _first-in-first-out_ structure. 
 
@@ -25,30 +25,30 @@ We're to **process layer by layer**. We're not going deep into a path.
 
 ### Example Walkthrough
 
-![](../../../.gitbook/assets/image%20%2885%29.png)
+![](<../../../.gitbook/assets/image (85).png>)
 
 ### Memoization
 
-1. **Queue:** Tells us which nodes we'll examine next.
+1. **Queue: **Tells us which nodes we'll examine next.
 2. **"Seen" Hash-Set**: Ensures we don't add nodes to the queue we've already added and processed.
 3. **Output Nodes**: Shows us the output of the nodes.
 
-So the basic form of DFS uses an array **status\[u\]** of size **V** vertices to decide between binary conditions: Whether vertex **u** has been visited or unvisited. Only if vertex **u** is still unvisited, then DFS can visit vertex **u**.
+So the basic form of DFS uses an array **status\[u]** of size **V** vertices to decide between binary conditions: Whether vertex **u** has been visited or unvisited. Only if vertex **u** is still unvisited, then DFS can visit vertex **u**.
 
 #### Memorizing the path
 
-DFS uses another array **p\[u\]** of size **V** vertices to remember the **parent/predecessor/previous** of each vertex **u** along the DFS traversal path.  
+DFS uses another array **p\[u]** of size **V** vertices to remember the **parent/predecessor/previous** of each vertex **u** along the DFS traversal path.\
 
 
 
 
 ## Depth First Search
 
-![Basics of Depth First Search](../../../.gitbook/assets/image%20%2890%29.png)
+![Basics of Depth First Search](<../../../.gitbook/assets/image (90).png>)
 
 ### Does a Path Exist from Node S to T? `hasPath(s,t)`
 
-_Depth-First Search_ uses a stack, which is LIFO.
+_Depth-First Search _uses a stack, which is LIFO.
 
 #### Story
 
@@ -62,18 +62,16 @@ So now `S` goes to Gregg and asks "Hey Greg, do you have a path to Hal? And then
 
 ## Comparison
 
-| Breadth First Search | Depth First Search |
-| :--- | :--- |
-| Good for shortest path. | Bad for shortest path. |
-| Level by level approaches: Areas, region, matrixes |  |
+| Breadth First Search                               | Depth First Search     |
+| -------------------------------------------------- | ---------------------- |
+| Good for shortest path.                            | Bad for shortest path. |
+| Level by level approaches: Areas, region, matrixes |                        |
 
 ## Works Cited
 
-| Title | Author | Content |
-| :--- | :--- | :--- |
-| [DFS & BFS](https://www.youtube.com/watch?v=TIbUeeksXcI) | [Back to Back SWE](https://backtobackswe.com/platform/content/depth-first-search-and-breadth-first-search) | Structure, Pictures, Explanations... I watched his videos and took notes. |
-| [Algorithms: Graph Search, DFS, and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w&t=209s) | ![](../../../.gitbook/assets/image%20%2889%29.png) | Screenshots,  |
-| [Lecture 13: BFS](https://www.youtube.com/watch?v=s-CYnVz-uh4&t=2s) | Erik Demaine; MIT Open Courseware | None \(But really good resource\). |
-
-
+| Title                                                                                         | Author                                                                                                     | Content                                                                   |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [DFS & BFS](https://www.youtube.com/watch?v=TIbUeeksXcI)                                      | [Back to Back SWE](https://backtobackswe.com/platform/content/depth-first-search-and-breadth-first-search) | Structure, Pictures, Explanations... I watched his videos and took notes. |
+| [Algorithms: Graph Search, DFS, and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w\&t=209s) | ![](<../../../.gitbook/assets/image (89).png>)                                                             | Screenshots,                                                              |
+| [Lecture 13: BFS](https://www.youtube.com/watch?v=s-CYnVz-uh4\&t=2s)                          | Erik Demaine; MIT Open Courseware                                                                          | None (But really good resource).                                          |
 

@@ -4,19 +4,19 @@
 
 * SCRUM helps you develop in a team.
 * **Project Backlog**: a prioritized list of user requirements for your project. What are the requirements?
-* **Product Owner:** The owner is the person controlling the backlog
+* **Product Owner: **The owner is the person controlling the backlog
 * **Scrum Master**: The project manager. 
 
-## SCRUM Cycles \(Sprints\)
+## SCRUM Cycles (Sprints)
 
 SCRUM is controlled by tight, smaller projects.
 
-![](../../../.gitbook/assets/image%20%28193%29.png)
+![](<../../../.gitbook/assets/image (193).png>)
 
 ### Backlog & Team Planning
 
 * Choose what to do from the Sprint Backlog
-* Move the item in the backlog to the _sprint backlog_
+* Move the item in the backlog to the_ sprint backlog_
 * You want a working prototype after the 30-day cycle.
 
 ### Popular SCRUM tools
@@ -34,36 +34,36 @@ See an [example ](http://bit.ly/cps490f20-trello)& demo.
 
 ### Required Lists
 
-| List | Purpose |
-| :--- | :--- |
-| Product Backlog | Keeps the backlog of the whole project. \(Requirements\) |
-| Sprint Backlog | Keeps a backlog of the current sprint. |
-| In-Progress | Tasks which are being performed |
-| Completed | Keeps completed cards.  |
+| List            | Purpose                                                |
+| --------------- | ------------------------------------------------------ |
+| Product Backlog | Keeps the backlog of the whole project. (Requirements) |
+| Sprint Backlog  | Keeps a backlog of the current sprint.                 |
+| In-Progress     | Tasks which are being performed                        |
+| Completed       | Keeps completed cards.                                 |
 
 ### Gnatt Charts
 
 Gnatt charts are bar charts which illustrate a project schedule. We set a start and end date for each task card. 
 
-![An example of a Gnatt Chart](../../../.gitbook/assets/image%20%28194%29.png)
+![An example of a Gnatt Chart](<../../../.gitbook/assets/image (194).png>)
 
 #### Extensions
 
 * Power-Ups within Trello
-* Elegantt Chrome Extension \(doesn't work as well\)
+* Elegantt Chrome Extension (doesn't work as well)
 
 
 
 ## Plans for Development
 
-![](../../../.gitbook/assets/image%20%28196%29.png)
+![](<../../../.gitbook/assets/image (196).png>)
 
 ### The Software Process
 
 1. **Specification**: Define what the system should do.
-2. **Design and Implementation:** defining the organization of the system and implementing the system
-3. **Validation:** checking that it does what the
-4. **Evolution:** changing the system in response to changing customer needs.
+2. **Design and Implementation: **defining the organization of the system and implementing the system
+3. **Validation: **checking that it does what the
+4. **Evolution: **changing the system in response to changing customer needs.
 
 ### Plan-Driven & Agile Processes
 
@@ -95,7 +95,7 @@ Functional requirements are statements of services the system should provide, ho
 
 ### Non-Functional Requirements
 
-* **Definition:** constraints on the services or functions offered by the system such as timing constraints, constraints on the development process, standards, etc.
+* **Definition: **constraints on the services or functions offered by the system such as timing constraints, constraints on the development process, standards, etc.
 * They often apply to the system as a whole rather than individual features or services.
   * Security or performance.
 
@@ -109,7 +109,7 @@ Functional requirements are statements of services the system should provide, ho
 
 ### What are models?
 
-**Models:** a representation of some aspect of the system being built. Types of models:
+**Models: **a representation of some aspect of the system being built. Types of models:
 
 ### Types of Models
 
@@ -117,7 +117,6 @@ Functional requirements are statements of services the system should provide, ho
 * Graphical models: diagram/schematic
 * Mathematical models: Formulas, statistics, algorithms
 
-### Unified Modeling Language \(UML\)
+### Unified Modeling Language (UML)
 
 * Standard graphical modeling systems/terminology used for information systems.
-

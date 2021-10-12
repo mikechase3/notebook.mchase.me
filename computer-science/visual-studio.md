@@ -11,11 +11,11 @@
 The activity bar is on the left. From top to bottom, here’s how it’s laid out: 
 
 * File explorer
-* Search \(for files?\)
+* Search (for files?)
 * Version Control
 * Debugger
 * Extensions
-* Settings \(At the very bottom\)
+* Settings (At the very bottom)
 
 ### Settings Bar
 
@@ -50,11 +50,11 @@ On the right side:
 
 * Mike Chase: double click ’shift’.
 * Also CMD+SHIFT+P for non-jetbrains people. Also `F1`
-* Also view -&gt; command pallette for weird people.
+* Also view -> command pallette for weird people.
 
 ### Opening Temrinal in VS Code
 
-* Type in ``CMD+```
+* Type in `` CMD+` ``
 * Use the `+` button to create a new terminal.
 * Type `shell` in the command pallette to change to git bash or another terminal interface.
 * Use the 2x windows button to put two terminals side by side.
@@ -77,14 +77,12 @@ On the right side:
 
 
 
-| WILDCARD | DESCRIPTION |
-| :--- | :--- |
-| \* | Matches zero or more of any character. |
-| ? | Matches any single character. |
-| \[abc\] | Matches any one of the characters specified in the brackets. In this example, it would match either ‘a’, ‘b’, or ‘c’. |
-| \[a–z\] | Matches any one of the range of characters specified in the brackets. |
-| \[0–9\] | Matches any one of the numeric characters specified in the brackets. |
-| \*\* | Matches zero or more path segments. |
-
-
+| WILDCARD | DESCRIPTION                                                                                                           |
+| -------- | --------------------------------------------------------------------------------------------------------------------- |
+| \*       | Matches zero or more of any character.                                                                                |
+| ?        | Matches any single character.                                                                                         |
+| \[abc]   | Matches any one of the characters specified in the brackets. In this example, it would match either ‘a’, ‘b’, or ‘c’. |
+| \[a–z]   | Matches any one of the range of characters specified in the brackets.                                                 |
+| \[0–9]   | Matches any one of the numeric characters specified in the brackets.                                                  |
+| \*\*     | Matches zero or more path segments.                                                                                   |
 

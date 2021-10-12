@@ -2,9 +2,11 @@
 
 ## Naming Conventions
 
-{% embed url="https://www.python.org/dev/peps/pep-0008/\#id34" %}
+{% embed url="https://www.python.org/dev/peps/pep-0008/#id34" %}
 
-{% page-ref page="pep-8-style-guide.md" %}
+{% content-ref url="pep-8-style-guide.md" %}
+[pep-8-style-guide.md](pep-8-style-guide.md)
+{% endcontent-ref %}
 
 
 
@@ -23,7 +25,7 @@ runtime_of_crap = 2
 
 ### Reveal Variable Type
 
-* Use the type\(\) function.
+* Use the type() function.
 * `print(type(what_is_this_mysterious_variable))`
 
 ### Classes
@@ -38,11 +40,11 @@ runtime_of_crap = 2
 //This is me being an idiot. #Thank God for syntax highlighting. 
 ```
 
-### [Docstrings](https://www.programiz.com/python-programming/docstrings) \(See Programiz\)
+### [Docstrings](https://www.programiz.com/python-programming/docstrings) (See Programiz)
 
 #### Example 1: Docstrings
 
-```text
+```
 def square(n):
     '''Takes in a number n, returns the square of n'''
     return n**2
@@ -50,7 +52,7 @@ def square(n):
 
 Here, the string literal:
 
-```text
+```
 '''Takes in a number n, returns the square of n'''
 ```
 
@@ -58,13 +60,13 @@ Inside the triple quotation marks is the **docstring** of the function `square()
 
 **Note:** We can also use triple `"""` quotations to create docstrings.
 
-#### Python \_\_doc\_\_ attribute
+#### Python \__doc\_\_ attribute
 
 Whenever string literals are present just after the definition of a function, module, class or method, they are associated with the object as their `__doc__` attribute. We can later use this attribute to retrieve this docstring.
 
 _Example 2: Printing docstring_
 
-```text
+```
 def square(n):
     '''Takes in a number n, returns the square of n'''
     return n**2
@@ -74,21 +76,21 @@ print(square.__doc__)
 
 **Output**
 
-```text
+```
 Takes in a number n, returns the square of n
 ```
 
 Here, the documentation of our `square()` function can be accessed using the `__doc__` attribute.
 
-#### Using the help\(\) Function for Docstrings
+#### Using the help() Function for Docstrings
 
 We can also use the `help()` function to read the docstrings associated with various objects.
 
-_Example 7: Read Docstrings with the help\(\) function:_
+_Example 7: Read Docstrings with the help() function:_
 
 We can use the `help()` function on the class `Person` in **Example 6** as:
 
-```text
+```
 help(Person)
 ```
 
@@ -217,7 +219,7 @@ print(arr2)
 
 ### Compound Operators
 
-> Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
+>  Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
 
 ## Strings
 
@@ -280,9 +282,9 @@ But I wish I was doing it with you.
 """
 ```
 
-### Eval\(\)
+### Eval()
 
-* Use eval\(\) to have python evaluate a regular expression.
+* Use eval() to have python evaluate a regular expression.
 
 ### I**n keyword**
 
@@ -309,7 +311,7 @@ print("a" in "blueberry")
 
 Checkout Codecademy's [cheat sheet](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/cheatsheet) for this topic. Scroll down on that page & you'll see the methods.
 
-![Codecademy&apos;s Summary of String Methods](../../../.gitbook/assets/image%20%281%29.png)
+![Codecademy's Summary of String Methods](<../../../.gitbook/assets/image (1).png>)
 
 #### String Format
 
@@ -352,9 +354,9 @@ print(song) #Repeats 10 times because it uses the default value.
 
 ### [Lambda Functions](https://www.youtube.com/watch?v=25ovCm9jKfA)
 
-![Source: Socratica. My Favorite Beginner Python Series of 2020.](../../../.gitbook/assets/image%20%2839%29.png)
+![Source: Socratica. My Favorite Beginner Python Series of 2020.](<../../../.gitbook/assets/image (39).png>)
 
-![Source: Socratica. My Favorite Beginner Python Series of 2020.](../../../.gitbook/assets/image%20%2818%29.png)
+![Source: Socratica. My Favorite Beginner Python Series of 2020.](<../../../.gitbook/assets/image (18).png>)
 
 ## Generators
 
@@ -362,7 +364,7 @@ print(song) #Repeats 10 times because it uses the default value.
 * When a generator is called again, the function picks up right where it left out
   * Functions by contrast will start at the beginning of the function.
 
-{% embed url="https://www.youtube.com/watch?v=bD05uGo\_sVI" %}
+{% embed url="https://www.youtube.com/watch?v=bD05uGo_sVI" %}
 
 
 
@@ -466,37 +468,37 @@ def main(): # function, method are the same
 
 [Works cited: w3schools.com: Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
-| Example | Data Type | Try it |
-| :--- | :--- | :--- |
-| x = str\("Hello World"\) | str | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_str2) |
-| x = int\(20\) | int | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_int2) |
-| x = float\(20.5\) | float | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_float2) |
-| x = complex\(1j\) | complex | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_complex2) |
-| x = list\(\("apple", "banana", "cherry"\)\) | list | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_list2) |
-| x = tuple\(\("apple", "banana", "cherry"\)\) | tuple | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_tuple2) |
-| x = range\(6\) | range | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_range2) |
-| x = dict\(name="John", age=36\) | dict | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_dict2) |
-| x = set\(\("apple", "banana", "cherry"\)\) | set | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_set2) |
-| x = frozenset\(\("apple", "banana", "cherry"\)\) | frozenset | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_frozenset2) |
-| x = bool\(5\) | bool | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bool2) |
-| x = bytes\(5\) | bytes | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytes2) |
-| x = bytearray\(5\) | bytearray | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytearray2) |
-| x = memoryview\(bytes\(5\)\) | memoryview | Try it » |
+| Example                                      | Data Type  | Try it                                                                                   |
+| -------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| x = str("Hello World")                       | str        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_str2)       |
+| x = int(20)                                  | int        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_int2)       |
+| x = float(20.5)                              | float      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_float2)     |
+| x = complex(1j)                              | complex    | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_complex2)   |
+| x = list(("apple", "banana", "cherry"))      | list       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_list2)      |
+| x = tuple(("apple", "banana", "cherry"))     | tuple      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_tuple2)     |
+| x = range(6)                                 | range      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_range2)     |
+| x = dict(name="John", age=36)                | dict       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_dict2)      |
+| x = set(("apple", "banana", "cherry"))       | set        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_set2)       |
+| x = frozenset(("apple", "banana", "cherry")) | frozenset  | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_frozenset2) |
+| x = bool(5)                                  | bool       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bool2)      |
+| x = bytes(5)                                 | bytes      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytes2)     |
+| x = bytearray(5)                             | bytearray  | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytearray2) |
+| x = memoryview(bytes(5))                     | memoryview | Try it »                                                                                 |
 
 ## Lists
 
 * **Access**: `print(myList[-1])  # -1 refers to last element in the list.`
-* **Append:** Use `yourNamedList.append(itemToAppend)` 
-* **Append Another List:** Just use the `+` operator: `firstList + secondList`.
-* **Count:** `trump_votes = votes.count('Trump')` ****will ****return a number. 
-* **Del:** Removes an element from the list: 
-* **Length \(Size\)**: `len(listVariable)`
-* **Pop:** Removes the last index, but you can pass the index you want to remove as an argument.
+* **Append: **Use `yourNamedList.append(itemToAppend)` 
+* **Append Another List: **Just use the `+` operator: `firstList + secondList`.
+* **Count: **`trump_votes = votes.count('Trump')`** **will** **return a number. 
+* **Del: **Removes an element from the list: 
+* **Length (Size)**: `len(listVariable)`
+* **Pop: **Removes the last index, but you can pass the index you want to remove as an argument.
 * **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index. 
-* **Slice:** You can slice a list to get a sublist. `sublist = letters[1:6]`
+* **Slice: **You can slice a list to get a sublist. `sublist = letters[1:6]`
   * You can get the last 3 items of the list using: `sublist = letters[-3:]`
-* **Sort** _does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
-* **Sorted**  generates a new list without affecting the old one and uses the syntax `sorted(myList).` 
+* **Sort**_ does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
+* **Sorted ** generates a new list without affecting the old one and uses the syntax `sorted(myList).` 
   * You can also sort in reverse order: `list1.sort(reverse=True).`
 
 ### [List Comprehensions](https://www.w3schools.com/python/python_lists_comprehension.asp)
@@ -527,7 +529,7 @@ Python has a convenient shorthand to create lists like this with one line:
 usernames = [word for word in words if word[0] == '@']
 ```
 
-This is called a _list comprehension._ It will produce the same output as the for loop did:
+This is called a_ list comprehension. _It will produce the same output as the for loop did:
 
 ```python
 ["@coolguy35", "@kewldawg54", "@matchamom"]
@@ -540,7 +542,7 @@ This list comprehension:
 3. Checks if `word[0] == '@'`, and if so, it adds word to the new list, `usernames`. If not, nothing happens.
 4. Repeats steps 1-3 for all of the strings in `words`
 
-**Note:** if we hadn’t done any checking \(let’s say we had omitted `if word[0] == '@'`\), the new list would be just a copy of `words`
+**Note:** if we hadn’t done any checking (let’s say we had omitted `if word[0] == '@'`), the new list would be just a copy of `words`
 
 #### A second example: Filtering A List
 
@@ -554,7 +556,7 @@ print(can_ride_coaster) # Returns numbers lareger than 161.
 
 Note: taken from zetcode.
 
-We have a list of temperatures in Celsius. We want to create a new list of temperatures expressed in Fahrenheit temperature.fahrenheit\_celsius.py
+We have a list of temperatures in Celsius. We want to create a new list of temperatures expressed in Fahrenheit temperature.fahrenheit_celsius.py
 
 ```python
 #!/usr/bin/python3
@@ -573,7 +575,7 @@ fahr = [e * 9/5 + 32 for e in celsius]
 
 The calculation is done in the third, expression part of the Python list comprehension.
 
-{% code title="$ ./fahrenheit\_celsius.py " %}
+{% code title="$ ./fahrenheit_celsius.py " %}
 ```python
 [71.6, 82.4, 91.4, 107.6, 125.6]
 ```
@@ -594,59 +596,11 @@ print(attractions)  # [[], [], [], [], []]
 
 ### Built In Functions
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Function</th>
-      <th style="text-align:left">How to use it</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;<a href="https://www.programiz.com/python-programming/methods/built-in/range"><code>range()</code></a>&lt;code&gt;&lt;/code&gt;</td>
-      <td
-      style="text-align:left">
-        <p><code>range(low_bound, upper_Bound, step)</code>
-        </p>
-        <ul>
-          <li>Upper bound doesn&apos;t include upper bound. i.e. <code>range(10)</code> returns
-            nums 0 to 9.</li>
-          <li>Returns an immutable sequence.</li>
-          <li>Steps can be positive or negative.</li>
-          <li>It&apos;s a weird data type I don&apos;t understand.</li>
-          <li>You can cast it to a list via:<code>list(range(start, stop, step)))</code>
-          </li>
-        </ul>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;<a href="https://www.programiz.com/python-programming/methods/built-in/zip"><code>zip(a, b, c)</code></a>&lt;code&gt;&lt;/code&gt;</td>
-      <td
-      style="text-align:left">
-        <ul>
-          <li>Zip takes iterables and aggregates them into a tuple.</li>
-          <li>The iterables must be the same length. Any <em>extraneous values will be cut off</em>
-          </li>
-          <li>It casts to a <code>set()</code> or <code>list()</code>
-          </li>
-          <li>You can also unzip: <code>c, v =.zip(*results).</code>See the bottom of
-            the link for a better explanation.</li>
-        </ul>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>.index(element)</code>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Gets the index given an. element.</li>
-          <li><code>[&quot;foo&quot;, &quot;bar&quot;, &quot;baz&quot;].index(&quot;bar&quot;)</code> will
-            return <code>1</code>.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Function                                                                                | How to use it                                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ``[`range()`](https://www.programiz.com/python-programming/methods/built-in/range)``    | <p><code>range(low_bound, upper_Bound, step)</code></p><ul><li>Upper bound doesn't include upper bound. i.e. <code>range(10)</code> returns nums 0 to 9.</li><li>Returns an immutable sequence.</li><li>Steps can be positive or negative. </li><li>It's a weird data type I don't understand.</li><li>You can cast it to a list via:<code>list(range(start, stop, step)))</code></li></ul> |
+| ``[`zip(a, b, c)`](https://www.programiz.com/python-programming/methods/built-in/zip)`` | <ul><li>Zip takes iterables and aggregates them into a tuple.</li><li>The iterables must be the same length. Any <em>extraneous values will be cut off</em></li><li>It casts to a <code>set()</code> or <code>list()</code></li><li>You can also unzip: <code>c, v =.zip(*results).</code>See the bottom of the link for a better explanation.</li></ul>                                    |
+| `.index(element)`                                                                       | <ul><li>Gets the index given an. element.</li><li><code>["foo", "bar", "baz"].index("bar")</code> will return <code>1</code>. </li></ul>                                                                                                                                                                                                                                                    |
 
 ## Dictionaries
 
@@ -682,7 +636,7 @@ d['a'].append(2)
 d['b'].append(4)
 ```
 
-* _Warning:_ it will create dictionary enteries for keys accessed later on, even if they are not currently in the dictionary. If you don't want this behavior, you can call `d.setdefault()` on an ordinary dictionary. \(Beazley Jones 12\).
+* _Warning: _it will create dictionary enteries for keys accessed later on, even if they are not currently in the dictionary. If you don't want this behavior, you can call `d.setdefault()` on an ordinary dictionary. (Beazley Jones 12).
 
 {% hint style="info" %}
 This doesn't make sense to me.
@@ -733,7 +687,7 @@ mydict["new_key"] = mydict.pop("old_key")
 "No Prize"
 ```
 
-### Two Lists -&gt; Key
+### Two Lists -> Key
 
 Let’s say we have two lists that we want to combine into a dictionary, like a list of students and a list of their heights, in inches:
 
@@ -752,7 +706,7 @@ students = {key:value for key, value in zip(names, heights)}
 Remember that `zip()` combines two lists into a zipped list of pairs. This list comprehension:
 
 1. Takes a pair from the zipped list of pairs from `names` and `heights`
-2. Names the elements in the pair `key` \(the one originally from the `names` list\) and `value` \(the one originally from the `heights` list\)
+2. Names the elements in the pair `key` (the one originally from the `names` list) and `value` (the one originally from the `heights` list)
 3. Creates a `key` : `value` item in the `students` dictionary
 4. Repeats steps 1-3 for the entire list of pairs
 
@@ -767,9 +721,9 @@ drinks_to_caffeine = {drinks:caffeine for drinks, caffeine in zipped_drinks}
 print(drinks_to_caffeine)
 ```
 
-_Works Cited: Direct text from Codecademy -&gt; Python3 -&gt; List Comprehensions to Dictionaries_
+_Works Cited: Direct text from Codecademy -> Python3 -> List Comprehensions to Dictionaries_
 
-### Get All Keys, Values, or Items \(as a list\)
+### Get All Keys, Values, or Items (as a list)
 
 #### Keys
 
@@ -798,7 +752,7 @@ for company, value in biggest_brands.items():  # Key, Value in dictionary.ITEMS(
 ```
 
 {% hint style="info" %}
-Getting the smallest item is always quickest using heaps because it's O\(log N\) operations.
+Getting the smallest item is always quickest using heaps because it's O(log N) operations.
 {% endhint %}
 
 * `heap[0]` is always the smallest item in a heap.
@@ -837,7 +791,7 @@ for movie in fav_movies:
 ## Heaps
 
 * Use these if you have to implement some sort-of priority queue.
-* My favorite resource is 1.5 from _The Python Cookbook \(below\)._
+* My favorite resource is 1.5 from _The Python Cookbook (below)._
 
 {% embed url="https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/ch01.html" %}
 
@@ -847,7 +801,9 @@ for movie in fav_movies:
 
 ## Resources
 
-{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-classes/cheatsheet" caption="This content is directly from CodeCademy. Check them out!" %}
+{% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-classes/cheatsheet" %}
+This content is directly from CodeCademy. Check them out!
+{% endembed %}
 
 
 
@@ -864,7 +820,7 @@ facade_1 = Facade()
 
 ### Constructors
 
-> There are several methods that we can define in a Python class that have special behavior. These methods are sometimes called “magic,” because they behave differently from regular methods. Another popular term is _dunder methods_, so-named because they have two underscores \(double-underscore abbreviated to “dunder”\) on either side of them. \(Source: Codecademy\)
+> There are several methods that we can define in a Python class that have special behavior. These methods are sometimes called “magic,” because they behave differently from regular methods. Another popular term is _dunder methods_, so-named because they have two underscores (double-underscore abbreviated to “dunder”) on either side of them. (Source: Codecademy)
 
 Use `def __init()__:` within the class to make a constructor.
 
@@ -901,11 +857,11 @@ Use `def __init()__:` within the class to make a constructor.
 > * _object_ : the object we are testing to see if it has a certain attribute
 > * _attribute_ : name of attribute we want to see if it exists
 >
-> `getattr(object, “attribute”, default)` has three parameters \(one of which is optional\):
+> `getattr(object, “attribute”, default)` has three parameters (one of which is optional):
 >
 > * _object_ : the object whose attribute we want to evaluate
 > * _attribute_ : name of attribute we want to evaluate
-> * _default_ : the value that is returned if the attribute does not exist \(note: this parameter is **optional**\)
+> * _default_ : the value that is returned if the attribute does not exist (note: this parameter is **optional**)
 >
 > ```python
 > can_we_count_it = [{'s': False}, "sassafrass", 18, ["a", "c", "s", "d", "s"]]
@@ -918,13 +874,13 @@ Use `def __init()__:` within the class to make a constructor.
 > # <class 'list'> has the count attribute!
 > ```
 >
-> _\(Source: Codecademy, Python Programming Course\)_
+> _(Source: Codecademy, Python Programming Course)_
 
 ### Superclass
 
-* You can inherit the methods and variables from the superclass by calling `super()`. Make sure you have the **\(\) at the end!!!!!**
+* You can inherit the methods and variables from the superclass by calling `super()`. Make sure you have the **() at the end!!!!!**
 
-\*\*\*\*
+****
 
 ## Dunder Methods
 
@@ -943,7 +899,7 @@ class guest:
 g = Guest("Michael", datetime.date(1995, 7, 24))
 ```
 
-### String Representation: \_\_repr\_\_\(\)
+### String Representation: \__repr\_\_()
 
 * To have a default string representation of an object, use `__repr(self)__:`
 
@@ -960,7 +916,7 @@ print(argus)
 # prints "Argus Filch"
 ```
 
-### Adding with \_\_add\_\_\(\)
+### Adding with \__add\_\_()
 
 ```python
 class Atom:
@@ -981,7 +937,7 @@ salt = Molecule([sodium, chlorine])
 # salt = sodium + chlorine
 ```
 
-### \_\_Iter\(\)\_\_
+### \__Iter()\__
 
 ```python
 class UserGroup:
@@ -1001,7 +957,7 @@ class UserGroup:
 
 * `__iter__`, the iterator, we use the `iter()` function to turn the list `self.user_list` into an _iterator_ so we can use `for user in user_group` syntax. For more information on iterators, review [Python’s documentation of Iterator Types](https://docs.python.org/3/library/stdtypes.html#typeiter).
 
-### \_\_len\(\)\_\_
+### \__len()\__
 
 ```python
 class UserGroup:
@@ -1021,7 +977,7 @@ class UserGroup:
 
 * `__len__`, the length method, so when we call `len(user_group)` it will return the length of the underlying `self.user_list` list.
 
-### \_\_contains\(\)\_\_
+### \__contains()\__
 
 ```python
 class UserGroup:
@@ -1118,6 +1074,4 @@ from your_file import YourClass
 ```python
 from your_file import your_function  # Imports the function so you can use it.
 ```
-
-
 

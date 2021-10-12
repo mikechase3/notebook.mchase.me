@@ -24,13 +24,11 @@
 * When you want to create a new scripting language, you can follow the guidelines in ECMAScript. 
 * ES6 is what really makes it modern javascript because of all the major additions. For example, you could store variables using keywords like `let` and `const`, declare functions using arrows, create classes, have parameters with default values, and many more.
 
-![Image source: Codecademy in article &quot;JavaScript Versions: ES6 and Before](../../.gitbook/assets/image%20%28521%29.png)
+![Image source: Codecademy in article "JavaScript Versions: ES6 and Before](<../../.gitbook/assets/image (521).png>)
 
 {% embed url="https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-i/modules/fscp-introduction-to-programming-with-javascript/articles/javascript-versions" %}
 
 ## Arrow Functions
 
-{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions" %}
-
-
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions" %}
 

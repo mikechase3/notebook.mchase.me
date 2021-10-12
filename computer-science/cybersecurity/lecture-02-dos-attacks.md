@@ -36,7 +36,7 @@
 
 ### SYN Spoofing Attack
 
-![Retrieved from Dr. Baldwin&apos;s Slides.](../../.gitbook/assets/image%20%28594%29.png)
+![Retrieved from Dr. Baldwin's Slides.](<../../.gitbook/assets/image (594).png>)
 
 * It's trying to fill up a table such that you make a bunch of sessions the system wants to keep a track of, but the table is **filled up with illegitimate sessions.**
 
@@ -46,7 +46,7 @@
 
 ### ICMP Flooding
 
-* Uses ICMP \(Internet Control Message Protocol\) echo request packets.
+* Uses ICMP (Internet Control Message Protocol) echo request packets.
 * You basically overwhelm the network with a bunch of ping requests
 
 ### UDP Flood
@@ -73,9 +73,9 @@
 
 ### SIP Flood
 
-![When one INVITE request is sent, it uses 5 times the resources on the receiving end.](../../.gitbook/assets/image%20%28593%29.png)
+![When one INVITE request is sent, it uses 5 times the resources on the receiving end.](<../../.gitbook/assets/image (593).png>)
 
-* SIP is used to establish VoIP \(voice over IP\) sessions. 
+* SIP is used to establish VoIP (voice over IP) sessions. 
 * It bombards SIP proxy servers with `INVITE` requests.
 * **Consumes considerable resources via a single invite** both on proxy and network servicing `INVITE`.
   * You get a 5-for-1. Where one request does 5 times the work for one botnet request.
@@ -102,7 +102,7 @@
 
 Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 
-![](../../.gitbook/assets/image%20%28604%29.png)
+![](<../../.gitbook/assets/image (604).png>)
 
 ### Amplification Attacks
 
@@ -118,71 +118,15 @@ Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 
 ### DoS Attack Prevention
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Idea</th>
-      <th style="text-align:left">Execution</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Block spoofed source addresses</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Send a request to the suspected spoofed address.</li>
-          <li>The response if received should be consistent with the previously received
-            packet.
-            <ul>
-              <li>If what you receive/send should have the same number of hops.</li>
-              <li>If what you send has more hops, assume the original packet sent isn&apos;t
-                legitimate.</li>
-            </ul>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Reverse path forwarding (RPF)</td>
-      <td style="text-align:left">
-        <p>Verifies the interface a packet was received on is on the same interface
-          a path to the claimed source will use. If not, drop it.</p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Use modified TCP connection handling code</td>
-      <td style="text-align:left">Cryptographically encode critical information in a cookie sent as the
-        server&apos;s initial sequence number. If the cookie doesn&apos;t come
-        back correctly, drop it.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Block IP directed broadcasts</td>
-      <td style="text-align:left">Within the IP protocol, there are certain services that&apos;ll send something
-        to every server on the network. You can just refuse to forward any broadcast
-        packets on.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Block suspicious service/port combinations.</td>
-      <td style="text-align:left">If you get an incoming service on a strange port, it&apos;s probably not
-        legitimate.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Manage application attacks with some site of captcha.</td>
-      <td style="text-align:left">You&apos;ll know you&apos;re responding to a captcha if you put up a puzzle
-        that they have to solve.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Use mirrored/replicated servers.</td>
-      <td style="text-align:left">If you are able to bring on legitamate servers, you can dynamically adjust
-        to your traffic level. If you&apos;re getting DoSsed, you can service the
-        legit attacks while figuring out how to discard illegitimate attacks. Illegitimate.
-        Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate.
-        Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate.
-        Illegitimate. Illegitimate.</td>
-    </tr>
-  </tbody>
-</table>
+| Idea                                                  | Execution                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Block spoofed source addresses                        | <ul><li>Send a request to the suspected spoofed address.</li><li><p>The response if received should be consistent with the previously received packet.</p><ul><li>If what you receive/send should have the same number of hops.</li><li>If what you send has more hops, assume the original packet sent isn't legitimate.</li></ul></li></ul>                                                                                           |
+| Reverse path forwarding (RPF)                         | <p>Verifies the interface a packet was received on is on the same interface a path to the claimed source will use. If not, drop it.</p><p></p>                                                                                                                                                                                                                                                                                          |
+| Use modified TCP connection handling code             | Cryptographically encode critical information in a cookie sent as the server's initial sequence number. If the cookie doesn't come back correctly, drop it.                                                                                                                                                                                                                                                                             |
+| Block IP directed broadcasts                          | Within the IP protocol, there are certain services that'll send something to every server on the network. You can just refuse to forward any broadcast packets on.                                                                                                                                                                                                                                                                      |
+| Block suspicious service/port combinations.           | If you get an incoming service on a strange port, it's probably not legitimate.                                                                                                                                                                                                                                                                                                                                                         |
+| Manage application attacks with some site of captcha. | You'll know you're responding to a captcha if you put up a puzzle that they have to solve.                                                                                                                                                                                                                                                                                                                                              |
+| Use mirrored/replicated servers.                      | If you are able to bring on legitamate servers, you can dynamically adjust to your traffic level. If you're getting DoSsed, you can service the legit attacks while figuring out how to discard illegitimate attacks. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. Illegitimate. |
 
 ## 7.7: Responses
 
@@ -199,5 +143,4 @@ Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 
 ## Works Cited
 
-* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014. 
-
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\

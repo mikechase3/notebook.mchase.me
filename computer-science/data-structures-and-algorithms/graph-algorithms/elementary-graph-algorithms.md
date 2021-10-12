@@ -1,18 +1,18 @@
-# Graph Fundamentals \(L12\)
+# Graph Fundamentals (L12)
 
 ## Graph Fundamentals
 
-All these notes are from the video from Back to Back SWE. Some of this is copied and pasted. Nothing in this section is my own. \(Well, that's not true some is paraphrased... but this isn't my work\).
+All these notes are from the video from Back to Back SWE. Some of this is copied and pasted. Nothing in this section is my own. (Well, that's not true some is paraphrased... but this isn't my work).
 
 By the way - you should check out his videos because they're awesome. Even though they're not free, I couldn't learn this stuff without him.
 
 ### Mathematical Representation
 
-*  A [graph](https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29) is a mathematical object that consists of a [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29) of vertices \(or "nodes"\) and a set of edges connecting those nodes together.
+*  A [graph](https://en.wikipedia.org/wiki/Graph_\(abstract_data_type\)) is a mathematical object that consists of a [set](https://en.wikipedia.org/wiki/Set_\(mathematics\)) of vertices (or "nodes") and a set of edges connecting those nodes together.
 * We stress that you see a graph as a mathematical object that takes the form `G = (V, E)`. A graph consists of a set of vertices and a set of edges.
-* We say this because many get confused by the many ways a graph can be _represented_ and get stuck on details. In the problem-solving process, it is of great help to "see the larger picture" and understand that a graph just consists of **2 sets** \(`V` & `E`\).
+* We say this because many get confused by the many ways a graph can be _represented_ and get stuck on details. In the problem-solving process, it is of great help to "see the larger picture" and understand that a graph just consists of** 2 sets** (`V` & `E`).
 
-```text
+```
      1
    /   \
   2  -  3
@@ -27,27 +27,27 @@ $$
 G = (V, E)
 $$
 
-| Title | Definition |
-| :--- | :--- |
-| Edges | Connects the verticies |
-| Verticies | The 'nodes,' or circles you're connecting to. |
-| V | V is the set of all vertices, like  `V = {1, 2, 3, 4, 5}` |
-| E | E contains all the **sets of edges**, like `E = { {1,2}, {1, 3}, {2, 3} }` |
-| \|V\| | The **cardinality**, or size of the vertices, or how many vertices their are.  |
-| \|E\| | The **cardinality**, or size, or how many total edges there are. |
+| Title     | Definition                                                                     |
+| --------- | ------------------------------------------------------------------------------ |
+| Edges     | Connects the verticies                                                         |
+| Verticies | The 'nodes,' or circles you're connecting to.                                  |
+| V         | V is the set of all vertices, like ` V = {1, 2, 3, 4, 5}`                      |
+| E         | E contains all the **sets of edges**, like `E = { {1,2}, {1, 3}, {2, 3} }`     |
+| \|V\|     | The **cardinality**, or size of the vertices, or how many vertices their are.  |
+| \|E\|     | The **cardinality**, or size, or how many total edges there are.               |
 
-### Vertices \(V\)
+### Vertices (V)
 
-![](../../../.gitbook/assets/image%20%2861%29.png)
+![](<../../../.gitbook/assets/image (61).png>)
 
 * Vertices is the set of all the vertices. 
 * These are connected by edges. 
 * Here, the vertices are `V = {1, 2, 3, 4, 5}`.
-* The _cardinality_ \(or size\) __of the vertices is 5.
+* The _cardinality _(or size)_ _of the vertices is 5.
 
 ### Edges
 
-![](../../../.gitbook/assets/image%20%2857%29.png)
+![](<../../../.gitbook/assets/image (57).png>)
 
 * Edges connect the vertices together. 
 * The order in which you write out the edges doesn't matter
@@ -55,14 +55,14 @@ $$
 
 Terminology of edges, using the example `{u,v}`
 
-| Term | Meaning |
-| :--- | :--- |
-| Directed | Here, u points to v. The tail points to the head. |
-| `u` | `u` is called the **tail** of this edge. |
-| `v` | `v` is called the **head** of this edge. |
-| `indeg(v)` | The number of edges where `v` is the head, going into `v`. |
-| `outdeg(v)` | The out-degree of v. |
-| `deg(v)` | The sum of all edges _incident_ \(touching\) the vertex. It's the sum of the in-degrees and the out-degrees. |
+| Term        | Meaning                                                                                                    |
+| ----------- | ---------------------------------------------------------------------------------------------------------- |
+| Directed    | Here, u points to v. The tail points to the head.                                                          |
+| `u`         | `u` is called the **tail** of this edge.                                                                   |
+| `v`         | `v` is called the **head** of this edge.                                                                   |
+| `indeg(v)`  | The number of edges where `v` is the head, going into `v`.                                                 |
+| `outdeg(v)` | The out-degree of v.                                                                                       |
+| `deg(v)`    | The sum of all edges _incident_ (touching) the vertex. It's the sum of the in-degrees and the out-degrees. |
 
 ### Degrees
 
@@ -70,11 +70,11 @@ Terminology of edges, using the example `{u,v}`
 
 Digraphs mean that edges are directed edges. It's short for _directed graph_.
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](<../../../.gitbook/assets/image (50).png>)
 
 * The in-degree of vertex `v` is 2 because v is the head of two incoming tails.
 * The out-degree of vertex `v` is 3 because v is the tail of three outgoing heads.
-* The degree of vertex v is 5 because the sum of 2 \(in\) and 3 \(out\) = 5 total edges.
+* The degree of vertex v is 5 because the sum of 2 (in) and 3 (out) = 5 total edges.
 
 ### Summations for Undirected Graphs
 
@@ -84,7 +84,7 @@ $$
 
 #### Translation
 
-* The sum for every single vertex \(v\) that is an element of the vertices \(V\) we saw
+* The sum for every single vertex (v) that is an element of the vertices (V) we saw
   * Summing all of the degrees of each vertex `V`.
   * `v` describes one vertex. `V` describes the set of all vertexes.
 * `m` is the amount of true edges.
@@ -131,7 +131,7 @@ A component is a subgraph is a graph that has all the properties of u and v in t
 
 The components are where we can find a path from every single pair of `u` and `v`'s.
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](<../../../.gitbook/assets/image (56).png>)
 
 In this example:
 
@@ -140,7 +140,7 @@ In this example:
 
 #### Why are we concerned?
 
-DFS and BFS are guaranteed to search their connected component, but they are not going to search the whole graph like looping over all the vertices and finding each edge between them in the representation versus just doing a search off of a node \(which will only hit the whole component\).
+DFS and BFS are guaranteed to search their connected component, but they are not going to search the whole graph like looping over all the vertices and finding each edge between them in the representation versus just doing a search off of a node (which will only hit the whole component).
 {% endtab %}
 
 {% tab title="Directed Graphs" %}
@@ -154,36 +154,36 @@ DFS and BFS are guaranteed to search their connected component, but they are not
 Is this actually what a strong connection means?
 {% endhint %}
 
-Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection_ implies`v` can get to `u` and `u` can get to `v`. 
+Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection _implies`v` can get to `u` and `u` can get to `v`. 
 
-![Strong Connection](../../../.gitbook/assets/image%20%2864%29.png)
+![Strong Connection](<../../../.gitbook/assets/image (64).png>)
 
-![No strong connection between u and v.](../../../.gitbook/assets/image%20%2865%29.png)
+![No strong connection between u and v.](<../../../.gitbook/assets/image (65).png>)
 
 ### Tree Terminology
 
-A forest is a graph with no cycles, and a tree is a connected forest. That makes a tree a directed, acyclic graph. \(Directed, has no cycles because it's a forest, and is a graph\).
+A forest is a graph with no cycles, and a tree is a connected forest. That makes a tree a directed, acyclic graph. (Directed, has no cycles because it's a forest, and is a graph).
 
-| Term | Definition |
-| :--- | :--- |
-| Forest | A graph with no cycles. |
-| Tree | A connected forest. \(A directed, acyclic graph\). |
-| Leaf | Any child of any parent. We can choose anything but the root to be a leaf. |
-| Root | Whatever vertex we choose to be the root. |
-| Parent | One of the node's neighbors that is closest to the root.  |
-| Acyclic | It means there are no cycles. |
+| Term    | Definition                                                                 |
+| ------- | -------------------------------------------------------------------------- |
+| Forest  | A graph with no cycles.                                                    |
+| Tree    | A connected forest. (A directed, acyclic graph).                           |
+| Leaf    | Any child of any parent. We can choose anything but the root to be a leaf. |
+| Root    | Whatever vertex we choose to be the root.                                  |
+| Parent  | One of the node's neighbors that is closest to the root.                   |
+| Acyclic | It means there are no cycles.                                              |
 
 ## Algorithms
 
-| Algorithm | Use/Goal | Comment |
-| :--- | :--- | :--- |
-| BFS | Graph Traversal | Used for others. |
-| DFS | Graph Traversal | Used for others. |
-| Prim's |  |  |
-| Kruskal's | Finds minimum spanning tree \(cheapest roads to connect all cities\). | No starting node.  |
-| Floyd |  |  |
-| Bellmond-Ford | Find shortest path from source to all others. | Handles for negative weights. O\(V\*E\) |
-| Dikstra's | Find shortest path. | Faster if there's not negative weights. O\(V+E\) |
+| Algorithm     | Use/Goal                                                            | Comment                                        |
+| ------------- | ------------------------------------------------------------------- | ---------------------------------------------- |
+| BFS           | Graph Traversal                                                     | Used for others.                               |
+| DFS           | Graph Traversal                                                     | Used for others.                               |
+| Prim's        |                                                                     |                                                |
+| Kruskal's     | Finds minimum spanning tree (cheapest roads to connect all cities). | No starting node.                              |
+| Floyd         |                                                                     |                                                |
+| Bellmond-Ford | Find shortest path from source to all others.                       | Handles for negative weights. O(V\*E)          |
+| Dikstra's     | Find shortest path.                                                 | Faster if there's not negative weights. O(V+E) |
 
 Shortest path: You start at a source node.
 
@@ -191,9 +191,8 @@ Minimum spanning:
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
-| CPS 450 Class | Structure | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
-| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals) |
-|  |  |  |
-
+| Title                                                                                 | Content Used         | Author                                                                                          |
+| ------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------- |
+| CPS 450 Class                                                                         | Structure            | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
+| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals)              |
+|                                                                                       |                      |                                                                                                 |

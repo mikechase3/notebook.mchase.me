@@ -12,7 +12,7 @@
   * Sample projects
   * VR Demos
   * Specific concepts: user interface and full games.
-* **Marketplace:** buy content and free items you can use from Epic Games
+* **Marketplace: **buy content and free items you can use from Epic Games
 * **Library**: What engine versions and crap did you install?
 * **Modding**: Helps you learn crap and make mods.
 
@@ -63,7 +63,7 @@
 * You can half-ass backwards compatibility by opening up the text file and changing the version; however, anything created with a newer version won't show up.
 
 {% hint style="warning" %}
-If you ever need to work backwards, check out the video "Understanding the .uproject File." It's not safe. But it might \(probably will\) work.
+If you ever need to work backwards, check out the video "Understanding the .uproject File." It's not safe. But it might (probably will) work.
 {% endhint %}
 
 ### Project Structure
@@ -91,7 +91,7 @@ If you ever need to work backwards, check out the video "Understanding the .upro
   * Delete anything that isn't in installed engines.
 * You can also remove the project from within Unreal Engine.
 
-### Derived Data Cache \(DDC\)
+### Derived Data Cache (DDC)
 
 It stores your assets in a specific format compatable for the Unreal Engine. It speeds things up for when you're working with unreal Engine like caches do obviously.
 
@@ -99,5 +99,4 @@ It stores your assets in a specific format compatable for the Unreal Engine. It 
 * You can lookup how to move the DDC so that it's shared in public folders.
   * This can make things faster in saved drives.
 
-## 
-
+##

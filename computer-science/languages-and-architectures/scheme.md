@@ -4,7 +4,9 @@
 
 I closely follow along with the following book. If something in my notes doesn't make sense, you can look it up in here for a better explanation. 
 
-{% embed url="https://learning.oreilly.com/library/view/racket-programming-the/9781098128449/xhtml/ch01.xhtml" caption="Racket Programming the Fun Way" %}
+{% embed url="https://learning.oreilly.com/library/view/racket-programming-the/9781098128449/xhtml/ch01.xhtml" %}
+Racket Programming the Fun Way
+{% endembed %}
 
 You might find the documentation helpful as well:
 
@@ -38,9 +40,9 @@ Lists and quotes are nearly the same; however, lists will get evaluated while qu
 
 #### Lists Example
 
-> Lists typically begin with an open parenthesis, \(, followed by a list of space-separated items and end with a closed parenthesis, \)
+> Lists typically begin with an open parenthesis, (, followed by a list of space-separated items and end with a closed parenthesis, )
 >
-> ```text
+> ```
 > > (list 1 (list "two" "three") 4 5)
 > ```
 >
@@ -64,12 +66,12 @@ Lists and quotes are nearly the same; however, lists will get evaluated while qu
 
 S expressions are defined to be one of two cases
 
-1. An atom \(or a really simple type\)
+1. An atom (or a really simple type)
 2. In the form `(x . y)` where x and y are other s-expressions.
 
 That form in the 2nd category is called a _pair_. 
 
-The picture below shows how S-expressions form binary trees where non-leaf nodes have 2 child nodes. \(Photo from [Racket Programming the Fun Way](https://nostarch.com/racket-programming-fun-way)\)
+The picture below shows how S-expressions form binary trees where non-leaf nodes have 2 child nodes. (Photo from [Racket Programming the Fun Way](https://nostarch.com/racket-programming-fun-way))
 
 
 
@@ -79,18 +81,18 @@ The picture below shows how S-expressions form binary trees where non-leaf nodes
 
 * The **cons** function creates a pair. i.e: `(cons 1 2)` returns `'1 . 2'`
 
-![Each group makes up \`cons\` pair.](../../.gitbook/assets/image%20%28443%29.png)
+![Each group makes up \`cons\` pair.](<../../.gitbook/assets/image (443).png>)
 
 > Cons cells can be created directly by using the cons function. Note that the cons function does not necessarily create a list. For example
 >
-> ```text
+> ```
 > > (cons 1 2)
 > '(1 . 2)
 > ```
 >
 > produces a pair but _not_ a list. However, if we use an empty list as our second s-expression
 >
-> ```text
+> ```
 > > (cons 1 '())
 > '(1)
 > ```
@@ -199,6 +201,4 @@ You can also just call `(modulo 2 3)` or `(remainder 2 3)`
                     (search (cdr node) x))))))
 (search '(a b c d) 'c)  ; 'c' is a symbol, so make sure to put a quote before it.
 ```
-
-
 

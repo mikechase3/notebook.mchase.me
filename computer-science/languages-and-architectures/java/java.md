@@ -4,13 +4,13 @@
 
 The collections framework includes a standard set of methods that make remembering the syntax for functions a million times easier. Also, you don't have to implement simple things yourself which saves you time and line space. 
 
-> From [Geeks for Geeks](https://www.geeksforgeeks.org/collections-in-java-2/#_=_):
+> From [Geeks for Geeks](https://www.geeksforgeeks.org/collections-in-java-2/#\_=\_):
 >
-> 1. **Consistent API:** The API has a basic set of [interfaces](https://www.geeksforgeeks.org/interfaces-in-java/) like _Collection_, _Set_, _List_, or _Map_, all the classes \([ArrayList](https://www.geeksforgeeks.org/arraylist-in-java/), [LinkedList](https://www.geeksforgeeks.org/data-structures/linked-list/), Vector, etc\) that implement these interfaces have some common set of methods.
-> 2. **Reduces programming effort:** A programmer doesn’t have to worry about the design of the Collection but rather he can focus on its best use in his program. Therefore, the basic concept of Object-oriented programming \(i.e.\) abstraction has been successfully implemented.
+> 1. **Consistent API:** The API has a basic set of [interfaces](https://www.geeksforgeeks.org/interfaces-in-java/) like _Collection_, _Set_, _List_, or _Map_, all the classes ([ArrayList](https://www.geeksforgeeks.org/arraylist-in-java/), [LinkedList](https://www.geeksforgeeks.org/data-structures/linked-list/), Vector, etc) that implement these interfaces have some common set of methods.
+> 2. **Reduces programming effort:** A programmer doesn’t have to worry about the design of the Collection but rather he can focus on its best use in his program. Therefore, the basic concept of Object-oriented programming (i.e.) abstraction has been successfully implemented.
 > 3. **Increases program speed and quality:** Increases performance by providing high-performance implementations of useful data structures and algorithms because in this case, the programmer need not think of the best implementation of a specific data structure. He can simply use the best implementation to drastically boost the performance of his algorithm/program.
 
-![Source: Geeks for Geeks: Collections in Java 2](../../../.gitbook/assets/image%20%2887%29.png)
+![Source: Geeks for Geeks: Collections in Java 2](<../../../.gitbook/assets/image (87).png>)
 
 These functions are all available for any object extending collections:
 
@@ -18,37 +18,37 @@ These functions are all available for any object extending collections:
 
 {% tabs %}
 {% tab title="Collection" %}
-#### [Iterable&lt;T&gt;](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html)
+#### [Iterable\<T>](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html)
 
-Collection extends [iterable](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html), and the entire framework depends on it. It lets you iterate through collections and it returns the Iterator iterator\(\);
+Collection extends [iterable](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html), and the entire framework depends on it. It lets you iterate through collections and it returns the Iterator iterator();
 
 #### Collection
 
-Collection is the interface which implements iterable. It contains the following methods. \(For more information, see [Geeks for Geeks](https://www.geeksforgeeks.org/collections-in-java-2/#_=_), where I got this content\).
+Collection is the interface which implements iterable. It contains the following methods. (For more information, see [Geeks for Geeks](https://www.geeksforgeeks.org/collections-in-java-2/#\_=\_), where I got this content).
 
 
 
-| METHOD | DESCRIPTION |
-| :--- | :--- |
-| [**add\(Object\)**](https://www.geeksforgeeks.org/collection-add-method-in-java-with-examples/) | This method is used to add an object to the collection. |
-| [**addAll\(Collection c\)**](https://www.geeksforgeeks.org/collections-addall-method-in-java-with-examples/) | This method adds all the elements in the given collection to this collection. |
-| [**clear\(\)**](https://www.geeksforgeeks.org/collection-clear-method-in-java-with-examples/) | This method removes all of the elements from this collection. |
-| [**contains\(Object o\)**](https://www.geeksforgeeks.org/collection-contains-method-in-java-with-examples/) | This method returns true if the collection contains the specified element. |
-| **containsAll\(Collection c\)** | This method returns true if the collection contains all of the elements in the given collection. |
-| **equals\(Object o\)** | This method compares the specified object with this collection for equality. |
-| **hashCode\(\)** | This method is used to return the hash code value for this collection. |
-| [**isEmpty\(\)**](https://www.geeksforgeeks.org/collection-isempty-method-in-java-with-examples/) | This method returns true if this collection contains no elements. |
-| **iterator\(\)** | This method returns an iterator over the elements in this collection. |
-| [**max\(\)**](https://www.geeksforgeeks.org/collections-max-method-in-java-with-examples/) | This method is used to return the maximium value present in the collection. |
-| **parallelStream\(\)** | This method returns a parallel Stream with this collection as its source. |
-| **remove\(Object o\)** | This method is used to remove the given object from the collection. If there are duplicate values, then this method removes the first occurrence of the object. |
-| **removeAll\(Collection c\)** | This method is used to remove all the objects mentioned in the given collection from the collection. |
-| **removeIf\(Predicate filter\)** | This method is used to removes all the elements of this collection that satisfy the given [predicate](https://www.geeksforgeeks.org/mathematic-logic-predicates-quantifiers/). |
-| **retainAll\(Collection c\)** | This method is used to retains only the elements in this collection that are contained in the specified collection. |
-| **size\(\)** | This method is used to return the number of elements in the collection. |
-| **spliterator\(\)** | This method is used to create a [Spliterator](https://www.geeksforgeeks.org/java-program-to-convert-iterator-to-spliterator/) over the elements in this collection. |
-| **stream\(\)** | This method is used to return a sequential Stream with this collection as its source. |
-| **toArray\(\)** | This method is used to return an array containing all of the elements in this collection. |
+| METHOD                                                                                                     | DESCRIPTION                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [**add(Object)**](https://www.geeksforgeeks.org/collection-add-method-in-java-with-examples/)              | This method is used to add an object to the collection.                                                                                                                        |
+| [**addAll(Collection c)**](https://www.geeksforgeeks.org/collections-addall-method-in-java-with-examples/) | This method adds all the elements in the given collection to this collection.                                                                                                  |
+| [**clear()**](https://www.geeksforgeeks.org/collection-clear-method-in-java-with-examples/)                | This method removes all of the elements from this collection.                                                                                                                  |
+| [**contains(Object o)**](https://www.geeksforgeeks.org/collection-contains-method-in-java-with-examples/)  | This method returns true if the collection contains the specified element.                                                                                                     |
+| **containsAll(Collection c)**                                                                              | This method returns true if the collection contains all of the elements in the given collection.                                                                               |
+| **equals(Object o)**                                                                                       | This method compares the specified object with this collection for equality.                                                                                                   |
+| **hashCode()**                                                                                             | This method is used to return the hash code value for this collection.                                                                                                         |
+| [**isEmpty()**](https://www.geeksforgeeks.org/collection-isempty-method-in-java-with-examples/)            | This method returns true if this collection contains no elements.                                                                                                              |
+| **iterator()**                                                                                             | This method returns an iterator over the elements in this collection.                                                                                                          |
+| [**max()**](https://www.geeksforgeeks.org/collections-max-method-in-java-with-examples/)                   | This method is used to return the maximium value present in the collection.                                                                                                    |
+| **parallelStream()**                                                                                       | This method returns a parallel Stream with this collection as its source.                                                                                                      |
+| **remove(Object o)**                                                                                       | This method is used to remove the given object from the collection. If there are duplicate values, then this method removes the first occurrence of the object.                |
+| **removeAll(Collection c)**                                                                                | This method is used to remove all the objects mentioned in the given collection from the collection.                                                                           |
+| **removeIf(Predicate filter)**                                                                             | This method is used to removes all the elements of this collection that satisfy the given [predicate](https://www.geeksforgeeks.org/mathematic-logic-predicates-quantifiers/). |
+| **retainAll(Collection c)**                                                                                | This method is used to retains only the elements in this collection that are contained in the specified collection.                                                            |
+| **size()**                                                                                                 | This method is used to return the number of elements in the collection.                                                                                                        |
+| **spliterator()**                                                                                          | This method is used to create a [Spliterator](https://www.geeksforgeeks.org/java-program-to-convert-iterator-to-spliterator/) over the elements in this collection.            |
+| **stream()**                                                                                               | This method is used to return a sequential Stream with this collection as its source.                                                                                          |
+| **toArray()**                                                                                              | This method is used to return an array containing all of the elements in this collection.                                                                                      |
 {% endtab %}
 
 {% tab title="List" %}
@@ -229,7 +229,7 @@ Stack is a subclass of Vector and a legacy class. It is thread safe which might 
 
 I don't know. Nobody ever taught us about Vectors. One of my instructors said they're not important. That's probably not true or they wouldn't exist. And Stacks use them I guess; I'm sure it's efficient and important somewhere. But I don't know where yet. 
 
-> [**Vector:**](https://www.geeksforgeeks.org/java-util-vector-class-java/) A vector provides us with dynamic arrays in Java. Though, it may be slower than standard arrays but can be helpful in programs where lots of manipulation in the array is needed. This is identical to ArrayList in terms of implementation. However, the primary difference between a vector and an ArrayList is that a Vector is synchronized and an ArrayList is non-synchronized. Let’s understand the Vector with an example:
+>  [**Vector:**](https://www.geeksforgeeks.org/java-util-vector-class-java/) A vector provides us with dynamic arrays in Java. Though, it may be slower than standard arrays but can be helpful in programs where lots of manipulation in the array is needed. This is identical to ArrayList in terms of implementation. However, the primary difference between a vector and an ArrayList is that a Vector is synchronized and an ArrayList is non-synchronized. Let’s understand the Vector with an example:
 
 #### How to use it:
 
@@ -337,7 +337,7 @@ class GfG {
 
 #### What is it?
 
-> [**Deque Interface**](https://www.geeksforgeeks.org/deque-interface-java-example/)**:** This is a very slight variation of the [queue data structure](https://www.geeksforgeeks.org/queue-data-structure/). [Deque](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/), also known as a double-ended queue, is a data structure where we can add and remove the elements from both the ends of the queue. This interface extends the queue interface. The class which implements this interface is [ArrayDeque](https://www.geeksforgeeks.org/arraydeque-in-java/). Since this class implements the deque, we can instantiate a deque object with this class. For example,
+>  [**Deque Interface**](https://www.geeksforgeeks.org/deque-interface-java-example/)**:** This is a very slight variation of the [queue data structure](https://www.geeksforgeeks.org/queue-data-structure/). [Deque](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/), also known as a double-ended queue, is a data structure where we can add and remove the elements from both the ends of the queue. This interface extends the queue interface. The class which implements this interface is [ArrayDeque](https://www.geeksforgeeks.org/arraydeque-in-java/). Since this class implements the deque, we can instantiate a deque object with this class. For example,
 
 ```java
 Deque<T> ad = new ArrayDeque<> ();
@@ -346,7 +346,7 @@ Where T is the type of the object.
 
 #### ArrayDeque Example
 
-> [**ArrayDeque:**](https://www.geeksforgeeks.org/arraydeque-in-java/) ArrayDeque class which is implemented in the collection framework provides us with a way to apply resizable-array. This is a special kind of array that grows and allows users to add or remove an element from both sides of the queue. Array deques have no capacity restrictions and they grow as necessary to support usage. Lets understand ArrayDeque with an example:
+>  [**ArrayDeque:**](https://www.geeksforgeeks.org/arraydeque-in-java/) ArrayDeque class which is implemented in the collection framework provides us with a way to apply resizable-array. This is a special kind of array that grows and allows users to add or remove an element from both sides of the queue. Array deques have no capacity restrictions and they grow as necessary to support usage. Lets understand ArrayDeque with an example:
 
 ```java
 // Java program to demonstrate the 
@@ -394,6 +394,8 @@ public class ArrayDequeDemo {
 [10, 20, 30, 40, 50]
 [291, 564, 24, 14]
 ```
+
+
 {% endtab %}
 
 {% tab title="Sets" %}
@@ -452,7 +454,7 @@ Is
 
 ## LinkedHashSet
 
-This is a `HashSet`, but it uses a doubly linked list and **retains the ordering of the elements.** It still won't accept duplicates though.
+This is a `HashSet`, but it uses a doubly linked list and **retains the ordering of the elements. **It still won't accept duplicates though.
 
 #### Example
 
@@ -506,7 +508,7 @@ TreeSet is actually under the sorted set interface.
 
 It's like the set interface, but for trees. Therefore, you can use some more methods that handle the ordering and the data that goes in. Probably for like BinarySearch but I don't know that for sure... yet.
 
-> [**TreeSet:**](https://www.geeksforgeeks.org/treeset-in-java-with-examples/) The TreeSet class uses a Tree for storage. The ordering of the elements is maintained by a set using their natural ordering whether or not an explicit comparator is provided. This must be consistent with equals if it is to correctly implement the Set interface. It can also be ordered by a Comparator provided at set creation time, depending on which constructor is used. Let’s understand TreeSet with an example:
+>  [**TreeSet:**](https://www.geeksforgeeks.org/treeset-in-java-with-examples/) The TreeSet class uses a Tree for storage. The ordering of the elements is maintained by a set using their natural ordering whether or not an explicit comparator is provided. This must be consistent with equals if it is to correctly implement the Set interface. It can also be ordered by a Comparator provided at set creation time, depending on which constructor is used. Let’s understand TreeSet with an example:
 
 ```java
 // Java program to demonstrate the 
@@ -595,7 +597,7 @@ public class HashMapDemo {
 
 #### Output
 
-```text
+```
 Value for 1 is Geeks
 1 Geeks
 2 For
@@ -608,7 +610,7 @@ So now you know that these interfaces exist! If you actually want to actually ge
 
 ## Further Reading
 
-This is copied and pasted from Geeks For Geeks, the same resource I used \(too much\) to put a couple of reminders in my notes.
+This is copied and pasted from Geeks For Geeks, the same resource I used (too much) to put a couple of reminders in my notes.
 
 
 
@@ -673,4 +675,3 @@ This is copied and pasted from Geeks For Geeks, the same resource I used \(too m
 All the content comes from here... well, with the exception of some stuff I wrote up. But 80% of it is from Geeks For Geeks authors:
 
 * [Geeks for Geeks: Java Collections](https://www.geeksforgeeks.org/collections-in-java-2/)
-

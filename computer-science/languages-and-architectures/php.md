@@ -6,17 +6,17 @@ Help me.
 
 ## Related Tools
 
-### Content Management Systems \(CMS\)
+### Content Management Systems (CMS)
 
-PHP remains one of the widest used server-side technologies on the internet. It provides the underlying code for many popular content management systems \(CMS\) including [WordPress](https://wordpress.com/), [Drupal](https://www.drupal.org/), and [Joomla](https://www.joomla.org/). A _CMS_ allows users to create and update their own websites without having to write a lot of complex code themselves.
+PHP remains one of the widest used server-side technologies on the internet. It provides the underlying code for many popular content management systems (CMS) including [WordPress](https://wordpress.com), [Drupal](https://www.drupal.org), and [Joomla](https://www.joomla.org). A _CMS_ allows users to create and update their own websites without having to write a lot of complex code themselves.
 
 ### E-Commerce Sites
 
-PHP also provides the underlying code for many e-commerce sites including [WooCommerce](https://woocommerce.com/) and [Magento](https://magento.com/). These e-commerce platforms offer a number of tools for selling products online. This way companies can focus on other aspects of their business without having to implement complex programming logic from scratch.
+PHP also provides the underlying code for many e-commerce sites including [WooCommerce](https://woocommerce.com) and [Magento](https://magento.com). These e-commerce platforms offer a number of tools for selling products online. This way companies can focus on other aspects of their business without having to implement complex programming logic from scratch.
 
 ### PHP Frameworks
 
-PHP contains built-in functionality for interacting with web data, _Vanilla PHP_, or PHP without any other tools, can be used on its own to create web application back-ends. But we don’t have to reinvent the wheel every time! Once we’re comfortable with the basics of the PHP language, we have our pick of powerful PHP frameworks to choose from! These frameworks provide scaffolding and solutions to common problems in back-end web development. Some popular PHP frameworks are [Laravel](https://laravel.com/), [CakePHP](https://cakephp.org/), and [Symfony](https://symfony.com/).
+PHP contains built-in functionality for interacting with web data, _Vanilla PHP_, or PHP without any other tools, can be used on its own to create web application back-ends. But we don’t have to reinvent the wheel every time! Once we’re comfortable with the basics of the PHP language, we have our pick of powerful PHP frameworks to choose from! These frameworks provide scaffolding and solutions to common problems in back-end web development. Some popular PHP frameworks are [Laravel](https://laravel.com), [CakePHP](https://cakephp.org), and [Symfony](https://symfony.com).
 
 ## Getting Started
 
@@ -41,19 +41,19 @@ When the code above is run, `"Hello, World!"` will be output to the terminal.
 
 Escape Sequences
 
-{% embed url="https://www.php.net/manual/en/language.types.string.php\#language.types.string.syntax.double" %}
+{% embed url="https://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.double" %}
 
 ### Concatenation
 
  Let’s see an example of string concatenation:
 
-```text
+```
 echo "one" . "two"; // Prints: onetwo
 ```
 
 We can also combine, or chain, our operations to get a final result:
 
-```text
+```
 echo "one" . " " . "two" . " " . "three"; // Prints: one two three
 ```
 
@@ -73,9 +73,9 @@ echo $full_name; // Prints: Aisle Nevertell
 
 
 
-One common convention when naming PHP variables is to use an underscore between words on variable names with more than one word in their name. This is known as ****_**snake case**_**:**
+One common convention when naming PHP variables is to use an underscore between words on variable names with more than one word in their name. This is known as** **_**snake case**_**:**
 
-![](../../.gitbook/assets/image%20%28446%29.png)
+![](<../../.gitbook/assets/image (446).png>)
 
 Call it with a dollar sign
 
@@ -99,7 +99,7 @@ echo "I have a ${color}ish dog named $dog_name and her favorite food is ${favori
 // Prints: I have a brownish dog named Tadpole and her favorite food is treats.
 ```
 
- PHP allows us to **specifically indicate the variable name by wrapping it in curly braces** to avoid any confusion. We’ll include the dollar sign followed by the variable name wrapped in curly braces:
+ PHP allows us to **specifically indicate the variable name by wrapping it in curly braces **to avoid any confusion. We’ll include the dollar sign followed by the variable name wrapped in curly braces:
 
 ```php
 $dog_name = "Tadpole";
@@ -116,7 +116,5 @@ echo "I have a ${color}ish dog named $dog_name and her favorite food is ${favori
 
 Escape Sequences:
 
-{% embed url="https://www.php.net/manual/en/language.types.string.php\#language.types.string.syntax.double" %}
-
-
+{% embed url="https://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.double" %}
 

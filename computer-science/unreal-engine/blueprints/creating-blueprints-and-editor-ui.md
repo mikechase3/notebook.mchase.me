@@ -8,20 +8,20 @@ description: >-
 
 ## Creating New Blueprint Classes
 
-* **Add:** In the content browser: `Add New` -&gt; `Blueprint Class`  -&gt; `Actor`
+* **Add: **In the content browser: `Add New` -> `Blueprint Class`  -> `Actor`
 * There are all types of classes to inherit from, but the generic `actor` class works most of the time.
 
 ## Blueprint Editor UI
 
 ### Components Panel
 
-![](../../../.gitbook/assets/image%20%28211%29.png)
+![](<../../../.gitbook/assets/image (211).png>)
 
 * Each of these components have some built-in functionality
 
 ### Toolbar
 
-![](../../../.gitbook/assets/image%20%28209%29.png)
+![](<../../../.gitbook/assets/image (209).png>)
 
 * Compile your blueprints before testing them
 * Save them.
@@ -33,7 +33,7 @@ description: >-
 
 ### Details
 
-![](../../../.gitbook/assets/image%20%28206%29.png)
+![](<../../../.gitbook/assets/image (206).png>)
 
 * Controls all the _properties_ for each component you add.
 
@@ -43,7 +43,7 @@ description: >-
 
 ## Construction Strip
 
-![](../../../.gitbook/assets/image%20%28210%29.png)
+![](<../../../.gitbook/assets/image (210).png>)
 
 * Allows you to setup customized parameters for your blueprints
   * Called _**pre-faps**_
@@ -54,14 +54,14 @@ description: >-
 
 ## Event Graph
 
-![](../../../.gitbook/assets/image%20%28213%29.png)
+![](<../../../.gitbook/assets/image (213).png>)
 
 * Used for updating blueprints at run time.
 * Most of your scripting is done here.
 
 ## My Blueprint Panel
 
-![](../../../.gitbook/assets/image%20%28212%29.png)
+![](<../../../.gitbook/assets/image (212).png>)
 
 * Graphs
 * Functions
@@ -77,13 +77,13 @@ description: >-
 
 ## Advanced Assets
 
-![](../../../.gitbook/assets/image%20%28207%29.png)
+![](<../../../.gitbook/assets/image (207).png>)
 
 * Under the create assets menu, you can create more things.
 * **Blueprint Function Library:** a collection of functions you can access from other blueprints
 * **Blueprints Interface**: communicating between different blueprints
 * **Blueprints Macro Library**: A collection of macros to use in other blueprints.
-* **Enumeration:** Lets you have different states. A list of states.
+* **Enumeration: **Lets you have different states. A list of states.
   * For example: state of character like `alive` or `dead` or `hurt`.
   * Used within blueprints.
 * **Structure**: A collection of different variable types.
@@ -94,11 +94,9 @@ description: >-
 
 If you're working in the editor, you can group a bunch of components together and make them in a blueprint. It gives you a different approach if you want to build everything in the level first. 
 
-![](../../../.gitbook/assets/image%20%28208%29.png)
+![](<../../../.gitbook/assets/image (208).png>)
 
 * You can create several components in the level.
 * Use `CTRL` to select a group of objects.
 * Go to `Blueprints` in the toolbar and select `Convert Selected Components to Blueprint Class`.
-
-
 

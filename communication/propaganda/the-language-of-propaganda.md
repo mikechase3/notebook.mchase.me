@@ -2,7 +2,7 @@
 
 ## Readings
 
-* [We Become Propagandists Thomas Sorenson](https://isidore.udayton.edu/access/content/group/5dd671b3-7334-4d36-b659-edc7c01d020d/Lessons/Week%2008%20--%20_10_12-10_18_/We%20Become%20Propagadists%20_Sorenson_.pdf)
+* [We Become Propagandists Thomas Sorenson](https://isidore.udayton.edu/access/content/group/5dd671b3-7334-4d36-b659-edc7c01d020d/Lessons/Week%2008%20--%20\_10\_12-10\_18\_/We%20Become%20Propagadists%20\_Sorenson\_.pdf)
 
 
 
@@ -15,7 +15,7 @@
 
 ## Equivocation & Amphibology
 
-* **Equivocation:** The same word can mean different things.
+* **Equivocation: **The same word can mean different things.
 * Many words are **polysemous**, meaning they have many possible meanings.
 * **Amphibology**: using ambiguity for benefit
   * Make predictions that cannot be wrong
@@ -29,9 +29,9 @@
 
 1. Defining a problem
 2. Code grooming
-3. Euphemisms \(weasel words\)
-4. God/Devil terms \(name-calling\)
-5. Amphibology \(glittering generalities\)
+3. Euphemisms (weasel words)
+4. God/Devil terms (name-calling)
+5. Amphibology (glittering generalities)
 
 ### Glittering Generalities
 
@@ -60,15 +60,15 @@
 
 * Labeling the opponent in impossible-to-agree-with terms
 * The boston **massacre**
-* **War** on **Terror**
-* Pro-choice & Pro-Life: _nobody is going to have an anti-choice shirt._ 
+* **War **on **Terror**
+* Pro-choice & Pro-Life: _nobody is going to have an anti-choice shirt. _
 * We need to **reduce violence** on television.
 
 We're silenced in criticism when we use the word "terror." 
 
 ### Defining Problems by Naming Them
 
-![Halitosis: bad breath.](../../.gitbook/assets/image%20%28410%29.png)
+![Halitosis: bad breath.](<../../.gitbook/assets/image (410).png>)
 
 #### Ad Over Time
 
@@ -103,11 +103,11 @@ These words are almost too
 
 #### Strategic Withdrawal
 
-_Replaces Retreat \(ours\)_
+_Replaces Retreat (ours)_
 
 #### Tactical Redeployment
 
-_Retreat \(enemy's\)_
+_Retreat (enemy's)_
 
 #### Terminate
 
@@ -119,7 +119,7 @@ Unrequested fission surplus
 
 ### Weasel Words
 
-Statements appear to be clear and concrete, but select words \(often propositions\) add nuance. It helps you maintain credibility while letting you infer the meaning.
+Statements appear to be clear and concrete, but select words (often propositions) add nuance. It helps you maintain credibility while letting you infer the meaning.
 
 * You _could have_ won $1,000,000!
 
@@ -144,7 +144,7 @@ Statements appear to be clear and concrete, but select words \(often proposition
 
 ## JUUL: Early Advertising
 
-![](../../.gitbook/assets/image%20%28409%29.png)
+![](<../../.gitbook/assets/image (409).png>)
 
 * The word JUUL doesn't imply this is invented to help people quit cigarettes.
 * Shows _super happy fun-time_
@@ -174,7 +174,5 @@ Statements appear to be clear and concrete, but select words \(often proposition
 
 
 
-## 
-
-
+##
 

@@ -9,7 +9,7 @@ description: >-
 
 ## Goals
 
-1. Analyze the maximum-subarray problem _\(the stock market\)_
+1. Analyze the maximum-subarray problem _(the stock market)_
 2. Find the general formula for computing running times of divide & conquer using the **Master Theorem**.
 
 ## Maximum Contiguous Subarray Problem
@@ -20,7 +20,7 @@ We'll use the idea of a stock market where we try to figure out when we buy and 
 
 1. _The Problem:_ In a stock market, when should you have bought or sold the stock?
 2. **Contiguous** means there's not a break. In a stock market, they must be consecutive days.
-3. A **subarray** is a subset of the original array that is contiguous and maintains the sequence of all elements from the original array. _\(Definition Source: Back to Back SWE\)_
+3. A **subarray** is a subset of the original array that is contiguous and maintains the sequence of all elements from the original array. _(Definition Source: Back to Back SWE)_
 4. We are trying to find the largest sum.
 5. Try to find all the sub arrays I can find the sums to find the one with the maximum sum?
 
@@ -29,9 +29,9 @@ We'll use the idea of a stock market where we try to figure out when we buy and 
 How Many Subarrays?
 
 1. The number of subarrays with one single element has _n_ subarrays.
-2. The number of elements with 2 consecutive elements has _n-1_ subarrays.
-3. The number of elements with 3 consecutive elements has _n-2_ subarrays.
-4. The number of elements with 4 consecutive elements has _n-3_ subarrays.
+2. The number of elements with 2 consecutive elements has _n-1 _subarrays.
+3. The number of elements with 3 consecutive elements has _n-2 _subarrays.
+4. The number of elements with 4 consecutive elements has _n-3 _subarrays.
 
 The number of subarrays with _n_ elements is
 
@@ -39,16 +39,16 @@ $$
 1 + 2 + ... + (n-2) + (n-1) + n ⇒ n(n+1)/2
 $$
 
-\[Words for later\]
+\[Words for later]
 {% endtab %}
 
 {% tab title="4 Elements" %}
 Let's say we have an original array with the elements `[3, -2, 5, -1]`. We can count the number of subarrays because there are 4 elements.
 
 1. The number of subarrays with one single element has _4_ subarrays.
-2. The number of elements with 2 consecutive elements has _3_ subarrays.
-3. The number of elements with 3 consecutive elements has _2_ subarrays.
-4. The number of elements with 4 consecutive elements has _1_ subarrays.
+2. The number of elements with 2 consecutive elements has _3 _subarrays.
+3. The number of elements with 3 consecutive elements has _2 _subarrays.
+4. The number of elements with 4 consecutive elements has _1 _subarrays.
 
 
 
@@ -133,7 +133,7 @@ class Solution {
 ```
 {% endtab %}
 
-{% tab title="Linear-Ish Time \(Divide & Conquer\)" %}
+{% tab title="Linear-Ish Time (Divide & Conquer)" %}
 #### Divide into Two Halves
 
 Given the subarray: `[3, -2, 5, -1]`, we can split it up into the left half and the right half:
@@ -148,10 +148,10 @@ There are three cases we must consider:
 * Across the middle portion
 
 {% hint style="danger" %}
-I do not understand how to cross between the middle point _\(Video: 17:30: We need to compare the three sum, if we go from A\[0\]_ ⇒_A\[2\]_, we find the sum is 6._\)_
+I do not understand how to cross between the middle point _(Video: 17:30: We need to compare the three sum, if we go from A\[0] _⇒_A\[2]_, we find the sum is 6._)_
 {% endhint %}
 
-\_\_
+__
 
 #### Pseudocode
 
@@ -159,11 +159,11 @@ I do not understand how to cross between the middle point _\(Video: 17:30: We ne
 2. **Conquer** by two recursive calls:
    1. Find the maximum subarray of `A[low...mid]` 
    2. Find the maximum subarray of  `A[mid+1...high]`
-3. **Combine**  by calling the _Find-max-crossing subarray_ that crosses the midpoint, and then determining which of the three results gives the maximum sum _\(Source: Yao\)_.
+3. **Combine**  by calling the _Find-max-crossing subarray_ that crosses the midpoint, and then determining which of the three results gives the maximum sum _(Source: Yao)_.
 4. Solve the **base case**, where the array only has one element _by returning just that element._
 
 {% hint style="danger" %}
-I don't understand step 3. _\(Video, 21:00\)_
+I don't understand step 3. _(Video, 21:00)_
 {% endhint %}
 
 ```java
@@ -264,10 +264,10 @@ class Solution {
 
 Roughly, this means:
 
-![Source: Dr. Yao&apos;s Slides](../../../.gitbook/assets/image%20%283%29%20%281%29.png)
+![Source: Dr. Yao's Slides](<../../../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
-T\(n\) is the worst case running time on the problem. **n** is the problem size. **a** is the number of sub problems. **n/b** is the size of each subproblem. **f\(n\)** is the worst-case running time for the divide & combination step.
+T(n) is the worst case running time on the problem. **n** is the problem size. **a** is the number of sub problems. **n/b** is the size of each subproblem. **f(n)** is the worst-case running time for the divide & combination step.
 {% endhint %}
 
 ### Steps
@@ -276,8 +276,8 @@ T\(n\) is the worst case running time on the problem. **n** is the problem size.
 What are the steps for solving ad divide/conquer running time?
 {% endhint %}
 
-* [ ] Look at each sub-problem and find the running time _\(see merge-sort and quick-sort examples above\)._
-* [ ] **Add** each sub-problem together and set them equal to **T\(n\)**
+* [ ] Look at each sub-problem and find the running time _(see merge-sort and quick-sort examples above)._
+* [ ] **Add** each sub-problem together and set them equal to **T(n)**
 * [ ] **Solve** for a, b, and n in the master theorem. 
 * [ ] **Substitute** variables to solve:
 
@@ -285,7 +285,7 @@ $$
 \log_{b}(n) = Z
 $$
 
-* [ ] **Compare** f\(n\) to n^Z to figure out which of the three rules you're going to use.
+* [ ] **Compare** f(n) to n^Z to figure out which of the three rules you're going to use.
 
 $$
 [f(n)] \approx ? [\log_{b}(n)]
@@ -308,14 +308,12 @@ $$
 ## Works Cited
 
 1. [Back to Back SWE: Max Contiguous Subarray Sum Solutions](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions)
-2. Dr. Yao's classroom lecture \(problems & formatting mostly\).
-3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4**_\)
+2. Dr. Yao's classroom lecture (problems & formatting mostly).
+3. _**Textbook: **_Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_)
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
+| Title         | Content Used                   | Author           |
+| ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-
-
 

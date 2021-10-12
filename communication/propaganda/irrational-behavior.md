@@ -12,7 +12,7 @@ description: And How to Manipulate People When Barhopping
 2. When he points to the lines, they're identical.
 3. When he takes them away, he forgets them.
 
-_Response: this feels like me. I only remember the conclusions, not the premises._ 
+_Response: this feels like me. I only remember the conclusions, not the premises. _
 
 * He does this with a rubrics cube too. 
 
@@ -30,7 +30,7 @@ _Conclusion: Rome with coffee looks more favorable simply because one looks like
 * When there was an ugly Jerry, people dated not-ugly Jerry.
 * When there was an ugly Tom, people dated not-ugly Tom.
 
-![](../../.gitbook/assets/image%20%28362%29.png)
+![](<../../.gitbook/assets/image (362).png>)
 
 ## Coffee
 
@@ -41,11 +41,9 @@ _Conclusion: Rome with coffee looks more favorable simply because one looks like
   * _Look at how much I saved. I got so much more coffee for so much less._
   * Even though you made a quick reaction, you feel like you've made the right choice.
 
-_**Conclusion: Give your audience a good reason to make themselves feel better.**_ 
+_**Conclusion: Give your audience a good reason to make themselves feel better. **_
 
-![](../../.gitbook/assets/image%20%28389%29.png)
-
-
+![](<../../.gitbook/assets/image (389).png>)
 
 
 

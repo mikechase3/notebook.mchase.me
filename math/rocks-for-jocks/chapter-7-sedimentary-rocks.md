@@ -39,29 +39,29 @@ See page 212.
 * Sedimentary maturity
 * Character of cement
 
-![](../../.gitbook/assets/image%20%28634%29.png)
+![](<../../.gitbook/assets/image (634).png>)
 
 ### Chemical Sedimentary Rocks
 
 * **Limestone**: CaCo3. Composed of mineral calcite. There are several different varieties.
-* **Dolostone:** composed of the mineral dolomite.
+* **Dolostone: **composed of the mineral dolomite.
 * **Chert**: microcrystalline quartz.
-* **Evaporites:** halite, gypsum, annhydrite.
+* **Evaporites: **halite, gypsum, annhydrite.
 
-![](../../.gitbook/assets/image%20%28636%29.png)
+![](<../../.gitbook/assets/image (636).png>)
 
 ### Interpreting Sedimentary Rocks
 
 * **Transport History**: 
 * **Sedimentary Structures**: 
-* **Ripple Marks:** \(see below\)
+* **Ripple Marks:** (see below)
 
-![Transport History](../../.gitbook/assets/image%20%28635%29.png)
+![Transport History](<../../.gitbook/assets/image (635).png>)
 
 ### Defining Sedimentary Rocks
 
 1. Size
-2. Size distribution \(sorting\)
+2. Size distribution (sorting)
 3. Shape
 4. Mineralogy
 5. White rock structures
@@ -70,7 +70,7 @@ See page 212.
 
 ### Ripples
 
-![](../../.gitbook/assets/image%20%28637%29.png)
+![](<../../.gitbook/assets/image (637).png>)
 
 ### Crossbeds
 
@@ -80,11 +80,11 @@ See page 212.
 
 ## Summary Uniformitarianism
 
-* Color: Reds: _oxidized iron, red beds;_ Black: _unoxidized organics, swamp, deep marine_.
+* Color: Reds: _oxidized iron, red beds; _Black: _unoxidized organics, swamp, deep marine_.
 * Mineralogy
 * Grain size
-* Sorting \(size distribution\)
-* Grain shape \(roundness\)
+* Sorting (size distribution)
+* Grain shape (roundness)
 * Fossils
 * Sedimentary structures: ripples, cross bedding, mud cracks.
 
@@ -95,6 +95,4 @@ You cannot observe all these characteristics in every rock.
 1. There were mountains called the **ancestral rockies**
 2. A red magma body came up 60 million years ago. Magma pushed up through these sediments.
 3. In he modern-day rockies, the red pieces of sandstone are the remnants of ancestral rockies that weathered down and disappeared.
-
-
 

@@ -1,14 +1,14 @@
-# Linear Programming \(L20\)
+# Linear Programming (L20)
 
 ## What is Linear Programming?
 
-> Linear programming \(LP\) is a method to achieve the optimum outcome under some requirements represented by linear relationships. More precisely, LP can solve the problem of maximizing or minimizing a linear objective function subject to some linear constraints. 
+> Linear programming (LP) is a method to achieve the optimum outcome under some requirements represented by linear relationships. More precisely, LP can solve the problem of maximizing or minimizing a linear objective function subject to some linear constraints. 
 >
 > In general, the standard form of LP consists of 
 >
-> 1. Variables: x = \(x1, x2,...,xd\)
+> 1. Variables: x = (x1, x2,...,xd)
 > 2. Objective function: c · x 
-> 3. Inequalities \(constraints\): Ax ≤ b, where A is a n × d matirix.
+> 3. Inequalities (constraints): Ax ≤ b, where A is a n × d matirix.
 >
 > and we maximize the objective function subject to the constraints and x ≥ 0. 
 >
@@ -59,10 +59,10 @@ We can define these constraints using functions. We can model this problem like 
 * Suppose a thief is stealing stuff.
 * You want to optimize the total value.
 
-| Symbol | Meaning |
-| :--- | :--- |
-| $$v_j$$  | The value of the \(entire\) item j. |
-| $$w_j$$  | The weight of the \(entire\) item j. |
+| Symbol   | Meaning                               |
+| -------- | ------------------------------------- |
+| $$v_j$$  | The value of the (entire) item j.     |
+| $$w_j$$  | The weight of the (entire) item j.    |
 | $$x_j$$  | The fraction of item j that is taken. |
 
 #### Maximizing Value
@@ -70,6 +70,8 @@ We can define these constraints using functions. We can model this problem like 
 * You want to maximize the value of all the items you choose.: $$v_1x_1 + ... + v_nx_n$$ .
 * We are subjected to the weight limit: $$w_1x_1 + ... + w_nx_n \leq W$$ 
 * The fractional of each item must be between: $$0 \leq x_j \leq 1, \text{for } j = 1, ..., n$$ .
+
+
 {% endtab %}
 
 {% tab title="LP Maxflow" %}
@@ -83,7 +85,7 @@ Our goal is to solve this maximum flow problem
 
 #### Constraints
 
-![Graphical Depiction of Constraints](../../.gitbook/assets/image%20%2899%29.png)
+![Graphical Depiction of Constraints](<../../.gitbook/assets/image (99).png>)
 
 * There is an inequality constraint for every edge.
 * There is an equality constraint for every vertex.
@@ -94,11 +96,11 @@ Notation: $$x_{ij} \implies \text{flow in edge } i \rightarrow j$$
 
 
 
-| Edge Capacity Constraints | Equilibrium Constraints |
-| :--- | :--- |
-| $$x_{s1} ≤ 2$$  | $$x_{ts} = x_{s1} + x_{s2}$$ \(node s to 1\) |
-| $$x_{4t} ≤ 3$$  | $$x_{s1} = x_{13} + x_{14}$$ \(node 1 to 3\) + \(node 1 to 4\) |
-| $$\begin{pmatrix}. \\ . \\ .  \end{pmatrix}$$  | $$\begin{pmatrix}. \\ . \\ .  \end{pmatrix}$$  |
+| Edge Capacity Constraints                      | Equilibrium Constraints                                    |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| $$x_{s1} ≤ 2$$                                 | $$x_{ts} = x_{s1} + x_{s2}$$ (node s to 1)                 |
+| $$x_{4t} ≤ 3$$                                 | $$x_{s1} = x_{13} + x_{14}$$ (node 1 to 3) + (node 1 to 4) |
+| $$\begin{pmatrix}. \\ . \\ .  \end{pmatrix}$$  | $$\begin{pmatrix}. \\ . \\ .  \end{pmatrix}$$              |
 
 More words here.
 {% endtab %}
@@ -116,39 +118,41 @@ The simplex method says: travel along the corner points until you reach a local 
 
 > The _**simplex algorithm**_ takes as input a linear program and returns an optimal solution. It starts at some vertex of the simplex and performs a sequence of iterations. In each iteration, it moves along an edge of the simplex from a current for tax to a neighboring vertex whose objective value is no smaller than that of current vertex. The simplex algorithm terminates when it reaches a local maximum, which is a vertex from which all neighboring vertices have a smaller objective value.
 
-### Steps \(MIT\)
+### Steps (MIT)
 
 1. Represent LP in "slack" form
 2. Convert one slack form into an equivalent slack form, while likely increasing the value of the objective function, and ensuring that the value does not decrease.
 3. Repeat until the optimal solution becomes apparent.
 
-### Steps \(Yao\)
+### Steps (Yao)
 
-Phase 1 \(start-up\): Find any corner point feasible solution. In many standard LPs the origin can serve as the start-up comer point
+Phase 1 (start-up): Find any corner point feasible solution. In many standard LPs the origin can serve as the start-up comer point
 
-Phase 2 \(iterate\): Repeatedly move to a better adjacent corner point feasible solution until no further better adjacent comer point feasible solution can be found. The final corner point defines the optimum point
+Phase 2 (iterate): Repeatedly move to a better adjacent corner point feasible solution until no further better adjacent comer point feasible solution can be found. The final corner point defines the optimum point
 
 ### Formal Proof
 
 {% hint style="info" %}
 See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true).
 {% endhint %}
+
+
 {% endtab %}
 
 {% tab title="Maximization" %}
 ## Maximization
 
-![Dr. Yao&apos;s slide summarizing slack form.](../../.gitbook/assets/image%20%28117%29.png)
+![Dr. Yao's slide summarizing slack form.](<../../.gitbook/assets/image (117).png>)
 
 ### Givens
 
 We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](<../../.gitbook/assets/image (116).png>)
 
 ### Convert to Slack Form
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](<../../.gitbook/assets/image (111).png>)
 
 * Now we have three more variables. All of them are subject to being greater than 0.
 * $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$ 
@@ -161,7 +165,7 @@ We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 Where did x' come from? What does it mean?
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](<../../.gitbook/assets/image (112).png>)
 
 #### Unknown Step
 
@@ -169,11 +173,11 @@ Where did x' come from? What does it mean?
 How did we get here?
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](<../../.gitbook/assets/image (108).png>)
 
 ### Summary
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](<../../.gitbook/assets/image (114).png>)
 {% endtab %}
 
 {% tab title="Minimization" %}
@@ -190,7 +194,7 @@ _Minimize_ $$3x_{1} + x_2 + x_3$$ subject to:
 3. $$4x_1 + x_2 + 2x_3 ≤ 36$$ 
 4. $$x_1 + x_2 + x_3 ≥ 0$$ 
 
-Change the given LP problem to slack form, consisting of the **original** variables **called** _**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities** by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
+Change the given LP problem to slack form, consisting of the **original** variables **called **_**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities **by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
 
 $$
 a+b+c+d ≥ 30 \implies x_n=(a+b+c+d)-30, x_n≥0
@@ -204,6 +208,8 @@ Applying it to the example, we
 4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$ 
 
 If we're asked to convert minimums to maximums, multiply all terms by -1.
+
+
 {% endtab %}
 
 {% tab title="Solving" %}
@@ -248,15 +254,15 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 * Let $$x_1 \text{ and } x_2$$ denote the number of cars and dolls produced by Danny.
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](<../../.gitbook/assets/image (95).png>)
 
-| Constraint | Caption |
-| :--- | :--- |
+| Constraint            | Caption                                                |
+| --------------------- | ------------------------------------------------------ |
 | $$z = 15x_1 + 10x_2$$ | Formula describing z money for production of products. |
-| $$x_1 ≤ 2$$  | Danny can produce 2 cars/day. |
-| $$x_2 ≤ 3$$  | Danny can produce 3 dolls/day. |
-| $$x_1 + x_2 ≤ 4$$  | The packaging machine can only pack 4 items. |
-| $$x_2 \lor x_1 ≥ 0$$  | He can't produce negative items. |
+| $$x_1 ≤ 2$$           | Danny can produce 2 cars/day.                          |
+| $$x_2 ≤ 3$$           | Danny can produce 3 dolls/day.                         |
+| $$x_1 + x_2 ≤ 4$$     | The packaging machine can only pack 4 items.           |
+| $$x_2 \lor x_1 ≥ 0$$  | He can't produce negative items.                       |
 
 #### Step 3: Make Objective Lines
 
@@ -264,7 +270,7 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 
 
 
-![](../../.gitbook/assets/image%20%28100%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](<../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1).png>)
 
 
 
@@ -273,25 +279,27 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 1. An optimum solution is always at a corner point. 
    1. It might be that the constant line is parallel to a constraint line, in which case, there are many optimum points.
 2. There is a finite number of **corner points** or feasible solutions.
-3. If a corner point feasible solution has an objective function value that is better than or equal to **all**  its **adjacent corner point** feasible solutions, then **it is optimal.**
+3. If a corner point feasible solution has an objective function value that is better than or equal to **all ** its **adjacent corner point** feasible solutions, then **it is optimal.**
 
 Summary: The simplex method says: travel along the corner points until you reach a local maximum.
 
 #### Phase Steps
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](<../../.gitbook/assets/image (102).png>)
 
 Here, we'll iterate through all the points where there is an intersection between the feasible region and examine what `z` is at each point.
 
-> Phase 1: start at \(0, 0\) ~ Objective value = Z\(0, 0\)=0 
+> Phase 1: start at (0, 0) \~ Objective value = Z(0, 0)=0 
 >
-> Iteration 1: Move to \(2, 0\) ~ Z\(2, 0\)=30. An Improvement 
+> Iteration 1: Move to (2, 0) \~ Z(2, 0)=30. An Improvement 
 >
-> Iteration 2: Move to \(2, 2\) ~ Z\(2, 2\)=50. An Improvement 
+> Iteration 2: Move to (2, 2) \~ Z(2, 2)=50. An Improvement 
 >
-> Iteration 3: Consider moving to \(1, 3\) ~ Z\(1, 3\) = 45 &lt; 50
+> Iteration 3: Consider moving to (1, 3) \~ Z(1, 3) = 45 < 50
 >
-> Conclude that \(2, 2\) 1s optimum corner!
+> Conclude that (2, 2) 1s optimum corner!
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -323,8 +331,7 @@ Here, we'll iterate through all the points where there is an intersection betwee
 
 ## Works Cited
 
-| Resource | Author |
-| :--- | :--- |
-| [Chapter 29 Linear Programming](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true) | Dr. Zhongmei Yao |
-| [Linear Programming: LP, Reductions, Simplex](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_lec15.pdf) | Prof. Srini Devadas |
-
+| Resource                                                                                                                                                                                                           | Author              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| [Chapter 29 Linear Programming](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true)                                               | Dr. Zhongmei Yao    |
+| [Linear Programming: LP, Reductions, Simplex](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec15.pdf) | Prof. Srini Devadas |

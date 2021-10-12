@@ -1,5 +1,5 @@
 ---
-description: 'Finished for the day at 17:00'
+description: Finished for the day at 17:00
 ---
 
 # Lecture 06: Matrix Multiplication & Fibonacci
@@ -49,7 +49,7 @@ If you're completely new to this like I was, this [video](https://www.youtube.co
 * [ ] Multiply the first row by the first column. Place the value in the _1st row, 1st column_ of the new matrix.
   * [ ] 3x3 = 9
   * [ ] 4x6 = 24
-  * [ ] 24+9=**33** _\(add them\)_
+  * [ ] 24+9=**33** _(add them)_
 * [ ] Now, mulitply _1st row \* 2nd column._ Place that value in the _1st row, 2nd column_ of the matrix.
   * [ ] 3x1 = 3
   * [ ] 4x9 = 36
@@ -83,7 +83,7 @@ Assume we're using a 4x4 matrix. _See her video at 4:40_
 * We'll have 8 smaller matrix multiplications and 4 additions.
   * Dividing takes `Θ(1)` time, using index calculations.
   * Conquering makes 8 recursive calls ⇒`8T(n/2)`
-  * Combining takes time to add `n/2` x `n/2` matrices four times ⇒ Θ\(n^2\) time.
+  * Combining takes time to add `n/2` x `n/2` matrices four times ⇒ Θ(n^2) time.
 
 When this is all set and done, we find that the run time is:
 
@@ -97,7 +97,7 @@ $$
 
 Roughly, this theorem says:
 
-![Source: Dr. Zhongmei Yao&apos;s Slides](../../../.gitbook/assets/image%20%283%29.png)
+![Source: Dr. Zhongmei Yao's Slides](<../../../.gitbook/assets/image (3).png>)
 
 Here, `a=8`, `b=2`, and `f(n) = n^2`. We'll compare `f(n) = n^2` `to n^{\log_{b}a}`. Let's solve for that now:
 
@@ -122,7 +122,7 @@ $$
 Which, unfortunately, is the same running time as our brute force method.
 {% endtab %}
 
-{% tab title="Strassen\'s Method" %}
+{% tab title="Strassen's Method" %}
 #### The Main Idea
 
 Recall from earlier, the running time of the divide & conquer approach:
@@ -150,14 +150,14 @@ $$
 
 We'll use the master theorem again to compare `f(n) = Θ(n^2)` to `n^{log_b(a)} = 2.81` and we'll clearly be using case a.
 
-![Source: Dr. Yao&apos;s Notes](../../../.gitbook/assets/image%20%283%29%20%281%29.png)
+![Source: Dr. Yao's Notes](<../../../.gitbook/assets/image (3) (1).png>)
 
 Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better.
 
 #### Optional Further Reading
 
 * The best case by this method runs in `Θ(n^(2.376)` time.
-* _Textbook:_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _\(Chapter 15_\).
+* _Textbook: _Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _(Chapter 15_).
 {% endtab %}
 {% endtabs %}
 
@@ -165,16 +165,16 @@ Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better
 
 ### Four Step Method
 
-> 1. **Characterize the structure of an optimal solution**. _\(What are the sub-problems?\)_
-> 2. **Recursively define the value of an optimal solution.** _\(i.e. recurrence for Fibonacci\(n\): Fib\(n\) = Fib\(n-1\)+\(n-2\), which is a formula involving only smaller sub-problems._
-> 3. **Compute the value of an optimal solution in a** _**bottom-up**_ **fashion**. Store \(memorize\) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
+> 1. **Characterize the structure of an optimal solution**. _(What are the sub-problems?)_
+> 2. **Recursively define the value of an optimal solution.** _(i.e. recurrence for Fibonacci(n): Fib(n) = Fib(n-1)+(n-2), which is a formula involving only smaller sub-problems._
+> 3. **Compute the value of an optimal solution in a **_**bottom-up**_** fashion**. Store (memorize) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
 > 4. **Construct an optimal solution from computed information.**
 >
-> _Source: Dr. Yao's Slides, Dynamic Programming Part 1. \(Paraphrased\)_
+> _Source: Dr. Yao's Slides, Dynamic Programming Part 1. (Paraphrased)_
 
-_\*\*\*\*_
+_****_
 
-\*\*\*\*
+****
 
 ### Example: Fibonacci Numbers
 
@@ -221,17 +221,16 @@ class fibonacci
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Four-step method\)._
-2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Quick sort video\)_
-3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4, 15**_\).
-4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms&chapter=complexity-runtime-analysis)
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Four-step method)._
+2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _(Quick sort video)_
+3. _**Textbook: **_Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4, 15**_).
+4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms\&chapter=complexity-runtime-analysis)
 5. Geeks for Geeks: Fibonacci Sequence
 
 
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
+| Title         | Content Used                   | Author           |
+| ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-

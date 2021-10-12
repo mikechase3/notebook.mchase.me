@@ -6,7 +6,7 @@ description: CPS 352 Equivalent.
 
 ## Resources
 
-{% embed url="https://en.wikipedia.org/wiki/Compilers:\_Principles,\_Techniques,\_and\_Tools" %}
+{% embed url="https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools" %}
 
 Dr. Chen's Slides:
 
@@ -26,7 +26,7 @@ Dr. Chen's Slides:
 {% tab title="Schedule" %}
 
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](<../../.gitbook/assets/image (81).png>)
 {% endtab %}
 
 {% tab title="Topics" %}
@@ -37,7 +37,7 @@ Dr. Chen's Slides:
 * Formal languages & grammar
   * How to define syntax.
   * What is the right way to write a statement?
-* Scanning and Parsing \(Semantics\)
+* Scanning and Parsing (Semantics)
   * How to recognize some statements
   * How do you integrate statements?
   * How can we execute a statement?
@@ -49,10 +49,10 @@ Dr. Chen's Slides:
   * How can we evaluate expressions?
 * Functions and closures
   * How can we explain and integrate sub-procedures?
-* Functional Programming \(Scheme\)
+* Functional Programming (Scheme)
 {% endtab %}
 
-{% tab title="Languages We\'ll Learn" %}
+{% tab title="Languages We'll Learn" %}
 ### Languages We'll Learn
 
 1. Fortran 77
@@ -91,7 +91,7 @@ Dr. Chen's Slides:
 * Python
 * Matlab
 
-![](../../.gitbook/assets/image%20%28195%29%20%281%29.png)
+![](<../../.gitbook/assets/image (195) (1).png>)
 {% endtab %}
 
 {% tab title="Hybrid" %}
@@ -116,7 +116,7 @@ Dr. Chen's Slides:
 * Java
 * .NET languages
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](<../../.gitbook/assets/image (70).png>)
 {% endtab %}
 
 {% tab title="Compiled" %}
@@ -158,17 +158,17 @@ Dr. Chen's Slides:
 
 #### Examples
 
-* Smalltalk \(Academia\)
+* Smalltalk (Academia)
 * C++ / Java
 {% endtab %}
 
 {% tab title="Functional" %}
 #### Characteristics
 
-* **Languages**: LISP, Scheme, Haskell, Racket \(dialect of Scheme\).
+* **Languages**: LISP, Scheme, Haskell, Racket (dialect of Scheme).
 * The design tries to minimize the syntax content _e.g. no main method, class keyword, virtual, static to make your program very simple and concise._
 * When you remove these, it makes your program harder to read.
-* Most of these programs look like math formulas but their definitions are \(too\) simple and concise. 
+* Most of these programs look like math formulas but their definitions are (too) simple and concise. 
 
 #### Advantages
 
@@ -184,10 +184,10 @@ Dr. Chen's Slides:
 
 #### Examples
 
-![Recursively computing a factorial in Scheme](../../.gitbook/assets/image%20%28217%29%20%281%29%20%281%29%20%281%29%20%282%29.png)
+![Recursively computing a factorial in Scheme](<../../.gitbook/assets/image (217) (1) (1) (1) (2).png>)
 
 * All expressions using scheme use prefix notation: `if( (= n 0)`  checks whether n is equal to zero or not.
-  * If it's true, return 1. _We see it's really simple. It's just_  `1` _which eliminates so much syntax._
+  * If it's true, return 1. _We see it's really simple. It's just _ `1` _which eliminates so much syntax._
   * The second line is the 'else' condition. 
 * In scheme, the nested structures use parenthesis. 
 {% endtab %}
@@ -210,7 +210,7 @@ Dr. Chen's Slides:
 
 #### Examples
 
-![](../../.gitbook/assets/image%20%28215%29.png)
+![](<../../.gitbook/assets/image (215).png>)
 
 * The first line is the base case.
 * The second line and indented lines describe the recursive call.
@@ -241,28 +241,28 @@ Dr. Chen's Slides:
 
 ## Syntax and Semantics
 
-![Chomsky Hierarchy](../../.gitbook/assets/image%20%28379%29.png)
+![Chomsky Hierarchy](<../../.gitbook/assets/image (379).png>)
 
 ### Applications of Regular Languages
 
 * **Identifiers:** are naming rules for variables, functions, and classes.
   * Two identifiers can have the same name if they are both out of scope.
   * Variables must start with a letter and must only contain numbers/underscores.
-* **Formats of constants:** integers, floating-point numbers, characters, strings
+* **Formats of constants: **integers, floating-point numbers, characters, strings
   * We can put a `+/-` in front of an integer.
   * You can also use scientific notation in many languages.
   * The finite automata used to read these formats is included within the language.
-* **Keywords:** 
+* **Keywords: **
   * Easiest because there's not transitive/kleans closure.
   * There is only one word that you can define in a regular language.
 
 ### Translating a Finite Automaton to an Algorithm
 
-![](../../.gitbook/assets/image%20%28383%29.png)
+![](<../../.gitbook/assets/image (383).png>)
 
 * Input: a word or string of characters.
 * Output: true if the word belongs ot the regular language described by the automation, otherwise false.
-* Simulating the FA \(finite automata\) according to the given word. If the run terminates in a final state, then returning ttrue. Otherwise return false.
+* Simulating the FA (finite automata) according to the given word. If the run terminates in a final state, then returning ttrue. Otherwise return false.
 * We assume that the FA is deterministic since an NFA can always be equivalently translated to a DFA.
 
 ### Lexical Analyzer using a Type-3 Grammar
@@ -272,28 +272,26 @@ Dr. Chen's Slides:
 3. Translating the finite automaton to an algorithm
 4. Implementing the algorithm
 
-![](../../.gitbook/assets/image%20%28380%29.png)
+![](<../../.gitbook/assets/image (380).png>)
 
 ### What is Grammar?
 
 * Grammar is used to formally define a syntactic structure, or a language
-* Grammar has a finite set of rewrite rules defined in the form A-&gt;B. For any rule A-&gt;B, we say that B is derived from A.
-* A, B are sequences of pre-defined symbols which are called terminals \(an alphabet\) and nonterminals \(variables\).
+* Grammar has a finite set of rewrite rules defined in the form A->B. For any rule A->B, we say that B is derived from A.
+* A, B are sequences of pre-defined symbols which are called terminals (an alphabet) and nonterminals (variables).
 * Has a start symbol which can be a terminal or nonterminal.
 * A word `w` is generated by a grammar. If there is a finite step derivation $$S \implies E_1 \implies E_2 \implies w$$ such that `s` is the start symbol and all derivations follow the rewriting rules.
-* It is denoted as a tuple \(V, S, Σ, P\)
+* It is denoted as a tuple (V, S, Σ, P)
 
-### Regular Grammar \(Type-3 Grammar\)
+### Regular Grammar (Type-3 Grammar)
 
 If and only if a grammar is regular:
 
-![](../../.gitbook/assets/image%20%28381%29.png)
+![](<../../.gitbook/assets/image (381).png>)
 
-## 
+##
 
 ## Works Cited
 
 * [Chen, Xin. Concepts and Implementations of Programming Languages. Lecture 3](https://udayton.edu/directory/artssciences/computerscience/chen-xin.php)
-
-
 

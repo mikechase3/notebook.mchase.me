@@ -12,7 +12,7 @@
 
 ### Authority and First Appearance
 
-![](../../.gitbook/assets/image%20%28229%29.png)
+![](<../../.gitbook/assets/image (229).png>)
 
 * Lab coat has more perceived authority
 * How fit are you, do they have facial symmetry, what is their emotional expression
@@ -20,13 +20,13 @@
 
 ### Authority and Putin
 
-![](../../.gitbook/assets/image%20%28228%29.png)
+![](<../../.gitbook/assets/image (228).png>)
 
 * Putin has photos of Putin as someone who is credible.
 
 ## Tradition and Culture
 
-![Kim Jong Un Riding](../../.gitbook/assets/image%20%28230%29.png)
+![Kim Jong Un Riding](<../../.gitbook/assets/image (230).png>)
 
 * Kim riding a horse links to Korean national identity.
   * Mount Paekdu part is part of ancient and modern Korean history.
@@ -71,7 +71,7 @@
 
 * It's setup as a broadcasting service for cold Europe
 * All you hear is that _Radio Free Europe_ is doing these broadcasts.
-* Radio Free Europe is **a front.** It's actually scripted information from the USA, intentionally.
+* Radio Free Europe is **a front. **It's actually scripted information from the USA, intentionally.
 * They do this so their message is played to the public in communist Eastern Europe.
   * The public only sees _Radio Free Europe_ as a source.
   * This is because the US isn't very credible. The communist Russia doesn't trust the US, but they're much more likely to setup this independent information just because they're not in the US.
@@ -94,6 +94,4 @@
 ## Self-Generated Persuasion
 
 ## Sympathetic Anthropomorphism
-
-
 

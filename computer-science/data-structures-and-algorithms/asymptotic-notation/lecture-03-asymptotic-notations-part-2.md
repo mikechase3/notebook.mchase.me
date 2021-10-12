@@ -4,8 +4,8 @@
 
 * In big O, we ignore all constants.
 * In little o, we care about the constant of the largest term. The limit has to go to zero.
-* `n^2 ⇒ (o(n^2))'` because the limit _of f\(x\)/g\(x\)_ is 1.
-* `n^1.999 ⇒ (o(n^2))'` because the limit of _f\(x\)/g\(x\)_ is 1.
+* `n^2 ⇒ (o(n^2))'` because the limit _of f(x)/g(x)_ is 1.
+* `n^1.999 ⇒ (o(n^2))'` because the limit of _f(x)/g(x)_ is 1.
 
 {% hint style="info" %}
 Little o is like Big O notation, but we care about the constant of the largest term.
@@ -17,29 +17,28 @@ Little o is like Big O notation, but we care about the constant of the largest t
 * Example: Given the set sup{1, 2, 3}
   * _sup_ is the function we’re running on the set.
   * _3_ is the tightest upper-bound.
-* Example 2: Given the set sup{x: x^2 \&lt; 2}
+*   Example 2: Given the set sup{x: x^2 \\< 2}
 
-  * _sup_ now applies to a function
-  * _sqrt\(2\)_ is the tightest lower-bound.
+    * _sup_ now applies to a function
+    * _sqrt(2)_ is the tightest lower-bound.
 
-  **Infimum** is the tightest lower-bound.
+    **Infimum** is the tightest lower-bound.
 
-\*\*\*\*
+****
 
 ## **Infimum, The Tightest Lower Bound**
 
 * **c** is the infimum of subset _S_ of real numbers.
-  * We write c = inf\(S\)
+  * We write c = inf(S)
 * Example: In the set inf{1, 2, 3}
   * The tightest lower bound is 1.
-* Inferior \(INF\) is the limit the function converges to on the bottom.
+* Inferior (INF) is the limit the function converges to on the bottom.
   * Infinity means the **tightest** lower-bound.
-* Sometimes, the limit of a sequence may not exist _ie. f\(n\) = 1 + \(-1\)^n_
-* There are many upper bounds on f\(n\)
+* Sometimes, the limit of a sequence may not exist _ie. f(n) = 1 + (-1)^n_
+*   There are many upper bounds on f(n)
 
-  **Sufficient Condition**
-
-* Lemma 1: If the limit exists, then we can draw a conclusion about the upper bound _O\(function\)_, the lower bound _omega\(function\)_
+    **Sufficient Condition**
+* Lemma 1: If the limit exists, then we can draw a conclusion about the upper bound _O(function)_, the lower bound _omega(function)_
 * Lemma 2: Uses _sup_ which I don’t know what that means. 
 
 
@@ -59,9 +58,7 @@ Little o is like Big O notation, but we care about the constant of the largest t
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
+| Title         | Content Used                   | Author           |
+| ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-
-
 

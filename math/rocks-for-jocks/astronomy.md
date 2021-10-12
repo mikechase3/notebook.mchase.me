@@ -9,28 +9,28 @@
 
 ### 4 Fundamental Forces
 
-| Fundamental Force | Definition |
-| :--- | :--- |
-| Nuclear Strong Force | Super strong, but only operates at a super small scale. |
-| Nuclear Weak Force | Responsible for radioactive decay. |
+| Fundamental Force     | Definition                                                                                                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nuclear Strong Force  | Super strong, but only operates at a super small scale.                                                                                           |
+| Nuclear Weak Force    | Responsible for radioactive decay.                                                                                                                |
 | Electromagnetic Force | This binds electrons to the nucleus. It is not as strong as the nuclear forces, but operates at a much larger distance. This is how magnets work. |
-| Gravity | The weakest attractive force between any two objects that have mass. It's the weakest force, but operates in an infinite distance. |
+| Gravity               | The weakest attractive force between any two objects that have mass. It's the weakest force, but operates in an infinite distance.                |
 
 ### Fission and Fusion
 
-![](../../.gitbook/assets/image%20%28531%29.png)
+![](<../../.gitbook/assets/image (531).png>)
 
 ### Energy on Earth
 
-![Retrieved from Pinterest, From VectorMine](../../.gitbook/assets/image%20%28538%29.png)
+![Retrieved from Pinterest, From VectorMine](<../../.gitbook/assets/image (538).png>)
 
 ## Larger Units
 
-![](../../.gitbook/assets/image%20%28535%29.png)
+![](<../../.gitbook/assets/image (535).png>)
 
 ### Measuring with Parallax
 
-![](../../.gitbook/assets/image%20%28534%29.png)
+![](<../../.gitbook/assets/image (534).png>)
 
 ## Origin of the Universe
 
@@ -40,7 +40,7 @@
 
 The faster a light source moves away from an observer, the more red they look. This scales to the Universe, so further away something gets away from earth, the more red it looks. By observing how planets are getting more red and which direction we can go, we can re-wind the tape to observe that everything started in one place. 
 
-![](../../.gitbook/assets/image%20%28533%29.png)
+![](<../../.gitbook/assets/image (533).png>)
 
 ### Big Bang Hypothesis
 
@@ -50,11 +50,11 @@ The faster a light source moves away from an observer, the more red they look. T
 4. **Test Hypothesis**: Collect more data. 
    1. Black body radiation left over from the big bang. Discovered andd fits predicted intensity curve.
    2. Primordial helium: scientists predicted that the big bang should've created approximately 75% hydrogen and 25% helium. But fusion in stars should create more helium. The older a star is, the more helium it should contain. Our sun has 28% helium. 
-5. **Corroborate or Dispute Hypothesis:** A good theory, but people always refute it somehow.
+5. **Corroborate or Dispute Hypothesis: **A good theory, but people always refute it somehow.
 
 ## Life Cycle of a Star
 
-![](../../.gitbook/assets/image%20%28545%29.png)
+![](<../../.gitbook/assets/image (545).png>)
 
 1. Stars burn hydrogen and convert it to helium.
 2. The helium accumulates.
@@ -65,52 +65,20 @@ The faster a light source moves away from an observer, the more red they look. T
 
 I got distracted because the girl sitting next to me started drawing on a post-it note, so I made my own drawing. It was significantly less good than her's. I have little idea of what this is, so I should look it up later.
 
-![](../../.gitbook/assets/image%20%28548%29.png)
+![](<../../.gitbook/assets/image (548).png>)
 
-{% embed url="https://cdn.kastatic.org/KA-share/BigHistory/KU3.0.9\_Life\_Cycle\_of\_Stars.pdf" caption="Life Cycle of Stars: Khan Academy PDF" %}
+{% embed url="https://cdn.kastatic.org/KA-share/BigHistory/KU3.0.9_Life_Cycle_of_Stars.pdf" %}
+Life Cycle of Stars: Khan Academy PDF
+{% endembed %}
 
 
 
 ## The Planets
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Density</th>
-      <th style="text-align:left">Atmosphere Makeup</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Terrestrial</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Dense, Rocky, Small.</li>
-          <li>Density of for earth.</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>Oxygen (29%)</li>
-          <li>Nitrogen (71%)</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Gas Giants</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Huge, gaseous, but the center is lightweight.</li>
-          <li>Saturn is .</li>
-        </ul>
-      </td>
-      <td style="text-align:left">Primarily hydrogen and helium.</td>
-    </tr>
-  </tbody>
-</table>
+| Type        | Density                                                                                                                                  | Atmosphere Makeup                                     |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Terrestrial | <p></p><ul><li>Dense, Rocky, Small.</li><li>Density of <span class="math">5.5\frac{g}{cm^3}</span> for earth.</li></ul>                  | <ul><li>Oxygen (29%)</li><li>Nitrogen (71%)</li></ul> |
+| Gas Giants  | <p></p><ul><li>Huge, gaseous, but the center is lightweight. </li><li>Saturn is <span class="math">0.7 \frac{g}{cm^3}</span> .</li></ul> | Primarily hydrogen and helium.                        |
 
 ### Photosynthesis
 
@@ -126,18 +94,20 @@ $$
 
 ### Mercury
 
-![Source: EarthHow](../../.gitbook/assets/image%20%28569%29.png)
+![Source: EarthHow](<../../.gitbook/assets/image (569).png>)
 
 * **Mercury**: Impacts caused **craters**. 
 * Has no wind, water, or erosion which would destroy the craters.
 * Meteors burn in earth's atmosphere, but not Mercury.
 * Earth has plate active plate tectonics, particularly volcanism.
-* The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet_ because it doesn't have an active heat engine like the earth does.
-* The planet is cooling down and shrinking slowly.
+* The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet _because it doesn't have an active heat engine like the earth does.
+*   The planet is cooling down and shrinking slowly.
+
+
 
 ### Venus
 
-![Source: EarthHow](../../.gitbook/assets/image%20%28570%29.png)
+![Source: EarthHow](<../../.gitbook/assets/image (570).png>)
 
 * Similar in size to earth.
 * The $$CO_2$$ makes up 96% of the atmosphere.
@@ -153,17 +123,17 @@ The more extraordinary the claim, the more evidence is required to support it. P
 
 Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
-![](../../.gitbook/assets/image%20%28566%29.png)
+![](<../../.gitbook/assets/image (566).png>)
 
-### 
+###
 
-### 
+###
 
 
 
 ### Mars
 
-![Source: Earth How](../../.gitbook/assets/image%20%28567%29.png)
+![Source: Earth How](<../../.gitbook/assets/image (567).png>)
 
 * The atmosphere is thin and mostly composed of $$CO_2$$ 
 * Red because of oxidized iron.There's a tiny bit of oxygen on mars.
@@ -179,7 +149,7 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 ### Composition
 
-![Source: Earth Guide Web: Oceanic and Continental Crust](../../.gitbook/assets/image%20%28581%29.png)
+![Source: Earth Guide Web: Oceanic and Continental Crust](<../../.gitbook/assets/image (581).png>)
 
 We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
 
@@ -190,14 +160,14 @@ We can figure out what comes from the core through volcanoes and earthquakes. We
 #### Not sure what these are...
 
 1. Iron Meteorites are all iron.
-2. Chrondritic \(Chrondrules\) are 35% iron and never been remelted.
-3. Stoney Iron: have remelted & differentiated \(35%\)
+2. Chrondritic (Chrondrules) are 35% iron and never been remelted.
+3. Stoney Iron: have remelted & differentiated (35%)
 
 ### History
 
 1. Early earth is homogenous
 2. Early earth heats up:
-   1. Impacts from meteorites \(etc\)
+   1. Impacts from meteorites (etc)
    2. Heating from gravitational contraction
    3. Radioactivity
 3. Earth reaches Iron's melting point of 2800F
@@ -224,11 +194,11 @@ $$
 
 ### Evidence from Precession of the Equinoxes
 
-![](../../.gitbook/assets/image%20%28580%29.png)
+![](<../../.gitbook/assets/image (580).png>)
 
 * **Eccentricity**: tell us how eeliptical something is around the sun with a 100,000 year cycle.
-* **Obliquity \(tilt\)**: Over 41,000 years, the tilt goes between 22 and 24 degree.
-* **Precession \(Wobble\):** 23,000. This describes the amount of wobble the Earth has.
+* **Obliquity (tilt)**: Over 41,000 years, the tilt goes between 22 and 24 degree.
+* **Precession (Wobble): **23,000. This describes the amount of wobble the Earth has.
 
 ### Evidence from Seismic Waves
 
@@ -236,13 +206,11 @@ When you have an earthquake, there's a bunch of waves that pas sthrough the eart
 
 In dense stuff, they travel back fast. In non-dense material, it'll come back, but a lot more slowly.
 
-![A Seismic Wave](../../.gitbook/assets/image%20%28579%29.png)
+![A Seismic Wave](<../../.gitbook/assets/image (579).png>)
 
 
 
 ## References/Works Cited
 
 * Infographics from EarthHow: [https://earthhow.com/category/outer-space/solar-system/](https://earthhow.com/category/outer-space/solar-system/)
-
-
 

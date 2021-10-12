@@ -5,12 +5,12 @@
 ### **N-Tier Layers**
 
 1. Presentation
-2. Business: \(business logic layer, domain layer\)
+2. Business: (business logic layer, domain layer)
 3. Data access layer
 
 ### Monolithic
 
-![The three-tier monolithic design](../../../.gitbook/assets/image%20%28517%29.png)
+![The three-tier monolithic design](<../../../.gitbook/assets/image (517).png>)
 
 #### What is a monolithic design?
 
@@ -39,7 +39,7 @@
 
 ## Microservices
 
-![](../../../.gitbook/assets/image%20%28514%29.png)
+![](<../../../.gitbook/assets/image (514).png>)
 
 * This is an application architecture and development approach to building **large applications** consisting of a collection of small, autonomous services.
 * Each service is self-contained implementing a **single** business capability.
@@ -68,40 +68,40 @@
 * Development and testing
 * Lack of "governance"
 * Network congestion and latency
-* Data integrity \(harder to control?\)
+* Data integrity (harder to control?)
 * Management
 * Versioning
-* Skillset: \(old timers aren't as hip to the new stuff?\)
+* Skillset: (old timers aren't as hip to the new stuff?)
 
 {% hint style="info" %}
-**Summary:** In a microservices architecture, each service should have a separate codebase and be managed by a small team. Each service should be responsible for its own data.
+**Summary: **In a microservices architecture, each service should have a separate codebase and be managed by a small team. Each service should be responsible for its own data.
 {% endhint %}
 
 ## How to Implement?
 
-* We can use the express framework \(lab 2, part 2.c\)
+* We can use the express framework (lab 2, part 2.c)
 * Remove the front-end UI so that this only returns a message.
 * Add a new route to the application using `app.Method(path, handler)`
 * Use functions and getters/setters. So everything is an interface of sorts.
 
-![](../../../.gitbook/assets/image%20%28515%29.png)
+![](<../../../.gitbook/assets/image (515).png>)
 
-## Cross-Origin Resource Sharing \(CORS\)
+## Cross-Origin Resource Sharing (CORS)
 
 * This is a mechanism to allow cross-origin HTTP request/response.
 
 ### Usage Example
 
-![](../../../.gitbook/assets/image%20%28516%29.png)
+![](<../../../.gitbook/assets/image (516).png>)
 
 {% hint style="info" %}
-**Check your understanding:** True/False: a microservice API allow CORS by default. _False._
+**Check your understanding: **True/False: a microservice API allow CORS by default. _False._
 {% endhint %}
 
 ## Microservice Testing
 
 * We can run the microservice locally and test it using Google Cloud Shell.
-* Each service must be accessible from within the network \(or publicly if it's a front-end computer users must interact with\).
+* Each service must be accessible from within the network (or publicly if it's a front-end computer users must interact with).
 * After deploying locally, deploy it on a server. 
 
 ## Sprint 1 Requirements
@@ -118,16 +118,14 @@
 
 Links to the aforementioned publicly available sources are listed below.
 
-* Phung, Phu. _Creative Cloud Applications_. Lecture 05. \(Primary\).
+* Phung, Phu. _Creative Cloud Applications_. Lecture 05. (Primary).
 * Wu, Andy. _Taking the Cloud-Native Approach with Microservices_. 
 * Microservices architecture style guide:  Microservices architecture style.
-* Cloud Security Alliance. _Application Containers and Microservices_. "Best Practices in Impolemting a Secure Microservices Architecture" \(Feb 2020\).
+* Cloud Security Alliance. _Application Containers and Microservices_. "Best Practices in Impolemting a Secure Microservices Architecture" (Feb 2020).
 
 {% embed url="https://cloud.google.com/files/Cloud-native-approach-with-microservices.pdf" %}
 
 {% embed url="https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/" %}
 
 {% embed url="https://cloudsecurityalliance.org/artifacts/best-practices-in-implementing-a-secure-microservices-architecture/" %}
-
-
 

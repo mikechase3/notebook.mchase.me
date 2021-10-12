@@ -18,13 +18,13 @@ Performance reviews are the gatekeeper to promotions, compensation and career gr
 
 If you’re interested in the later part, performance reviews are not the right tool. Follow this guide to take control of your performance and supercharge your career.
 
-### Understand how reviews work <a id="understand"></a>
+### Understand how reviews work <a href="understand" id="understand"></a>
 
-At most big tech companies, performance is assessed every 6 months and culminates with a performance rating. This rating determines bonus \(including an equity "refresher"\) and promotions.There are generally no hard limit to how many people can earn a particular rating
+At most big tech companies, performance is assessed every 6 months and culminates with a performance rating. This rating determines bonus (including an equity "refresher") and promotions.There are generally no hard limit to how many people can earn a particular rating
 
 At nearly all tech companies, there are no hard quotas or "stack rating" for performance ratings, though there are rough guidelines on what percent of the workforce should receive each rating.
 
-For example, at Facebook there are 7 performance ratings, starting from “Does not meet expectations” to “Redefines expectations”. Facebook targets 5% of the workforce getting "Redefines", but that can be \(and often is\) unevenly distributed across orgs, functions or offices.
+For example, at Facebook there are 7 performance ratings, starting from “Does not meet expectations” to “Redefines expectations”. Facebook targets 5% of the workforce getting "Redefines", but that can be (and often is) unevenly distributed across orgs, functions or offices.
 
 Nearly every big tech companies follow a very similar process to set performance ratings:
 
@@ -33,13 +33,13 @@ Nearly every big tech companies follow a very similar process to set performance
 * **Calibration** — all managers get together for “calibration”, where they each presents a summary of their direct report’s performance and defend their rating.
 * **Final rating** — after some quorum of the calibration panel agrees on the rating, it becomes official.
 
-First-level calibrations generally include all front-line managers in your org \(i.e. your manager’s peers\), whereas more senior calibrations are company-wide.
+First-level calibrations generally include all front-line managers in your org (i.e. your manager’s peers), whereas more senior calibrations are company-wide.
 
 This whole process happens recursively: all managers review ICs, their managers review them, and so on, all the way up to the top.
 
 At the end of this process, your manager schedules a 1:1 session to share the rating along with their written feedback.If you do sufficiently poorly, you'll be placed on a PIP
 
-A Performance Improvement Plan \(PIP\) is a written document that outlines hard performance milestones you need to hit in 30, 60 or 90 days.
+A Performance Improvement Plan (PIP) is a written document that outlines hard performance milestones you need to hit in 30, 60 or 90 days.
 
 It exists to document your performance issues and is generally the last step before getting fired. Don't get confused by the HR doublespeak, it has nothing to do with "performance improvement".
 
@@ -55,13 +55,13 @@ Don't base your personal growth on **3-month stale feedback twice a year** — t
 
 Download the Candor performance review toolkit to get ahead and get promotedCheck your inbox — the toolkit is on the way.
 
-### Running your own performance review <a id="yourown"></a>
+### Running your own performance review <a href="yourown" id="yourown"></a>
 
 Feedback is critical to a rocketship career — quality feedback is a huge accumulating advantage. If you can increase the velocity of feedback you get, you’ll be unstoppable.
 
 The performance review the company provides is not sufficient. It's the product of design-by-committee: sluggish, heavily filtered, and designed for the fragilest of egos.
 
-**If you want to** _**really**_ **succeed, you need to run your own performance process**. That means three things: asking for feedback directly, running your own peer reviews, and organizing project retrospectives.
+**If you want to **_**really**_** succeed, you need to run your own performance process**. That means three things: asking for feedback directly, running your own peer reviews, and organizing project retrospectives.
 
 #### Asking for feedback directly
 
@@ -77,7 +77,7 @@ You can ask for feedback along many dimensions:
 * **Project-specific** — "What do you think I could do more to push this project further?"
 * **Interaction-specific** — "Do you think I could have done something differently in that meeting?"
 
-It's easiest to start from the bottom: first ask people how you did dealing with a colleague, or in a meeting, or on a doc or code review and work your way up to asking for more general feedback.One way to get better feedback is to first give high-quality feedback to others. Every opportunity you have \(e.g. code reviews\), be thoughtful, caring and work to help others succeed.
+It's easiest to start from the bottom: first ask people how you did dealing with a colleague, or in a meeting, or on a doc or code review and work your way up to asking for more general feedback.One way to get better feedback is to first give high-quality feedback to others. Every opportunity you have (e.g. code reviews), be thoughtful, caring and work to help others succeed.
 
 Run down the list of the top 10 people you work with: if you haven't asked them how you're doing sometime in the last month, you're already falling behind.
 
@@ -87,11 +87,11 @@ This might be uncomfortable, but the payoff of getting more, long-term quality f
 
 #### Your own peer review process
 
-**Our objective:** there can't be anything that crops up on your formal performance review that you haven't heard directly from someone and had a chance to act on.You can even use a dedicated tool like [Matter](https://matterapp.com/) to collect direct peer feedback.
+**Our objective:** there can't be anything that crops up on your formal performance review that you haven't heard directly from someone and had a chance to act on.You can even use a dedicated tool like [Matter](https://matterapp.com) to collect direct peer feedback.
 
 Asking for feedback in person is a good step in that direction, but there are still things that people will have trouble expressing in person.
 
-Every few months, send the ~5 people you work most with a Google Forms survey that mirrors the formal company peer review. Here's the survey Candor members use: Download the toolkit![Feedback form](https://candor.co/images/guides/insets/feedback.jpg)
+Every few months, send the \~5 people you work most with a Google Forms survey that mirrors the formal company peer review. Here's the survey Candor members use: Download the toolkit![Feedback form](https://candor.co/images/guides/insets/feedback.jpg)
 
 And send your closest collaborators the link:
 
@@ -101,7 +101,7 @@ And send your closest collaborators the link:
 >
 > I’m gathering feedback from the people I work closest with and I'd love your input. If you can find 5-10 minutes to answer these questions by Friday, I would truly appreciate it:
 >
-> _\[Google Form link\]_
+> _\[Google Form link]_
 >
 > Please be honest and candid — that's what helps me the most. And, if there’s anything else you’d like to share, good or bad, I’d love to hear it.
 >
@@ -111,13 +111,13 @@ Remember: people _want_ to give you feedback. You need to provide as many opport
 
 Feedback is jet fuel for your career — don't wait on your manager to filter and spoon feed it to you.
 
-Bonus points: we'll also use this survey to identify the people that have good things to say about you for the formal peer evaluation \(more on that in Step 3\).
+Bonus points: we'll also use this survey to identify the people that have good things to say about you for the formal peer evaluation (more on that in Step 3).
 
 #### Project retros
 
 On every project you lead or have a significant involvement, insist on running a project retrospective after important milestones.
 
-Put a 30 min meeting on everyone's calendar, open a shared Google Doc and go from person to person, filing two columns \(_What went well_ and _What needs improvement_\) and noting any action items.
+Put a 30 min meeting on everyone's calendar, open a shared Google Doc and go from person to person, filing two columns (_What went well_ and _What needs improvement_) and noting any action items.
 
 Don't judge or comment on anything that's said. Just note things and move on. Download the toolkit![Project retrospective](https://candor.co/images/guides/insets/retrospective.jpg)
 
@@ -129,14 +129,14 @@ After the retro, followup religiously on the action items.
 
 Download the Candor performance review toolkit to get ahead and get promoted
 
-### Gaming the company's performance review <a id="gaming"></a>
+### Gaming the company's performance review <a href="gaming" id="gaming"></a>
 
 Being good at your job is necessary, but not sufficient to doing well in performance reviews. Step 2 will help you be good at your job, but you still need to optimize the performance review process.
 
 The main inputs to your performance review are:
 
-* Your opinion of yourself \(self-evaluation\)
-* Your peer’s opinion of you \(peer reviews\)
+* Your opinion of yourself (self-evaluation)
+* Your peer’s opinion of you (peer reviews)
 * Your manager’s opinion of you
 * Your manager’s peers opinion of you
 
@@ -150,7 +150,7 @@ In particular, keep track of the _business_ impact of your achievements: not jus
 
 Your manager knows surprisingly little of your achievements. It's your job to catalog them, connect it to business goals and present it to them in a way that gives them ammunition for calibration.
 
-Second, you'll also be expected to cover areas of growth. Here, you want to be vulnerable, but _just_ vulnerable enough. Be honest, kind and to the point about traits you're working to grow.Per [Erik Torenberg](https://twitter.com/eriktorenberg/status/1160556741186215936): Lite vulnerability \(LV\) makes you look resilient, competent, & moral. Heavy vulnerability \(HV\) has you revealing compromising flaws & dark secrets.
+Second, you'll also be expected to cover areas of growth. Here, you want to be vulnerable, but _just_ vulnerable enough. Be honest, kind and to the point about traits you're working to grow.Per [Erik Torenberg](https://twitter.com/eriktorenberg/status/1160556741186215936): Lite vulnerability (LV) makes you look resilient, competent, & moral. Heavy vulnerability (HV) has you revealing compromising flaws & dark secrets.
 
 Focus on painting a picture of how large your ambitions are and the skills you'll need to get there. "My goal is to lead a world-changing team in the ecommerce space, and this half I'm working on my ability to communicate cross-functionally."
 
@@ -172,7 +172,7 @@ You might think this is a little disingenuous — you're right. Remember: the co
 
 Managers will hold a weekly or biweekly 1:1 with you — the biggest mistake you can make with 1:1s is to treat them like a status update. Download the toolkit![One-on-one agenda](https://candor.co/images/guides/insets/one-on-one.jpg)
 
-Find another venue for status updates \(e.g. a weekly email\) and keep the 1:1 focused on high-level topics: what you need help with, what your manager needs help with and how you're doing on the job.
+Find another venue for status updates (e.g. a weekly email) and keep the 1:1 focused on high-level topics: what you need help with, what your manager needs help with and how you're doing on the job.
 
 Setup a running Google Doc agenda, ask for feedback frequently and directly and be meticulous about following up on action items.
 
@@ -188,15 +188,14 @@ Every performance review cycle, you need to figure out how to have 2-3 positive 
 
 The easiest way to do that is to get involved in cross-org or cross-function efforts, like:
 
-* **Hiring** — help refine the hiring process for your team or function \(very high leverage\)
-* **Diversity & inclusion** — help champion causes that make your work environment more inclusive \(also very high leverage\)
+* **Hiring** — help refine the hiring process for your team or function (very high leverage)
+* **Diversity & inclusion** — help champion causes that make your work environment more inclusive (also very high leverage)
 * **Interns** — help promote the company at universities, coordinate recruiting or manage interns on your team
 * **Volunteer** — help with e.g. Christmas volunteer activities, a blood drive, etc.
 * **Social groups** — help organize company sports teams or social groups
 * **Work groups** — organize a company group around a new techology, best practice or emerging idea and e.g. invite speakers onsite
 * **Inter-team process** — help your team work effectively with other teams in the org
-* **Give praise** — when you see a manager succeed publicly \(e.g. give a talk\), message them congratulations
+* **Give praise** — when you see a manager succeed publicly (e.g. give a talk), message them congratulations
 * **Ask for advice** — this is one of the most effective ways to endear yourself to someone: if you're struggling with a situation, ask a peer manager directly for advice
 
 Throughout all this, the single most important thing to realize is that performance reviews requires continuous and intentional prep. Download the Candor performance review toolkit to get started and reach out to your Candor agent for a custom prep plan.
-

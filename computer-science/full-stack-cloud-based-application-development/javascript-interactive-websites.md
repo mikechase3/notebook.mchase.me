@@ -16,7 +16,7 @@ Good article because my notes don't make sense:
 
 
 
-## Using the &lt;script&gt; tag
+## Using the \<script> tag
 
 * You can have HTML reference/call the JS code.
 
@@ -42,9 +42,9 @@ Good article because my notes don't make sense:
 
 ## Referencing JS in other files
 
-If you want to link code instead of embed it, you can link it using the **src attribute.** Use it like this:
+If you want to link code instead of embed it, you can link it using the **src attribute. **Use it like this:
 
-```text
+```
 <script src="./exampleScript.js"></script>
 ```
 
@@ -54,12 +54,12 @@ If you want to link code instead of embed it, you can link it using the **src at
 ### Where to Place the Script Tags
 
 * Browsers come equipped with HTML parsers to help render the elements accordingly.
-* Elements using the &lt;script&gt; tag are parased in the order they appear in HTML.
+* Elements using the \<script> tag are parased in the order they appear in HTML.
 * When the HTML parser encounters a `<script>` element, it will load and execute the contents before parsing the res of the HTML.
-  * It will not process the next element in the HTML until it loads/executes the &lt;script&gt; element which could cause a delay and poor user experience.
+  * It will not process the next element in the HTML until it loads/executes the \<script> element which could cause a delay and poor user experience.
   * Scripts are loaded sequentially, so if one script depends on another, they should be placed in the correct order in the HTML file.
 
-![Here, the watering can will appear before the flower.](../../.gitbook/assets/image%20%28525%29.png)
+![Here, the watering can will appear before the flower.](<../../.gitbook/assets/image (525).png>)
 
 ## The Defer Attribute
 
@@ -70,7 +70,7 @@ If you want to link code instead of embed it, you can link it using the **src at
 
 Use it when it interacts with the DOM.
 
-```text
+```
 <script src="example.js" defer></script> 
 ```
 
@@ -82,7 +82,7 @@ Use it when it interacts with the DOM.
 
 ### Syntax
 
-```text
+```
 <script src="example.js" async></script>
 ```
 
@@ -102,7 +102,7 @@ Use it when it interacts with the DOM.
   * There are other types of documents like XML and SVG that are modeled as DOM structures.
   * The DOM is a link between an HTML web page and scripting languages.
 
-![](../../.gitbook/assets/screenshot_2021-07-12-01.30.49_sofhzc.jpg)
+![](../../.gitbook/assets/screenshot\_2021-07-12-01.30.49\_sofhzc.jpg)
 
 ## Accessing and Modifying Content
 
@@ -111,11 +111,11 @@ Use it when it interacts with the DOM.
 * References the entire `<body>` of the HTML page.
 * The `<body>` element contains all visible content of the page.
 
-### document.createElement\(\) Method
+### document.createElement() Method
 
 #### The JavaScript `document.createElement()` Method
 
-```text
+```
 const newButton = document.createElement("button");
 ```
 
@@ -123,7 +123,7 @@ The `document.createElement()` method creates and returns a reference to a new E
 
 `document.createElement()` does not actually add the new element to the DOM, it must be attached with a method such as `element.appendChild()`.
 
-### document.getElementById\(\) Method
+### document.getElementById() Method
 
 * Returns the element that has the `id` attirbute with the specified value.
 * Returns null if no elements with the ID exist.
@@ -134,7 +134,7 @@ The `document.createElement()` method creates and returns a reference to a new E
 const demoElement = document.getElementById('demo');
 ```
 
-### document.querySelector\(\)
+### document.querySelector()
 
 The `.querySelector()` method selects the first child/descendant element that matches its selector argument.
 
@@ -149,7 +149,7 @@ const navMenu = document.getElementById('main-navigation');
 const firstButtonChild = navMenu.querySelector('.button');
 ```
 
-### document.removeChild\(\) and "hidden"
+### document.removeChild() and "hidden"
 
 * Removes an specified child from a parent.
 * The following code removes the first paragraph in a document
@@ -174,7 +174,7 @@ document.getElementById('sign').hidden = true;
 
 
 
-### element.appendChild\(\) Method
+### element.appendChild() Method
 
 * Takes an element as a parameter.
 * Appends the element as the last child of the parent.
@@ -209,7 +209,7 @@ The `element.innerHTML` property can be used to access the HTML markup that make
 </script>
 ```
 
-### element.style.&lt;css property&gt;
+### element.style.\<css property>
 
 * Modifies the CSS style of that element.
 * Follows the `element.style.property` format.
@@ -255,12 +255,12 @@ element.onclick = turnButtonRed;
 
 ## DOM Events
 
-## [Event Handler Registration](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers) and [.onevent\(\)](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/add-event-listener)
+## [Event Handler Registration](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers) and [.onevent()](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/add-event-listener)
 
 
 
-> Using the `.addEventListener()` method, we can have a DOM element listen for a specific event and execute a block of code when the event is detected. The DOM element that listens for an event is called the _event target_ and the block of code that runs when the event happens is called the _event handler_.  
-> - Source: [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers)
+> Using the `.addEventListener()` method, we can have a DOM element listen for a specific event and execute a block of code when the event is detected. The DOM element that listens for an event is called the _event target_ and the block of code that runs when the event happens is called the _event handler_.\
+> \- Source: [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers)
 
 ## HTML Forms
 
@@ -295,4 +295,3 @@ eventTarget.addEventListener('click', eventHandlerFunction);
 ## Works Cited
 
 Large portions of this were  taken from CodeCademy's [cheatsheet](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-javascript-and-the-dom/cheatsheet) so I want to acknowledge them. They also word it better than I do, so you'll want to go right there if you're new to this. I re-type sometimes it so it sticks in my brain.
-

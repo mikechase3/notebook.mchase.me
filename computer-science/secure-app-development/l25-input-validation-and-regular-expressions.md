@@ -24,17 +24,17 @@ description: >-
 
 ### Current Login System
 
-| Item | What it Does |
-| :--- | :--- |
-| form.php | Users provide their username/password to login. |
-| `index.php` | Gets the username and password from `from.php` and connects to the database to check the account. \(Set the session as 'logged-in' and display the home page. Otherwise, alert and redirect back to `form.php` |
-| `session_auth.php` | Checks to ensure that the session is logged-in, otherwise, redirect to `form.php` |
-| `database.php` | Connect to the database and provide more database functions. |
-| `changepasswordform.php` | Logged-in users can request to change the password |
-| `changepassword.php` | Gets the new password from the logged session to change the password of the current user |
-| `registrationform.php` | A form for usser registration. When we click on the sign-up button, the form will be submitted to `addnewuser.php` |
-| `addnewuser.php` | Gets the user registration data and inserts it to the database. \(Call the `addnewuser` function defined in `database.php`\) |
-| `database.php` \(updated\) | Added a new function `addnewuser` \(copied from the `changepassword`\). Revise the SQL to include new fields depending on your database design. |
+| Item                     | What it Does                                                                                                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| form.php                 | Users provide their username/password to login.                                                                                                                                                               |
+| `index.php`              | Gets the username and password from `from.php` and connects to the database to check the account. (Set the session as 'logged-in' and display the home page. Otherwise, alert and redirect back to `form.php` |
+| `session_auth.php`       | Checks to ensure that the session is logged-in, otherwise, redirect to `form.php`                                                                                                                             |
+| `database.php`           | Connect to the database and provide more database functions.                                                                                                                                                  |
+| `changepasswordform.php` | Logged-in users can request to change the password                                                                                                                                                            |
+| `changepassword.php`     | Gets the new password from the logged session to change the password of the current user                                                                                                                      |
+| `registrationform.php`   | A form for usser registration. When we click on the sign-up button, the form will be submitted to `addnewuser.php`                                                                                            |
+| `addnewuser.php`         | Gets the user registration data and inserts it to the database. (Call the `addnewuser` function defined in `database.php`)                                                                                    |
+| `database.php` (updated) | Added a new function `addnewuser` (copied from the `changepassword`). Revise the SQL to include new fields depending on your database design.                                                                 |
 
 ### Registration Form
 
@@ -44,15 +44,15 @@ description: >-
 
 ### Security Features of Current System
 
-| Action | What This Means |
-| :--- | :--- |
-| Deploy on HTTPS | All transaction data is encrypted and protected. |
-| Sanitized HTML Outputs | Prevents cross-site scripting attacks. |
-| Implemented Prepared Statements | Prevents SQL Injection attacks. |
-| Protect system from session hijacking | Secure cookies for a session; check browser information. |
-| Implemented Session Authentication | Protected pages can only be accessible by the logged-in users. |
-| Access Control | A user cannot change the password of another user. |
-| Implemented Secret Token Generation/Validation | Cross-site request forgery \(CSRF\) attacks will be prevented.  |
+| Action                                         | What This Means                                                |
+| ---------------------------------------------- | -------------------------------------------------------------- |
+| Deploy on HTTPS                                | All transaction data is encrypted and protected.               |
+| Sanitized HTML Outputs                         | Prevents cross-site scripting attacks.                         |
+| Implemented Prepared Statements                | Prevents SQL Injection attacks.                                |
+| Protect system from session hijacking          | Secure cookies for a session; check browser information.       |
+| Implemented Session Authentication             | Protected pages can only be accessible by the logged-in users. |
+| Access Control                                 | A user cannot change the password of another user.             |
+| Implemented Secret Token Generation/Validation | Cross-site request forgery (CSRF) attacks will be prevented.   |
 
 {% hint style="info" %}
 At this point, we ended the review and switched to implementing new features.
@@ -60,7 +60,7 @@ At this point, we ended the review and switched to implementing new features.
 
 ### Registration Form User Validation
 
-{% embed url="https://cheatsheetseries.owasp.org/cheatsheets/Input\_Validation\_Cheat\_Sheet.html" %}
+{% embed url="https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html" %}
 
 #### Types of Syntax Validation
 
@@ -74,13 +74,13 @@ Input validation must be implemented in both the client-side and server side.
 
 ### HTML5 Form Validation
 
-![Example HTML5 Form Validation](../../.gitbook/assets/image%20%28241%29.png)
+![Example HTML5 Form Validation](<../../.gitbook/assets/image (241).png>)
 
 ### HTML5 Placeholders
 
 A placeholder attribute is used to guide the user to the expected input:
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](<../../.gitbook/assets/image (217).png>)
 
 ```markup
 <input type="text" class="text_field" name="username" 
@@ -91,7 +91,7 @@ A placeholder attribute is used to guide the user to the expected input:
 
 The `title` attribute is used to browsers to display a message in case of a mismatch.
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](<../../.gitbook/assets/image (195).png>)
 
 ```markup
 <input type="text" name="username" required pattern="\w+"
@@ -128,7 +128,7 @@ onchange="this.setCustomValidity(this.validity.patternMismatch?this.title: '');"
 
 ### Validation Demonstration
 
-![](../../.gitbook/assets/image%20%28297%29.png)
+![](<../../.gitbook/assets/image (297).png>)
 
 {% embed url="https://www.aspsnippets.com/Articles/HTML5-Validations-example-Required-Email-Password-Strength-and-Compare-Password-validations-in-HTML5.aspx" %}
 
@@ -136,7 +136,7 @@ onchange="this.setCustomValidity(this.validity.patternMismatch?this.title: '');"
 
 ### Guiding Principles
 
-{% embed url="https://www.w3schools.com/php/php\_form\_validation.asp" %}
+{% embed url="https://www.w3schools.com/php/php_form_validation.asp" %}
 
 * Check if the input is empty.
 * Trim and sanitize the input.
@@ -204,4 +204,3 @@ Defends against Denial of Service attacks, automatic registration/posting, and s
 * Cross-Site Scripting
 * Session-hijacking
 * Cross-site request forgery.
-

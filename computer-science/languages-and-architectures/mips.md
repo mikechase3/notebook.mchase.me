@@ -1,6 +1,6 @@
 # MIPS
 
-\\#\\#Day \\#\\#\#Heading \\#\\#\#\#Subheading
+\\#\\#Day \\#\\##Heading \\#\\###Subheading
 
 ## See Notability for missing information
 
@@ -26,71 +26,67 @@ Loop: add $5, $3, $8 //Instructions at 112.
 #### Review of formats
 
 * R-format
-* I-format
+*   I-format
 
-  **Branch not equal `bne`**
+    **Branch not equal `bne`**
 
-  Goes to the loop if the branch is not equal.
+    Goes to the loop if the branch is not equal.
 
-  Example: `Ben $2, $4, loop`
-
+    Example: `Ben $2, $4, loop`
 * If two is not equal to 4, go to the loop.
 
 ### Jump
 
-* It is unconditional.
+*   It is unconditional.
 
-  `j`: Always jump, no condition.
+    `j`: Always jump, no condition.
 
-  ```java
-  j //loop, stored at location 100.
-  Add //stored at location 104
-  Lw //108
-  add //112
-  Loops: add //116; not sure if "loops" is a part of the code.
-  ```
+    ```java
+    j //loop, stored at location 100.
+    Add //stored at location 104
+    Lw //108
+    add //112
+    Loops: add //116; not sure if "loops" is a part of the code.
+    ```
 
-#### Review of Architecture \(using J-Format\)
+#### Review of Architecture (using J-Format)
 
-The J-format is nice because it only contains op-code. Everything else is space for your code \(I think\). Bullets below needs review for accuracy.
+The J-format is nice because it only contains op-code. Everything else is space for your code (I think). Bullets below needs review for accuracy.
 
 * Each instruction takes 4 bytes.
 * Memory stores 8 bytes.
 * The register file stores 32 bits
 * Your code used to be limited because of the way things were setup.
-* Also the compilers limited how large your cod was. \(Not these days\).
+*   Also the compilers limited how large your cod was. (Not these days).
 
-  **Comparing Things**
+    **Comparing Things**
 
-  **Set Less Than \(SLT\)**
+    **Set Less Than (SLT)**
 
-  The following command compares 4 to 5.
+    The following command compares 4 to 5.
 
-  ```java
-  slt $2, $4, $5 //destination, register 1, register 2
-  ```
-
+    ```java
+    slt $2, $4, $5 //destination, register 1, register 2
+    ```
 * Follows R-format.
 * Sets the destination register to 1 or 0 based on the contents of the register.
-* The destination is set to `0` if false, and `1` if true.
+*   The destination is set to `0` if false, and `1` if true.
 
-  **Branch Greater Than \(BGT\)**
+    **Branch Greater Than (BGT)**
+*   Pseudo code that _doesn’t exist_
 
-* Pseudo code that _doesn’t exist_
+    Below is a pseudo instruction. These are on the green sheet. 
 
-  Below is a pseudo instruction. These are on the green sheet. 
+    ```java
+    bgt $4, $5, loop //Will jump to the loop if $4 > $5.
+    ```
 
-  ```java
-  bgt $4, $5, loop //Will jump to the loop if $4 > $5.
-  ```
+    **Branch Grater or Equal (BGE)**
+*   Pseudo code that also doesn’t exist.
 
-  **Branch Grater or Equal \(BGE\)**
+    **Coding Challenge**
 
-* Pseudo code that also doesn’t exist.
-
-  **Coding Challenge**
-
-  Write the code that is equal to this _branch grater than_ method using other methods.
+    Write the code that is equal to this _branch grater than_ method using other methods.
 
 ```java
 slt $2, $5, $4 //set register 2 to 0 if $5>$4 Maybe?
@@ -150,19 +146,19 @@ Let’s say you have a function that returns `number * 4`. The name is `mfowr`. 
 **move** moves one register to another.
 
 * It’s pseudocode.
-* It means the same as `addi $v0, $t, 0`
+*   It means the same as `addi $v0, $t, 0`
 
-  **jr**
+    **jr**
 
-  `jr` returns the register address `$ra`
+    `jr` returns the register address `$ra`
 
-  **jal**
+    **jal**
 
-  `jal` stands for jump and link and is used to call a function.
+    `jal` stands for jump and link and is used to call a function.
 
 ### Stack Space & Memory
 
- 1. We call A. 2. A says `jal B`. Once it goes there, it puts `600` into A. 3. The next value of `A` is now `124`. 4. Then you call C and it’s overwritten by `224`. 5. Then you go to `D` and it does a `jr $ra` \(jump/return address\). 6. It jumps back to `316`. 7. It’s supposed to go to `240` but it doesn’t \(see red line\). 8. If it was a recursive function, we would over-fill our register, but we have more memory. 
+ 1\. We call A. 2. A says `jal B`. Once it goes there, it puts `600` into A. 3. The next value of `A` is now `124`. 4. Then you call C and it’s overwritten by `224`. 5. Then you go to `D` and it does a `jr $ra` (jump/return address). 6. It jumps back to `316`. 7. It’s supposed to go to `240` but it doesn’t (see red line). 8. If it was a recursive function, we would over-fill our register, but we have more memory. 
 
 ## Jan 30, 2020; On Section 2.8
 
@@ -172,7 +168,7 @@ We started off with a fake quiz that I did all myself, but took forever. I made 
 
 **move** is pseudo instructions that move one register to another. **jr** is the
 
-#### Practice Problem \(See p.98\)
+#### Practice Problem (See p.98)
 
 Write the following function in assembly:
 
@@ -185,23 +181,23 @@ int leafExample(int g, int h, int i, int j){ //Assume $a0, $a1, $a2, $a3
 ```
 
 * There are some global variables you don’t want to mess with.
-* We save them by storing things into temporary variables.
+*   We save them by storing things into temporary variables.
 
-  \`\`\`java
+    \`\`\`java
 
-  add $t0, $a0, $a1
+    add $t0, $a0, $a1
 
-  Add $t1, $a2, $a3
+    Add $t1, $a2, $a3
 
-  Sub $s1, $t0, $t1
+    Sub $s1, $t0, $t1
 
-  Move $V0, $s1 \#//Move is pseudo code.
+    Move $V0, $s1 #//Move is pseudo code.
 
-  //I'm confused at the rest. Might not be in order. He drew arrows.
+    //I'm confused at the rest. Might not be in order. He drew arrows.
 
-$addi, 4sp, $sp, -4 Sw $s1, 0 \($sp\) Jr $ra lw $s1, $sp, 4 Jr $ra
+$addi, 4sp, $sp, -4 Sw $s1, 0 ($sp) Jr $ra lw $s1, $sp, 4 Jr $ra
 
-```text
+````
 Then store the temporary variables into the stack too so your program never gets screwed up.
 ```java
 addi, $sp, $sp, -12
@@ -217,37 +213,36 @@ Lw $t0, 4, ($sp)
 Lw $t0, 4, ($sp)
 Addi $sp, $sp, 12
 Jr $ra
-```
+````
 
-* Anytime you assign something to an `S` register like `$s3`, you have to save it by using `sw $s1, 0 ($sp)`.
+*   Anytime you assign something to an `S` register like `$s3`, you have to save it by using `sw $s1, 0 ($sp)`.
 
-  **Recursive Functions**
+    **Recursive Functions**
 
-  See p.101: _Compiling a recursive C procedure, showing nested procedure linking_ from the book.
+    See p.101: _Compiling a recursive C procedure, showing nested procedure linking_ from the book.
 
-  ```java
-  int fact (int n){ //n gets stored at $a0
-    If (n<1) return (1):
-        Else return (n * fact(n-1));
-  }
-  ```
-
+    ```java
+    int fact (int n){ //n gets stored at $a0
+      If (n<1) return (1):
+          Else return (n * fact(n-1));
+    }
+    ```
 * Write this in assembly. The stack will have lots of things.
-* Assume n = 3.
+*   Assume n = 3.
 
-  \`\`\`java
+    \`\`\`java
 
-  fact: addi, $sp, $sp, -8 //Fact is the name of the function. Store two numbers.
+    fact: addi, $sp, $sp, -8 //Fact is the name of the function. Store two numbers.
 
-  Sw $a0, 0 \($sp\)
+    Sw $a0, 0 ($sp)
 
-  Sw $ra, 4 \($sp\)
+    Sw $ra, 4 ($sp)
 
-  Li $t0, 1 //Load immediate.
+    Li $t0, 1 //Load immediate.
 
-  Slt $t1, $a0, t0 //Compare. If less, than put flag it by making $t1 = 1.
+    Slt $t1, $a0, t0 //Compare. If less, than put flag it by making $t1 = 1.
 
-  Beq $t1, $s0, else
+    Beq $t1, $s0, else
 
 Else addi $3, 0, Li $V0, 1 //Stores 1 in the return variable. Jr $ra //Return 1.
 
@@ -268,4 +263,3 @@ Else addi $3, 0, Li $V0, 1 //Stores 1 in the return variable. Jr $ra //Return 1.
 ### The Adder
 
 The adder is like a black box. It takes inputs a, b, and c. Then it sums it and carries out any overflow value. C out means carry out.
-

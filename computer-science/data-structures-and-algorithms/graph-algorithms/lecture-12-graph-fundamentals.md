@@ -1,4 +1,4 @@
-# Graph Representations \(L12\)
+# Graph Representations (L12)
 
 ## Common Graph Operations
 
@@ -30,20 +30,20 @@ Defining Undirected Graphs
 I have no idea how to implement the first three or what arguments they would take
 {% endhint %}
 
-| Name | Description |
-| :--- | :--- |
-| `exists(e)` | Check if the element is present in the graph |
-| traverse\(\) | Traverse the graph |
-| `add(vertex, edges)` | Add elements to the graph |
-| s-t path | Is there a path between `s` and `t`? |
-| Shortest s-t path | What is the shortest path between `s` and `t`? |
-| Cycle | Is there a cycle in the graph? |
-| Euler Cycle | Is there a cycle that uses each edge exactly once? |
-| Hamilton Cycle | Is there a cycle that uses each vertex exactly once? |
-| Connected Components | Find connected components |
-| Bioconnectivity | Is there a vertex whose removal disconnects the graph? |
-| Plalanarity | Can the graph be drawn in the plane with no crossing edges? |
-| Graph isomorphism | Are two graphs isomorphic? \(They are equivalent even though they look differently? |
+| Name                 | Description                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------- |
+| `exists(e)`          | Check if the element is present in the graph                                       |
+| traverse()           | Traverse the graph                                                                 |
+| `add(vertex, edges)` | Add elements to the graph                                                          |
+| s-t path             | Is there a path between `s` and `t`?                                               |
+| Shortest s-t path    | What is the shortest path between `s` and `t`?                                     |
+| Cycle                | Is there a cycle in the graph?                                                     |
+| Euler Cycle          | Is there a cycle that uses each edge exactly once?                                 |
+| Hamilton Cycle       | Is there a cycle that uses each vertex exactly once?                               |
+| Connected Components | Find connected components                                                          |
+| Bioconnectivity      | Is there a vertex whose removal disconnects the graph?                             |
+| Plalanarity          | Can the graph be drawn in the plane with no crossing edges?                        |
+| Graph isomorphism    | Are two graphs isomorphic? (They are equivalent even though they look differently? |
 
 ### Text File Representations
 
@@ -73,28 +73,28 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 
 #### Reading Data into the text file.
 
-![](../../../.gitbook/assets/image%20%2869%29%20%285%29%20%285%29%20%283%29.png)
+![](<../../../.gitbook/assets/image (69) (5) (5) (3).png>)
 
-| Function | Description |
-| :--- | :--- |
-| `BufferedReader in = new BR(new FR(args[0]));` | Opens the text file. |
-| `StringTokenizer(oneLine);` | Gets one line? |
-| `int V` | Number of vertices. |
-| `int E` | Number of edges. |
-| `G` | Pointer to a graph object |
-| `G = new EdgeWeightedDiagraph(V);` | Create a new graph with `V` objects. |
-| `for (int i = 0; i < V; i++){`  | For all the vertexes... |
-| `oneLine = in.readLine()` | Grab the line. It's stored in a weird type. |
-| `str = new StringTokenizer(oneLine);` | Convert it from a weird type to a string. |
-| `v = Integer.parseInt(str.nextToken());` | Takes that string |
-| `x = Double.parseInt(str.nextToken());` | Take the string and find x. |
-| `y = Double.parseInt(str.nextToken());` | Take the string and find y. |
-| `for(int i = 0; i < E; i++){` | For loop for reading edge information |
-| `v = Integer.parseInt(str.nextToken());` | Get first node connection. |
-| `w = Integer.parseInt(str.nextToken());` | Get the second node. |
-| `weight = Double.parseDouble(str.nextToken());` | Get the weight. |
-| `e = new DirectedEdge(v, w, weight);` | Make an edge object. |
-| `G.addEdge(e);` | Adds a directed edge to the graph. |
+| Function                                        | Description                                 |
+| ----------------------------------------------- | ------------------------------------------- |
+| `BufferedReader in = new BR(new FR(args[0]));`  | Opens the text file.                        |
+| `StringTokenizer(oneLine);`                     | Gets one line?                              |
+| `int V`                                         | Number of vertices.                         |
+| `int E`                                         | Number of edges.                            |
+| `G`                                             | Pointer to a graph object                   |
+| `G = new EdgeWeightedDiagraph(V);`              | Create a new graph with `V` objects.        |
+| `for (int i = 0; i < V; i++){`                  | For all the vertexes...                     |
+| `oneLine = in.readLine()`                       | Grab the line. It's stored in a weird type. |
+| `str = new StringTokenizer(oneLine);`           | Convert it from a weird type to a string.   |
+| `v = Integer.parseInt(str.nextToken());`        | Takes that string                           |
+| `x = Double.parseInt(str.nextToken());`         | Take the string and find x.                 |
+| `y = Double.parseInt(str.nextToken());`         | Take the string and find y.                 |
+| `for(int i = 0; i < E; i++){`                   | For loop for reading edge information       |
+| `v = Integer.parseInt(str.nextToken());`        | Get first node connection.                  |
+| `w = Integer.parseInt(str.nextToken());`        | Get the second node.                        |
+| `weight = Double.parseDouble(str.nextToken());` | Get the weight.                             |
+| `e = new DirectedEdge(v, w, weight);`           | Make an edge object.                        |
+| `G.addEdge(e);`                                 | Adds a directed edge to the graph.          |
 
 {% hint style="warning" %}
 What is the x and y value for the nodes? What does that mean?
@@ -106,7 +106,7 @@ What is the x and y value for the nodes? What does that mean?
 Don't worry about the adjacency list representation just yet.
 {% endhint %}
 
-For unweighted graphs, especially small ones, we use adjacency matrices because they only take up 1 bit. We can define a graph by vertices and edges. Formally, we define a _\|V\| x \|V\| matrix A =_ $$a_{ij}$$ where
+For unweighted graphs, especially small ones, we use adjacency matrices because they only take up 1 bit. We can define a graph by vertices and edges. Formally, we define a _|V| x |V| matrix A = _$$a_{ij}$$ where
 
 $$
 |V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases}
@@ -115,19 +115,19 @@ $$
 \end{cases}
 $$
 
-![](../../../.gitbook/assets/image%20%2873%29.png)
+![](<../../../.gitbook/assets/image (73).png>)
 
-![](../../../.gitbook/assets/image%20%2872%29.png)
+![](<../../../.gitbook/assets/image (72).png>)
 
 #### Adjacency Matrix Analysis
 
-| Representation | Space | Add Edge | Find if Edge Exists | Iterate over Adj. Vertices |
-| :--- | :--- | :--- | :--- | :--- |
-| Adjacency matrix | $$V^2$$  | 1 | 1 | V |
-| Adjacency Lists | E+V | 1 | `degree(v)` | `degree(v)` |
+| Representation   | Space    | Add Edge | Find if Edge Exists | Iterate over Adj. Vertices |
+| ---------------- | -------- | -------- | ------------------- | -------------------------- |
+| Adjacency matrix | $$V^2$$  | 1        | 1                   | V                          |
+| Adjacency Lists  | E+V      | 1        | `degree(v)`         | `degree(v)`                |
 
 * The space requirement is $$\Theta(|V|^2)$$ 
-* The time complexity for listing all vertices adjacent to node `u` is $$\Theta(|V|)$$, which is how long it takes to check one row of the adjacency matrix. _This is asking "what is adjacent to this node, not all nodes\)._
+* The time complexity for listing all vertices adjacent to node `u` is $$\Theta(|V|)$$, which is how long it takes to check one row of the adjacency matrix. _This is asking "what is adjacent to this node, not all nodes)._
 * The running time to determine if two nodes are directly connected is $$\Theta(1).$$ You can just check the adjacency list.
 
 #### Real-World Differences
@@ -138,21 +138,21 @@ $$
 ## Adjacency Lists
 
 * The size of the array `adj[]` is the number of nodes on the graphs.
-* Each node \# points to it's outgoing neighbors.
+* Each node # points to it's outgoing neighbors.
 
-![An Adjacency List Representation of the Graph](../../../.gitbook/assets/image%20%2875%29.png)
+![An Adjacency List Representation of the Graph](<../../../.gitbook/assets/image (75).png>)
 
 Adjacency lists maintain a vertex-indexed array of lists. 
 
 ## Undirected Graph API
 
-| Method | Description |
-| :--- | :--- |
-| `Graph(int V)` | Constructs an empty graph with `V` nodes on the graph. |
-| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. We specify two nodes. |
-| `Iterable adj(int v)` | Returns v's neighbors: a list of nodes adjacent to the specified nodes.  |
-| `int V()` | Return the number of vertices |
-| `int E()` | Return the number of edges. |
+| Method                       | Description                                                              |
+| ---------------------------- | ------------------------------------------------------------------------ |
+| `Graph(int V)`               | Constructs an empty graph with `V` nodes on the graph.                   |
+| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. We specify two nodes.      |
+| `Iterable adj(int v)`        | Returns v's neighbors: a list of nodes adjacent to the specified nodes.  |
+| `int V()`                    | Return the number of vertices                                            |
+| `int E()`                    | Return the number of edges.                                              |
 
 
 
@@ -195,15 +195,15 @@ What is the iterator? Line 20?  What is it iterating through? is v's neighbor se
 
 Directed graphs store the outgoing edges in their adjacency list.
 
-![](../../../.gitbook/assets/image%20%2879%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (79) (1).png>)
 
 ### Directed Graphs API
 
-![](../../../.gitbook/assets/image%20%2877%29.png)
+![](<../../../.gitbook/assets/image (77).png>)
 
 ### Directed Graphs Implementation
 
-![](../../../.gitbook/assets/image%20%2876%29.png)
+![](<../../../.gitbook/assets/image (76).png>)
 
 ## Importing From a File
 
@@ -211,19 +211,18 @@ Directed graphs store the outgoing edges in their adjacency list.
 Go through this later to see if I understand it.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%2878%29.png)
+![](<../../../.gitbook/assets/image (78).png>)
 
 ## Summary
 
-> Q: Can you find all nodes/edges in an unknown network? ● Q: Find a shortest path \(\# of hops\) from u to v? ● Q: Topological sort: Given a directed acyclic graph \(DAG\), can you find a linear ordering of the vertices such that if \(u, v\) is an edge then u precedes v? − DAG indicates precedence among events: Vertices are events, edge uv means u has precedence over v − Tasks that have to be done before one eats breakfast: ● Get glass, pour juice, get bowl, pour cereal/milk, get spoon, eat ● Brute force searching in a graph for all applications above 18
+> Q: Can you find all nodes/edges in an unknown network? ● Q: Find a shortest path (# of hops) from u to v? ● Q: Topological sort: Given a directed acyclic graph (DAG), can you find a linear ordering of the vertices such that if (u, v) is an edge then u precedes v? − DAG indicates precedence among events: Vertices are events, edge uv means u has precedence over v − Tasks that have to be done before one eats breakfast: ● Get glass, pour juice, get bowl, pour cereal/milk, get spoon, eat ● Brute force searching in a graph for all applications above 18
 >
-> Breadth-first search: Go level by level in the graph − Applications of BFS: ● Crawling a network \(finding all nodes/edges on a graph\) ● Finding the shortest path \(\# of hops\) from a source to a destination ● Depth-first search: Go as deep as you can, then backtrack − Applications of DFS: ● Topological sort ● Finding strongly connected components of a graph ● Both take Θ\(\|V\|+\|E\|\) time − where \|V\| is the number of vertices and \|E\| is the number of edges
+> Breadth-first search: Go level by level in the graph − Applications of BFS: ● Crawling a network (finding all nodes/edges on a graph) ● Finding the shortest path (# of hops) from a source to a destination ● Depth-first search: Go as deep as you can, then backtrack − Applications of DFS: ● Topological sort ● Finding strongly connected components of a graph ● Both take Θ(|V|+|E|) time − where |V| is the number of vertices and |E| is the number of edges
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
-| CPS 450 Class | Structure | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
-| Introduction to Algorithms | Adjacency Matrix | Thomas e.t. al. |
-| Graph | None, but see quizzes. | Visualgo |
-
+| Title                      | Content Used           | Author                                                                                          |
+| -------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------- |
+| CPS 450 Class              | Structure              | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
+| Introduction to Algorithms | Adjacency Matrix       | Thomas e.t. al.                                                                                 |
+| Graph                      | None, but see quizzes. | Visualgo                                                                                        |

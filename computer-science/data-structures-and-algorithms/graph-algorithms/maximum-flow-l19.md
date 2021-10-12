@@ -1,89 +1,33 @@
-# Maximum Flow \(L19\)
+# Maximum Flow (L19)
 
 ## Flow Network Terminology
 
-![](../../../.gitbook/assets/image%20%2891%29.png)
+![](<../../../.gitbook/assets/image (91).png>)
 
 ### Definition
 
-**Notation:** Flow/Capacity
+**Notation: **Flow/Capacity
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Term</th>
-      <th style="text-align:left">Definition</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">G</td>
-      <td style="text-align:left">Graph is directed.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Edge</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Each <em><b>edge </b></em> has a <em><b>capacity</b></em><b> </b> 
-          </li>
-          <li>If <em>edge<b> </b></em> 
-          </li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Reverse Edges</td>
-      <td style="text-align:left">If <em>edge</em> 
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Source Vertex <em>(s)</em>
-      </td>
-      <td style="text-align:left">Where the flow comes from.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Sink Vertex <em>(t)</em>
-      </td>
-      <td style="text-align:left">Where all the flow points to; no outgoing edges.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vertex <em>(v)</em>
-      </td>
-      <td style="text-align:left">Each vertex lies on a path from the source to the sink.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Capacity Constraint</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Flow Conservation</td>
-      <td style="text-align:left">
-        <p></p>
-        <p>The flow going into all the edges is the same going out of all the edges.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Flow</td>
-      <td style="text-align:left">
-        <p>The total amount currently going out of the source node - flow going into
-          the source node (usually none).</p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+| Term                | Definition                                                                                                                                                                                                                                                                                          |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| G                   | Graph $$G=(V,E)$$ is directed.                                                                                                                                                                                                                                                                      |
+| Edge                | <ol><li>Each <em><strong>edge </strong></em><span class="math">(u,v)</span> has a <em><strong>capacity</strong></em><strong> </strong><span class="math">c(u,v)  \geq 0 </span> </li><li>If <em>edge<strong> </strong></em><span class="math">(u,v) \notin E \implies c(u,v) = 0</span>  </li></ol> |
+| Reverse Edges       | If _edge_ $$(u,v) \in E \implies \texttt{the reverse edge } (v,u) \notin E$$                                                                                                                                                                                                                        |
+| Source Vertex _(s)_ | Where the flow comes from.                                                                                                                                                                                                                                                                          |
+| Sink Vertex _(t)_   | Where all the flow points to; no outgoing edges.                                                                                                                                                                                                                                                    |
+| Vertex _(v)_        | Each vertex lies on a path from the source to the sink.                                                                                                                                                                                                                                             |
+| Capacity Constraint | $$\forall (u,v) \in V \implies 0 \leq f(u,v) \leq c(u,v)$$                                                                                                                                                                                                                                          |
+| Flow Conservation   | <p><span class="math">\forall (u\in V) - \{s, t\} \implies \sum_{v \in V}^{} f(u,v) = \sum_{v \in V} f(u,v) </span> </p><p>The flow going into all the edges is the same going out of all the edges.</p>                                                                                            |
+| Flow                | <p>The total amount currently going out of the source node - flow going into the source node (usually none).</p><p><span class="math">\sum_{v \in V} f(s,v) - \sum f(v,s)</span> </p>                                                                                                               |
+|                     |                                                                                                                                                                                                                                                                                                     |
 
 ## Ford-Fulkerson Method
 
 * Applications: Maximize data flowing through a network, utilizing all possible paths from source to destination.
 * _Augmenting Path_: We're increasing flow in the network.
-* _Residual Network:_ The leftovers.
+* _Residual Network: _The leftovers.
 
-```text
+```
 Iniialize flow f to all 0's:
 while (there is an augmenting path p in residual network Gf):
     augment flow f along p
@@ -98,7 +42,5 @@ It's an entirely new graph, but we're defining all the nodes and edges by how mu
 
 $$G_f = (V, E_f)$$ describes a residual network. The edges with residual capacities, $$E_f$$ describe how we can change the _flow_ on edges of $$G=(V,E)$$ 
 
-If an edge _\(u, v\)_ in _G_ can admit additional flow, we place the edge into $$G_f$$ with a _residual capacity_ $$c_f (u,v) = c(u, v) - f(u, v)$$ . Edges where$$c_f (u, v) = 0 \implies c_f(u, v) \notin G_f$$ 
-
-
+If an edge _(u, v)_ in _G_ can admit additional flow, we place the edge into $$G_f$$ with a _residual capacity _$$c_f (u,v) = c(u, v) - f(u, v)$$ . Edges where$$c_f (u, v) = 0 \implies c_f(u, v) \notin G_f$$ 
 

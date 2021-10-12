@@ -4,7 +4,7 @@
 
 #### Multiply a Vector by a Scalar
 
-We know how to multiply a vector by a scalar \(scalar = number\). Multiply each component.
+We know how to multiply a vector by a scalar (scalar = number). Multiply each component.
 
 $$
 k \overrightarrow{v} = k\begin{bmatrix}
@@ -32,7 +32,7 @@ $$
 
 We can write a linear combination in a slightly more compact form:
 
-![](../../.gitbook/assets/image%20%28530%29.png)
+![](<../../.gitbook/assets/image (530).png>)
 
 The key equation for linear algebra is:
 
@@ -81,13 +81,13 @@ $$|cos(\theta)| = \frac{\vec{v} \cdot \vec{w}|}{||\vec{v}|| \ast ||\vec{w}||} \l
 
 ### Triangle Inequality
 
-\*\*\*\*$$||\vec{v} + \vec{w}|| \leq ||\vec{v}|| + ||\vec{w}||$$ ****
+****$$||\vec{v} + \vec{w}|| \leq ||\vec{v}|| + ||\vec{w}||$$** **
 
 This also means if we square both sides, then if we dot it, we can simplify it like we'd expand two binomials.
 
 > Here is his proof:
 >
-> $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$
+> $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$ 
 
 We next went over some cool stuff about column space with the following lab:
 
@@ -101,7 +101,7 @@ We next went over some cool stuff about column space with the following lab:
 
 #### Finding Angle Between Vectors
 
-![](../../.gitbook/assets/image%20%28536%29.png)
+![](<../../.gitbook/assets/image (536).png>)
 
 We solved this by using the formula:
 
@@ -109,9 +109,9 @@ $$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac
 
 #### Find Two Independent Vectors in the Plane
 
-![](../../.gitbook/assets/image%20%28540%29.png)
+![](<../../.gitbook/assets/image (540).png>)
 
-Here, we basically ran out of time. But we plugged things in and got the answers \[4,1,0\] and \[3,0,3\]
+Here, we basically ran out of time. But we plugged things in and got the answers \[4,1,0] and \[3,0,3]
 
 ## Miscellaneous
 
@@ -127,9 +127,7 @@ $$
 
 You're probably more familiar with the formula below:
 
-![](../../.gitbook/assets/image%20%28564%29.png)
-
-
+![](<../../.gitbook/assets/image (564).png>)
 
 
 

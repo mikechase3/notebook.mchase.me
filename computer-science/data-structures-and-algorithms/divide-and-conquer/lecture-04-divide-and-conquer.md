@@ -13,10 +13,10 @@ description: >-
 
 ## General Technique
 
-1. **Divide** the problem into sub-problems.
+1. **Divide **the problem into sub-problems.
 2. **Conquer** sub-problems by _recursively_ solving them.
 3. Solve the **base case** when problems are small enough to solve by brute force.
-4. **Combine** solutions to sub-problems to build a solution to the original problem.
+4. **Combine **solutions to sub-problems to build a solution to the original problem.
 
 In more detail:
 
@@ -97,11 +97,11 @@ function merge(leftArray, rightArray, array) {
 
 #### Analyzing the Running Time of Merge Sort
 
-* _\(n/2\)_ is the **split** \(divide\) part of the routine.
-* _2_ is the 2 additional calls that are created.
-* _O\(n\)_ is the merge subroutine.
+* _(n/2)_ is the **split **(divide) part of the routine.
+* _2 _is the 2 additional calls that are created.
+* _O(n)_ is the merge subroutine.
 * Divide & Conquer Increases efficiency.
-  * For Merge Sort, we took an algorithm that is normally O\(N^2\) and made it O\(n\*log\(n\)\).
+  * For Merge Sort, we took an algorithm that is normally O(N^2) and made it O(n\*log(n)).
 
 $$
 T(n) = T(n/2) + T(n/2) + O(n), n>1
@@ -118,7 +118,7 @@ This example is from _Back to Back SWE,_ entitled _Divide and Conquer Methodolog
 
 #### To solve quadratically:
 
-1. There is nC2 ways, or n! ways to connect the points. That's O\(n^2\).
+1. There is nC2 ways, or n! ways to connect the points. That's O(n^2).
 2. Solve by brute force: 2 for loops comparing points.
 
 #### To solve using Divide & Conquer
@@ -127,7 +127,7 @@ This example is from _Back to Back SWE,_ entitled _Divide and Conquer Methodolog
 2. **Split** the first input in half vertically.
    1. Find the closest points in the left half to the line.
    2. Find the closest points in the right half to the line.
-3. **Merge** them in linear time _\(not explained here\)._
+3. **Merge** them in linear time _(not explained here)._
 
 ### Example: Binary Search
 
@@ -153,7 +153,7 @@ public static int help(int[] a, int key, int lo, int hi){
 
 ### Example: Find the Maximum Number Given an Unsorted Array
 
-1. **Split** the array in half \(recursively until it gets really small\).
+1. **Split** the array in half (recursively until it gets really small).
 2. **Compare** each super small number with each other.
 3. **Return** the larger number all the way back up. And compare over and over until you're left with only one solution to the original problem.
 
@@ -201,8 +201,8 @@ public class Main{
 
 ### Example: [Quick Sort](https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313)
 
-* Average is O\(n \* log\(n\)\)
-* Worst case is O\(n^2\).
+* Average is O(n \* log(n))
+* Worst case is O(n^2).
 
 ```java
 class Solution {
@@ -319,18 +319,16 @@ See other problems on her Isidore site.
 
 ## Work Cited
 
-1. [Making sense of merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478), Base CS blog _\(definitions and merge sort implementation\)._
-2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Piecewise Function, Homework Questions\)._
-3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) \(Quicksort video\)
-4. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**\(Chapter 4**_\).
+1. [Making sense of merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478), Base CS blog _(definitions and merge sort implementation)._
+2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Piecewise Function, Homework Questions)._
+3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) (Quicksort video)
+4. _**Textbook: **_Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_).
 
 
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
+| Title         | Content Used                   | Author           |
+| ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-
-
 

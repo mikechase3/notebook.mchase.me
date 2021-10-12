@@ -17,7 +17,7 @@ description: What is good and what is bad?
 
 * **Wisdom:** Allows us to interpret truths.
 * **Courage:** Humans have a natural tendency to feel successful.
-* **Self-Control \(Temperance\)**: Courage is a horse that wants to move forward regardless of hazards. Wisdom holds the reigns.
+* **Self-Control (Temperance)**: Courage is a horse that wants to move forward regardless of hazards. Wisdom holds the reigns.
 
 ## Aristotle
 
@@ -29,16 +29,16 @@ description: What is good and what is bad?
 ### Types of Virtue
 
 * **Intellectual Virtues:** are a result of teaching.
-* **Moral Virtues:** are a result of habit and how we choose to live our lives. \(Habit involves human choice, not being passive\).
+* **Moral Virtues:** are a result of habit and how we choose to live our lives. (Habit involves human choice, not being passive).
 
-### Defining Moral Virtue \(Book 2, Section 6\)
+### Defining Moral Virtue (Book 2, Section 6)
 
 * Airstotle makes this argument very carefully.
-* Aristotle categorizes groups. \(His favorite animal was the cuddlefish\).
+* Aristotle categorizes groups. (His favorite animal was the cuddlefish).
 
-### The Function Argument \(Book 1 Section 7\)
+### The Function Argument (Book 1 Section 7)
 
-* The _good and well_ is though to reside in the function -&gt; man has function.
+* The _good and well_ is though to reside in the function -> man has function.
   * Man eats/breathes and all, but other animals do that.
   * Thinking and reasoning is what make men unique.
 * There remains the active life of the element that has a rational principle.
@@ -48,14 +48,14 @@ description: What is good and what is bad?
 ### Virtue Definition
 
 * Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it.
-* State of character concerned with voice -&gt; your state of mind you cultivated. \(How we choose to be\)
-* Determined by a rational principle -&gt; living things have soles. Our function is thinking.
+* State of character concerned with voice -> your state of mind you cultivated. (How we choose to be)
+* Determined by a rational principle -> living things have soles. Our function is thinking.
 * Phronesis: practical wisdom. It's what someone an "expert in ethics" would determine.
 * Lying in a mean relative to us... for next time.
 
 ### The Golden Mean
 
-![Goldilocks is on a hunt for the &apos;perfect&apos; amount.](../../.gitbook/assets/image%20%28243%29.png)
+![Goldilocks is on a hunt for the 'perfect' amount.](<../../.gitbook/assets/image (243).png>)
 
 > Lying in a mean... relative to us.
 
@@ -67,7 +67,7 @@ description: What is good and what is bad?
 
 #### Insensibility, Temperance, Indulgence
 
-![An advertisement for the prohibition.](../../.gitbook/assets/image%20%28250%29.png)
+![An advertisement for the prohibition.](<../../.gitbook/assets/image (250).png>)
 
 * Insensibility is a deficiency.
 * Temperance is the mean
@@ -106,12 +106,13 @@ description: What is good and what is bad?
 Commands you must follow regardless of your desires. These are moral obligations derived from pure reason.
 {% endhint %}
 
-* Act as though the maxim of your action were to become, through your will, a universal law of nature \(24\).
-* * A _maxim_ is any actionable statement. Like "everyone should not lie."
+* Act as though the maxim of your action were to become, through your will, a universal law of nature (24).
+*
+  * A _maxim_ is any actionable statement. Like "everyone should not lie."
   * It needs to be **universal** 
   * No contradictions are allowed.
 * You must be able to rationally establish that all other rational beings must always do this action as a matter of moral course.
-* Everyone has to follow these because _everyone_ has the ability to be rational \(26\).
+* Everyone has to follow these because _everyone_ has the ability to be rational (26).
   * Except slaves maybe.
 * Do not _use_ people, but respect everyone's dignity even though we're all sort-of using our employers as means for a paycheck and employers using us as a means for profit.
   * We're also treated with respect and freely-choosing individuals.
@@ -122,8 +123,8 @@ Proper, rational application of the categorical imperative will lead us to moral
 
 ### Hedonic Calculus
 
-* **Sensation**: Intensity, Duration, Certainty/Uncertainty \(Obviousness of Sensation\), Propinquity.
-* **Relationship:** Fecundity \(Fruitfulness/Racism\). Purity \(absence of side effects\).
+* **Sensation**: Intensity, Duration, Certainty/Uncertainty (Obviousness of Sensation), Propinquity.
+* **Relationship: **Fecundity (Fruitfulness/Racism). Purity (absence of side effects).
 
 ### The Universalization Principle
 
@@ -147,7 +148,7 @@ Proper, rational application of the categorical imperative will lead us to moral
 
 ## Utilitarianism w/ Bentham & Mill
 
-![](../../.gitbook/assets/image%20%28387%29.png)
+![](<../../.gitbook/assets/image (387).png>)
 
 * Not Egoism: egoism is for ourselves.
 * We should always act to produce the greatest good for the greatest number of people.
@@ -161,9 +162,8 @@ Proper, rational application of the categorical imperative will lead us to moral
 
 ### Act Utilitarianism
 
-![](../../.gitbook/assets/image%20%28385%29.png)
+![](<../../.gitbook/assets/image (385).png>)
 
 ### Rule Utilitarianism
 
-![](../../.gitbook/assets/image%20%28384%29.png)
-
+![](<../../.gitbook/assets/image (384).png>)

@@ -4,7 +4,7 @@
 
 ### FIFO List
 
-![](../../.gitbook/assets/image%20%28237%29.png)
+![](<../../.gitbook/assets/image (237).png>)
 
 We'll want to implement a Python list.
 
@@ -54,37 +54,37 @@ The internet is a massive network of networks. They are loosely hirearchical.
 
 ## Protocols
 
-![Protocols are standards of doing business.](../../.gitbook/assets/image%20%28236%29.png)
+![Protocols are standards of doing business.](<../../.gitbook/assets/image (236).png>)
 
 Protocols define format, order of messages sent and received among network entities, and actions taken on those message transmission like receipt.
 
 ## Network Structure
 
-![Access Networks are connected via hierarchical structures. ](../../.gitbook/assets/image%20%28246%29.png)
+![Access Networks are connected via hierarchical structures. ](<../../.gitbook/assets/image (246).png>)
 
-Access networks are connected to regional networks \(ie Dayton\) which are connected to global networks run by ISPs.
+Access networks are connected to regional networks (ie Dayton) which are connected to global networks run by ISPs.
 
-* A **network edge** means that the the device is not in the center \(like some router or ISP\)
-* **Hosts:** clients and servers often in data centers
+* A **network edge** means that the the device is not in the center (like some router or ISP)
+* **Hosts: **clients and servers often in data centers
 * **Access Networks** connect the client servers to the internet
   * Physical media
   * Wired, wireless communication links.
   * We have so many parts of the local area network.
 
-![](../../.gitbook/assets/image%20%28238%29.png)
+![](<../../.gitbook/assets/image (238).png>)
 
 
 
 ## Access Networks 
 
-### Digital Subscriber Lines \(DSL\)
+### Digital Subscriber Lines (DSL)
 
 * 24MBps downstream
-* ~2MBps upstream.
+* \~2MBps upstream.
 
 ### Cable Networks
 
-![](../../.gitbook/assets/image%20%28245%29.png)
+![](<../../.gitbook/assets/image (245).png>)
 
 ### Hybrid Fiber Coax
 
@@ -93,7 +93,7 @@ Access networks are connected to regional networks \(ie Dayton\) which are conne
 
 ### Enterprise Networks
 
-![](../../.gitbook/assets/image%20%28242%29.png)
+![](<../../.gitbook/assets/image (242).png>)
 
 * Institutional link to the ISP
 
@@ -103,26 +103,26 @@ Access networks are connected to regional networks \(ie Dayton\) which are conne
 
 ## Packet Transmission Delay
 
-* \(L bits\) divided by R bits/second.
+* (L bits) divided by R bits/second.
 
 ## The Network Core
 
 * Routing algorithms try to find the shortest path from the source to the destination
 
-![](../../.gitbook/assets/image%20%28244%29.png)
+![](<../../.gitbook/assets/image (244).png>)
 
 ### Circuit Switching
 
-![](../../.gitbook/assets/image%20%28240%29.png)
+![](<../../.gitbook/assets/image (240).png>)
 
 * Commonly used in traditional telephone networks
 * End to end resources are reserved for the call between the source & destination
 
-### Frequency Division Multiplexing \(FDM\) vs Time Division Multiplexing \(TDM\)
+### Frequency Division Multiplexing (FDM) vs Time Division Multiplexing (TDM)
 
 
 
-![](../../.gitbook/assets/image%20%28248%29.png)
+![](<../../.gitbook/assets/image (248).png>)
 
 {% hint style="danger" %}
 What's the difference?
@@ -134,7 +134,7 @@ What's the difference?
 
 * We divide messages into packets.
 
-![](../../.gitbook/assets/image%20%28249%29.png)
+![](<../../.gitbook/assets/image (249).png>)
 
 * **Transmission Delay**: 
 * **Store and forward**: 
@@ -145,7 +145,7 @@ What's the difference?
 What does the math, L, and R mean? 
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28235%29.png)
+![](<../../.gitbook/assets/image (235).png>)
 
 ## Team Quiz
 
@@ -168,4 +168,3 @@ What does the math, L, and R mean?
 ## Works Cited
 
 [Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
-

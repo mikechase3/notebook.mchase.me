@@ -1,6 +1,6 @@
 # Chapter 06: Malicious Software
 
-## 6.1: Types of Malicious Software \(Malware\)
+## 6.1: Types of Malicious Software (Malware)
 
 ### Classifications
 
@@ -8,10 +8,10 @@ Malware is classified into a couple of broad categories.
 
 1. How it spreads/propagates
 2. The actions or payloads it performs when the target is reached.
-3. Those needing a host program \(viruses & parasitic code\)
+3. Those needing a host program (viruses & parasitic code)
 4. Those that are independent, self-contained programs like worms, trojans, and bots.
-5. Malware that doesn't replicate \(trojans and spam emails\)
-6. Malware that doesn't replicate \(like viruses and worms\).
+5. Malware that doesn't replicate (trojans and spam emails)
+6. Malware that doesn't replicate (like viruses and worms).
 
 ### Propagation Mechanisms
 
@@ -30,9 +30,9 @@ Payload actions are performed by malware once it reaches a target.
 
 ### Terminology
 
-![Source: Brown and Stallings. Security Principles and Practices.](../../.gitbook/assets/image%20%28558%29.png)
+![Source: Brown and Stallings. Security Principles and Practices.](<../../.gitbook/assets/image (558).png>)
 
-![](../../.gitbook/assets/image%20%28554%29.png)
+![](<../../.gitbook/assets/image (554).png>)
 
 ### Attack Kits
 
@@ -59,18 +59,18 @@ There are a lot of different reasons why people attack systems.
 * Organizations that sell their services
 * Politically motivated
 
-## 6.2: Advanced Persistent Threats \(APTs\)
+## 6.2: Advanced Persistent Threats (APTs)
 
 ### Definition
 
-* Well resourced, persistent application of a wide variety of intrusion technologies and malware to selected targets \(usually business/political\).
+* Well resourced, persistent application of a wide variety of intrusion technologies and malware to selected targets (usually business/political).
 * Typically attributed to state-sponsored organizations and criminal enterprises.
 * They differ from other types of attack by their careful target selection and stealthy intrusion efforts over extended periods.
-* **Examples:** High-profile attacks include Aurora, RSA, APT1, and Stuxnet.
+* **Examples: **High-profile attacks include Aurora, RSA, APT1, and Stuxnet.
 
 ### APT Characteristics
 
-![Brown and Stallings](../../.gitbook/assets/image%20%28560%29.png)
+![Brown and Stallings](<../../.gitbook/assets/image (560).png>)
 
 ### APT Attacks
 
@@ -84,24 +84,24 @@ Viruses goes through its propagation and tries to spread to any number of other 
 
 ### Viruses Components
 
-| Term | Description |
-| :--- | :--- |
-| Infection Mechanism | How it spreads |
-| Trigger | Event that determines how it gets activated \(are we on a centrifuge?\) |
-| Payload | What the virus actually does \(ie slow centrifuge\) |
+| Term                | Description                                                           |
+| ------------------- | --------------------------------------------------------------------- |
+| Infection Mechanism | How it spreads                                                        |
+| Trigger             | Event that determines how it gets activated (are we on a centrifuge?) |
+| Payload             | What the virus actually does (ie slow centrifuge)                     |
 
 ### Virus Phases
 
-| Type | Description |
-| :--- | :--- |
-| Dormant Phase | It's there, but it's waiting for the triggering conditions to be true before its activated. |
-| Triggering Phase | The virus is activated in some way that the virus is able to observe it. |
-| Propagation Phase | The virus will copy itself. |
-| Execution | The function is executed. |
+| Type              | Description                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| Dormant Phase     | It's there, but it's waiting for the triggering conditions to be true before its activated. |
+| Triggering Phase  | The virus is activated in some way that the virus is able to observe it.                    |
+| Propagation Phase | The virus will copy itself.                                                                 |
+| Execution         | The function is executed.                                                                   |
 
 ### Virus Structure
 
-![Source: Brown Stallings.](../../.gitbook/assets/image%20%28557%29.png)
+![Source: Brown Stallings.](<../../.gitbook/assets/image (557).png>)
 
 #### More on Compression Virus
 
@@ -111,19 +111,19 @@ A compression virus inserts itself such that the virus size doesn't change.
 
 ### Virus Classifications
 
-![](../../.gitbook/assets/image%20%28553%29.png)
+![](<../../.gitbook/assets/image (553).png>)
 
-![](../../.gitbook/assets/image%20%28556%29.png)
+![](<../../.gitbook/assets/image (556).png>)
 
-![](../../.gitbook/assets/image%20%28555%29.png)
+![](<../../.gitbook/assets/image (555).png>)
 
 ### Macros and Scripting
 
-![](../../.gitbook/assets/image%20%28559%29.png)
+![](<../../.gitbook/assets/image (559).png>)
 
 ## 6.4: Worms
 
-![](../../.gitbook/assets/image%20%28561%29.png)
+![](<../../.gitbook/assets/image (561).png>)
 
 ### Worm Target Discovery: Scanning Strategies
 
@@ -131,14 +131,14 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 * **Random**: a very noisy attack which will generate high volumes of internet traffic. 
 * **Hit-List**: You know where you're trying to go. You have a list of particular machines you're interested in or know that you have an exploit for this. Once a machine is affected, it is assigned a portion of that list to work on. It results in a short scanning period and is a lot more efficient.
-* **Topological:** This uses information on the affected machine to decide where it's going to attack next.
+* **Topological: **This uses information on the affected machine to decide where it's going to attack next.
 * **Local Subnet**: You have this one subnet where you trust everyone by default. Since everyone is trusted within this subnet, I'm going to start looking for machines that are already in this subnet.
 
 ### Worm Propagation Model
 
-![From &quot;Computer Security Principles and Practices&quot;](../../.gitbook/assets/image%20%28577%29.png)
+![From "Computer Security Principles and Practices"](<../../.gitbook/assets/image (577).png>)
 
-### The Morris Worm \(p.219\)
+### The Morris Worm (p.219)
 
 * Robert Morris wrote it in 1988 and was designed to work on Linux systems.
 * Attempted to crack the local password file on one system and use that password on other systems.
@@ -149,39 +149,39 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 ### Recent Worms
 
-![Source: Rusty Baldwin&apos;s Slides](../../.gitbook/assets/image%20%28578%29.png)
+![Source: Rusty Baldwin's Slides](<../../.gitbook/assets/image (578).png>)
 
 * **Miria**: Interesting because it specifically targeted unsecured IoT devices. 600K infected devices induced a DDoS attack of 901 Gbps. A typical DDosS attack was 10-20Gbps.
 
-### Worm Tech \(p.222\)
+### Worm Tech (p.222)
 
-* **Metamorphic:** It's going to change itself slightly to avoid detection
-* **Polymorphic:** Will change completely.
-* **Ultrafast spreading:** it'll be slow so it's mostly undetected.
+* **Metamorphic: **It's going to change itself slightly to avoid detection
+* **Polymorphic: **Will change completely.
+* **Ultrafast spreading: **it'll be slow so it's mostly undetected.
 * Multiplatform
 * Multiexploit
 
-### Mobile Code \(p.222\)
+### Mobile Code (p.222)
 
 These aren't mobile phones
 
 * They can be shipped unchanged to a variety of platforms.
 * These are installed and not every computer had the right drivers. So websites would send up some box and say _in order to watch this, you need to download this driver_ which was sometimes a virus.
-* Java applets, ActiveX \(horrible in regard to security\), JavaScript, and VBScript \(visual basic\).
+* Java applets, ActiveX (horrible in regard to security), JavaScript, and VBScript (visual basic).
 
 ### Mobile Phone Worms
 
 * The target is the smartphone.
 
-### Drive By Downloads \(223\)
+### Drive By Downloads (223)
 
 * You download a virus just by visiting a page without even having to do anything.
 * **Fast-Flux Techniques**: How often the server its directing you changes its IP address so there's not a static address someone can go to and try to block it. But - this malicious code knows how to detect its current IP address.
-* **Exploits:** Commercial exploit packages in the OS, browser, Java, PDF readers, media players, and other plugins.
-* **Infection:** downloads payloads that will steal/extort money.
-* **Execution:** Malware calls home with sensitive data.
+* **Exploits: **Commercial exploit packages in the OS, browser, Java, PDF readers, media players, and other plugins.
+* **Infection: **downloads payloads that will steal/extort money.
+* **Execution: **Malware calls home with sensitive data.
 
-### Clickjacking \(224\)
+### Clickjacking (224)
 
 * You think you're clicking on a particular button, but the malicious software has somehow obscured the button you think you're clicking and inserts its own button that takes yo to a place to download malicious software.
 * You can be typing your information into an invisible frame.
@@ -189,24 +189,24 @@ These aren't mobile phones
 ## 6.5: Social Engineering
 
 * Tricking users to assist in the compromise of their own systems.
-* **Spam:** unsolicited bulk email, significant carrier of malware, used for phishing attacks.
-* **Trojan Horse:** Idk.
-* **Mobile Phone Trojans:** 
+* **Spam: **unsolicited bulk email, significant carrier of malware, used for phishing attacks.
+* **Trojan Horse: **Idk.
+* **Mobile Phone Trojans: **
 
-## 6.6: Payload System Corruption \(227\)
+## 6.6: Payload System Corruption (227)
 
 * **Chernobyl Virus**: First seen in 1992 which infects executable files and corrupts the entire file system when a trigger date is reached.
 * **Kelz**: On the trigger date, it caused the files on the hard drive to become empty; mass mailing worm infecting Windows 95 systems to XP systems.
 * **Ransomware**: Encrypts the user's data and demands payment in order to access the key needed to recover the information.
-  * PC Cyborg Trojan \(1989\)
-  * Gpcode Trojan \(2006\)
+  * PC Cyborg Trojan (1989)
+  * Gpcode Trojan (2006)
 
-## 6.8: Payload \(231\)
+## 6.8: Payload (231)
 
 * Takes over another internet attached computer and uses that computer to launch or manage attacks.
 * **Botnet**: a collection of bots capable of acting in a coordinated manner.
 
-### Remote Control Facility \(RCF\)
+### Remote Control Facility (RCF)
 
 * RCF is a means of implementing the remote control facility 
 * It issues all the commands for the bots.
@@ -224,7 +224,7 @@ These aren't mobile phones
 * **Spear-Phishing**: is where recipients are carefully researched by the attacker.
 * They are only sending messages to you. 
 
-## 6.9: Payloads, Stealthing, Backdoors, Rootkits \(233\).
+## 6.9: Payloads, Stealthing, Backdoors, Rootkits (233).
 
 {% hint style="warning" %}
 Incomplete
@@ -247,14 +247,14 @@ Incomplete
 ### System Call: Table Modification by Rootkit
 
 {% hint style="warning" %}
-Dr. Baldwin - I hear the words coming out of you mouth, but I don't understand :\(
+Dr. Baldwin - I hear the words coming out of you mouth, but I don't understand :(
 {% endhint %}
 
 This is an attack where you change the contents of memory and update something in the system call table.
 
 
 
-![](../../.gitbook/assets/image%20%28576%29.png)
+![](<../../.gitbook/assets/image (576).png>)
 
 * On a linux system, if you want to execute another process, it's called _forking_ a process. It executes another process for you.
 
@@ -267,7 +267,7 @@ This is an attack where you change the contents of memory and update something i
 * **Third generation: activity traps**: memory-resident programs identifying malware by actions rather than its structure in an infected program
 * **Forth generation: full-featured protection**: packages consisting of a variety of anti=virus techniques used in conjunction including scanning and activity trap components and access control capability.
 
-### Generic Decryption \(GD\)
+### Generic Decryption (GD)
 
 * It's essentially a **mini virtual machine**. Most malware will encrypt itself with a key such that a signature or heuristic scanner cannot detect it because it doesn't do anything until it's decrypted.
 * GD tries to take software it hasn't otherwise verified and let it execute in a sandbox and wait to decrypt itself before it lets itself out on the system.
@@ -283,9 +283,9 @@ This is an attack where you change the contents of memory and update something i
 * As software has been more sophisticated, the software has been moving to the _host_ level, not the server itself.
 * This integrates with the OS of the host itself and monitors behavior in real-time.
 * Let's monitor it and stop it before it does any damage. 
-* **Limitations**: because malicious code must run on the target machine before all its behaviors can be identified, it has to cause harm before the _cat_ gets smarter. \(Cat being blocking\).
+* **Limitations**: because malicious code must run on the target machine before all its behaviors can be identified, it has to cause harm before the _cat_ gets smarter. (Cat being blocking).
 
-### \(Network\) Perimeter Scanning
+### (Network) Perimeter Scanning
 
 #### Ingress Monitor
 
@@ -298,7 +298,9 @@ This is an attack where you change the contents of memory and update something i
 
 ## 6.11: Summary/Homework
 
-{% embed url="https://quizlet.com/613351992/cyber-security-princikples-and-practice-chapter-6-malicious-software-flash-cards/" caption="Flashcards Available Here" %}
+{% embed url="https://quizlet.com/613351992/cyber-security-princikples-and-practice-chapter-6-malicious-software-flash-cards/" %}
+Flashcards Available Here
+{% endembed %}
 
 6.1 What are three broad mechanisms that malware can use to propagate? 
 
@@ -307,7 +309,8 @@ This is an attack where you change the contents of memory and update something i
 6.2 What are four broad categories of payloads that malware may carry? 
 
 * DoS attacks
-* 
+*
+
 6.3 What characteristics of an advanced persistent threat give it that name? 
 
 6.4 What are typical phases of operation of a virus or worm? 
@@ -358,19 +361,16 @@ This is an attack where you change the contents of memory and update something i
 6. What is the difference between a worm and a zombie?
 7. What does “fingerprinting” mean for network worms?
 8. What is a “drive-by-download” and how does it differ from a worm?
-9. How does a Trojan enable malware to propagate? How common are Trojans on
+9.  How does a Trojan enable malware to propagate? How common are Trojans on
 
-   computer systems? Or on mobile platforms?
-
+    computer systems? Or on mobile platforms?
 10. What is a “logic bomb”?
 11. What is the difference between a backdoor, a bot, a keylogger, spyware, and a rootkit?
 
     Can they all be present in the same malware?
-
 12. What is the difference between a “phishing” attack and a “spear-phishing” attack,
 
     particularly in terms of who the target may be?
-
 13. What is a clickjacking vulnerability?
 14. List a few characteristics to classify rootkits.
 15. Briefly describe the elements of a GD scanner.
@@ -380,10 +380,9 @@ This is an attack where you change the contents of memory and update something i
 
 ## Works Cited
 
-* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014.
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.
 * Dr. Rusty Baldwin's Slides: Malware.
 
 ## Further Reading
 
 * **Dark Reading**: what is happening in the cybersecurity side?
-

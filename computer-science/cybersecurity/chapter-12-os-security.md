@@ -4,10 +4,10 @@
 
 * The **SMM** stands for the System Management Module. Before the operating system takes over and gets booted up, you can put an intel chip into a different configuration and have extremely low-level access to the chip before the operating system boots up.
 
-![](../../.gitbook/assets/image%20%28622%29.png)
+![](<../../.gitbook/assets/image (622).png>)
 
 * The **TPM** makes sure that the firmware of BIOS/SMM doesn't change. 
-* **Physical hardware:** has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
+* **Physical hardware: **has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
   * Also... who is building these circuits?
   * Can China build it in a way that compromises US systems?
   * Can they have back-doors and listen to US communications?
@@ -32,7 +32,7 @@
 * Who is going to be responsible for the responsibility of this system?
 * Identify all appropriate personnel and training to install/manage the system.
 
-![Source: Dr. Baldwin&apos;s slides.](../../.gitbook/assets/image%20%28621%29.png)
+![Source: Dr. Baldwin's slides.](<../../.gitbook/assets/image (621).png>)
 
 ## 12.3: Operating System Hardening
 
@@ -46,20 +46,20 @@
 3. Install and configure security controls
    1. Anti-virus
    2. Host-based firewalls
-   3. Intrusion detection systems \(IDS\)
+   3. Intrusion detection systems (IDS)
 4. Test the security of the basic OS to ensure that the steps are taken adequately address its security needs.
 
 {% hint style="info" %}
-We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups/users/permissions/resource controls.
+We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/users/permissions/resource controls.
 {% endhint %}
 
 ### OS Installation: Initial setup and patching.
 
-![](../../.gitbook/assets/image%20%28620%29.png)
+![](<../../.gitbook/assets/image (620).png>)
 
 1. Be disconnected from the network.
 2. Install minimum necessary for the desired system.
-3. Password protect the overall boot process \(like secure your bios\)
+3. Password protect the overall boot process (like secure your bios)
    1. Don't boot from DVD/USB
 4. Secure integrity/source of device drivers.
 5. Keep the system up to date
@@ -68,14 +68,14 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 ### Remove Unnecessary Services/Apps/Protocols
 
-| Action | Why? |
-| :--- | :--- |
-| Don't use defaults | Default configurations maximize ease of use rather than security. |
-| Restrict Privileges | Only give elevated privileges to those when they are needed to perform the task. |
-| Remove Default Accounts | Windows/Linux has a guest account. Don't use default usernames/passwords and disable those accounts. |
-| Configure Resource Controls | Set permissions so randos can't access things they shouldn't be able to. |
-| Install Additional Security Controls | Anti-virus software. Host-based firewalls. |
-| Test the system security | There are specific programs that do this automatically. It'll probe your system in known ways |
+| Action                               | Why?                                                                                                 |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Don't use defaults                   | Default configurations maximize ease of use rather than security.                                    |
+| Restrict Privileges                  | Only give elevated privileges to those when they are needed to perform the task.                     |
+| Remove Default Accounts              | Windows/Linux has a guest account. Don't use default usernames/passwords and disable those accounts. |
+| Configure Resource Controls          | Set permissions so randos can't access things they shouldn't be able to.                             |
+| Install Additional Security Controls | Anti-virus software. Host-based firewalls.                                                           |
+| Test the system security             | There are specific programs that do this automatically. It'll probe your system in known ways        |
 
 * Default configurations are intended to maximize ease of use than security.
 
@@ -85,7 +85,7 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 ### Encryption Technology
 
-![Dr. Baldwin&apos;s Slides](../../.gitbook/assets/image%20%28619%29.png)
+![Dr. Baldwin's Slides](<../../.gitbook/assets/image (619).png>)
 
 * Encrypt your file system.
 * Encrypt SSH keys.
@@ -110,7 +110,9 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 * **Backup**: making copies at regular intervals
 * **Archives**: kept for regulatory/legal purposes.
 
-{% embed url="https://en.wikipedia.org/wiki/9\_track\_tape" caption="Mediums are out of date." %}
+{% embed url="https://en.wikipedia.org/wiki/9_track_tape" %}
+Mediums are out of date.
+{% endembed %}
 
 ## 12.6: Linux/Unix Security
 
@@ -133,7 +135,7 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 * Checkout the users list. It'll probably have a bunch of users that don't need to be there.
 * Guides recommend changing the access permissions for critical files and directories.
-* **Local exploit:** a software vulnerability that can be exploited by an attacker to gain elevated privileges.
+* **Local exploit: **a software vulnerability that can be exploited by an attacker to gain elevated privileges.
 * **Remote exploit**: software vulnerability in a network server that could be triggered by a remote attacker.
 
 ### Remote Access Controls
@@ -166,7 +168,7 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 * **Integrity Levels**: the windows system will not let it write any information to higher levels.
 * **Biba Integrity Model**: Biba was a researcher. It basically makes sure that objects with low integrity levels aren't messing with things of high integrity levels.
 
-![Integrity Controls](../../.gitbook/assets/image%20%28626%29.png)
+![Integrity Controls](<../../.gitbook/assets/image (626).png>)
 
 #### Low Privilege Service Accounts
 
@@ -185,7 +187,7 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 * Personal firewall
 * Cryptographic functions
   * AES using BitLocker
-  * Encrypting files/directories using the EFS \(Encrypting File System\) service.
+  * Encrypting files/directories using the EFS (Encrypting File System) service.
 * Microsoft Security Compliance Toolkit
   * Free tool checking for compliance with Microsoft's security recommendations.
 
@@ -197,13 +199,13 @@ We'll be doing \#2 in the project. Remove unnecessary services/apps/ports/groups
 
 ### Virtualization Alternatives
 
-![](../../.gitbook/assets/image%20%28628%29.png)
+![](<../../.gitbook/assets/image (628).png>)
 
 ### Native Virtualization
 
 Native virtualization 
 
-![](../../.gitbook/assets/image%20%28625%29.png)
+![](<../../.gitbook/assets/image (625).png>)
 
 ### Host Virtualization
 
@@ -211,11 +213,11 @@ Whatever you install it on,
 
 
 
-![](../../.gitbook/assets/image%20%28627%29.png)
+![](<../../.gitbook/assets/image (627).png>)
 
 ### Virtualization Security Issues
 
-* **Guest OS Isolation**: the host can only access/use the resources allocated to it \(and nothing more\).
+* **Guest OS Isolation**: the host can only access/use the resources allocated to it (and nothing more).
 * Guest OS monitoring by the hypervisor: this has privileged access to the programs/data in each guest OS.
 * Virtualized environment security: particularly image and snapshot management which attackers may attempt to view/modify.
 
@@ -226,5 +228,4 @@ Whatever you install it on,
 ## Works Cited
 
 * Baldwin, Rusy. _Cyber Security Fundamentals._ Operating System Security. Fall 2021.
-* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014.
-
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.

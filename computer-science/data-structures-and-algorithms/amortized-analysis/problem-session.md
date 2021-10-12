@@ -6,17 +6,17 @@
 
 The correct answer is A.
 
-![](../../../.gitbook/assets/image%20%2818%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
 
 ### 0-1 Knapsack Problem
 
-> Given n items and weight W&gt;0, where item i has integer weight w\[i\] and value b\[i\], what is the running time of the dynamic programming approach for solving the 0-1 knapsack problem?
+> Given n items and weight W>0, where item i has integer weight w\[i] and value b\[i], what is the running time of the dynamic programming approach for solving the 0-1 knapsack problem?
 >
-> It's O\(n\*W\)
+> It's O(n\*W)
 
 ### Sorted Sequence
 
-Given a sorted sequence of keys, where key k\[i\] is searched with probability p\[i\], for i = 0, 1, ... n-1, what is the running time of the dynamic programming approach for finding the optimal binary searchtree with the minimum cost?
+Given a sorted sequence of keys, where key k\[i] is searched with probability p\[i], for i = 0, 1, ... n-1, what is the running time of the dynamic programming approach for finding the optimal binary searchtree with the minimum cost?
 
 * `O(n^3)`
 
@@ -37,7 +37,7 @@ Given a graph of V nodes and E edges, which algorithm Design paradigm is exempli
 Given a graph with V nodes and E edges, which algorithm 
 
 * Brute force approach.
-* We can’t say _divide and conquer_ becuase there is no _conquer_ part of it.
+* We can’t say _divide and conquer_ becuase there is no _conquer _part of it.
 
 ### Kruskal’s Minimum Spanning Tree
 
@@ -47,7 +47,7 @@ Given a graph with V nodes and E edges, which algorithm
 
 ### Dijkstra’s Single Source
 
-* This is a **greedy** approach.
+* This is a **greedy **approach.
 * We talked about this in CPS 350
 
 ### K-th Largest Item
@@ -55,14 +55,14 @@ Given a graph with V nodes and E edges, which algorithm
 * This is a partition algorithm.
 * We partiiton this into two halves.
 * This is a **divide and conquer approach.**
-* We used the masters theorem to find the running time. It is not _O\(n\*log\(n\)\)_.
+* We used the masters theorem to find the running time. It is not _O(n\*log(n))_.
 
 ### Longest Palindromic Substring
 
 Which algorithm design paradigm is exemplified by the longest palindromic substring algorithm we discussed in class?
 
 * Dynamic programming.
-* It’s **O\(n^2\)**
+* It’s **O(n^2)**
 
 ## Practice Problems
 
@@ -72,22 +72,22 @@ See the PDF Dr. Yao attached on Isidore
 
 ### First Problem
 
-> If the set of stack operations included a multipush operation, which push k items onto the stack would the O\(1\) bound on the amoritized cost of stack operation continue to hold? Explain
+> If the set of stack operations included a multipush operation, which push k items onto the stack would the O(1) bound on the amoritized cost of stack operation continue to hold? Explain
 
-Push, pop, multipop\(k\), multipush\(k\)
+Push, pop, multipop(k), multipush(k)
 
-> We will consider n operations. We will figure out the cost for n operations. T\(n\)/n implies the amortized cost or the cost per operation.
+> We will consider n operations. We will figure out the cost for n operations. T(n)/n implies the amortized cost or the cost per operation.
 
-What if all n operations are multipush\(k\)? What is the total cost then?
+What if all n operations are multipush(k)? What is the total cost then?
 
 * We can assume that since each operation takes `O(k)`, we can multiply it by `n` operations, which means tot total cost is `O(n*k)`.
 * Multipop is still `O(1)` because it depends on the number of items we push on the stack.
 
 ### Second Problem
 
-> Suppose we perform a sequence of stack operations on a stack whose size never exceeds k. After every k operations, we make a copy of the entire stack for backuip pusposes. Show that the cost of `n` stack operations, including the copying the stack, is O\(n\) by assigning suitable amoritized costs to the various stack operations.
+> Suppose we perform a sequence of stack operations on a stack whose size never exceeds k. After every k operations, we make a copy of the entire stack for backuip pusposes. Show that the cost of `n` stack operations, including the copying the stack, is O(n) by assigning suitable amoritized costs to the various stack operations.
 
-* It’s O\(n\) for the explanation above.
+* It’s O(n) for the explanation above.
 
 ### Accounting Method
 
@@ -95,7 +95,7 @@ What if all n operations are multipush\(k\)? What is the total cost then?
 I’m so confused.
 {% endhint %}
 
-> Suppose we perform a sequence of stack operations on a stack whose size never exceeds k. After every k operations, we make a copy of the entire stack for backup purposes. Show that the cost of n stack operations, including the copying the stack is O\(n\) by assigning suitable amortized costs to the various stack operations.
+> Suppose we perform a sequence of stack operations on a stack whose size never exceeds k. After every k operations, we make a copy of the entire stack for backup purposes. Show that the cost of n stack operations, including the copying the stack is O(n) by assigning suitable amortized costs to the various stack operations.
 
 #### Step 1: Assign Budget for Operations
 
@@ -113,7 +113,7 @@ After every `k` operations, we will have copy: K operations.
 We will show we have enough budget for `n` operations: after every k operations, we will have copy:
 
 * k operations
-* Push, cost $1, do we have saving here? Save $1? \(She crossedf out $4\)
+* Push, cost $1, do we have saving here? Save $1? (She crossedf out $4)
 * Pop: Cost $1. ~~We can use $4 that we save via push for pop~~ save $1.
 
 > ”But you can see we saved enough money. Our bank balance is never negative.
@@ -126,27 +126,25 @@ We start from an arbitrary budget, but then we revise our budget to make our arg
 
 > Amortized anlysis determines the running time for a sequence of operations. Consider a FIFO queue that is implemented using two stacks:
 >
-> 1. Enqueue\(x\): push x onto stack1
-> 2. dequeue\(\): if stack2 is empty then pop the entire contents of stack1 pushing each element in turn onto stack 2. Now pop from stack2 and return the result.
+> 1. Enqueue(x): push x onto stack1
+> 2. dequeue(): if stack2 is empty then pop the entire contents of stack1 pushing each element in turn onto stack 2. Now pop from stack2 and return the result.
 >
-> Enqueue\(A\), B, C
+> Enqueue(A), B, C
 >
-> dequeue\(\): Return A
+> dequeue(): Return A
 >
-> enqueue\(D\), E, F
+> enqueue(D), E, F
 >
-> dequeue\(\): which tiem? Reutnr B.
+> dequeue(): which tiem? Reutnr B.
 >
-> What is T\(n\), the cost of n operations?
+> What is T(n), the cost of n operations?
 
 {% hint style="warning" %}
 I don’t know what this means.
 {% endhint %}
 
-> Recall stacks three operations: push, pop, and empty. Each having cost 1. Analyze the total cost \(i.e. running time of a sequence of `n` operations on the queue for n&gt;1. Initially, the queue is empty.
+> Recall stacks three operations: push, pop, and empty. Each having cost 1. Analyze the total cost (i.e. running time of a sequence of `n` operations on the queue for n>1. Initially, the queue is empty.
 
-* Our total cost is T\(n\).
+* Our total cost is T(n).
 * You can change your money as long as it’s a fixed number?
-
-
 

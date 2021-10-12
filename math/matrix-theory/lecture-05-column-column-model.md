@@ -29,10 +29,10 @@ $$
 Ask Dr. Arthur when to use each model.
 {% endhint %}
 
-## \[Summary\] Matrix Multiplication
+## \[Summary] Matrix Multiplication
 
 * **Matrixes are Associative**: $$ABC = (AB)C = A(BC)$$ 
-* Matrixes are **not communitive:** $$AB \neq BA$$ , so the order matters.
+* Matrixes are **not communitive: **$$AB \neq BA$$ , so the order matters.
 
 ## Identity Matrixes
 
@@ -50,7 +50,7 @@ $$
 
 ### Ex1
 
-![](../../.gitbook/assets/image%20%28571%29.png)
+![](<../../.gitbook/assets/image (571).png>)
 
 We should really think of this problem as:
 
@@ -61,6 +61,4 @@ $$
 $$
 [-4, -3]  \begin{bmatrix} a & b \\ c & d \end{bmatrix} = -3
 $$
-
-
 

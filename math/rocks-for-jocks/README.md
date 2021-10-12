@@ -2,10 +2,6 @@
 
 
 
-{% embed url="https://www.dropbox.com/s/jfmo26wexiubp8w/TOC.pdf?dl=0" %}
-
-
-
 
 
 ## Identifying Rocks
@@ -17,7 +13,7 @@
 ### Diapheniety
 
 * Can light pass through it?/
-* Is it distorted or cloudy \(translucent\)?
+* Is it distorted or cloudy (translucent)?
 * Is it opaque? Can light not pass through the material?
 
 ### Streak
@@ -52,4 +48,3 @@
 * Magnetic
 * Distinctive taste.
 * Reactions with acids. See if minerals dissolve in it.
-

@@ -8,7 +8,7 @@ description: >-
 
 ## What Really Isn't Quirky & Unique?
 
-{% embed url="https://www.reddit.com/r/AskReddit/comments/3erzoz/what\_do\_people\_think\_makes\_themselves\_quirky\_and/" %}
+{% embed url="https://www.reddit.com/r/AskReddit/comments/3erzoz/what_do_people_think_makes_themselves_quirky_and/" %}
 
 * Saying you're quirky and unique.
 * Talking about fandom/Disney.
@@ -19,4 +19,4 @@ description: >-
 * "I'm just being honest"
   * No you're just being cruel.
 * I'm so "bipolar, OCD, anxiety"
-* 
+*

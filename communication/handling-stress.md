@@ -4,26 +4,26 @@
 
 ### Cycles of Anxiety
 
-![](../.gitbook/assets/image%20%28440%29.png)
+![](<../.gitbook/assets/image (440).png>)
 
 * It often occurs as a cycle.
 * **Avoidance**: It's really effective short-term, but increases in the long-term.
 
 ### Cycles of Depression
 
-![](../.gitbook/assets/image%20%28438%29.png)
+![](<../.gitbook/assets/image (438).png>)
 
 * You'll have cycles of increased and decreased activity.
-* To intervene, engage in _behavioral activation_ and avoid depressed behaviors \(like doing nothing\).
+* To intervene, engage in _behavioral activation_ and avoid depressed behaviors (like doing nothing).
 
 ### The Cognitive Model
 
-![](../.gitbook/assets/image%20%28436%29.png)
+![](<../.gitbook/assets/image (436).png>)
 
 * Situation: I'm walking to class and I smile at them, but they don't acknowledge me.
   * If someone has social anxiety, you might think that there's something wrong with you or think that they hate you.
   * Feelings: anxious, sadness, worthless.
-  * Behavior: seek more assurance from friend, avoid them in social situations altogether \(which ramps up anxiety\).
+  * Behavior: seek more assurance from friend, avoid them in social situations altogether (which ramps up anxiety).
 
 ## Cognitive Behavioral Therapy
 
@@ -31,30 +31,30 @@ Unhelpful thinking patterns
 
 ### Black and White Thinking
 
-![](../.gitbook/assets/image%20%28437%29.png)
+![](<../.gitbook/assets/image (437).png>)
 
-* **Example:** if I'm not perfect, I have failed.
+* **Example: **if I'm not perfect, I have failed.
 * **Problems**: it doesn't leave you space to actually solve the problems. Maybe the professor sucks, but you think you're a failure. 
 
 ### Catastrophizing
 
-* **Definition:** Thinking about the worst-case scenario.
-* **Example:** I need to learn this information and if I don't, my GPA will drop, and then I'll never get my degree, and then I'll be homeless living under a bridge.
+* **Definition: **Thinking about the worst-case scenario.
+* **Example: **I need to learn this information and if I don't, my GPA will drop, and then I'll never get my degree, and then I'll be homeless living under a bridge.
 
 ### Compare and Despair
 
-![](../.gitbook/assets/image%20%28442%29.png)
+![](<../.gitbook/assets/image (442).png>)
 
 * Sometimes it's helpful to compare yourself to other people.
 * Oftentimes, it puts you in a tough spot to have a positive relationship with yourself.
 
 ### Critical Self
 
-![](../.gitbook/assets/image%20%28435%29.png)
+![](<../.gitbook/assets/image (435).png>)
 
 ### Emotional Reasoning
 
-![](../.gitbook/assets/image%20%28441%29.png)
+![](<../.gitbook/assets/image (441).png>)
 
 * When you have real intense emotions.
 * Instead of approaching it rationally.
@@ -68,7 +68,7 @@ Unhelpful thinking patterns
 * **Example**: If someone is very silent with you, you might think you're boring or an idiot.
   * Problem: These assumptions are only one possibility of many.
   * Ask: Do you have enough evidence to support this hypothesis?
-* **Example:** My friend didn't smile at me. They must hate me.
+* **Example: **My friend didn't smile at me. They must hate me.
 
 ### Prediction
 
@@ -77,7 +77,7 @@ Unhelpful thinking patterns
 
 ### Should, Could, Would
 
-![](../.gitbook/assets/image%20%28439%29.png)
+![](<../.gitbook/assets/image (439).png>)
 
 * Should-ofs are not very helpful.
 * Your reactions are just reactions, not necessarily the reality.
@@ -100,7 +100,7 @@ Unhelpful thinking patterns
 
 Triggers are both internal external.
 
-* **Emotions:** Something
+* **Emotions: **Something
 * Mental Images: 
 * Physical State: 
 * Thoughts: 
@@ -129,17 +129,17 @@ Triggers are both internal external.
 
 ### Stress and Anxiety
 
-![](../.gitbook/assets/image%20%28452%29.png)
+![](<../.gitbook/assets/image (452).png>)
 
-![](../.gitbook/assets/image%20%28451%29.png)
+![](<../.gitbook/assets/image (451).png>)
 
-![](../.gitbook/assets/image%20%28453%29.png)
+![](<../.gitbook/assets/image (453).png>)
 
-![](../.gitbook/assets/image%20%28454%29.png)
+![](<../.gitbook/assets/image (454).png>)
 
-![](../.gitbook/assets/image%20%28449%29.png)
+![](<../.gitbook/assets/image (449).png>)
 
-![](../.gitbook/assets/image%20%28455%29.png)
+![](<../.gitbook/assets/image (455).png>)
 
 ### How to Manage This
 
@@ -147,12 +147,11 @@ Triggers are both internal external.
 * Square Breathing
 * Progressive Muscle Relaxation
 
-![](../.gitbook/assets/image%20%28450%29.png)
+![](<../.gitbook/assets/image (450).png>)
 
-![](../.gitbook/assets/image%20%28448%29.png)
+![](<../.gitbook/assets/image (448).png>)
 
 ## Works Cited
 
 * Dr. Jess Williams
-* Google: CBT \(Cognitive Behavioral Therapy\)
-
+* Google: CBT (Cognitive Behavioral Therapy)

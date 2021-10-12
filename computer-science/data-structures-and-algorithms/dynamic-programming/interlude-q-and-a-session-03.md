@@ -152,7 +152,7 @@ View the video at 0:40 for the full solution.
 
 #### Recursive Case:
 
-We can assume that we will always rob the k-th house. If so, we can look at two more houses, find the one that makes the most money `f(k) = MAX(f(k-2) + a[k], f(k-1))` What if we do...?
+We can assume that we will always rob the k-th house. If so, we can look at two more houses, find the one that makes the most money `f(k) = MAX(f(k-2) + a[k], f(k-1)) `What if we do...?
 
 #### Testing A Small Set
 
@@ -175,7 +175,7 @@ When we think backwards and test all the cases, we'll find that we found it!
 
 ### Part 1: Divide & Conquer
 
-* We can solve this in a divide & conquer approach from `O(n)` to `log(n+m).`
+* We can solve this in a divide & conquer approach from `O(n)` to` log(n+m).`
 * Placeholder.
 
 ### Palindrome Problem
@@ -204,13 +204,12 @@ Let `f(i, j)` be the length of the longest palindromic substring if we consider 
 Below is just a regurgitation. I was hungry and thinking about food, but I can work with this later 🌯
 {% endhint %}
 
-* `Max(f(i+1 , j-1) + 2, if s[i] == s[j], len(s[i,j]))` we just need some way to move i and j _\(Ian Cannon & Dr. Yao\)._
+* `Max(f(i+1 , j-1) + 2, if s[i] == s[j], len(s[i,j]))` we just need some way to move i and j _(Ian Cannon & Dr. Yao)._
   * The previous problem, `i` will be plus 1.
   * `j-1` on the other side.
   * Len is the length function.
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Problems & Solutions\)._
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Problems & Solutions)._
 2. Geeks for Geeks: Binary Search
-

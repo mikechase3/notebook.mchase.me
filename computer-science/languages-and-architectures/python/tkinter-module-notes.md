@@ -36,11 +36,13 @@ from your_file import your_function  # Imports the function so you can use it.
 * Print the current time: `datetime.now()`
 * Get the date: `datetime.date()`
 * Get the time: `datetime.time()`
-* Set a date & time: 
+*   Set a date & time: 
 
-  ```text
-  any_variable = datetime(year, month, day[, hour[, minute[, second[, microsecond[,tzinfo]]]]])
-  ```
+    ```
+    any_variable = datetime(year, month, day[, hour[, minute[, second[, microsecond[,tzinfo]]]]])
+    ```
+
+
 
 #### DateTime Arithmetic 
 
@@ -80,7 +82,7 @@ date_string = datetime.strftime(datetime.now(), '%b %d, %Y')
 * `random.randint()` takes 2 numbers as arguments and returns an int between the two.
 * **Purpose**: Perform decimal arithmetic more accurately.
 * **Import**: `from decimal import Decimal`
-* **Usage:** 
+* **Usage: **
 
 ```python
 from decimal import Decimal
@@ -105,11 +107,11 @@ cost_of_transaction = cost_of_gum + cost_of_gumdrop
 
 If all goes to plan, you'll see a plot produced with the dataset.
 
-![](../../../.gitbook/assets/image%20%2867%29.png)
+![](<../../../.gitbook/assets/image (67).png>)
 
 ## Pipenv
 
-{% embed url="https://www.youtube.com/watch?time\_continue=256&v=BVr-6Ki96XM&feature=emb\_title" %}
+{% embed url="https://www.youtube.com/watch?time_continue=256&v=BVr-6Ki96XM&feature=emb_title" %}
 
 * It's really difficult to maintain lots of different versions of lots of different libraries by yourself.
 * Therefore, developers made virtual environments. It's a local environment that defines different versions of python, libraries, and dependencies _specific to one project in a directory_.
@@ -121,7 +123,7 @@ If all goes to plan, you'll see a plot produced with the dataset.
 * If you add `/Users/mikechase3/Library/Python/3.7/bin` to `~/.bash_profile`, you can access it anywhere.
   * Type into your bash profile: `export PATH="/Users/{yourusername}/Library/Python/3.7/bin:$PATH"`
 * Now, your computer will recognize `pipenv` as a command on a mac.
-  * I don't believe it actually works. You have to edit [~/zshrc](https://stackoverflow.com/a/58786420/4777844) instead.
+  * I don't believe it actually works. You have to edit [\~/zshrc](https://stackoverflow.com/a/58786420/4777844) instead.
   * On windows, see 09:15 on the video.
 
 ### Shell
@@ -130,15 +132,13 @@ If all goes to plan, you'll see a plot produced with the dataset.
 
 ## Random
 
-* Use `r.sample(range(numbers_to_produce: int), 12))` to generate a list of 12 random numbers.
+* Use `r.sample(range(numbers_to_produce: int), 12)) `to generate a list of 12 random numbers.
 
 ## STL Tools
 
 * Convert python code to generate STL geometry from text, LaTeX, numpy arrays, and pictures.
 
-{% embed url="https://github.com/thearn/stl\_tools" %}
-
-
+{% embed url="https://github.com/thearn/stl_tools" %}
 
 
 

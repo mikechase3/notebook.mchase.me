@@ -1,23 +1,23 @@
 ---
-description: 'We present and discuss further examples. Left off around 14:08.'
+description: We present and discuss further examples. Left off around 14:08.
 ---
 
 # Lecture 07: Longest Common Subsequence & Max Subarray
 
 ## Recall: Four Step Method
 
-> 1. **Characterize the structure of an optimal solution**. _\(What are the sub-problems?\)_
-> 2. **Recursively define the value of an optimal solution.** _\(i.e. recurrence for Fibonacci\(n\): Fib\(n\) = Fib\(n-1\)+\(n-2\), which is a formula involving only smaller sub-problems._
-> 3. **Compute the value of an optimal solution in a** _**bottom-up**_ **fashion**. Store \(memorize\) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
+> 1. **Characterize the structure of an optimal solution**. _(What are the sub-problems?)_
+> 2. **Recursively define the value of an optimal solution.** _(i.e. recurrence for Fibonacci(n): Fib(n) = Fib(n-1)+(n-2), which is a formula involving only smaller sub-problems._
+> 3. **Compute the value of an optimal solution in a **_**bottom-up**_** fashion**. Store (memorize) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
 > 4. **Construct an optimal solution from computed information.**
 >
-> _Source: Dr. Yao's Slides, Dynamic Programming Part 1. \(Paraphrased\)_
+> _Source: Dr. Yao's Slides, Dynamic Programming Part 1. (Paraphrased)_
 
 ## The Longest Common Subsequence Problem
 
 ### The Problem
 
-Given 2 sequences \(shown below\), find a subsequence common to both whose length is _longest_.
+Given 2 sequences (shown below), find a subsequence common to both whose length is _longest_.
 
 $$
 X=\{x_1, x_2, ... x_n\} \text{ and } Y=\{y_1, y_2, ... y_n\}
@@ -51,12 +51,12 @@ From: [longest common subsequence](https://www.youtube.com/watch?v=ASoaQq66foQ) 
 
 When we want to break a problem into smaller sub-problems, oftentimes, we **start at the end** and work backwards. Let's look at an example. Say we have two substrings: `size = lcs("aab", "azb")`.
 
-When we work backwards, we'll start at the ending character, and we see `b` is common in both terms. So what do we do? We say `size = 1+lcs("aa", "az")` and continue down recursively. When we call `lcs("aa", "az")`, we have two options:
+When we work backwards, we'll start at the ending character, and we see `b` is common in both terms. So what do we do? We say `size = 1+lcs("aa", "az") `and continue down recursively. When we call `lcs("aa", "az")`, we have two options:
 
 1. `lcs("a", "az")`
 2. `lcs("aa", "a")`
 
-Here's what we did. We looked at the very ending of the two characters, `a` and `z` and noticed that they're not the same. So, we now try removing one of the characters and solving the problem, and then, we'll try the opposite problem and compare their longest substrings. We'll want to find the maximum, largest common given these options. Whichever of these calls gives us a longer substring, we're going to take that as the largest and add it to `1` in the stack frame. We're cutting off character by character by character, and we want to see _what's the longest subsequence when we cut off different characters?_ **The final recursive call looks like: `size = 1 + max(lcs("a", "az"), lcs("aa", "a"))`**
+Here's what we did. We looked at the very ending of the two characters, `a` and `z` and noticed that they're not the same. So, we now try removing one of the characters and solving the problem, and then, we'll try the opposite problem and compare their longest substrings. We'll want to find the maximum, largest common given these options. Whichever of these calls gives us a longer substring, we're going to take that as the largest and add it to `1` in the stack frame. We're cutting off character by character by character, and we want to see _what's the longest subsequence when we cut off different characters? _**The final recursive call looks like: `size = 1 + max(lcs("a", "az"), lcs("aa", "a"))`**
 
 #### The Left Half
 
@@ -145,7 +145,7 @@ Recall the [maximum subarray problem](../divide-and-conquer/lecture-05-divide-an
 ### Dynamic Approach Solution
 
 > * Items in a subarray must be consecutive.
-> * If adding nums\[i\] to s\[i-1\] is not bigger than nums\[i\] itself, simply let's have a new subarray starting with nums\[i\].
+> * If adding nums\[i] to s\[i-1] is not bigger than nums\[i] itself, simply let's have a new subarray starting with nums\[i].
 
 Below is the dynamic approach solution:
 
@@ -168,18 +168,16 @@ Below is the dynamic approach solution:
 
 ## Works Cited
 
-1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _\(Maximum Subarray problem & solution\)._
-2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _\(Longest Common Sub-Sequence Problem & Solution\)_
+1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Maximum Subarray problem & solution)._
+2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _(Longest Common Sub-Sequence Problem & Solution)_
 
 
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
+| Title         | Content Used                   | Author           |
+| ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-
-
 
 
 

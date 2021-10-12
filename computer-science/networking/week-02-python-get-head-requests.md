@@ -31,7 +31,7 @@ def createSocket(self):
 ```
 
 * The `SOCK_STREAM` parameter means it will be a TCP Socket
-* The `AF_INET` parameter means it follows IPV4 \(or IPV6\) protocols.
+* The `AF_INET` parameter means it follows IPV4 (or IPV6) protocols.
 * The `socket` function fo the socket class creates a new socket.
 
 ### Connect to the TCP Remote Server
@@ -102,7 +102,7 @@ def main():
 
 The general URL format is given by:
 
-```text
+```
 scheme://[user:pass@]host[:port][/path][?query][#fragment]
 ```
 
@@ -131,7 +131,7 @@ string request = "GET /" + path + query + " HTTP/1.0\n User-agent: UDCScrawler/1
 4. Specify the version number
 5. Type in the `User-agent: udaytoncrawler/1.0` as whatever user agent you want.
 6. End the line using an escape character.
-7. Use the field name `Host:` for some reason. 
+7. Use the field name `Host: `for some reason. 
 8. Type the actual host name.
 9. Use a `\n` to start a new line.
 10. Close the request by saying `Connection: close.`
@@ -176,4 +176,3 @@ def parse(self, string):  # String is a URL
 ## Works Cited
 
 [Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
-

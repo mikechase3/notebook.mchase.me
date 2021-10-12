@@ -1,8 +1,8 @@
 # Introduction
 
-## **Topics \(Tentative\):**
+## **Topics (Tentative):**
 
-* Configuration Management \(git\)
+* Configuration Management (git)
 * Fundamental security design principles
 * Specification of Security Requirements
 * Principles of Secure Programming
@@ -39,26 +39,26 @@
 
 * We're going to be developing applications. 
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](<../../.gitbook/assets/image (68).png>)
 
 ## Attacks
 
 * Cross-Site Attacks
 * SQL 
-* Buffer-overflow attacks _use input-validation_.
+* Buffer-overflow attacks_ use input-validation_.
 
 ## New Development
 
 * Previously, a security team would test and improve an application.
 * Nowawadays, the developer is responsible for security, called the _Secure Development Life Cycle_
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](<../../.gitbook/assets/image (69).png>)
 
-![](../../.gitbook/assets/image%20%2846%29%20%281%29%20%281%29.png)
+![](<../../.gitbook/assets/image (46) (1) (1).png>)
 
 ## Contact Information
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](<../../.gitbook/assets/image (71).png>)
 
 * TA: Chaitanya Ballipalli
 * MCS Student
@@ -66,5 +66,4 @@
 
 ## Homework
 
-![](../../.gitbook/assets/image%20%2866%29.png)
-
+![](<../../.gitbook/assets/image (66).png>)

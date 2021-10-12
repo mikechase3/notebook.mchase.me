@@ -9,7 +9,7 @@
 * Introduct/understand theory of cyber security
 * Provide practical experience in hardening a system to achieve resilience against cyber attacks.
 
-![Subtopics. Source: Dr. Buckley&apos;s Fundamentals of Cyber Security](../../.gitbook/assets/image%20%28547%29.png)
+![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../.gitbook/assets/image (547).png>)
 
 ### Fundamental Topics
 
@@ -30,5 +30,4 @@
 
 ## Works Cited
 
-* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, \(3rd Edition\). Pearson Education \(US\), 2014. 
-
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\
