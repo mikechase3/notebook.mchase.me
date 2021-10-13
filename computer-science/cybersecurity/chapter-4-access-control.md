@@ -77,3 +77,21 @@ Solutions: contracts and TOS agreements.
 
 ## Homework
 
+#### 4A
+
+* Part B: User -> o, w, r -> object
+* Part C: are they equivalent? Are they exactly equivalent?
+
+#### 4B
+
+* Even though they are both the same files, the permissions mean different thing whether it's a file or directory.
+* The data structure is called an **inode**. Read, write, execute.
+* If the file is in a directory of 7, 3, 0, this can cause a problem in that this combination of directory mode and file mode can allow the contents of the file to be changed either directly or indirectly.
+* We have to figure out what's allowed in the directory permissions, and how can we use that to change what is in the file?
+* If you look at the file on the board, only the owner has write access. The intent is that only the owner can change it; however, with the directory set this way, it's possible for someone other than the owner to change it. 
+* Our task is to figure out how.
+
+#### 4D
+
+* DAC: Discressionary access control.
+

@@ -280,7 +280,7 @@
   * [Chapter 6: Earth Minerals](math/rocks-for-jocks/earth-minerals.md)
   * [Chapter 7: Volcanoes, Weathering, Sedimentary Rock](math/rocks-for-jocks/chapter-7-volcanoes-weathering-sedimentary-rock.md)
   * [Chapter 9: Volcanoes!](math/rocks-for-jocks/chapter-9-volcanoes.md)
-  * [Temp Waves](math/rocks-for-jocks/temp-waves.md)
+  * [Chapter 10: Earthquakes](math/rocks-for-jocks/chapter-10-earthquakes.md)
   * [Chapter 7: Sedimentary Rocks](math/rocks-for-jocks/chapter-7-sedimentary-rocks.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
