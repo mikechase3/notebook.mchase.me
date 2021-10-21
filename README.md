@@ -16,7 +16,7 @@ I took an economics course during my undergrad; it was super interesting and I w
 {% endtab %}
 
 {% tab title="Uncertainty" %}
-How do we decide on victors, victims? Who wins and who loses? 
+How do we decide on victors, victims? Who wins and who loses?&#x20;
 
 {% embed url="https://freakonomics.com/podcast/konnikova-biggest-bluff/" %}
 {% endtab %}
@@ -60,7 +60,7 @@ How do we decide on victors, victims? Who wins and who loses?
 
 * AlgoExpert
 * BackToBack SWE
-* [CodeSignal](https://codesignal.com) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices. 
+* [CodeSignal](https://codesignal.com) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices.&#x20;
 * [Code Wars](https://www.codewars.com) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
 * [Princeton Data Structure and Algorithms](hhttps://www.coursera.org/learn/algorithms-part1#syllabus) has a complete, free course available for auditing. The ratings are extremely high. Be sure to have a Java background, otherwise you might have a little difficulty with the assignments. It'll say it costs money, but look for a button that says "audit this course" for free access.
 
@@ -93,7 +93,7 @@ Contains all Codecademy Cheatsheets
 
 #### Effective Python, Java, CSS, Typescript, More.
 
-\__[Effective Python](https://effectivepython.com)_/Java/C++/Typescript/More_ are books that tell you how to get from mediocrity to mastery by identifying best practices. This is a poor choice for beginners, but great once you get familiar with the programming language by showing you a bit under the hood and helping you learn better practices for each language.
+\_\_[Effective Python](https://effectivepython.com)_/Java/C++/Typescript/More_ are books that tell you how to get from mediocrity to mastery by identifying best practices. This is a poor choice for beginners, but great once you get familiar with the programming language by showing you a bit under the hood and helping you learn better practices for each language.
 
 {% embed url="https://effectivepython.com/" %}
 Effective Python
@@ -101,7 +101,7 @@ Effective Python
 
 #### Jetbrains Academy (aka Hyperskill)
 
-\__[Jetbrains Academy](https://www.jetbrains.com/academy/) contains a variety of hands-on learning projects for Python, Java, Javascript, Klotin. They are state-of-the-art. It grades your code style and works directly in IDEs like PyCharm and IntelliJ. This resource costs $50/month, but is worth it for one month or powering through a free-trial.
+\_\_[Jetbrains Academy](https://www.jetbrains.com/academy/) contains a variety of hands-on learning projects for Python, Java, Javascript, Klotin. They are state-of-the-art. It grades your code style and works directly in IDEs like PyCharm and IntelliJ. This resource costs $50/month, but is worth it for one month or powering through a free-trial.
 
 {% embed url="https://www.jetbrains.com/academy/" %}
 Jetbrains Academy. $50/month.
@@ -170,6 +170,6 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 ## Professional Development
 
-* BigInterview helps you develop your charismatic skills, but tailored to responding to interviews. 
+* BigInterview helps you develop your charismatic skills, but tailored to responding to interviews.&#x20;
 * [Jobscan](https://www.jobscan.co) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
 * Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.

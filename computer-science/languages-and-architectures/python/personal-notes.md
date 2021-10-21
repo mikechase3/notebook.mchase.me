@@ -60,7 +60,7 @@ Inside the triple quotation marks is the **docstring** of the function `square()
 
 **Note:** We can also use triple `"""` quotations to create docstrings.
 
-#### Python \__doc\_\_ attribute
+#### Python \_\_doc\_\_ attribute
 
 Whenever string literals are present just after the definition of a function, module, class or method, they are associated with the object as their `__doc__` attribute. We can later use this attribute to retrieve this docstring.
 
@@ -184,7 +184,7 @@ quux(__x=3)  # Error
 
 #### Works Cited
 
-I grabbed these from the [Mypy documentation](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html). Check it out for more details. 
+I grabbed these from the [Mypy documentation](https://mypy.readthedocs.io/en/stable/cheat\_sheet\_py3.html). Check it out for more details.&#x20;
 
 ## Math
 
@@ -219,7 +219,7 @@ print(arr2)
 
 ### Compound Operators
 
->  Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
+> &#x20;Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
 
 ## Strings
 
@@ -315,7 +315,7 @@ Checkout Codecademy's [cheat sheet](https://www.codecademy.com/learn/paths/compu
 
 #### String Format
 
-You can insert keywords to make your code more legible.: 
+You can insert keywords to make your code more legible.:&#x20;
 
 ```python
 def favorite_song_statement(song, artist):
@@ -360,7 +360,7 @@ print(song) #Repeats 10 times because it uses the default value.
 
 ## Generators
 
-* Generators are basically functions, but use the `yield` keyword instead of `return` 
+* Generators are basically functions, but use the `yield` keyword instead of `return`&#x20;
 * When a generator is called again, the function picks up right where it left out
   * Functions by contrast will start at the beginning of the function.
 
@@ -373,7 +373,7 @@ print(song) #Repeats 10 times because it uses the default value.
 ### Booleans
 
 {% hint style="warning" %}
-Use capital letters for `True` and `False`. 
+Use capital letters for `True` and `False`.&#x20;
 {% endhint %}
 
 ```python
@@ -466,42 +466,42 @@ def main(): # function, method are the same
 * We can check what type a variable is by calling `type()` on it.
 * For example, `type("hello")` will return that it's the type string.
 
-[Works cited: w3schools.com: Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+[Works cited: w3schools.com: Python Data Types](https://www.w3schools.com/python/python\_datatypes.asp)
 
-| Example                                      | Data Type  | Try it                                                                                   |
-| -------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
-| x = str("Hello World")                       | str        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_str2)       |
-| x = int(20)                                  | int        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_int2)       |
-| x = float(20.5)                              | float      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_float2)     |
-| x = complex(1j)                              | complex    | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_complex2)   |
-| x = list(("apple", "banana", "cherry"))      | list       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_list2)      |
-| x = tuple(("apple", "banana", "cherry"))     | tuple      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_tuple2)     |
-| x = range(6)                                 | range      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_range2)     |
-| x = dict(name="John", age=36)                | dict       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_dict2)      |
-| x = set(("apple", "banana", "cherry"))       | set        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_set2)       |
-| x = frozenset(("apple", "banana", "cherry")) | frozenset  | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_frozenset2) |
-| x = bool(5)                                  | bool       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bool2)      |
-| x = bytes(5)                                 | bytes      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytes2)     |
-| x = bytearray(5)                             | bytearray  | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo_type_bytearray2) |
-| x = memoryview(bytes(5))                     | memoryview | Try it »                                                                                 |
+| Example                                      | Data Type  | Try it                                                                                     |
+| -------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ |
+| x = str("Hello World")                       | str        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_str2)       |
+| x = int(20)                                  | int        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_int2)       |
+| x = float(20.5)                              | float      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_float2)     |
+| x = complex(1j)                              | complex    | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_complex2)   |
+| x = list(("apple", "banana", "cherry"))      | list       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_list2)      |
+| x = tuple(("apple", "banana", "cherry"))     | tuple      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_tuple2)     |
+| x = range(6)                                 | range      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_range2)     |
+| x = dict(name="John", age=36)                | dict       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_dict2)      |
+| x = set(("apple", "banana", "cherry"))       | set        | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_set2)       |
+| x = frozenset(("apple", "banana", "cherry")) | frozenset  | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_frozenset2) |
+| x = bool(5)                                  | bool       | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_bool2)      |
+| x = bytes(5)                                 | bytes      | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_bytes2)     |
+| x = bytearray(5)                             | bytearray  | [Try it »](https://www.w3schools.com/python/trypython.asp?filename=demo\_type\_bytearray2) |
+| x = memoryview(bytes(5))                     | memoryview | Try it »                                                                                   |
 
 ## Lists
 
 * **Access**: `print(myList[-1])  # -1 refers to last element in the list.`
-* **Append: **Use `yourNamedList.append(itemToAppend)` 
+* **Append: **Use `yourNamedList.append(itemToAppend)`&#x20;
 * **Append Another List: **Just use the `+` operator: `firstList + secondList`.
-* **Count: **`trump_votes = votes.count('Trump')`** **will** **return a number. 
-* **Del: **Removes an element from the list: 
+* **Count: **`trump_votes = votes.count('Trump')`** **will** **return a number.&#x20;
+* **Del: **Removes an element from the list:&#x20;
 * **Length (Size)**: `len(listVariable)`
 * **Pop: **Removes the last index, but you can pass the index you want to remove as an argument.
-* **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index. 
+* **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index.&#x20;
 * **Slice: **You can slice a list to get a sublist. `sublist = letters[1:6]`
   * You can get the last 3 items of the list using: `sublist = letters[-3:]`
 * **Sort**_ does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
-* **Sorted ** generates a new list without affecting the old one and uses the syntax `sorted(myList).` 
+* **Sorted ** generates a new list without affecting the old one and uses the syntax `sorted(myList).`&#x20;
   * You can also sort in reverse order: `list1.sort(reverse=True).`
 
-### [List Comprehensions](https://www.w3schools.com/python/python_lists_comprehension.asp)
+### [List Comprehensions](https://www.w3schools.com/python/python\_lists\_comprehension.asp)
 
 Note: these examples were taken from my[ CodeCademy course.](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-flow-data-iteration/modules/dspath-python-loops/cheatsheet)
 
@@ -556,7 +556,7 @@ print(can_ride_coaster) # Returns numbers lareger than 161.
 
 Note: taken from zetcode.
 
-We have a list of temperatures in Celsius. We want to create a new list of temperatures expressed in Fahrenheit temperature.fahrenheit_celsius.py
+We have a list of temperatures in Celsius. We want to create a new list of temperatures expressed in Fahrenheit temperature.fahrenheit\_celsius.py
 
 ```python
 #!/usr/bin/python3
@@ -604,14 +604,14 @@ print(attractions)  # [[], [], [], [], []]
 
 ## Dictionaries
 
-* **General Syntax:** `my_dictionary = {key: value, key: value}` 
+* **General Syntax:** `my_dictionary = {key: value, key: value}`&#x20;
 * Keys must be immutable. Aka no lists.
 
 {% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-dictionaries/cheatsheet" %}
 
 ### Add a Key
 
-We can add multiple keys to a dictionary by using the `.update()` method. 
+We can add multiple keys to a dictionary by using the `.update()` method.&#x20;
 
 ```python
 locations = {}
@@ -766,7 +766,7 @@ _Source: Beazley, Jones Python Cookbook 3ed. See page 7._
 ### OrderedDict
 
 * Ordered dictionaries maintain order when iterating.
-* It preserves the original insertion order of data. 
+* It preserves the original insertion order of data.&#x20;
 
 ```python
 from collections import OrderedDict
@@ -844,8 +844,8 @@ Use `def __init()__:` within the class to make a constructor.
 >
 > What if we aren’t sure if an object has an attribute or not?
 >
-> *  `hasattr()` will return `True` if an object has a given attribute and `False` otherwise. 
-> * If we want to get the actual value of the attribute, `getattr()` is a Python function that will return the value of a given object and attribute. 
+> * &#x20;`hasattr()` will return `True` if an object has a given attribute and `False` otherwise.&#x20;
+> * If we want to get the actual value of the attribute, `getattr()` is a Python function that will return the value of a given object and attribute.&#x20;
 > * In this function, we can also supply a third argument that will be the default if the object does not have the given attribute.
 >
 >
@@ -899,7 +899,7 @@ class guest:
 g = Guest("Michael", datetime.date(1995, 7, 24))
 ```
 
-### String Representation: \__repr\_\_()
+### String Representation: \_\_repr\_\_()
 
 * To have a default string representation of an object, use `__repr(self)__:`
 
@@ -916,7 +916,7 @@ print(argus)
 # prints "Argus Filch"
 ```
 
-### Adding with \__add\_\_()
+### Adding with \_\_add\_\_()
 
 ```python
 class Atom:
@@ -937,7 +937,7 @@ salt = Molecule([sodium, chlorine])
 # salt = sodium + chlorine
 ```
 
-### \__Iter()\__
+### \_\_Iter()\_\_
 
 ```python
 class UserGroup:
@@ -957,7 +957,7 @@ class UserGroup:
 
 * `__iter__`, the iterator, we use the `iter()` function to turn the list `self.user_list` into an _iterator_ so we can use `for user in user_group` syntax. For more information on iterators, review [Python’s documentation of Iterator Types](https://docs.python.org/3/library/stdtypes.html#typeiter).
 
-### \__len()\__
+### \_\_len()\_\_
 
 ```python
 class UserGroup:
@@ -977,7 +977,7 @@ class UserGroup:
 
 * `__len__`, the length method, so when we call `len(user_group)` it will return the length of the underlying `self.user_list` list.
 
-### \__contains()\__
+### \_\_contains()\_\_
 
 ```python
 class UserGroup:
@@ -1055,7 +1055,7 @@ except KitchenException:
 
 In the above example, we attempt to retrieve food from the fridge and heat it in the microwave. If either `RefrigeratorException`or `MicrowaveException` is raised, we opt to order takeout instead. We catch both `RefrigeratorException` and `MicrowaveException` in our try/except block because both are subclasses of `KitchenException`.
 
-## Working with Modules 
+## Working with Modules&#x20;
 
 And how to create your own.
 
