@@ -283,6 +283,7 @@
   * [Chapter 10: Earthquakes](math/rocks-for-jocks/chapter-10-earthquakes.md)
   * [Chapter 7: Sedimentary Rocks](math/rocks-for-jocks/chapter-7-sedimentary-rocks.md)
   * [Chapter 3: Continents and Land](math/rocks-for-jocks/chapter-3-continents-and-land.md)
+  * [Chapter 17: The Hydrologic Cycle](math/rocks-for-jocks/chapter-17-the-hydrologic-cycle.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Class 01 & 02: Matrices Review](math/matrix-theory/matrix-theory-and-apps.md)
