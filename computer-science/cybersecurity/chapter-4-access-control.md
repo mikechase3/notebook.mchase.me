@@ -1,4 +1,4 @@
-# Chapter 4: Access Control
+# Chapter 04: Access Control
 
 Skipped class for 4.1-4.5.
 
@@ -42,16 +42,16 @@ Skipped class for 4.1-4.5.
 
 ### Identity Management
 
-* This is concenred with assigning attributes to a digital identity and connecting that digital identity to an individual. 
+* This is concenred with assigning attributes to a digital identity and connecting that digital identity to an individual.&#x20;
 * The goal is to access a trustworthy digital identity independent of a specific app or context.
 
 ### Access Management
 
 There are 3 elements you need for enterprise-wide access control facilities.
 
-* Resource management: 
-* Privilege management: 
-* Policy management: 
+* Resource management:&#x20;
+* Privilege management:&#x20;
+* Policy management:&#x20;
 
 ## 4.8: Trust Frameworks Identity Federation
 
@@ -88,7 +88,7 @@ Solutions: contracts and TOS agreements.
 * The data structure is called an **inode**. Read, write, execute.
 * If the file is in a directory of 7, 3, 0, this can cause a problem in that this combination of directory mode and file mode can allow the contents of the file to be changed either directly or indirectly.
 * We have to figure out what's allowed in the directory permissions, and how can we use that to change what is in the file?
-* If you look at the file on the board, only the owner has write access. The intent is that only the owner can change it; however, with the directory set this way, it's possible for someone other than the owner to change it. 
+* If you look at the file on the board, only the owner has write access. The intent is that only the owner can change it; however, with the directory set this way, it's possible for someone other than the owner to change it.&#x20;
 * Our task is to figure out how.
 
 #### 4D

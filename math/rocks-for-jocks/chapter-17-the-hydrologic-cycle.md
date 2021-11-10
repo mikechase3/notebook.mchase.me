@@ -16,3 +16,14 @@
 | Ground Water  | Migration                                               | Ocean                 |
 | Glacial Ice   | Sublimation (solid -> gas) OR Melting (solid to liquid) | Atmosphere OR Ocean   |
 |               |                                                         | NaN                   |
+
+{% hint style="info" %}
+I stopped taking notes
+{% endhint %}
+
+### 17.5: How do Streams Change Along Their Length
+
+
+
+
+
