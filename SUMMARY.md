@@ -96,6 +96,8 @@
   * [Chapter 8: Intrusion Detection](computer-science/cybersecurity/chapter-8-intrusion-detection.md)
   * [Chapter 9: Firewalls and Intrusion Prevention](computer-science/cybersecurity/chapter-9-firewalls-and-intrusion-prevention.md)
   * [Chapter 5: Databases](computer-science/cybersecurity/chapter-5-databases.md)
+  * [Chapter 2: Cryptographic Tools](computer-science/cybersecurity/chapter-2-cryptographic-tools.md)
+  * [Page 1](computer-science/cybersecurity/page-1.md)
 * [Databases](computer-science/databases/README.md)
   * [University Coursework](computer-science/databases/university-coursework/README.md)
     * [Entity Relationship Model](computer-science/databases/university-coursework/entity-relationship-model.md)
