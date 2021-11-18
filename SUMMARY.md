@@ -11,8 +11,8 @@
 ## Business <a href="psychology" id="psychology"></a>
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
+* [Color Theory](psychology/colors-and-marketing.md)
 * [Economics](psychology/economics.md)
-* [Colors and Marketing](psychology/colors-and-marketing.md)
 * [Marketing: Framing, Conformity, Cognitive Dissonance](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
 
 ## Career
@@ -49,6 +49,22 @@
   * [Interlude: Neanderthals](communication/anthropology/interlude-neanderthals.md)
   * [Lecture 05: The Maya Part 1](communication/anthropology/lecture-05-the-maya-part-1.md)
   * [Lecture 06: Culture](communication/anthropology/lecture-06-culture.md)
+* [Charisma](communication/charisma.md)
+* [Cone of Learning](communication/cone-of-learning.md)
+* [Feynmenn Method to Teach Deep Understanding](communication/the-feynmenn-technique.md)
+* [Habitual and Sensitization](communication/habitual-and-sensitization.md)
+* [Handling Stress](communication/handling-stress.md)
+* [Ideation](communication/ideation.md)
+* [Islamic Tradition](communication/islamic-tradition/README.md)
+  * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
+  * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
+  * [Lecture 05: Islam in Medina](communication/islamic-tradition/lecture-05-islam-in-medina.md)
+  * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
+  * [Lecture 07](communication/islamic-tradition/lecture-07.md)
+  * [Lecture 08: Islamic Law](communication/islamic-tradition/lecture-08-islamic-law.md)
+* [Normalness](communication/quirkiness.md)
+* [Placebo](communication/placebo.md)
+* [Polarized Learning](communication/polarized-learning.md)
 * [Propaganda](communication/propaganda/README.md)
   * [Desperate for Attention](communication/propaganda/desperate-for-attention.md)
   * [Syllabus Day](communication/propaganda/syllabus-day.md)
@@ -61,26 +77,6 @@
   * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
-* [Handling Stress](communication/handling-stress.md)
-* [Cone of Learning](communication/cone-of-learning.md)
-* [Generating Ideas](communication/ideation.md)
-* [Habitual and Sensitization](communication/habitual-and-sensitization.md)
-* [Polarized Learning](communication/polarized-learning.md)
-* [The Feynmenn Technique](communication/the-feynmenn-technique.md)
-* [Balancing Normalness](communication/quirkiness.md)
-* [Placebo](communication/placebo.md)
-* [Writing](communication/writing/README.md)
-  * [The Introduction](communication/writing/the-introduction.md)
-  * [The Conclusion](communication/writing/the-conclusion.md)
-  * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
-* [Charisma](communication/charisma.md)
-* [Islamic Tradition](communication/islamic-tradition/README.md)
-  * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
-  * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
-  * [Lecture 05: Islam in Medina](communication/islamic-tradition/lecture-05-islam-in-medina.md)
-  * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
-  * [Lecture 07](communication/islamic-tradition/lecture-07.md)
-  * [Lecture 08: Islamic Law](communication/islamic-tradition/lecture-08-islamic-law.md)
 
 ## Computer Science
 
@@ -336,6 +332,13 @@
   * [Chords](music/theory/chords.md)
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Chord Progressions](music/theory/chord-progressions.md)
+
+## 📝 Writing
+
+* [The Introduction](writing/the-introduction.md)
+* [The Conclusion](writing/the-conclusion.md)
+* [The Argumentative Essay](writing/the-argumentative-essay.md)
+* [Page 1](writing/page-1.md)
 
 ## Boring Essays <a href="personal-essays" id="personal-essays"></a>
 
