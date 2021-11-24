@@ -335,9 +335,9 @@
 
 ## 📝 Writing
 
-* [The Introduction](writing/the-introduction.md)
-* [The Conclusion](writing/the-conclusion.md)
-* [The Argumentative Essay](writing/the-argumentative-essay.md)
+* [The Introduction](communication/writing/the-introduction.md)
+* [The Conclusion](communication/writing/the-conclusion.md)
+* [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Page 1](writing/page-1.md)
 
 ## Boring Essays <a href="personal-essays" id="personal-essays"></a>
