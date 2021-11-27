@@ -270,7 +270,7 @@
 * [Consent Outside the Bedroom](life/consent-outside-the-bedroom.md)
 * [Dating](life/dating.md)
 * [Goal Setting](life/goal-setting.md)
-* [Values](life/values.md)
+* [Principles and Values](life/values.md)
 
 ## Math and Sciences <a href="math" id="math"></a>
 
