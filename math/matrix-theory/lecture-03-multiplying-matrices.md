@@ -15,7 +15,7 @@
 
 #### Example: Row-Row Method of Multiplying Vectors
 
-Here, we're taking the rows 
+Here, we're taking the rows&#x20;
 
 
 
@@ -49,7 +49,7 @@ $$
 
 **Step 3: **Define R's Columns by using the weights on the columns of `C` that equal the corresponding column of `A`.
 
-* The first column of `A` is in 
+* The first column of `A` is in&#x20;
 
 $$
 R=\begin{bmatrix}1 & 0 & 1\\0 & 1 & 1 \end{bmatrix}
@@ -72,9 +72,9 @@ $$
    1. For the first column, how many of the first and how many of the 2nd do you need to equal the original?
    2. Do this for each set of columns to get `R`.
 
-![](<../../.gitbook/assets/image (549).png>)
+![](<../../.gitbook/assets/image (549) (1).png>)
 
-![](<../../.gitbook/assets/image (550).png>)
+![](<../../.gitbook/assets/image (550) (1).png>)
 
 ### Good Example
 

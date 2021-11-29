@@ -38,7 +38,7 @@
 
 ### Red Shift of Light & Doppler Effect
 
-The faster a light source moves away from an observer, the more red they look. This scales to the Universe, so further away something gets away from earth, the more red it looks. By observing how planets are getting more red and which direction we can go, we can re-wind the tape to observe that everything started in one place. 
+The faster a light source moves away from an observer, the more red they look. This scales to the Universe, so further away something gets away from earth, the more red it looks. By observing how planets are getting more red and which direction we can go, we can re-wind the tape to observe that everything started in one place.&#x20;
 
 ![](<../../.gitbook/assets/image (533).png>)
 
@@ -47,9 +47,9 @@ The faster a light source moves away from an observer, the more red they look. T
 1. **Define Problem**: How did the univeerse originate?
 2. **Collect Data & Make Observations**: The doppler effect shows that all galaxies are moving outward, away from earth and that the farther a galaxy is away, the faster it is moving.
 3. **Formulate Hypothesis**: The universe began as an infinitely hot, dense, point of energy that explodes. Matter and space are created the universe expands and accelerates outwards.
-4. **Test Hypothesis**: Collect more data. 
+4. **Test Hypothesis**: Collect more data.&#x20;
    1. Black body radiation left over from the big bang. Discovered andd fits predicted intensity curve.
-   2. Primordial helium: scientists predicted that the big bang should've created approximately 75% hydrogen and 25% helium. But fusion in stars should create more helium. The older a star is, the more helium it should contain. Our sun has 28% helium. 
+   2. Primordial helium: scientists predicted that the big bang should've created approximately 75% hydrogen and 25% helium. But fusion in stars should create more helium. The older a star is, the more helium it should contain. Our sun has 28% helium.&#x20;
 5. **Corroborate or Dispute Hypothesis: **A good theory, but people always refute it somehow.
 
 ## Life Cycle of a Star
@@ -65,7 +65,7 @@ The faster a light source moves away from an observer, the more red they look. T
 
 I got distracted because the girl sitting next to me started drawing on a post-it note, so I made my own drawing. It was significantly less good than her's. I have little idea of what this is, so I should look it up later.
 
-![](<../../.gitbook/assets/image (548).png>)
+![](<../../.gitbook/assets/image (548) (1).png>)
 
 {% embed url="https://cdn.kastatic.org/KA-share/BigHistory/KU3.0.9_Life_Cycle_of_Stars.pdf" %}
 Life Cycle of Stars: Khan Academy PDF
@@ -96,7 +96,7 @@ $$
 
 ![Source: EarthHow](<../../.gitbook/assets/image (569).png>)
 
-* **Mercury**: Impacts caused **craters**. 
+* **Mercury**: Impacts caused **craters**.&#x20;
 * Has no wind, water, or erosion which would destroy the craters.
 * Meteors burn in earth's atmosphere, but not Mercury.
 * Earth has plate active plate tectonics, particularly volcanism.
@@ -135,7 +135,7 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 ![Source: Earth How](<../../.gitbook/assets/image (567).png>)
 
-* The atmosphere is thin and mostly composed of $$CO_2$$ 
+* The atmosphere is thin and mostly composed of $$CO_2$$&#x20;
 * Red because of oxidized iron.There's a tiny bit of oxygen on mars.
 * Contains polarized carbon dioxide ice.
 * **Craters** tell us that Mars is a _dead_ planet with little/no internal heat.
@@ -190,7 +190,7 @@ $$
 
 #### Density
 
-* The entire earth's density is $$5.5 \frac{g}{cm^3}$$ 
+* The entire earth's density is $$5.5 \frac{g}{cm^3}$$&#x20;
 
 ### Evidence from Precession of the Equinoxes
 
@@ -202,7 +202,7 @@ $$
 
 ### Evidence from Seismic Waves
 
-When you have an earthquake, there's a bunch of waves that pas sthrough the earth and bounce off different rock waves. An enormous amount of energy hits the earth and passes through it in seismic waves. This hits rocks with different compositions and are bounced around them. If they bounce and come back, we can measure it's speed coming back. 
+When you have an earthquake, there's a bunch of waves that pas sthrough the earth and bounce off different rock waves. An enormous amount of energy hits the earth and passes through it in seismic waves. This hits rocks with different compositions and are bounced around them. If they bounce and come back, we can measure it's speed coming back.&#x20;
 
 In dense stuff, they travel back fast. In non-dense material, it'll come back, but a lot more slowly.
 

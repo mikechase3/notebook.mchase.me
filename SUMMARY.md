@@ -83,6 +83,7 @@
 * [Code Reviews](computer-science/code-reviews.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
   * [Chapter 01: Cyber Security Fundamentals](computer-science/cybersecurity/lecture-01-cyber-security-fundamentals.md)
+  * [Chapter 6: Malicious Software](computer-science/cybersecurity/chapter-6-malicious-software.md)
   * [Chapter 06: Malicious Software](computer-science/cybersecurity/lecture-03-malicious-software.md)
   * [Chapter 07: DoS Attacks](computer-science/cybersecurity/lecture-02-dos-attacks.md)
   * [Chapter 12: OS Security](computer-science/cybersecurity/chapter-12-os-security.md)
