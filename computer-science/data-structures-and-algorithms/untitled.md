@@ -570,7 +570,7 @@ for i = 1 to n do
 		x = x+1;
 ```
 
- The total number of loop iterations is `nx(n+1)/2`.
+&#x20;The total number of loop iterations is `nx(n+1)/2`.
 
 * This is a very common loop structure worth memorizing.
 * It’s proportional to n^2.
@@ -617,7 +617,7 @@ Q: Is n^2 = O(n^3)?
 * `1 <= cn`
 * Pick c=2 and n0 = 1 n^2 <= 2n^3 is true for all n>1.
 * 3n^2+17 is also in O(n^3) and O(2^n).
-* **We’re interested in the tightest upper bound: ** 3n^2+17 = O(n^2).
+* **We’re interested in the tightest upper bound:** 3n^2+17 = O(n^2).
 
 #### Common Names of Notations
 

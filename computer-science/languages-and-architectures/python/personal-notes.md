@@ -488,17 +488,17 @@ def main(): # function, method are the same
 ## Lists
 
 * **Access**: `print(myList[-1])  # -1 refers to last element in the list.`
-* **Append: **Use `yourNamedList.append(itemToAppend)`&#x20;
-* **Append Another List: **Just use the `+` operator: `firstList + secondList`.
-* **Count: **`trump_votes = votes.count('Trump')`** **will** **return a number.&#x20;
-* **Del: **Removes an element from the list:&#x20;
+* **Append:** Use `yourNamedList.append(itemToAppend)`&#x20;
+* **Append Another List:** Just use the `+` operator: `firstList + secondList`.
+* **Count:** `trump_votes = votes.count('Trump')` **** will **** return a number.&#x20;
+* **Del:** Removes an element from the list:&#x20;
 * **Length (Size)**: `len(listVariable)`
-* **Pop: **Removes the last index, but you can pass the index you want to remove as an argument.
+* **Pop:** Removes the last index, but you can pass the index you want to remove as an argument.
 * **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index.&#x20;
-* **Slice: **You can slice a list to get a sublist. `sublist = letters[1:6]`
+* **Slice:** You can slice a list to get a sublist. `sublist = letters[1:6]`
   * You can get the last 3 items of the list using: `sublist = letters[-3:]`
-* **Sort**_ does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
-* **Sorted ** generates a new list without affecting the old one and uses the syntax `sorted(myList).`&#x20;
+* **Sort** _does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
+* **Sorted** generates a new list without affecting the old one and uses the syntax `sorted(myList).`&#x20;
   * You can also sort in reverse order: `list1.sort(reverse=True).`
 
 ### [List Comprehensions](https://www.w3schools.com/python/python\_lists\_comprehension.asp)
@@ -529,7 +529,7 @@ Python has a convenient shorthand to create lists like this with one line:
 usernames = [word for word in words if word[0] == '@']
 ```
 
-This is called a_ list comprehension. _It will produce the same output as the for loop did:
+This is called a _list comprehension._ It will produce the same output as the for loop did:
 
 ```python
 ["@coolguy35", "@kewldawg54", "@matchamom"]
@@ -636,7 +636,7 @@ d['a'].append(2)
 d['b'].append(4)
 ```
 
-* _Warning: _it will create dictionary enteries for keys accessed later on, even if they are not currently in the dictionary. If you don't want this behavior, you can call `d.setdefault()` on an ordinary dictionary. (Beazley Jones 12).
+* _Warning:_ it will create dictionary enteries for keys accessed later on, even if they are not currently in the dictionary. If you don't want this behavior, you can call `d.setdefault()` on an ordinary dictionary. (Beazley Jones 12).
 
 {% hint style="info" %}
 This doesn't make sense to me.

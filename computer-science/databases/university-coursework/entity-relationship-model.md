@@ -28,15 +28,15 @@ Relationships are placed in diamonds.
 ![](<../../../.gitbook/assets/image (590).png>)
 
 * **Roles** tell you more about the relationship beyond what's in the diamond.
-* Roles are straightforward/obvious, except in **recursive relationships**. 
+* Roles are straightforward/obvious, except in **recursive relationships**.&#x20;
   * Therefore, you need to put `father` and `son` to see what each is referring to.
 
 ## Structural Constraints
 
 * **Cardinality Ratio Constraint**: specifies the number of relationship instances that an entity can participate in.
-* **Participation Constraints**: 
+* **Participation Constraints**:&#x20;
   * **Total (Existence Dependency)**: Every entity in _the total set_ of employee entities must be related to a department entity via works-in.
-  * **Partial: **Some or part of the set of employees are related to the department via a manager, but not necessarily all.
+  * **Partial:** Some or part of the set of employees are related to the department via a manager, but not necessarily all.
 
 ![For a department to exist, there has to be an employee managing it; not every employee is a manager.](<../../../.gitbook/assets/image (588).png>)
 
@@ -45,7 +45,7 @@ Relationships are placed in diamonds.
 * A **weak identity** for each relationship is identified by considering the primary key of another (owner) identity.
   * it's attached to its identifying owner.
   * The **double diamond (or bold diamond)** shows the **identifying relationship**.
-* Whenever there is a weak entity, there is always going to be an existence dependency. 
+* Whenever there is a weak entity, there is always going to be an existence dependency.&#x20;
 
 ![ssn is a primary key. ](<../../../.gitbook/assets/image (591).png>)
 
@@ -60,7 +60,7 @@ Relationships are placed in diamonds.
 
 * A **superkey** is any set of attributes that uniquely identify a row.
   * If a key just had `{course#,section#}`, it would be a primary key because it has enough information to uniquely identify it.
-  * A super key would be `{course#,section#,room#}`. It is super because it contains _all _the information, beyond what is needed.
+  * A super key would be `{course#,section#,room#}`. It is super because it contains _all_ the information, beyond what is needed.
 * A superkey for which no subset is also a superkey is a **candidate key**.
 
 {% hint style="info" %}

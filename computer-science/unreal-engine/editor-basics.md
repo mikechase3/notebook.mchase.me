@@ -52,7 +52,7 @@ The details panel shows us the properties of whatever you selected.
 
 | Topic           | Caption                                                                                                                                                                                                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Name of Object  | Usually in underlines. Linear_stair_staticMesh                                                                                                                                                                                                                                 |
+| Name of Object  | Usually in underlines. Linear\_stair\_staticMesh                                                                                                                                                                                                                               |
 | Blueprint       | Makes an object comprised of many things. If you want to easily create one, select a few objects and click add edit blueprint. (maybe).                                                                                                                                        |
 | Edit Blueprints | Click it, in the details click edit blueprint.                                                                                                                                                                                                                                 |
 | Eyeball         | Lets you set defaults . There are debugging tools here too unique to when we are playing. Lets you see hidden properties too.                                                                                                                                                  |
@@ -78,7 +78,7 @@ Gives you access to operations such as place for adding common objects to your s
 * **Filters**: You can change what type of thing you want to filter by.
 * _**Toggle Lock**_: Protects your directory from changing when you're navigating the file tree.
 * When importing files, go to `File -> Import`. Don't just put it in the asset directory.
-* _**Developer: **_A scratch folder. Enable it by right clicking in the browser and hitting show developer.
+* _**Developer:**_ A scratch folder. Enable it by right clicking in the browser and hitting show developer.
 * _**Collections**_: They're like tags. You can drag and drop things that you want to tag as rocks.
   * It's a static collection.
   * Use filters instead if you want things to dynamically update.

@@ -60,8 +60,8 @@ description: What is good and what is bad?
 > Lying in a mean... relative to us.
 
 * The mean between excess and deficiency of whatever ingredient would make it a moral virtue.
-* **Relative to us**: the too hard/too soft is not calibrated to _The Hulk_. 
-* An expert is able to take many factors into consideration. 
+* **Relative to us**: the too hard/too soft is not calibrated to _The Hulk_.&#x20;
+* An expert is able to take many factors into consideration.&#x20;
 
 #### Cowardliness, Courage, and Recklessness
 
@@ -87,7 +87,7 @@ description: What is good and what is bad?
 
 ## Kant & The Categorical Imperative
 
-* Morality must be rooted in _reason_, not _emotion_. 
+* Morality must be rooted in _reason_, not _emotion_.&#x20;
 
 ### Religion
 
@@ -109,7 +109,7 @@ Commands you must follow regardless of your desires. These are moral obligations
 * Act as though the maxim of your action were to become, through your will, a universal law of nature (24).
 *
   * A _maxim_ is any actionable statement. Like "everyone should not lie."
-  * It needs to be **universal** 
+  * It needs to be **universal**&#x20;
   * No contradictions are allowed.
 * You must be able to rationally establish that all other rational beings must always do this action as a matter of moral course.
 * Everyone has to follow these because _everyone_ has the ability to be rational (26).
@@ -124,7 +124,7 @@ Proper, rational application of the categorical imperative will lead us to moral
 ### Hedonic Calculus
 
 * **Sensation**: Intensity, Duration, Certainty/Uncertainty (Obviousness of Sensation), Propinquity.
-* **Relationship: **Fecundity (Fruitfulness/Racism). Purity (absence of side effects).
+* **Relationship:** Fecundity (Fruitfulness/Racism). Purity (absence of side effects).
 
 ### The Universalization Principle
 

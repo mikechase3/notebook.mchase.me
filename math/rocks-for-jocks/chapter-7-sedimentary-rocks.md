@@ -11,7 +11,7 @@
 
 ## Classes of Sedimentary Rocks
 
-There are 4 major classes of sedimentary rocks: clastic, 
+There are 4 major classes of sedimentary rocks: clastic,&#x20;
 
 1. Clastic: rocks cemented together as clasts
 2. Biochemical: consists of shells grown by organisms.
@@ -44,16 +44,16 @@ See page 212.
 ### Chemical Sedimentary Rocks
 
 * **Limestone**: CaCo3. Composed of mineral calcite. There are several different varieties.
-* **Dolostone: **composed of the mineral dolomite.
+* **Dolostone:** composed of the mineral dolomite.
 * **Chert**: microcrystalline quartz.
-* **Evaporites: **halite, gypsum, annhydrite.
+* **Evaporites:** halite, gypsum, annhydrite.
 
 ![](<../../.gitbook/assets/image (636).png>)
 
 ### Interpreting Sedimentary Rocks
 
-* **Transport History**: 
-* **Sedimentary Structures**: 
+* **Transport History**:&#x20;
+* **Sedimentary Structures**:&#x20;
 * **Ripple Marks:** (see below)
 
 ![Transport History](<../../.gitbook/assets/image (635).png>)
@@ -80,7 +80,7 @@ See page 212.
 
 ## Summary Uniformitarianism
 
-* Color: Reds: _oxidized iron, red beds; _Black: _unoxidized organics, swamp, deep marine_.
+* Color: Reds: _oxidized iron, red beds;_ Black: _unoxidized organics, swamp, deep marine_.
 * Mineralogy
 * Grain size
 * Sorting (size distribution)

@@ -10,7 +10,7 @@
 
 In the augmented stack in class, we determined that the amortized cost per operation is O(1). Although we now have the function multipush, it will take `O(k)` time, which is still constant time.
 
-Using the aggregate method, we can assign each problem a running time. Pushing and popping take `O(1)` respectively. The worst case for multi-pus and multi-pop is `O(n)` time. So the time for the entire sequence is `O(n) + O(n)`. 
+Using the aggregate method, we can assign each problem a running time. Pushing and popping take `O(1)` respectively. The worst case for multi-pus and multi-pop is `O(n)` time. So the time for the entire sequence is `O(n) + O(n)`.&#x20;
 
 And the amortized cost per operation is $$O(\frac{2n}{n}) = O(1)$$ .
 
@@ -30,7 +30,7 @@ So, interestingly here, we don't have k backup operations, but rather `n` operat
 
 ### First Attempt
 
-Let's try giving each of the above operations a budget. 
+Let's try giving each of the above operations a budget.&#x20;
 
 | Operation | Time Complexity | Budget |
 | --------- | --------------- | ------ |
@@ -52,7 +52,7 @@ That's probably not the tightest of bounds, but that will do for now. Let's turn
 | `push(45)` | The last one!          | 1        | 1    | 2               |
 | `backup()` | Gonna run out of money | 2        | 5    | -1              |
 
-So, we ran out of money obviously. So someone in the front of the class asks _"Well just increase the push/pop operation's budget."_ but that is naive. 
+So, we ran out of money obviously. So someone in the front of the class asks _"Well just increase the push/pop operation's budget."_ but that is naive.&#x20;
 
 ### Second attempt
 
@@ -72,7 +72,7 @@ So let's change the budgets.
 | `backup()` | Backup stack          | 0        | 2    | 0               |
 | `backup()` | Backup stack again.   | 1        | 2    | -2              |
 
-And look at that, we ran out of money yet again. If there were 3 elements in the stack, then the cost of backing up the stack would be 3, or 4, or 5 if we kept adding elements before backing them up. So, we need to say we have a hypothetical infinite amount of backups. The only way to make this work is to say the backup takes `n` amount of money. 
+And look at that, we ran out of money yet again. If there were 3 elements in the stack, then the cost of backing up the stack would be 3, or 4, or 5 if we kept adding elements before backing them up. So, we need to say we have a hypothetical infinite amount of backups. The only way to make this work is to say the backup takes `n` amount of money.&#x20;
 
 ### Working Budget
 
@@ -102,16 +102,16 @@ The amortized cost, which we discussed in class, would be `O(1)`. The worst case
 
 So obviously, by this point, we know two important things. And as a result of these two facts, we know that using amortized analyses is useful.
 
-1. The worst case is `O(k)` because at some point, every single bit gets flipped. _This is when the array is when our _`list = [1, 1, 1, 1, 1, 1, 1, 1, 1]`and every bit needs to get flipped.
+1. The worst case is `O(k)` because at some point, every single bit gets flipped. _This is when the array is when our_ `list = [1, 1, 1, 1, 1, 1, 1, 1, 1]`and every bit needs to get flipped.
 2. Our average case is not going to be our worst case. Clearly, not every bit is getting flipped all the time.
 
- 
+&#x20;
 
 ![Notice A\[0\] (At the right) is flipped every time. A\[1\] (2nd from right) is flipped n/2 times, and so on.](<../../../.gitbook/assets/image (35).png>)
 
 #### Using Geometric Series
 
-* The pattern we're noticing, `n`, `n/2`, `n/4`... is a [geometric series](https://media.pearsoncmg.com/cmg/pmmg_mml_shared/mathstats_html_ebooks/ThomasCalcET14e/page\_592.html) because geometric series have the form:
+* The pattern we're noticing, `n`, `n/2`, `n/4`... is a [geometric series](https://media.pearsoncmg.com/cmg/pmmg\_mml\_shared/mathstats\_html\_ebooks/ThomasCalcET14e/page\_592.html) because geometric series have the form:
 
 ![Source: Thomas Calculus](<../../../.gitbook/assets/image (30).png>)
 
@@ -121,7 +121,7 @@ $$
 
 If we graph this, it'll look exactly like this:
 
-![](../../../.gitbook/assets/wolframalpha-1\_2\__\_1\_4\__\_1\_8\__\_1\_16\__\__\__\__\__\__2020\_06\_27\_21\_32.jpeg)
+![](../../../.gitbook/assets/wolframalpha-1\_2\_\_\_1\_4\_\_\_1\_8\_\_\_1\_16\_\_\_\_\_\_\_\_\_\_\_\_2020\_06\_27\_21\_32.jpeg)
 
 So clearly, this is a geometric series, and the series approaches 1:
 
@@ -136,9 +136,9 @@ $$
 
 ### Accounting Method
 
-* Recall, for the accounting method, we design an amortized cost _(which is our budget)_ for increment operations. 
+* Recall, for the accounting method, we design an amortized cost _(which is our budget)_ for increment operations.&#x20;
 * Here, we declared **our budget is $2**.
-* And below, we **prove we have enough budget to cover `n` operations**. 
+* And below, we **prove we have enough budget to cover `n` operations**.&#x20;
   * For every bit flip from 0 to 1, we use $1 for the flip.
   * We associate the extra $1 with bit 1, which will be used when we flip this bit from 1 back to 0.
 
@@ -146,7 +146,7 @@ $$
 
 #### Conclusions
 
-Clearly, we have enough budget to cover all the bit flips. This means the balance is never negative. Therefore, we can **conclude **that **since the balance is never negative and our amortized cost for increment operation is $2 which is O(1), we can conclude our amortized cost per operation is `O(1)`. and the cost of `n` operations is **$$O(1) * n \in O(n)$$ .
+Clearly, we have enough budget to cover all the bit flips. This means the balance is never negative. Therefore, we can **conclude** that **since the balance is never negative and our amortized cost for increment operation is $2 which is O(1), we can conclude our amortized cost per operation is `O(1)`. and the cost of `n` operations is** $$O(1) * n \in O(n)$$ .
 
 ## Works Cited
 
@@ -155,7 +155,7 @@ Clearly, we have enough budget to cover all the bit flips. This means the balanc
 | Introduction to Algorithms                                                               | Definitions for introduction        | Cormen et. al.                                               |
 | Wikimedia Commons                                                                        | K-bit counter photo.                | Various. Noncommercial reuse.                                |
 | Class lecture & slideshow                                                                | Structures, definition, and content | [Dr. Zhongmei Yao](http://academic.udayton.edu/zhongmeiyao/) |
-| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI_Rs)                         | K-bit example, graphs.              | simrob (Youtube)                                             |
+| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI\_Rs)                        | K-bit example, graphs.              | simrob (Youtube)                                             |
 | [Amortized Analysis (of the k-bit counter)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy.               | simrob (Youtube)                                             |
 | Thomas Calculus                                                                          | Geometric Series                    | Thomas. Pearson e-Text. Free                                 |
-| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential_method)            | Equations                           | Wikipedia Authors                                            |
+| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential\_method)           | Equations                           | Wikipedia Authors                                            |

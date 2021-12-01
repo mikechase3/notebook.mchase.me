@@ -8,7 +8,7 @@
 
 ### STAR Format
 
-By answering question s in STAR format, you answer behavioral questions directly instead of the interviewer having to pry out details out of you. You can say "_Let me tell you about a specific situation_" and _"Here are the actions I took" _and _"Here are the results achieved_".
+By answering question s in STAR format, you answer behavioral questions directly instead of the interviewer having to pry out details out of you. You can say "_Let me tell you about a specific situation_" and _"Here are the actions I took"_ and _"Here are the results achieved_".
 
 * SITUATION
 * TASK
@@ -48,10 +48,10 @@ The purpose is to subjectively evaluate the experiences in my background.
 
 #### Tips for describing role.
 
-* Describe top achievements and responsibilities. 
-* Focus on areas of work I'd be doing if hired. 
-* How did you go above/beyond. 
-* Focus on highlights the interviewer will care about. 
+* Describe top achievements and responsibilities.&#x20;
+* Focus on areas of work I'd be doing if hired.&#x20;
+* How did you go above/beyond.&#x20;
+* Focus on highlights the interviewer will care about.&#x20;
 * Define unfamiliar terms.
 
 #### CompSci Response
@@ -68,9 +68,9 @@ Most recently, I helped pioneer an unmanned drone event to engage more students 
 
 #### Business
 
-* Computer competencies: 
-* Entrepreneurship: 
-* Leadership: 
+* Computer competencies:&#x20;
+* Entrepreneurship:&#x20;
+* Leadership:&#x20;
 
 ## Inappropriate Questions
 
@@ -86,7 +86,7 @@ Most recently, I helped pioneer an unmanned drone event to engage more students 
 
 > You could say something like: "Thanks, but I'm really here to talk about the job." He might take the hint and drop the obnoxious flirtation.
 >
-> If he really crosses the line, it may be worth your time to bring the bad behavior to the attention of others at the company. 
+> If he really crosses the line, it may be worth your time to bring the bad behavior to the attention of others at the company.&#x20;
 
 ### Federal & State Protections
 
@@ -112,7 +112,7 @@ It's not illegal to ask these questions, but it's illegal to base your hiring de
 
 ## Opinion
 
-The purpose is to subjectively analyze how you would respond in a series of scenarios. 
+The purpose is to subjectively analyze how you would respond in a series of scenarios.&#x20;
 
 ### Why did you choose this career?
 

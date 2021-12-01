@@ -26,7 +26,7 @@ Given an input with length `n`, what is the running time of the dynamic programm
 
 ### DFS
 
-Given a graph of V nodes and E edges, which algorithm Design paradigm is exemplified by DFS? 
+Given a graph of V nodes and E edges, which algorithm Design paradigm is exemplified by DFS?&#x20;
 
 * **Brute Force,** because we want to visit all the nodes.
 * It’s not greedy because we don’t sort them.
@@ -34,20 +34,20 @@ Given a graph of V nodes and E edges, which algorithm Design paradigm is exempli
 
 ### BFS
 
-Given a graph with V nodes and E edges, which algorithm 
+Given a graph with V nodes and E edges, which algorithm&#x20;
 
 * Brute force approach.
-* We can’t say _divide and conquer_ becuase there is no _conquer _part of it.
+* We can’t say _divide and conquer_ becuase there is no _conquer_ part of it.
 
 ### Kruskal’s Minimum Spanning Tree
 
 * For Kruskal’s, we want to use edges to cover all nodes on the graph.
 * Each edge costs money.
-* We use a **greedy approach** because we sort the edges by their weights. 
+* We use a **greedy approach** because we sort the edges by their weights.&#x20;
 
 ### Dijkstra’s Single Source
 
-* This is a **greedy **approach.
+* This is a **greedy** approach.
 * We talked about this in CPS 350
 
 ### K-th Largest Item

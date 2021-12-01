@@ -42,8 +42,8 @@ If we use HTTP/1.1, we get 10 extra credit points onto part 3.
 #### Differences
 
 * In socket 1.0, we need one socket for each connection call.
-  * We need a socket for the _HEAD _request
-  * We also need another socket for the _GET _request.
+  * We need a socket for the _HEAD_ request
+  * We also need another socket for the _GET_ request.
 * In 1.1, you can send multiple requests on the same connection.
   * Only one socket for both the `HEAD` and `GET` request.
 

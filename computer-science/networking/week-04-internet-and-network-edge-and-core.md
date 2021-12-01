@@ -13,7 +13,7 @@ We'll want to implement a Python list.
 
 ### Main Method
 
-In the main method, we'll want to make 5 unique threads. 
+In the main method, we'll want to make 5 unique threads.&#x20;
 
 {% hint style="info" %}
 Review Dr. Yao's clip. Lecture 06 at 17:00
@@ -65,7 +65,7 @@ Protocols define format, order of messages sent and received among network entit
 Access networks are connected to regional networks (ie Dayton) which are connected to global networks run by ISPs.
 
 * A **network edge** means that the the device is not in the center (like some router or ISP)
-* **Hosts: **clients and servers often in data centers
+* **Hosts:** clients and servers often in data centers
 * **Access Networks** connect the client servers to the internet
   * Physical media
   * Wired, wireless communication links.
@@ -75,7 +75,7 @@ Access networks are connected to regional networks (ie Dayton) which are connect
 
 
 
-## Access Networks 
+## Access Networks&#x20;
 
 ### Digital Subscriber Lines (DSL)
 
@@ -136,13 +136,13 @@ What's the difference?
 
 ![](<../../.gitbook/assets/image (249).png>)
 
-* **Transmission Delay**: 
-* **Store and forward**: 
+* **Transmission Delay**:&#x20;
+* **Store and forward**:&#x20;
 
 #### I need help
 
 {% hint style="warning" %}
-What does the math, L, and R mean? 
+What does the math, L, and R mean?&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (235).png>)

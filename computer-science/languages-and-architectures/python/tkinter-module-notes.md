@@ -36,7 +36,7 @@ from your_file import your_function  # Imports the function so you can use it.
 * Print the current time: `datetime.now()`
 * Get the date: `datetime.date()`
 * Get the time: `datetime.time()`
-*   Set a date & time: 
+*   Set a date & time:&#x20;
 
     ```
     any_variable = datetime(year, month, day[, hour[, minute[, second[, microsecond[,tzinfo]]]]])
@@ -44,7 +44,7 @@ from your_file import your_function  # Imports the function so you can use it.
 
 
 
-#### DateTime Arithmetic 
+#### DateTime Arithmetic&#x20;
 
 We can subtract dates from each other to see how much time has elapsed.
 
@@ -82,7 +82,7 @@ date_string = datetime.strftime(datetime.now(), '%b %d, %Y')
 * `random.randint()` takes 2 numbers as arguments and returns an int between the two.
 * **Purpose**: Perform decimal arithmetic more accurately.
 * **Import**: `from decimal import Decimal`
-* **Usage: **
+* **Usage:**&#x20;
 
 ```python
 from decimal import Decimal
@@ -96,7 +96,7 @@ cost_of_transaction = cost_of_gum + cost_of_gumdrop
 
 ## Itertools
 
-* `itertools.groupby()` is a function that is particularly useful for grouping data in dictionaries or objects together. 
+* `itertools.groupby()` is a function that is particularly useful for grouping data in dictionaries or objects together.&#x20;
 
 ## MatPlotLib
 
@@ -132,7 +132,7 @@ If all goes to plan, you'll see a plot produced with the dataset.
 
 ## Random
 
-* Use `r.sample(range(numbers_to_produce: int), 12)) `to generate a list of 12 random numbers.
+* Use `r.sample(range(numbers_to_produce: int), 12))` to generate a list of 12 random numbers.
 
 ## STL Tools
 

@@ -23,13 +23,13 @@ Here, we're taking the rows&#x20;
 
 ## Factoring a Matrix Into Two Products
 
-**Goal: **Factor a matrix `A` into `A=CR` to make the column space and its dimensions more obvious and the size of the column space more obvious. This factorization is designed to get rid of dependent columns.
+**Goal:** Factor a matrix `A` into `A=CR` to make the column space and its dimensions more obvious and the size of the column space more obvious. This factorization is designed to get rid of dependent columns.
 
 ### Steps to factor a Matrix into 2 Products
 
 1. Find the dependent column of `A` by sight or intuition.
 2. Define `C` with just the independent columns of A (and cross out the dependent ones).
-3. For `R`, define its columns by using weights on the columns of `C `that equal the corresponding column of `A`.
+3. For `R`, define its columns by using weights on the columns of `C` that equal the corresponding column of `A`.
 
 #### Example 1: Factoring a Matrix
 
@@ -37,17 +37,17 @@ $$
 A=\begin{bmatrix}1 & 2 & 3\\-1 & 3 & 2\\1 & 2 & 3\end{bmatrix}
 $$
 
-**Step 1: **Identify what is independent and dependent.
+**Step 1:** Identify what is independent and dependent.
 
 * Somehow, we figured out that the first two columns were independent.
 
-**Step 2: **Figure out what C is and determine the size. C is just the independent columns, so we'll take the first two from above.
+**Step 2:** Figure out what C is and determine the size. C is just the independent columns, so we'll take the first two from above.
 
 $$
 C=\begin{bmatrix} 1 & 2\\-1 & 3\\1 & 2 \end{bmatrix}
 $$
 
-**Step 3: **Define R's Columns by using the weights on the columns of `C` that equal the corresponding column of `A`.
+**Step 3:** Define R's Columns by using the weights on the columns of `C` that equal the corresponding column of `A`.
 
 * The first column of `A` is in&#x20;
 

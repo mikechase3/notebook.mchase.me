@@ -42,7 +42,7 @@ Good article because my notes don't make sense:
 
 ## Referencing JS in other files
 
-If you want to link code instead of embed it, you can link it using the **src attribute. **Use it like this:
+If you want to link code instead of embed it, you can link it using the **src attribute.** Use it like this:
 
 ```
 <script src="./exampleScript.js"></script>
@@ -76,8 +76,8 @@ Use it when it interacts with the DOM.
 
 ## The Async Attribute
 
-* The async attribute loads and executes the script asynchronously with the rest of the page. 
-* It's useful for scripts that do not depend on each other. 
+* The async attribute loads and executes the script asynchronously with the rest of the page.&#x20;
+* It's useful for scripts that do not depend on each other.&#x20;
 * Optimizes web page load time well.
 
 ### Syntax

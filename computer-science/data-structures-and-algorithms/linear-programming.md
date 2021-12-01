@@ -2,15 +2,15 @@
 
 ## What is Linear Programming?
 
-> Linear programming (LP) is a method to achieve the optimum outcome under some requirements represented by linear relationships. More precisely, LP can solve the problem of maximizing or minimizing a linear objective function subject to some linear constraints. 
+> Linear programming (LP) is a method to achieve the optimum outcome under some requirements represented by linear relationships. More precisely, LP can solve the problem of maximizing or minimizing a linear objective function subject to some linear constraints.&#x20;
 >
-> In general, the standard form of LP consists of 
+> In general, the standard form of LP consists of&#x20;
 >
 > 1. Variables: x = (x1, x2,...,xd)
-> 2. Objective function: c · x 
+> 2. Objective function: c · x&#x20;
 > 3. Inequalities (constraints): Ax ≤ b, where A is a n × d matirix.
 >
-> and we maximize the objective function subject to the constraints and x ≥ 0. 
+> and we maximize the objective function subject to the constraints and x ≥ 0.&#x20;
 >
 > LP has many different applications, such as flow, shortest paths, and even politics. In this lecture, we will be covering different examples of LP, and present an algorithm for solving them. We will also learn how to convert any LP to the standard form in this lecture
 
@@ -20,7 +20,7 @@
 {% tab title="General" %}
 ### General Linear Problem
 
-* We are given `n` real numbers $$c_1, c_2, ... c_n$$ 
+* We are given `n` real numbers $$c_1, c_2, ... c_n$$&#x20;
 * We are also given `m` real numbers $$b_1, b_2, ... b_m$$ .
 * We wish to find the solution to `n` variables $$x_1, x_2, ... x_n$$ that maximize or minimize _the objective function_ subject to the constraints.
 
@@ -41,14 +41,14 @@ We can define these constraints using functions. We can model this problem like 
 * X: The amount of money in stocks.
 * Y: The amount of money in bonds
 * Z: The amount of money in cash.
-* Optimization: Total amount of money. 
+* Optimization: Total amount of money.&#x20;
 
 #### Step 2: Write your constraints as functions
 
-1. $$x+y+z = 100$$ 
-2. $$x \leq \frac{y}{3}$$ 
-3. $$z \geq \frac{x+y}{4}$$ 
-4. $$x \geq 0 \land y \geq 0 \land z \geq 0$$ 
+1. $$x+y+z = 100$$&#x20;
+2. $$x \leq \frac{y}{3}$$&#x20;
+3. $$z \geq \frac{x+y}{4}$$&#x20;
+4. $$x \geq 0 \land y \geq 0 \land z \geq 0$$&#x20;
 {% endtab %}
 
 {% tab title="LP Fractional Knapsack" %}
@@ -68,7 +68,7 @@ We can define these constraints using functions. We can model this problem like 
 #### Maximizing Value
 
 * You want to maximize the value of all the items you choose.: $$v_1x_1 + ... + v_nx_n$$ .
-* We are subjected to the weight limit: $$w_1x_1 + ... + w_nx_n \leq W$$ 
+* We are subjected to the weight limit: $$w_1x_1 + ... + w_nx_n \leq W$$&#x20;
 * The fractional of each item must be between: $$0 \leq x_j \leq 1, \text{for } j = 1, ..., n$$ .
 
 
@@ -81,7 +81,7 @@ We can define these constraints using functions. We can model this problem like 
 I don't really understand the motivation behind this problem.
 {% endhint %}
 
-Our goal is to solve this maximum flow problem 
+Our goal is to solve this maximum flow problem&#x20;
 
 #### Constraints
 
@@ -91,7 +91,7 @@ Our goal is to solve this maximum flow problem
 * There is an equality constraint for every vertex.
 
 {% hint style="info" %}
-Notation: $$x_{ij} \implies \text{flow in edge } i \rightarrow j$$ 
+Notation: $$x_{ij} \implies \text{flow in edge } i \rightarrow j$$&#x20;
 {% endhint %}
 
 
@@ -155,7 +155,7 @@ We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 ![](<../../.gitbook/assets/image (111).png>)
 
 * Now we have three more variables. All of them are subject to being greater than 0.
-* $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$ 
+* $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$&#x20;
 
 ### Solving
 
@@ -187,25 +187,25 @@ Consider the following example:
 
 #### Given Statements
 
-_Minimize_ $$3x_{1} + x_2 + x_3$$ subject to: 
+_Minimize_ $$3x_{1} + x_2 + x_3$$ subject to:&#x20;
 
-1. $$x_1 + x_2 + 3x_3 ≤30$$ 
-2. $$2x_1 + 2x_2 + 5x_3 ≤ 24$$ 
-3. $$4x_1 + x_2 + 2x_3 ≤ 36$$ 
-4. $$x_1 + x_2 + x_3 ≥ 0$$ 
+1. $$x_1 + x_2 + 3x_3 ≤30$$&#x20;
+2. $$2x_1 + 2x_2 + 5x_3 ≤ 24$$&#x20;
+3. $$4x_1 + x_2 + 2x_3 ≤ 36$$&#x20;
+4. $$x_1 + x_2 + x_3 ≥ 0$$&#x20;
 
-Change the given LP problem to slack form, consisting of the **original** variables **called **_**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities **by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
+Change the given LP problem to slack form, consisting of the **original** variables **called **_**nonbasic**_ variables, and **new variables** representing slack called _**basic**_ variables. The goal is to **eliminate inequalities** by making using addition and subtraction to make one side of the equality greater or equal to zero, like so:
 
 $$
 a+b+c+d ≥ 30 \implies x_n=(a+b+c+d)-30, x_n≥0
 $$
 
-Applying it to the example, we 
+Applying it to the example, we&#x20;
 
 1. $$z = 3x_1 + x_2 + x_3$$ _set equal to 0._
 2. $$x_4 = 30-x_1-x_2-3x_3$$ _Subtract each term from the left-hand side._
-3. $$x_5 = 24-2x_1-2x_2-5x_3$$ 
-4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$ 
+3. $$x_5 = 24-2x_1-2x_2-5x_3$$&#x20;
+4. $$x_6=36-(4x_1+x_2+x_3), x_6 ≥0$$&#x20;
 
 If we're asked to convert minimums to maximums, multiply all terms by -1.
 
@@ -230,7 +230,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 2. Increase the value of $$x_e$$ as much as possible without violating any constraints.
 3. Set $$x_e$$ to be basic, while some other basic variables become nonbasic.
 
-### Maximization Example 
+### Maximization Example&#x20;
 {% endtab %}
 
 {% tab title="Other LP Algorithms" %}
@@ -266,7 +266,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 #### Step 3: Make Objective Lines
 
-The objective line is measured by the value of: $$z \text{ (which was defined to be) }= 15x_1 + 10x_2$$ 
+The objective line is measured by the value of: $$z \text{ (which was defined to be) }= 15x_1 + 10x_2$$&#x20;
 
 
 
@@ -276,10 +276,10 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 
 #### Step 4: Observe:
 
-1. An optimum solution is always at a corner point. 
+1. An optimum solution is always at a corner point.&#x20;
    1. It might be that the constant line is parallel to a constraint line, in which case, there are many optimum points.
 2. There is a finite number of **corner points** or feasible solutions.
-3. If a corner point feasible solution has an objective function value that is better than or equal to **all ** its **adjacent corner point** feasible solutions, then **it is optimal.**
+3. If a corner point feasible solution has an objective function value that is better than or equal to **all** its **adjacent corner point** feasible solutions, then **it is optimal.**
 
 Summary: The simplex method says: travel along the corner points until you reach a local maximum.
 
@@ -289,11 +289,11 @@ Summary: The simplex method says: travel along the corner points until you reach
 
 Here, we'll iterate through all the points where there is an intersection between the feasible region and examine what `z` is at each point.
 
-> Phase 1: start at (0, 0) \~ Objective value = Z(0, 0)=0 
+> Phase 1: start at (0, 0) \~ Objective value = Z(0, 0)=0&#x20;
 >
-> Iteration 1: Move to (2, 0) \~ Z(2, 0)=30. An Improvement 
+> Iteration 1: Move to (2, 0) \~ Z(2, 0)=30. An Improvement&#x20;
 >
-> Iteration 2: Move to (2, 2) \~ Z(2, 2)=50. An Improvement 
+> Iteration 2: Move to (2, 2) \~ Z(2, 2)=50. An Improvement&#x20;
 >
 > Iteration 3: Consider moving to (1, 3) \~ Z(1, 3) = 45 < 50
 >

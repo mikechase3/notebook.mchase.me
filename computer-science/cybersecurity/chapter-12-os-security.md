@@ -6,8 +6,8 @@
 
 ![](<../../.gitbook/assets/image (622).png>)
 
-* The **TPM** makes sure that the firmware of BIOS/SMM doesn't change. 
-* **Physical hardware: **has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
+* The **TPM** makes sure that the firmware of BIOS/SMM doesn't change.&#x20;
+* **Physical hardware:** has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
   * Also... who is building these circuits?
   * Can China build it in a way that compromises US systems?
   * Can they have back-doors and listen to US communications?
@@ -101,7 +101,7 @@ We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/
 1. Logs can only inform you about bad things that already happened.
 2. Logs help system administrators figure out what happened more quickly.
 3. Range of data acquired: you can/should tailor which information you want logged.
-4. **Automated analysis** is preferred. 
+4. **Automated analysis** is preferred.&#x20;
 5. Logs generate a large amount of information, so it's important space is allocated to them.
 
 ### Data Backup and Archive
@@ -135,7 +135,7 @@ Mediums are out of date.
 
 * Checkout the users list. It'll probably have a bunch of users that don't need to be there.
 * Guides recommend changing the access permissions for critical files and directories.
-* **Local exploit: **a software vulnerability that can be exploited by an attacker to gain elevated privileges.
+* **Local exploit:** a software vulnerability that can be exploited by an attacker to gain elevated privileges.
 * **Remote exploit**: software vulnerability in a network server that could be triggered by a remote attacker.
 
 ### Remote Access Controls
@@ -164,7 +164,7 @@ Mediums are out of date.
 
 #### Integrity
 
-* **Mandatory Integrity Controls**: 
+* **Mandatory Integrity Controls**:&#x20;
 * **Integrity Levels**: the windows system will not let it write any information to higher levels.
 * **Biba Integrity Model**: Biba was a researcher. It basically makes sure that objects with low integrity levels aren't messing with things of high integrity levels.
 
@@ -203,13 +203,13 @@ Mediums are out of date.
 
 ### Native Virtualization
 
-Native virtualization 
+Native virtualization&#x20;
 
 ![](<../../.gitbook/assets/image (625).png>)
 
 ### Host Virtualization
 
-Whatever you install it on, 
+Whatever you install it on,&#x20;
 
 
 
@@ -223,7 +223,7 @@ Whatever you install it on,
 
 ### Securing Virtualization Systems
 
-* It's an operating system, so all of these things 
+* It's an operating system, so all of these things&#x20;
 
 ## Works Cited
 

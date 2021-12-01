@@ -33,13 +33,13 @@ Unhelpful thinking patterns
 
 ![](<../.gitbook/assets/image (437).png>)
 
-* **Example: **if I'm not perfect, I have failed.
-* **Problems**: it doesn't leave you space to actually solve the problems. Maybe the professor sucks, but you think you're a failure. 
+* **Example:** if I'm not perfect, I have failed.
+* **Problems**: it doesn't leave you space to actually solve the problems. Maybe the professor sucks, but you think you're a failure.&#x20;
 
 ### Catastrophizing
 
-* **Definition: **Thinking about the worst-case scenario.
-* **Example: **I need to learn this information and if I don't, my GPA will drop, and then I'll never get my degree, and then I'll be homeless living under a bridge.
+* **Definition:** Thinking about the worst-case scenario.
+* **Example:** I need to learn this information and if I don't, my GPA will drop, and then I'll never get my degree, and then I'll be homeless living under a bridge.
 
 ### Compare and Despair
 
@@ -68,7 +68,7 @@ Unhelpful thinking patterns
 * **Example**: If someone is very silent with you, you might think you're boring or an idiot.
   * Problem: These assumptions are only one possibility of many.
   * Ask: Do you have enough evidence to support this hypothesis?
-* **Example: **My friend didn't smile at me. They must hate me.
+* **Example:** My friend didn't smile at me. They must hate me.
 
 ### Prediction
 
@@ -100,14 +100,14 @@ Unhelpful thinking patterns
 
 Triggers are both internal external.
 
-* **Emotions: **Something
-* Mental Images: 
-* Physical State: 
-* Thoughts: 
-* Presence of Others: 
+* **Emotions:** Something
+* Mental Images:&#x20;
+* Physical State:&#x20;
+* Thoughts:&#x20;
+* Presence of Others:&#x20;
 * Physical Setting
-* **Social Pressures:** Comparing yourself to others, 
-* **Activities**: Staying in your room alone for too long. 
+* **Social Pressures:** Comparing yourself to others,&#x20;
+* **Activities**: Staying in your room alone for too long.&#x20;
 
 ### Solutions
 

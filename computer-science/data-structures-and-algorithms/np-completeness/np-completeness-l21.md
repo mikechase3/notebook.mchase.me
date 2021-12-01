@@ -17,14 +17,14 @@ This expands out to cover NP:
 ### Polynomial Time (P)
 
 * P is the set of all problems that can be solved in polynomial time.
-* **Polynomial:** $$n^{\text{some constant}}$$ 
+* **Polynomial:** $$n^{\text{some constant}}$$&#x20;
 
 ### Exponential Time (EXP)
 
 ![We try to bring anything exponential into polynomial time as much as possible](<../../../.gitbook/assets/image (129).png>)
 
 * EXP is the set of all problems you can solve in exponential time.
-* Exponential means $$2^{n^\text{some constant}}$$ 
+* Exponential means $$2^{n^\text{some constant}}$$&#x20;
 
 ### Recursive (R)
 
@@ -35,12 +35,12 @@ This expands out to cover NP:
 
 ![](<../../../.gitbook/assets/image (133).png>)
 
-* _**NP **_describes a set of decision problems:
-  * Solvable in polynomial time via a _lucky _algorithm.
-  * _**Lucky**: Lucky algorithms make guesses. It just needs to try 1 problem because it's really lucky and always guesses the right choice. _
+* _**NP**_ describes a set of decision problems:
+  * Solvable in polynomial time via a _lucky_ algorithm.
+  * _**Lucky**: Lucky algorithms make guesses. It just needs to try 1 problem because it's really lucky and always guesses the right choice._&#x20;
 * _**NP decision**_ problems are solvable in _**nondeterministic**_ _**polynomial**_ time.
-  * Polynomial:  $$n^{\text{some constant}}$$ 
-  * _**Nondeterminstic: **_in O(1) time, you can _guess_ among polynomial number of choices. If the computer guesses a yes answer, then we get such a guess.
+  * Polynomial:  $$n^{\text{some constant}}$$&#x20;
+  * _**Nondeterminstic:**_ in O(1) time, you can _guess_ among polynomial number of choices. If the computer guesses a yes answer, then we get such a guess.
   * _**Decision**_: The output is yes or no.
 
 {% hint style="info" %}
@@ -59,7 +59,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 
 ![](<../../../.gitbook/assets/image (134).png>)
 
-* _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$ 
+* _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$&#x20;
   * Problem X is NP-Complete if X is in NP and X is _NP-Hard_
   * _You are exactly as hard as NP. No harder and no easier._
 * Bonus: [Mario is computationally hard](https://arxiv.org/abs/1203.1895).
@@ -68,7 +68,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 
 * _**NP-Hard**_ if every problem $$Y\in \text{NP}$$ reduces to X.
 * In English, NP hard means that it's at least as hard as every problem in NP.
-  * If $$P \neq \text{NP} \implies x \notin P$$ 
+  * If $$P \neq \text{NP} \implies x \notin P$$&#x20;
     * Aka: Your problem is not polynomial solvable.
   * \[Reduction from problem A to problem B] = \[polynomial-time algorithm converting A inputs into equivalent _(same yes/no answer)_ B inputs]
     * Equivalent means it has the same yes/no answer.
@@ -81,13 +81,13 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 ![](<../../../.gitbook/assets/image (106).png>)
 
 {% hint style="warning" %}
-* What is NP? 
+* What is NP?&#x20;
   * Not polynomial?
   * Did I define it right?
 * How do I know if something is in NP?
 * How do I know if NP is hard?
-* What is the definition of a _problem _in this case? 
-  * Like a function? 
+* What is the definition of a _problem_ in this case?&#x20;
+  * Like a function?&#x20;
   * Like binary search is a problem that's O(log(n))?
 * What do the handwritten notes mean?
 {% endhint %}
@@ -118,13 +118,13 @@ That are useful for me to know thus far:
 
 ![](<../../../.gitbook/assets/image (135).png>)
 
-## Reductions: $$A \implies B$$ 
+## Reductions: $$A \implies B$$&#x20;
 
 Convert your problem into a problem you already know how to solve instead of solving it from scratch.
 
 ![](<../../../.gitbook/assets/image (127).png>)
 
-### Dijkstra's Example 
+### Dijkstra's Example&#x20;
 
 * Suppose your friend gives you a problem for unweighted Shortest paths.
 * How do you solve unweighted paths? Do BFS if you're smart.
@@ -139,11 +139,11 @@ Convert your problem into a problem you already know how to solve instead of sol
 
 ### Problem
 
-* I'm given a formula which is an AND of ORs. Each OR clause only has 3 things in it. 
+* I'm given a formula which is an AND of ORs. Each OR clause only has 3 things in it.&#x20;
   * The things are called _literals._
-    * _Literals_ is either a variable _x_i _or it's the negation of a variable, _not x_i_.
+    * _Literals_ is either a variable _x\_i_ or it's the negation of a variable, _not x\_i_.
   * _**Clauses**_ are groups of 3 things.
-* _**Question: **_Can you set the variables: (x\_1, x\_2, x\_3...) such that the **formula comes out true?**
+* _**Question:**_ Can you set the variables: (x\_1, x\_2, x\_3...) such that the **formula comes out true?**
 
 ![3 SAT Problem](<../../../.gitbook/assets/image (109).png>)
 
@@ -173,7 +173,7 @@ Convert your problem into a problem you already know how to solve instead of sol
   * This is called a satisfying assignment.
   * Then you're like "I don't believe you."
   * And your friend is like "no no no, this is true, I can prove it."
-    * If your friend tells you what the x_i's are, then you can quickly check that the solutions are valid.
+    * If your friend tells you what the x\_i's are, then you can quickly check that the solutions are valid.
     * But you can only do this for 'yes' answers.
   * At the least, _**you can check your answers in polynomial time**_.
 * If your friend say no, this is not satisfiable...
@@ -195,7 +195,7 @@ What is a certificate? What is a verifier? These don't make sense.
 
 ### Proving NP Completeness of Your Algorithms
 
-#### Step 1: Show $$x \in \text{NP}$$ 
+#### Step 1: Show $$x \in \text{NP}$$&#x20;
 
 ![Showing that our problems are in SAT means our problem is in NP.](<../../../.gitbook/assets/image (125).png>)
 
@@ -204,7 +204,7 @@ What is a certificate? What is a verifier? These don't make sense.
   * Certificate + verifier.
 * We defined the certificate
 * We provide a verification algorithm that checks if everything is true or not.
-* Now we can conclude $$\text{problem } x \in \text{NP}$$ 
+* Now we can conclude $$\text{problem } x \in \text{NP}$$&#x20;
 
 #### Step 2: Reductions
 
@@ -241,7 +241,7 @@ I don't understand reductions or these definitions very well.
 ![](<../../../.gitbook/assets/image (121).png>)
 
 {% hint style="info" %}
-See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K_QgvdKkovK_t4K6-\&index=8\&t=36s).
+See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K\_QgvdKkovK\_t4K6-\&index=8\&t=36s).
 {% endhint %}
 
 
@@ -254,12 +254,12 @@ See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=
 
 ## Works Cited
 
-Erik Demaine, and Srini Devadas. _6.006 Introduction to Algorithms. _Fall 2011. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lecture 23.
+Erik Demaine, and Srini Devadas. _6.006 Introduction to Algorithms._ Fall 2011. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lecture 23.
 
-Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms. _Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lecture 16.
+Erik Demaine, Srini Devadas, and Nancy Lynch. _6.046J Design and Analysis of Algorithms._ Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015). License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lecture 16.
 
-Chang, Cory. [_P vs. NP - An Introduction_](https://www.youtube.com/watch?v=OY41QYPI8cw)_. _Undefined Behavior.
+Chang, Cory. [_P vs. NP - An Introduction_](https://www.youtube.com/watch?v=OY41QYPI8cw)_._ Undefined Behavior.
 
-Chang, Cory. [_What Makes Mario NP-Hard? (Polynomial Reductions)_](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K_QgvdKkovK_t4K6-\&index=8\&t=36s)_. _Undefined Behavior.
+Chang, Cory. [_What Makes Mario NP-Hard? (Polynomial Reductions)_](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K\_QgvdKkovK\_t4K6-\&index=8\&t=36s)_._ Undefined Behavior.
 
 \

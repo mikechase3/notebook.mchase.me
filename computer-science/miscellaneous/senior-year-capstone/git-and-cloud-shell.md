@@ -16,7 +16,7 @@ description: Lecture 02
 
 * Resource: _T_[_he Missing semester of your CS Education_](https://missing.csail.mit.edu)_; MIT Open Courseware_
   * __[_The Shell_](https://missing.csail.mit.edu/2020/course-shell/)__
-  * __[_Version Control _](https://missing.csail.mit.edu/2020/version-control/)with Git.
+  * __[_Version Control_ ](https://missing.csail.mit.edu/2020/version-control/)with Git.
 * Resurce: [Git SCM Documentation](https://git-scm.com)
 
 ### Git Platforms

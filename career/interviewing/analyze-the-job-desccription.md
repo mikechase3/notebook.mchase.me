@@ -11,11 +11,11 @@
 
 ## Jobs with Detailed Descriptions
 
-* **Identify Competencies: **highlight all qualifications, duties, and desired competencies. Make special note of things mentioned more than once. The most important parts are listed first.
-* **Identify Themes: **
-* **Identify your selling points: **Talk about awards and skills I can back up.
+* **Identify Competencies:** highlight all qualifications, duties, and desired competencies. Make special note of things mentioned more than once. The most important parts are listed first.
+* **Identify Themes:**&#x20;
+* **Identify your selling points:** Talk about awards and skills I can back up.
 * **Gaps/Weaknesses**: be prepared to proactively reframe and react when interviewers react to your weaknesses.
-* **Anticipate Questions: **Tell me about your one of your successes. Share an example of your leadership skills (prepare stories about leadership). Walk me through your budget management experience. Why did you leave your theater roll if that's really what you want to do? (Maybe he was fired?)
+* **Anticipate Questions:** Tell me about your one of your successes. Share an example of your leadership skills (prepare stories about leadership). Walk me through your budget management experience. Why did you leave your theater roll if that's really what you want to do? (Maybe he was fired?)
 
 ### Example
 
@@ -24,13 +24,13 @@
 #### Identify Competencies
 
 * Ticket promotion programs is mentioned very prominently.
-* _Lead, Manage, management skills, key day-to-day contact _suggests you're great at relationship building and communication.
+* _Lead, Manage, management skills, key day-to-day contact_ suggests you're great at relationship building and communication.
 * Prepare to talk about _your fit_.
 
 #### Identify Themes
 
-* _Serve as the key day-to-day contact with other departments: _
-* _Manage/track the marketing budget: _budget management is a specific skill.
+* _Serve as the key day-to-day contact with other departments:_&#x20;
+* _Manage/track the marketing budget:_ budget management is a specific skill.
 
 #### Identify Your Selling Points
 

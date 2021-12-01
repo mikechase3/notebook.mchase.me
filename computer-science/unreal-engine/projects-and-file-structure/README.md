@@ -12,7 +12,7 @@
   * Sample projects
   * VR Demos
   * Specific concepts: user interface and full games.
-* **Marketplace: **buy content and free items you can use from Epic Games
+* **Marketplace:** buy content and free items you can use from Epic Games
 * **Library**: What engine versions and crap did you install?
 * **Modding**: Helps you learn crap and make mods.
 

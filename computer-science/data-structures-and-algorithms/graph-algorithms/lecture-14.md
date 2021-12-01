@@ -7,7 +7,7 @@ _Depth First Search_ and _Breadth First Search_ both:
 1. Pull a node
 2. Do work
 3. Visit adjacent nodes.
-4. Queue or push unseen adjacent nodes. 
+4. Queue or push unseen adjacent nodes.&#x20;
 
 The difference is that they have different ways of traversing through that graph. Check out this [visualization](https://visualgo.net/en/dfsbfs) while you're using these notes.
 
@@ -15,10 +15,10 @@ The difference is that they have different ways of traversing through that graph
 
 ![](<../../../.gitbook/assets/image (86).png>)
 
-_Breadth First Search_ uses a queue. It's a _first-in-first-out_ structure. 
+_Breadth First Search_ uses a queue. It's a _first-in-first-out_ structure.&#x20;
 
 1. Visit a node
-2. Add all the items to the queue. 
+2. Add all the items to the queue.&#x20;
 3. The first item to come out is the first one that came in.
 
 We're to **process layer by layer**. We're not going deep into a path.
@@ -29,7 +29,7 @@ We're to **process layer by layer**. We're not going deep into a path.
 
 ### Memoization
 
-1. **Queue: **Tells us which nodes we'll examine next.
+1. **Queue:** Tells us which nodes we'll examine next.
 2. **"Seen" Hash-Set**: Ensures we don't add nodes to the queue we've already added and processed.
 3. **Output Nodes**: Shows us the output of the nodes.
 
@@ -48,7 +48,7 @@ DFS uses another array **p\[u]** of size **V** vertices to remember the **parent
 
 ### Does a Path Exist from Node S to T? `hasPath(s,t)`
 
-_Depth-First Search _uses a stack, which is LIFO.
+_Depth-First Search_ uses a stack, which is LIFO.
 
 #### Story
 
@@ -58,7 +58,7 @@ So we say _"Hey Shelby" `S`, are you related to Hal?"_ And of course, Shelby doe
 
 So now `S` goes to Gregg and asks "Hey Greg, do you have a path to Hal? And then Hal is like "I don't know, let me go ask my children: `R`ob and `B`ob. And then they ask their children, and their children, and so on until one of them knows Tim. Or if everyone asks their children.
 
- 
+&#x20;
 
 ## Comparison
 

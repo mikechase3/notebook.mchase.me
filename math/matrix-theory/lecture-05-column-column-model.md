@@ -8,8 +8,8 @@ $$
 \begin{bmatrix} 3 & -2 \\ 5 & 0 \end{bmatrix} \begin{bmatrix}1 & 3 \\ -2 & 2 \end{bmatrix} = \begin{bmatrix} 7 & 5 \\ 5 & 15 \end{bmatrix}
 $$
 
-* Row 1: $$3 \begin{bmatrix}1 & 3 \end{bmatrix} + -2 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 7 & 5 \end{bmatrix}$$ 
-* Row 2: $$5 \begin{bmatrix}1 & 3 \end{bmatrix} + 0 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 5 & 15\end{bmatrix}$$ 
+* Row 1: $$3 \begin{bmatrix}1 & 3 \end{bmatrix} + -2 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 7 & 5 \end{bmatrix}$$&#x20;
+* Row 2: $$5 \begin{bmatrix}1 & 3 \end{bmatrix} + 0 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 5 & 15\end{bmatrix}$$&#x20;
 
 From this, two facts about transposes follow:
 
@@ -19,7 +19,7 @@ $$
 
 * We use the columns of $$A^T$$ as weights on the columns of $$B^T$$. The answer is a column.
 * To multiply this product, we use the _rows_ of `A` as weights on the _rows_ of `B`. The answer is a row.
-* The only difference between these statements if a formatting difference. When we do the first method, the answer is a column. 
+* The only difference between these statements if a formatting difference. When we do the first method, the answer is a column.&#x20;
 
 
 
@@ -31,8 +31,8 @@ Ask Dr. Arthur when to use each model.
 
 ## \[Summary] Matrix Multiplication
 
-* **Matrixes are Associative**: $$ABC = (AB)C = A(BC)$$ 
-* Matrixes are **not communitive: **$$AB \neq BA$$ , so the order matters.
+* **Matrixes are Associative**: $$ABC = (AB)C = A(BC)$$&#x20;
+* Matrixes are **not communitive:** $$AB \neq BA$$ , so the order matters.
 
 ## Identity Matrixes
 

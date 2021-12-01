@@ -1,4 +1,10 @@
-# Rocks for Jocks
+---
+description: >-
+  Formerly known as 'rocks for jocks' until I read that the median salary in
+  2020 was over $90K
+---
+
+# Geology
 
 
 

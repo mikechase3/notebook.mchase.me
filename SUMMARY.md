@@ -8,7 +8,7 @@
 
 * [References](automotive/references.md)
 
-## Business <a href="psychology" id="psychology"></a>
+## Business <a href="#psychology" id="psychology"></a>
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Color Theory](psychology/colors-and-marketing.md)
@@ -78,7 +78,7 @@
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
 
-## Computer Science
+## 💾 Computer Science
 
 * [Code Reviews](computer-science/code-reviews.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
@@ -94,6 +94,8 @@
   * [Chapter 9: Firewalls and Intrusion Prevention](computer-science/cybersecurity/chapter-9-firewalls-and-intrusion-prevention.md)
   * [Chapter 5: Databases](computer-science/cybersecurity/chapter-5-databases.md)
   * [Chapter 2: Cryptographic Tools](computer-science/cybersecurity/chapter-2-cryptographic-tools.md)
+  * [Chapter 20: Symmetric Encryption](computer-science/cybersecurity/chapter-20-symmetric-encryption.md)
+  * [Chapter 21: Public Key Cryptography](computer-science/cybersecurity/chapter-21-public-key-cryptography.md)
 * [Databases](computer-science/databases/README.md)
   * [University Coursework](computer-science/databases/university-coursework/README.md)
     * [Entity Relationship Model](computer-science/databases/university-coursework/entity-relationship-model.md)
@@ -273,9 +275,9 @@
 * [Goal Setting](life/goal-setting.md)
 * [Principles and Values](life/values.md)
 
-## Math and Sciences <a href="math" id="math"></a>
+## Math and Sciences <a href="#math" id="math"></a>
 
-* [Rocks for Jocks](math/rocks-for-jocks/README.md)
+* [Geology](math/rocks-for-jocks/README.md)
   * [External Resources](math/rocks-for-jocks/external-resources.md)
   * [Prelude: What is Geology?](math/rocks-for-jocks/prelude-what-is-geology.md)
   * [Chapter 1: Cosmology](math/rocks-for-jocks/astronomy.md)
@@ -341,6 +343,6 @@
 * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Page 1](writing/page-1.md)
 
-## Boring Essays <a href="personal-essays" id="personal-essays"></a>
+## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)

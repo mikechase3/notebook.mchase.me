@@ -9,8 +9,8 @@
 
 ### Famous Examples
 
-* Scheduling problems like [_interval scheduling maximization_](https://en.wikipedia.org/wiki/Interval_scheduling#Interval_Scheduling_Maximization).
-* [Minimum spanning tree finding](https://en.wikipedia.org/wiki/Minimum_spanning_tree) (Where Kruskal's and Prim's exist).
+* Scheduling problems like [_interval scheduling maximization_](https://en.wikipedia.org/wiki/Interval\_scheduling#Interval\_Scheduling\_Maximization).
+* [Minimum spanning tree finding](https://en.wikipedia.org/wiki/Minimum\_spanning\_tree) (Where Kruskal's and Prim's exist).
 
 ### Example: Making Change
 
@@ -26,7 +26,7 @@ How would we design an algorithm that makes change for $1.50 in the least amount
 
 So, we could start at $1.50 and ask: _what's the largest coin we can put in there?_, which would be $1. Then we have $0.50 left and fit that coin in there. That's the optimal because it uses only two coins.
 
-However, that greedy approach might not always be the best approach. 
+However, that greedy approach might not always be the best approach.&#x20;
 
 ## Finding the Optimal Solutions
 
@@ -42,7 +42,7 @@ I don't understand what this section is about.. _(Time: 00:15)_
 
 #### More on the Dynamic Approach
 
-* **Optimal substructure: **To keep the search small, the problem needs to have a sufficient structure.
+* **Optimal substructure:** To keep the search small, the problem needs to have a sufficient structure.
   * Recall: if T is optimal and T' ⊂ T, then T' is optimal to the subproblem.
 * Typically, dynamic programming involves **recursive procedures**
   * At each iteration, a small (polynomial size) set of partial solutions is maintained, one of which will lead to the optimal solution
@@ -100,9 +100,9 @@ I don't understand what all these variables are.
 * W is the total amount of weight you can carry?
 * v (I have no idea)
 * w (I have no idea)
-* initial_weight: why is this in the while loop? Is this how much space you have left?
+* initial\_weight: why is this in the while loop? Is this how much space you have left?
 * i: Is this the total number of items that are available?
-* W_i (Sub i): The weight of each item.
+* W\_i (Sub i): The weight of each item.
 {% endhint %}
 
 ### Greedy Will Fail
@@ -175,11 +175,11 @@ Click this [link](https://www.dropbox.com/s/iwf13fzz4tbbfna/Lecture%2009%20Greed
 
 ## Kruskal's Minimum Spanning Tree
 
-* A **tree **is really just a graph with no cycles.
+* A **tree** is really just a graph with no cycles.
 * A **minimum spanning tree** is just a spanning tree where the sum of the weights is minimal.
 * Kruskal's is sort-of like Dikstra's.. But you start off saying every thing is in it's own bubble.
   * Then you take the edge that's the smallest and merge the bubbles.
-  * You repeat this until there is only one bubble left. 
+  * You repeat this until there is only one bubble left.&#x20;
 
 ## Works Cited
 

@@ -16,7 +16,7 @@ Source of content. Notes below.
 ## Where do Reviews Happen?
 
 1. Stash, Git, or Bitbucket.
-2. Oftentimes, this is going to happen in the context of a** pull request.**
+2. Oftentimes, this is going to happen in the context of a **pull request.**
 
 ## Successful Steps
 

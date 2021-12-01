@@ -12,7 +12,7 @@ This heading is covered in Back to Back SWE. Not class.
 
 ### What is Dynamic Programming?
 
-There are three fundamental ideas of [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming).
+There are three fundamental ideas of [dynamic programming](https://en.wikipedia.org/wiki/Dynamic\_programming).
 
 > 1. Sub problems explicitly overlap.
 > 2. Sub-problems can be related together.
@@ -157,7 +157,7 @@ Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better
 #### Optional Further Reading
 
 * The best case by this method runs in `Θ(n^(2.376)` time.
-* _Textbook: _Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _(Chapter 15_).
+* _Textbook:_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _(Chapter 15_).
 {% endtab %}
 {% endtabs %}
 
@@ -223,7 +223,7 @@ class fibonacci
 
 1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Four-step method)._
 2. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) _(Quick sort video)_
-3. _**Textbook: **_Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4, 15**_).
+3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4, 15**_).
 4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms\&chapter=complexity-runtime-analysis)
 5. Geeks for Geeks: Fibonacci Sequence
 

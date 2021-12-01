@@ -7,4 +7,4 @@
 
 ## Works Cited
 
-_Biological Basis of Learning, _Lumen Learning.
+_Biological Basis of Learning,_ Lumen Learning.

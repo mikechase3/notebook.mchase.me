@@ -13,10 +13,10 @@ description: >-
 
 ## General Technique
 
-1. **Divide **the problem into sub-problems.
+1. **Divide** the problem into sub-problems.
 2. **Conquer** sub-problems by _recursively_ solving them.
 3. Solve the **base case** when problems are small enough to solve by brute force.
-4. **Combine **solutions to sub-problems to build a solution to the original problem.
+4. **Combine** solutions to sub-problems to build a solution to the original problem.
 
 In more detail:
 
@@ -97,8 +97,8 @@ function merge(leftArray, rightArray, array) {
 
 #### Analyzing the Running Time of Merge Sort
 
-* _(n/2)_ is the **split **(divide) part of the routine.
-* _2 _is the 2 additional calls that are created.
+* _(n/2)_ is the **split** (divide) part of the routine.
+* _2_ is the 2 additional calls that are created.
 * _O(n)_ is the merge subroutine.
 * Divide & Conquer Increases efficiency.
   * For Merge Sort, we took an algorithm that is normally O(N^2) and made it O(n\*log(n)).
@@ -123,7 +123,7 @@ This example is from _Back to Back SWE,_ entitled _Divide and Conquer Methodolog
 
 #### To solve using Divide & Conquer
 
-1. Take a vertical slice of the points. 
+1. Take a vertical slice of the points.&#x20;
 2. **Split** the first input in half vertically.
    1. Find the closest points in the left half to the line.
    2. Find the closest points in the right half to the line.
@@ -257,7 +257,7 @@ class Solution {
 }
 ```
 
-#### Split Subroutine 
+#### Split Subroutine&#x20;
 
 * This **splits** the array into roughly two halves around a **pivot**.
   * It figures out where to chop the array.
@@ -274,7 +274,7 @@ class Solution {
 
 ## Analyzing Running Time
 
-When we analyze the running time of recurrence functions, we do so using piecewise functions. 
+When we analyze the running time of recurrence functions, we do so using piecewise functions.&#x20;
 
 ![An example of a piecewise function defining the running time.](../../../.gitbook/assets/recurrence-function-time-example.jpg)
 
@@ -322,7 +322,7 @@ See other problems on her Isidore site.
 1. [Making sense of merge sort](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478), Base CS blog _(definitions and merge sort implementation)._
 2. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Piecewise Function, Homework Questions)._
 3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) (Quicksort video)
-4. _**Textbook: **_Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_).
+4. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_).
 
 
 

@@ -2,7 +2,7 @@
 
 ## Symptoms
 
-* **Symptoms Include: **Fidgeting, blanking out, blurting, babbling, sweating, Ums, Uh's, losing eye contact, slouching.
+* **Symptoms Include:** Fidgeting, blanking out, blurting, babbling, sweating, Ums, Uh's, losing eye contact, slouching.
 * Interview Mode: a professional version of me that isn't afraid to talk about my good qualities.
 
 ## Do your homework

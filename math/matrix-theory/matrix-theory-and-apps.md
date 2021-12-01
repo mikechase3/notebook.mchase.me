@@ -51,7 +51,7 @@ $$
 \vec{u} \cdot \vec{v} \implies u_1 v_1 + u_2 v_2 + ... u_n v_n
 $$
 
-There are two uses for the dot product. First, it is convenient for writing the length/magnitude. Second, dot products are **related** to the angle between two vectors. For example, if we consider the unit vector $$\vec{v} = \begin{bmatrix} 1\\ 0 \end{bmatrix}$$ and another unit vector $$\vec{w} = \begin{bmatrix} cos(\theta) \\ sin(\theta) \end{bmatrix}$$ then $$\vec{v} \cdot \vec{w} = 1cos(\theta)+0sin(\theta)=cos(\theta)$$ 
+There are two uses for the dot product. First, it is convenient for writing the length/magnitude. Second, dot products are **related** to the angle between two vectors. For example, if we consider the unit vector $$\vec{v} = \begin{bmatrix} 1\\ 0 \end{bmatrix}$$ and another unit vector $$\vec{w} = \begin{bmatrix} cos(\theta) \\ sin(\theta) \end{bmatrix}$$ then $$\vec{v} \cdot \vec{w} = 1cos(\theta)+0sin(\theta)=cos(\theta)$$&#x20;
 
 To restate, $$\vec{u} \cdot \vec{v}$$ is always the angle between $$\vec{u} \texttt{ and } \vec{v}$$ for any unit vector.
 
@@ -61,33 +61,33 @@ $$\vec{v} \implies \frac{1}{||\vec{v}||} \vec{v}$$  and $$\vec{w} \implies \frac
 
 $$\frac{1}{||v||} \vec{v} \cdot \frac{1}{||w||}\vec{w} = cos(\theta)$$  and therefore...
 
-$$\frac{1}{||\vec{v}|| \cdot ||\vec{w}||} = cos(\theta)$$ 
+$$\frac{1}{||\vec{v}|| \cdot ||\vec{w}||} = cos(\theta)$$&#x20;
 
 We can derive a couple of rules and take the dot product and determine if it's positive or negative to see if it's acute or obtuse.
 
-* $$\vec{v} \cdot \vec{u} >0 \implies \texttt{angle between the vectors is acute}$$ 
-* If it's equal to zero, it means they are perpendicular/orthogonal. 
-* Also: $$v \cdot w < 0 \implies \texttt{Angle is obtuse}$$ 
+* $$\vec{v} \cdot \vec{u} >0 \implies \texttt{angle between the vectors is acute}$$&#x20;
+* If it's equal to zero, it means they are perpendicular/orthogonal.&#x20;
+* Also: $$v \cdot w < 0 \implies \texttt{Angle is obtuse}$$&#x20;
 
 ### Cauchy Schwartz Inequality
 
 There's a French and German person who discover that the absolute value of a dot product is guaranteed to be less than the product of the lengths.
 
-$$|\vec{v} \cdot \vec{w} | \leq ||\vec{v}|| \ast ||\vec{w}||$$ 
+$$|\vec{v} \cdot \vec{w} | \leq ||\vec{v}|| \ast ||\vec{w}||$$&#x20;
 
-Therefore, 
+Therefore,&#x20;
 
-$$|cos(\theta)| = \frac{\vec{v} \cdot \vec{w}|}{||\vec{v}|| \ast ||\vec{w}||} \leq 1$$  meaning that $$|\vec{v} \ast \vec{w}| \leq ||\vec{v}|| \ast ||\vec{w}||$$ 
+$$|cos(\theta)| = \frac{\vec{v} \cdot \vec{w}|}{||\vec{v}|| \ast ||\vec{w}||} \leq 1$$  meaning that $$|\vec{v} \ast \vec{w}| \leq ||\vec{v}|| \ast ||\vec{w}||$$&#x20;
 
 ### Triangle Inequality
 
-****$$||\vec{v} + \vec{w}|| \leq ||\vec{v}|| + ||\vec{w}||$$** **
+****$$||\vec{v} + \vec{w}|| \leq ||\vec{v}|| + ||\vec{w}||$$ ****&#x20;
 
 This also means if we square both sides, then if we dot it, we can simplify it like we'd expand two binomials.
 
 > Here is his proof:
 >
-> $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$ 
+> $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$&#x20;
 
 We next went over some cool stuff about column space with the following lab:
 
@@ -105,7 +105,7 @@ We next went over some cool stuff about column space with the following lab:
 
 We solved this by using the formula:
 
-$$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac{-2+12}{(33)(21)}$$ 
+$$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac{-2+12}{(33)(21)}$$&#x20;
 
 #### Find Two Independent Vectors in the Plane
 

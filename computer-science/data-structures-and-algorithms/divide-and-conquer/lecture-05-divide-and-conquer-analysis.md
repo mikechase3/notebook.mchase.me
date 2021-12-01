@@ -29,9 +29,9 @@ We'll use the idea of a stock market where we try to figure out when we buy and 
 How Many Subarrays?
 
 1. The number of subarrays with one single element has _n_ subarrays.
-2. The number of elements with 2 consecutive elements has _n-1 _subarrays.
-3. The number of elements with 3 consecutive elements has _n-2 _subarrays.
-4. The number of elements with 4 consecutive elements has _n-3 _subarrays.
+2. The number of elements with 2 consecutive elements has _n-1_ subarrays.
+3. The number of elements with 3 consecutive elements has _n-2_ subarrays.
+4. The number of elements with 4 consecutive elements has _n-3_ subarrays.
 
 The number of subarrays with _n_ elements is
 
@@ -46,9 +46,9 @@ $$
 Let's say we have an original array with the elements `[3, -2, 5, -1]`. We can count the number of subarrays because there are 4 elements.
 
 1. The number of subarrays with one single element has _4_ subarrays.
-2. The number of elements with 2 consecutive elements has _3 _subarrays.
-3. The number of elements with 3 consecutive elements has _2 _subarrays.
-4. The number of elements with 4 consecutive elements has _1 _subarrays.
+2. The number of elements with 2 consecutive elements has _3_ subarrays.
+3. The number of elements with 3 consecutive elements has _2_ subarrays.
+4. The number of elements with 4 consecutive elements has _1_ subarrays.
 
 
 
@@ -68,7 +68,7 @@ I'm only 90% sure I calculated this right, not 100%
 
 {% tabs %}
 {% tab title="Cubic Time" %}
-This work is not my own, but from [Back to Back SWE](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions): 
+This work is not my own, but from [Back to Back SWE](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions):&#x20;
 
 ```java
 class Solution {
@@ -148,7 +148,7 @@ There are three cases we must consider:
 * Across the middle portion
 
 {% hint style="danger" %}
-I do not understand how to cross between the middle point _(Video: 17:30: We need to compare the three sum, if we go from A\[0] _⇒_A\[2]_, we find the sum is 6._)_
+I do not understand how to cross between the middle point _(Video: 17:30: We need to compare the three sum, if we go from A\[0]_ ⇒_A\[2]_, we find the sum is 6._)_
 {% endhint %}
 
 __
@@ -157,7 +157,7 @@ __
 
 1. **Divide** by computing the mid-point and splitting.
 2. **Conquer** by two recursive calls:
-   1. Find the maximum subarray of `A[low...mid]` 
+   1. Find the maximum subarray of `A[low...mid]`&#x20;
    2. Find the maximum subarray of  `A[mid+1...high]`
 3. **Combine**  by calling the _Find-max-crossing subarray_ that crosses the midpoint, and then determining which of the three results gives the maximum sum _(Source: Yao)_.
 4. Solve the **base case**, where the array only has one element _by returning just that element._
@@ -278,7 +278,7 @@ What are the steps for solving ad divide/conquer running time?
 
 * [ ] Look at each sub-problem and find the running time _(see merge-sort and quick-sort examples above)._
 * [ ] **Add** each sub-problem together and set them equal to **T(n)**
-* [ ] **Solve** for a, b, and n in the master theorem. 
+* [ ] **Solve** for a, b, and n in the master theorem.&#x20;
 * [ ] **Substitute** variables to solve:
 
 $$
@@ -309,7 +309,7 @@ $$
 
 1. [Back to Back SWE: Max Contiguous Subarray Sum Solutions](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions)
 2. Dr. Yao's classroom lecture (problems & formatting mostly).
-3. _**Textbook: **_Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_)
+3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_)
 
 ## Works Cited
 

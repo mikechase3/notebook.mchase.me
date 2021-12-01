@@ -9,7 +9,7 @@
 #### The fit of the continents
 
 * **Tidal Forces**: gravitational pull of the moon and sun. (Moon/earth gravity).
-* **Centrifugal force: **of Earth's Rotation: this was proposed, but proven wrong somehow.
+* **Centrifugal force:** of Earth's Rotation: this was proposed, but proven wrong somehow.
 * Sir Harold Jefferies: he noted that these forces are too weak to pull a continent across the ocean floor.
 
 ## Interlude D: Plate Tectonic Properties

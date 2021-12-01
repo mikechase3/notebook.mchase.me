@@ -27,13 +27,13 @@
 
 ### Level Editor
 
-* **Miscellaneous: **Things are applied automatically.
-* **Level Editor: **Play new window default size. Adjust to common settings. Multiplayer options.
+* **Miscellaneous:** Things are applied automatically.
+* **Level Editor:** Play new window default size. Adjust to common settings. Multiplayer options.
 * **Viewports**: Viewports look and feel. Like WSAD to work or never work. How does the grid.
 
 ### Content Editors
 
-* **Blueprint Editor: **Things specific to blueprint editors.
+* **Blueprint Editor:** Things specific to blueprint editors.
 
 ### Advanced
 
@@ -49,15 +49,15 @@
 
 * Description
 * Publisher
-* **Maps and Modes: **First or 3rd person mode; default maps
+* **Maps and Modes:** First or 3rd person mode; default maps
 * Packaging
 * Supported Platforms
 
 ### Engine
 
-* What thigns collide with which items? 
+* What thigns collide with which items?&#x20;
 * _**Input**_: Is mouse used for touch?
-* **Rendering: **Bloom, ambient, occlusion, processor effects, etc.
+* **Rendering:** Bloom, ambient, occlusion, processor effects, etc.
 
 ### Editor
 
@@ -66,7 +66,7 @@
 
 ### Platforms
 
-* Which version of DirectX. 
+* Which version of DirectX.&#x20;
 * Android SDK setups.
 * Individual settings for all the platforms.
 

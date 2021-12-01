@@ -74,7 +74,7 @@
 * Skillset: (old timers aren't as hip to the new stuff?)
 
 {% hint style="info" %}
-**Summary: **In a microservices architecture, each service should have a separate codebase and be managed by a small team. Each service should be responsible for its own data.
+**Summary:** In a microservices architecture, each service should have a separate codebase and be managed by a small team. Each service should be responsible for its own data.
 {% endhint %}
 
 ## How to Implement?
@@ -95,14 +95,14 @@
 ![](<../../../.gitbook/assets/image (516).png>)
 
 {% hint style="info" %}
-**Check your understanding: **True/False: a microservice API allow CORS by default. _False._
+**Check your understanding:** True/False: a microservice API allow CORS by default. _False._
 {% endhint %}
 
 ## Microservice Testing
 
 * We can run the microservice locally and test it using Google Cloud Shell.
 * Each service must be accessible from within the network (or publicly if it's a front-end computer users must interact with).
-* After deploying locally, deploy it on a server. 
+* After deploying locally, deploy it on a server.&#x20;
 
 ## Sprint 1 Requirements
 
@@ -119,7 +119,7 @@
 Links to the aforementioned publicly available sources are listed below.
 
 * Phung, Phu. _Creative Cloud Applications_. Lecture 05. (Primary).
-* Wu, Andy. _Taking the Cloud-Native Approach with Microservices_. 
+* Wu, Andy. _Taking the Cloud-Native Approach with Microservices_.&#x20;
 * Microservices architecture style guide:  Microservices architecture style.
 * Cloud Security Alliance. _Application Containers and Microservices_. "Best Practices in Impolemting a Secure Microservices Architecture" (Feb 2020).
 

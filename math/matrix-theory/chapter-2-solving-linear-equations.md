@@ -6,7 +6,7 @@
 
 Last Friday, we were talking about matrices and how to solve systems without having to do much work with back-substitution.
 
-* When a matrix is an _**upper triangular (U)**_, $$U\vec{x}=b$$ can be solved by _**back-solution **_whenever the diagonal entries or pivots are non-zero.
+* When a matrix is an _**upper triangular (U)**_, $$U\vec{x}=b$$ can be solved by _**back-solution**_ whenever the diagonal entries or pivots are non-zero.
 * If a pivot is zero, the system has no solution or has infinity many solutions.
 
 ### Example: No Solution
@@ -15,8 +15,8 @@ Last Friday, we were talking about matrices and how to solve systems without hav
 
 Notice:
 
-* The second row corresponds to $$0x_1+-x_2+2x_3=1$$ 
-* The third row corresponds to $$0x_1+0x_2+2x_3=2$$ 
+* The second row corresponds to $$0x_1+-x_2+2x_3=1$$&#x20;
+* The third row corresponds to $$0x_1+0x_2+2x_3=2$$&#x20;
 * Therefore, there is no solution
 
 {% hint style="warning" %}
@@ -35,7 +35,7 @@ $$
 
 ![](<../../.gitbook/assets/image (596).png>)
 
-* First, proceed to do column by column. 
+* First, proceed to do column by column.&#x20;
 * Start in column 1 and identify the pivot.
 * Define multipliers for rows below.
 
@@ -60,13 +60,13 @@ How did we get from the last step here?
 
 ![](<../../.gitbook/assets/image (595).png>)
 
-Then he wrote down: $$l_{2,1} = -2 \implies E_{2,1}=\begin{bmatrix}1 & 0 & 0 \\ 2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$$ 
+Then he wrote down: $$l_{2,1} = -2 \implies E_{2,1}=\begin{bmatrix}1 & 0 & 0 \\ 2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$$&#x20;
 
 * The value of 1,2 flips from negative to positive in the above matrix.
 
 ### Summary
 
-* The process is looking at the multipliers (ie an augmented matrix) and multiplying it by \__.
+* The process is looking at the multipliers (ie an augmented matrix) and multiplying it by \_\_.
 
 $$
 \begin{bmatrix} A & | & \vec{b} \end{bmatrix} \implies E_{21}

@@ -168,7 +168,7 @@ Dr. Chen's Slides:
 * **Languages**: LISP, Scheme, Haskell, Racket (dialect of Scheme).
 * The design tries to minimize the syntax content _e.g. no main method, class keyword, virtual, static to make your program very simple and concise._
 * When you remove these, it makes your program harder to read.
-* Most of these programs look like math formulas but their definitions are (too) simple and concise. 
+* Most of these programs look like math formulas but their definitions are (too) simple and concise.&#x20;
 
 #### Advantages
 
@@ -187,9 +187,9 @@ Dr. Chen's Slides:
 ![Recursively computing a factorial in Scheme](<../../.gitbook/assets/image (217) (1) (1) (1) (2).png>)
 
 * All expressions using scheme use prefix notation: `if( (= n 0)`  checks whether n is equal to zero or not.
-  * If it's true, return 1. _We see it's really simple. It's just _ `1` _which eliminates so much syntax._
-  * The second line is the 'else' condition. 
-* In scheme, the nested structures use parenthesis. 
+  * If it's true, return 1. _We see it's really simple. It's just_ `1` _which eliminates so much syntax._
+  * The second line is the 'else' condition.&#x20;
+* In scheme, the nested structures use parenthesis.&#x20;
 {% endtab %}
 
 {% tab title="Logic" %}
@@ -214,7 +214,7 @@ Dr. Chen's Slides:
 
 * The first line is the base case.
 * The second line and indented lines describe the recursive call.
-* `F1` is like a return value. 
+* `F1` is like a return value.&#x20;
 {% endtab %}
 
 {% tab title="Scripting or Domain-Specific" %}
@@ -226,7 +226,7 @@ Dr. Chen's Slides:
 
 #### Examples
 
-* JavaScript, PHP, Python, Flash. 
+* JavaScript, PHP, Python, Flash.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -236,7 +236,7 @@ Dr. Chen's Slides:
 * We can evaluate expressions so `+-` is an illegal operator.
 * We can also have programs throw errors, such that `int i = 3.0` is illegal without typecasting.
 * Parsers must recognize when `+` is used for concatenation or adding integers depending on the context.
-  * Different contexts have different roles. 
+  * Different contexts have different roles.&#x20;
 * When do we pass by reference and when do we make copies?
 
 ## Syntax and Semantics
@@ -248,11 +248,11 @@ Dr. Chen's Slides:
 * **Identifiers:** are naming rules for variables, functions, and classes.
   * Two identifiers can have the same name if they are both out of scope.
   * Variables must start with a letter and must only contain numbers/underscores.
-* **Formats of constants: **integers, floating-point numbers, characters, strings
+* **Formats of constants:** integers, floating-point numbers, characters, strings
   * We can put a `+/-` in front of an integer.
   * You can also use scientific notation in many languages.
   * The finite automata used to read these formats is included within the language.
-* **Keywords: **
+* **Keywords:**&#x20;
   * Easiest because there's not transitive/kleans closure.
   * There is only one word that you can define in a regular language.
 

@@ -71,7 +71,7 @@
 
 * It's setup as a broadcasting service for cold Europe
 * All you hear is that _Radio Free Europe_ is doing these broadcasts.
-* Radio Free Europe is **a front. **It's actually scripted information from the USA, intentionally.
+* Radio Free Europe is **a front.** It's actually scripted information from the USA, intentionally.
 * They do this so their message is played to the public in communist Eastern Europe.
   * The public only sees _Radio Free Europe_ as a source.
   * This is because the US isn't very credible. The communist Russia doesn't trust the US, but they're much more likely to setup this independent information just because they're not in the US.
@@ -89,7 +89,7 @@
 * It gets revealed every few years to publish studies that the Tobacco companies can say to defend tobacco.
   * _"Well, lots of things give you Tobacco."_
   * These aren't my numbers, you can trust me.
-* By claiming this trustworthy, reliable source, I'm deflecting the attacks on me as a propagandist. 
+* By claiming this trustworthy, reliable source, I'm deflecting the attacks on me as a propagandist.&#x20;
 
 ## Self-Generated Persuasion
 

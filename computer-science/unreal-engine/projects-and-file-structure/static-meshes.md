@@ -6,7 +6,7 @@ description: 'Purpoose: build better 3D Meshes'
 
 ## System Units
 
-* Use _**centimeters **_as the default unit of measurement.
+* Use _**centimeters**_ as the default unit of measurement.
 * 1 unreal unit is equal to 1 centimeter.
 * Make sure to set DCC
 
@@ -31,7 +31,7 @@ Keep your triangle count low!
 
 * Material IDs determine which material gets applied to them.
 * If an object has multiple material IDs, it needs to be rendered multiple times.
-* If an object has 5 material IDs, it will need to be rendered 5 times. 
+* If an object has 5 material IDs, it will need to be rendered 5 times.&#x20;
 
 **Summary**: Each material ID you add costs more to render.
 
@@ -55,7 +55,7 @@ Light maps are used to store complex light and shadow information inside of a te
 * This way, we get this information almost at zero cost during run-time.
 * You pack information into R, G, and B information.
 
-Now that we know what light maps are and what they're used for, we'll talk about some of the caveats. 
+Now that we know what light maps are and what they're used for, we'll talk about some of the caveats.&#x20;
 
 ![](<../../../.gitbook/assets/image (176).png>)
 
@@ -83,7 +83,7 @@ There is more information in 15:00, but it was too specific for what I need.
 
 ![](<../../../.gitbook/assets/image (185).png>)
 
-1. Click Collision and add a box. 
+1. Click Collision and add a box.&#x20;
 2. Move it around the colliding object.
 
 ![Transform the box so it rotates within the leg.](<../../../.gitbook/assets/image (175).png>)
@@ -99,7 +99,7 @@ There is more information in 15:00, but it was too specific for what I need.
 ![](<../../../.gitbook/assets/image (181).png>)
 
 * By manipulating the shape of your plane, you can eliminate unneeded calculations.
-* Remove some vertices so you don't have to render a ton more pixels. 
+* Remove some vertices so you don't have to render a ton more pixels.&#x20;
 
 ## Level of Detail (LOD)
 

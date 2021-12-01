@@ -15,7 +15,7 @@
 
 ## Equivocation & Amphibology
 
-* **Equivocation: **The same word can mean different things.
+* **Equivocation:** The same word can mean different things.
 * Many words are **polysemous**, meaning they have many possible meanings.
 * **Amphibology**: using ambiguity for benefit
   * Make predictions that cannot be wrong
@@ -60,11 +60,11 @@
 
 * Labeling the opponent in impossible-to-agree-with terms
 * The boston **massacre**
-* **War **on **Terror**
-* Pro-choice & Pro-Life: _nobody is going to have an anti-choice shirt. _
+* **War** on **Terror**
+* Pro-choice & Pro-Life: _nobody is going to have an anti-choice shirt._&#x20;
 * We need to **reduce violence** on television.
 
-We're silenced in criticism when we use the word "terror." 
+We're silenced in criticism when we use the word "terror."&#x20;
 
 ### Defining Problems by Naming Them
 
@@ -81,17 +81,17 @@ This was pretty much invtented. It's baad. People don't want it.
 #### Body Odor
 
 * People smooked so much that you couldn't tell if people stunk.
-* They had to make you care 
+* They had to make you care&#x20;
 
 #### Light Beer
 
 * It's not actually any healthier.
 * It's just watered-down.
-* You pay more for a crappier version of that product. 
+* You pay more for a crappier version of that product.&#x20;
 
 ### Euphemisms: Weakening word power
 
-These words are almost too 
+These words are almost too&#x20;
 
 #### Collateral Damage
 
@@ -140,7 +140,7 @@ Statements appear to be clear and concrete, but select words (often propositions
 
 ### Tell a Story
 
-* Stories are remembered much better 
+* Stories are remembered much better&#x20;
 
 ## JUUL: Early Advertising
 
@@ -149,7 +149,7 @@ Statements appear to be clear and concrete, but select words (often propositions
 * The word JUUL doesn't imply this is invented to help people quit cigarettes.
 * Shows _super happy fun-time_
 * Fitting in the crowd.
-* The word **vaporized** is a _**euphemism**_ for smoking. 
+* The word **vaporized** is a _**euphemism**_ for smoking.&#x20;
 * JUUL is not trying to tell us to smoke because smoking is bad. Vaping kinda sounds cool. The old people don't know how it works.
 * It does not look like the bad things.
 
@@ -162,11 +162,11 @@ Statements appear to be clear and concrete, but select words (often propositions
 
 * The complete fabrication of jaywalking.
 * The idea that jay walking is a problem is completely fabricated.
-* Rich people didn't want to look bad for mowing down peasants with their 2-ton vehicles. 
+* Rich people didn't want to look bad for mowing down peasants with their 2-ton vehicles.&#x20;
   * Editorials
   * Newspaper caroons
 * Jay: red neck, folks out on the farm.
-  * Only stupid, ignorant, uncultured Jays don't get out of the way of the car. 
+  * Only stupid, ignorant, uncultured Jays don't get out of the way of the car.&#x20;
   * They get mowed down.
   * By painting the literal victim of a crime as a country bumpkin, you make people ashamed and feel bad that they got in the way of someone who couldn't control their car.
 

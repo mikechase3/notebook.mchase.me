@@ -50,7 +50,7 @@ The faster a light source moves away from an observer, the more red they look. T
 4. **Test Hypothesis**: Collect more data.&#x20;
    1. Black body radiation left over from the big bang. Discovered andd fits predicted intensity curve.
    2. Primordial helium: scientists predicted that the big bang should've created approximately 75% hydrogen and 25% helium. But fusion in stars should create more helium. The older a star is, the more helium it should contain. Our sun has 28% helium.&#x20;
-5. **Corroborate or Dispute Hypothesis: **A good theory, but people always refute it somehow.
+5. **Corroborate or Dispute Hypothesis:** A good theory, but people always refute it somehow.
 
 ## Life Cycle of a Star
 
@@ -100,7 +100,7 @@ $$
 * Has no wind, water, or erosion which would destroy the craters.
 * Meteors burn in earth's atmosphere, but not Mercury.
 * Earth has plate active plate tectonics, particularly volcanism.
-* The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet _because it doesn't have an active heat engine like the earth does.
+* The earth essentially recycles its surface material. Mercury by contrast doesn't have internal heat to do that, making mercury a _dead planet_ because it doesn't have an active heat engine like the earth does.
 *   The planet is cooling down and shrinking slowly.
 
 
@@ -198,7 +198,7 @@ $$
 
 * **Eccentricity**: tell us how eeliptical something is around the sun with a 100,000 year cycle.
 * **Obliquity (tilt)**: Over 41,000 years, the tilt goes between 22 and 24 degree.
-* **Precession (Wobble): **23,000. This describes the amount of wobble the Earth has.
+* **Precession (Wobble):** 23,000. This describes the amount of wobble the Earth has.
 
 ### Evidence from Seismic Waves
 

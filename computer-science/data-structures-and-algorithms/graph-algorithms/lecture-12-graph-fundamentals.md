@@ -106,7 +106,7 @@ What is the x and y value for the nodes? What does that mean?
 Don't worry about the adjacency list representation just yet.
 {% endhint %}
 
-For unweighted graphs, especially small ones, we use adjacency matrices because they only take up 1 bit. We can define a graph by vertices and edges. Formally, we define a _|V| x |V| matrix A = _$$a_{ij}$$ where
+For unweighted graphs, especially small ones, we use adjacency matrices because they only take up 1 bit. We can define a graph by vertices and edges. Formally, we define a _|V| x |V| matrix A =_ $$a_{ij}$$ where
 
 $$
 |V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases}
@@ -126,7 +126,7 @@ $$
 | Adjacency matrix | $$V^2$$  | 1        | 1                   | V                          |
 | Adjacency Lists  | E+V      | 1        | `degree(v)`         | `degree(v)`                |
 
-* The space requirement is $$\Theta(|V|^2)$$ 
+* The space requirement is $$\Theta(|V|^2)$$&#x20;
 * The time complexity for listing all vertices adjacent to node `u` is $$\Theta(|V|)$$, which is how long it takes to check one row of the adjacency matrix. _This is asking "what is adjacent to this node, not all nodes)._
 * The running time to determine if two nodes are directly connected is $$\Theta(1).$$ You can just check the adjacency list.
 
@@ -142,7 +142,7 @@ $$
 
 ![An Adjacency List Representation of the Graph](<../../../.gitbook/assets/image (75).png>)
 
-Adjacency lists maintain a vertex-indexed array of lists. 
+Adjacency lists maintain a vertex-indexed array of lists.&#x20;
 
 ## Undirected Graph API
 
@@ -188,7 +188,7 @@ public class Graph{
 ```
 
 {% hint style="warning" %}
-What is the iterator? Line 20?  What is it iterating through? is v's neighbor set the 
+What is the iterator? Line 20?  What is it iterating through? is v's neighbor set the&#x20;
 {% endhint %}
 
 ## Directed Graphs
@@ -221,8 +221,8 @@ Go through this later to see if I understand it.
 
 ## Works Cited
 
-| Title                      | Content Used           | Author                                                                                          |
-| -------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------- |
-| CPS 450 Class              | Structure              | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
-| Introduction to Algorithms | Adjacency Matrix       | Thomas e.t. al.                                                                                 |
-| Graph                      | None, but see quizzes. | Visualgo                                                                                        |
+| Title                      | Content Used           | Author                                                                                           |
+| -------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ |
+| CPS 450 Class              | Structure              | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao\_zhongmei.php) |
+| Introduction to Algorithms | Adjacency Matrix       | Thomas e.t. al.                                                                                  |
+| Graph                      | None, but see quizzes. | Visualgo                                                                                         |
