@@ -290,8 +290,12 @@
   * [Chapter 7: Sedimentary Rocks](math/rocks-for-jocks/chapter-7-sedimentary-rocks.md)
   * [Chapter 3: Continents and Land](math/rocks-for-jocks/chapter-3-continents-and-land.md)
   * [Chapter 17: The Hydrologic Cycle](math/rocks-for-jocks/chapter-17-the-hydrologic-cycle.md)
-  * [Test 3](math/rocks-for-jocks/test-3.md)
   * [Test 2 Onwards](math/rocks-for-jocks/test-2-onwards.md)
+  * [Glaciers](math/rocks-for-jocks/glaciers.md)
+  * [Rivers and Flooding](math/rocks-for-jocks/rivers-and-flooding.md)
+  * [Groundwater](math/rocks-for-jocks/groundwater.md)
+  * [Global Climate Change](math/rocks-for-jocks/global-climate-change.md)
+  * [Building the Geologic Timescale](math/rocks-for-jocks/building-the-geologic-timescale.md)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Class 01 & 02: Matrices Review](math/matrix-theory/matrix-theory-and-apps.md)
@@ -344,6 +348,7 @@
 * [The Conclusion](communication/writing/the-conclusion.md)
 * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
 * [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
+* [Bullet Statement Mechanics](writing/bullet-statement-mechanics.md)
 * [eSSS Sample](writing/page-1.md)
 
 ## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
