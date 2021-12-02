@@ -343,8 +343,8 @@
 * [The Introduction](communication/writing/the-introduction.md)
 * [The Conclusion](communication/writing/the-conclusion.md)
 * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
-* [Background Bullet Papers](writing/background-bullet-papers.md)
-* [eSSS Sample](writing/esss-sample.md)
+* [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
+* [eSSS Sample](writing/page-1.md)
 
 ## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
 
