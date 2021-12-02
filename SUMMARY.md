@@ -303,6 +303,7 @@
   * [Lecture 04: Row-Column & Column-Row](math/matrix-theory/lecture-04-row-column-model.md)
   * [Lecture 05: Column-Column Model](math/matrix-theory/lecture-05-column-column-model.md)
   * [Chapter 2: Solving Linear Equations](math/matrix-theory/chapter-2-solving-linear-equations.md)
+  * [Single Value Decomposition](math/matrix-theory/single-value-decomposition.md)
 * [Calc 3](math/untitled-1/README.md)
   * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
