@@ -15,14 +15,14 @@
 
 ### Decompositions
 
-| Mathematical Form    | English Translation | Usage |
-| -------------------- | ------------------- | ----- |
-| A=LU                 |                     |       |
-| A=QR                 |                     |       |
-| $$S=Q \land Q^T$$    |                     |       |
-| $$A=X \land X^{-1}$$ |                     |       |
-| $$A=QS$$             |                     |       |
-| $$A=U \Sigma V^T$$   |                     |       |
+| Mathematical Form    | English Translation                                                                                                                                                                                                     | Usage                                                                                                                                                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A=LU                 |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| A=QR                 |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| $$S=Q \land Q^T$$    |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| $$A=X \land X^{-1}$$ |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| $$A=QS$$             |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| $$A=U \Sigma V^T$$   | Singular value decomposition. Looks like $$A = \begin{bmatrix}\vec{u_1} & \vec{u_2}\end{bmatrix} \begin{bmatrix} \sigma_1 & 0 \\ 0 & \sigma_{2} \end{bmatrix} \begin{bmatrix} \vec{v}_1^T \\ \vec{v}_2^T\end{bmatrix}$$ | <ul><li><span class="math">\sigma_1, \sigma_2,...</span> are "singular values"</li><li>The u's are the "left singular vector".</li><li>The v's are the "right singular vectors"</li></ul> |
 
 ## Matrix Factorizations (A5)
 

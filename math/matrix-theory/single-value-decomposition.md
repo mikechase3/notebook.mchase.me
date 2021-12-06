@@ -1,8 +1,38 @@
 # Single Value Decomposition
 
-## FORMULA: $$A=U \Sigma V^T$$
+## The Main Idea
 
-## Lecture Notes & Video
+* Remember: $$A=U \Sigma V^T$$&#x20;
+* We use it to factor non-square matrices and do fun things like find determinants on that after they get turned into square matrices through voodoo multiplication.&#x20;
+* It breaks down like this:
+
+$$
+A = \begin{bmatrix}\vec{u_1} & \vec{u_2}\end{bmatrix} \begin{bmatrix} \sigma_1 & 0 \\ 0 & \sigma_{2} \end{bmatrix} \begin{bmatrix} \vec{v}_1^T \\ \vec{v}_2^T\end{bmatrix}
+$$
+
+* Orthogonal \* diagonal \* orthogonal.
+
+## Example
+
+This process works on any size mxn matrix, but for now, let's say we have a matrix:
+
+$$
+A = \begin{bmatrix}2 & 2 \\ 1 & 1 \end{bmatrix}
+$$
+
+and there's a question on the test that says "find the singular value decomposition", you'll want to break it up into something that looks like this:
+
+$$
+A = \begin{bmatrix}\vec{u_1} & \vec{u_2}\end{bmatrix} \begin{bmatrix} \sigma_1 & 0 \\ 0 & \sigma_{2} \end{bmatrix} \begin{bmatrix} \vec{v}_1^T \\ \vec{v}_2^T\end{bmatrix}
+$$
+
+#### Step 1: Find A'A
+
+The first thing we'll want to do is calculate A'A.
+
+### Video Walkthrough
+
+## Other Resources
 
 {% embed url="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/MIT18_06SCF11_Ses3.5sum.pdf" %}
 
