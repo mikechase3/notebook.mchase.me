@@ -101,6 +101,7 @@
     * [Entity Relationship Model](computer-science/databases/university-coursework/entity-relationship-model.md)
     * [Data Mining](computer-science/databases/university-coursework/data-mining.md)
     * [SQL](computer-science/databases/university-coursework/sql.md)
+    * [Final Exam](computer-science/databases/university-coursework/final-exam.md)
   * [Codecademy Coursework](computer-science/databases/l03/README.md)
     * [Types of Databases](computer-science/databases/l03/types-of-databases.md)
     * [Table Manipulation](computer-science/databases/l03/table-manipulation.md)
