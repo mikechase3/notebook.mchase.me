@@ -4,6 +4,14 @@ description: All information after we finished covering chapter 17.
 
 # Glaciers
 
+## Terminology
+
+| Term | Definition |
+| ---- | ---------- |
+|      |            |
+|      |            |
+|      |            |
+
 ## Formation
 
 * Glaciers form when snow that accumulates during a winter does not completely melt during the summer.
