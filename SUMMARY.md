@@ -92,6 +92,7 @@
   * [Chapter 18: Security Auditing](computer-science/cybersecurity/chapter-18-security-auditing.md)
   * [Chapter 8: Intrusion Detection](computer-science/cybersecurity/chapter-8-intrusion-detection.md)
   * [Chapter 9: Firewalls and Intrusion Prevention](computer-science/cybersecurity/chapter-9-firewalls-and-intrusion-prevention.md)
+  * [Chapter 18: Security Auditing](computer-science/cybersecurity/chapter-18-security-auditing-1.md)
   * [Chapter 5: Databases](computer-science/cybersecurity/chapter-5-databases.md)
   * [Chapter 2: Cryptographic Tools](computer-science/cybersecurity/chapter-2-cryptographic-tools.md)
   * [Chapter 20: Symmetric Encryption](computer-science/cybersecurity/chapter-20-symmetric-encryption.md)

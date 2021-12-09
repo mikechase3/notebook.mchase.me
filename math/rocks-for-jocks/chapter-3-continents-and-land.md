@@ -26,5 +26,5 @@
 
 ## Seismographs and Seismic Waves
 
-![](<../../.gitbook/assets/image (639).png>)
+![](<../../.gitbook/assets/image (639) (1).png>)
 
