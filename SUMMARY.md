@@ -97,6 +97,7 @@
   * [Chapter 2: Cryptographic Tools](computer-science/cybersecurity/chapter-2-cryptographic-tools.md)
   * [Chapter 20: Symmetric Encryption](computer-science/cybersecurity/chapter-20-symmetric-encryption.md)
   * [Chapter 21: Public Key Cryptography](computer-science/cybersecurity/chapter-21-public-key-cryptography.md)
+  * [Wrap Up](computer-science/cybersecurity/wrap-up.md)
 * [Databases](computer-science/databases/README.md)
   * [University Coursework](computer-science/databases/university-coursework/README.md)
     * [Entity Relationship Model](computer-science/databases/university-coursework/entity-relationship-model.md)
