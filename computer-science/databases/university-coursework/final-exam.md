@@ -4,11 +4,13 @@
 
 ### 70% of Exam
 
-#### **Database Architecture**
+#### **Database Architecture (Ch2)**
+
+![](<../../../.gitbook/assets/CleanShot 2021-12-09 at 13.31.02@2x.jpg>)
 
 Know the three-level database architecture and be able to describe each level (including mapping).&#x20;
 
-#### **Data Modeling**
+#### **Data Modeling (Ch3)**
 
 For the Entity-Relationship diagram, be able to describe the following:
 
@@ -22,11 +24,13 @@ For the Entity-Relationship diagram, be able to describe the following:
 
 ·       Weak entity (existence dependency, identifying relationship)
 
+![](<../../../.gitbook/assets/CleanShot 2021-12-09 at 13.32.17@2x.jpg>)
+
 **Relational Algebra**
 
 No relational algebra!!!
 
-**SQL**
+****[**SQL**](https://www.codecademy.com/learn/learn-sql)****
 
 * Be able to construct queries in this database language.
 
@@ -43,15 +47,15 @@ No relational algebra!!!
 
 ### **30% of exam (approximately):**
 
-**Normalization**
+**Normalization (Chapter 6)**
 
 Know how to tell if a database is in first, second, or third normal form.  Know what anomalies may occur if a database is not in third normal form (update, insert, delete, etc.).  Be able to convert a relation (decompose) into 2nd and 3rd normal form (if it is not so already).
 
-**Functional Dependencies**
+**Functional Dependencies (Chapter 14)**
 
 Be able to define what a functional dependency is in a database.  Know what closure is.&#x20;
 
-**Database Design**
+**Database Design (Chapter 6)**
 
 Know the properties (both formal and informal) of a good database design.  Be able to discuss each with examples.
 
