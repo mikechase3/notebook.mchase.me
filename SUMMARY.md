@@ -356,6 +356,7 @@
 
 ## 📝 Writing
 
+* [Purdue Owl](https://owl.purdue.edu/owl/purdue\_owl.html)
 * [The Introduction](communication/writing/the-introduction.md)
 * [The Conclusion](communication/writing/the-conclusion.md)
 * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
