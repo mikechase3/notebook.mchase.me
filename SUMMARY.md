@@ -363,6 +363,7 @@
 * [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
 * [Bullet Statement Mechanics](writing/bullet-statement-mechanics.md)
 * [eSSS Sample](writing/page-1.md)
+* [The Tongue and Quill](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 
 ## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
 
