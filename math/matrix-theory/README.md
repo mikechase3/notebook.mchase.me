@@ -4,20 +4,20 @@
 
 #### Legend (Appendix-3)
 
-| Letter               | Meaning                                            | Usage Examples |
-| -------------------- | -------------------------------------------------- | -------------- |
-| L                    | An $$n \times n$$ matrix with 1's on the diagonal. |                |
-| U                    |                                                    |                |
-| Q (Orthogonal)       |                                                    |                |
-| S (Symmetric)        |                                                    |                |
-| $$\land$$ (Diagonal) |                                                    |                |
-| X                    |                                                    |                |
+| Letter               | Meaning                                                            | Usage Examples |
+| -------------------- | ------------------------------------------------------------------ | -------------- |
+| L                    | Lower diagonal. An $$n \times n$$ matrix with 1's on the diagonal. |                |
+| U                    | Upper traingular/diagonal?                                         |                |
+| Q (Orthogonal)       |                                                                    |                |
+| S (Symmetric)        |                                                                    |                |
+| $$\land$$ (Diagonal) |                                                                    |                |
+| X                    |                                                                    |                |
 
 ### Decompositions
 
 | Mathematical Form    | English Translation                                                                                                                                                                                                     | Usage                                                                                                                                                                                     |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A=LU                 |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
+| A=LU                 | A decomposition where of lower/upper diagonal/trangulars? I don't know which.                                                                                                                                           |                                                                                                                                                                                           |
 | A=QR                 |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
 | $$S=Q \land Q^T$$    |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
 | $$A=X \land X^{-1}$$ |                                                                                                                                                                                                                         |                                                                                                                                                                                           |
