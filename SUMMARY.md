@@ -282,6 +282,7 @@
 
 * [Consent Outside the Bedroom](life/consent-outside-the-bedroom.md)
 * [Dating](life/dating.md)
+* [Don't Do Drugs](life/dont-do-drugs.md)
 * [Goal Setting](life/goal-setting.md)
 * [Principles and Values](life/values.md)
 
