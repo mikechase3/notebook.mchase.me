@@ -364,7 +364,7 @@
 ## 📒 Principles and Values
 
 * [Drugs Don't Solve Problems](principles-and-values/drugs-dont-solve-problems.md)
-* [Page 1](principles-and-values/page-1.md)
+* [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 
 ## 📝 Writing
 
