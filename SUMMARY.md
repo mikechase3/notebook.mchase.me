@@ -372,6 +372,7 @@
 * [The Introduction](communication/writing/the-introduction.md)
 * [The Conclusion](communication/writing/the-conclusion.md)
 * [The Argumentative Essay](communication/writing/the-argumentative-essay.md)
+* [Abstracts](writing/abstracts.md)
 * [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
 * [Bullet Statement Mechanics](writing/bullet-statement-mechanics.md)
 * [eSSS Sample](writing/page-1.md)
@@ -381,3 +382,4 @@
 ## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
+* [Time Spent in Single Occupancy Restrooms in Libraries](personal-essays/time-spent-in-single-occupancy-restrooms-in-libraries.md)
