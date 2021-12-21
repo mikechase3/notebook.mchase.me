@@ -282,7 +282,6 @@
 
 * [Consent Outside the Bedroom](life/consent-outside-the-bedroom.md)
 * [Dating](life/dating.md)
-* [Don't Do Drugs](life/dont-do-drugs.md)
 * [Goal Setting](life/goal-setting.md)
 * [Principles and Values](life/values.md)
 
@@ -361,6 +360,11 @@
   * [Chords](music/theory/chords.md)
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Chord Progressions](music/theory/chord-progressions.md)
+
+## 📒 Principles and Values
+
+* [Drugs Don't Solve Problems](principles-and-values/drugs-dont-solve-problems.md)
+* [Page 1](principles-and-values/page-1.md)
 
 ## 📝 Writing
 
