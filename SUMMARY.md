@@ -200,6 +200,7 @@
   * [Racket](computer-science/languages-and-architectures/scheme.md)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
+  * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
   * [Getting Started](computer-science/linux/getting-started.md)
 * [Machine Learning](computer-science/understanding-learning/README.md)
