@@ -34,6 +34,7 @@
   * [What to Wear](career/interviewing/what-to-wear.md)
   * [Overcoming Nerves](career/interviewing/overcoming-nerves.md)
   * [Q/A](career/interviewing/q-a.md)
+* [Master Resume](career/master-resume.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 * [Seven Habits](career/seven-habits.md)
