@@ -1,4 +1,4 @@
-# Master Resume
+# Master Resume/CV
 
 ## History
 
@@ -27,14 +27,14 @@ If you're in high school or early on in your college career, keep your resume to
 
 #### \`pickett.pdf\` method
 
-I was involved with the interviewing process of some faculty. My favorite organization method comes from a document called `pickett.pdf`.&#x20;
+I'm at the point where I have enough work experience and talking points where I can exceed a page and talk about things other than my educational experience. I was involved with the interviewing process of some faculty. My favorite organization method comes from a document called `pickett.pdf`.&#x20;
 
 | Heading                        | What to write                                                                                                                                                                                                                                                                                              |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Summary                        | <ul><li>One sentence tying skills to experiences.</li><li>Mission/values</li><li>Implementing strategies sustaining institutions.</li></ul>                                                                                                                                                                |
+| Summary/Objective              | <ul><li>One sentence tying skills to experiences.</li><li>Mission/values</li><li>Implementing strategies sustaining institutions.</li></ul>                                                                                                                                                                |
 | Highlights (aka skills)        | <p>Keep it to bullet points; 4 words max. No punctuation. 3 columns.</p><ul><li>Verbal and Written Communication</li><li>Strategic Planning</li><li>Program Development</li><li>Operational Improvement</li><li>Community Organizing/Outreach</li><li>Marketing Research</li><li>Public Speaking</li></ul> |
 | Experience                     | List the month/day, job title, company name, and location. Be thorough in how many bullet points you list. He listed 9 bullets for his most recent job. List about five for the rest.                                                                                                                      |
-| Education                      | Keep it simple and stupid. Nobody cares once you have a job.                                                                                                                                                                                                                                               |
+| Education & Certifications     | Keep it simple and stupid. Nobody cares once you have a job.                                                                                                                                                                                                                                               |
 | Certifications and Involvement | List them out like a mini CV.                                                                                                                                                                                                                                                                              |
 
 ## Education
@@ -52,7 +52,15 @@ I was involved with the interviewing process of some faculty. My favorite organi
 * 3.6 GPA.
 * Extensive theater technical extracurricular experience.
 
-## Experience
+## Professional Experience
+
+## Professional Service
+
+### Leadership
+
+### Presentations and Leadership Training
+
+### Facilitation
 
 ## Leadership and Activities
 

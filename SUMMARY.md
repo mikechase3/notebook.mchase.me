@@ -18,6 +18,7 @@
 ## Career
 
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
+* [CV](career/cv.md)
 * [Feedback and Performance Reviews](career/feedback-and-performance-reviews.md)
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
@@ -34,7 +35,7 @@
   * [What to Wear](career/interviewing/what-to-wear.md)
   * [Overcoming Nerves](career/interviewing/overcoming-nerves.md)
   * [Q/A](career/interviewing/q-a.md)
-* [Master Resume](career/master-resume.md)
+* [Master Resume/CV](career/master-resume-cv.md)
 * [Quitting](career/how-to-quit.md)
 * [Salary Negotiation](career/salary-negotiation.md)
 * [Seven Habits](career/seven-habits.md)
