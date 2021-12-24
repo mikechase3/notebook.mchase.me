@@ -2,7 +2,7 @@
 
 ## History
 
-### Resume Medium s
+### Mediums
 
 It's important to keep track of the different mediums I tried:
 
@@ -12,7 +12,7 @@ It's important to keep track of the different mediums I tried:
 | Google Docs Giant Table         | Easy. Just a table. Complete. Decently organized.                                                                                 | Can't export/share easily.                                                                                        |
 | Resume Star                     | iOS and Mac Apps. Exports to 'resume' format.                                                                                     | Can't customize. No place for notes.                                                                              |
 | [Resumake](https://resumake.io) | All data stored in exportable JSON file.                                                                                          | Have to keep track of notes separately. Hard to easily chop down into what you need. Might not be hosted forever? |
-| Notebook.mchase.me              | Can attach photos. I can change it rapidly. More of a "living document". Can attach notes and be verbose. Cloud-synced using git. | Can't export to a professional looking document.                                                                  |
+| Notebook.mchase.me              | Can attach photos. I can change it rapidly. More of a "living document". Can attach notes and be verbose. Cloud-synced using git. | Can't export to a professional looking document quickly.                                                          |
 
 ### Strategies
 
@@ -35,7 +35,7 @@ I was involved with the interviewing process of some faculty. My favorite organi
 | Highlights (aka skills)        | <p>Keep it to bullet points; 4 words max. No punctuation. 3 columns.</p><ul><li>Verbal and Written Communication</li><li>Strategic Planning</li><li>Program Development</li><li>Operational Improvement</li><li>Community Organizing/Outreach</li><li>Marketing Research</li><li>Public Speaking</li></ul> |
 | Experience                     | List the month/day, job title, company name, and location. Be thorough in how many bullet points you list. He listed 9 bullets for his most recent job. List about five for the rest.                                                                                                                      |
 | Education                      | Keep it simple and stupid. Nobody cares once you have a job.                                                                                                                                                                                                                                               |
-| Certifications and Involvement | List them out?                                                                                                                                                                                                                                                                                             |
+| Certifications and Involvement | List them out like a mini CV.                                                                                                                                                                                                                                                                              |
 
 ## Education
 
@@ -52,7 +52,7 @@ I was involved with the interviewing process of some faculty. My favorite organi
 * 3.6 GPA.
 * Extensive theater technical extracurricular experience.
 
-## Selected Employment Experience
+## Experience
 
 ## Leadership and Activities
 
