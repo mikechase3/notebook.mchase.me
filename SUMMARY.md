@@ -175,6 +175,7 @@
   * [Bash](computer-science/languages-and-architectures/bash.md)
   * [C](computer-science/languages-and-architectures/c.md)
   * [Compiler Theory](computer-science/languages-and-architectures/integrators-and-compilers.md)
+  * [Denigma Code Explainer](https://denigma.app)
   * [HTML CSS](computer-science/languages-and-architectures/html-css.md)
   * [Golang](computer-science/languages-and-architectures/go.md)
   * [iOS and Swift](computer-science/languages-and-architectures/ios-and-swift/README.md)
