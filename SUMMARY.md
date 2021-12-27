@@ -8,12 +8,12 @@
 
 * [References](automotive/references.md)
 
-## Business <a href="#psychology" id="psychology"></a>
+## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
-* [Cognitive Biases](psychology/cognitive-biases.md)
-* [Color Theory](psychology/colors-and-marketing.md)
-* [Economics](psychology/economics.md)
-* [Marketing: Framing, Conformity, Cognitive Dissonance](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
+* [Cognitive Biases](business/cognitive-biases.md)
+* [Color Theory](business/colors-and-marketing.md)
+* [Economics](business/economics.md)
+* [Marketing: Framing, Conformity, Cognitive Dissonance](business/programiz-how-we-use-psychology-to-market-our-products.md)
 
 ## Career
 
@@ -280,12 +280,14 @@
 ## Growth
 
 * [Work Performance Information](growth/work-performance-information.md)
-* [Reign Affairs IT Fellowship](growth/reign-affairs-it-fellowship.md)
+* [Foreign Affairs IT Fellowship](growth/reign-affairs-it-fellowship.md)
 
 ## Life
 
+* [Breaking Up Hard Tasks](life/breaking-up-hard-tasks.md)
 * [Consent Outside the Bedroom](life/consent-outside-the-bedroom.md)
 * [Dating](life/dating.md)
+* [Discipline](life/discipline.md)
 * [Goal Setting](life/goal-setting.md)
 * [Principles and Values](life/values.md)
 
