@@ -285,7 +285,6 @@
 ## Life
 
 * [Breaking Up Hard Tasks](life/breaking-up-hard-tasks.md)
-* [Consent Outside the Bedroom](life/consent-outside-the-bedroom.md)
 * [Dating](life/dating.md)
 * [Discipline](life/discipline.md)
 * [Goal Setting](life/goal-setting.md)
@@ -369,6 +368,7 @@
 
 ## 📒 Principles and Values
 
+* [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
 * [Drugs Don't Solve Problems](principles-and-values/drugs-dont-solve-problems.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 
