@@ -283,6 +283,12 @@
 * [Work Performance Information](growth/work-performance-information.md)
 * [Foreign Affairs IT Fellowship](growth/reign-affairs-it-fellowship.md)
 
+## 💊 Health and Fitness
+
+* [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
+* [Darbee Fitness Guides](https://darebee.com/fitness.html)
+* ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
+
 ## Life
 
 * [Breaking Up Hard Tasks](life/breaking-up-hard-tasks.md)
