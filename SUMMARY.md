@@ -365,6 +365,7 @@
 ## Music
 
 * [Jazz Piano](music/jazz-piano.md)
+* [Logic Pro Notes](music/logic-pro-notes.md)
 * [Theory](music/theory/README.md)
   * [Rhythm and Meter](music/theory/rhythm-and-meter.md)
   * [Scales and Key Signatures](music/theory/scales-and-key-signatures.md)
