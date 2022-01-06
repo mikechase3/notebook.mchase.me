@@ -253,6 +253,7 @@
   * [Robust Programming](computer-science/secure-app-development/robust-programming.md)
   * [L25: Input Validation and Regular Expressions](computer-science/secure-app-development/l25-input-validation-and-regular-expressions.md)
   * [L26:](computer-science/secure-app-development/l26.md)
+* [Teaching Code](computer-science/teaching-code.md)
 * [Tools](computer-science/tools/README.md)
   * [\[VNC\] Jump Desktop](https://jumpdesktop.com/go)
   * [\[Web IDE\] Replit](https://replit.com/\~)
