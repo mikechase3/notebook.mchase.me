@@ -300,6 +300,8 @@
 
 ## Math and Sciences <a href="#math" id="math"></a>
 
+* [Statistics](math/statistics/README.md)
+  * [Introductory FAQs?](math/statistics/introductory-faqs.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Chapter 1: Matrix Basics](math/matrix-theory/matrix-theory-and-apps.md)
   * [Chapter 2: Solving Linear Equations](math/matrix-theory/chapter-2-solving-linear-equations.md)
