@@ -6,6 +6,7 @@
 
 ## Automotive
 
+* [Engine Cutting](automotive/engine-cutting.md)
 * [References](automotive/references.md)
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
@@ -170,6 +171,9 @@
     * [Week 05: Microservices Architecture & Implementation with Express](computer-science/full-stack-cloud-based-application-development/cloud-computing-applications-class/week-05-microservices-architecture-and-implementation-with-express.md)
     * [Week 06: Databases](computer-science/full-stack-cloud-based-application-development/cloud-computing-applications-class/week-06-databases.md)
     * [Week 07:](computer-science/full-stack-cloud-based-application-development/cloud-computing-applications-class/week-07.md)
+* [Game Development](computer-science/game-development/README.md)
+  * [Event Driven Programming](computer-science/game-development/event-driven-programming.md)
+  * [Unity](computer-science/game-development/unity.md)
 * [Ghost](computer-science/ghost.md)
 * [Git and Github](computer-science/git-and-github.md)
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
@@ -240,6 +244,7 @@
   * [Week 05: Application Layer](computer-science/networking/week-05-application-layer.md)
   * [Prep Test](computer-science/networking/untitled.md)
   * [Network Security](computer-science/networking/network-security.md)
+  * [Monmouth, IL Latency](computer-science/networking/monmouth-il-latency.md)
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
