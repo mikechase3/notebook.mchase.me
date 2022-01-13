@@ -307,6 +307,7 @@
 
 * [Statistics](math/statistics/README.md)
   * [Introductory FAQs?](math/statistics/introductory-faqs.md)
+  * [Chapter 1: Gathering Data](math/statistics/chapter-1-gathering-data.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Chapter 1: Matrix Basics](math/matrix-theory/matrix-theory-and-apps.md)
   * [Chapter 2: Solving Linear Equations](math/matrix-theory/chapter-2-solving-linear-equations.md)
@@ -340,6 +341,7 @@
   * [Groundwater](math/rocks-for-jocks/groundwater.md)
   * [Global Climate Change](math/rocks-for-jocks/global-climate-change.md)
   * [Building the Geologic Timescale](math/rocks-for-jocks/building-the-geologic-timescale.md)
+  * [Steno & Early Geology](math/rocks-for-jocks/steno-and-early-geology.md)
 * [Lit Solution](https://www.litsolutions.org)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Calc 3](math/untitled-1/README.md)
