@@ -408,3 +408,7 @@
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
 * [Time Spent in Single Occupancy Restrooms in Libraries](personal-essays/time-spent-in-single-occupancy-restrooms-in-libraries.md)
+
+## Yearly Reviews Public
+
+* [Looking Back on my Year that was 2021](yearly-reviews-public/looking-back-on-my-year-that-was-2021.md)
