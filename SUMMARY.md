@@ -12,7 +12,6 @@
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
 * [Cognitive Biases](business/cognitive-biases.md)
-* [Color Theory](business/colors-and-marketing.md)
 * [Economics](business/economics.md)
 * [Marketing: Framing, Conformity, Cognitive Dissonance](business/programiz-how-we-use-psychology-to-market-our-products.md)
 
@@ -54,6 +53,7 @@
   * [Lecture 05: The Maya Part 1](communication/anthropology/lecture-05-the-maya-part-1.md)
   * [Lecture 06: Culture](communication/anthropology/lecture-06-culture.md)
 * [Charisma](communication/charisma.md)
+* [Color Theory](communication/colors-and-marketing.md)
 * [Cone of Learning](communication/cone-of-learning.md)
 * [Feynmenn Method to Teach Deep Understanding](communication/the-feynmenn-technique.md)
 * [Habitual and Sensitization](communication/habitual-and-sensitization.md)
