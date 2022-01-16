@@ -7,7 +7,8 @@
 ## Automotive
 
 * [Engine Cutting](automotive/engine-cutting.md)
-* [References](automotive/references.md)
+* [Recommendations](automotive/references/README.md)
+  * [Crutchfield Car Audio/Video](https://www.crutchfield.com)
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
