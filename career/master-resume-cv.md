@@ -14,11 +14,11 @@ It's important to keep track of the different mediums I tried:
 | [Resumake](https://resumake.io) | All data stored in exportable JSON file.                                                                                          | Have to keep track of notes separately. Hard to easily chop down into what you need. Might not be hosted forever? |
 | Notebook.mchase.me              | Can attach photos. I can change it rapidly. More of a "living document". Can attach notes and be verbose. Cloud-synced using git. | Can't export to a professional looking document quickly.                                                          |
 
-### Strategies
+## Strategies
 
 #### EASE: Early College
 
-If you're in high school or early on in your college career, keep your resume to 1-page and use the **EASE** method. This is an acronym:
+If you're in high school or early on in your college career, keep your resume to 1-page and use the **EASE** method. Later, you should organize it in the opposite way. This is an acronym:
 
 * **E**ducation
 * **A**ctivities
@@ -37,30 +37,44 @@ I'm at the point where I have enough work experience and talking points where I 
 | Education & Certifications     | Keep it simple and stupid. Nobody cares once you have a job.                                                                                                                                                                                                                                               |
 | Certifications and Involvement | List them out like a mini CV.                                                                                                                                                                                                                                                                              |
 
-## Education
+## Resume
 
-### B.S. Computer Science
+### Experience
+
+#### VR Software Developer @ US Air Force
+
+Once, I had to do linear algebra.
+
+#### Recording Studio
+
+And others...
+
+### Skills
+
+Probably some table here is best?
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+### Activities
+
+* President of Street Sounds Recording, but it took too much time & couldn't advance in work.
+
+### Education
+
+#### B.S. Computer Science
 
 * University of Dayton; Dayton, OH
 * 3.6 GPA.
 * Awards: Honors, Dean's Merit Scholarship, Dean's List, and UD Promise.
 * Minors in communication and theater.
 
-### Walsh Jesuit High School
+#### Walsh Jesuit High School
 
 * Cuyahoga Falls, OH.
 * 3.6 GPA.
 * Extensive theater technical extracurricular experience.
-
-## Professional Experience
-
-## Professional Service
-
-### Leadership
-
-### Presentations and Leadership Training
-
-### Facilitation
-
-## Leadership and Activities
 
