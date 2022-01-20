@@ -22,7 +22,7 @@
 * We apply a force, stress the rock, and it accumulates the rock by deforming the shape.
 * At some point, it can't take it anymore, so it breaks.
 
-![](<../../.gitbook/assets/image (638) (1).png>)
+![](<../../.gitbook/assets/image (638) (1) (1).png>)
 
 ## Seismographs and Seismic Waves
 

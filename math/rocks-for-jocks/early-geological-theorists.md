@@ -99,7 +99,7 @@ Smith -> Knowledge: establish the idea of extinction.
 @enduml
 ```
 
-![](<../../.gitbook/assets/image (642).png>)
+![](<../../.gitbook/assets/image (642) (1).png>)
 
 ## Issue: Extinction
 
@@ -189,4 +189,23 @@ _"The present is the key to the past"_
 3. Competing ideas of directional vs. cyclic histories, and gradual vs. catastrophic processes frame major scientific debates.
 4. There are two major debates so far: neptunist/plutonist and catastrophism/uniformitarianism.
 5. Understanding context in evaluating "winners" and "losers".
+
+## Misc Resources for Test #1
+
+* Know the Geologic Time Scale
+* Know the 3 "Great Theorists of the Earth"
+
+![](<../../.gitbook/assets/image (638).png>)#
+
+## Power of Uniformitarianism
+
+Uniformitarianism is a powerful tool for interpreting the geology of the earth.
+
+You can look at some sediment and characterize it by _color, composition, size, size distribution (sorting), shape (angular/round), fossils or not?_
+
+## Sediment Deposit Refresher
+
+![](<../../.gitbook/assets/image (642).png>)
+
+
 

@@ -355,7 +355,7 @@
   * [Global Climate Change](math/rocks-for-jocks/global-climate-change.md)
   * [Building the Geologic Timescale](math/rocks-for-jocks/building-the-geologic-timescale.md)
   * [Early Geological Theorists](math/rocks-for-jocks/early-geological-theorists.md)
-  * [Page 1](math/rocks-for-jocks/page-1.md)
+  * [Page](math/rocks-for-jocks/page.md)
 * [Lit Solution](https://www.litsolutions.org)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Calc 3](math/untitled-1/README.md)
