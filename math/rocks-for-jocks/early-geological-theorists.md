@@ -207,5 +207,12 @@ You can look at some sediment and characterize it by _color, composition, size, 
 
 ![](<../../.gitbook/assets/image (642).png>)
 
+**Ways to identify:** color, composition, size, sorting, shape. 6y  y
 
+| Quality     | Descriptors                                     |
+| ----------- | ----------------------------------------------- |
+| Location    | Mountains, alluvial fan, fluvial, beach, marine |
+| Grain size  | Silt, sand, coarse, gravel                      |
+| Composition | Quartz,                                         |
+| Color       | Dark (unoxidized organics)                      |
 
