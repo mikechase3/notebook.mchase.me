@@ -20,7 +20,7 @@ Be sure to read the full article [here](https://www.programiz.com/blog/use-psych
 
 ## Conformity
 
-We change our behavior to be more like others. 
+We change our behavior to be more like others.&#x20;
 
 ![](<../.gitbook/assets/image (63).png>)
 
