@@ -318,6 +318,7 @@
   * [R Lin Regression Cheatsheet](https://www.codecademy.com/learn/learn-linear-regression-in-r/modules/linear-regression-in-r/cheatsheet)
   * [Introductory FAQs?](math/statistics-with-r/introductory-faqs.md)
   * [Chapter 1: Gathering Data](math/statistics-with-r/chapter-1-gathering-data.md)
+  * [Chapter 1 Textbook Notes](math/statistics-with-r/chapter-1-textbook-notes.md)
   * [R and Statistics](math/statistics-with-r/r-and-statistics/README.md)
     * [R Mean, Median, and Mode](math/statistics-with-r/r-and-statistics/r-mean-median-and-mode.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)

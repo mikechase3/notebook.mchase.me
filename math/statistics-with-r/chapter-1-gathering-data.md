@@ -1,13 +1,21 @@
 # Chapter 1: Gathering Data
 
-## Sampling Terms
+## Sampling Terminology
+
+| Term                  | Definition                                                                                                                    |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Population            | What you're **seeking** to learn about.                                                                                       |
+| Sample                | Who you actually survey/observe.                                                                                              |
+| Simple Random Sample  | A method of selecting your population like a lottery.                                                                         |
+| Tangible Populations  | These are finite populations with **numerical** identities. When Mike Chase dies, there will be one less person on the earth. |
+| Conceptual Population | Tells you about data that _might possibly have been observed_ since it doesn't consist of real objects.                       |
 
 * A **sample** is the subset of the population which we actually observe data on.
 * **Populations** is the entire collection of objects. It can be realistic or conceptual.
 
 Think about these when stating your claims:
 
-1. &#x20;**Conclusions:** what can we conclude?
+1. **Conclusions:** what can we conclude?
 2. **Uncertainty:** We estimate that $$61 \pm 4$$
 3. **Confidence:** I could be up to 5% wrong?&#x20;
 
@@ -17,7 +25,7 @@ What's the difference between uncertainty/confidence?
 
 ### Super Bowl Example
 
-The NFL mints a commemorative coin to be used tfor the coin toss at the Super Bowl. To check whether the coin is fair, the NFL has the head official toss the coin on the field 100 times. Of the 100 tosses, 56 land on head.
+The NFL mints a commemorative coin to be used for the coin toss at the Super Bowl. To check whether the coin is fair, the NFL has the head official toss the coin on the field 100 times. Of the 100 tosses, 56 land on head.
 
 * **Population**:&#x20;
 * **Conceptual**: coin tosses don't physically exist.
