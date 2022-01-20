@@ -209,6 +209,8 @@
     * [str Package](computer-science/languages-and-architectures/python/str-package.md)
     * [TKinter](computer-science/languages-and-architectures/python/tkinter.md)
   * [Racket](computer-science/languages-and-architectures/scheme.md)
+  * [R](computer-science/languages-and-architectures/r/README.md)
+    * [Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
