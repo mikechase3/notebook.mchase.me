@@ -24,6 +24,7 @@
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
+* [How to be a Full Stack Dev](https://www.codecademy.com/career-change-guide/full-stack-engineer-career-path)
 * [Information Ethics](career/information-ethics/README.md)
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
   * [Computer Ethics](career/information-ethics/computer-ethics.md)
