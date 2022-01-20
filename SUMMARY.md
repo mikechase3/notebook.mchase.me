@@ -310,9 +310,16 @@
 
 ## Math and Sciences <a href="#math" id="math"></a>
 
-* [Statistics](math/statistics/README.md)
-  * [Introductory FAQs?](math/statistics/introductory-faqs.md)
-  * [Chapter 1: Gathering Data](math/statistics/chapter-1-gathering-data.md)
+* [Statistics with R](math/statistics-with-r/README.md)
+  * [R Programming Videos](https://learning.oreilly.com/videos/r-programming/9780134427218/)
+  * [Base R Cheat Sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+  * [R Basics Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
+  * [R Stats Cheatsheet](https://www.codecademy.com/learn/paths/learn-statistics-with-r/tracks/learn-statistics-with-r/modules/r-stats-mean-median-mode/cheatsheet)
+  * [R Lin Regression Cheatsheet](https://www.codecademy.com/learn/learn-linear-regression-in-r/modules/linear-regression-in-r/cheatsheet)
+  * [Introductory FAQs?](math/statistics-with-r/introductory-faqs.md)
+  * [Chapter 1: Gathering Data](math/statistics-with-r/chapter-1-gathering-data.md)
+  * [R and Statistics](math/statistics-with-r/r-and-statistics/README.md)
+    * [R Mean, Median, and Mode](math/statistics-with-r/r-and-statistics/r-mean-median-and-mode.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Chapter 1: Matrix Basics](math/matrix-theory/matrix-theory-and-apps.md)
   * [Chapter 2: Solving Linear Equations](math/matrix-theory/chapter-2-solving-linear-equations.md)
