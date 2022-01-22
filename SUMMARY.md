@@ -303,6 +303,7 @@
 * [Dating](life/dating.md)
 * [Discipline](life/discipline.md)
 * [Goal Setting](life/goal-setting.md)
+* [Maintaining Household Appliances](life/maintaining-household-appliances.md)
 * [Principles and Values](life/values.md)
 
 ## Math and Sciences <a href="#math" id="math"></a>
