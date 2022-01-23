@@ -386,7 +386,6 @@
 
 ## Music
 
-* [Jazz Piano](music/jazz-piano.md)
 * [Logic Pro Notes](music/logic-pro-notes.md)
 * [Theory](music/theory/README.md)
   * [Rhythm and Meter](music/theory/rhythm-and-meter.md)
@@ -395,6 +394,7 @@
   * [Chords](music/theory/chords.md)
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Chord Progressions](music/theory/chord-progressions.md)
+  * [Advanced Harmonies](music/theory/advanced-harmonies.md)
 
 ## 📒 Principles and Values
 
