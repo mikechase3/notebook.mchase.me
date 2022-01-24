@@ -6,6 +6,10 @@
 
 ## Automotive
 
+* [Privacy Concerns](automotive/privacy-concerns/README.md)
+  * [Disabling Telemetrics](automotive/privacy-concerns/disabling-telemetrics.md)
+  * [Subaru Starlink Vulnerabilities](https://www.bitdefender.com/blog/hotforsecurity/researcher-finds-basic-mistakes-subarus-starlink-service)
+  * [Page 1](automotive/privacy-concerns/page-1.md)
 * [Engine Cutting](automotive/engine-cutting.md)
 * [Recommendations](automotive/references.md)
   * [Crutchfield Car Audio/Video](https://www.crutchfield.com)
@@ -14,7 +18,8 @@
 
 * [Cognitive Biases](psychology/cognitive-biases.md)
 * [Economics](psychology/economics.md)
-* [Marketing: Framing, Conformity, Cognitive Dissonance](psychology/programiz-how-we-use-psychology-to-market-our-products.md)
+* [Marketing: Framing, Conformity, Cognitive Dissonance](business/programiz-how-we-use-psychology-to-market-our-products/README.md)
+  * [Chapter 1 Textbook Notes](business/programiz-how-we-use-psychology-to-market-our-products/chapter-1-textbook-notes.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
 
 ## Career
@@ -316,10 +321,11 @@
   * [R Stats Cheatsheet](https://www.codecademy.com/learn/paths/learn-statistics-with-r/tracks/learn-statistics-with-r/modules/r-stats-mean-median-mode/cheatsheet)
   * [R Lin Regression Cheatsheet](https://www.codecademy.com/learn/learn-linear-regression-in-r/modules/linear-regression-in-r/cheatsheet)
   * [Introductory FAQs?](math/statistics-with-r/introductory-faqs.md)
+  * [R Mean, Median, and Mode](math/statistics-with-r/r-mean-median-and-mode.md)
+  * [R and Statistics](math/statistics-with-r/r-and-statistics.md)
   * [Chapter 1: Gathering Data](math/statistics-with-r/chapter-1-gathering-data.md)
-  * [Chapter 1 Textbook Notes](math/statistics-with-r/chapter-1-textbook-notes.md)
-  * [R and Statistics](math/statistics-with-r/r-and-statistics/README.md)
-    * [R Mean, Median, and Mode](math/statistics-with-r/r-and-statistics/r-mean-median-and-mode.md)
+  * [Chatper 2: Probability](math/statistics-with-r/chatper-2-probability.md)
+  * [Chapter 3: TODO](https://www.dropbox.com/s/52oytsvx8ws97g4/Statistics%20-%20chapter%202.pdf?dl=0)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Chapter 1: Matrix Basics](math/matrix-theory/matrix-theory-and-apps.md)
   * [Chapter 2: Solving Linear Equations](math/matrix-theory/chapter-2-solving-linear-equations.md)
