@@ -288,7 +288,8 @@
 
 ## Growth
 
-* [Work Performance Information](growth/work-performance-information.md)
+* [Conservatories](growth/conservatories/README.md)
+  * [BW Keys](https://www.bw.edu/academics/undergraduate/music-performance-keyboard/)
 * [Foreign Affairs IT Fellowship](growth/reign-affairs-it-fellowship.md)
 
 ## 💊 Health and Fitness
