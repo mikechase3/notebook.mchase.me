@@ -16,7 +16,7 @@ This is not my work, see [candor.co](https://candor.co/guides/how-to-quit)
 
 **How you leave is just as important as what you did on the job** — learn how to leave thoughtfully and grow your professional network.
 
-### How to decide if you should quit <a id="decide"></a>
+### How to decide if you should quit <a href="#decide" id="decide"></a>
 
 Two distinct but important elements to keep in mind:
 
@@ -46,7 +46,7 @@ Certainly, sometimes the situation is beyond recovery. Manager conflict is only 
 
 There is more to life than these things, and if you have a fulfilling job, with good benefits, the flexibility you want, and you work with people you like — then you’ve reached work nirvana and you just don’t realize it.
 
-### How to find another job <a id="find"></a>
+### How to find another job <a href="#find" id="find"></a>
 
 Interviewing before you've left can be logistically difficult but it's very much a normal part of the process: some of your colleagues are probably currently interviewing and your manager certainly has done it too.
 
@@ -56,7 +56,7 @@ Don’t feel overly pressured by recruiters to be available if you truly cannot 
 
 Recruiters are familiar with the difficulty of interviewing and will try to accommodate, for example by arranging for evening interviews or video calls.
 
-### How to quit <a id="quit"></a>
+### How to quit <a href="#quit" id="quit"></a>
 
 When to give notice, to whom and _in what order_ is critical to not burning bridges and growing your professional network.
 
@@ -67,10 +67,10 @@ You should absolutely plan to give a minimum of 2 weeks notice, unless you have 
 Some considerations as you think about your departure date:
 
 * **Bonus and incentives**: make sure you don't miss important deadlines for quarterly bonuses, annual bonuses and other incentives.
-* **Vesting deadlines**: if you're receiving employee equity or 401\(k\) match, there's generally periodic vesting deadlines — you'll be leaving a lot of money on the table if you leave just before a vesting deadline.
-* **Clawbacks**: if you received a sign-on bonus, tuition reimbursement or other special benefit, these often come with a requirement that you pay back the company if you leave within X months \(a "clawback"\), though clawbacks aren't always enforced.
-* **Health benefits**: in the US, health benefits \(medical, dental, vision, etc.\) generally work in calendar month increments — leaving after the 1st of the month instead of the 30th could save you hundreds of dollars in COBRA premiums.
-* **Rest**: consider taking at least a week between jobs and being ready to start the new job refreshed \(if you're relocating, be sure to pad a few days for unexpected issues\).
+* **Vesting deadlines**: if you're receiving employee equity or 401(k) match, there's generally periodic vesting deadlines — you'll be leaving a lot of money on the table if you leave just before a vesting deadline.
+* **Clawbacks**: if you received a sign-on bonus, tuition reimbursement or other special benefit, these often come with a requirement that you pay back the company if you leave within X months (a "clawback"), though clawbacks aren't always enforced.
+* **Health benefits**: in the US, health benefits (medical, dental, vision, etc.) generally work in calendar month increments — leaving after the 1st of the month instead of the 30th could save you hundreds of dollars in COBRA premiums.
+* **Rest**: consider taking at least a week between jobs and being ready to start the new job refreshed (if you're relocating, be sure to pad a few days for unexpected issues).
 * **Is the new company ready for you?** Most people don't think about this enough: do not start when your hiring manager is on vacation, at a conference, or at a multi-day offsite — waiting the extra day or two is well worth it.
 
 **Note**: You can be asked to leave immediately and the company is under no obligation to pay you until the day you indicated was your last day. Most companies will respect your departure day, but in especially sour breakups, be extra careful about upcoming deadlines.
@@ -95,7 +95,7 @@ You do not have to tell anyone what company you’re joining if you don’t want
 
 You can certainly offer to pick up the phone and help if there's any questions, but as soon as you introduce money in the equation, things get complicated quickly. Your new employer likely has a policy against outside employment and especially if they're a competitor, it could really get you in trouble.
 
-Sometimes, a forced consulting period \("[garden leave](https://en.wikipedia.org/wiki/Garden_leave)"\) is even part of the employment contract for senior employees, precisely because it prevents you from working for competitors.
+Sometimes, a forced consulting period ("[garden leave](https://en.wikipedia.org/wiki/Garden\_leave)") is even part of the employment contract for senior employees, precisely because it prevents you from working for competitors.
 
 Our suggestion: the money involved in a consulting agreement is not worth the headache. Instead, be generous about offering to train your replacement, documenting your work and offering to answer any questions if they come up.If you're given a counteroffer
 
@@ -131,7 +131,7 @@ Once you've spoken to your close co-workers, send an email to the broader team a
 >
 > It all started for me 4 years ago and it's been heartwarming to see the team grow — I’ve truly valued working with you and would love to stay in touch.
 >
-> Here’s my personal email address and my LinkedIn profile: \[link\]. Please say bye this week and I’m hoping we can grab a coffee or lunch in the next couple of months.
+> Here’s my personal email address and my LinkedIn profile: \[link]. Please say bye this week and I’m hoping we can grab a coffee or lunch in the next couple of months.
 >
 > Thank you! I’m proud to have worked with you.
 
@@ -147,9 +147,9 @@ Don’t expect that your manager to know everything that you do — take the lea
 
 On your final day, you'll typically meet with HR where the following will occur:
 
-* **Return your badge, computer and other equipment**: do not take _anything_ with you, including digital items \(e.g. contacts\). Rule of thumb: if you brought it into the office or placed it on their servers/hardware, it's the company's property and you can't take it back with you.
+* **Return your badge, computer and other equipment**: do not take _anything_ with you, including digital items (e.g. contacts). Rule of thumb: if you brought it into the office or placed it on their servers/hardware, it's the company's property and you can't take it back with you.
 * **Exit interview**: you'll be asked by HR why you're leaving. Most people choose to be candid here, but be aware that whatever you share may be conveyed verbatim to your manager, their manager or the head of your business unit.
-* **Re-sign confidentiality and other policies**: often, you'll be asked to re-sign and reaffirm your commitment to key documents, like the confidentiality or non-solicit policy. You can refuse to sign these \(after all, they can't fire you\), though most people sign them. If you have any hesitation, ask to review the documents on your own time and mail them later.
+* **Re-sign confidentiality and other policies**: often, you'll be asked to re-sign and reaffirm your commitment to key documents, like the confidentiality or non-solicit policy. You can refuse to sign these (after all, they can't fire you), though most people sign them. If you have any hesitation, ask to review the documents on your own time and mail them later.
 
 In addition, you might also receive your final paycheck. Look at the deductions carefully: you may pay extra in health benefits if you’re leaving early in the month, but watch out for any other suspicious deductions. States like California carefully regulate what can be deducted from your final paycheck, e.g. negative vacation or sick balances.
 
@@ -157,9 +157,9 @@ Additionally, ensure all of your expenses are submitted before you offboard.
 
 #### Protecting your equity
 
-If you're receiving stock options, you'll generally have 90 days to decide whether you want to buy \(exercise\) the options.
+If you're receiving stock options, you'll generally have 90 days to decide whether you want to buy (exercise) the options.
 
-This is a major decision with lots of complicated tax implications. Even if you don't have the cash on hand to exercise, companies like [ESO Fund](https://www.esofund.com/) can help loan you money.
+This is a major decision with lots of complicated tax implications. Even if you don't have the cash on hand to exercise, companies like [ESO Fund](https://www.esofund.com) can help loan you money.
 
 In addition, companies may sometimes have a clause that the company can buy back your shares at a fixed price if you choose to exercise.
 
@@ -174,4 +174,3 @@ There are several things you should know about your benefits as you depart:401k 
 * **Commuter Benefits**: ends on your last day.
 * **Group Life Insurance Plans**: most plans allow you to convert to individual coverage, ask HR for the appropriate form.
 * **COBRA**: allows you to continue staying on your employer's health care plan for 18 months, though you'll have to pay — often $500-$1000/mo or more, especially for families.
-

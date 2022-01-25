@@ -216,7 +216,7 @@ You can look at some sediment and characterize it by _color, composition, size, 
 | Composition | Quartz, K-Spar, Clay,                           |
 | Color       | Dark (unoxidized organics)                      |
 
-### The Channeled Scablands
+### Boulders
 
 There's these channeled scablands where ice existed one time which carried a bunch of random a\*\*  boulders and sediment left by the ice. Glaciers came through Ohio multiple times and left lots of unsorted sediment and glacial deposits. Anyways, the channeled scablands let you see deep a lot more quickly because it is weirdly mountainous.
 
@@ -244,13 +244,41 @@ This theory is correct.
   * Through an experiment, he determines that glaciers move. It is responsible for till and erratics.
   * The idea of ice moving is catastrophic so this wasn't popular.
 
-
-
 ### Drift Theory
 
 * **Lyell**: sees icebergs calving off Antarctic glaciers and dropping sediment as they melt.
 * Lyell was so attached to uniformitarianism. This leads to mistakes.
 * Today, we call rocks that are deposited & don't belong "**Glacial Erratics**".
 
+## The Channeled Scablands
 
+#### What are they?
 
+It's an unusual landscape where really large rocks are eroded into this 1000 ft canyon into the bassalt.
+
+We talked about this in class, but I think this is a good resource to define what they are.
+
+{% embed url="http://www.sevenwondersofwashingtonstate.com/the-channeled-scablands.html" %}
+
+#### What were the original ideas for why it formed?
+
+* Normal Columbia river erosion over time.
+* J Harlan Bretz said it happened because of a catastrophic flood.
+
+#### Bretz
+
+* Said it caused by a catastrophic flood.
+
+#### Reaction
+
+* Rejected.
+* Geologists correctly pointed out that he had no theory for where the water came from.
+
+#### Resolution
+
+* "I know where the water came from, but I'll be dammed if I tell you"
+* When maps were produced and we had satellites, it's clear to see that they are giant ripples. You can calculate how much water you actually need to cause that - and it's a lot.
+
+#### The Real Answer
+
+If you remove a small ice dam, you allow all of this water to flow out.
