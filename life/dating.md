@@ -9,7 +9,7 @@ Useful advice later...
 * Hang out before 11PM.
 * Pick them up and take them on a planned date.
 
-## Clever but stupid ideas
+## Stupid Pickups
 
 ### EULA
 

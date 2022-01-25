@@ -140,5 +140,10 @@ Now, it's 50/50.
 
 
 
+## Works Cited
+
+* Course: Wascher, Matthew. "Chapter 1 Class/Powerpoint" _MTH 367 Statistics._ Spring 2022. University of Dayton.
+* Navidi, William. Statistics for Engineers & Scientists (4th edition).
+
 
 
