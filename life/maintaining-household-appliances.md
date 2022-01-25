@@ -4,7 +4,7 @@
 
 ### General Maintenances
 
-### Notes to Self
+## Vaccums
 
 Mike Chase - you own 4 vacuum cleaners:
 
