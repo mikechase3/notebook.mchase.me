@@ -207,12 +207,50 @@ You can look at some sediment and characterize it by _color, composition, size, 
 
 ![](<../../.gitbook/assets/image (642).png>)
 
-**Ways to identify:** color, composition, size, sorting, shape. 6y  y
+**Ways to identify:** color, composition, size, sorting, shape.
 
 | Quality     | Descriptors                                     |
 | ----------- | ----------------------------------------------- |
 | Location    | Mountains, alluvial fan, fluvial, beach, marine |
 | Grain size  | Silt, sand, coarse, gravel                      |
-| Composition | Quartz,                                         |
+| Composition | Quartz, K-Spar, Clay,                           |
 | Color       | Dark (unoxidized organics)                      |
+
+### The Channeled Scablands
+
+There's these channeled scablands where ice existed one time which carried a bunch of random a\*\*  boulders and sediment left by the ice. Glaciers came through Ohio multiple times and left lots of unsorted sediment and glacial deposits. Anyways, the channeled scablands let you see deep a lot more quickly because it is weirdly mountainous.
+
+1. Realized earth has to be old.
+2. Evolution has become an "accepted" idea. Charles wrote "On the Origin of Species" already
+3. Catastrophism is a scriptural doctrine.
+4. Uniformitarianism _(aka the present is the key to the past)_ becomes the main geological doctrine.
+
+### Diluvial Theory (Noah's Flood Caused Chaos)
+
+There was a lot of unexplained phenomenon that diluvial theory couldn't explain.
+
+* **Old Idea**: Sediments are left by Noah's Flood because only God could cause something so catastrophic.
+
+### Glacial Theory
+
+{% hint style="info" %}
+This theory is correct.
+{% endhint %}
+
+* **William Buckland** determined that all the sediment deposits couldn't be left by Noah's Flood again
+* **Charpentier & Vernetz**: determined glaciers are producing this "chaotic sediment"
+* ****[**Louis Agassiz:**](https://en.wikipedia.org/wiki/Louis\_Agassiz) **** he was an exceptionally well-known paleontologist (and for being racist and used science to promote racism).
+  * He hammers stakes from one side of the valley to another and observes what happens over time.
+  * Through an experiment, he determines that glaciers move. It is responsible for till and erratics.
+  * The idea of ice moving is catastrophic so this wasn't popular.
+
+
+
+### Drift Theory
+
+* **Lyell**: sees icebergs calving off Antarctic glaciers and dropping sediment as they melt.
+* Lyell was so attached to uniformitarianism. This leads to mistakes.
+* Today, we call rocks that are deposited & don't belong "**Glacial Erratics**".
+
+
 

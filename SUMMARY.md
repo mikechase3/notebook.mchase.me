@@ -43,31 +43,30 @@
   * [What to Wear](career/interviewing/what-to-wear.md)
   * [Overcoming Nerves](career/interviewing/overcoming-nerves.md)
   * [Q/A](career/interviewing/q-a.md)
+* [Breakups and Rejections](career/breakups-and-rejections.md)
 * [Master Resume/CV](career/master-resume-cv.md)
+* [Charisma](career/charisma.md)
 * [O-Net](https://www.onetonline.org)
-* [Quitting](career/how-to-quit.md)
+* [Quitting](career/how-to-quit/README.md)
+  * [Charisma on Command](https://www.charismaoncommand.com)
+* [Color Theory](career/colors-and-marketing.md)
 * [Salary Negotiation](career/salary-negotiation.md)
+* [Cone of Learning](career/cone-of-learning.md)
 * [Seven Habits](career/seven-habits.md)
+* [Feynmenn Method to Teach Deep Understanding](career/the-feynmenn-technique.md)
 
 ## Communication
 
-* [Charisma](communication/charisma/README.md)
+* [Habitual and Sensitization](communication/habitual-and-sensitization/README.md)
   * [Charisma on Command](https://www.charismaoncommand.com)
-* [Color Theory](communication/colors-and-marketing.md)
-* [Cone of Learning](communication/cone-of-learning.md)
-* [Crushing Dreams](communication/crushing-dreams.md)
-* [Feynmenn Method to Teach Deep Understanding](communication/the-feynmenn-technique.md)
-* [Habitual and Sensitization](communication/habitual-and-sensitization.md)
 * [Handling Stress](communication/handling-stress.md)
-* [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY\&t=2410s)
 * [Ideation](communication/ideation.md)
+* [Crushing Dreams](communication/crushing-dreams.md)
 * [Islamic Tradition](communication/islamic-tradition/README.md)
   * [Lecture 01 Normative Islam](communication/islamic-tradition/lecture-01-normative-islam.md)
   * [Lecture 02-04 Study Guide](communication/islamic-tradition/lecture-02-04-study-guide.md)
   * [Lecture 05: Islam in Medina](communication/islamic-tradition/lecture-05-islam-in-medina.md)
-  * [Lecture 06: Five Pillars & Quran](communication/islamic-tradition/lecture-06-five-pillars-and-quran.md)
-  * [Lecture 07](communication/islamic-tradition/lecture-07.md)
-  * [Lecture 08: Islamic Law](communication/islamic-tradition/lecture-08-islamic-law.md)
+* [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY\&t=2410s)
 * [Normalness](communication/quirkiness.md)
 * [Placebo](communication/placebo.md)
 * [Polarized Learning](communication/polarized-learning.md)
@@ -83,12 +82,21 @@
   * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
+* [Anthropology](communication/anthropology/README.md)
+  * [Lecture 01: What is Anthropology](communication/anthropology/lecture-01-what-is-anthropology.md)
+  * [Lecture 02: Physical Anthropology](communication/anthropology/lecture-02-physical-anthropology.md)
+  * [Interlude: First Steps Video](communication/anthropology/interlude-first-steps-video.md)
+  * [Lecture 03: Archaeology](communication/anthropology/lecture-03-archaeology.md)
 
 ## 💾 Computer Science
 
-* [Code Reviews](computer-science/code-reviews.md)
-* [Cloud Services](computer-science/cloud-services.md)
+* [Code Reviews](computer-science/code-reviews/README.md)
+  * [Lecture 04: Linguistic Anthropology](computer-science/code-reviews/lecture-04-linguistic-anthropology.md)
+* [Cloud Services](computer-science/cloud-services/README.md)
+  * [Interlude: Neanderthals](computer-science/cloud-services/interlude-neanderthals.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
+  * [Lecture 05: The Maya Part 1](computer-science/cybersecurity/lecture-05-the-maya-part-1.md)
+  * [Lecture 06: Culture](computer-science/cybersecurity/lecture-06-culture.md)
   * [AES Symm Encryption](https://formaestudio.com/rijndaelinspector/archivos/Rijndael\_Animation\_v4\_eng-html5.html)
   * [Chapter 01: Cyber Security Fundamentals](computer-science/cybersecurity/lecture-01-cyber-security-fundamentals.md)
   * [Chapter 06: Malicious Software](computer-science/cybersecurity/lecture-03-malicious-software.md)
@@ -294,6 +302,7 @@
 ## 💊 Health and Fitness
 
 * [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
+* [Breathing](health-and-fitness/breathing.md)
 * [Darbee Fitness Guides](https://darebee.com/fitness.html)
 * ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
 
@@ -306,17 +315,8 @@
 * [Maintaining Household Appliances](life/maintaining-household-appliances.md)
 * [Principles and Values](life/values.md)
 
-## Math and Sciences <a href="#math" id="math"></a>
+## Math and Hard Sciences <a href="#math" id="math"></a>
 
-* [Anthropology](math/anthropology/README.md)
-  * [Lecture 01: What is Anthropology](math/anthropology/lecture-01-what-is-anthropology.md)
-  * [Lecture 02: Physical Anthropology](math/anthropology/lecture-02-physical-anthropology.md)
-  * [Interlude: First Steps Video](math/anthropology/interlude-first-steps-video.md)
-  * [Lecture 03: Archaeology](math/anthropology/lecture-03-archaeology.md)
-  * [Lecture 04: Linguistic Anthropology](math/anthropology/lecture-04-linguistic-anthropology.md)
-  * [Interlude: Neanderthals](math/anthropology/interlude-neanderthals.md)
-  * [Lecture 05: The Maya Part 1](math/anthropology/lecture-05-the-maya-part-1.md)
-  * [Lecture 06: Culture](math/anthropology/lecture-06-culture.md)
 * [Glue Cleaning Recipe](math/glue-cleaning-recipe.md)
 * [Statistics with R](math/statistics-with-r/README.md)
   * [R Programming Videos](https://learning.oreilly.com/videos/r-programming/9780134427218/)
@@ -350,11 +350,11 @@
   * [Earth's Minerals](math/rocks-for-jocks/earth-minerals.md)
   * [Weathering](math/rocks-for-jocks/chapter-7-volcanoes-weathering-sedimentary-rock.md)
   * [Volcanoes](math/rocks-for-jocks/chapter-9-volcanoes.md)
-  * [Earthquakes](math/rocks-for-jocks/earthquakes.md)
+  * [Earthquakes](math/rocks-for-jocks/chapter-10-earthquakes.md)
   * [Sedimentary Rocks](math/rocks-for-jocks/chapter-7-sedimentary-rocks.md)
-  * [Continents](math/rocks-for-jocks/continents.md)
+  * [Continents](math/rocks-for-jocks/chapter-3-continents-and-land.md)
   * [Glaciers](math/rocks-for-jocks/glaciers.md)
-  * [Rivers & Flooding](math/rocks-for-jocks/rivers-and-flooding.md)
+  * [Rivers & Flooding](math/rocks-for-jocks/chapter-17-the-hydrologic-cycle.md)
   * [Groundwater](math/rocks-for-jocks/groundwater.md)
   * [Global Climate Change](math/rocks-for-jocks/global-climate-change.md)
   * [Building the Geologic Timescale](math/rocks-for-jocks/building-the-geologic-timescale.md)
@@ -420,6 +420,10 @@
 * [The Tongue and Quill](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 * [Inferkit](https://app.inferkit.com/generate)
 
+## Group 1
+
+* [Page 3](group-1/page-3.md)
+
 ## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
 
 * [Why We Fight: Wartime Propaganda and its Application Today](personal-essays/why-we-fight.md)
@@ -428,3 +432,4 @@
 ## Yearly Reviews Public
 
 * [Looking Back on my Year that was 2021](yearly-reviews-public/looking-back-on-my-year-that-was-2021.md)
+* [2022](yearly-reviews-public/2022.md)

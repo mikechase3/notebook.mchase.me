@@ -8,8 +8,8 @@
 ### Differences between Sociology
 
 * Anthropology deals with the whole of the human condition whilist sociologist only care about modern humans.
-* Sociologists are more domestic, while anthropologists deal with culture and trying to explain it \(not society\).
-* themes like race and gender are similar; however, anthropologists take a more fundamental approach. 
+* Sociologists are more domestic, while anthropologists deal with culture and trying to explain it (not society).
+* themes like race and gender are similar; however, anthropologists take a more fundamental approach.&#x20;
 
 ## Culture Non-Human Species
 
@@ -21,7 +21,7 @@
 ## Human Culture Characteristics
 
 * Traditions are passed won between generations.
-* Culture is **symbolic**: 
+* Culture is **symbolic**:&#x20;
   * Example: we put symbolism behind colors.
 * Holistic and Integrated: influences everything in our life
   * Education, politics, and chain reactions...
@@ -32,7 +32,7 @@
 ## Changing Culture
 
 * TV/Shows and movies change around a lot.
-* Masks is a world-wide social norm nowadays. \(Being contested - but a lot more normal\).
+* Masks is a world-wide social norm nowadays. (Being contested - but a lot more normal).
 
 ## Enculturation
 
@@ -41,18 +41,16 @@
 * We belong to many cultures throughout our lives.
   * Age group culture
   * Ethnic culture
-  * Hobby culture \(renaissance fair\).
+  * Hobby culture (renaissance fair).
 
 ## Cultural Relativism
 
 ### Slavery and Culture Acceptableness
 
 * Should all cultures be treated as equally acceptable?
-* You have to understand the culture according to it's own logic. 
+* You have to understand the culture according to it's own logic.&#x20;
 
 Culture relativism is methodological. We seek to understand why it occurred and the processes it occured in a non-judgemental way. Then we take a moral stance.
-
-
 
 
 

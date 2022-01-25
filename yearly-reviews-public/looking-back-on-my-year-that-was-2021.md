@@ -28,4 +28,4 @@ description: Spinoff of Time's Magazine
 
 ## Works Cited
 
-I always start with Time Magazine's much better [article](https://time.com/6129888/2021-year-in-review/). They are the primary source for what I listed in the highlights.
+* I always start with Time Magazine's much better [article](https://time.com/6129888/2021-year-in-review/). They are the primary source for what I listed in the highlights.
