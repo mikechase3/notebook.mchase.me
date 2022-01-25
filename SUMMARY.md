@@ -324,6 +324,7 @@
   * [R Basics Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
   * [R Stats Cheatsheet](https://www.codecademy.com/learn/paths/learn-statistics-with-r/tracks/learn-statistics-with-r/modules/r-stats-mean-median-mode/cheatsheet)
   * [R Lin Regression Cheatsheet](https://www.codecademy.com/learn/learn-linear-regression-in-r/modules/linear-regression-in-r/cheatsheet)
+  * [R Studio Download](https://www.rstudio.com/products/rstudio/download/#download)
   * [Introductory FAQs?](math/statistics-with-r/introductory-faqs.md)
   * [R Mean, Median, and Mode](math/statistics-with-r/r-mean-median-and-mode.md)
   * [R and Statistics](math/statistics-with-r/r-and-statistics/README.md)
