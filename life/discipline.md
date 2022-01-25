@@ -4,9 +4,13 @@ description: How to become productive. How to stay product
 
 # Discipline
 
-## Starting Your Car
+## Starting Your Engine
 
 Becoming and staying productive is a lot like starting up and running a manual car. The car has to be reasonably maintained to keep performing optimally, and trying to attack problems in the wrong order is like switching to the wrong gear.
+
+{% hint style="info" %}
+Pro tip from the future: if you're trying to leave, remote start your car and you'll find your brain immediately focuses on getting out of the door.
+{% endhint %}
 
 ### Step 1: Start With a Timer
 
