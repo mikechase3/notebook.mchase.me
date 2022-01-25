@@ -1,4 +1,8 @@
-# Chapter 10: Earthquakes
+---
+description: Chapter 10
+---
+
+# Earthquakes
 
 How can we use seismic wave velocities to locate Earthquake Epicenters?
 

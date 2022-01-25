@@ -1,4 +1,8 @@
-# Chapter 7: Sedimentary Rocks
+---
+description: Chapter 7
+---
+
+# Sedimentary Rocks
 
 ## Why Study
 

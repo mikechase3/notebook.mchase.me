@@ -1,4 +1,4 @@
-# Chapter 1: Cosmology
+# Cosmology
 
 ## Basic Definitions
 
@@ -63,7 +63,7 @@ The faster a light source moves away from an observer, the more red they look. T
 
 ### The Nebula Theory of Solar System Formation
 
-I got distracted because the girl sitting next to me started drawing on a post-it note, so I made my own drawing. It was significantly less good than her's. I have little idea of what this is, so I should look it up later.
+I got distracted because the girl sitting next to me started drawing on a post-it note, so I made my own drawing. It was significantly less good than her's. This is my awful drawing:
 
 ![](<../../.gitbook/assets/image (548) (1).png>)
 

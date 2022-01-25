@@ -1,4 +1,8 @@
-# Chapter 3: Continents and Land
+---
+description: Chapter 3
+---
+
+# Continents
 
 ## 3.2 Evidence of Drift
 
