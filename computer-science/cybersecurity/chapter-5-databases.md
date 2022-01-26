@@ -11,7 +11,7 @@ Chapters 5.1-5.7 only.
 
 ## 5.2: DBMS
 
-![](<../../.gitbook/assets/image (641) (1).png>)
+![](<../../.gitbook/assets/image (641) (1) (1).png>)
 
 * You're defining the data stored in databases.
 * It'll be process and put into database description tables.

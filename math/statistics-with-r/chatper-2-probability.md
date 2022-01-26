@@ -130,7 +130,7 @@ There's a 66% chance you'll win if you switch?
 
 Now, it's 50/50.
 
-![](<../../.gitbook/assets/image (644).png>)
+![](<../../.gitbook/assets/image (644) (1).png>)
 
 ## Conditional Probability
 
@@ -207,13 +207,95 @@ Questions
 
 To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A^C) = 0.001$$
 
+
+
+## Law of Total Probability
+
+Verbatim:
+
+![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646).png>)
+
+#### Example Continued:
+
+We're still talking about the [cooling system](chatper-2-probability.md#ex-cooling-systems):
+
 > What is the probability that the backup cooling system activates?
+
+The probability is...?
+
+### Example: Lunchtime
+
+In class, we went over an example:
+
+![](<../../.gitbook/assets/image (645).png>)
+
+Note: we changed pizza to have a probability of 0.3 so it'd all add up to 1.
+
+## Bayes' Theorem
+
+Suppose I know P(A|B) and I want to find P(B|A). Baye's rule connects these:
+
+![](<../../.gitbook/assets/image (647).png>)
+
+{% embed url="https://www.freecodecamp.org/news/bayes-rule-explained" %}
+
+### Example: Testing for Disease
+
+Why don't we test people for rare disease?&#x20;
+
+{% hint style="warning" %}
+Review/discuss with him.
+{% endhint %}
+
+## Random Variables
+
+* A random variable is a function assigning a numerical value to each element of the sample space denoted by capital letters such as `X`, `Y`, and `Z`.
+
+#### Example: Flipping two coins
+
+The sample space S is clearly `{HH, HT, TH, TT}`
+
+Let the random variable X count the number of heads:
+
+* X({HH}) = 2
+* X({HT}) = X({TH}) = 1
+* X({TT}) = 0.
+
+### Discrete Vs. Continuous
+
+* Continuous
+  * Things like time, space, and money are continuous.
+  * You can never truly measure things that are continuous.
+  * Money is continuous because we stop counting at a fraction of a cent. In the stock market, I can't sell $0.00326345679 worth of Apple. At some point, you have to stop, usually at two decimals
+* Discrete
+
+
+
+![](<../../.gitbook/assets/image (642).png>)
+
+### Example: Mo Manufacturing Flaws
+
+![](<../../.gitbook/assets/image (643).png>)
+
+To solve this, let's do this:
+
+* P(x=0) = 0.78
+* P(x=1) = 0.18
+* P(x=2) = 0.07
+* P(X=3) = 0.04
+
+$$
+F(x) = 0 \iff x<0 \land F(x) = 0.71 \iff 0 \leq x \leq 1
+$$
+
+## Probability Mass Function
+
+![](<../../.gitbook/assets/image (644).png>)
 
 
 
 ## Works Cited
 
-*
 * Navidi, William. Statistics for Engineers & Scientists (4th edition).
 * Wascher, Matthew. "Chapter 1 Class/Powerpoint" _MTH 367 Statistics._ Spring 2022. University of Dayton.
 
