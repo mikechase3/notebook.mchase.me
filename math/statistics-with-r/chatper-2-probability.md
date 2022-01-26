@@ -55,7 +55,7 @@ This isn't possible. We're told 10% of the student body is (at most) a math majo
 
 ## Counting
 
-{% hint style="info" %}
+{% hint style="danger" %}
 I don't understand what I'm supposed to know.
 {% endhint %}
 
@@ -138,12 +138,84 @@ Now, it's 50/50.
 * Unconditional probability example: what is `P(A)` given that I have no particular information beyond `S` and the probability of all outcomes in `S`.
 * Conditional probability: what is `P(A)` given that I have information that causes me to restrict the possible outcomes to a subset of `S`.
 
+### Definition of Conditional Probability of A Given B
+
+$$
+P(A|B) = \frac{P(A \cap B)}{P(B)}
+$$
+
+### Example: Manufacturing Flaws
+
+Suppose that a certain component is produced. We have the following data:
+
+* It's produced shorter than specification 2% of the time.
+* It's produced both shorter/thinner than specification 1% of the time.
+
+> Suppose a randomly chosen component is shorter than specification is shorter than specification? What is the probability it is also thinner than specification?
+
+The probability is 0.5.
+
+## Independent Events
+
+* A and B are **independent** if knowing the ooutcome of one tells you nothing about the other.
+
+> Suppose A and B are independent? What is P(A|B)?
+
+#### Answer
+
+P(A|B) = P(A)
+
+#### Explanation/Proof
+
+> 𝑃(𝐴"∩" 𝐵)/(𝑃(𝐵))= (𝑃(𝐴)𝑃(𝐵))/(𝑃(𝐵))=𝑃(𝐴)
+
+### Example: Servers
+
+> Suppose a central server fails on 10% of days, an auxiliary server fails on 20% of days, and they both fail on 3% of days. Are the failures of these two servers independent events?
+
+{% hint style="warning" %}
+Review - I don't know how to tell myself.
+{% endhint %}
+
+### Determining Independence
+
+* We can define this by saying $$P(A \cap B) = \emptyset$$
+
+### Multiplication Rule for Independent Events
+
+From Wascher, verbatim:
+
+> * If A and B are independent P(A ∩ B) = P(A)P(B)&#x20;
+> * For an independent collection P(A1 ∩ . . . An) = P(A1) . . . P(An)&#x20;
+> * Generally P(A ∩ B) = P(A|B)P(B) Why?
+
+#### Ex: Cooling Systems
+
+> Suppose that if a reactor temperature ever exceeds 700C, the cooling system activates. Here is the data we collected:
+>
+> * The primary cooling system activates with probability .98&#x20;
+> * If the primary cooling system fails to activate, the backup cooling system activates with probability .95 $$P(B|A^C) = 0.95$$
+> * If both cooling systems fail, the reactor shuts down.
+
+{% hint style="warning" %}
+I don't understand how to solve this:
+{% endhint %}
+
+Questions
+
+> What is the probability the reactor shuts down?
+
+To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A^C) = 0.001$$
+
+> What is the probability that the backup cooling system activates?
+
 
 
 ## Works Cited
 
-* Course: Wascher, Matthew. "Chapter 1 Class/Powerpoint" _MTH 367 Statistics._ Spring 2022. University of Dayton.
+*
 * Navidi, William. Statistics for Engineers & Scientists (4th edition).
+* Wascher, Matthew. "Chapter 1 Class/Powerpoint" _MTH 367 Statistics._ Spring 2022. University of Dayton.
 
 
 
