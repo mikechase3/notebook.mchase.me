@@ -94,6 +94,7 @@
   * [Lecture 04: Linguistic Anthropology](communication/anthropology/lecture-04-linguistic-anthropology.md)
 * [Cloud Services](computer-science/cloud-services.md)
   * [Interlude: Neanderthals](communication/anthropology/interlude-neanderthals.md)
+* [Hardware](computer-science/hardware.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
   * [Lecture 05: The Maya Part 1](communication/anthropology/lecture-05-the-maya-part-1.md)
   * [Lecture 06: Culture](communication/anthropology/lecture-06-culture.md)
