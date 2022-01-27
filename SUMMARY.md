@@ -294,6 +294,10 @@
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
   * [Getting Started](computer-science/linux/getting-started.md)
 
+## Finance
+
+* [Stocks](finance/stocks.md)
+
 ## Growth
 
 * [Conservatories](growth/conservatories/README.md)
@@ -426,10 +430,6 @@
 * [eSSS Sample](writing/page-1.md)
 * [The Tongue and Quill](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 * [Inferkit](https://app.inferkit.com/generate)
-
-## Group 1
-
-* [Page 3](group-1/page-3.md)
 
 ## Boring Essays <a href="#personal-essays" id="personal-essays"></a>
 
