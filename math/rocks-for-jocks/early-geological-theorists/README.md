@@ -195,7 +195,7 @@ _"The present is the key to the past"_
 * Know the Geologic Time Scale
 * Know the 3 "Great Theorists of the Earth"
 
-![](<../../../.gitbook/assets/image (638).png>)#
+![](<../../../.gitbook/assets/image (639).png>)
 
 ## Power of Uniformitarianism
 
@@ -288,4 +288,3 @@ If you remove a small ice dam, you allow all of this water to flow out.
 * [Goldman, Daniel](https://udayton.edu/directory/artssciences/geology/goldman\_daniel.php). "GEO 116" _University of Dayton._ Jan 2022.
 * Harter, Richard "Changing Views of the History of the Earth". _The TalkOrigins Archive._ June 1998.
 * Sequence diagrams & drawings were made by Mike Chase. (Using [PlantUML](https://plantuml.com))
-* TODO: cite/change/remove geologic time scale.

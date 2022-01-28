@@ -30,5 +30,5 @@ description: Chapter 3
 
 ## Seismographs and Seismic Waves
 
-![](<../../.gitbook/assets/image (639) (1).png>)
+![](<../../.gitbook/assets/image (639) (1) (1).png>)
 
