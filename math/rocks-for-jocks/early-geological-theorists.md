@@ -282,3 +282,9 @@ We talked about this in class, but I think this is a good resource to define wha
 #### The Real Answer
 
 If you remove a small ice dam, you allow all of this water to flow out.
+
+## Works Cited
+
+* Goldman, Daniel. "GEO 116" _University of Dayton._ Jan 2022.
+* Sequence diagrams made with the help of PlantUML.
+* TODO: cite/change/remove geologic time scale.
