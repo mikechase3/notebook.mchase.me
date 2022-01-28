@@ -99,7 +99,7 @@ Smith -> Knowledge: establish the idea of extinction.
 @enduml
 ```
 
-![](<../../.gitbook/assets/image (642) (1) (1).png>)
+![](<../../../.gitbook/assets/image (642) (1) (1).png>)
 
 ## Issue: Extinction
 
@@ -150,7 +150,7 @@ This relates to Lyell's work because?
 
 #### Counting Varves
 
-This guy starts counting up layers of [varves](early-geological-theorists.md#undefined) and from one lake deposit, he counts so many couplets he realizes Wagner was correct. He puts together Uniformitarianism.
+This guy starts counting up layers of [varves](./#undefined) and from one lake deposit, he counts so many couplets he realizes Wagner was correct. He puts together Uniformitarianism.
 
 ```
 @startuml
@@ -165,7 +165,7 @@ Lyell -> Werner: start debate no 2
 @enduml
 ```
 
-![](<../../.gitbook/assets/image (643) (1).png>)
+![](<../../../.gitbook/assets/image (643) (1).png>)
 
 #### Beliefs
 
@@ -195,7 +195,7 @@ _"The present is the key to the past"_
 * Know the Geologic Time Scale
 * Know the 3 "Great Theorists of the Earth"
 
-![](<../../.gitbook/assets/image (638).png>)#
+![](<../../../.gitbook/assets/image (638).png>)#
 
 ## Power of Uniformitarianism
 
@@ -205,7 +205,7 @@ You can look at some sediment and characterize it by _color, composition, size, 
 
 ## Sediment Deposit Refresher
 
-![](<../../.gitbook/assets/image (642) (1).png>)
+![](<../../../.gitbook/assets/image (642) (1).png>)
 
 **Ways to identify:** color, composition, size, sorting, shape.
 
@@ -285,6 +285,7 @@ If you remove a small ice dam, you allow all of this water to flow out.
 
 ## Works Cited
 
-* Goldman, Daniel. "GEO 116" _University of Dayton._ Jan 2022.
-* Sequence diagrams made with the help of PlantUML.
+* [Goldman, Daniel](https://udayton.edu/directory/artssciences/geology/goldman\_daniel.php). "GEO 116" _University of Dayton._ Jan 2022.
+* Harter, Richard "Changing Views of the History of the Earth". _The TalkOrigins Archive._ June 1998.
+* Sequence diagrams & drawings were made by Mike Chase. (Using [PlantUML](https://plantuml.com))
 * TODO: cite/change/remove geologic time scale.
