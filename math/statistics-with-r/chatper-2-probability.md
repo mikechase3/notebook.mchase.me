@@ -130,7 +130,7 @@ There's a 66% chance you'll win if you switch?
 
 Now, it's 50/50.
 
-![](<../../.gitbook/assets/image (644) (1).png>)
+![](<../../.gitbook/assets/image (644) (1) (1).png>)
 
 ## Conditional Probability
 
@@ -213,7 +213,7 @@ To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A
 
 Verbatim:
 
-![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646).png>)
+![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1).png>)
 
 #### Example Continued:
 
@@ -227,7 +227,7 @@ The probability is...?
 
 In class, we went over an example:
 
-![](<../../.gitbook/assets/image (645).png>)
+![](<../../.gitbook/assets/image (645) (1).png>)
 
 Note: we changed pizza to have a probability of 0.3 so it'd all add up to 1.
 
@@ -271,7 +271,7 @@ Let the random variable X count the number of heads:
 
 
 
-![](<../../.gitbook/assets/image (642).png>)
+![](<../../.gitbook/assets/image (642) (1).png>)
 
 ### Example: Mo Manufacturing Flaws
 
@@ -290,7 +290,7 @@ $$
 
 ## Probability Mass Function
 
-![](<../../.gitbook/assets/image (644).png>)
+![](<../../.gitbook/assets/image (644) (1).png>)
 
 
 

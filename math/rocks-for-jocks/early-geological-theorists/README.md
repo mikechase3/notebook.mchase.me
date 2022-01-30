@@ -99,7 +99,7 @@ Smith -> Knowledge: establish the idea of extinction.
 @enduml
 ```
 
-![](<../../../.gitbook/assets/image (642) (1) (1).png>)
+![](<../../../.gitbook/assets/image (642) (1) (1) (1).png>)
 
 ## Issue: Extinction
 
@@ -205,7 +205,7 @@ You can look at some sediment and characterize it by _color, composition, size, 
 
 ## Sediment Deposit Refresher
 
-![](<../../../.gitbook/assets/image (642) (1).png>)
+![](<../../../.gitbook/assets/image (642) (1) (1).png>)
 
 **Ways to identify:** color, composition, size, sorting, shape.
 

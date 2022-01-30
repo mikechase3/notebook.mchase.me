@@ -7,11 +7,16 @@
 
 ## Automotive
 
+* [Engine Cutting](automotive/engine-cutting.md)
 * [Privacy Concerns](automotive/privacy-concerns/README.md)
   * [Disabling Telemetrics](automotive/privacy-concerns/disabling-telemetrics.md)
   * [Subaru Starlink Vulnerabilities](https://www.bitdefender.com/blog/hotforsecurity/researcher-finds-basic-mistakes-subarus-starlink-service)
   * [Page 1](automotive/privacy-concerns/page-1.md)
-* [Engine Cutting](automotive/engine-cutting.md)
+* [Rallying](automotive/rallying/README.md)
+  * [Group B](automotive/rallying/group-b/README.md)
+    * [Rallying - The Killer Years](https://www.amazon.com/Rallying-Killer-Years-John-Matthews/dp/B0882R7YKV/ref=nav\_ya\_signin?crid=1MCBSBK1UMB6U\&keywords=The+Killer+Years\&qid=1643523211\&sprefix=the+killer+ye%2Caps%2C531\&sr=8-1&)
+    * ["Too Fast to Race"](https://youtu.be/imXk8u-reUQ)
+    * [Maddness on Wheels](https://www.dailymotion.com/video/x14ems5)
 * [Recommendations](automotive/references.md)
   * [Crutchfield Car Audio/Video](https://www.crutchfield.com)
 
@@ -95,7 +100,6 @@
   * [Lecture 04: Linguistic Anthropology](communication/anthropology/lecture-04-linguistic-anthropology.md)
 * [Cloud Services](computer-science/cloud-services.md)
   * [Interlude: Neanderthals](communication/anthropology/interlude-neanderthals.md)
-* [Hardware](computer-science/hardware.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
   * [Lecture 05: The Maya Part 1](communication/anthropology/lecture-05-the-maya-part-1.md)
   * [Lecture 06: Culture](communication/anthropology/lecture-06-culture.md)
@@ -187,6 +191,7 @@
   * [Unity Tutorials: Cat Like Coding](https://catlikecoding.com)
 * [Git and Github](computer-science/git-and-github/README.md)
   * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+* [Hardware](computer-science/hardware.md)
 * [Languages & Architectures](computer-science/languages-and-architectures/README.md)
   * [Bash](computer-science/languages-and-architectures/bash.md)
   * [C](computer-science/languages-and-architectures/c.md)
