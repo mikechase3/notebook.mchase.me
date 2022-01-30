@@ -10,9 +10,11 @@
 There was a bunch of different ways to run .NET for a while:
 
 * .NET Framework (runs on Windows)
-* **.NET Core (new & open-source) and RUNS EVERYHWERE.**
+* **.NET Core (new & open-source) and Runs Everywhere.**
 * Mono/Xamarin for linux (a open source reimplementation on .net that originally ran on Linux).
 
+## Running from CLI
 
+Once you're in the directory, run a `.cs` file using the syntax: `dotnet run whateverProgram.cs`.
 
 This is all being combined into a .NET SDK with one base class library (BCL).

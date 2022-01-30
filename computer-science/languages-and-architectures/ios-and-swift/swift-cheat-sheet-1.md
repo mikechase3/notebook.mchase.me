@@ -10,11 +10,11 @@
 Work I created and comments I added are placed in hints that look like these.
 {% endhint %}
 
-See also: Ray Wenderlich [Cheat Sheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Swift-5.1-Cheatsheet-1.0.1.pdf) if you're looking for something even more condensed. 
+See also: Ray Wenderlich [Cheat Sheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Swift-5.1-Cheatsheet-1.0.1.pdf) if you're looking for something even more condensed.&#x20;
 
 ## Variables
 
-Use `var` for variables that can change \("mutable"\) and `let` for constants that can't change \("non-mutable"\).
+Use `var` for variables that can change ("mutable") and `let` for constants that can't change ("non-mutable").
 
 _Integers_ are "whole" numbers, i.e. numbers without a fractional component.
 
@@ -60,7 +60,7 @@ let b = 4
 let c = a + b
 ```
 
-Swift can determine the _type_ \(`Int`, `Double`, `String`, etc.\) of a variable on its own. This is called _type inference_. In this example, the type of `name` is inferred to be `String`.
+Swift can determine the _type_ (`Int`, `Double`, `String`, etc.) of a variable on its own. This is called _type inference_. In this example, the type of `name` is inferred to be `String`.
 
 ```swift
 var name = "Arthur Dent"
@@ -105,12 +105,12 @@ let age = 42
 
 Swift has a few basic math operators:
 
-* `a + b` for _addition_ \(works for strings too\)
+* `a + b` for _addition_ (works for strings too)
 * `a - b` for _subtraction_
 * `a * b` for _multiplication_
 * `a / b` for _division_
-* `a % b` for _remainder_ \(or use `isMultiple(of:)`\)
-* `-a` for _minus_ \(invert sign\)
+* `a % b` for _remainder_ (or use `isMultiple(of:)`)
+* `-a` for _minus_ (invert sign)
 
 Unlike other programming languages, Swift does not have `--` and `++` operators. Instead it has:
 
@@ -147,7 +147,7 @@ Swift has 3 logical operators:
 
 * `a && b` for _Logical AND_, returns `true` if `a` and `b` are `true`, or `false` otherwise
 * `a || b` for _Logical OR_, returns `true` if either `a` or `b` is `true`, or both are `true`, or `false` otherwise
-* `!a` for _Logical NOT_, returns `true` if `a` is `false`, and `false` if `a` is `true` \(i.e., the opposite of `a`\)
+* `!a` for _Logical NOT_, returns `true` if `a` is `false`, and `false` if `a` is `true` (i.e., the opposite of `a`)
 
 Swift has a few range operators. You can use them to define ranges of numbers and strings.
 
@@ -576,7 +576,7 @@ You can get items from the array with _subscript syntax_:
 let arthur = hitchhikers[1]
 ```
 
-Remember that arrays are _zero-index_, so the index number of the first element is `0` \(and not `1`\).
+Remember that arrays are _zero-index_, so the index number of the first element is `0` (and not `1`).
 
 You can iterate arrays, like this:
 
@@ -664,7 +664,7 @@ Sets are different from arrays and dictionaries, in these ways:
 * Every item in a set needs to be unique
 * Sets don't have indices or keys
 * Instead, a set's values need to be _hashable_
-* Because set items are hashable, you can search sets in _O\(1\)_ time
+* Because set items are hashable, you can search sets in _O(1)_ time
 
 Here's how you can quickly search a set:
 
@@ -687,7 +687,7 @@ let machiato:Set   = ["espresso", "milk foam"]
 let latte:Set      = ["espresso", "milk"]
 ```
 
-Can we find the **union** \(add items\) of two coffees?
+Can we find the **union** (add items) of two coffees?
 
 ```swift
 machiato.union(latte)
@@ -701,7 +701,7 @@ cappuccino.subtracting(americano)
 // ["milk foam", "milk"]
 ```
 
-Can we find the **intersection** \(shared items\) of two coffees?
+Can we find the **intersection** (shared items) of two coffees?
 
 ```swift
 latte.intersection(cappuccino)
@@ -772,7 +772,7 @@ You can read that as: _"Guard that the User ID is greater than zero, or else, ex
 
 Guard blocks always need to exit its enclosing scope, i.e. transfer control outside of the scope, by using `return`, `throw`, `break` or `continue`.
 
-You can also combine `guard` and `if let` \(optional binding\) into `guard let`. This checks if the given expression is not `nil`, and assigns it to a constant. When the expression is `nil`, the `else` clause of `guard` is executed.
+You can also combine `guard` and `if let` (optional binding) into `guard let`. This checks if the given expression is not `nil`, and assigns it to a constant. When the expression is `nil`, the `else` clause of `guard` is executed.
 
 ```swift
 guard let user = object?.user else {
@@ -834,7 +834,7 @@ If you want to insert ducks, cows, birds and chickens in your farm, you can now 
 
 ## Tuples
 
-With _tuples_ you get two \(or more\) variables for one. They help you structure your code better. Like this:
+With _tuples_ you get two (or more) variables for one. They help you structure your code better. Like this:
 
 ```swift
 let coffee = ("Cappuccino", 3.99)
@@ -998,11 +998,10 @@ In the example above, the `processPayment(creditcard:)` function is marked with 
 
 No cheatsheet is complete without a list of resources with more information. Wanna see how deep the rabbit hole really goes?
 
-* [Swift Language Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
+* [Swift Language Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift\_Programming\_Language/TheBasics.html)
 * [Swift Evolution](https://apple.github.io/swift-evolution/)
 * [Swift Standard Library](https://developer.apple.com/documentation/swift)
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
 * [https://github.com/vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
 * [https://github.com/matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-* [http://online.swiftplayground.run/](http://online.swiftplayground.run/)
-
+* [http://online.swiftplayground.run/](http://online.swiftplayground.run)

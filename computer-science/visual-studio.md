@@ -8,7 +8,7 @@
 
 ### Activity Bar
 
-The activity bar is on the left. From top to bottom, here’s how it’s laid out: 
+The activity bar is on the left. From top to bottom, here’s how it’s laid out:&#x20;
 
 * File explorer
 * Search (for files?)
@@ -32,7 +32,7 @@ On the left side:
   * Clicking on this lets you change branches.
 * Circular arrows help you sync changes.
 * Errors/Warnings and the number tells you how many there are.
-* `Go`: What language. 
+* `Go`: What language.&#x20;
 * `1.13.4`: Version number.
 
 On the right side:
@@ -65,11 +65,11 @@ On the right side:
 * Displays the output. The dropdown tells you where the output is coming from.
 * _Clear_: is the weird x and ciouple lines. Clears your output.
 * _Lock_: Freezes your scroll point.
-* `^` isn’t available for everything, but clicking it will take you to a physical logfile. 
+* `^` isn’t available for everything, but clicking it will take you to a physical logfile.&#x20;
 
 ### Debug Console
 
-* You can filter using _globs_ which are like regular expressions, but slightly different. 
+* You can filter using _globs_ which are like regular expressions, but slightly different.&#x20;
   * Click the _gear_ to change what will be shown/excluded
   * For example, you’ll probably want to exclude git results.
   * Changing the debug console happens across a project, not file.
