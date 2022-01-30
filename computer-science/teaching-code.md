@@ -1,6 +1,6 @@
 # Teaching Code
 
-There's a high level of incompetence that schools are dealing with. Sometimes, I even wonder if they have options.
+There's a high level of incompetence that schools are dealing with.
 
 
 
