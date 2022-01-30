@@ -25,7 +25,6 @@
 
 * [Breakups and Rejections](business/breakups-and-rejections.md)
 * [Cognitive Biases](psychology/cognitive-biases.md)
-* [Economics](psychology/economics.md)
 * [Marketing: Framing, Conformity, Cognitive Dissonance](business/programiz-how-we-use-psychology-to-market-our-products/README.md)
   * [Chapter 1 Textbook Notes](business/programiz-how-we-use-psychology-to-market-our-products/chapter-1-textbook-notes.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
@@ -91,11 +90,6 @@
   * [Hollywood Cinema](communication/propaganda/hollywood-cinema.md)
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
-* [Anthropology](communication/anthropology/README.md)
-  * [Lecture 01: What is Anthropology](communication/anthropology/lecture-01-what-is-anthropology.md)
-  * [Lecture 02: Physical Anthropology](communication/anthropology/lecture-02-physical-anthropology.md)
-  * [Interlude: First Steps Video](communication/anthropology/interlude-first-steps-video.md)
-  * [Lecture 03: Archaeology](communication/anthropology/lecture-03-archaeology.md)
 
 ## 💾 Computer Science
 
@@ -182,10 +176,12 @@
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
   * [Getting Started](computer-science/linux/getting-started.md)
 * [Programming](computer-science/languages-and-architectures/README.md)
+  * [Apple's Ecosystem](computer-science/languages-and-architectures/apples-ecosystem/README.md)
+    * [iOS and Swift](computer-science/languages-and-architectures/apples-ecosystem/ios-and-swift/README.md)
+      * [The Swift Language Programming Guide](computer-science/languages-and-architectures/apples-ecosystem/ios-and-swift/the-swift-language-programming-guide.md)
+      * [Swift Cheat Sheet](computer-science/languages-and-architectures/apples-ecosystem/ios-and-swift/swift-cheat-sheet-1.md)
   * [Bash](computer-science/languages-and-architectures/bash.md)
   * [C](computer-science/languages-and-architectures/c.md)
-  * [C#](computer-science/languages-and-architectures/c-1/README.md)
-    * [DotNet Beats NodeJS](https://raygun.com/blog/dotnet-vs-nodejs/)
   * [Compiler Theory](computer-science/languages-and-architectures/integrators-and-compilers.md)
   * [Denigma Code Explainer](https://denigma.app)
   * [Full Stack Development](computer-science/languages-and-architectures/full-stack-cloud-based-application-development/README.md)
@@ -217,13 +213,14 @@
       * [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
   * [HTML/CSS/JS](computer-science/languages-and-architectures/html-css.md)
   * [Golang](computer-science/languages-and-architectures/go.md)
-  * [iOS and Swift](computer-science/languages-and-architectures/ios-and-swift/README.md)
-    * [The Swift Language Programming Guide](computer-science/languages-and-architectures/ios-and-swift/the-swift-language-programming-guide.md)
-    * [Swift Cheat Sheet](computer-science/languages-and-architectures/ios-and-swift/swift-cheat-sheet-1.md)
   * [Java](computer-science/languages-and-architectures/java/README.md)
     * [Resources](computer-science/languages-and-architectures/java/resources.md)
     * [Java Collections Framework](computer-science/languages-and-architectures/java/java.md)
   * [MIPS](computer-science/languages-and-architectures/mips.md)
+  * [.NET Ecosystem (C#, F#, VB)](computer-science/languages-and-architectures/.net-ecosystem-c-f-vb/README.md)
+    * [DotNet Beats NodeJS](https://raygun.com/blog/dotnet-vs-nodejs/)
+    * [.NET Core 101](https://www.youtube.com/watch?v=eIHKZfgddLM\&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
+  * [Octoverse State of Code](https://octoverse.github.com)
   * [Python](computer-science/languages-and-architectures/python/README.md)
     * [Basics](computer-science/languages-and-architectures/python/personal-notes.md)
     * [Boolean Logic](computer-science/languages-and-architectures/python/boolean-logic.md)
@@ -241,7 +238,6 @@
   * [Racket](computer-science/languages-and-architectures/scheme.md)
   * [R](computer-science/languages-and-architectures/r/README.md)
     * [Cheatsheet](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
-  * [Octoverse State of Code](https://octoverse.github.com)
   * [Stack Overflow Insights](https://insights.stackoverflow.com/survey/)
 * [Machine Learning](computer-science/understanding-learning/README.md)
   * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
@@ -287,6 +283,7 @@
 * [Tools](computer-science/tools/README.md)
   * [\[VNC\] Jump Desktop](https://jumpdesktop.com/go)
   * [\[Web IDE\] Replit](https://replit.com/\~)
+  * [Visual Studio](computer-science/tools/visual-studio.md)
 * [Unity](computer-science/unity-1/README.md)
   * [Player Control](computer-science/unity-1/unwritten.md)
   * [Basic Gameplay](computer-science/unity-1/basic-gameplay.md)
@@ -307,7 +304,6 @@
   * [Blueprints](computer-science/unreal-engine/blueprints/README.md)
     * [Creating Blueprints & Editor UI](computer-science/unreal-engine/blueprints/creating-blueprints-and-editor-ui.md)
     * [Blueprint Components](computer-science/unreal-engine/blueprints/blueprint-components.md)
-* [Visual Studio](computer-science/visual-studio.md)
 
 ## Finance
 
@@ -432,6 +428,15 @@
 * [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
 * [Drugs Don't Solve Problems](principles-and-values/drugs-dont-solve-problems.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
+
+## Social Sciences
+
+* [Anthropology](social-sciences/anthropology/README.md)
+  * [Lecture 01: What is Anthropology](social-sciences/anthropology/lecture-01-what-is-anthropology.md)
+  * [Lecture 02: Physical Anthropology](social-sciences/anthropology/lecture-02-physical-anthropology.md)
+  * [Interlude: First Steps Video](social-sciences/anthropology/interlude-first-steps-video.md)
+  * [Lecture 03: Archaeology](social-sciences/anthropology/lecture-03-archaeology.md)
+* [Economics](social-sciences/economics.md)
 
 ## 📝 Writing
 

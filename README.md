@@ -4,6 +4,8 @@
 
 #### Why does this exist?
 
+I wanted some public-facing way to access my bookmarks, but I quickly&#x20;
+
 * Citing sources: sometimes, I make/support claims that are a bit unusual in American society.
 
 ####
