@@ -290,9 +290,45 @@ $$
 
 ## Probability Mass Function
 
+The probability mass function of a discrete random variable x is P(x) = p(x=x)
+
 ![](<../../.gitbook/assets/image (644) (1).png>)
 
+We did an example in class:
 
+> Flip a fair coin until the first tales. Let X be the total number of flips. What is the pmf of X.
+
+| Value of X | Probability Function | Result        |
+| ---------- | -------------------- | ------------- |
+| 1          | P(x=1)               | 0.5           |
+| 2          | P(x=2)               | 0.25          |
+| 3          | P(x=3)               | 0.125 (0.5)^3 |
+
+## Expected Value (Weighted Average)
+
+* The **expected value** or **mean** of a random variable `X` can be thought of as the population mean.
+* The population mean of a hypothetical sample that followed the population distribution perfectly.
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.43.15@2x.jpg>)
+
+#### Example
+
+
+
+To solve, we'd do 0\*.71+1\*.18+2\*0.07...
+
+* P(0) = 1
+* P(1)
+
+
+
+### Ex
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.45.26@2x (1).jpg>)
+
+
+
+To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \imp$$
 
 ## Works Cited
 
