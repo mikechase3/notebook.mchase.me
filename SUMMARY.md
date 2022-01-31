@@ -309,6 +309,7 @@
   * [Blueprints](computer-science/unreal-engine/blueprints/README.md)
     * [Creating Blueprints & Editor UI](computer-science/unreal-engine/blueprints/creating-blueprints-and-editor-ui.md)
     * [Blueprint Components](computer-science/unreal-engine/blueprints/blueprint-components.md)
+* [Whole Brain Emulation Roadmap](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
 
 ## Finance
 
