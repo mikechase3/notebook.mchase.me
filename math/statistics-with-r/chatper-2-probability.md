@@ -130,7 +130,7 @@ There's a 66% chance you'll win if you switch?
 
 Now, it's 50/50.
 
-![](<../../.gitbook/assets/image (644) (1) (1).png>)
+![](<../../.gitbook/assets/image (644) (1) (1) (1).png>)
 
 ## Conditional Probability
 
@@ -213,7 +213,7 @@ To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A
 
 Verbatim:
 
-![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1).png>)
+![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1) (1).png>)
 
 #### Example Continued:
 
@@ -235,7 +235,7 @@ Note: we changed pizza to have a probability of 0.3 so it'd all add up to 1.
 
 Suppose I know P(A|B) and I want to find P(B|A). Baye's rule connects these:
 
-![](<../../.gitbook/assets/image (647).png>)
+![](<../../.gitbook/assets/image (647) (1).png>)
 
 {% embed url="https://www.freecodecamp.org/news/bayes-rule-explained" %}
 
@@ -275,7 +275,7 @@ Let the random variable X count the number of heads:
 
 ### Example: Mo Manufacturing Flaws
 
-![](<../../.gitbook/assets/image (643).png>)
+![](<../../.gitbook/assets/image (643) (1).png>)
 
 To solve this, let's do this:
 
@@ -288,11 +288,11 @@ $$
 F(x) = 0 \iff x<0 \land F(x) = 0.71 \iff 0 \leq x \leq 1
 $$
 
-## Probability Mass Function
+## Probability Mass Function P(x)
 
 The probability mass function of a discrete random variable x is P(x) = p(x=x)
 
-![](<../../.gitbook/assets/image (644) (1).png>)
+![](<../../.gitbook/assets/image (644) (1) (1).png>)
 
 We did an example in class:
 
@@ -304,7 +304,7 @@ We did an example in class:
 | 2          | P(x=2)               | 0.25          |
 | 3          | P(x=3)               | 0.125 (0.5)^3 |
 
-## Expected Value (Weighted Average)
+### Expected Value (Weighted Average)
 
 * The **expected value** or **mean** of a random variable `X` can be thought of as the population mean.
 * The population mean of a hypothetical sample that followed the population distribution perfectly.
@@ -322,13 +322,101 @@ To solve, we'd do 0\*.71+1\*.18+2\*0.07...
 
 
 
-### Ex
+#### Ex
 
 ![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.45.26@2x (1).jpg>)
 
 
 
-To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \imp$$
+To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \implies <number>$$
+
+#### Ex 3: St. Petersburg Game (Take 1)
+
+![What are the expected earnings?](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.59.52@2x.jpg>)
+
+#### Example 4: St. Petersberg (Take 2)
+
+> Consider the following game:
+>
+> * You flip a fair coin until the first time it comes up Tails&#x20;
+> * Let X be the total number of flips&#x20;
+> * You win \$$$2^x$$ but The house can pay out at most $1 billion
+> * What are your expected winnings? (As the house)
+>
+>
+
+![](<../../.gitbook/assets/image (646).png>)
+
+### Population Variance
+
+* It's the squareroot of the variance `s` or σ
+
+{% embed url="https://www.chem.tamu.edu/class/fyp/keeney/stddev.pdf" %}
+
+## Probability Density Function
+
+For a continuous random variable X P(X = a) = 0 for all values a We can think about the cdf F(x) instead (cdfs always exist in the sense that P(X ≤ a) always has a value) Suppose we want to know P(a < X < b):
+
+The **probability density function** f(x) is a function such that $$P(a<X<b) = P(a \leq X \leq b$$
+
+* Helps you compute stuff by integrating.
+
+
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.18.28@2x.jpg>)
+
+
+
+#### Example: Computation Time
+
+{% hint style="warning" %}
+Might've answered the wrong question. Similar questions on slides & I mixed them up.
+{% endhint %}
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.21.40@2x.jpg>)
+
+#### Ex: Electricity Generation
+
+{% hint style="info" %}
+Ask him to go over this one more time... couldn't find slide.&#x20;
+{% endhint %}
+
+## Relating PDFs and CDFs
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.26.48@2x.jpg>)
+
+It's often pays off to find the CDF first.
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.27.12@2x.jpg>)
+
+
+
+#### Example: PDFs and CDFs - Time to Failure
+
+* Suppose the pdf for the time to failure for a component is given by $$f(x)= \frac{1}{10}e^{- \frac{x}{10}} \iff x>0$$
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.36.59@2x.jpg>)
+
+## Mean, Variance and Sample Variance
+
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.35.19@2x.jpg>)
+
+#### Example: Expected Value: Computation Time
+
+> * Suppose the pdf for the time in seconds it takes a computation to finish is given by: $$f(x) = \frac{6}{5}x(1+x) \iff x>0$$
+> * What is the standard deviation of the computation time?&#x20;
+
+#### Example: Expected Value: Time to Failure
+
+> Glossing over at this point...
+
+#### Example: Expected Value: Ratio of Errors
+
+> Suppose X is the absolute value of the radio of error measurements of the length and width of a steel beam has the distribution $$f(x)= \frac{2}{\pi} \frac{1}{(1+x)^2}, x > 0$$
+>
+> Find the mean of X.
+
+
 
 ## Works Cited
 
