@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Notebook](README.md)
-* [TOC (Decomissioned)](<README (1).md>)
+* [TOC (Decomissioned)](tableOfContentsDECOMISSIONED.md)
 * [Inbox](inbox.md)
 * [Backlog](backlog.md)
 
