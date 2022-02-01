@@ -61,10 +61,10 @@
 * [Cone of Learning](communication/cone-of-learning.md)
 * [Seven Habits](career/seven-habits.md)
 * [Feynmenn Method to Teach Deep Understanding](communication/the-feynmenn-technique.md)
-* [Charisma](communication/charisma.md)
 
 ## Communication
 
+* [Charisma](communication/charisma.md)
 * [Color Theory](communication/colors-and-marketing.md)
 * [Habitual and Sensitization](communication/habitual-and-sensitization.md)
   * [Charisma on Command](https://www.charismaoncommand.com)
