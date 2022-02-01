@@ -388,6 +388,7 @@
   * [Early Geological Theorists](math/rocks-for-jocks/early-geological-theorists/README.md)
     * [Changing Views of the History of the Earth](http://www.talkorigins.org/faqs/geohist.html)
   * [The Age of the Earth](math/rocks-for-jocks/the-age-of-the-earth.md)
+  * [Relative Age Dating](math/rocks-for-jocks/relative-age-dating.md)
 * [Lit Solution](https://www.litsolutions.org)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Calc 3](math/untitled-1/README.md)
