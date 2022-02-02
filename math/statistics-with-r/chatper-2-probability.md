@@ -357,7 +357,7 @@ To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \implies <number>$$
 
 For a continuous random variable X P(X = a) = 0 for all values a We can think about the cdf F(x) instead (cdfs always exist in the sense that P(X ≤ a) always has a value) Suppose we want to know P(a < X < b):
 
-The **probability density function** f(x) is a function such that $$P(a<X<b) = P(a \leq X \leq b$$
+The **probability density function** f(x) is a function such that $$P(a<X<b) = P(a \leq X \leq b)$$
 
 * Helps you compute stuff by integrating.
 
