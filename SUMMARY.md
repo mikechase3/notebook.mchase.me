@@ -25,10 +25,10 @@
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
 * [Breakups and Rejections](business/breakups-and-rejections.md)
-* [Cognitive Biases](psychology/cognitive-biases.md)
 * [Marketing: Framing, Conformity, Cognitive Dissonance](business/programiz-how-we-use-psychology-to-market-our-products/README.md)
   * [Chapter 1 Textbook Notes](business/programiz-how-we-use-psychology-to-market-our-products/chapter-1-textbook-notes.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
+* [Cognitive Biases](psychology/cognitive-biases.md)
 
 ## Career
 
@@ -384,11 +384,10 @@
   * [Rivers & Flooding](math/rocks-for-jocks/chapter-17-the-hydrologic-cycle.md)
   * [Groundwater](math/rocks-for-jocks/groundwater.md)
   * [Global Climate Change](math/rocks-for-jocks/global-climate-change.md)
-  * [Building the Geologic Timescale](math/rocks-for-jocks/building-the-geologic-timescale.md)
   * [Early Geological Theorists](math/rocks-for-jocks/early-geological-theorists/README.md)
     * [Changing Views of the History of the Earth](http://www.talkorigins.org/faqs/geohist.html)
-  * [The Age of the Earth](math/rocks-for-jocks/the-age-of-the-earth.md)
-  * [Relative Age Dating](math/rocks-for-jocks/relative-age-dating.md)
+    * [The Age of the Earth](math/rocks-for-jocks/early-geological-theorists/the-age-of-the-earth.md)
+  * [Building the Geologic Timescale](https://www.dropbox.com/s/pvyu8hhy6lctk6p/Geo%20116%20Notes.pdf?dl=0)
 * [Lit Solution](https://www.litsolutions.org)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Calc 3](math/untitled-1/README.md)

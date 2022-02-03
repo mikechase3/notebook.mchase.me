@@ -6,10 +6,6 @@ description: >-
 
 # Geology
 
-
-
-
-
 ## Identifying Rocks
 
 ### Color
@@ -54,3 +50,4 @@ description: >-
 * Magnetic
 * Distinctive taste.
 * Reactions with acids. See if minerals dissolve in it.
+*

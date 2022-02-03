@@ -275,7 +275,7 @@ Let the random variable X count the number of heads:
 
 ### Example: Mo Manufacturing Flaws
 
-![](<../../.gitbook/assets/image (643) (1).png>)
+![](<../../.gitbook/assets/image (643) (1) (1).png>)
 
 To solve this, let's do this:
 

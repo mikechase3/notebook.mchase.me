@@ -6,6 +6,8 @@
 * Plate tectonics: how it has helped us reconstruct the history of the earth.
 * Evolution: understanding the development & history of life on earth.
 
+![](<../../../.gitbook/assets/image (643).png>)
+
 ### External Metaphors in Geologic Thought
 
 * Is Geologic history directional or cyclical? When is it cyclical like mountains rising/falling? Or directional meaning humans will be extinct one day.
@@ -15,8 +17,6 @@
 ### Early Life
 
 * Prokaryotes
-
-
 
 ### Figured Stones
 
@@ -165,7 +165,7 @@ Lyell -> Werner: start debate no 2
 @enduml
 ```
 
-![](<../../../.gitbook/assets/image (643) (1) (1).png>)
+![](<../../../.gitbook/assets/image (643) (1) (1) (1).png>)
 
 #### Beliefs
 
