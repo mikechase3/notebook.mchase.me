@@ -1,4 +1,4 @@
-# Chatper 2: Probability
+# Chatper 2
 
 ## Schools of Probability:
 
@@ -217,7 +217,7 @@ Verbatim:
 
 #### Example Continued:
 
-We're still talking about the [cooling system](chatper-2-probability.md#ex-cooling-systems):
+We're still talking about the [cooling system](chatper-2.md#ex-cooling-systems):
 
 > What is the probability that the backup cooling system activates?
 
@@ -357,7 +357,9 @@ To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \implies <number>$$
 
 For a continuous random variable X P(X = a) = 0 for all values a We can think about the cdf F(x) instead (cdfs always exist in the sense that P(X ≤ a) always has a value) Suppose we want to know P(a < X < b):
 
-The **probability density function** f(x) is a function such that $$P(a<X<b) = P(a \leq X \leq b)$$
+The **probability density function** f(x) is a function such that $$P(a<X<b) = P(a \leq X \leq b$$
+
+The **probability density function** f(x) is a function such that $$P(a<X<b) = P(a \leq X \leq b$$
 
 * Helps you compute stuff by integrating.
 
@@ -416,12 +418,112 @@ It's often pays off to find the CDF first.
 >
 > Find the mean of X.
 
+## Expected Values
+
+* E(X) is the expected value of X.
+* You can take the expected value of any function.
+
+{% hint style="info" %}
+Missing content? See Feb 2 or chapter 2 slides.
+{% endhint %}
+
+## Percentiles of Continuous Random Variables
+
+* Let X be aa continuous random variable with pddf f(x) and cdf F(x)
+* A pth percentile of X is any value xp such that $$\int_{-\infty}^{x_p} f(x)dx = p$$
+  * Note, we need 0\<p< 1 for this t =o work.
+* Median is where it's 0.5
+
+### Example: Percentiles: Time to Failures
+
+* Suppose the pdf for the time to failure for a component is given by $$f(x)=\frac{1}{10}e^{\frac{-x}{10}} \iff x >0$$.
+* What is the median time to failure?&#x20;
+
+{% hint style="info" %}
+Missed a lot of information here.
+{% endhint %}
+
+![](broken-reference)
+
+### Markov's Inequality & Time to Failure
+
+![Markov's Inequality](https://wikimedia.org/api/rest\_v1/media/math/render/svg/bd6bedf71baa9941ef8cc368072afab09e5ec9fb)
+
+Markov's inequality gives you a conservative way to bound the worst-case scenario.
+
+{% embed url="https://en.wikipedia.org/wiki/Markov's_inequality" %}
+
+{% hint style="danger" %}
+Need to review & redo notes!
+{% endhint %}
+
+#### Chebyshev's Inequality
 
 
-## Works Cited
 
+Let _X_ (integrable) be a [random variable](https://en.wikipedia.org/wiki/Random\_variable) with finite [expected value](https://en.wikipedia.org/wiki/Expected\_value) _μ_ and finite non-zero [variance](https://en.wikipedia.org/wiki/Variance) _σ_2. Then for any [real number](https://en.wikipedia.org/wiki/Real\_number) _k_ > 0,
+
+![](https://wikimedia.org/api/rest\_v1/media/math/render/svg/13787911b032508f2a54da8eb84750f331a70401)
+
+* Sigma: Standard deviation
+* K: an arbitrary number
+* Mu\_x: Standard symbol for mean of x.
+
+Only the case ![k > 1](https://wikimedia.org/api/rest\_v1/media/math/render/svg/5cda43bd4034dc2d04cd562005d0af81d3d2dbc6) is useful. When ![{\displaystyle k\leq 1}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/469d19178c15078531ed85c412c641ff664f028b) the right-hand side ![{\displaystyle {\frac {1}{k^{2}}}\geq 1}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/ded7f223f46f4516f81f0590190636a894378729) and the inequality is trivial as all probabilities are ≤ 1.
+
+#### Example: Chebyshev's Inequality: Time to Failure
+
+We did the above problem again
+
+{% embed url="https://en.wikipedia.org/wiki/Chebyshev's_inequality" %}
+R
+{% endembed %}
+
+{% hint style="info" %}
+Redo these notes.
+{% endhint %}
+
+## Linear Functions of Random Variables
+
+### Mean of Linear Combination
+
+* Mean of a linear combination:$$E(X)=\mu_x$$
+* $$E(aX+b)=a \mu_x +b$$
+* Proof: $$E(aX+b) = \int_{-\infty}^\infty(ax+b)f(x)dx \implies \texttt{something}$$... see [slides](https://isidore.udayton.edu/access/lessonbuilder/item/29997089/group/d6082308-ebf3-4045-9a06-a4d7a6611751/Lessons/MTH+367+Chapter+2-2.pptx)
+
+### Variance of a Linear Combination
+
+![Formulas](broken-reference)
+
+### Linear Combination: Temperatures
+
+Suppose at a certain location the average temperature in April is 56F with a standard deviation to celsius, what are the new mean and standard deviation?
+
+![](broken-reference)
+
+### Next?
+
+$$
+E(C_1X_1+...+c_nX_n) = c_1E(X_1)+...c_nE(X_n)=c_1\mu_1+...+c_n \mu_n
+$$
+
+#### Example
+
+Hi
+
+
+
+
+
+*
 * Navidi, William. Statistics for Engineers & Scientists (4th edition).
-* Wascher, Matthew. "Chapter 1 Class/Powerpoint" _MTH 367 Statistics._ Spring 2022. University of Dayton.
+* Wascher, Matthew. "[Chapter 2 Class/Powerpoint](https://isidore.udayton.edu/access/lessonbuilder/item/29997089/group/d6082308-ebf3-4045-9a06-a4d7a6611751/Lessons/MTH+367+Chapter+2-2.pptx)" _MTH 367 Statistics._ Spring 2022. University of Dayton.&#x20;
 
+## Variance of a Linear Combination
 
+* Go back and see notes
+
+### Example
+
+* Suppose X is a random variable with Var(X) =&#x20;
 

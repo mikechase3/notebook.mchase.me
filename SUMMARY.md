@@ -355,7 +355,7 @@
   * [Chapter 1: Sampling](math/statistics-with-r/chapter-1-sampling/README.md)
     * [1.1: Sampling](math/statistics-with-r/chapter-1-sampling/1.1-sampling.md)
     * [1.2: Summary Statistics](math/statistics-with-r/chapter-1-sampling/1.2-summary-statistics.md)
-  * [Chatper 2: Probability](math/statistics-with-r/chatper-2-probability.md)
+  * [Chatper 2](math/statistics-with-r/chatper-2.md)
   * [Chapter 3](https://www.dropbox.com/s/52oytsvx8ws97g4/Statistics%20-%20chapter%202.pdf?dl=0)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Chapter 1: Matrix Basics](math/matrix-theory/matrix-theory-and-apps.md)
