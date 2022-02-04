@@ -33,6 +33,7 @@
 ## Career
 
 * [Career Planning](https://www.tutorialspoint.com/developers\_best\_practices/career\_planning.htm)
+* [Clearances](career/clearances.md)
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
 * [CV](career/cv.md)
 * [Effective Resume Writing for STEM](https://www.tutorialspoint.com/effective\_resume\_writing.htm)
@@ -58,7 +59,6 @@
 * [Quitting](career/how-to-quit.md)
   * [Charisma on Command](https://www.charismaoncommand.com)
 * [Salary Negotiation](career/salary-negotiation.md)
-* [Clearances](career/clearances.md)
 * [Cone of Learning](communication/cone-of-learning.md)
 * [Seven Habits](career/seven-habits.md)
 * [Feynmenn Method to Teach Deep Understanding](communication/the-feynmenn-technique.md)
