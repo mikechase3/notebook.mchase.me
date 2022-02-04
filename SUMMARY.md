@@ -58,6 +58,7 @@
 * [Quitting](career/how-to-quit.md)
   * [Charisma on Command](https://www.charismaoncommand.com)
 * [Salary Negotiation](career/salary-negotiation.md)
+* [Clearances](career/clearances.md)
 * [Cone of Learning](communication/cone-of-learning.md)
 * [Seven Habits](career/seven-habits.md)
 * [Feynmenn Method to Teach Deep Understanding](communication/the-feynmenn-technique.md)
@@ -336,6 +337,7 @@
 * [Goal Setting](life/goal-setting.md)
 * [Maintaining Household Appliances](life/maintaining-household-appliances.md)
 * [Principles and Values](life/values.md)
+* [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
