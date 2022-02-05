@@ -165,7 +165,7 @@ Lyell -> Werner: start debate no 2
 @enduml
 ```
 
-![](<../../../.gitbook/assets/image (643) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (643) (1) (1).png>)
 
 #### Beliefs
 

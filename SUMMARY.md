@@ -225,6 +225,7 @@
     * [DotNet Beats NodeJS](https://raygun.com/blog/dotnet-vs-nodejs/)
     * [.NET Core 101](https://www.youtube.com/watch?v=eIHKZfgddLM\&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
     * [.NET Core Download](https://dotnet.microsoft.com/en-us/download)
+    * [.NET Framework Docs](https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.7.2)
     * [Visual Studio Setup](computer-science/languages-and-architectures/.net-ecosystem-c-f-vb/visual-studio-setup.md)
   * [Octoverse State of Code](https://octoverse.github.com)
   * [Python](computer-science/languages-and-architectures/python/README.md)
