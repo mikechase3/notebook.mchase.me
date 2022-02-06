@@ -93,7 +93,7 @@
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
 
-## Computer Science
+## 💾 Computer Science
 
 * [Code Reviews](computer-science/code-reviews.md)
   * [Lecture 04: Linguistic Anthropology](communication/anthropology/lecture-04-linguistic-anthropology.md)
@@ -352,14 +352,17 @@
   * [Textbook (Login Required)](https://connect.mheducation.com/connect/hmStudentCourseList.do?showSniffer=true\&fromPage=login)
   * [Introductory FAQs?](math/statistics-with-r/introductory-faqs.md)
   * [R Mean, Median, and Mode](math/statistics-with-r/r-mean-median-and-mode.md)
+  * [Chapter 1: Vectors and Matrices](math/statistics-with-r/chapter-1-vectors-and-matrices.md)
   * [R and Statistics](math/statistics-with-r/r-and-statistics/README.md)
+    * [Chapter 1: Matrix Basics](math/statistics-with-r/r-and-statistics/matrix-theory-and-apps.md)
   * [Chapter 1: Sampling](math/statistics-with-r/chapter-1-sampling/README.md)
     * [1.1: Sampling](math/statistics-with-r/chapter-1-sampling/1.1-sampling.md)
     * [1.2: Summary Statistics](math/statistics-with-r/chapter-1-sampling/1.2-summary-statistics.md)
   * [Chatper 2](math/statistics-with-r/chatper-2.md)
+  * [Chapter 3: Subspaces](https://www.dropbox.com/s/egqw68xgtaxf6ab/MAT%20301%20Matrix%20Theory%20Chapter%203.pdf?dl=0)
+  * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE\_ab)
   * [Chapter 3](https://www.dropbox.com/s/52oytsvx8ws97g4/Statistics%20-%20chapter%202.pdf?dl=0)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
-  * [Chapter 1: Matrix Basics](math/matrix-theory/matrix-theory-and-apps.md)
   * [Chapter 2: Solving Linear Equations](math/matrix-theory/chapter-2-solving-linear-equations.md)
   * [Ch3: Fundamental Subspaces](https://www.dropbox.com/s/egqw68xgtaxf6ab/MAT%20301%20Matrix%20Theory%20Chapter%203.pdf?dl=0)
   * [Ch4: Orthogonality](https://www.dropbox.com/s/a093as7seze9x0d/Chapter%204%20Notes%20Nina%E2%80%99s%20Notes.pdf?dl=0)

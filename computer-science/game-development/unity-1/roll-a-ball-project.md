@@ -7,5 +7,3 @@
 > * Learn how to use code and included art within the Unity Editor
 > * Program and build a simple point-scoring game
 
-
-
