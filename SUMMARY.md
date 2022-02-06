@@ -93,7 +93,7 @@
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
 
-## 💾 Computer Science
+## Computer Science
 
 * [Code Reviews](computer-science/code-reviews.md)
   * [Lecture 04: Linguistic Anthropology](communication/anthropology/lecture-04-linguistic-anthropology.md)
@@ -167,7 +167,11 @@
     * [NP Reductions and Applications (L22)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
 * [Game Development](computer-science/game-development/README.md)
   * [Event Driven Programming](computer-science/game-development/event-driven-programming.md)
-  * [Unity Basics](computer-science/game-development/unity-basics.md)
+  * [Unity](computer-science/game-development/unity-1/README.md)
+    * [Player Control](computer-science/game-development/unity-1/unwritten.md)
+    * [Unity Basics](computer-science/game-development/unity-1/unity-basics.md)
+    * [24hr Unity Festival](computer-science/game-development/unity-1/24hr-unity-festival.md)
+    * [Roll A Ball Project](computer-science/game-development/unity-1/roll-a-ball-project.md)
   * [Unity Tutorials: Cat Like Coding](https://catlikecoding.com)
 * [Git and Github](computer-science/git-and-github/README.md)
   * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
@@ -285,19 +289,13 @@
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
   * [Processes & Process Management](computer-science/operating-systems/untitled.md)
   * [Something New](computer-science/operating-systems/something-new.md)
+  * [Lecture 06: Solving Systems of Equations](computer-science/operating-systems/lecture-06-solving-systems-of-equations.md)
 * [Regular Expressions](computer-science/regex-expressions.md)
 * [Teaching Code](computer-science/teaching-code.md)
 * [Tools](computer-science/tools/README.md)
   * [\[VNC\] Jump Desktop](https://jumpdesktop.com/go)
   * [\[Web IDE\] Replit](https://replit.com/\~)
   * [Visual Studio](computer-science/visual-studio.md)
-* [Unity](computer-science/unity-1/README.md)
-  * [Player Control](computer-science/unity-1/unwritten.md)
-  * [Basic Gameplay](computer-science/unity-1/basic-gameplay.md)
-  * [Sound and Effects](computer-science/unity-1/sound-and-effects.md)
-  * [Gameplay Mechanics](computer-science/unity-1/gameplay-mechanics.md)
-  * [User Interface](computer-science/unity-1/user-interface.md)
-  * [Roll A Ball Project](computer-science/unity-1/roll-a-ball-project.md)
 * [Unreal Engine](computer-science/unreal-engine/README.md)
   * [Victory Plug In](computer-science/unreal-engine/victory-plug-in.md)
   * [Editor basics](computer-science/unreal-engine/editor-basics.md)
@@ -333,12 +331,12 @@
 ## Life
 
 * [Breaking Up Hard Tasks](life/breaking-up-hard-tasks.md)
+* [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
 * [Dating](life/dating.md)
 * [Discipline](life/discipline.md)
 * [Goal Setting](life/goal-setting.md)
 * [Maintaining Household Appliances](life/maintaining-household-appliances.md)
 * [Principles and Values](life/values.md)
-* [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 

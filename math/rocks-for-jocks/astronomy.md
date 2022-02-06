@@ -194,7 +194,7 @@ $$
 
 ### Evidence from Precession of the Equinoxes
 
-![](<../../.gitbook/assets/image (580).png>)
+![](<../../.gitbook/assets/image (580) (1).png>)
 
 * **Eccentricity**: tell us how eeliptical something is around the sun with a 100,000 year cycle.
 * **Obliquity (tilt)**: Over 41,000 years, the tilt goes between 22 and 24 degree.
@@ -206,7 +206,7 @@ When you have an earthquake, there's a bunch of waves that pas sthrough the eart
 
 In dense stuff, they travel back fast. In non-dense material, it'll come back, but a lot more slowly.
 
-![A Seismic Wave](<../../.gitbook/assets/image (579).png>)
+![A Seismic Wave](<../../.gitbook/assets/image (579) (1).png>)
 
 
 

@@ -8,14 +8,14 @@ description: We'll make a driving simulator prototype.
 
 ### Learning Goals
 
-| Goal | Explanation |
-| :--- | :--- |
-| Position Objects | Drag them into your hierarchy or the scene |
-| Camera | Position it |
-| Random | Create new project, import assets, add objects |
-| Windows | Project, hierarchy inspector |
-| Layout | Customize |
-| Tools | What tools can we use  |
+| Goal             | Explanation                                    |
+| ---------------- | ---------------------------------------------- |
+| Position Objects | Drag them into your hierarchy or the scene     |
+| Camera           | Position it                                    |
+| Random           | Create new project, import assets, add objects |
+| Windows          | Project, hierarchy inspector                   |
+| Layout           | Customize                                      |
+| Tools            | What tools can we use                          |
 
 {% hint style="info" %}
 Spelling hierarchy is super hard for Mike Chase
@@ -25,25 +25,25 @@ Spelling hierarchy is super hard for Mike Chase
 
 1. You'll want to store things in a folder.
 2. Create a new project, using the drop down, and use the newest version.
-3. When you create the project, it will create a sub-folder inside that folder. 
+3. When you create the project, it will create a sub-folder inside that folder.&#x20;
 
 ### Terminology
 
-| Name | What it is |
-| :--- | :--- |
-| Project Window | Bottom. Stores environments and has lots of files. |
-| Scene View | Shows the entire game world. Where you can right click and drag your mouse around.  |
-| Course Library | All the different props we can use in our simulation |
-| Hierarchy | Contains all your different things. |
-| Inspector | Lets you change **components** within each object like the position or mesh renderer. |
+| Name           | What it is                                                                            |
+| -------------- | ------------------------------------------------------------------------------------- |
+| Project Window | Bottom. Stores environments and has lots of files.                                    |
+| Scene View     | Shows the entire game world. Where you can right click and drag your mouse around.    |
+| Course Library | All the different props we can use in our simulation                                  |
+| Hierarchy      | Contains all your different things.                                                   |
+| Inspector      | Lets you change **components** within each object like the position or mesh renderer. |
 
 ### Basic Controls
 
-| Shortcut |  |
-| :--- | :--- |
-| F | Focuses on whatever is selected in the thing.  |
-| Alt + Left | Rotates around the scene.  |
-| Alt + Right | Zooms in and out on the focused object. |
+| Shortcut    |                                                |
+| ----------- | ---------------------------------------------- |
+| F           | Focuses on whatever is selected in the thing.  |
+| Alt + Left  | Rotates around the scene.                      |
+| Alt + Right | Zooms in and out on the focused object.        |
 
 * WSAD keys to move around.
 
@@ -65,28 +65,28 @@ Spelling hierarchy is super hard for Mike Chase
 
 ### Tools
 
-| Tool | Shortcut | Usage |
-| :--- | :--- | :--- |
-| Hand | q | Just moves stuff. |
-| Move | w | Moves |
-| Rotate | e | Rotates objects. |
-| Scale | r | Makes things bigger or smaller |
-| Rect | t | Combines move, rotate, and scale into one. Useful for 2D |
-| All | y | Combines, move, rotate, and scale. Useful for 3D. |
+| Tool   | Shortcut | Usage                                                    |
+| ------ | -------- | -------------------------------------------------------- |
+| Hand   | q        | Just moves stuff.                                        |
+| Move   | w        | Moves                                                    |
+| Rotate | e        | Rotates objects.                                         |
+| Scale  | r        | Makes things bigger or smaller                           |
+| Rect   | t        | Combines move, rotate, and scale into one. Useful for 2D |
+| All    | y        | Combines, move, rotate, and scale. Useful for 3D.        |
 
 ### Customize Interface Layout
 
 * You can drag any `tabs` and put them wherever you want.
-* You can drag them out too so that views are floating. 
-* To save them, go back to where you'd see the defaults and then you can save your custom views. 
+* You can drag them out too so that views are floating.&#x20;
+* To save them, go back to where you'd see the defaults and then you can save your custom views.&#x20;
 
 #### Presets
 
-* There are presets on the top right. 
+* There are presets on the top right.&#x20;
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](<../../../.gitbook/assets/image (42).png>)
 
-### 
+###
 
 ### Summary
 
@@ -110,26 +110,26 @@ Spelling hierarchy is super hard for Mike Chase
 >
 > Next Lesson
 >
-> * We’ll really make this interactive by writing our first line of code in C\# to make the vehicle move and have it collide with other objects in the scene
+> * We’ll really make this interactive by writing our first line of code in C# to make the vehicle move and have it collide with other objects in the scene
 
 ## 1.2 Pedal To the Medal
 
 ### Learning Goals
 
-> Overview: In this lesson you will make your driving simulator come alive. First you will write your very first lines of code in C\#, changing the vehicle’s position and allowing it to move forward. Next you will add physics components to your objects, allowing them to collide with one another. Lastly, you will learn how to duplicate objects in the hierarchy and position them along the road. 
+> Overview: In this lesson you will make your driving simulator come alive. First you will write your very first lines of code in C#, changing the vehicle’s position and allowing it to move forward. Next you will add physics components to your objects, allowing them to collide with one another. Lastly, you will learn how to duplicate objects in the hierarchy and position them along the road.&#x20;
 >
-> Project Outcome: You will have a moving vehicle with its own C\# script and a road full of objects, all of which may collide with each other using physics components.
+> Project Outcome: You will have a moving vehicle with its own C# script and a road full of objects, all of which may collide with each other using physics components.
 
 ### Introduction
 
 * Objects are made up of components.
-* We're going to write a C\# script to make the vehicle fly.
+* We're going to write a C# script to make the vehicle fly.
 
 ### Applying Scripts to Objects
 
 #### Organization
 
-* Nest our C\# scripts under **Assets -&gt; Scripts**
+* Nest our C# scripts under **Assets -> Scripts**
 * Use CamelCase naming convention for all your classes.
 
 {% hint style="danger" %}
@@ -145,7 +145,7 @@ Do not rename files on the fly. it won't update the name of the classes and ever
 We can click the "Add Component" button in the inspector or drag scripts onto the inspector as well while you have an object selected.
 {% endhint %}
 
-### C\# First Line
+### C# First Line
 
 * Visual Studio is the default IDE for Unity.
 
@@ -173,7 +173,7 @@ public class PlayerController : MonoBehaviour // INHERITS From MonoBehaviour
 
 #### What do we want to change?
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](<../../../.gitbook/assets/image (43).png>)
 
 We want our vehicle to move forward, so we can look at the parameter that's changing when our thing does what it wants.
 
@@ -209,8 +209,8 @@ This component lets you add basic physics into objects.
 
 ### Duplicate and Position Obstacles
 
-| Shortcut | What Do It Do? |
-| :--- | :--- |
+| Shortcut   | What Do It Do?        |
+| ---------- | --------------------- |
 | `CTRL + D` | Duplicates an object. |
 
 ### Summary
@@ -222,13 +222,13 @@ This component lets you add basic physics into objects.
 >
 > New Concepts & Skills
 >
-> * C\# Scripts
+> * C# Scripts
 > * Start vs Update
 > * Comments
 > * Methods
 > * Pass parameters
 > * Time.deltaTime
-> * Multiply \(\*\) operator
+> * Multiply (\*) operator
 > * Components
 > * Collider and RigidBody
 >
@@ -252,8 +252,8 @@ Make sure it's public! That way, unity can interface with it.
 
 ### Data Types
 
-* We can get references to our different objects like our `FollowPlayer` method. 
-* We can drag our objects \(like `Vehicle`\) into our `Player` class request in Unity.
+* We can get references to our different objects like our `FollowPlayer` method.&#x20;
+* We can drag our objects (like `Vehicle`) into our `Player` class request in Unity.
   * Then, we can call a method of that object like `playerObject.transform.position;`
 
 ### Using the GameObjects class
@@ -310,7 +310,7 @@ public class FollowPlayer : MonoBehaviour{
 
 You can do a blueout tint to make sure you do not change your program while in play-mode. This is done by adding a Playmode tint in the preferences. You can access them here.
 
-`Edit` &gt; `Preferences` &gt; `Colors` &gt; 
+`Edit` > `Preferences` > `Colors` >&#x20;
 
 My color is b\*\*\*\*\*d amber `#FFCC88` because it brings back theater memories. That's a technical term. You can thank the theater industry for that. Same with the audio industry. They have poor naming like `dead cats` to cover microphones. It's a skin that covers a microphone so the wind does not get picked up by the microphone. If you're my future employer searching my website for profanity... I promise I'm not an evil person. Please hire me.
 
@@ -319,7 +319,7 @@ My color is b\*\*\*\*\*d amber `#FFCC88` because it brings back theater memories
 ### Turning Our Car
 
 1. Make a public `turnspeed` variable to the class as a float.
-2. Make the car transform when we move that variable by saying \(in the update method\) `transform.Translate(Vector3.`right`* Time.deltaTime * turnSpeed);`
+2. Make the car transform when we move that variable by saying (in the update method) `transform.Translate(Vector3.`right`* Time.deltaTime * turnSpeed);`
 
 #### Code For Turning
 
@@ -349,29 +349,28 @@ Unity does a lot of things that make our lives easy.
 
 #### Input Manager
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](<../../../.gitbook/assets/image (52).png>)
 
 The input manager maps keyboard input to things we can write in our code
 
-* Jumping, firing, horizontal, vertical axes, sensitivity, etc. 
+* Jumping, firing, horizontal, vertical axes, sensitivity, etc.&#x20;
 
 #### In Our Code
 
-Unity provides a class called `Input` with a bunch of methods. The one we're going to use is `Input.getAxis()` which will return a string. 
+Unity provides a class called `Input` with a bunch of methods. The one we're going to use is `Input.getAxis()` which will return a string.&#x20;
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](<../../../.gitbook/assets/image (49).png>)
 
 {% hint style="success" %}
-When you add to a vector position, it knows which direction you're facing. So when we say Vector3.forward, it won't change the car's position relative to the ground, but the car's position relative to the car. We don't have to calculate any fancy vector formulas to calculate velocity in a certain direction into the separate x and y components. It's not based on global coordinates. 
+When you add to a vector position, it knows which direction you're facing. So when we say Vector3.forward, it won't change the car's position relative to the ground, but the car's position relative to the car. We don't have to calculate any fancy vector formulas to calculate velocity in a certain direction into the separate x and y components. It's not based on global coordinates.&#x20;
 {% endhint %}
 
 
 
-![You can change from local to global here!](../../.gitbook/assets/image%20%2859%29.png)
+![You can change from local to global here!](<../../../.gitbook/assets/image (59).png>)
 
 
 
 ### Rotation
 
 Currently, when we press the left arrow key, we slide to the left and slide to the right. But like, directly to the left and right. The car doesn't rotate which is very abnormal
-
