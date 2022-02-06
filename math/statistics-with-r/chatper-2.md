@@ -130,7 +130,7 @@ There's a 66% chance you'll win if you switch?
 
 Now, it's 50/50.
 
-![](<../../.gitbook/assets/image (644) (1) (1).png>)
+![](<../../.gitbook/assets/image (644) (1) (1) (1).png>)
 
 ## Conditional Probability
 
@@ -213,7 +213,7 @@ To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A
 
 Verbatim:
 
-![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (2).png>)
+![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1) (1).png>)
 
 #### Example Continued:
 
@@ -292,7 +292,7 @@ $$
 
 The probability mass function of a discrete random variable x is P(x) = p(x=x)
 
-![](<../../.gitbook/assets/image (644) (2).png>)
+![](<../../.gitbook/assets/image (644) (1) (1).png>)
 
 We did an example in class:
 
