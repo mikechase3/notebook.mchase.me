@@ -507,7 +507,7 @@ $$
 E(C_1X_1+...+c_nX_n) = c_1E(X_1)+...c_nE(X_n)=c_1\mu_1+...+c_n \mu_n
 $$
 
-#### Example
+
 
 
 
@@ -517,11 +517,11 @@ $$
 
 ### Example
 
+## Works Cited
+
 * Suppose X is a random variable with Var(X) =&#x20;
 
-
-
-## Works Cited
+<!---->
 
 * Navidi, William. Statistics for Engineers & Scientists (4th edition).
 * Wascher, Matthew. "[Chapter 2 Class/Powerpoint](https://isidore.udayton.edu/access/lessonbuilder/item/29997089/group/d6082308-ebf3-4045-9a06-a4d7a6611751/Lessons/MTH+367+Chapter+2-2.pptx)" _MTH 367 Statistics._ Spring 2022. University of Dayton.&#x20;

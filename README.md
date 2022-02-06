@@ -1,14 +1,20 @@
 # Mike Chase's Notebook
 
-## Frequently Asked Questions
+## Hey Mike Chase!
 
-#### Why does this exist?
+What are you going to accomplish today?
 
-I wanted some public-facing way to access my bookmarks, but I quickly&#x20;
+| Subject          | Primary Resource                              | Secondary Resource                                                                                                                                                    |
+| ---------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stats            | [Notes](math/statistics-with-r/)              | [LMS (private)](https://connect.mheducation.com/connect/login/index.htm?\&isSessionTimeout=true\&navclick=true\&node=us-east-1b-connect-app-prod-17-214.mhecloud.com) |
+| Geology          | [Relative age dating](broken-reference) notes |                                                                                                                                                                       |
+| Game Development |                                               |                                                                                                                                                                       |
+| Piano            |                                               |                                                                                                                                                                       |
+| DC Trip          |                                               |                                                                                                                                                                       |
+|                  |                                               |                                                                                                                                                                       |
 
-* Citing sources: sometimes, I make/support claims that are a bit unusual in American society.
-
-####
+* [Dotnet](computer-science/languages-and-architectures/c-1/) and C# stuff.
+* [Unity](computer-science/game-development/event-driven-programming/unity-basics.md)
 
 
 

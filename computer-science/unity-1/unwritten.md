@@ -84,7 +84,7 @@ Spelling hierarchy is super hard for Mike Chase
 
 * There are presets on the top right.&#x20;
 
-![](<../../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 ###
 
@@ -173,7 +173,7 @@ public class PlayerController : MonoBehaviour // INHERITS From MonoBehaviour
 
 #### What do we want to change?
 
-![](<../../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43).png>)
 
 We want our vehicle to move forward, so we can look at the parameter that's changing when our thing does what it wants.
 
@@ -349,7 +349,7 @@ Unity does a lot of things that make our lives easy.
 
 #### Input Manager
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52).png>)
 
 The input manager maps keyboard input to things we can write in our code
 
@@ -359,7 +359,7 @@ The input manager maps keyboard input to things we can write in our code
 
 Unity provides a class called `Input` with a bunch of methods. The one we're going to use is `Input.getAxis()` which will return a string.&#x20;
 
-![](<../../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (49).png>)
 
 {% hint style="success" %}
 When you add to a vector position, it knows which direction you're facing. So when we say Vector3.forward, it won't change the car's position relative to the ground, but the car's position relative to the car. We don't have to calculate any fancy vector formulas to calculate velocity in a certain direction into the separate x and y components. It's not based on global coordinates.&#x20;
@@ -367,7 +367,7 @@ When you add to a vector position, it knows which direction you're facing. So wh
 
 
 
-![You can change from local to global here!](<../../../.gitbook/assets/image (59).png>)
+![You can change from local to global here!](<../../.gitbook/assets/image (59).png>)
 
 
 

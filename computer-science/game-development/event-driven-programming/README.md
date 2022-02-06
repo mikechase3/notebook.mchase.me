@@ -6,7 +6,7 @@
 * Everything runs 'on-tick'.
 * Time.deltatime()
 
-![](<../../.gitbook/assets/image (641) (1).png>)
+![](<../../../.gitbook/assets/image (641) (1).png>)
 
 ## Event Driven Programming
 
