@@ -213,7 +213,7 @@ To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A
 
 Verbatim:
 
-![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1) (1).png>)
+![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1) (1) (1).png>)
 
 #### Example Continued:
 
@@ -345,7 +345,7 @@ To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \implies <number>$$
 >
 >
 
-![](<../../.gitbook/assets/image (646).png>)
+![](<../../.gitbook/assets/image (646) (1).png>)
 
 ### Population Variance
 
@@ -517,11 +517,7 @@ $$
 
 ### Example
 
-## Works Cited
-
-* Suppose X is a random variable with Var(X) =&#x20;
-
-<!---->
+## Works Cited&#x20;
 
 * Navidi, William. Statistics for Engineers & Scientists (4th edition).
 * Wascher, Matthew. "[Chapter 2 Class/Powerpoint](https://isidore.udayton.edu/access/lessonbuilder/item/29997089/group/d6082308-ebf3-4045-9a06-a4d7a6611751/Lessons/MTH+367+Chapter+2-2.pptx)" _MTH 367 Statistics._ Spring 2022. University of Dayton.&#x20;
