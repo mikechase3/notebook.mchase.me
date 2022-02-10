@@ -11,7 +11,7 @@ Rama's Victory Blueprint Library adds basic functionality to UE4 that software d
 | [Repository](https://github.com/EverNewJoy/VictoryPlugin)                                                                                                                | Download files                   |
 | [Rama's Forum](https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/4014-39-rama-s-extra-blueprint-nodes-for-you-as-a-plugin-no-c-required) | Better Installation Instructions |
 
-###  **Installation Instructions**
+### &#x20;**Installation Instructions**
 
 1. Put the .zip contents in a folder in your main directory where your .uproject is, called "Plugins" _**The name must be precise.**_
 2. open editor and go to window->plugins
@@ -20,10 +20,10 @@ Rama's Victory Blueprint Library adds basic functionality to UE4 that software d
 5. go to a blueprint, turn off context sensitive, look up "Victory" and you should see a lot of new blueprint nodes / functions!
 6. If you want to use the vertex snapping feature as well, please see installation instructions here:
 
-![Victory Plug-In should be available under window-> Plugins](<../../.gitbook/assets/image (231).png>)
+![Victory Plug-In should be available under window-> Plugins](<../../../.gitbook/assets/image (231).png>)
 
 ## Getting Object/Actor As a String
 
-![](<../../.gitbook/assets/image (232).png>)
+![](<../../../.gitbook/assets/image (232).png>)
 
-##  
+## &#x20;

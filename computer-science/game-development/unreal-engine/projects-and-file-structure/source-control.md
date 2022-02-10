@@ -23,7 +23,7 @@ Source control software lets you:
 
 * It's in the menu bar.
 
-![](../../../.gitbook/assets/image%20%28170%29.png)
+![](<../../../../.gitbook/assets/image (170).png>)
 
 ### Project Iteration
 
@@ -37,4 +37,3 @@ Source control software lets you:
 
 * Document References: [https://tinyurl.com/kq86lxe](https://tinyurl.com/kq86lxe)
 * Project Download: [https://tinyurl.com/kuzblgb](https://tinyurl.com/kuzblgb)
-

@@ -19,11 +19,11 @@ description: 'Purpose: Build better 3D Textures'
   * 2, 4, 8, 16, 32..
   * It helps with Unreal Engine's built-in optimization.
 * Textures do not have to be square, just a power of 2.
-  * This way, mip-maps are generated. 
+  * This way, mip-maps are generated.&#x20;
   * You can adjust LOD bias.
   * When the camera is far away, things that aren't a power of 2 will never be scaled down, making it inefficient.
 
-![The texture on the left uses &quot;streaming&quot; and performs well. The texture on the right will not.](../../../.gitbook/assets/image%20%28167%29.png)
+![The texture on the left uses "streaming" and performs well. The texture on the right will not.](<../../../../.gitbook/assets/image (167).png>)
 
 ### Alpha Information
 
@@ -51,13 +51,13 @@ description: 'Purpose: Build better 3D Textures'
 
 MIP Maps allow you to use less memory when the resolution doesn't matter. For example, if you are super far away from a group of stones, Unreal Engine won't load the full resolution of your stones.
 
-![](../../../.gitbook/assets/image%20%28166%29.png)
+![](<../../../../.gitbook/assets/image (166).png>)
 
 * MIP Maps describe a chain of resolutions.
 
 #### MIP Map Filtering
 
-![](../../../.gitbook/assets/image%20%28171%29.png)
+![](<../../../../.gitbook/assets/image (171).png>)
 
 * MIP Map filtering lets you sharpen or blur for some specific problems like shimmering.
 
@@ -75,4 +75,3 @@ MIP Maps allow you to use less memory when the resolution doesn't matter. For ex
 * Disable sRGB on masks and normal maps.
 * Compress without alpha should be disabled.
 * Use the default compression settings.
-
