@@ -192,6 +192,8 @@
 * [Hardware](computer-science/hardware.md)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
+  * [Installing Apps](computer-science/linux/installing-apps/README.md)
+    * [Installing from .AppImage (Deb)](https://transang.me/how-to-install-appimage-package-in-ubuntu/)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
   * [Getting Started](computer-science/linux/getting-started.md)
