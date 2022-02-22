@@ -1,12 +1,20 @@
-# Event Driven Programming
+# 01 Early Game Development
 
-## Problems with the Game Loop
+## Problems with the Game Loop (And PyGame)
+
+* Flash, Java, and PyGame use the game loop.
+* It uses 100% of the CPU (or at least one core) all the time.
+* There's no "right speed" to run this loop. You have to use `sleep` or compare the program to the clock. You can't `sleep` or suspend the loop because if your sleep is greater than the fps it uses to drop that frame.
+
+{% embed url="https://www.101computing.net/wp/wp-content/uploads/pygame-main-program-loop-flowchart.png" %}
+Image loaded directly from 101computing.net
+{% endembed %}
 
 * It only uses one frame.
 * Everything runs 'on-tick'.
 * Time.deltatime()
 
-![](<../../../.gitbook/assets/image (641) (1).png>)
+![](<../../../../.gitbook/assets/image (641) (1).png>)
 
 ## Event Driven Programming
 

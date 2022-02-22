@@ -235,7 +235,7 @@ Note: we changed pizza to have a probability of 0.3 so it'd all add up to 1.
 
 Suppose I know P(A|B) and I want to find P(B|A). Baye's rule connects these:
 
-![](<../../.gitbook/assets/image (647) (1).png>)
+![](<../../.gitbook/assets/image (647) (1) (1).png>)
 
 {% embed url="https://www.freecodecamp.org/news/bayes-rule-explained" %}
 
@@ -469,7 +469,7 @@ Let _X_ (integrable) be a [random variable](https://en.wikipedia.org/wiki/Random
 * K: an arbitrary number
 * Mu\_x: Standard symbol for mean of x.
 
-Only the case ![k > 1](https://wikimedia.org/api/rest\_v1/media/math/render/svg/5cda43bd4034dc2d04cd562005d0af81d3d2dbc6) is useful. When ![{\displaystyle k\leq 1}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/469d19178c15078531ed85c412c641ff664f028b) the right-hand side ![{\displaystyle {\frac {1}{k^{2}}}\geq 1}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/ded7f223f46f4516f81f0590190636a894378729) and the inequality is trivial as all probabilities are ≤ 1.
+Only the case ![k > 1](https://wikimedia.org/api/rest\_v1/media/math/render/svg/5cda43bd4034dc2d04cd562005d0af81d3d2dbc6) is useful. When ![{\displaystyle k\leq 1}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/469d19178c15078531ed85c412c641ff664f028b) the right-hand side ![{\displaystyle {\frac {1}{k^{2\}}}\geq 1}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/ded7f223f46f4516f81f0590190636a894378729) and the inequality is trivial as all probabilities are ≤ 1.
 
 #### Example: Chebyshev's Inequality: Time to Failure
 
