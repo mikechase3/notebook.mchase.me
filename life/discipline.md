@@ -16,7 +16,7 @@ Pro tip from the future: if you're trying to leave, remote start your car and yo
 
 First, get out a timer - but choose a fancy one if you have one. My personal favorite is an app called "Timer Plus" for IOS/Android linked below. When I go to work, I use the following 5hr timer to allocate when I'll work, when I'll take short breaks, and when I'll take longer ones.
 
-![](<../.gitbook/assets/image (640) (1).png>)
+![](<../.gitbook/assets/image (640) (1) (1).png>)
 
 By using an app, I feel motivated to work until the end of the set time instead of giving up somewhere in the middle when things get hard. I recommend _Timer Plus_, but any timer will do.
 

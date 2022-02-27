@@ -28,7 +28,7 @@ $$
 
 
 
-![Image from Navadi](<../../.gitbook/assets/image (640).png>)
+![Image from Navadi](<../../.gitbook/assets/image (640) (1).png>)
 
 
 

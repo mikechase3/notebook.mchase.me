@@ -17,7 +17,7 @@ description: 'TODO: citation needed, fair use verification.'
 * **Intersections** are logical ands.
 * **Complements**: show that sets aren't in a specified event.
 
-![Illustration of unions, intersections, and complements. (Source: Navidi)](<../../.gitbook/assets/image (643).png>)
+![Illustration of unions, intersections, and complements. (Source: Navidi)](<../../.gitbook/assets/image (643) (1).png>)
 
 ### Mutually Exclusive Events
 
@@ -58,7 +58,7 @@ $$
 
 * If you want to find the probability that `event A` will happen, regardless of whether `event B/d/`E`...` happens or not, you are looking for:
 
-![Img Source: Navidi](<../../.gitbook/assets/image (646).png>)
+![Img Source: Navidi](<../../.gitbook/assets/image (646) (1).png>)
 
 $$
 P(A) = P(A \cap B) + P(A \cap B^C) + [P(A \cap D^C) + P(A \cap E^C)...]

@@ -185,6 +185,7 @@
     * [01 Early Game Development](computer-science/game-development/unity-game-dev-class/01-early-game-development/README.md)
       * [24hr Unity Festival](computer-science/game-development/unity-game-dev-class/01-early-game-development/24hr-unity-festival.md)
       * [PyGame (Don't use this)](http://openbookproject.net/thinkcs/python/english3e/pygame.html)
+    * [04 Displaying Text & User Input](computer-science/game-development/unity-game-dev-class/04-displaying-text-and-user-input.md)
     * [Unity Basics](computer-science/game-development/unity-game-dev-class/unity-basics.md)
     * [Unity Tutorials: Cat Like Coding](https://catlikecoding.com)
   * [Unity Tutorials](computer-science/unity-1/README.md)
@@ -434,6 +435,7 @@
 
 ## Music
 
+* [Inspiration](music/inspiration.md)
 * [Logic Pro Notes](music/logic-pro-notes.md)
 * [Theory](music/theory/README.md)
   * [Rhythm and Meter](music/theory/rhythm-and-meter.md)
@@ -469,6 +471,8 @@
 * [Abstracts](writing/abstracts.md)
 * [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
 * [Bullet Statement Mechanics](writing/bullet-statement-mechanics.md)
+* [Documentary Filmmaking](writing/documentary-filmmaking/README.md)
+  * [Inspirational Techniques](writing/documentary-filmmaking/inspirational-techniques.md)
 * [eSSS Sample](writing/page-1.md)
 * [The Tongue and Quill](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 * [Inferkit](https://app.inferkit.com/generate)

@@ -2,11 +2,11 @@
 
 ## Payment Info
 
-|          |                                            |   |
-| -------- | ------------------------------------------ | - |
-| Etherium | 0xC538626835b085d852Accec481F6077724CE3669 |   |
-|          |                                            |   |
-|          |                                            |   |
+|          |          |   |
+| -------- | -------- | - |
+| Etherium | Redacted |   |
+|          |          |   |
+|          |          |   |
 
 ## Fair Use for Copyrighted Content
 
