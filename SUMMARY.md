@@ -94,6 +94,13 @@
   * [Midterm](communication/propaganda/midterm.md)
 * [Uncertainty](communication/how-to-make-your-own-luck-or-freakonomics-424.md)
 
+## ⌨ Computer Help
+
+* [Ubuntu](computer-help/ubuntu/README.md)
+  * [Customizing Gnome Desktop Env](computer-help/ubuntu/customizing-gnome-desktop-env.md)
+  * [Installing Applications](computer-help/ubuntu/installing-applications/README.md)
+    * [Installing from .AppImage](https://transang.me/how-to-install-appimage-package-in-ubuntu/)
+
 ## 💾 Computer Science
 
 * [Code Reviews](computer-science/code-reviews.md)
@@ -209,11 +216,8 @@
 * [Hardware](computer-science/hardware.md)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
-  * [Installing Apps](computer-science/linux/installing-apps/README.md)
-    * [Installing from .AppImage](https://transang.me/how-to-install-appimage-package-in-ubuntu/)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
-  * [Getting Started](computer-science/linux/getting-started.md)
 * [Programming](computer-science/languages-and-architectures/README.md)
   * [Apple's Ecosystem](computer-science/languages-and-architectures/apples-ecosystem/README.md)
     * [iOS and Swift](computer-science/languages-and-architectures/ios-and-swift/README.md)
