@@ -97,9 +97,12 @@
 ## ⌨ Computer Help
 
 * [Ubuntu](computer-help/ubuntu/README.md)
+  * [CAC Configuration](computer-help/ubuntu/cac-configuration/README.md)
+    * [Ubuntu CAC Docs](https://help.ubuntu.com/community/CommonAccessCard)
   * [Customizing Gnome Desktop Env](computer-help/ubuntu/customizing-gnome-desktop-env.md)
   * [Installing Applications](computer-help/ubuntu/installing-applications/README.md)
     * [Installing from .AppImage](https://transang.me/how-to-install-appimage-package-in-ubuntu/)
+  * [DOD CA Certificats](https://public.cyber.mil/pki-pke/end-users/getting-started/linux-firefox/)
 
 ## 💾 Computer Science
 
