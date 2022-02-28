@@ -146,3 +146,59 @@ There's two ways to figure out what objects are colliding with each other:
 UnityEngine.Debug.Log(<variable>);
 ```
 
+## Send Message Upwards
+
+See example. Lecture 04. 01:10.
+
+{% embed url="https://docs.unity3d.com/ScriptReference/Component.SendMessageUpwards.html" %}
+Send Message Upward Sends Messages to Parents
+{% endembed %}
+
+
+
+{% hint style="warning" %}
+Ask for help/clarification about this (L04: 1:11)
+{% endhint %}
+
+* Coupling is bad.
+* If you can't change one thing and can't change something else, it "smells"
+* To decouple the TwoToneText, we'll do this, we'll use the `SendMessageUpdward()` function.
+* This starts with your parent and every ancestor above that and see if it can make sense of it.
+* Now, you don't need the public two tone text because it'll just be sent to the parent class.
+
+{% code title="HitCounter.cs" %}
+```csharp
+using blahblahblah
+public class HitCounter : MonoBehaviour{
+    int counter = 0;
+    // Upon collision with another GameObject, this GameObject will reverse direction
+    void OnCollisionEnter(Collision collision){
+        counter += 1;
+        sendMessageUpward("ChangeScore", counter.ToString());
+    }
+}
+```
+{% endcode %}
+
+To receive the message, we'll need to nest Game Logic under it. Inside our Game Logic. Make sure to hook it up to something higher in the hierarchy than `TwoToneText`.&#x20;
+
+{% code title="GameLogic.cs" %}
+```csharp
+public class GameLogic : MonoBehaviour{
+    public TwoToneTextObject scoreText;
+    
+    void Start(){
+        if (null != scoreText){  // If scoreText exists
+            scoreText.SetText("0");
+        }
+    public void ChangeScore(string s){
+        UnityEngine.Debug.Log(s);
+    }
+}
+```
+{% endcode %}
+
+
+
+
+

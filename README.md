@@ -1,14 +1,12 @@
 # Mike Chase's Notebook
 
-## Payment Info
+## Most Used:
 
-|          |          |   |
-| -------- | -------- | - |
-| Etherium | Redacted |   |
-|          |          |   |
-|          |          |   |
+* [Game Dev Class](computer-science/game-development/unity-game-dev-class/)
+* [Statistics Notes](math/statistics-with-r/)
 
 ## Fair Use for Copyrighted Content
 
 * Nobody uses my notebook.
-* I rarely recommend anyone ac
+* Everything should fall under "fair use"
+* If you have a problem - shoot me an email.
