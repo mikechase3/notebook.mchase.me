@@ -30,26 +30,35 @@ Image loaded directly from 101computing.net
 
 ## Embrace, Extend, Extinguish
 
-* Microsoft's motto in a private email.
+* Microsoft's [motto](https://en.wikipedia.org/wiki/Embrace,\_extend,\_and\_extinguish) in a private email.
 * Embrace: This is a fantstic technology. We should have it to Windows.
 * Extend: add to the HTML or something with Microsoft-specific features.
 * 98% of computers are running windows. All have Internet Explorer.
 * Extinguish all the other web-browsers because they don't have the extension.
 * Email retention policy. Your employer wants to say "sorry I can't give you those emails, we deleted them because of a policy that expires in 60 days. Don't tell the judge we have backups.
 
-## Sun Microsystems: Java Sucks for Games
+## Sun Microsystems: Mark & Sweep Limitation
 
 * Java: write once, run anywhere. All you have to have is a Java Virtual Machine, and everything will work.
 * Now it's cross-platform.
 * Microsoft said "Java is really good" and provided a great JVE runtime. Then, they extended the library with a bunch of new features and Microsoft sued. They're in the "extend" phase putting SUN out of business, and they won.
 * Microsoft Java made C#. To be fair to Microsoft, C# is better because they learned from all the mistakes SUN made when they made Java.
 * C# is better than Java at garbage collection because of [Mark and Seep](https://www.geeksforgeeks.org/mark-and-sweep-garbage-collection-algorithm/) garbage collection. Nothing can run at the same time either which is O(n). You don't control when the garbage collection runs, so Java is terrible for games.&#x20;
+
+{% embed url="https://www.geeksforgeeks.org/mark-and-sweep-garbage-collection-algorithm" %}
+Mark and Sweep is O(n) and causes problems
+{% endembed %}
+
 * If you need to do high-performance games, you don't want to use a virtual machine anyways.
 * C# doesn't have an O(n) algorithm.
   * Every resource has a counter.
   * Every time you stop using a resource, it decrements the count.
   * It's predictable. You don't have to worry about when it gets to zero because that's when it does the cleanup.
   * C# won't disrupt any of the other cores. It doesn't stop the world and is predictable.
+
+{% embed url="https://www.geeksforgeeks.org/garbage-collection-in-c-sharp-dot-net-framework" %}
+C# uses a managed heap, generational garbage collector, and is probably O(log(n))
+{% endembed %}
 
 ## C# Generational Garbage Collection
 
@@ -71,6 +80,12 @@ Java would break every single other problem if they changed it. If they changed 
 
 * When a fortune-100 company tells you what they want and cannot and find, but would pay millions of dollars.
 * His company was succeeding. This started 13 months of negotiation in 1994. He was 25 and a multi-millionaire.
+
+## Installing Unity
+
+* Use 2020.3.8f1 for my games.
+
+
 
 
 

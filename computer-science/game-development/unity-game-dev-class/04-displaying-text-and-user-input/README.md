@@ -7,7 +7,7 @@
 * If you try to exceed it, it'll break the games.
 * You can make it larger; however, when you make the text 5x bigger is because it took the pixels of a 27pt font and the pixels merge/blur with adjacent pixels. This makes text look blurry.
 
-![](<../../../.gitbook/assets/image (644).png>)
+![](<../../../../.gitbook/assets/image (644).png>)
 
 ### Springs and Struts
 
@@ -15,7 +15,7 @@
 * Items you place will be `x` many pixels away from this point.&#x20;
 * If you use a stretch option, it'll base it off of 2 or 4 points and keep the distance constant (while sacrificing the middle).&#x20;
 
-![](<../../../.gitbook/assets/image (646).png>)
+![](<../../../../.gitbook/assets/image (646).png>)
 
 ### Updating Text via Scripts
 
@@ -44,7 +44,7 @@ void Update(){
 ```
 {% endcode %}
 
-![Step 3: drag a text UI object from hierarchy](<../../../.gitbook/assets/image (640).png>)
+![Step 3: drag a text UI object from hierarchy](<../../../../.gitbook/assets/image (640).png>)
 
 ## Displaying Two Tone Text
 
@@ -55,7 +55,7 @@ Roughly the same outline as above, but a bit more sophisticated. Here's the step
 * Slightly offset one to the right and up slightly.
 * _Fun Fact: the mars rover's parachute didn't deploy due to a mixup between feet and meters. It left a crater instead instead of a scientific research project._
 
-![](<../../../.gitbook/assets/image (645).png>)
+![](<../../../../.gitbook/assets/image (645).png>)
 
 In the script, well have to modify it to control both. A more scalable way to do this is to make a script which controls both the foreground & background text.
 
@@ -99,9 +99,9 @@ Connect the `scoreText` variable in Unity like so:
 
 &#x20;&#x20;
 
-![Under the game object you chose](<../../../.gitbook/assets/image (642).png>)
+![Under the game object you chose](<../../../../.gitbook/assets/image (642).png>)
 
-![Under the 'TwoToneText' instance's paramsO](<../../../.gitbook/assets/image (643).png>)
+![Under the 'TwoToneText' instance's paramsO](<../../../../.gitbook/assets/image (643).png>)
 
 ## Frame Rates & Update()
 
@@ -132,13 +132,13 @@ There's two ways to figure out what objects are colliding with each other:
 
 ### Comparing Strings
 
-![](<../../../.gitbook/assets/image (638).png>)
+![](<../../../../.gitbook/assets/image (638).png>)
 
 ### IsTrigger
 
 * Make sure you turn this on and read up about triggers.
 
-![](<../../../.gitbook/assets/image (641).png>)
+![](<../../../../.gitbook/assets/image (641) (1).png>)
 
 ## Debugging
 
