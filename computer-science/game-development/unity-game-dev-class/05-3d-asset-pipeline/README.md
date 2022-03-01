@@ -116,7 +116,28 @@ Modifiers are just little Python programs that you can run on your model.
 
 ## Pipeline Lessons from a Game Developer
 
-{% hint style="info" %}
-See 1:05 in blender.
-{% endhint %}
+#### Keep Game Logic in an Empty Game Object
 
+![BossMonsterA is empty. GOBLIN is a capsule. BossMonsterAModel is the artist's work.](<../../../../.gitbook/assets/Screenshot from 2022-02-28 21-42-39.png>)
+
+1. Put your game logic in an empty game object. In this case: `BossMonsterA`.&#x20;
+   * Make the transform/rotation/scale `{0,0,0}` in the world.
+2. Make a blank capsule and pretend it's the game model. Place this in `{0,0,0}` and nest `capsule:GOBLIN` have a transform/rotation/scale of `{0,0,0}`.
+3. Make another empty game object, but leave it for the artist to insert. You can keep this blank.
+4. Design all game logic inside `BossMonsterA`.&#x20;
+
+#### Use Version Control
+
+* Use Git with Unity to prevent pipeline errors.
+
+## Bitmaps
+
+{% embed url="http://paulbourke.net/dataformats/bitmaps" %}
+This article provides a great overview of how Bitmaps work
+{% endembed %}
+
+![A 24-bit RGB Bitmap. Photo from Paul Bourke linked above.](<../../../../.gitbook/assets/image (641).png>)
+
+* Bitmaps, in the case of Unity, are mostly blue.
+* It's using a texture, Pixel colors, as x/y/z offsets.
+* Collade is such an intrinsic file format, that MacOS supports it right in Finder, built-in and supported.

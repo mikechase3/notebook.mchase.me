@@ -8,14 +8,14 @@ Here's the general process:
 
 ## General Process
 
-1.  Install packages: \`
+1.  Install packages:&#x20;
 
     ```
     sudo apt-get install libpcsclite1 pcscd pcsc-tools
     ```
 
 
-2.  Check to see if your CAC works: \`
+2.  Check to see if your CAC works:&#x20;
 
     ```
     pcsc_scan

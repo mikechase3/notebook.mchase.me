@@ -138,7 +138,7 @@ There's two ways to figure out what objects are colliding with each other:
 
 * Make sure you turn this on and read up about triggers.
 
-![](<../../../../.gitbook/assets/image (641) (1).png>)
+![](<../../../../.gitbook/assets/image (641) (1) (1).png>)
 
 ## Debugging
 

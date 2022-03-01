@@ -1,8 +1,8 @@
 # Chapter 4
 
-## Missing Notes
+## 4.1: Bernoulli Distribution
 
-See slides
+{% embed url="https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example" %}
 
 
 
