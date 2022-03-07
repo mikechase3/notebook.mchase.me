@@ -16,7 +16,7 @@ If you're on a ubuntu-based system, you can install it super easily by opening t
 
 #### Given a Debian Package
 
-To see where the binaries are going to be installed before you install it (something important when linking it up to your desktop environment), you can type `pkg --contents <packageName>.deb` and it'll list out what is going to be placed where.
+To see where the binaries are going to be installed before you install it (something important when linking it up to your desktop environment), you can type `dpkg --contents <packageName>.deb` and it'll list out what is going to be placed where.
 
 #### From apt
 
