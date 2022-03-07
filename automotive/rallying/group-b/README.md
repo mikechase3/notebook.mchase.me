@@ -1,6 +1,6 @@
 # Group B
 
-![Madness on Wheels - Rallying's Craziest Years. BBC](<../../../.gitbook/assets/image (645) (1).png>)
+![Madness on Wheels - Rallying's Craziest Years. BBC](<../../../.gitbook/assets/image (645) (1) (1).png>)
 
 
 

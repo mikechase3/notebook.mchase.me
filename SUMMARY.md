@@ -96,6 +96,11 @@
 
 ## ⌨ Computer Help
 
+* [Hardware](computer-help/hardware.md)
+* [Misc Software](computer-help/misc-software/README.md)
+  * [\[VNC\] Jump Desktop](https://jumpdesktop.com/go)
+  * [\[Web IDE\] Replit](https://replit.com/\~)
+  * [Visual Studio](computer-help/misc-software/visual-studio.md)
 * [Ubuntu](computer-help/ubuntu/README.md)
   * [CAC Configuration](computer-help/ubuntu/cac-configuration/README.md)
     * [Ubuntu CAC Docs](https://help.ubuntu.com/community/CommonAccessCard)
@@ -107,8 +112,12 @@
 
 ## 💾 Computer Science
 
+* [Blender (3D Modeling)](computer-science/blender-3d-modeling/README.md)
+  * [Doughnut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw\&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+  * [02: Mesh Editing](computer-science/blender-3d-modeling/02-mesh-editing.md)
+  * [03: View Options, Linked Items, Separating, Selections, Modifiers](computer-science/blender-3d-modeling/03-view-options-linked-items-separating-selections-modifiers.md)
+  * [Page 4](computer-science/blender-3d-modeling/page-4.md)
 * [Code Reviews](computer-science/code-reviews.md)
-  * [Lecture 04: Linguistic Anthropology](communication/anthropology/lecture-04-linguistic-anthropology.md)
 * [Cloud Services](computer-science/cloud-services.md)
   * [Interlude: Neanderthals](communication/anthropology/interlude-neanderthals.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
@@ -207,6 +216,8 @@
     * [05: 3D Asset Pipeline](computer-science/game-development/unity-game-dev-class/05-3d-asset-pipeline/README.md)
       * [G-Code Commands](http://www.science.smith.edu/cdf/pdf\_files/Techno\_GCODE%20Commands.pdf)
       * [A Beginner's Guide to Bitmaps](http://paulbourke.net/dataformats/bitmaps/)
+    * [Page 2](computer-science/game-development/unity-game-dev-class/page-2.md)
+    * [Page 3](computer-science/game-development/unity-game-dev-class/page-3.md)
     * [90 Terrain Generation](computer-science/game-development/unity-game-dev-class/90-terrain-generation.md)
     * [91 Misc Unity Tutorials](computer-science/game-development/unity-game-dev-class/unity-1/README.md)
       * [Player Control](computer-science/game-development/unity-game-dev-class/unity-1/unwritten.md)
@@ -216,9 +227,6 @@
     * [94 Epic v Apple](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far)
     * [95 Inheritance](https://learn.unity.com/tutorial/inheritance#5c8924f2edbc2a0d28f48439)
     * [(EMPTY)](computer-science/game-development/unity-game-dev-class/empty.md)
-* [Git and Github](computer-science/git-and-github/README.md)
-  * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
-* [Hardware](computer-science/hardware.md)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
@@ -315,6 +323,7 @@
   * [Bash](computer-science/miscellaneous/bash.md)
   * [Dungeons and Dragons](computer-science/miscellaneous/secrets.md)
   * [CPS Staff](computer-science/miscellaneous/staff.md)
+  * [Whole Brain Emulation Roadmap](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
 * [Networking](computer-science/networking/README.md)
   * [Socket Programming In Python](computer-science/networking/week-01-socket-programming-guide.md)
   * [Week 01 Syllabus](computer-science/networking/lecture-01-syllabus.md)
@@ -333,11 +342,8 @@
   * [Lecture 06: Solving Systems of Equations](computer-science/operating-systems/lecture-06-solving-systems-of-equations.md)
 * [Regular Expressions](computer-science/regex-expressions.md)
 * [Teaching Code](computer-science/teaching-code.md)
-* [Tools](computer-science/tools/README.md)
-  * [\[VNC\] Jump Desktop](https://jumpdesktop.com/go)
-  * [\[Web IDE\] Replit](https://replit.com/\~)
-  * [Visual Studio](computer-science/visual-studio.md)
-* [Whole Brain Emulation Roadmap](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
+* [Version Control](computer-science/git-and-github/README.md)
+  * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
 ## Finance
 
@@ -484,6 +490,7 @@
   * [Lecture 02: Physical Anthropology](communication/anthropology/lecture-02-physical-anthropology.md)
   * [Interlude: First Steps Video](communication/anthropology/interlude-first-steps-video.md)
   * [Lecture 03: Archaeology](communication/anthropology/lecture-03-archaeology.md)
+  * [Lecture 04: Linguistic Anthropology](social-sciences/anthropology/lecture-04-linguistic-anthropology.md)
 * [Economics](psychology/economics.md)
 
 ## 📝 Writing

@@ -15,7 +15,7 @@
 * Items you place will be `x` many pixels away from this point.&#x20;
 * If you use a stretch option, it'll base it off of 2 or 4 points and keep the distance constant (while sacrificing the middle).&#x20;
 
-![](<../../../../.gitbook/assets/image (646).png>)
+![](<../../../../.gitbook/assets/image (646) (1).png>)
 
 ### Updating Text via Scripts
 
@@ -55,7 +55,7 @@ Roughly the same outline as above, but a bit more sophisticated. Here's the step
 * Slightly offset one to the right and up slightly.
 * _Fun Fact: the mars rover's parachute didn't deploy due to a mixup between feet and meters. It left a crater instead instead of a scientific research project._
 
-![](<../../../../.gitbook/assets/image (645).png>)
+![](<../../../../.gitbook/assets/image (645) (1).png>)
 
 In the script, well have to modify it to control both. A more scalable way to do this is to make a script which controls both the foreground & background text.
 
@@ -101,7 +101,7 @@ Connect the `scoreText` variable in Unity like so:
 
 ![Under the game object you chose](<../../../../.gitbook/assets/image (642).png>)
 
-![Under the 'TwoToneText' instance's paramsO](<../../../../.gitbook/assets/image (643).png>)
+![Under the 'TwoToneText' instance's paramsO](<../../../../.gitbook/assets/image (643) (1).png>)
 
 ## Frame Rates & Update()
 
@@ -132,7 +132,7 @@ There's two ways to figure out what objects are colliding with each other:
 
 ### Comparing Strings
 
-![](<../../../../.gitbook/assets/image (638).png>)
+![](<../../../../.gitbook/assets/image (638) (1).png>)
 
 ### IsTrigger
 
