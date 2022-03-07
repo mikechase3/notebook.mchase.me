@@ -427,6 +427,8 @@
   * [Building the Geologic Timescale](https://www.dropbox.com/s/pvyu8hhy6lctk6p/Geo%20116%20Notes.pdf?dl=0)
   * [Glaciers & Programming](math/rocks-for-jocks/glaciers-and-programming.md)
   * [Plate Tectonics](math/rocks-for-jocks/plate-tectonics.md)
+  * [NOAA Sea Level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html)
+  * [Sea Level Trends](https://tidesandcurrents.noaa.gov/sltrends/sltrends.html)
 * [Lit Solution](https://www.litsolutions.org)
 * [Mathematics for Deep Learning](math/mathematics-for-deep-learning.md)
 * [Calc 3](math/untitled-1/README.md)
