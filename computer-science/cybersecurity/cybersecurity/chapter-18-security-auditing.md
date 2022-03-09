@@ -2,7 +2,7 @@
 
 ## 18.1: Security Auditing Architecture
 
-![Source: Stalling et. al](<../../../.gitbook/assets/image (642) (1) (1) (1) (1) (1).png>)
+![Source: Stalling et. al](<../../../.gitbook/assets/image (642) (1) (1) (1) (1) (1) (1).png>)
 
 ### Security Audit and Alarms Model
 
@@ -18,7 +18,7 @@
 
 ### Requirements
 
-![Source: stalling et. al](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1).png>)
+![Source: stalling et. al](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Implementing Guidelines
 
