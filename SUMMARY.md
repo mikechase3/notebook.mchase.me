@@ -396,6 +396,7 @@
   * [Chatper 2](math/statistics-with-r/chatper-2.md)
   * [Epidemic Simulation](math/statistics-with-r/epidemic-simulation.md)
   * [Chapter 3 Err Propagation](math/statistics-with-r/chapter-3-err-propagation.md)
+  * [Chapter 4 Alt Notes](math/statistics-with-r/chapter-4-alt-notes.md)
   * [Chapter 4](math/statistics-with-r/chapter-4.md)
 * [Linear Algebra and Matrix Theory/Apps](math/matrix-theory/README.md)
   * [Chapter 1: Vectors and Matrices](math/matrix-theory/chapter-1-vectors-and-matrices/README.md)

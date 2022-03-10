@@ -235,7 +235,7 @@ Note: we changed pizza to have a probability of 0.3 so it'd all add up to 1.
 
 Suppose I know P(A|B) and I want to find P(B|A). Baye's rule connects these:
 
-![](<../../.gitbook/assets/image (647) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (647) (1) (1) (1) (1) (1).png>)
 
 {% embed url="https://www.freecodecamp.org/news/bayes-rule-explained" %}
 
@@ -275,7 +275,7 @@ Let the random variable X count the number of heads:
 
 ### Example: Mo Manufacturing Flaws
 
-![](<../../.gitbook/assets/image (643) (2).png>)
+![](<../../.gitbook/assets/image (643) (2) (1).png>)
 
 To solve this, let's do this:
 

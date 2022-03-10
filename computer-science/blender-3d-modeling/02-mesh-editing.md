@@ -4,7 +4,7 @@
 
 ### Smooth Shading
 
-![](<../../.gitbook/assets/image (643) (1).png>)
+![](<../../.gitbook/assets/image (643) (2).png>)
 
 * `<Select Object> => Context Menu =>  Shade Smooth`: You can make objects appear to be smooth without affecting it's geometry.&#x20;
 * You can confirm whether something is high or low poly by looking at the _silhouette_.
@@ -19,15 +19,15 @@ Notice that even though we turned on smooth surface, the silhouette is still jag
 
 The "subsurf" modifier adds exponential amounts of detail. This makes it look nicer, but slows down render times.
 
-![Modifier Panel => Add => Subdivision Surface](<../../.gitbook/assets/image (658).png>)
+![Modifier Panel => Add => Subdivision Surface](<../../.gitbook/assets/image (658) (1).png>)
 
 To fix the rough silhouette, you'll use the `subdivision surface` tool. This is in the `modifier panel` ![](<../../.gitbook/assets/image (656).png>)
 
-![](<../../.gitbook/assets/image (648).png>)
+![](<../../.gitbook/assets/image (648) (1).png>)
 
 ## Changing Display Modifier Visibility
 
-![Discussing buttons to right of "solidify" and "subdivision"](<../../.gitbook/assets/image (647).png>)
+![Discussing buttons to right of "solidify" and "subdivision"](<../../.gitbook/assets/image (647) (1).png>)
 
 * Modifiers make blender slow.
 * To temporarily skip rendering:

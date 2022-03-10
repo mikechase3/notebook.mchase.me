@@ -46,7 +46,7 @@
 
 Recall all living things do 3 things: metabolize, achieve homeostasis, and reproduce.
 
-![Source: Wikimedia. Creative Commons.](<../../.gitbook/assets/image (649).png>)
+![Source: Wikimedia. Creative Commons.](<../../.gitbook/assets/image (649) (1).png>)
 
 #### Diverse Things
 
