@@ -29,4 +29,4 @@ Lets say you didn't separate the selection immediately. If you need to do that a
 * For example, subdividing before solidifying will make the rendering take longer.
 * We can reverse the order to make rendering more efficient.
 
-![](<../../.gitbook/assets/image (649).png>)
+![](<../../.gitbook/assets/image (649) (1).png>)
