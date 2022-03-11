@@ -216,7 +216,7 @@
     * [05: 3D Asset Pipeline](computer-science/game-development/unity-game-dev-class/05-3d-asset-pipeline/README.md)
       * [G-Code Commands](http://www.science.smith.edu/cdf/pdf\_files/Techno\_GCODE%20Commands.pdf)
       * [A Beginner's Guide to Bitmaps](http://paulbourke.net/dataformats/bitmaps/)
-    * [Page 2](computer-science/game-development/unity-game-dev-class/page-2.md)
+    * [06: 3D Modeling](computer-science/game-development/unity-game-dev-class/06-3d-modeling.md)
     * [Page 3](computer-science/game-development/unity-game-dev-class/page-3.md)
     * [90 Terrain Generation](computer-science/game-development/unity-game-dev-class/90-terrain-generation.md)
     * [91 Misc Unity Tutorials](computer-science/game-development/unity-game-dev-class/unity-1/README.md)

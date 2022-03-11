@@ -29,7 +29,7 @@ description: >-
 
 #### Variance
 
-![](<../../.gitbook/assets/image (650).png>)
+![](<../../.gitbook/assets/image (650) (1).png>)
 
 #### Standard Deviation
 
