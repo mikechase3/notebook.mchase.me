@@ -6,7 +6,7 @@
 * Plate tectonics: how it has helped us reconstruct the history of the earth.
 * Evolution: understanding the development & history of life on earth.
 
-![](<../../../.gitbook/assets/image (643) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1).png>)
 
 ### External Metaphors in Geologic Thought
 
@@ -165,7 +165,7 @@ Lyell -> Werner: start debate no 2
 @enduml
 ```
 
-![](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1) (1).png>)
 
 #### Beliefs
 

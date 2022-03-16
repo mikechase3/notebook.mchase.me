@@ -101,7 +101,7 @@ Connect the `scoreText` variable in Unity like so:
 
 ![Under the game object you chose](<../../../../.gitbook/assets/image (642) (1).png>)
 
-![Under the 'TwoToneText' instance's paramsO](<../../../../.gitbook/assets/image (643) (1) (1).png>)
+![Under the 'TwoToneText' instance's paramsO](<../../../../.gitbook/assets/image (643) (1) (1) (1).png>)
 
 ## Frame Rates & Update()
 

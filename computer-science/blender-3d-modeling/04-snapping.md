@@ -4,7 +4,7 @@
 
 When we use transform operations, sometimes we want to snap things to the surface we're editing. We can do this by turning on snapping and changing the 'type' to `Face`:
 
-![Switch to "Face" and turn on "Project Individual Elements"](<../../.gitbook/assets/image (643) (1).png>)
+![Switch to "Face" and turn on "Project Individual Elements"](<../../.gitbook/assets/image (643) (1) (1).png>)
 
 ## Splitting/Joining Viewport
 

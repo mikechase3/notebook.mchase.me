@@ -17,7 +17,7 @@ description: 'TODO: citation needed, fair use verification.'
 * **Intersections** are logical ands.
 * **Complements**: show that sets aren't in a specified event.
 
-![Illustration of unions, intersections, and complements. (Source: Navidi)](<../../.gitbook/assets/image (643) (1) (1) (1).png>)
+![Illustration of unions, intersections, and complements. (Source: Navidi)](<../../.gitbook/assets/image (643) (1) (1) (1) (1).png>)
 
 ### Mutually Exclusive Events
 

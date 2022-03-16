@@ -216,8 +216,9 @@
     * [05: 3D Asset Pipeline](computer-science/game-development/unity-game-dev-class/05-3d-asset-pipeline/README.md)
       * [G-Code Commands](http://www.science.smith.edu/cdf/pdf\_files/Techno\_GCODE%20Commands.pdf)
       * [A Beginner's Guide to Bitmaps](http://paulbourke.net/dataformats/bitmaps/)
-    * [06: 3D Modeling](computer-science/game-development/unity-game-dev-class/06-3d-modeling.md)
-    * [Page 3](computer-science/game-development/unity-game-dev-class/page-3.md)
+    * [06: 3D Modeling & Graphics Processing](computer-science/game-development/unity-game-dev-class/06-3d-modeling-and-graphics-processing.md)
+    * [07: 3D](computer-science/game-development/unity-game-dev-class/07-3d.md)
+    * [08: Something](computer-science/game-development/unity-game-dev-class/08-something.md)
     * [90 Terrain Generation](computer-science/game-development/unity-game-dev-class/90-terrain-generation.md)
     * [91 Misc Unity Tutorials](computer-science/game-development/unity-game-dev-class/unity-1/README.md)
       * [Player Control](computer-science/game-development/unity-game-dev-class/unity-1/unwritten.md)
@@ -357,10 +358,11 @@
 
 ## 💊 Health and Fitness
 
-* [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
 * [Breathing](health-and-fitness/breathing.md)
 * [Darbee Fitness Guides](https://darebee.com/fitness.html)
-* ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
+* [Importance & Education](health-and-fitness/importance-and-education/README.md)
+  * [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
+  * ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
 
 ## Life
 
