@@ -195,7 +195,7 @@ _"The present is the key to the past"_
 * Know the Geologic Time Scale
 * Know the 3 "Great Theorists of the Earth"
 
-![](<../../../.gitbook/assets/image (639).png>)
+![](<../../../.gitbook/assets/image (639) (1).png>)
 
 ## Power of Uniformitarianism
 

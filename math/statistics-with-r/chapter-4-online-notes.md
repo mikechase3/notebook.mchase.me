@@ -1,10 +1,16 @@
 ---
 description: >-
-  Professor Leonard's lectures on chapter 5 and 6 equivalent. Chapter 5 is
-  discrete. Chapter 6 is continuous.
+  INCOMPLETE Professor Leonard's lectures on chapter 5 and 6 equivalent. Chapter
+  5 is discrete. Chapter 6 is continuous.
 ---
 
-# Chapter 4 Alt Notes
+# Chapter 4 Online Notes
+
+## Works Cited
+
+{% embed url="https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0" %}
+Prof. Leonard: click playlist icon on top right. Start at #13
+{% endembed %}
 
 ## Using Probability Distributions
 
@@ -21,31 +27,71 @@ description: >-
 * **Continuous Random Variable**: a variable with an infinite number of possible values.
   * Can be any # of decimal places out.
 
-### Finding mean, variance, and standard deviation
 
-#### Mean (aka "expected value")
+
+## Binomial Probability Distributions
+
+The binomial probability distribution deals with two outcomes: successes and failures. There can be multiple outcomes, but only one can be successful and the rest must be a failure.
+
+### Example: Weighted Die (Setup)
+
+* This example will be referenced henceforth until otherwise noted.
+* The premise is that you have a weighted die with the following probabilities
+* We're going to **find the mean, variance, and standard deviation and calculate probabilities that follow a binomial probability distribution**.
+
+| x (one outcome) | P(x) |
+| --------------- | ---- |
+| 1               | .05  |
+| 2               | .15  |
+| 3               | .35  |
+| 4               | .30  |
+| 5               | .10  |
+| 6               | .05  |
+
+### Expected Mean, Var, and SD For ?
+
+{% hint style="danger" %}
+Matt - what's this called? Mean of a binomial probability? If that's the case, what's the  $$\mu = n \cdot p$$ formula called?
+{% endhint %}
+
+#### Expected Mean
 
 ![](<../../.gitbook/assets/image (648).png>)
 
+* For the weighted die example, our expected value is 3.4.
+
 #### Variance
+
+* Variance says to add the square of the `x`'s
+* Instead of frequency, we have probability.
+* We're going to subtract the
 
 ![](<../../.gitbook/assets/image (650) (1).png>)
 
 #### Standard Deviation
 
-![](<../../.gitbook/assets/image (657).png>)
+![](<../../.gitbook/assets/image (657) (1).png>)
 
-### Find probability of exact number of successes
 
-![](<../../.gitbook/assets/image (647).png>)
 
-* To solve, find the probability that there's 501 _or more_ heads.&#x20;
+It helps to create a table when calculating/adding the mean, variance, and standard deviation.
 
-## Binomial Probability Distribution
+![](<../../.gitbook/assets/image (641).png>)
 
-This is a probability distribution that has only two outcomes: success & failure.
+* The mean is 12.9
+* Variance/Std:
 
-#### Rules
+![](<../../.gitbook/assets/image (654).png>)
+
+### Usual and Unusual Values
+
+![](<../../.gitbook/assets/image (639).png>)
+
+If `P(A) <= 0.05`, then the event `A` is considered unusual.
+
+
+
+### Rules for binomial distributions
 
 1. You have to have a fixed number of trials.
 2. Trials must be independent. The outcome of one trial does not affect the outcome of the others.&#x20;
@@ -62,7 +108,7 @@ This is a probability distribution that has only two outcomes: success & failure
   * `x` is not a probability. It's an **integer**.
 * `P(x)` is the probability of getting `x` successes.
 
-### Weighted Die: Exact Example
+### Example: [Weighted Die](chapter-4-online-notes.md#example-weighted-die-setup): Exacts
 
 * The probability of rolling a 4 is 30%
 * The die is rolled 10 times.
@@ -116,7 +162,7 @@ The probability of rolling #4 on our weighted die exactly 8 times is 0.0014467.
   * Calculating this takes a lot of work
   * It's easier to use precomputed values and add them up.
 
-#### Step 2: Refer to Table
+#### Step 2: Refer to a Table
 
 {% embed url="https://uwf.edu/media/university-of-west-florida/colleges/cse/departments/mathematics-and-statistics/documents/student-resources/Binomial-Tables-1.pdf" %}
 N is 10, x is 8, p is 0.3; Therefore P(8)=0.0014, but we must find P(7), P(6)
@@ -134,21 +180,76 @@ N is 10, x is 8, p is 0.3; Therefore P(8)=0.0014, but we must find P(7), P(6)
 | P(7) |                                      |                                    |
 | P(8) |                                      |                                    |
 
-### TI-84
+### TI-84 `DISTR` Menu
 
-* Go to `DISTR` on a TI-84.
-  * Option `0` is a **binomial point distribution function**. Aka: probability of an exact number.
-  * Option `A` is a cumulative point distribution function: Aka: up to and including.
-  * Option `B` does poisson
-* Syntax: `binompdf(10, .30, 8)`; Parameters are `n=10, p=0.3, x=8`.
+To get this menu, hit `DISTR` on your calculator. (It's a shift key, so hit `2nd => Vars`).
 
-### Ex: Cards
+{% embed url="https://youtu.be/VUyn9In8wE4?t=6" %}
 
-{% embed url="https://youtu.be/iGKSxMGX0Do?t=3614" %}
+#### `binomcdf`: Binomial Point Distribution Function
 
-## Mean, Variance, Std of Binomial Distribution
+This finds the probability of an exact number. It takes 3 parameters separated by commas:
 
-1. **Mean** or \mu is the number of successes you expect to occur from your procedure.
+1. Number of trials.
+2. Probability of a singular success.
+3. The number of successes you want.
+
+```
+binompdf(10,.30,8)  // 10 trials, P(x)=0.3, for 8 successes.
+```
+
+#### `binomcdf`: Cumulative Distribution Function
+
+* Up to and including the number.
+
+```
+binompdf(10,.30,8)  // returns probability there are 0 or 1...8 successes.
+```
+
+
+
+### Ex: [Cards](https://youtu.be/iGKSxMGX0Do?t=3614)
+
+* This example will be used henceforth until otherwise noted.
+* **Game:** you draw 7 cards with replacement.
+
+#### Winning via 'exactly 4 hearts'
+
+* Use a calculator. Do `binompdf(10,.25,4)`.
+
+### Mean Value, SD, Var of Binomial Dist
+
+Last time, we wanted to find mean _probability_ that an outcome occurred. This time, we are finding the mean value.
+
+{% hint style="info" %}
+#### Mean Formula: $$\mu = n \cdot p$$
+{% endhint %}
+
+* The mean is the number of successes you expect to occur from your procedure.
+* Recall the weighted die example. If you roll it 100 times and `p(rolling #4)` = 0.3, you should expect to see roughly 30 `4's`.
+
+{% hint style="info" %}
+**Variance**: $$\sigma^2= n *p*q$$  `where q is probability of not happening.`
+{% endhint %}
+
+* Your variance and standard deviation will always be based on the mean, so always find the mean first.
+
+{% hint style="info" %}
+**Standard Deviation**: $$\sigma = \sqrt{n*p*q}$$
+{% endhint %}
+
+### Example: Mexican-Americans
+
+In some town in New Mexico, they picked juries out of the population. 80% is Mexican-American, but the juries were 80% Caucasian every time. You're supposed to be tried by your peers. In this case, that's not Caucasians. Anyways, some research was conducted on the subject and the following was found:
+
+* **Population**: 80% Mexican-Americans.
+* **Population**: 12 people? :question:
+* **Question:** is there evidence that the government is selecting bad juries purposely? (They sued)
+
+#### Step 1: Find Successes/Failures
+
+* Let's call _Successes: randomly selecting one Mexican-American_
+* Failure: selecting anyone else.
 
 
 

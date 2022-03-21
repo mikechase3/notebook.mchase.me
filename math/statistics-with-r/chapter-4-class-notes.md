@@ -1,4 +1,8 @@
-# Chapter 4
+---
+description: INCOMPLETE!!
+---
+
+# Chapter 4 Class Notes
 
 ## 4.1: Bernoulli Distribution
 

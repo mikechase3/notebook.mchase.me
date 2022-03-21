@@ -12,7 +12,7 @@
 
 ### Security Auditing Functions
 
-![Src: stallings et. al](<../../../.gitbook/assets/image (639) (1).png>)
+![Src: stallings et. al](<../../../.gitbook/assets/image (639) (1) (1).png>)
 
 * Security auditing is broken down into 6 areas. Each has specific functions.
 

@@ -65,7 +65,7 @@ Terminal=false
 Type=Application
 Encoding=UTF-8
 Categories=Network;Application;
-Name[en_US]=<App Name in English>/
+Name[en_US]=<App Name in English>
 ```
 {% endcode %}
 

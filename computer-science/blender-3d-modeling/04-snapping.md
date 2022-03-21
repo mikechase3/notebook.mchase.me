@@ -1,6 +1,6 @@
 # 04 Snapping
 
-## Snapping ![](<../../.gitbook/assets/image (651).png>)
+## Snapping ![](<../../.gitbook/assets/image (651) (1).png>)
 
 When we use transform operations, sometimes we want to snap things to the surface we're editing. We can do this by turning on snapping and changing the 'type' to `Face`:
 
@@ -12,7 +12,7 @@ When we use transform operations, sometimes we want to snap things to the surfac
 
 ## Image Editor
 
-![](<../../.gitbook/assets/image (654).png>)
+![](<../../.gitbook/assets/image (654) (1).png>)
 
 ## Extruding a Mesh
 

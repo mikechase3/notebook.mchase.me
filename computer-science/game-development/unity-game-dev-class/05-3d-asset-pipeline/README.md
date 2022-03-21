@@ -136,7 +136,7 @@ Modifiers are just little Python programs that you can run on your model.
 This article provides a great overview of how Bitmaps work
 {% endembed %}
 
-![A 24-bit RGB Bitmap. Photo from Paul Bourke linked above.](<../../../../.gitbook/assets/image (641).png>)
+![A 24-bit RGB Bitmap. Photo from Paul Bourke linked above.](<../../../../.gitbook/assets/image (641) (1).png>)
 
 * Bitmaps, in the case of Unity, are mostly blue.
 * It's using a texture, Pixel colors, as x/y/z offsets.

@@ -6,7 +6,7 @@ description: Blender Doughnut Tutorial Part 3
 
 ## View Options
 
-![The wire-frame/flat circle button](<../../.gitbook/assets/image (657) (1).png>)
+![The wire-frame/flat circle button](<../../.gitbook/assets/image (657) (1) (1).png>)
 
 If you need to select throughout an entire object, and not just the surface, change your viewing mode using one of these buttons (on the right) to change it into a wire-frame.
 

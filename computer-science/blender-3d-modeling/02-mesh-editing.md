@@ -9,7 +9,7 @@
 * `<Select Object> => Context Menu =>  Shade Smooth`: You can make objects appear to be smooth without affecting it's geometry.&#x20;
 * You can confirm whether something is high or low poly by looking at the _silhouette_.
 
-![Search Results: Google / Oxford Languages ©2022 ](<../../.gitbook/assets/image (653).png>)
+![Search Results: Google / Oxford Languages ©2022 ](<../../.gitbook/assets/image (653) (1).png>)
 
 ### Subdivision Surface
 
@@ -43,7 +43,7 @@ To fix the rough silhouette, you'll use the `subdivision surface` tool. This is 
 * You can drag out each vertex individually
 * You can select multiple vertices by holding `shift`.
 
-### Proportional Editing ![](<../../.gitbook/assets/image (651) (1).png>)
+### Proportional Editing ![](<../../.gitbook/assets/image (651) (1) (1).png>)
 
 #### Edit Mode #`1`
 
@@ -57,5 +57,5 @@ Spent an hour figuring this out :turtle:
 
 You can also proportion size here:
 
-![](<../../.gitbook/assets/image (654) (1).png>)
+![](<../../.gitbook/assets/image (654) (1) (1).png>)
 
