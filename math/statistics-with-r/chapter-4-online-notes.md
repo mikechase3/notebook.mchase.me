@@ -217,7 +217,7 @@ binompdf(10,.30,8)  // returns probability there are 0 or 1...8 successes.
 
 * Use a calculator. Do `binompdf(10,.25,4)`.
 
-### Mean Value, SD, Var of Binomial Dist
+### [Mean Value, SD, Var of Binomial Dist](https://www.youtube.com/watch?v=4Ew60JEPGUk\&t=961)
 
 Last time, we wanted to find mean _probability_ that an outcome occurred. This time, we are finding the mean value.
 
@@ -248,8 +248,25 @@ In some town in New Mexico, they picked juries out of the population. 80% is Mex
 
 #### Step 1: Find Successes/Failures
 
-* Let's call _Successes: randomly selecting one Mexican-American_
-* Failure: selecting anyone else.
+Since our goal is to have more Mexican-Americans representing the population in court, we'll define that as our success:
+
+![](<../../.gitbook/assets/CleanShot 2022-03-21 at 00.42.03@2x.jpg>)
+
+#### Step 2: Identify Key Information
+
+* There are 12 trials => `n=12;`
+* The probability of a successful trial: selecting a Mexican American. If you have a population that's 80% Mexican-American your chances of selecting a Mexican-American at random should be 80%. Therefore `p=0.80`.&#x20;
+* `q` describes the probability of failure. The probability of failure should be people who are not Mexican-American. Therefore, `q=0.20.`
+
+#### **Step 3: Calculate mean value, var, and std**
+
+* **Mean:** is `n*p` => 12\*.80 => 9.6.
+  * 9.6 is our mean value.&#x20;
+  * If you selected a whole bunch of juries of people, you'd get 9.6 Mexican-Americans on average.
+* **Variance** is `n*p*q`  => 1.93
+* **Standard Deviation**: sqrt(var) => 1.39
+
+#### Step 4: Are these normal values?
 
 
 
