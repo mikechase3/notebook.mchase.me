@@ -1,28 +1,20 @@
 # Mike Chase's Notebook
 
-## Ecosystem
+## Quick Links
 
-Mike Chase's ecosystem, organization, and life is wrapped up like a database of systems. Gitlab is the primary key. I'm working on automating the rest.
+* [Game Development](https://notebook.mchase.me/development/game-development/unity-game-dev-class?q=game+dev)
+* [Tkinter](https://notebook.mchase.me/development/languages-and-architectures/python/tkinter?q=tkinter)
 
-* Dropbox
-  * Active Documents
-  * Archived Documents
-  * Collections
-* Email accounts: personal, personal-business, laboratory, government.
-* Keepass
-* [Gitlab](https://gitlab.com/MikeChase) (Primary Key)
-* Notebook _(hosted by Gitbook & Github)_
-* Physical
-  * Binder: letters sent/received.
-  * Bank for banky things.
-* Studies App
-* Website
+## About The Author
 
-## Active Projects
-1. Streamliner - internal tools for tracking staff/teacher/student engagement.
-2. tKinter Turtles: like stepik's turtles, but in a self-contained app. Maybe introduce both concepts at once?
+* Main site is at mchase.me, so check that out if you want serious answers.
+
+#### What is your favorite data structure?
+
+A heap. It has no order. I can charge people lots of money to organize things from disorganized things and I enjoy that for some reason.
 
 ## Fair Use for Copyrighted Content
+
 * Nobody uses my notebook.
 * Everything should fall under "fair use"
 * If you have a problem - shoot me an email.

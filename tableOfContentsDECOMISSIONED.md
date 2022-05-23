@@ -2,7 +2,7 @@
 description: See the table of contents.
 ---
 
-# Mike Chase's Notebook
+# TOC (Decomissioned)
 
 ## Business
 
@@ -60,8 +60,8 @@ How do we decide on victors, victims? Who wins and who loses?&#x20;
 
 * AlgoExpert
 * BackToBack SWE
-* [CodeSignal](https://codesignal.com) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices.&#x20;
-* [Code Wars](https://www.codewars.com) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
+* [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices.&#x20;
+* [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
 * [Princeton Data Structure and Algorithms](hhttps://www.coursera.org/learn/algorithms-part1#syllabus) has a complete, free course available for auditing. The ratings are extremely high. Be sure to have a Java background, otherwise you might have a little difficulty with the assignments. It'll say it costs money, but look for a button that says "audit this course" for free access.
 
 ### Data Science & Visualization
@@ -76,12 +76,12 @@ The Pudding
 
 ### Game Development (Unity and Unreal Engine)
 
-* [Unity Learn](https://pudding.cool) is worth checking out. I use it for mobile development and the occasional wacky project that only works on Unity.
+* [Unity Learn](https://pudding.cool/) is worth checking out. I use it for mobile development and the occasional wacky project that only works on Unity.
 * [Learn Unreal Engine](https://learn.unrealengine.com/home/dashboard) has a that's slow and painful. I hate their whole website because it feels slow and disorganized much like this website you are reading - at least the disorganized part. Sorry I'm projecting. I'd give it a 3/5 rating. It's very comprehensive and I haven't found anything better... yet. That being said, I haven't pulled out my wallet because I'll just ask my coworkers when I have problems.
 
 
 
-### [Languages and Architectures](computer-science/languages-and-architectures/)
+### [Languages and Architectures](development/languages-and-architectures/)
 
 #### Codecademy Cheatsheets
 
@@ -93,7 +93,7 @@ Contains all Codecademy Cheatsheets
 
 #### Effective Python, Java, CSS, Typescript, More.
 
-\_\_[Effective Python](https://effectivepython.com)_/Java/C++/Typescript/More_ are books that tell you how to get from mediocrity to mastery by identifying best practices. This is a poor choice for beginners, but great once you get familiar with the programming language by showing you a bit under the hood and helping you learn better practices for each language.
+\_\_[Effective Python](https://effectivepython.com/)_/Java/C++/Typescript/More_ are books that tell you how to get from mediocrity to mastery by identifying best practices. This is a poor choice for beginners, but great once you get familiar with the programming language by showing you a bit under the hood and helping you learn better practices for each language.
 
 {% embed url="https://effectivepython.com/" %}
 Effective Python
@@ -148,7 +148,7 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 
 ## Health
 
-* [DareBee](https://darebee.com) has a huge collection of workout and health infographics.
+* [DareBee](https://darebee.com/) has a huge collection of workout and health infographics.
 
 ## Marketing
 
@@ -171,5 +171,5 @@ Unfortunately, I took operating systems from a professor who did a poor job teac
 ## Professional Development
 
 * BigInterview helps you develop your charismatic skills, but tailored to responding to interviews.&#x20;
-* [Jobscan](https://www.jobscan.co) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
+* [Jobscan](https://www.jobscan.co/) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
 * Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.

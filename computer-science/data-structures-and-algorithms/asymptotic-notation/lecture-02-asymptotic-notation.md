@@ -7,7 +7,7 @@ description: Chapter 3
 ## Asymptotic Notation Describes Growth To Infinity
 
 1. Asymptotic notation is a way to describe the behavior when n goes to infinity.
-2. We will study other notations besides Big Oh. 
+2. We will study other notations besides Big Oh.&#x20;
 
 ## Notation Goals
 
@@ -26,9 +26,9 @@ To find the running time… 1. Describe the algorithm in pseudocode so you know 
 4. When we read instructions, we write `f(n) = O(g(n))`. We would say that `f(n)` is contained in `O(g(n))`
    * `O(...)`is a set of function `f(n)`
 
-### Defining O\(N\) as a function
+### Defining O(N) as a function
 
-By **definition**, O\(n\) or big Oh-notation says that `O(g(n)) = {f(n): there exist positive constants c and no such that 0 <= f(n) <= c*g(n) for n >= n0}`
+By **definition**, O(n) or big Oh-notation says that `O(g(n)) = {f(n): there exist positive constants c and no such that 0 <= f(n) <= c*g(n) for n >= n0}`
 
 ### Example Problem
 
@@ -40,9 +40,7 @@ Can you prove that `f(n) = 2n+10 is in O(n)?` 1. If the maximum is `c*n`, then w
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
-| Class Lecture | Structure | Dr. Zhongmei Yao |
-
-
+| Title         | Content Used | Author           |
+| ------------- | ------------ | ---------------- |
+| Class Lecture | Structure    | Dr. Zhongmei Yao |
 

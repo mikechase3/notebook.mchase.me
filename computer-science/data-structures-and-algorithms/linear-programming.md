@@ -85,7 +85,7 @@ Our goal is to solve this maximum flow problem&#x20;
 
 #### Constraints
 
-![Graphical Depiction of Constraints](<../../.gitbook/assets/image (99).png>)
+![Graphical Depiction of Constraints](<../../.gitbook/assets/image (84).png>)
 
 * There is an inequality constraint for every edge.
 * There is an equality constraint for every vertex.
@@ -142,17 +142,17 @@ See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6
 {% tab title="Maximization" %}
 ## Maximization
 
-![Dr. Yao's slide summarizing slack form.](<../../.gitbook/assets/image (117).png>)
+![Dr. Yao's slide summarizing slack form.](<../../.gitbook/assets/image (93).png>)
 
 ### Givens
 
 We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../.gitbook/assets/image (88).png>)
 
 ### Convert to Slack Form
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (90).png>)
 
 * Now we have three more variables. All of them are subject to being greater than 0.
 * $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$&#x20;
@@ -165,7 +165,7 @@ We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 Where did x' come from? What does it mean?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (112).png>)
+![](<../../.gitbook/assets/image (91).png>)
 
 #### Unknown Step
 
@@ -173,11 +173,11 @@ Where did x' come from? What does it mean?
 How did we get here?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 ### Summary
 
-![](<../../.gitbook/assets/image (114).png>)
+![](<../../.gitbook/assets/image (94).png>)
 {% endtab %}
 
 {% tab title="Minimization" %}
@@ -254,7 +254,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 * Let $$x_1 \text{ and } x_2$$ denote the number of cars and dolls produced by Danny.
 
-![](<../../.gitbook/assets/image (95).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
 | Constraint            | Caption                                                |
 | --------------------- | ------------------------------------------------------ |
@@ -285,7 +285,7 @@ Summary: The simplex method says: travel along the corner points until you reach
 
 #### Phase Steps
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (87).png>)
 
 Here, we'll iterate through all the points where there is an intersection between the feasible region and examine what `z` is at each point.
 

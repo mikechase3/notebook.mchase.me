@@ -13,7 +13,7 @@
 ## Anatomy of the Computer Revolution
 
 * Technological Introduction Stage: how to use it.
-* Technological permeation stage: transformation of society \(voting, 'work', finance, education\)
+* Technological permeation stage: transformation of society (voting, 'work', finance, education)
 
 ## The Invisibility Factor
 
@@ -27,6 +27,4 @@
   * Routine Ethics
   * Cultural relativism
   * Moor dude rejects both in favor of core values: life/happiness/ability/freedom/knowledge/resources/security.
-
-
 

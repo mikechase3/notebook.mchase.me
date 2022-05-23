@@ -18,6 +18,5 @@
     * Advisor says weird things.
 * The keymaster checked the key and in a half-hour, the room reset.
   * We can try to catch whoever is trying to steal it and put it back.
-* I saw the Aris and a fine gentlemen enter a room. They spoke for about a half an hour. 
+* I saw the Aris and a fine gentlemen enter a room. They spoke for about a half an hour.&#x20;
 * Duke and count are having a heated discussion in room 131.
-

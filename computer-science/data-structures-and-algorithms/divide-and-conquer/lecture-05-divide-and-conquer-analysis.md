@@ -260,7 +260,7 @@ class Solution {
 
 ## Master Theorem
 
-![Source: Brilliant Wiki Master Theorem](../../../.gitbook/assets/image.png)
+![Source: Brilliant Wiki Master Theorem](<../../../.gitbook/assets/image (1).png>)
 
 Roughly, this means:
 

@@ -6,21 +6,21 @@ description: Lecture 2, 3, 4.
 
 ## How Networks Work
 
-![](<../../../.gitbook/assets/image (100).png>)
+![](<../../../.gitbook/assets/image (404).png>)
 
-![](<../../../.gitbook/assets/image (110).png>)
+![](<../../../.gitbook/assets/image (405).png>)
 
-![](<../../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (406).png>)
 
 ## Ubuntu & Git Setup
 
-![](<../../../.gitbook/assets/image (98).png>)
+![](<../../../.gitbook/assets/image (407).png>)
 
 
 
-![](<../../../.gitbook/assets/image (96).png>)
+![](<../../../.gitbook/assets/image (408).png>)
 
-![](<../../../.gitbook/assets/image (103).png>)
+![](<../../../.gitbook/assets/image (409).png>)
 
 ## Network Security
 

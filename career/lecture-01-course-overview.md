@@ -9,7 +9,7 @@
 1. Design, implement, and evaluate computer based components, systems, processes, or programs to meet desired needs and specifications.
 2. Apply, design, and develop principles in the construction of software systems of varying complexity.
 3. Effectively state of the art techniques and competing tools for analytics, design, and implementation of computing systems.
-4. Team assemble to undertake the common goal. 
+4. Team assemble to undertake the common goal.&#x20;
 5. Analyze the local and the global impact of computing on individuals, organizations, and society.
 6. Communicate effectively to both technical and non-technical audiences.
 7. Analyze the local and the global impact of computing on individuals, organizations, and society.
@@ -53,12 +53,12 @@ Left off on slide 12.
 
 * Waterfall Model
 * Assumes the project can be planned in advance and that the information system can be developed according to the plan.
-* Requirements are well understood and/or low technical risk. 
+* Requirements are well understood and/or low technical risk.&#x20;
 
 ### Adaptive Approach to the SDLC
 
-* Iterative model \(we will use this approach in capstone courses\)
-* Assumes the project must be more flexible and adapt to changing needs. 
+* Iterative model (we will use this approach in capstone courses)
+* Assumes the project must be more flexible and adapt to changing needs.&#x20;
 
 ## Agile and Iterative Development Approaches
 
@@ -68,15 +68,15 @@ Left off on slide 12.
 
 ### Agile Development
 
-An information system development process that emphasizes flexibility to anticipate new requirements during development. 
+An information system development process that emphasizes flexibility to anticipate new requirements during development.&#x20;
 
 ### Iterative Development
 
-![A visualization of iterative development.](../.gitbook/assets/image%20%28191%29.png)
+![A visualization of iterative development.](<../.gitbook/assets/image (170).png>)
 
 An approach to system development in which the system is "grown" piece by piece through multiple iterations:
 
-### Unified Process \(UP\)
+### Unified Process (UP)
 
 * An architecture-centric, use-case drive, iterative and incremental development process using UML
 
@@ -119,7 +119,7 @@ The approach we're using in our capstone.
 
 A sprint is a time-controlled mini-project that implements part of a larger program.
 
-![](../.gitbook/assets/image%20%28192%29.png)
+![](<../.gitbook/assets/image (171).png>)
 
 ### SCRUM Practices
 
@@ -140,18 +140,17 @@ A sprint is a time-controlled mini-project that implements part of a larger prog
 
 ### Labs
 
-* Lab 0: Preparation \(GCP, git, trello, node.js\)
+* Lab 0: Preparation (GCP, git, trello, node.js)
 * Lab 1: A simple chat system app deployment on the cloud
 * Lab 2: User registration and authentication
-* Lab 3: Handle database for messenger. \(Google Firebase?\)
+* Lab 3: Handle database for messenger. (Google Firebase?)
 
 ## Assessments
 
-* 10%: Participation \(via multiple choice quizzes and teamwork\)
+* 10%: Participation (via multiple choice quizzes and teamwork)
 * 15%: Written quizzes
 * 20%: Labs
 * 35%: SCRUM projects in assignments
 * 20%: Team project proposal for Capstone 2.
 
-## 
-
+##

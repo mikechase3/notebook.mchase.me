@@ -38,7 +38,7 @@ $$
 
 ### Vertices (V)
 
-![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../.gitbook/assets/image (51).png>)
 
 * Vertices is the set of all the vertices.&#x20;
 * These are connected by edges.&#x20;
@@ -47,7 +47,7 @@ $$
 
 ### Edges
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../.gitbook/assets/image (52).png>)
 
 * Edges connect the vertices together.&#x20;
 * The order in which you write out the edges doesn't matter
@@ -70,7 +70,7 @@ Terminology of edges, using the example `{u,v}`
 
 Digraphs mean that edges are directed edges. It's short for _directed graph_.
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (55).png>)
 
 * The in-degree of vertex `v` is 2 because v is the head of two incoming tails.
 * The out-degree of vertex `v` is 3 because v is the tail of three outgoing heads.
@@ -131,7 +131,7 @@ A component is a subgraph is a graph that has all the properties of u and v in t
 
 The components are where we can find a path from every single pair of `u` and `v`'s.
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (57).png>)
 
 In this example:
 
@@ -156,9 +156,9 @@ Is this actually what a strong connection means?
 
 Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection_ implies`v` can get to `u` and `u` can get to `v`.&#x20;
 
-![Strong Connection](<../../../.gitbook/assets/image (64).png>)
+![Strong Connection](<../../../.gitbook/assets/image (58).png>)
 
-![No strong connection between u and v.](<../../../.gitbook/assets/image (65).png>)
+![No strong connection between u and v.](<../../../.gitbook/assets/image (59).png>)
 
 ### Tree Terminology
 

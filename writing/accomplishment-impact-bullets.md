@@ -121,3 +121,12 @@ How would you check the accuracy? Here's a few probing questions that reveal a m
 Left off on page 253.
 {% endhint %}
 
+## Guidance on WARs
+
+![](<../.gitbook/assets/Scannable Document on Apr 2, 2022 at 12\_53\_47 AM.jpg>)
+
+From analyzing a few examples, you discover a pattern. To write a good WAR, just follow this pattern:
+
+1. Successfully + \<Action Verb> + something and why that was necessary (e.g. to optimize company's product).
+2. Describe what you did with men, labor hours, and how it plays into a larger role within AFRL. If it's research, use your sentence to explain what the hypothesis was and how it was tested.
+3. Explain&#x20;

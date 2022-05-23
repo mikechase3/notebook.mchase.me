@@ -5,11 +5,11 @@
 * In [lecture 12](lecture-12-graph-fundamentals.md), we used directed graphs and showed that we store all the node objects as integers.
 * Adjacency lists store outgoing nodes we point to in the Adjacency list.&#x20;
 
-![](<../../../.gitbook/assets/image (82).png>)
+![](<../../../.gitbook/assets/image (67).png>)
 
 When it comes to directed **weighted** graphs; however, we also have to specify the weight. In the example below, we'll store the **weights** as doubles as a new parameter in our adjacency list.
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](<../../../.gitbook/assets/image (70).png>)
 
 ### Weighted Digraph Implementation
 

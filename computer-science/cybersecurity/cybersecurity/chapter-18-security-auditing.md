@@ -2,7 +2,7 @@
 
 ## 18.1: Security Auditing Architecture
 
-![Source: Stalling et. al](<../../../.gitbook/assets/image (642) (1) (1) (1) (1) (1) (1).png>)
+![Source: Stalling et. al](<../../../.gitbook/assets/image (716).png>)
 
 ### Security Audit and Alarms Model
 
@@ -12,13 +12,13 @@
 
 ### Security Auditing Functions
 
-![Src: stallings et. al](<../../../.gitbook/assets/image (639) (1) (1).png>)
+![Src: stallings et. al](<../../../.gitbook/assets/image (660).png>)
 
 * Security auditing is broken down into 6 areas. Each has specific functions.
 
 ### Requirements
 
-![Source: stalling et. al](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![Source: stalling et. al](<../../../.gitbook/assets/image (738).png>)
 
 ### Implementing Guidelines
 

@@ -7,7 +7,7 @@
 * In calc 1, we learned the Chain Rule
 * Now, we're going to learn the chain rule with multiple values
 
-![](<../../../../.gitbook/assets/image (378).png>)
+![](<../../../../.gitbook/assets/image (344).png>)
 
 ### The Dependency Diagram
 
@@ -23,9 +23,9 @@
 No idea what this is
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (377) (6) (6) (6).png>)
+![](<../../../../.gitbook/assets/image (377) (6) (6) (2).png>)
 
-![](<../../../../.gitbook/assets/image (377) (6) (6).png>)
+![](<../../../../.gitbook/assets/image (377) (6) (6) (3).png>)
 
 ### Note on Exercises
 
@@ -33,7 +33,7 @@ No idea what this is
 
 #### Example
 
-![](<../../../../.gitbook/assets/image (386).png>)
+![](<../../../../.gitbook/assets/image (346).png>)
 
 
 

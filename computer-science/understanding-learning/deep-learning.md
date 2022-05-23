@@ -2,7 +2,7 @@
 
 ## What is Deep Learning
 
-![Source: AWS Training and Certification \| Coursera](../../.gitbook/assets/image%20%2810%29.png)
+![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9).png>)
 
 ### Brief History
 
@@ -11,7 +11,7 @@
 * The internet helped advance algorithms.
 * GPUs became more popular and deep learning became much easier.
 
-### Artificial Neural Networks \(ANN\)
+### Artificial Neural Networks (ANN)
 
 * They are designed to act like human brains.
 * They can handle anomolies.
@@ -26,11 +26,11 @@
   * Output layers.
 * The basic unit is a **node** or artifical neuron.
 
-![Source: Amazon Machine Learning \| AWS from Coursera](../../.gitbook/assets/image%20%2811%29.png)
+![Source: Amazon Machine Learning | AWS from Coursera](<../../.gitbook/assets/image (10).png>)
 
 ### Types of Neural Networks
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](<../../.gitbook/assets/image (11).png>)
 
 #### Feedforward Network
 
@@ -46,8 +46,8 @@
 
 * Text analysis: analyzing mood, feelings, etc.
 * Time series & predictive analysis
-* Sound Analysis \(e.g. Automotive and engineering for fluid motion\)
-* Image analysis \(Tagging and identifying people in pictures\)
+* Sound Analysis (e.g. Automotive and engineering for fluid motion)
+* Image analysis (Tagging and identifying people in pictures)
 
 ## Amazon API Services
 
@@ -88,8 +88,6 @@
 ## C-Span Case Study
 
 They did amazing things with the ability to upload tons of faces!
-
-
 
 
 

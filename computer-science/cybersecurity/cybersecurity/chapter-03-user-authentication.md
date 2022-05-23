@@ -5,7 +5,7 @@
 * Any authentication function is going to have these sub-routines in some manner or fashion.
 * There are 3 on the registration side, and 3 on the authentication side.
 
-![](<../../../.gitbook/assets/image (629).png>)
+![](<../../../.gitbook/assets/image (637).png>)
 
 ### Means of Authentication
 
@@ -21,7 +21,7 @@
 
 This describes an organization's degree of certainty that a user has presented a credential that refers to his identity.
 
-![](<../../../.gitbook/assets/image (632).png>)
+![](<../../../.gitbook/assets/image (638).png>)
 
 #### Potential Impact
 
@@ -50,7 +50,7 @@ This is self-explanatory.
 
 
 
-![](<../../../.gitbook/assets/image (631).png>)
+![](<../../../.gitbook/assets/image (639).png>)
 
 * Salt is stored in plain-text in the password file and is prepended/appended to the user's file.
 
@@ -98,7 +98,7 @@ This is self-explanatory.
 
 ### Bloom Filter
 
-![](<../../../.gitbook/assets/image (633).png>)
+![](<../../../.gitbook/assets/image (640).png>)
 
 * Used to built a table based on dictionary using hashes.
 * Check desired passwords against this table.
@@ -109,7 +109,7 @@ This is self-explanatory.
 
 ### Memory Cards
 
-![Embossed cards were read literally.](<../../../.gitbook/assets/image (630).png>)
+![Embossed cards were read literally.](<../../../.gitbook/assets/image (641).png>)
 
 * Magnetic stripes.
 * Electronic memory inside.

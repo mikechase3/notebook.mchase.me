@@ -8,16 +8,16 @@ description: Lecture 02
 
 * Google Cloud provides a linux virtual machine and code editor in your browser.
 * It can be used to develop, deploy, and manage your codebase.
-* [Link](https://ssh.cloud.google.com)
+* [Link](https://ssh.cloud.google.com/)
 
 ## Git
 
 
 
-* Resource: _T_[_he Missing semester of your CS Education_](https://missing.csail.mit.edu)_; MIT Open Courseware_
+* Resource: _T_[_he Missing semester of your CS Education_](https://missing.csail.mit.edu/)_; MIT Open Courseware_
   * __[_The Shell_](https://missing.csail.mit.edu/2020/course-shell/)__
   * __[_Version Control_ ](https://missing.csail.mit.edu/2020/version-control/)with Git.
-* Resurce: [Git SCM Documentation](https://git-scm.com)
+* Resurce: [Git SCM Documentation](https://git-scm.com/)
 
 ### Git Platforms
 

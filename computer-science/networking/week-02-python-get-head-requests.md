@@ -131,7 +131,7 @@ string request = "GET /" + path + query + " HTTP/1.0\n User-agent: UDCScrawler/1
 4. Specify the version number
 5. Type in the `User-agent: udaytoncrawler/1.0` as whatever user agent you want.
 6. End the line using an escape character.
-7. Use the field name `Host: `for some reason. 
+7. Use the field name `Host:` for some reason.&#x20;
 8. Type the actual host name.
 9. Use a `\n` to start a new line.
 10. Close the request by saying `Connection: close.`

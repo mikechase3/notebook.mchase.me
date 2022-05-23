@@ -1,6 +1,6 @@
 # Graphs Problem Solving 2
 
-### Minimum Number of Users 
+### Minimum Number of Users&#x20;
 
 ```java
 BFS(u), Q = {u} //Queue containing nodes u.
@@ -18,4 +18,3 @@ def BFS(u), Q = {u}: # u is an edge
         else if visited:
             ignore this edge.
 ```
-

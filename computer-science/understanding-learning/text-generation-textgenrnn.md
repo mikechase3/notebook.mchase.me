@@ -92,7 +92,7 @@ You can view a demo of common features and model configuration options in [this 
 
 textgenrnn is based off of the [char-rnn](https://github.com/karpathy/char-rnn) project by [Andrej Karpathy](https://twitter.com/karpathy) with a few modern optimizations, such as the ability to work with very small text sequences.
 
-The included pretrained-model follows a [neural network architecture](https://github.com/bfelbo/DeepMoji/blob/master/deepmoji/model_def.py) inspired by [DeepMoji](https://github.com/bfelbo/DeepMoji). For the default model, textgenrnn takes in an input of up to 40 characters, converts each character to a 100-D character embedding vector, and feeds those into a 128-cell long-short-term-memory (LSTM) recurrent layer. Those outputs are then fed into _another_ 128-cell LSTM. All three layers are then fed into an Attention layer to weight the most important temporal features and average them together (and since the embeddings + 1st LSTM are skip-connected into the attention layer, the model updates can backpropagate to them more easily and prevent vanishing gradients). That output is mapped to probabilities for up to [394 different characters](https://app.gitbook.com/textgenrnn/textgenrnn_vocab.json) that they are the next character in the sequence, including uppercase characters, lowercase, punctuation, and emoji. (if training a new model on a new dataset, all of the numeric parameters above can be configured)
+The included pretrained-model follows a [neural network architecture](https://github.com/bfelbo/DeepMoji/blob/master/deepmoji/model\_def.py) inspired by [DeepMoji](https://github.com/bfelbo/DeepMoji). For the default model, textgenrnn takes in an input of up to 40 characters, converts each character to a 100-D character embedding vector, and feeds those into a 128-cell long-short-term-memory (LSTM) recurrent layer. Those outputs are then fed into _another_ 128-cell LSTM. All three layers are then fed into an Attention layer to weight the most important temporal features and average them together (and since the embeddings + 1st LSTM are skip-connected into the attention layer, the model updates can backpropagate to them more easily and prevent vanishing gradients). That output is mapped to probabilities for up to [394 different characters](https://app.gitbook.com/textgenrnn/textgenrnn\_vocab.json) that they are the next character in the sequence, including uppercase characters, lowercase, punctuation, and emoji. (if training a new model on a new dataset, all of the numeric parameters above can be configured)
 
 Alternatively, if context labels are provided with each text document, the model can be trained in a contextual mode, where the model learns the text _given the context_ so the recurrent layers learn the _decontextualized_ language. The text-only path can piggy-back off the decontextualized layers; in all, this results in much faster training and better quantitative and qualitative model performance than just training the model gien the text alone.
 
@@ -130,7 +130,7 @@ Additionally, the retraining is done with a momentum-based optimizer and a linea
 ### Projects
 
 * [Tweet Generator](https://github.com/minimaxir/tweet-generator) — Train a neural network optimized for generating tweets based off of any number of Twitter users
-* [Hacker News Simulator](https://twitter.com/hackernews_nn) — Twitter bot trained on 300,000+ Hacker News submissions using textgenrnn.
+* [Hacker News Simulator](https://twitter.com/hackernews\_nn) — Twitter bot trained on 300,000+ Hacker News submissions using textgenrnn.
 * [SubredditRNN](https://www.reddit.com/r/subredditnn) — Reddit Subreddit where all submitted content is from textgenrnn bots.
 * [Human-AI Collaborated Pizzas](https://howtogeneratealmostanything.com/food/2018/08/30/episode2.html) — Pizza recepies generated with textgenrnn and made in real life.
 * [Board Game Titles](https://boardgamegeek.com/thread/2105706/i-trained-neural-network-17000-game-titles-bgg)
@@ -153,7 +153,7 @@ Additionally, the retraining is done with a momentum-based optimizer and a linea
 
 Max Woolf ([@minimaxir](http://minimaxir.com))
 
-_Max's open-source projects are supported by his _[_Patreon_](https://www.patreon.com/minimaxir)_. If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use._
+_Max's open-source projects are supported by his_ [_Patreon_](https://www.patreon.com/minimaxir)_. If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use._
 
 ## Credits
 

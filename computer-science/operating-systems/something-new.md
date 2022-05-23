@@ -8,16 +8,15 @@ This starts content under "Week 7"
 
 ### Semaphores
 
-![](../../.gitbook/assets/image%20%28413%29.png)
+![](<../../.gitbook/assets/image (370).png>)
 
 ### Mutex
 
 
 
-| Term | Definition |
-| :--- | :--- |
-| Semaphore |  |
-| Mutex |  |
-| Deadlock |  |
-| Priority Inversion |  |
-
+| Term               | Definition |
+| ------------------ | ---------- |
+| Semaphore          |            |
+| Mutex              |            |
+| Deadlock           |            |
+| Priority Inversion |            |

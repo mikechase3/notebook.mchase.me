@@ -4,7 +4,7 @@
 
 * The **SMM** stands for the System Management Module. Before the operating system takes over and gets booted up, you can put an intel chip into a different configuration and have extremely low-level access to the chip before the operating system boots up.
 
-![](<../../../.gitbook/assets/image (622).png>)
+![](<../../../.gitbook/assets/image (627).png>)
 
 * The **TPM** makes sure that the firmware of BIOS/SMM doesn't change.&#x20;
 * **Physical hardware:** has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
@@ -32,7 +32,7 @@
 * Who is going to be responsible for the responsibility of this system?
 * Identify all appropriate personnel and training to install/manage the system.
 
-![Source: Dr. Baldwin's slides.](<../../../.gitbook/assets/image (621).png>)
+![Source: Dr. Baldwin's slides.](<../../../.gitbook/assets/image (628).png>)
 
 ## 12.3: Operating System Hardening
 
@@ -55,7 +55,7 @@ We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/
 
 ### OS Installation: Initial setup and patching.
 
-![](<../../../.gitbook/assets/image (620).png>)
+![](<../../../.gitbook/assets/image (629).png>)
 
 1. Be disconnected from the network.
 2. Install minimum necessary for the desired system.
@@ -85,7 +85,7 @@ We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/
 
 ### Encryption Technology
 
-![Dr. Baldwin's Slides](<../../../.gitbook/assets/image (619).png>)
+![Dr. Baldwin's Slides](<../../../.gitbook/assets/image (630).png>)
 
 * Encrypt your file system.
 * Encrypt SSH keys.
@@ -168,7 +168,7 @@ Mediums are out of date.
 * **Integrity Levels**: the windows system will not let it write any information to higher levels.
 * **Biba Integrity Model**: Biba was a researcher. It basically makes sure that objects with low integrity levels aren't messing with things of high integrity levels.
 
-![Integrity Controls](<../../../.gitbook/assets/image (626).png>)
+![Integrity Controls](<../../../.gitbook/assets/image (633).png>)
 
 #### Low Privilege Service Accounts
 
@@ -199,13 +199,13 @@ Mediums are out of date.
 
 ### Virtualization Alternatives
 
-![](<../../../.gitbook/assets/image (628).png>)
+![](<../../../.gitbook/assets/image (634).png>)
 
 ### Native Virtualization
 
 Native virtualization&#x20;
 
-![](<../../../.gitbook/assets/image (625).png>)
+![](<../../../.gitbook/assets/image (635).png>)
 
 ### Host Virtualization
 
@@ -213,7 +213,7 @@ Whatever you install it on,&#x20;
 
 
 
-![](<../../../.gitbook/assets/image (627).png>)
+![](<../../../.gitbook/assets/image (636).png>)
 
 ### Virtualization Security Issues
 

@@ -21,7 +21,7 @@ First, a reality check: **there's **_**a lot**_** of money in tech**. New grads 
 
 Millions of dollars change hands in salary negotiation — you owe it to yourself to understand compensation.
 
-### Understand tech compensation <a href="understand" id="understand"></a>
+### Understand tech compensation <a href="#understand" id="understand"></a>
 
 There’s a lot outside of salary that forms your total compensation package. Your "total comp" includes at least:This complexity exists partly to help both sides feel like they got a deal. If there's only one number to argue on, nobody walks away happy. A big part of salary negotiation is using the complexity to your advantage: knowing which lever to pull.
 
@@ -32,7 +32,7 @@ There’s a lot outside of salary that forms your total compensation package. Yo
 * **Signing bonus** — one-time bonus paid out either when you sign or the day you start. Might come with a clause that you must pay it back if you leave after X months. Quite common in large tech companies, can be anywhere from $10k–$100k. Highly negotiable.
 * **Other perks** — a whole suite of one-time or ongoing cash perks, like relocation package, phone stipend, commuter benefits, car allowance, etc.
 
-The biggest input that controls comp is "level", a number that express your seniority. For example, level E3 at Facebook is new grad, E4 is for hires with a few years experience and so on, up to E9 (after the first few levels, experience becomes less important).Levels are completely non-standard between companies (e.g. an “L5” engineer at Amazon is not equivalent to an “E5” engineer at Facebook). See [Levels.fyi](https://www.levels.fyi) for how levels compare between major tech companies.
+The biggest input that controls comp is "level", a number that express your seniority. For example, level E3 at Facebook is new grad, E4 is for hires with a few years experience and so on, up to E9 (after the first few levels, experience becomes less important).Levels are completely non-standard between companies (e.g. an “L5” engineer at Amazon is not equivalent to an “E5” engineer at Facebook). See [Levels.fyi](https://www.levels.fyi/) for how levels compare between major tech companies.
 
 The more expensive/higher level you are, the more complex your comp mix becomes and the more it'll skew towards equity.
 
@@ -90,7 +90,7 @@ In all cases — congrats! Whether you like it or not, you're now a startup inve
 
 **Don't have time to read?** Get the PDF in your inbox.
 
-### Figure out your worth <a href="worth" id="worth"></a>
+### Figure out your worth <a href="#worth" id="worth"></a>
 
 Don't accept a lower salary because "you don't really need the money" — **what you’re paid has nothing to do with your costs.**
 
@@ -98,14 +98,14 @@ Similarly, negotiation arguments around your life costs (mortgage, student debt,
 
 #### Please, _please_, don't rely on Glassdoor
 
-[Payscale](https://www.payscale.com),[Glassdoor](https://www.glassdoor.com/Salaries/index.htm),[Comparably](https://www.comparably.com) — they're all wildly inaccurate for tech. These sites heavily mistreat equity (a major component of tech compensation) and are often very out of date. It routinely causes people to accept less than they deserve.Compensation is generally lower for startups/pre-IPO companies (primarily due to equity). It's lower for non-technical roles, outside major tech hubs and _considerably_ lower outside the US (e.g. EU).
+[Payscale](https://www.payscale.com/),[Glassdoor](https://www.glassdoor.com/Salaries/index.htm),[Comparably](https://www.comparably.com/) — they're all wildly inaccurate for tech. These sites heavily mistreat equity (a major component of tech compensation) and are often very out of date. It routinely causes people to accept less than they deserve.Compensation is generally lower for startups/pre-IPO companies (primarily due to equity). It's lower for non-technical roles, outside major tech hubs and _considerably_ lower outside the US (e.g. EU).
 
 **Your options**:
 
 * [H-1B visa filings](https://h1bdata.info/index.php) are authoritative, but only have base salary
 * [AngelList](https://angel.co/salaries) is a good reference for both base and equity for startups
 * [Triplebyte](https://triplebyte.com/software-engineer-salary) has high quality data for technical roles at startups (base only)
-* [Levels.fyi](https://www.levels.fyi/comp.html#) and [Blind](https://www.teamblind.com/salaryComparison) are helpful for big tech companies
+* [Levels.fyi](https://www.levels.fyi/comp.html) and [Blind](https://www.teamblind.com/salaryComparison) are helpful for big tech companies
 
 Unfortunately, the best and most up to date information is a moving target but common knowledge among HR professionals. The easiest way for you to tap into that is through third-party recruiters — they'll gladly take your call.
 
@@ -113,7 +113,7 @@ Unfortunately, the best and most up to date information is a moving target but c
 
 **Don't have time to read?** Get the PDF in your inbox.
 
-### Ask the right questions <a href="ask" id="ask"></a>
+### Ask the right questions <a href="#ask" id="ask"></a>
 
 First, **delay the salary conversation until both of you are convinced this is the right job**. Never, ever share your previous salary. In California[and many other US states](https://gusto.com/framework/hr/salary-history-ban/), it's illegal from an employer to ask about your current salary.
 
@@ -145,7 +145,7 @@ You’re going to dedicate years of your productive life to an organisation, it�
 
 **Don't have time to read?** Get the PDF in your inbox.
 
-### The salary negotiation <a href="negotiation" id="negotiation"></a>
+### The salary negotiation <a href="#negotiation" id="negotiation"></a>
 
 Remember: the company just spent 10s of thousand finding you, vetting you, etc. They’ve wasted time wading through a glut of unqualified candidates. The recruiter has quotas to fill. The hiring manager needed the job filled months ago and now, finally, they have you. **Everybody wants this deal to happen**.
 

@@ -26,16 +26,16 @@ The midterm will have similar questions, but they will all be new.
 
 If this is marked wrong, make sure she knows why I thought this way.
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 {% hint style="info" %}
 O(n) depends on the constant. If the constant o(n) has a constant of 1, then yes, this works because it's exactly equal. I said A, B, and C.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 {% hint style="info" %}
-We're diving the function time by 2 every iteration, but also adding `n`. 
+We're diving the function time by 2 every iteration, but also adding `n`.&#x20;
 {% endhint %}
 
 Given an input array with length n, what is the running time of the divide and conquer approach for finding the maximum subarray?
@@ -44,7 +44,7 @@ Given that a divide and conquer approach is used, which of the following is the 
 
 
 
-![What's the question?](<../../.gitbook/assets/image (45).png>)
+![What's the question?](<../../.gitbook/assets/image (41).png>)
 
 ## Past Quizzes
 

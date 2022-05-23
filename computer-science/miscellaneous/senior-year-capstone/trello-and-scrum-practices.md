@@ -11,7 +11,7 @@
 
 SCRUM is controlled by tight, smaller projects.
 
-![](<../../../.gitbook/assets/image (193).png>)
+![](<../../../.gitbook/assets/image (172).png>)
 
 ### Backlog & Team Planning
 
@@ -45,7 +45,7 @@ See an [example ](http://bit.ly/cps490f20-trello)& demo.
 
 Gnatt charts are bar charts which illustrate a project schedule. We set a start and end date for each task card.&#x20;
 
-![An example of a Gnatt Chart](<../../../.gitbook/assets/image (194).png>)
+![An example of a Gnatt Chart](<../../../.gitbook/assets/image (173).png>)
 
 #### Extensions
 
@@ -56,7 +56,7 @@ Gnatt charts are bar charts which illustrate a project schedule. We set a start 
 
 ## Plans for Development
 
-![](<../../../.gitbook/assets/image (196).png>)
+![](<../../../.gitbook/assets/image (174).png>)
 
 ### The Software Process
 

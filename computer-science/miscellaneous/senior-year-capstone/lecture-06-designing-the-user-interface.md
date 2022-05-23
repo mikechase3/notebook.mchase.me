@@ -10,7 +10,7 @@
 
 1. MongoDB
 2. Express.js
-3. AngularJS \(or Angular\)
+3. AngularJS (or Angular)
 4. Node.js
 
 ## Web-Pages
@@ -24,20 +24,20 @@ Web pages are text files in plaintext, written as an HTML document.
 * Javascript
 * Java Applet: depreciated since Java 9 and removed from Java 11.
 * Flash/ActionScript
-* Microsoft Silverlight. 
+* Microsoft Silverlight.&#x20;
 
 ## MongoDB
 
 * Adding features is hard
 * Pulling data from so many places is inefficient.
 
-![](../../../.gitbook/assets/image%20%28239%29.png)
+![](<../../../.gitbook/assets/image (211).png>)
 
-![](../../../.gitbook/assets/image%20%28243%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (243) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Documents
 
-* Data is stored in documents. 
+* Data is stored in documents.&#x20;
 * Stored in a way which is efficient for people to process.
 * You can add data when you need to quickly and efficiently.
 * Fault tolerances
@@ -49,7 +49,7 @@ Web pages are text files in plaintext, written as an HTML document.
 
 ### Resources
 
-* [MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
+* [MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu\_E)
 
 ### Pricing
 
@@ -95,7 +95,7 @@ Web pages are text files in plaintext, written as an HTML document.
 
 ### Resources
 
-* [Cheat sheet with some basic stuff.](www.htmlcheatsheet.com/js)
+* [Cheat sheet with some basic stuff.](https://www.htmlcheatsheet.com/js)
 * Javascript for beginners
 * Build a Chat App with MongoDB & Socket.io
 
@@ -106,7 +106,5 @@ Web pages are text files in plaintext, written as an HTML document.
 * 2 parts: client-side library that runs in the browser
 * Server-side library for Node.JS
 
-### 
-
-
+###
 

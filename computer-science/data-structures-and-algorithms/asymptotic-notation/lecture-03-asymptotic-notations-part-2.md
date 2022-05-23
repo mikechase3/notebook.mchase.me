@@ -39,7 +39,7 @@ Little o is like Big O notation, but we care about the constant of the largest t
 
     **Sufficient Condition**
 * Lemma 1: If the limit exists, then we can draw a conclusion about the upper bound _O(function)_, the lower bound _omega(function)_
-* Lemma 2: Uses _sup_ which I don’t know what that means. 
+* Lemma 2: Uses _sup_ which I don’t know what that means.&#x20;
 
 
 

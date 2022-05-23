@@ -18,19 +18,19 @@
 
 ### Fission and Fusion
 
-![](<../../.gitbook/assets/image (531).png>)
+![](<../../.gitbook/assets/image (538).png>)
 
 ### Energy on Earth
 
-![Retrieved from Pinterest, From VectorMine](<../../.gitbook/assets/image (538).png>)
+![Retrieved from Pinterest, From VectorMine](<../../.gitbook/assets/image (539).png>)
 
 ## Larger Units
 
-![](<../../.gitbook/assets/image (535).png>)
+![](<../../.gitbook/assets/image (540).png>)
 
 ### Measuring with Parallax
 
-![](<../../.gitbook/assets/image (534).png>)
+![](<../../.gitbook/assets/image (542).png>)
 
 ## Origin of the Universe
 
@@ -40,7 +40,7 @@
 
 The faster a light source moves away from an observer, the more red they look. This scales to the Universe, so further away something gets away from earth, the more red it looks. By observing how planets are getting more red and which direction we can go, we can re-wind the tape to observe that everything started in one place.&#x20;
 
-![](<../../.gitbook/assets/image (533).png>)
+![](<../../.gitbook/assets/image (543).png>)
 
 ### Big Bang Hypothesis
 
@@ -54,7 +54,7 @@ The faster a light source moves away from an observer, the more red they look. T
 
 ## Life Cycle of a Star
 
-![](<../../.gitbook/assets/image (545).png>)
+![](<../../.gitbook/assets/image (548).png>)
 
 1. Stars burn hydrogen and convert it to helium.
 2. The helium accumulates.
@@ -65,7 +65,7 @@ The faster a light source moves away from an observer, the more red they look. T
 
 I got distracted because the girl sitting next to me started drawing on a post-it note, so I made my own drawing. It was significantly less good than her's. This is my awful drawing:
 
-![](<../../.gitbook/assets/image (548) (1).png>)
+![](<../../.gitbook/assets/image (560).png>)
 
 {% embed url="https://cdn.kastatic.org/KA-share/BigHistory/KU3.0.9_Life_Cycle_of_Stars.pdf" %}
 Life Cycle of Stars: Khan Academy PDF
@@ -94,7 +94,7 @@ $$
 
 ### Mercury
 
-![Source: EarthHow](<../../.gitbook/assets/image (569).png>)
+![Source: EarthHow](<../../.gitbook/assets/image (574).png>)
 
 * **Mercury**: Impacts caused **craters**.&#x20;
 * Has no wind, water, or erosion which would destroy the craters.
@@ -107,7 +107,7 @@ $$
 
 ### Venus
 
-![Source: EarthHow](<../../.gitbook/assets/image (570).png>)
+![Source: EarthHow](<../../.gitbook/assets/image (575).png>)
 
 * Similar in size to earth.
 * The $$CO_2$$ makes up 96% of the atmosphere.
@@ -123,7 +123,7 @@ The more extraordinary the claim, the more evidence is required to support it. P
 
 Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
-![](<../../.gitbook/assets/image (566).png>)
+![](<../../.gitbook/assets/image (576).png>)
 
 ###
 
@@ -133,7 +133,7 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 ### Mars
 
-![Source: Earth How](<../../.gitbook/assets/image (567).png>)
+![Source: Earth How](<../../.gitbook/assets/image (577).png>)
 
 * The atmosphere is thin and mostly composed of $$CO_2$$&#x20;
 * Red because of oxidized iron.There's a tiny bit of oxygen on mars.
@@ -149,7 +149,7 @@ Venus has volcanoes which form rhyolite which cause circular volcanoes.
 
 ### Composition
 
-![Source: Earth Guide Web: Oceanic and Continental Crust](<../../.gitbook/assets/image (581).png>)
+![Source: Earth Guide Web: Oceanic and Continental Crust](<../../.gitbook/assets/image (587).png>)
 
 We can figure out what comes from the core through volcanoes and earthquakes. We also look at meteorites and analyze their composition because heir composition should similar to what's inside the earth.
 
@@ -194,7 +194,7 @@ $$
 
 ### Evidence from Precession of the Equinoxes
 
-![](<../../.gitbook/assets/image (580) (1).png>)
+![](<../../.gitbook/assets/image (588).png>)
 
 * **Eccentricity**: tell us how eeliptical something is around the sun with a 100,000 year cycle.
 * **Obliquity (tilt)**: Over 41,000 years, the tilt goes between 22 and 24 degree.
@@ -206,7 +206,7 @@ When you have an earthquake, there's a bunch of waves that pas sthrough the eart
 
 In dense stuff, they travel back fast. In non-dense material, it'll come back, but a lot more slowly.
 
-![A Seismic Wave](<../../.gitbook/assets/image (579) (1).png>)
+![A Seismic Wave](<../../.gitbook/assets/image (589).png>)
 
 
 

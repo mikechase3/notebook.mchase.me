@@ -4,7 +4,7 @@
 
 ### FIFO List
 
-![](<../../.gitbook/assets/image (237).png>)
+![](<../../.gitbook/assets/image (209).png>)
 
 We'll want to implement a Python list.
 
@@ -54,13 +54,13 @@ The internet is a massive network of networks. They are loosely hirearchical.
 
 ## Protocols
 
-![Protocols are standards of doing business.](<../../.gitbook/assets/image (236).png>)
+![Protocols are standards of doing business.](<../../.gitbook/assets/image (212).png>)
 
 Protocols define format, order of messages sent and received among network entities, and actions taken on those message transmission like receipt.
 
 ## Network Structure
 
-![Access Networks are connected via hierarchical structures. ](<../../.gitbook/assets/image (246).png>)
+![Access Networks are connected via hierarchical structures. ](<../../.gitbook/assets/image (215).png>)
 
 Access networks are connected to regional networks (ie Dayton) which are connected to global networks run by ISPs.
 
@@ -71,7 +71,7 @@ Access networks are connected to regional networks (ie Dayton) which are connect
   * Wired, wireless communication links.
   * We have so many parts of the local area network.
 
-![](<../../.gitbook/assets/image (238).png>)
+![](<../../.gitbook/assets/image (216).png>)
 
 
 
@@ -84,7 +84,7 @@ Access networks are connected to regional networks (ie Dayton) which are connect
 
 ### Cable Networks
 
-![](<../../.gitbook/assets/image (245).png>)
+![](<../../.gitbook/assets/image (217).png>)
 
 ### Hybrid Fiber Coax
 
@@ -93,7 +93,7 @@ Access networks are connected to regional networks (ie Dayton) which are connect
 
 ### Enterprise Networks
 
-![](<../../.gitbook/assets/image (242).png>)
+![](<../../.gitbook/assets/image (218).png>)
 
 * Institutional link to the ISP
 
@@ -109,11 +109,11 @@ Access networks are connected to regional networks (ie Dayton) which are connect
 
 * Routing algorithms try to find the shortest path from the source to the destination
 
-![](<../../.gitbook/assets/image (244).png>)
+![](<../../.gitbook/assets/image (219).png>)
 
 ### Circuit Switching
 
-![](<../../.gitbook/assets/image (240).png>)
+![](<../../.gitbook/assets/image (220).png>)
 
 * Commonly used in traditional telephone networks
 * End to end resources are reserved for the call between the source & destination
@@ -122,7 +122,7 @@ Access networks are connected to regional networks (ie Dayton) which are connect
 
 
 
-![](<../../.gitbook/assets/image (248).png>)
+![](<../../.gitbook/assets/image (221).png>)
 
 {% hint style="danger" %}
 What's the difference?
@@ -134,7 +134,7 @@ What's the difference?
 
 * We divide messages into packets.
 
-![](<../../.gitbook/assets/image (249).png>)
+![](<../../.gitbook/assets/image (222).png>)
 
 * **Transmission Delay**:&#x20;
 * **Store and forward**:&#x20;
@@ -145,7 +145,7 @@ What's the difference?
 What does the math, L, and R mean?&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/image (235).png>)
+![](<../../.gitbook/assets/image (223).png>)
 
 ## Team Quiz
 

@@ -2,7 +2,7 @@
 
 ## Instructor
 
-![Dr. Yao has two daughters.](../../.gitbook/assets/image%20%28224%29.png)
+![Dr. Yao has two daughters.](<../../.gitbook/assets/image (200).png>)
 
 * 2 Daughters
 * She likes running
@@ -17,12 +17,12 @@
 
 ## Overview
 
-| Dates | Topic | Reading |
-| :--- | :--- | :--- |
-| August 25 | Introduction & Assignment 1 | Chapter 1 |
-| September 15 | Application Layer | Chapter 2 |
+| Dates        | Topic                                  | Reading     |
+| ------------ | -------------------------------------- | ----------- |
+| August 25    | Introduction & Assignment 1            | Chapter 1   |
+| September 15 | Application Layer                      | Chapter 2   |
 | September 29 | _**Assignment 1, Chapters 1-2 Quiz.**_ | All Reading |
-|  |  |  |
+|              |                                        |             |
 
 ## Assignment 1
 
@@ -33,7 +33,7 @@
 * Open it and return a bunch of information.
 * Check if it's a _unique_ host or not. _**Make sure the host is unique!**_
 * Check if the IP Address is unique. _**Make sure it's unique!**_
-* Connect on robots. 
+* Connect on robots.&#x20;
 * Load the web page from the URL.
 
 
@@ -51,7 +51,7 @@
   * After we send this _GET_ request, you'll get a reply.
 * `RECV` function call receives data and stores it into a string.
   * You can parse the string and do some nice data analysis.
-  * 
+  *
 
 ### Part 3: Multithreading
 
@@ -70,8 +70,6 @@
 ## Works Cited
 
 [Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
-
-
 
 
 

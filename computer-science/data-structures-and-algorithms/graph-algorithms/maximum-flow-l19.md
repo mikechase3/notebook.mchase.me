@@ -2,7 +2,7 @@
 
 ## Flow Network Terminology
 
-![](<../../../.gitbook/assets/image (91).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 ### Definition
 

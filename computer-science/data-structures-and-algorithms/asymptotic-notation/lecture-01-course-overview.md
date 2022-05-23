@@ -16,10 +16,9 @@
 3. Scheduling
 4. Caching: _Servers each data to reduce the time & delay, but what should you cache?._
 5. Resource Allocation
-6. Teaches us how to solve new problems.
+6.  Teaches us how to solve new problems.
 
-   **Understanding Dynamic Programming**
-
+    **Understanding Dynamic Programming**
 7. Find solutions to smaller problems
 8. Save it somewhere.
 9. Increase the problem size by 1, but use the previous solution in your new solution.
@@ -44,11 +43,10 @@
 
 ## Further Practice
 
-1. Leetcode: _Median of Two Sorted Arrays_ \(Solveable only by divide/conquer.\)
+1. Leetcode: _Median of Two Sorted Arrays_ (Solveable only by divide/conquer.)
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
+| Title         | Content Used                   | Author           |
+| ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-

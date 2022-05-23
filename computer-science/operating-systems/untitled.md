@@ -2,11 +2,11 @@
 
 ## Processes in Memory
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](<../../.gitbook/assets/image (152).png>)
 
 * An operating system executes a variety of programs
   * Batch systems: **jobs**.
-  * Timer-shared systems: **user programs** or **tasks**. 
+  * Timer-shared systems: **user programs** or **tasks**.&#x20;
 * The textbook uses the terms job and process almost interchangeably.
 * **Process**: a program in its execution.
   * Current activity, including the _program counter_, processor registers.
@@ -20,26 +20,24 @@
 
 ## Process States
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](<../../.gitbook/assets/image (153).png>)
 
-| Process | Comment |
-| :--- | :--- |
-| new | The process is being created. |
-| running | Instructions are being executed. The CPU scheduler takes a process from the head of the ready queue to execute. Sometimes, there may be multiple ready queues. |
-| Waiting | The process is waiting for another event to occur. |
-| Ready | The process is waiting to be assigned to a processor |
-| Terminated | The process has finished execution. |
+| Process    | Comment                                                                                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| new        | The process is being created.                                                                                                                                  |
+| running    | Instructions are being executed. The CPU scheduler takes a process from the head of the ready queue to execute. Sometimes, there may be multiple ready queues. |
+| Waiting    | The process is waiting for another event to occur.                                                                                                             |
+| Ready      | The process is waiting to be assigned to a processor                                                                                                           |
+| Terminated | The process has finished execution.                                                                                                                            |
 
 ## Process Control Block PCB
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](<../../.gitbook/assets/image (154).png>)
 
 ### Process Scheduling
 
 * Process Scheduling
 * Job Queues
-
-
 
 
 
