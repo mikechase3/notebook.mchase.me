@@ -2,7 +2,7 @@
 
 ## Terminology
 
-![](<../../../../.gitbook/assets/image (593).png>)
+![](<../../../../.gitbook/assets/image (592).png>)
 
 * **Entity**: objects in the world with an _**independent existence**_. Distinguishable from other objects.
 * **Relationships**: are how things interact.
@@ -21,11 +21,11 @@
 
 Relationships are placed in diamonds.
 
-![](<../../../../.gitbook/assets/image (595).png>)
+![](<../../../../.gitbook/assets/image (594).png>)
 
 ## Roles
 
-![](<../../../../.gitbook/assets/image (597).png>)
+![](<../../../../.gitbook/assets/image (596).png>)
 
 * **Roles** tell you more about the relationship beyond what's in the diamond.
 * Roles are straightforward/obvious, except in **recursive relationships**.&#x20;

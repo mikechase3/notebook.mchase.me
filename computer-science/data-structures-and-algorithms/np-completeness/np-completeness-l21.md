@@ -12,7 +12,7 @@
 
 This expands out to cover NP:
 
-![](<../../../.gitbook/assets/image (110) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (110) (1) (1).png>)
 
 ### Polynomial Time (P)
 
@@ -221,7 +221,7 @@ I don't understand reductions or these definitions very well.
 
 #### Proof Your Own Algorithms Summary
 
-![Choose a problem and reduce it down to prove something is NP Complete](<../../../.gitbook/assets/image (118) (1) (1) (1) (1).png>)
+![Choose a problem and reduce it down to prove something is NP Complete](<../../../.gitbook/assets/image (118) (1) (1) (1).png>)
 
 * Cook proved (through a pain in the a\*\*) that the 3SAT problem is NP complete.
 * Now, you just have to pick your favorite problem, and reduce from any known problem (like 3SAT) to your problem that you're trying to prove is NP Hard.

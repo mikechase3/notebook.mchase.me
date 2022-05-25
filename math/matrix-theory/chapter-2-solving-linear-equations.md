@@ -11,7 +11,7 @@ Last Friday, we were talking about matrices and how to solve systems without hav
 
 ### Example: No Solution
 
-![](<../../.gitbook/assets/image (603).png>)
+![](<../../.gitbook/assets/image (604).png>)
 
 Notice:
 

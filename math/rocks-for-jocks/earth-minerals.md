@@ -34,7 +34,7 @@ Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 
 ![](<../../.gitbook/assets/image (617).png>)
 
-![](<../../.gitbook/assets/image (615).png>)
+![](<../../.gitbook/assets/image (616).png>)
 
 ## 6.6: Igneous Rock Classification
 

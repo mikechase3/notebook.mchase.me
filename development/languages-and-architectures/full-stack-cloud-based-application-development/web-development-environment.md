@@ -2,7 +2,7 @@
 
 ## Visual Studio
 
-![](<../../../.gitbook/assets/image (525).png>)
+![](<../../../.gitbook/assets/image (526).png>)
 
 ## Javascript in Chrome
 

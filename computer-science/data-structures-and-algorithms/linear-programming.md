@@ -270,7 +270,7 @@ The objective line is measured by the value of: $$z \text{ (which was defined to
 
 
 
-![](<../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1).png>)
+![](<../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2).png>)
 
 
 

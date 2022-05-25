@@ -91,7 +91,7 @@ Dr. Chen's Slides:
 * Python
 * Matlab
 
-![](<../../.gitbook/assets/image (195) (1) (1).png>)
+![](<../../.gitbook/assets/image (195) (1).png>)
 {% endtab %}
 
 {% tab title="Hybrid" %}
@@ -184,7 +184,7 @@ Dr. Chen's Slides:
 
 #### Examples
 
-![Recursively computing a factorial in Scheme](<../../.gitbook/assets/image (217) (1).png>)
+![Recursively computing a factorial in Scheme](<../../.gitbook/assets/image (217) (1) (1) (1).png>)
 
 * All expressions using scheme use prefix notation: `if( (= n 0)`  checks whether n is equal to zero or not.
   * If it's true, return 1. _We see it's really simple. It's just_ `1` _which eliminates so much syntax._

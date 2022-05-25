@@ -324,7 +324,7 @@ To solve, we'd do 0\*.71+1\*.18+2\*0.07...
 
 #### Ex
 
-![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.45.26@2x (1).jpg>)
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.45.26@2x.jpg>)
 
 
 

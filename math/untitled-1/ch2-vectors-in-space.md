@@ -6,7 +6,7 @@
 
 ## Formulas
 
-![](<../../.gitbook/assets/image (480).png>)
+![](<../../.gitbook/assets/image (479).png>)
 
 ## Key Concepts
 
@@ -36,7 +36,7 @@
 
 ### 2.4: The Cross Product
 
-![](<../../.gitbook/assets/image (482).png>)
+![](<../../.gitbook/assets/image (483).png>)
 
 ### 2.5: Equations of Lines and Planes in Space
 

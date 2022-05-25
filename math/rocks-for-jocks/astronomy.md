@@ -18,7 +18,7 @@
 
 ### Fission and Fusion
 
-![](<../../.gitbook/assets/image (538).png>)
+![](<../../.gitbook/assets/image (537).png>)
 
 ### Energy on Earth
 

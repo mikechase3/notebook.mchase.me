@@ -23,7 +23,7 @@
 
 #### 4.23 Approximation
 
-![](<../../.gitbook/assets/image (521).png>)
+![](<../../.gitbook/assets/image (522).png>)
 
 #### 4.30 Chain Rule
 

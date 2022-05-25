@@ -391,7 +391,8 @@
 ## 💊 Health and Fitness
 
 * [Darbee Fitness Guides](https://darebee.com/fitness.html)
-* [Healthy Eating](health-and-fitness/healthy-eating.md)
+* [Healthy Eating](health-and-fitness/healthy-eating/README.md)
+  * [Quick Meal Options](health-and-fitness/healthy-eating/quick-meal-options.md)
 * [Importance & Education](health-and-fitness/importance-and-education/README.md)
   * [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
 * [Metabolism & Nutrition](health-and-fitness/metabolism-and-nutrition/README.md)

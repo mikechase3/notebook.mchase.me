@@ -54,7 +54,7 @@
 
 ![](<../../../.gitbook/assets/image (399).png>)
 
-![](<../../../.gitbook/assets/image (46) (1) (1).png>)
+![](<../../../.gitbook/assets/image (46) (1).png>)
 
 ## Contact Information
 

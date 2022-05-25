@@ -14,7 +14,7 @@
 
 ## Areas Of Parallelograms
 
-![](<../../../../.gitbook/assets/image (277) (1).png>)
+![](<../../../../.gitbook/assets/image (277).png>)
 
 ## Determinant Formula for u x v
 

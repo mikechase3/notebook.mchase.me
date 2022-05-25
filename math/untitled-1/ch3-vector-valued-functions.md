@@ -14,7 +14,7 @@
 
 ### 3.2: Calculus of Vector-Valued Functions
 
-![](<../../.gitbook/assets/image (506).png>)
+![](<../../.gitbook/assets/image (507).png>)
 
 ### 3.3: Arc Length and Curvature
 

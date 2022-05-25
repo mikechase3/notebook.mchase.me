@@ -41,7 +41,7 @@ Common functions of interruptions:
 
 ## Computer System Operation
 
-![](<../../.gitbook/assets/image (132).png>)
+![](<../../.gitbook/assets/image (149).png>)
 
 ## Computer System Operation
 

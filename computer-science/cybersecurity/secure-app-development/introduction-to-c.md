@@ -8,7 +8,7 @@
 
 ## Languages and Direct Memory Access
 
-![](<../../../.gitbook/assets/image (376) (2).png>)
+![](<../../../.gitbook/assets/image (376) (1).png>)
 
 
 
