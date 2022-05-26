@@ -12,10 +12,6 @@ Dr. Chen's Slides:
 
 {% embed url="https://www.dropbox.com/sh/smje0varxy6m44l/AABjK5U9yL6tOn99Dj8mcjyla?dl=0" %}
 
-
-
-
-
 ## Concepts and Implementations of Languages
 
 * Office hours are by appointment only.
@@ -24,13 +20,11 @@ Dr. Chen's Slides:
 
 {% tabs %}
 {% tab title="Schedule" %}
-
-
 ![](<../../.gitbook/assets/image (402).png>)
 {% endtab %}
 
 {% tab title="Topics" %}
-### What we'll Study
+#### What we'll Study
 
 * Compiled vs. Interpreted Languages
   * What are the advantages/disadvantages?
@@ -52,8 +46,8 @@ Dr. Chen's Slides:
 * Functional Programming (Scheme)
 {% endtab %}
 
-{% tab title="Languages We'll Learn" %}
-### Languages We'll Learn
+{% tab title="Languages We" %}
+#### Languages We'll Learn
 
 1. Fortran 77
 2. C & C++
@@ -63,30 +57,28 @@ Dr. Chen's Slides:
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Languages Introduction
 
 ### Comparing Programming Languages
 
 {% tabs %}
 {% tab title="Pure" %}
-#### What is Pure Interpretation
+**What is Pure Interpretation**
 
 * The source code is run directly by an interpreter.
 
-#### Advantages
+**Advantages**
 
 * No translation is required before running
 * Easy debugging
 * Easy transplanting
 
-#### Disadvantages
+**Disadvantages**
 
 * More resource costly.
 * Slow Execution
 
-#### Examples
+**Examples**
 
 * Python
 * Matlab
@@ -95,23 +87,23 @@ Dr. Chen's Slides:
 {% endtab %}
 
 {% tab title="Hybrid" %}
-#### What is it?
+**What is it?**
 
 * A tradeoff between pure compiled languages and pure interpreted languages.
 * It uses a virtual machine.
 
-#### Advantages
+**Advantages**
 
 * Good efficiency.
 * Easy transplanting: _runs on different operating systems easily. Doesn't require recompiling._
 
-#### Disadvantages
+**Disadvantages**
 
 * More costly than pure compiled languages.
 * Debugging is slightly easier than compiled languages, but not as good as pure languages.
 * A translation to intermediate code is required before running.
 
-#### Examples
+**Examples**
 
 * Java
 * .NET languages
@@ -120,13 +112,13 @@ Dr. Chen's Slides:
 {% endtab %}
 
 {% tab title="Compiled" %}
-#### What are they?
+**What are they?**
 
-#### Advantages
+**Advantages**
 
-#### Disadvantages
+**Disadvantages**
 
-#### Examples
+**Examples**
 
 * C/C++
 {% endtab %}
@@ -136,97 +128,95 @@ Dr. Chen's Slides:
 
 {% tabs %}
 {% tab title="Procedual" %}
-#### Characteristics
+**Characteristics**
 
 * FORTRAN, Pascal, C.
 
-#### Advantages
+**Advantages**
 
-#### Disadvantages
+**Disadvantages**
 
-#### Examples
+**Examples**
 
 * FORTRAN, Pascal, C.
 {% endtab %}
 
 {% tab title="Object Oriented" %}
-#### Characteristics
+**Characteristics**
 
-#### Advantages
+**Advantages**
 
-#### Disadvantages
+**Disadvantages**
 
-#### Examples
+**Examples**
 
 * Smalltalk (Academia)
 * C++ / Java
 {% endtab %}
 
 {% tab title="Functional" %}
-#### Characteristics
+**Characteristics**
 
 * **Languages**: LISP, Scheme, Haskell, Racket (dialect of Scheme).
 * The design tries to minimize the syntax content _e.g. no main method, class keyword, virtual, static to make your program very simple and concise._
 * When you remove these, it makes your program harder to read.
-* Most of these programs look like math formulas but their definitions are (too) simple and concise.&#x20;
+* Most of these programs look like math formulas but their definitions are (too) simple and concise.
 
-#### Advantages
+**Advantages**
 
 * Less syntax.
 * Concise.
 
-#### Disadvantages
+**Disadvantages**
 
 * Everything looks like math formulas.
 * No english-looking language.
 * Hard to read.
 * Scheme is an exception, but loops are typically handled with recursions because in formal mathematics, loops are handled by recursion.
 
-#### Examples
+**Examples**
 
 ![Recursively computing a factorial in Scheme](<../../.gitbook/assets/image (217) (1) (1) (1).png>)
 
-* All expressions using scheme use prefix notation: `if( (= n 0)`  checks whether n is equal to zero or not.
+* All expressions using scheme use prefix notation: `if( (= n 0)` checks whether n is equal to zero or not.
   * If it's true, return 1. _We see it's really simple. It's just_ `1` _which eliminates so much syntax._
-  * The second line is the 'else' condition.&#x20;
-* In scheme, the nested structures use parenthesis.&#x20;
+  * The second line is the 'else' condition.
+* In scheme, the nested structures use parenthesis.
 {% endtab %}
 
 {% tab title="Logic" %}
-
-
-#### Characteristics
+**Characteristics**
 
 * All of the statements are logic formulas.
 * Languages: Prolog, ASP, CLP
 
-#### Advantages
+**Advantages**
 
 * Less syntax
 
-#### Disadvantages
+**Disadvantages**
 
 * Really only used in academia.
 
-#### Examples
+**Examples**
 
 ![](<../../.gitbook/assets/image (414).png>)
 
 * The first line is the base case.
 * The second line and indented lines describe the recursive call.
-* `F1` is like a return value.&#x20;
+* `F1` is like a return value.
 {% endtab %}
 
 {% tab title="Scripting or Domain-Specific" %}
-#### Characteristics
+**Characteristics**
 
-#### Advantages
+**Advantages**
 
-#### Disadvantages
+**Disadvantages**
 
-#### Examples
+**Examples**
 
-* JavaScript, PHP, Python, Flash.&#x20;
+* JavaScript, PHP, Python, Flash.
 {% endtab %}
 {% endtabs %}
 
@@ -236,7 +226,7 @@ Dr. Chen's Slides:
 * We can evaluate expressions so `+-` is an illegal operator.
 * We can also have programs throw errors, such that `int i = 3.0` is illegal without typecasting.
 * Parsers must recognize when `+` is used for concatenation or adding integers depending on the context.
-  * Different contexts have different roles.&#x20;
+  * Different contexts have different roles.
 * When do we pass by reference and when do we make copies?
 
 ## Syntax and Semantics
@@ -252,7 +242,7 @@ Dr. Chen's Slides:
   * We can put a `+/-` in front of an integer.
   * You can also use scientific notation in many languages.
   * The finite automata used to read these formats is included within the language.
-* **Keywords:**&#x20;
+* **Keywords:**
   * Easiest because there's not transitive/kleans closure.
   * There is only one word that you can define in a regular language.
 
@@ -294,4 +284,3 @@ If and only if a grammar is regular:
 ## Works Cited
 
 * [Chen, Xin. Concepts and Implementations of Programming Languages. Lecture 3](https://udayton.edu/directory/artssciences/computerscience/chen-xin.php)
-

@@ -4,12 +4,12 @@
 
 {% tabs %}
 {% tab title="Course goals" %}
-### Goals: You will have the ability to
+#### Goals: You will have the ability to
 
 1. Design, implement, and evaluate computer based components, systems, processes, or programs to meet desired needs and specifications.
 2. Apply, design, and develop principles in the construction of software systems of varying complexity.
 3. Effectively state of the art techniques and competing tools for analytics, design, and implementation of computing systems.
-4. Team assemble to undertake the common goal.&#x20;
+4. Team assemble to undertake the common goal.
 5. Analyze the local and the global impact of computing on individuals, organizations, and society.
 6. Communicate effectively to both technical and non-technical audiences.
 7. Analyze the local and the global impact of computing on individuals, organizations, and society.
@@ -17,7 +17,7 @@
 {% endtab %}
 
 {% tab title="Skills" %}
-### Software Developer Top Skills & Proficiency
+#### Software Developer Top Skills & Proficiency
 
 * Analysis
 * Programming
@@ -53,12 +53,12 @@ Left off on slide 12.
 
 * Waterfall Model
 * Assumes the project can be planned in advance and that the information system can be developed according to the plan.
-* Requirements are well understood and/or low technical risk.&#x20;
+* Requirements are well understood and/or low technical risk.
 
 ### Adaptive Approach to the SDLC
 
 * Iterative model (we will use this approach in capstone courses)
-* Assumes the project must be more flexible and adapt to changing needs.&#x20;
+* Assumes the project must be more flexible and adapt to changing needs.
 
 ## Agile and Iterative Development Approaches
 
@@ -68,7 +68,7 @@ Left off on slide 12.
 
 ### Agile Development
 
-An information system development process that emphasizes flexibility to anticipate new requirements during development.&#x20;
+An information system development process that emphasizes flexibility to anticipate new requirements during development.
 
 ### Iterative Development
 

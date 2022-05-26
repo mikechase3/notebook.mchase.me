@@ -23,17 +23,14 @@
 No idea what this is
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (377) (6) (6) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (6).png>)
 
 ![](<../../../../.gitbook/assets/image (377) (6) (6) (1) (2).png>)
 
 ### Note on Exercises
 
-* You don't have to draw the pictures on exercises 13-24.&#x20;
+* You don't have to draw the pictures on exercises 13-24.
 
 #### Example
 
 ![](<../../../../.gitbook/assets/image (346).png>)
-
-
-

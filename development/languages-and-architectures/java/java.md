@@ -2,7 +2,7 @@
 
 ## Overview
 
-The collections framework includes a standard set of methods that make remembering the syntax for functions a million times easier. Also, you don't have to implement simple things yourself which saves you time and line space.&#x20;
+The collections framework includes a standard set of methods that make remembering the syntax for functions a million times easier. Also, you don't have to implement simple things yourself which saves you time and line space.
 
 > From [Geeks for Geeks](https://www.geeksforgeeks.org/collections-in-java-2/#\_=\_):
 >
@@ -18,15 +18,13 @@ These functions are all available for any object extending collections:
 
 {% tabs %}
 {% tab title="Collection" %}
-#### [Iterable\<T>](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html)
+[**Iterable\<T>**](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html)
 
 Collection extends [iterable](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html), and the entire framework depends on it. It lets you iterate through collections and it returns the Iterator iterator();
 
-#### Collection
+**Collection**
 
 Collection is the interface which implements iterable. It contains the following methods. (For more information, see [Geeks for Geeks](https://www.geeksforgeeks.org/collections-in-java-2/#\_=\_), where I got this content).
-
-
 
 | METHOD                                                                                                     | DESCRIPTION                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -61,7 +59,7 @@ List <T> v = new Vector<> ();
 Where T is the type of the object
 ```
 
-## Array Lists
+### Array Lists
 
 It's like arrays, but they don't suck:
 
@@ -101,10 +99,9 @@ class GFG {
 			System.out.print(al.get(i) + " "); 
 	} 
 } 
-
 ```
 
-#### Output:
+**Output:**
 
 ```java
 [1, 2, 3, 4, 5]
@@ -112,9 +109,7 @@ class GFG {
 1 2 3 5
 ```
 
-### Linked Lists
-
-
+#### Linked Lists
 
 It implements a LinkedList data structure:
 
@@ -153,10 +148,9 @@ class GFG {
 			System.out.print(ll.get(i) + " "); 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 [1, 2, 3, 4, 5]
@@ -164,13 +158,13 @@ class GFG {
 1 2 3 5
 ```
 
-## Stacks
+### Stacks
 
-#### What is it?
+**What is it?**
 
-It's a stack, duh.&#x20;
+It's a stack, duh.
 
-#### Example
+**Example**
 
 ```java
 // Java program to demonstrate the 
@@ -209,10 +203,9 @@ public class GFG {
 		} 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 Geeks For Geeks Geeks 
@@ -223,15 +216,15 @@ Geeks For Geeks
 Stack is a subclass of Vector and a legacy class. It is thread safe which might be an overhead in an environment where thread safety is not needed. An alternate to Stack is to use [ArrayDequeue](https://www.geeksforgeeks.org/arraydeque-in-java/) which is not thread safe and faster array implementation.
 {% endhint %}
 
-## Vectors
+### Vectors
 
-#### What is it?
+**What is it?**
 
-I don't know. Nobody ever taught us about Vectors. One of my instructors said they're not important. That's probably not true or they wouldn't exist. And Stacks use them I guess; I'm sure it's efficient and important somewhere. But I don't know where yet.&#x20;
+I don't know. Nobody ever taught us about Vectors. One of my instructors said they're not important. That's probably not true or they wouldn't exist. And Stacks use them I guess; I'm sure it's efficient and important somewhere. But I don't know where yet.
 
-> &#x20;[**Vector:**](https://www.geeksforgeeks.org/java-util-vector-class-java/) A vector provides us with dynamic arrays in Java. Though, it may be slower than standard arrays but can be helpful in programs where lots of manipulation in the array is needed. This is identical to ArrayList in terms of implementation. However, the primary difference between a vector and an ArrayList is that a Vector is synchronized and an ArrayList is non-synchronized. Let’s understand the Vector with an example:
+> [**Vector:**](https://www.geeksforgeeks.org/java-util-vector-class-java/) A vector provides us with dynamic arrays in Java. Though, it may be slower than standard arrays but can be helpful in programs where lots of manipulation in the array is needed. This is identical to ArrayList in terms of implementation. However, the primary difference between a vector and an ArrayList is that a Vector is synchronized and an ArrayList is non-synchronized. Let’s understand the Vector with an example:
 
-#### How to use it:
+**How to use it:**
 
 ```java
 // Java program to demonstrate the 
@@ -268,10 +261,9 @@ class GFG {
 			System.out.print(v.get(i) + " "); 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 [1, 2, 3, 4, 5]
@@ -281,9 +273,9 @@ class GFG {
 {% endtab %}
 
 {% tab title="Queue/Deque" %}
-## Queue
+### Queue
 
-#### What is It?
+**What is It?**
 
 ```java
 Queue <T> q = new LinkedList<Integer>
@@ -292,7 +284,7 @@ Queue <T> ad = new ArrayDeque<> ();
 Where T is the type of the object.
 ```
 
-#### Priority Queues Example:
+**Priority Queues Example:**
 
 ```java
 // Java program to demonstrate the working of 
@@ -322,10 +314,9 @@ class GfG {
 		System.out.println(pQueue.peek()); 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 10
@@ -333,20 +324,20 @@ class GfG {
 15
 ```
 
-## Deque
+### Deque
 
-#### What is it?
+**What is it?**
 
-> &#x20;[**Deque Interface**](https://www.geeksforgeeks.org/deque-interface-java-example/)**:** This is a very slight variation of the [queue data structure](https://www.geeksforgeeks.org/queue-data-structure/). [Deque](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/), also known as a double-ended queue, is a data structure where we can add and remove the elements from both the ends of the queue. This interface extends the queue interface. The class which implements this interface is [ArrayDeque](https://www.geeksforgeeks.org/arraydeque-in-java/). Since this class implements the deque, we can instantiate a deque object with this class. For example,
+> [**Deque Interface**](https://www.geeksforgeeks.org/deque-interface-java-example/)**:** This is a very slight variation of the [queue data structure](https://www.geeksforgeeks.org/queue-data-structure/). [Deque](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/), also known as a double-ended queue, is a data structure where we can add and remove the elements from both the ends of the queue. This interface extends the queue interface. The class which implements this interface is [ArrayDeque](https://www.geeksforgeeks.org/arraydeque-in-java/). Since this class implements the deque, we can instantiate a deque object with this class. For example,
 
 ```java
 Deque<T> ad = new ArrayDeque<> ();
 Where T is the type of the object.
 ```
 
-#### ArrayDeque Example
+**ArrayDeque Example**
 
-> &#x20;[**ArrayDeque:**](https://www.geeksforgeeks.org/arraydeque-in-java/) ArrayDeque class which is implemented in the collection framework provides us with a way to apply resizable-array. This is a special kind of array that grows and allows users to add or remove an element from both sides of the queue. Array deques have no capacity restrictions and they grow as necessary to support usage. Lets understand ArrayDeque with an example:
+> [**ArrayDeque:**](https://www.geeksforgeeks.org/arraydeque-in-java/) ArrayDeque class which is implemented in the collection framework provides us with a way to apply resizable-array. This is a special kind of array that grows and allows users to add or remove an element from both sides of the queue. Array deques have no capacity restrictions and they grow as necessary to support usage. Lets understand ArrayDeque with an example:
 
 ```java
 // Java program to demonstrate the 
@@ -385,17 +376,14 @@ public class ArrayDequeDemo {
 		System.out.println(de_que); 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 [10, 20, 30, 40, 50]
 [291, 564, 24, 14]
 ```
-
-
 {% endtab %}
 
 {% tab title="Sets" %}
@@ -409,11 +397,11 @@ Set<T> ts = new TreeSet<> ();
 Where T is the type of the object.
 ```
 
-## HashSet
+### HashSet
 
-`HashSet`is the implementation of a hash table. It also lets you insert Null Elements.&#x20;
+`HashSet`is the implementation of a hash table. It also lets you insert Null Elements.
 
-#### Example
+**Example**
 
 ```java
 // Java program to demonstrate the 
@@ -440,10 +428,9 @@ public class HashSetDemo {
 		} 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 Very helpful
@@ -452,11 +439,11 @@ For
 Is
 ```
 
-## LinkedHashSet
+### LinkedHashSet
 
 This is a `HashSet`, but it uses a doubly linked list and **retains the ordering of the elements.** It still won't accept duplicates though.
 
-#### Example
+**Example**
 
 ```java
 // Java program to demonstrate the 
@@ -484,10 +471,9 @@ public class LinkedHashSetDemo {
 		} 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 Geeks
@@ -496,19 +482,17 @@ Is
 Very helpful
 ```
 
-
-
-## TreeSet
+### TreeSet
 
 {% hint style="info" %}
 TreeSet is actually under the sorted set interface.
 {% endhint %}
 
-#### What is it?
+**What is it?**
 
 It's like the set interface, but for trees. Therefore, you can use some more methods that handle the ordering and the data that goes in. Probably for like BinarySearch but I don't know that for sure... yet.
 
-> &#x20;[**TreeSet:**](https://www.geeksforgeeks.org/treeset-in-java-with-examples/) The TreeSet class uses a Tree for storage. The ordering of the elements is maintained by a set using their natural ordering whether or not an explicit comparator is provided. This must be consistent with equals if it is to correctly implement the Set interface. It can also be ordered by a Comparator provided at set creation time, depending on which constructor is used. Let’s understand TreeSet with an example:
+> [**TreeSet:**](https://www.geeksforgeeks.org/treeset-in-java-with-examples/) The TreeSet class uses a Tree for storage. The ordering of the elements is maintained by a set using their natural ordering whether or not an explicit comparator is provided. This must be consistent with equals if it is to correctly implement the Set interface. It can also be ordered by a Comparator provided at set creation time, depending on which constructor is used. Let’s understand TreeSet with an example:
 
 ```java
 // Java program to demonstrate the 
@@ -536,10 +520,9 @@ public class TreeSetDemo {
 		} 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```java
 For
@@ -550,9 +533,9 @@ Very helpful
 {% endtab %}
 
 {% tab title="Map" %}
-#### What is it?
+**What is it?**
 
-You know, I wish somebody would've taught me to use these interfaces. I learned about `ArrayLists` in my java classes, but nobody ever taught me how to use Map Interfaces in Java.&#x20;
+You know, I wish somebody would've taught me to use these interfaces. I learned about `ArrayLists` in my java classes, but nobody ever taught me how to use Map Interfaces in Java.
 
 I know how to implement one. That's what we do in data structures, but you know... unless I end up at Facebook or Google or somewhere where there's a million data points I'll just use standard libraries and collections.
 
@@ -563,9 +546,9 @@ Map<T> sm = new SortedMap<> ();
 Where T is the type of the object.
 ```
 
-## HashMap
+### HashMap
 
-#### Example
+**Example**
 
 ```java
 // Java program to demonstrate the 
@@ -592,10 +575,9 @@ public class HashMapDemo {
 			System.out.println(e.getKey() + " " + e.getValue()); 
 	} 
 } 
-
 ```
 
-#### Output
+**Output**
 
 ```
 Value for 1 is Geeks
@@ -606,13 +588,11 @@ Value for 1 is Geeks
 {% endtab %}
 {% endtabs %}
 
-So now you know that these interfaces exist! If you actually want to actually get good at them,&#x20;
+So now you know that these interfaces exist! If you actually want to actually get good at them,
 
 ## Further Reading
 
 This is copied and pasted from Geeks For Geeks, the same resource I used (too much) to put a couple of reminders in my notes.
-
-
 
 #### What You Should Learn in Java Collections?
 

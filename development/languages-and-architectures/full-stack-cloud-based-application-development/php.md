@@ -2,7 +2,7 @@
 
 ## Resources
 
-Help me.&#x20;
+Help me.
 
 ## Related Tools
 
@@ -21,8 +21,6 @@ PHP contains built-in functionality for interacting with web data, _Vanilla PHP_
 ## Getting Started
 
 {% embed url="https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet" %}
-
-
 
 ### Terminal
 
@@ -45,7 +43,7 @@ Escape Sequences
 
 ### Concatenation
 
-&#x20;Let’s see an example of string concatenation:
+Let’s see an example of string concatenation:
 
 ```
 echo "one" . "two"; // Prints: onetwo
@@ -65,15 +63,11 @@ $full_name .= " Nevertell";
 echo $full_name; // Prints: Aisle Nevertell
 ```
 
-
-
 ## Variables
 
 {% embed url="https://www.codecademy.com/learn/learn-php/modules/learn-php-variables/cheatsheet" %}
 
-
-
-One common convention when naming PHP variables is to use an underscore between words on variable names with more than one word in their name. This is known as ** **_**snake case**_**:**
+One common convention when naming PHP variables is to use an underscore between words on variable names with more than one word in their name. This is known as \*\* **\_**snake case**\_**:\*\*
 
 ![](<../../../.gitbook/assets/image (458).png>)
 
@@ -99,7 +93,7 @@ echo "I have a ${color}ish dog named $dog_name and her favorite food is ${favori
 // Prints: I have a brownish dog named Tadpole and her favorite food is treats.
 ```
 
-&#x20;PHP allows us to **specifically indicate the variable name by wrapping it in curly braces** to avoid any confusion. We’ll include the dollar sign followed by the variable name wrapped in curly braces:
+PHP allows us to **specifically indicate the variable name by wrapping it in curly braces** to avoid any confusion. We’ll include the dollar sign followed by the variable name wrapped in curly braces:
 
 ```php
 $dog_name = "Tadpole";
@@ -110,11 +104,8 @@ echo "I have a ${color}ish dog named $dog_name and her favorite food is ${favori
 // Prints: I have a brownish dog named Tadpole and her favorite food is treats.
 ```
 
-
-
 ## Misc
 
 Escape Sequences:
 
 {% embed url="https://www.php.net/manual/en/language.types.string.php#language.types.string.syntax.double" %}
-
