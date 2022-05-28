@@ -297,6 +297,7 @@
   * [Unity (Game Dev Class)](development/game-development/unity-game-dev-class/README.md)
     * [Unity Docs](https://docs.unity3d.com/Manual/)
   * [Dropbox LAN Sync How it Works](https://dropbox.tech/infrastructure/inside-lan-sync)
+  * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
 * [Languages](development/languages-and-architectures/README.md)
   * [Bash](development/languages-and-architectures/bash.md)
   * [C](development/languages-and-architectures/c.md)
