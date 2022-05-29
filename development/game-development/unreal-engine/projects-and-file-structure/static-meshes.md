@@ -96,7 +96,7 @@ There is more information in 15:00, but it was too specific for what I need.
 
 ## Limiting Overdraw
 
-![](<../../../../.gitbook/assets/image (159) (1).png>)
+![](<../../../../.gitbook/assets/image (162).png>)
 
 * By manipulating the shape of your plane, you can eliminate unneeded calculations.
 * Remove some vertices so you don't have to render a ton more pixels.
