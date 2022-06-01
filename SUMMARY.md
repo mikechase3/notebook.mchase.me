@@ -64,21 +64,18 @@
   * [Charisma on Command](https://www.charismaoncommand.com/)
 * [Salary Negotiation](career/salary-negotiation.md)
 
-## Charism
-
-* [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY\&t=2410s)
-* [One-Liners](charism/one-liners/README.md)
-  * [Breakups and Rejections](charism/one-liners/breakups-and-rejections.md)
-* [Normalness](charism/quirkiness.md)
-* [Placebo](charism/placebo.md)
-* [Uncertainty](charism/how-to-make-your-own-luck-or-freakonomics-424.md)
-
 ## Communications
 
 * [Charism](communications/charism/README.md)
   * [Breaking Up Gracefully](communications/charism/breaking-up-gracefully.md)
   * [Charisma on Command](https://www.youtube.com/c/Charismaoncommand)
   * [Handling Stress](communications/charism/handling-stress.md)
+  * [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY\&t=2410s)
+  * [Normalness](communications/charism/quirkiness.md)
+  * [One-Liners](communications/charism/one-liners/README.md)
+    * [Breakups and Rejections](communications/charism/one-liners/breakups-and-rejections.md)
+  * [Placebo](communications/charism/placebo.md)
+  * [Uncertainty](communications/charism/how-to-make-your-own-luck-or-freakonomics-424.md)
 * [Communication Management](communications/communication-management/README.md)
   * [Interviewing](communications/communication-management/interviewing/README.md)
     * [Best Practices](communications/communication-management/interviewing/best-practices.md)
