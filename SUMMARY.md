@@ -7,6 +7,7 @@
 
 ## Automotive
 
+* [Car Salesmen](automotive/car-salesmen.md)
 * [Engine Cutting](automotive/engine-cutting.md)
 * [Privacy Concerns](automotive/privacy-concerns/README.md)
   * [Disabling Telemetrics](automotive/privacy-concerns/disabling-telemetrics.md)
