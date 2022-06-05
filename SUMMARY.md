@@ -29,9 +29,12 @@
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
+* [Business Planning](business/business-planning/README.md)
+  * [Small Biz Template](https://www.score.org/resource/business-plan-template-startup-business)
 * [Risk Management](business/risk-management.md)
 * [Role Models](business/role-models/README.md)
-  * [Elon Musk](business/role-models/elon-musk.md)
+  * [Elon Musk](business/role-models/elon-musk/README.md)
+    * [On Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
   * [Gen Z Best Email Signatures](https://vm.tiktok.com/ZTd9PXJBG/)
@@ -125,6 +128,8 @@
   * [\[VNC\] Jump Desktop](https://jumpdesktop.com/go)
   * [\[Web IDE\] Replit](https://replit.com/\~)
   * [Visual Studio](computer-help/misc-software/visual-studio.md)
+* [Tools](computer-help/tools/README.md)
+  * [VirusTotal Sus File Scanner](https://www.virustotal.com/gui/home/upload)
 * [Ubuntu](computer-help/ubuntu/README.md)
   * [CAC Configuration](computer-help/ubuntu/cac-configuration/README.md)
     * [Ubuntu CAC Docs](https://help.ubuntu.com/community/CommonAccessCard)
