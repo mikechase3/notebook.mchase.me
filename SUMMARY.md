@@ -33,7 +33,7 @@
   * [Small Biz Template](https://www.score.org/resource/business-plan-template-startup-business)
 * [Risk Management](business/risk-management.md)
 * [Role Models](business/role-models/README.md)
-  * [Elon Musk](business/role-models/elon-musk/README.md)
+  * [Elon Musk](business/role-models/elon-musk.md)
     * [On Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
@@ -115,6 +115,7 @@
 
 ## ⌨ Computer Help
 
+* [iOS](computer-help/ios.md)
 * [Mac OS](computer-help/mac-os/README.md)
   * [Security and Kernel Setup](computer-help/mac-os/security-and-kernel-setup/README.md)
     * [On Legacy Kernel Extensions](https://www.apriorit.com/dev-blog/430-macos-kext-development)
@@ -407,7 +408,6 @@
   * [Meal Prepping](health-and-fitness/healthy-eating/meal-prepping/README.md)
     * [Getting Started](https://www.budgetbytes.com/meal-prep-101-a-beginners-guide/)
   * [Foods To Avoid](https://www.cnbc.com/2022/05/14/harvard-nutritionist-and-brain-expert-avoids-these-foods-that-make-you-tired-and-stressed.html)
-* [Page 3](health-and-fitness/page-3.md)
 * [Importance & Education](health-and-fitness/importance-and-education/README.md)
   * [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
 * [Metabolism & Nutrition](health-and-fitness/metabolism-and-nutrition/README.md)
