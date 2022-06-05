@@ -362,7 +362,9 @@
       * [Bucky Tkinter](https://www.youtube.com/watch?v=RJB1Ek2Ko\_Y\&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB\_d)
       * [StdLib Docs](https://docs.python.org/3/library/tkinter.html)
       * [Tkinter Code Samples](https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E)
+      * [Art of Doing](https://github.com/PacktPublishing/The-Art-of-Doing-Create-10-Python-GUIs-with-Tkinter-Today)
       * [Page 4](development/languages-and-architectures/python/tkinter/page-4.md)
+      * [Page 6](development/languages-and-architectures/python/tkinter/page-6.md)
   * [Racket](development/languages-and-architectures/scheme.md)
   * [R](development/languages-and-architectures/r.md)
   * [JSON Data Interchange Std](development/languages-and-architectures/json-data-interchange-std.md)
@@ -558,6 +560,7 @@
 
 * [Breaking Up Hard Tasks](principles-and-values/breaking-up-hard-tasks.md)
 * [Casting Judgement](principles-and-values/casting-judgement.md)
+* [Complacency](principles-and-values/complacency.md)
 * [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
 * [Dating](principles-and-values/dating.md)
 * [Discipline](principles-and-values/discipline.md)
