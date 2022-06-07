@@ -141,6 +141,9 @@
   * [GUIs](computer-help/ubuntu/guis/README.md)
     * [Overview (Start Here)](https://www.youtube.com/watch?v=UUcEr2BjWHI)
     * [Customizing Gnome Desktop Env](computer-help/ubuntu/guis/customizing-gnome-desktop-env.md)
+* [Windows](computer-help/windows/README.md)
+  * [Workstation Standard Libary](computer-help/windows/workstation-standard-libary/README.md)
+    * [Better-Cursors](http://www.michieldb.nl/other/cursors/)
 * [Workstation Standards](computer-help/workstation-standards.md)
 
 ## 💾 Computer Science
@@ -618,8 +621,9 @@
   * [Inferkit](https://app.inferkit.com/generate)
   * [Ulysses Shortcuts Integrations](https://help.ulysses.app/integrations/shortcuts)
 * [Writing Samples](writing/writing-samples/README.md)
-  * [Looking Back on my Year that was 2021](writing/writing-samples/looking-back-on-my-year-that-was-2021/README.md)
+  * [2021](writing/writing-samples/looking-back-on-my-year-that-was-2021/README.md)
     * [Why We Fight: Wartime Propaganda and its Application Today](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-we-fight.md)
+    * [2021 Search Trends](https://trends.google.com/trends/yis/2021/US/)
   * [2022](writing/writing-samples/2022/README.md)
     * [Reflection Papers](writing/writing-samples/2022/reflection-papers/README.md)
       * [Page 5](writing/writing-samples/2022/reflection-papers/page-5.md)
