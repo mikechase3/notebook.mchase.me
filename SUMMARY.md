@@ -24,7 +24,11 @@
 
 ## 📺 AV
 
+* [Audio Production Classnotes](https://www.dropbox.com/sh/qjkcjn6an6akj9k/AABVfe6E-sZb8PDw\_RDdKmxNa?dl=0)
+* [Page 3](av/page-3.md)
 * [Projector Central](https://www.projectorcentral.com/)
+* [Photography Basics](av/photography-basics.md)
+* [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
 * [Page 7](av/page-7.md)
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
@@ -112,6 +116,7 @@
 * [Media Production](communications/media-production/README.md)
   * [Documentary Filmmaking](communications/media-production/documentary-filmmaking/README.md)
     * [Inspirational Techniques](communications/media-production/documentary-filmmaking/inspirational-techniques.md)
+* [Public Speaking](communications/public-speaking.md)
 
 ## ⌨ Computer Help
 
@@ -425,11 +430,13 @@
 * [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
 * [Dream House](house/dream-house/README.md)
   * [2022 Overstock Ideas](https://www.overstock.com/profile/OstkUser5482145/3527d5e5967a4d5995d9d9456fc3bf3b/lists/1327788571/items)
-* [Glue Cleaning Recipe](house/glue-cleaning-recipe.md)
 * [Maintaining Household Appliances](house/maintaining-household-appliances.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
+* [Chemistry](math/chemistry/README.md)
+  * [Glue Cleaning Recipe](math/chemistry/glue-cleaning-recipe.md)
+  * [Handwritten Notes](https://www.dropbox.com/sh/sjsr5ypsi4roijy/AACe33SIXiU3HlENzVfZ4QxRa?dl=0)
 * [Calc 3](math/untitled-1/README.md)
   * [CH2: Vectors in Space](math/untitled-1/ch2-vectors-in-space.md)
   * [CH3: Vector valued Functions](math/untitled-1/ch3-vector-valued-functions.md)
@@ -582,6 +589,7 @@
 ## Social Sciences
 
 * [Anthropology](social-sciences/anthropology/README.md)
+  * [Written Notes](https://www.dropbox.com/sh/0c4foh039qgufzo/AAB7z5\_Cmm\_Zlv6bo\_R4jkz5a?dl=0)
   * [Lecture 01: What is Anthropology](social-sciences/anthropology/lecture-01-what-is-anthropology.md)
   * [Lecture 02: Physical Anthropology](social-sciences/anthropology/lecture-02-physical-anthropology.md)
   * [Interlude: First Steps Video](social-sciences/anthropology/interlude-first-steps-video.md)
