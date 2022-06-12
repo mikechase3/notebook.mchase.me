@@ -2,8 +2,8 @@
 
 * [Mike Chase's Notebook](README.md)
 * [TOC (Decomissioned)](tableOfContentsDECOMISSIONED.md)
-* [Inbox](inbox.md)
 * [Backlog](backlog.md)
+* [Inbox](inbox.md)
 
 ## Automotive
 
@@ -220,6 +220,10 @@
     * [NP Completeness (L21)](computer-science/data-structures-and-algorithms/np-completeness/np-completeness-l21.md)
     * [NP Reductions and Applications (L22)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
   * [Base CS Podcast](https://www.codenewbie.org/basecs)
+* [Electrical/Hardware Topics](computer-science/electrical-hardware-topics/README.md)
+  * [FPGAs](computer-science/electrical-hardware-topics/fpgas.md)
+  * [MIPS](computer-science/electrical-hardware-topics/mips.md)
+  * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable\_gate\_array)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
