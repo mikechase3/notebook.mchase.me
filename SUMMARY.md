@@ -85,6 +85,7 @@
   * [Placebo](communications/charism/placebo.md)
   * [Uncertainty](communications/charism/how-to-make-your-own-luck-or-freakonomics-424.md)
 * [Communication Management](communications/communication-management/README.md)
+  * [Decision Making](communications/communication-management/decision-making.md)
   * [Interviewing](communications/communication-management/interviewing/README.md)
     * [Best Practices](communications/communication-management/interviewing/best-practices.md)
     * [Types of Interviews](communications/communication-management/interviewing/types-of-interviews.md)
