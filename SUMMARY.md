@@ -392,6 +392,8 @@
 * [Microelectronics](development/microelectronics/README.md)
   * [High Quality Projects](development/microelectronics/high-quality-projects/README.md)
     * [BelenaHub](https://hub.balena.io/projects)
+  * [Sensors](development/microelectronics/sensors/README.md)
+    * [Photospectrometers and Colorimeters](https://www.linquip.com/blog/difference-between-colorimeter-and-spectrophotometer/)
 * [Web Apps](development/web-apps/README.md)
   * [Django Basics](development/web-apps/django-basics.md)
 * [Utilities](development/utilities/README.md)
