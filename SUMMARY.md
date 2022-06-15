@@ -121,7 +121,9 @@
 
 ## ⌨ Computer Help
 
-* [iOS](computer-help/ios.md)
+* [iOS](computer-help/ios/README.md)
+  * [List: iOS Phone Applications](computer-help/ios/list-ios-phone-applications.md)
+  * [List iOS Tablet Applications](computer-help/ios/list-ios-tablet-applications.md)
 * [Mac OS](computer-help/mac-os/README.md)
   * [Security and Kernel Setup](computer-help/mac-os/security-and-kernel-setup/README.md)
     * [On Legacy Kernel Extensions](https://www.apriorit.com/dev-blog/430-macos-kext-development)
