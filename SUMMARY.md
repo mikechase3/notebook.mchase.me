@@ -518,6 +518,7 @@
   * [Principle Component Analysis](math/matrix-theory/principle-component-analysis.md)
   * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE\_ab)
 * [Lit Solution](https://www.litsolutions.org/)
+* [Propositional Logic Cheat Sheet](https://sites.pitt.edu/\~woon/courses/ps2703\_logic.pdf)
 * [Statistics with R](math/statistics-with-r/README.md)
   * [R Programming Videos](https://learning.oreilly.com/videos/r-programming/9780134427218/)
   * [R Cheat Sheet (Class)](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
