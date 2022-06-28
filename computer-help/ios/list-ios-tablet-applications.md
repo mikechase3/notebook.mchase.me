@@ -1,6 +1,10 @@
 # List iOS Tablet Applications
 
-##
+## iOS Tablet Layout
+
+Click the link below for config details:
+
+{% embed url="https://gitlab.com/MikeChase/research/notebook/-/issues/1" %}
 
 ## Lost Hamlet Monologue
 

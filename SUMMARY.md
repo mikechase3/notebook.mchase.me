@@ -152,7 +152,7 @@
 * [Windows](computer-help/windows/README.md)
   * [Workstation Standard Libary](computer-help/windows/workstation-standard-libary/README.md)
     * [Better-Cursors](http://www.michieldb.nl/other/cursors/)
-* [Workstation Standards](computer-help/workstation-standards.md)
+* [Mac Workstation Standards](computer-help/workstation-standards.md)
 
 ## 💾 Computer Science
 
