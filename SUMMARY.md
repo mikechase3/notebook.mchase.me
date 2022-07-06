@@ -44,7 +44,9 @@
   * [Gen Z Best Email Signatures](https://vm.tiktok.com/ZTd9PXJBG/)
 * [Seven Habits](business/seven-habits.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
+* [Spaces](business/spaces.md)
 * [Speed of Trust](https://www.speedoftrust.com/)
+* [VC](https://hbr.org/1998/11/how-venture-capital-works)
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
