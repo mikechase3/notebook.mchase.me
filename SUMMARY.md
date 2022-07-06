@@ -35,6 +35,8 @@
 
 * [Business Planning](business/business-planning/README.md)
   * [Small Biz Template](https://www.score.org/resource/business-plan-template-startup-business)
+* [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
+* [Greene How to Apply Laws](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
 * [Risk Management](business/risk-management.md)
 * [Role Models](business/role-models/README.md)
   * [Elon Musk](business/role-models/elon-musk.md)
