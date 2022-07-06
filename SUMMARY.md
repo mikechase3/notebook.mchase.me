@@ -416,6 +416,7 @@
 ## Finance
 
 * [Cryptocurrency Taxes](finance/cryptocurrency-taxes.md)
+* [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 * [Stocks](finance/stocks.md)
 
 ## 💊 Health and Fitness
