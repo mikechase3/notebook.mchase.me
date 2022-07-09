@@ -28,8 +28,9 @@
 * [Page 3](av/page-3.md)
 * [Projector Central](https://www.projectorcentral.com/)
 * [Photography Basics](av/photography-basics.md)
+* [Video Editing](av/page-7/README.md)
+  * [Hermet LTT Video Editor Tutorial](https://www.youtube.com/watch?v=O6ERELse\_QY)
 * [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
-* [Page 7](av/page-7.md)
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
