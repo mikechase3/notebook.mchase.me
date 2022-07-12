@@ -25,7 +25,7 @@
 ## 📺 AV
 
 * [Audio Production Classnotes](https://www.dropbox.com/sh/qjkcjn6an6akj9k/AABVfe6E-sZb8PDw\_RDdKmxNa?dl=0)
-* [Page 3](av/page-3.md)
+* [Audio Life Experience](av/audio-life-experience.md)
 * [Projector Central](https://www.projectorcentral.com/)
 * [Photography Basics](av/photography-basics.md)
 * [Video Editing](av/page-7/README.md)
