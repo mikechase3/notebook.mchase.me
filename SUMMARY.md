@@ -25,9 +25,9 @@
 ## 📺 AV
 
 * [Audio Production Classnotes](https://www.dropbox.com/sh/qjkcjn6an6akj9k/AABVfe6E-sZb8PDw\_RDdKmxNa?dl=0)
-* [Audio Life Experience](av/audio-life-experience.md)
 * [Projector Central](https://www.projectorcentral.com/)
 * [Photography Basics](av/photography-basics.md)
+* [Music Production](av/music-production.md)
 * [Video Editing](av/page-7/README.md)
   * [Hermet LTT Video Editor Tutorial](https://www.youtube.com/watch?v=O6ERELse\_QY)
 * [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
