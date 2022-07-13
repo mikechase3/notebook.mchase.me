@@ -25,8 +25,10 @@
 ## 📺 AV
 
 * [Audio Production Classnotes](https://www.dropbox.com/sh/qjkcjn6an6akj9k/AABVfe6E-sZb8PDw\_RDdKmxNa?dl=0)
+* [Equipment](av/equipment.md)
 * [Projector Central](https://www.projectorcentral.com/)
 * [Photography Basics](av/photography-basics.md)
+* [Making Connections](http://artsites.ucsc.edu/EMS/music/tech\_background/TE-15/teces\_15.html)
 * [Music Production](av/music-production.md)
 * [Video Editing](av/page-7/README.md)
   * [Hermet LTT Video Editor Tutorial](https://www.youtube.com/watch?v=O6ERELse\_QY)
