@@ -641,6 +641,8 @@
 * [Ideation](writing/ideation.md)
 * [Introductions](writing/the-introduction.md)
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
+* [Organizational Models](writing/organizational-models/README.md)
+  * [Paragraph Org Models](https://www.ursinus.edu/live/files/1157-five-organizational-modelspdf)
 * [Style Guides](writing/style-guides/README.md)
   * [MLA Detailed Cheat Sheet](writing/style-guides/mla-detailed-cheat-sheet.md)
   * [MLA Poster](https://owl.purdue.edu/owl/research\_and\_citation/mla\_style/mla\_formatting\_and\_style\_guide/20211015MLA9Poster.jpg)
