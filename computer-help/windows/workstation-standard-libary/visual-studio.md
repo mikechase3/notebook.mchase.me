@@ -2,13 +2,11 @@
 
 {% embed url="https://learning.oreilly.com/library/view/visual-studio-code/9781119588184/f01.xhtml" %}
 
-
-
 ## Layout
 
 ### Activity Bar
 
-The activity bar is on the left. From top to bottom, here’s how it’s laid out:&#x20;
+The activity bar is on the left. From top to bottom, here’s how it’s laid out:
 
 * File explorer
 * Search (for files?)
@@ -32,7 +30,7 @@ On the left side:
   * Clicking on this lets you change branches.
 * Circular arrows help you sync changes.
 * Errors/Warnings and the number tells you how many there are.
-* `Go`: What language.&#x20;
+* `Go`: What language.
 * `1.13.4`: Version number.
 
 On the right side:
@@ -65,17 +63,15 @@ On the right side:
 * Displays the output. The dropdown tells you where the output is coming from.
 * _Clear_: is the weird x and ciouple lines. Clears your output.
 * _Lock_: Freezes your scroll point.
-* `^` isn’t available for everything, but clicking it will take you to a physical logfile.&#x20;
+* `^` isn’t available for everything, but clicking it will take you to a physical logfile.
 
 ### Debug Console
 
-* You can filter using _globs_ which are like regular expressions, but slightly different.&#x20;
+* You can filter using _globs_ which are like regular expressions, but slightly different.
   * Click the _gear_ to change what will be shown/excluded
   * For example, you’ll probably want to exclude git results.
   * Changing the debug console happens across a project, not file.
 * Search ’globs’ or lookup table 2.1 in the book to see wildcard descriptions.
-
-
 
 | WILDCARD | DESCRIPTION                                                                                                           |
 | -------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -85,4 +81,3 @@ On the right side:
 | \[a–z]   | Matches any one of the range of characters specified in the brackets.                                                 |
 | \[0–9]   | Matches any one of the numeric characters specified in the brackets.                                                  |
 | \*\*     | Matches zero or more path segments.                                                                                   |
-

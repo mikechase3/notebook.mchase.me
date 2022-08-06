@@ -120,8 +120,7 @@
     * [Propaganda of Empire](communications/journalism/propaganda/propaganda-of-empire.md)
     * [Hollywood Cinema](communications/journalism/propaganda/hollywood-cinema.md)
     * [Midterm](communications/journalism/propaganda/midterm.md)
-* [Marketing](communications/programiz-how-we-use-psychology-to-market-our-products/README.md)
-  * [Color Theory](communications/programiz-how-we-use-psychology-to-market-our-products/colors-and-marketing.md)
+* [Marketing](communications/programiz-how-we-use-psychology-to-market-our-products.md)
 * [Media Production](communications/media-production/README.md)
   * [Documentary Filmmaking](communications/media-production/documentary-filmmaking/README.md)
     * [Inspirational Techniques](communications/media-production/documentary-filmmaking/inspirational-techniques.md)
@@ -160,6 +159,8 @@
     * [Better-Cursors](http://www.michieldb.nl/other/cursors/)
     * [DOD CAs & PKIE Tools](https://public.cyber.mil/pki-pke/tools-configuration-files/)
     * [Visual Studio](computer-help/windows/workstation-standard-libary/visual-studio.md)
+  * [Stupid](computer-help/windows/stupid/README.md)
+    * [Internet Explorer](https://lagplorer.tms.sx/?27y)
 
 ## 💾 Computer Science
 
@@ -293,6 +294,9 @@
   * [iOS and Swift](development/apples-ecosystem/ios-and-swift/README.md)
     * [The Swift Language Programming Guide](development/apples-ecosystem/ios-and-swift/the-swift-language-programming-guide.md)
     * [Swift Cheat Sheet](development/apples-ecosystem/ios-and-swift/swift-cheat-sheet-1.md)
+* [Design](development/design/README.md)
+  * [Color Theory](development/design/colors-and-marketing.md)
+  * [Grids](https://www.reddit.com/r/graphic\_design/comments/wftzdn/little\_video\_i\_made\_about\_grids/)
 * [Game Development](development/game-development/README.md)
   * [Blender (3D Modeling)](development/game-development/blender-3d-modeling/README.md)
     * [Doughnut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw\&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
