@@ -648,7 +648,7 @@
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
 * [Organizational Models](writing/organizational-models/README.md)
   * [Paragraph Org Models](https://www.ursinus.edu/live/files/1157-five-organizational-modelspdf)
-  * [Accomplishment-Impact Bullets](writing/organizational-models/accomplishment-impact-bullets.md)
+  * [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
   * [WWW & EBF](writing/organizational-models/www-and-ebf.md)
 * [Style Guides](writing/style-guides/README.md)
   * [MLA Detailed Cheat Sheet](writing/style-guides/mla-detailed-cheat-sheet.md)
