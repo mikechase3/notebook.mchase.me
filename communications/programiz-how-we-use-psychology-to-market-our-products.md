@@ -12,33 +12,31 @@ Be sure to read the full article [here](https://www.programiz.com/blog/use-psych
 
 ## The Framing Effect
 
-| Term/Strategy                                 | Comment                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data-Driven Process for Campaign Development. | Brainstorm -> Prototype -> Vote -> AB Testing                                                                                                                                                                                                                                                                                                                                                                                          |
-| CTR                                           | Click through rate. How often people stopped scrolling to click the link on ads.                                                                                                                                                                                                                                                                                                                                                       |
-| CPC                                           | Cost per click rate.                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| The Framing Effect                            | "People make decisions based on whether a situation is a gain or loss scenario for them"                                                                                                                                                                                                                                                                                                                                               |
-| Positive Framing                              | <p>Set a scenario where the recipient can potentially gain from the situation. </p><p></p><ol><li>"Be a python Guru with Programiz."</li><li>"Start a brilliant python career."</li><li><p>"Starting out coding? Programiz makes every concept easier to understand."</p><p></p><p><img src="../../.gitbook/assets/image (46).png" alt="" data-size="original"></p></li></ol>                                                          |
-| Negative Framing                              | <p>We set a scenario to be a loss situation for the recipient if they fail to comply with the message:<br></p><ol><li>Tired of boring coding lessons? Learn Python: Programiz makes learning fun.</li><li><p>Tired of trying out different Python apps? The definitive Python app is here.</p><p></p><p><img src="../../.gitbook/assets/image (45).png" alt=""></p></li></ol>                                                          |
-| Statistical Framing                           | <p>Use statistics to set a scenario to be a gain situation. Simply put, use statistics on top of positive framing. </p><p></p><ol><li>Over 2 million students rely on Programiz to start their careers.</li><li>Facebook Python Developer earns 190,000</li><li>Google Python Developer earns 150,000.</li><li>An average Python Dveloper earns 110,000</li></ol><p></p><p><img src="../../.gitbook/assets/image (47).png" alt=""></p> |
+| Term/Strategy                                 | Comment                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Data-Driven Process for Campaign Development. | Brainstorm -> Prototype -> Vote -> AB Testing                                                                                                                                                                                                                                                                                                                                                                                             |
+| CTR                                           | Click through rate. How often people stopped scrolling to click the link on ads.                                                                                                                                                                                                                                                                                                                                                          |
+| CPC                                           | Cost per click rate.                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| The Framing Effect                            | "People make decisions based on whether a situation is a gain or loss scenario for them"                                                                                                                                                                                                                                                                                                                                                  |
+| Positive Framing                              | <p>Set a scenario where the recipient can potentially gain from the situation.</p><ol><li>"Be a python Guru with Programiz."</li><li>"Start a brilliant python career."</li><li><p>"Starting out coding? Programiz makes every concept easier to understand."</p><p><img src="../.gitbook/assets/image (46).png" alt="" data-size="original"></p></li></ol>                                                                               |
+| Negative Framing                              | <p>We set a scenario to be a loss situation for the recipient if they fail to comply with the message:<br></p><ol><li>Tired of boring coding lessons? Learn Python: Programiz makes learning fun.</li><li><p>Tired of trying out different Python apps? The definitive Python app is here.</p><p><img src="../.gitbook/assets/image (45).png" alt="" data-size="original"></p></li></ol>                                                  |
+| Statistical Framing                           | <p>Use statistics to set a scenario to be a gain situation. Simply put, use statistics on top of positive framing.</p><ol><li>Over 2 million students rely on Programiz to start their careers.</li><li>Facebook Python Developer earns 190,000</li><li>Google Python Developer earns 150,000.</li><li>An average Python Dveloper earns 110,000</li></ol><p><img src="../.gitbook/assets/image (47).png" alt="" data-size="original"></p> |
 
 ## Conformity
 
-We change our behavior to be more like others.&#x20;
+We change our behavior to be more like others.
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (49).png>)
 
 ## Cognitive Dissonance
 
 Try to reach a state of consonance (mental comfort) when we face a situation of discomfort.
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50).png>)
 
-****
+***
 
 **Works Cited**: [How We Use Psychology to Market Our Products](https://www.programiz.com/blog/use-psychology-to-market-products/)
-
-
 
 > For Mike Chase only:
 >
