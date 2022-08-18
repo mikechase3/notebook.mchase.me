@@ -1,9 +1,22 @@
 # Mike Chase's Notebook
 
-## Quick Links
+## Ecosystem
 
-* [Game Development](https://notebook.mchase.me/development/game-development/unity-game-dev-class?q=game+dev)
-* [Tkinter](https://notebook.mchase.me/development/languages-and-architectures/python/tkinter?q=tkinter)
+Mike Chase's ecosystem, organization, and life is wrapped up in:
+
+* Dropbox
+  * Active Documents
+  * Archived Documents
+  * Collections
+* [Gitlab](https://gitlab.com/MikeChase)
+* Physical
+  * Binder: letters sent/received.
+  * (u) Bank for banky things.
+* Website
+
+## Active Projects
+
+
 
 ## About The Author
 

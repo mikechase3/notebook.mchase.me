@@ -1,3 +1,0 @@
-# .NET Framework
-
-​.
