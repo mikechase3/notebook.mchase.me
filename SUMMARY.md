@@ -8,10 +8,18 @@
 ## Automotive
 
 * [Car Salesmen](automotive/car-salesmen.md)
-* [Engine Cutting](automotive/engine-cutting.md)
+* [Hacking](automotive/hacking/README.md)
+  * [Adventures in Automotive Networks and Control Units](https://ioactive.com/pdfs/IOActive\_Adventures\_in\_Automotive\_Networks\_and\_Control\_Units.pdf)
+  * [CAN Busses](https://en.wikipedia.org/wiki/CAN\_bus)
+  * [Tesla JSON API](https://tesla-api.timdorr.com/)
 * [Privacy Concerns](automotive/privacy-concerns/README.md)
+  * [A Survey of Automotive Attack Surfaces](https://illmatics.com/remote%20attack%20surfaces.pdf)
   * [Disabling Telemetrics](automotive/privacy-concerns/disabling-telemetrics.md)
   * [Subaru Starlink Vulnerabilities](https://www.bitdefender.com/blog/hotforsecurity/researcher-finds-basic-mistakes-subarus-starlink-service)
+  * [TPMS Vulnerabilities](https://www.winlab.rutgers.edu/\~gruteser/papers/xu\_tpms10.pdf)
+  * [Mike Chase's Opinions on Tesla](automotive/privacy-concerns/mike-chases-opinions-on-tesla.md)
+  * [$Uber](automotive/privacy-concerns/usduber/README.md)
+    * [Uber Rides of Glory](https://web.archive.org/web/20140827195715/http://blog.uber.com/ridesofglory)
 * [Rallying](automotive/rallying/README.md)
   * [Group B](automotive/rallying/group-b/README.md)
     * [Rallying - The Killer Years](https://www.amazon.com/Rallying-Killer-Years-John-Matthews/dp/B0882R7YKV/ref=nav\_ya\_signin?crid=1MCBSBK1UMB6U\&keywords=The+Killer+Years\&qid=1643523211\&sprefix=the+killer+ye%2Caps%2C531\&sr=8-1&)
@@ -140,6 +148,8 @@
 * [Hardware](computer-help/hardware/README.md)
   * [ThinkWiki](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
   * [Raid Controllers for Beginners](https://www.youtube.com/watch?v=G1E7ur0PS5k)
+* [Legacy](computer-help/legacy/README.md)
+  * [PCjs Machines](https://www.pcjs.org/software/pcx86/sys/windows/win95/4.00.950/)
 * [Mac Workstation Standards](computer-help/workstation-standards.md)
 * [Ubuntu](computer-help/ubuntu/README.md)
   * [CAC Configuration](computer-help/ubuntu/cac-configuration/README.md)
@@ -260,13 +270,11 @@
     * [Ethics](computer-science/miscellaneous/senior-year-capstone/lecture-10.md)
     * [GitLab CICD Pipeline](computer-science/miscellaneous/senior-year-capstone/gitlab-cicd-pipeline.md)
   * [Penetration Testing](computer-science/miscellaneous/penetration-testing.md)
-  * [Teaching Code](computer-science/miscellaneous/teaching-code.md)
   * [Git](computer-science/miscellaneous/git.md)
   * [Bash](computer-science/miscellaneous/bash.md)
   * [Dungeons and Dragons](computer-science/miscellaneous/secrets.md)
   * [CPS Staff](computer-science/miscellaneous/staff.md)
   * [Whole Brain Emulation Roadmap](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
-  * [Internet Research Articles](https://www.reddit.com/r/technology/comments/uv9fl7/ny\_attorney\_general\_is\_investigating\_twitch/i9l052m/)
 * [Networking](computer-science/networking/README.md)
   * [DDOS Glossary](https://www.cloudflare.com/learning/ddos/glossary/)
   * [Defining Ports and Protocols](https://superuser.com/questions/346386/what-are-ports-and-protocols-really)
@@ -423,12 +431,17 @@
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
+* [Teaching Code](education/teaching-code.md)
 
 ## Finance
 
 * [Cryptocurrency Taxes](finance/cryptocurrency-taxes.md)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 * [Stocks](finance/stocks.md)
+
+## 🕹 Gaming
+
+* [Page 3](gaming/page-3.md)
 
 ## 💊 Health and Fitness
 
