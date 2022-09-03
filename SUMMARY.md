@@ -627,6 +627,7 @@
 * [Goal Setting](principles-and-values/goal-setting.md)
 * [Principles and Values](principles-and-values/values.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
+* [Principles Ray](https://www.principles.com)
 
 ## Social Sciences
 
