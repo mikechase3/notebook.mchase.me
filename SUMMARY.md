@@ -299,10 +299,13 @@
 
 ## 🐍 Development
 
-* [Apple's Ecosystem](development/apples-ecosystem/README.md)
-  * [iOS and Swift](development/apples-ecosystem/ios-and-swift/README.md)
-    * [The Swift Language Programming Guide](development/apples-ecosystem/ios-and-swift/the-swift-language-programming-guide.md)
-    * [Swift Cheat Sheet](development/apples-ecosystem/ios-and-swift/swift-cheat-sheet-1.md)
+* [Development Platforms](development/development-platforms/README.md)
+  * [Apple's Ecosystem](development/development-platforms/apples-ecosystem/README.md)
+    * [iOS and Swift](development/development-platforms/apples-ecosystem/ios-and-swift/README.md)
+      * [The Swift Language Programming Guide](development/development-platforms/apples-ecosystem/ios-and-swift/the-swift-language-programming-guide.md)
+      * [Swift Cheat Sheet](development/development-platforms/apples-ecosystem/ios-and-swift/swift-cheat-sheet-1.md)
+  * [DOTNET](development/development-platforms/dotnet/README.md)
+    * [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 * [Design](development/design/README.md)
   * [Color Theory](communications/programiz-how-we-use-psychology-to-market-our-products/colors-and-marketing.md)
   * [Grids](https://www.reddit.com/r/graphic\_design/comments/wftzdn/little\_video\_i\_made\_about\_grids/)

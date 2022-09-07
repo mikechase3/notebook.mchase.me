@@ -58,6 +58,13 @@ fi
 
 ## Homebrew
 
+* Copy & run this
+* Afterwards, you can install nice linux utilities that Mac OS should have by default but whatever. See [https://formulae.brew.sh/formula/](https://formulae.brew.sh/formula/)
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 
 
 ## App**lications**
@@ -97,7 +104,8 @@ fi
 
 **Develop**
 
-1.
+1. Gitfox
+2. Petrify (nicely designed code snippets)
 
 **Design**
 
@@ -105,7 +113,16 @@ fi
 
 **Manage**
 
-1.
+1. ****
+
+#### Productivity
+
+1. Taskheat (workflow sketching that's more visual; poor prints though)
+2. "Studies"
+
+#### Utilities
+
+1. Ohtipi
 {% endtab %}
 
 {% tab title="02 Experimental" %}
@@ -125,6 +142,10 @@ fi
 1. Timepage
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
