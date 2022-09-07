@@ -10,7 +10,7 @@
 Work I created and comments I added are placed in hints that look like these.
 {% endhint %}
 
-See also: Ray Wenderlich [Cheat Sheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Swift-5.1-Cheatsheet-1.0.1.pdf) if you're looking for something even more condensed.&#x20;
+See also: Ray Wenderlich [Cheat Sheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Swift-5.1-Cheatsheet-1.0.1.pdf) if you're looking for something even more condensed.
 
 ## Variables
 
@@ -409,7 +409,6 @@ switch year {
     print("You're a time traveler!")
 } 
 // Prints: 20th century
-
 ```
 
 Or, if you have multiple values, you can separate them with a comma:
@@ -447,8 +446,6 @@ switch randomNumber {
 
 Check out [Codecademy](https://www.codecademy.com), which is where these code blocks came from.
 {% endhint %}
-
-
 
 In Swift, `switch` statements don't have an implicit _fall-through_, but you can use `fallthrough` explicitly. Every case needs to have at least one line of code in it. You don't have to use a `break` explicitly to end a case.
 
