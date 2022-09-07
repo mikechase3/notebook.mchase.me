@@ -420,6 +420,7 @@
   * [Django Basics](development/web-apps/django-basics.md)
   * [Page 8](development/web-apps/page-8.md)
   * [Create GitLab Pages Site from Scratch](https://docs.gitlab.com/ee/user/project/pages/getting\_started/pages\_from\_scratch.html)
+  * [SSL & HTTPS Getting Started](https://support.google.com/domains/answer/7630973?authuser=2\&authuser=2\&hl=en\&visit\_id=637978991464117998-3893459780\&rd=1#zippy=%2Cget-an-ssltls-certificate-from-a-certificate-authority-ca)
 * [Utilities](development/utilities/README.md)
   * [Page 2](development/utilities/page-2.md)
   * [Table Convert](https://tableconvert.com/)
