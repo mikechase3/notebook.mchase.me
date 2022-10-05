@@ -411,6 +411,7 @@
       * [Art of Doing](https://github.com/PacktPublishing/The-Art-of-Doing-Create-10-Python-GUIs-with-Tkinter-Today)
       * [Page 4](development/languages-and-architectures/python/tkinter/page-4.md)
       * [Page 6](development/languages-and-architectures/python/tkinter/page-6.md)
+      * [WSU Tkinter Resource](https://users.tricity.wsu.edu/\~bobl/cpts481/tkinter\_nmt.pdf)
   * [Racket](development/languages-and-architectures/scheme.md)
   * [R](development/languages-and-architectures/r.md)
   * [Stack Overflow Insights](https://insights.stackoverflow.com/survey/)
