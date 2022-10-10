@@ -4,6 +4,8 @@ When configuring Mac, it's important to prepare it for maximum productivity, whi
 
 Computers at {redacted} use the [FOG](https://wiki.fogproject.org/wiki/index.php?title=Introduction#What\_is\_FOG) server so they can be recovered; however, for new images, you should configure it with the following setup (last revised 2022-05-21):
 
+DELETEME
+
 ## Connections
 
 * [ ] VPNs
