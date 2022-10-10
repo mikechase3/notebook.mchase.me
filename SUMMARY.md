@@ -663,6 +663,7 @@
 * [Comedy](writing/comedy/README.md)
   * [Fake Characters](writing/comedy/fake-characters.md)
 * [Conclusions](writing/the-conclusion.md)
+* [DeleteMe](https://mikechase.gitlab.io/leisure/writing/journaling/)
 * [eSSS Sample](writing/esss-sample.md)
 * [Ideation](writing/ideation.md)
 * [Introductions](writing/the-introduction.md)
