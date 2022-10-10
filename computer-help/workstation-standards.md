@@ -1,5 +1,7 @@
 # Mac Workstation Standards
 
+WARNING: in-progress of being moved to [Gitlab](https://mikechase.gitlab.io/maintenance/computers/maintain-osx-layout/).
+
 When configuring Mac, it's important to prepare it for maximum productivity, which includes the time it takes to scan for whatever setting/menu item you are trying to find. If you are consistent across terminals, it will save people time.
 
 Computers at {redacted} use the [FOG](https://wiki.fogproject.org/wiki/index.php?title=Introduction#What\_is\_FOG) server so they can be recovered; however, for new images, you should configure it with the following setup (last revised 2022-05-21):
