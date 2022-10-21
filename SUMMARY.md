@@ -307,6 +307,7 @@
   * [DOTNET](development/development-platforms/dotnet/README.md)
     * [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 * [Design](development/design/README.md)
+  * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
   * [Color Theory](communications/programiz-how-we-use-psychology-to-market-our-products/colors-and-marketing.md)
   * [Grids](https://www.reddit.com/r/graphic\_design/comments/wftzdn/little\_video\_i\_made\_about\_grids/)
 * [Game Development](development/game-development/README.md)
