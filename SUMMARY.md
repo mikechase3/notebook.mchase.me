@@ -44,8 +44,7 @@
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
-* [Business Planning](business/business-planning/README.md)
-  * [Small Biz Template](https://www.score.org/resource/business-plan-template-startup-business)
+* [Entrepreneurship](https://www.dropbox.com/s/n5r89txdonc8wbt/Entrepreneurship.pdf?dl=0)
 * [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
 * [Greene How to Apply Laws](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
 * [Risk Management](business/risk-management.md)
