@@ -466,6 +466,7 @@
   * [Booklet for Families](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4126.pdf)
   * [I Took a Pill in Ibiza - Mike Posner](https://www.youtube.com/watch?v=foE1mO2yM04)
   * [SAMHSA Helpline](https://www.samhsa.gov/find-help/national-helpline)
+* [Workout Videos](health-and-fitness/workout-videos.md)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 
