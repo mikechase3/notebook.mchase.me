@@ -65,7 +65,6 @@
 * [Career Planning](https://www.tutorialspoint.com/developers\_best\_practices/career\_planning.htm)
 * [Code Reviews](career/code-reviews.md)
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
-* [Cone of Learning](career/cone-of-learning.md)
 * [Dayton2DC](career/dayton2dc.md)
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
@@ -433,6 +432,7 @@
 
 ## 🎒 Education
 
+* [Cone of Learning](education/cone-of-learning.md)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
