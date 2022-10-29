@@ -391,27 +391,27 @@
     * [Xamarin Native Mobile Apps Tutorial](https://www.youtube.com/watch?v=93ZU6j59wL4)
   * [Octoverse State of Code](https://octoverse.github.com/)
   * [Python](development/languages-and-architectures/python/README.md)
-    * [Basics](development/languages-and-architectures/python/personal-notes.md)
-    * [Boolean Logic](development/languages-and-architectures/python/boolean-logic.md)
-    * [Codecademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/python)
+    * [Basics](development/languages-and-architectures/python/personal-notes/README.md)
+      * [String Methods](https://docs.python.org/3/library/stdtypes.html?highlight=str#string-methods)
+      * [Codecademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/python)
+      * [Boolean Logic](development/languages-and-architectures/python/personal-notes/boolean-logic.md)
     * [Datetime Package](development/languages-and-architectures/python/datetime-module.md)
     * [Modules](development/languages-and-architectures/python/tkinter-module-notes.md)
     * [Flask](development/languages-and-architectures/python/flask.md)
     * [Manim Math Animation Package](development/languages-and-architectures/python/manim-math-animation-package.md)
     * [Language Crash Course](development/languages-and-architectures/python/python-crash-course.md)
-    * [Learning Resources](development/languages-and-architectures/python/resources.md)
     * [PEP 8 Style Guide](development/languages-and-architectures/python/pep-8-style-guide.md)
     * [re Regular Expressions Package](development/languages-and-architectures/python/re-regular-expressions-package.md)
-    * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
-    * [str Package](development/languages-and-architectures/python/str-package.md)
-    * [TKinter](development/languages-and-architectures/python/tkinter/README.md)
-      * [Bucky Tkinter](https://www.youtube.com/watch?v=RJB1Ek2Ko\_Y\&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB\_d)
-      * [StdLib Docs](https://docs.python.org/3/library/tkinter.html)
-      * [Tkinter Code Samples](https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E)
-      * [Art of Doing](https://github.com/PacktPublishing/The-Art-of-Doing-Create-10-Python-GUIs-with-Tkinter-Today)
-      * [Page 4](development/languages-and-architectures/python/tkinter/page-4.md)
-      * [Page 6](development/languages-and-architectures/python/tkinter/page-6.md)
-      * [WSU Tkinter Resource](https://users.tricity.wsu.edu/\~bobl/cpts481/tkinter\_nmt.pdf)
+    * [Standard Libraries](development/languages-and-architectures/python/standard-libraries/README.md)
+      * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas\_Cheat\_Sheet.pdf)
+      * [TKinter](development/languages-and-architectures/python/standard-libraries/tkinter/README.md)
+        * [Bucky Tkinter](https://www.youtube.com/watch?v=RJB1Ek2Ko\_Y\&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB\_d)
+        * [StdLib Docs](https://docs.python.org/3/library/tkinter.html)
+        * [Tkinter Code Samples](https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E)
+        * [Art of Doing](https://github.com/PacktPublishing/The-Art-of-Doing-Create-10-Python-GUIs-with-Tkinter-Today)
+        * [Page 4](development/languages-and-architectures/python/standard-libraries/tkinter/page-4.md)
+        * [Page 6](development/languages-and-architectures/python/standard-libraries/tkinter/page-6.md)
+        * [WSU Tkinter Resource](https://users.tricity.wsu.edu/\~bobl/cpts481/tkinter\_nmt.pdf)
   * [Racket](development/languages-and-architectures/scheme.md)
   * [R](development/languages-and-architectures/r.md)
   * [Stack Overflow Insights](https://insights.stackoverflow.com/survey/)
@@ -431,13 +431,15 @@
 * [Version Control](development/git-and-github/README.md)
   * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
-## Education
+## 🎒 Education
 
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
-* [Teaching Code](education/teaching-code.md)
+* [Teaching Code](education/teaching-code/README.md)
+  * [Python Resources](education/teaching-code/resources.md)
+  * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
 ## Finance
 
@@ -447,7 +449,7 @@
 
 ## 🕹 Gaming
 
-* [Page 3](gaming/page-3.md)
+* [Gaming Research Integration](gaming/gaming-research-integration.md)
 
 ## 💊 Health and Fitness
 
@@ -466,7 +468,8 @@
   * [Booklet for Families](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4126.pdf)
   * [I Took a Pill in Ibiza - Mike Posner](https://www.youtube.com/watch?v=foE1mO2yM04)
   * [SAMHSA Helpline](https://www.samhsa.gov/find-help/national-helpline)
-* [Workout Videos](health-and-fitness/workout-videos.md)
+* [Workout Videos](health-and-fitness/workout-videos/README.md)
+  * [Maximum Potential](https://www.youtube.com/watch?v=y0WOTplwNlw\&t=38s)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 

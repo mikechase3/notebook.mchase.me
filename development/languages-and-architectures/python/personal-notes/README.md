@@ -4,11 +4,9 @@
 
 {% embed url="https://www.python.org/dev/peps/pep-0008/#id34" %}
 
-{% content-ref url="pep-8-style-guide.md" %}
-[pep-8-style-guide.md](pep-8-style-guide.md)
+{% content-ref url="../pep-8-style-guide.md" %}
+[pep-8-style-guide.md](../pep-8-style-guide.md)
 {% endcontent-ref %}
-
-
 
 * Variables are lowercase.
 * Classes are uppercase.
@@ -180,11 +178,9 @@ quux(3)  # Fine
 quux(__x=3)  # Error
 ```
 
-
-
 #### Works Cited
 
-I grabbed these from the [Mypy documentation](https://mypy.readthedocs.io/en/stable/cheat\_sheet\_py3.html). Check it out for more details.&#x20;
+I grabbed these from the [Mypy documentation](https://mypy.readthedocs.io/en/stable/cheat\_sheet\_py3.html). Check it out for more details.
 
 ## Math
 
@@ -219,7 +215,7 @@ print(arr2)
 
 ### Compound Operators
 
-> &#x20;Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
+> Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
 
 ## Strings
 
@@ -236,8 +232,6 @@ print(favorite_fruit[-2])
 print(favorite_fruit[-3:])
 # => 'rry'
 ```
-
-
 
 ### Concatenation
 
@@ -311,11 +305,11 @@ print("a" in "blueberry")
 
 Checkout Codecademy's [cheat sheet](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/cheatsheet) for this topic. Scroll down on that page & you'll see the methods.
 
-![Codecademy's Summary of String Methods](<../../../.gitbook/assets/image (392).png>)
+![Codecademy's Summary of String Methods](<../../../../.gitbook/assets/image (392).png>)
 
 #### String Format
 
-You can insert keywords to make your code more legible.:&#x20;
+You can insert keywords to make your code more legible.:
 
 ```python
 def favorite_song_statement(song, artist):
@@ -354,26 +348,24 @@ print(song) #Repeats 10 times because it uses the default value.
 
 ### [Lambda Functions](https://www.youtube.com/watch?v=25ovCm9jKfA)
 
-![Source: Socratica. My Favorite Beginner Python Series of 2020.](<../../../.gitbook/assets/image (395).png>)
+![Source: Socratica. My Favorite Beginner Python Series of 2020.](<../../../../.gitbook/assets/image (395).png>)
 
-![Source: Socratica. My Favorite Beginner Python Series of 2020.](<../../../.gitbook/assets/image (393).png>)
+![Source: Socratica. My Favorite Beginner Python Series of 2020.](<../../../../.gitbook/assets/image (393).png>)
 
 ## Generators
 
-* Generators are basically functions, but use the `yield` keyword instead of `return`&#x20;
+* Generators are basically functions, but use the `yield` keyword instead of `return`
 * When a generator is called again, the function picks up right where it left out
   * Functions by contrast will start at the beginning of the function.
 
 {% embed url="https://www.youtube.com/watch?v=bD05uGo_sVI" %}
-
-
 
 ## Expressions
 
 ### Booleans
 
 {% hint style="warning" %}
-Use capital letters for `True` and `False`.&#x20;
+Use capital letters for `True` and `False`.
 {% endhint %}
 
 ```python
@@ -398,8 +390,6 @@ def raises_value_error():
     print("You raised a ValueError!")
 raises_value_error()
 ```
-
-
 
 ## User Input
 
@@ -487,18 +477,18 @@ def main(): # function, method are the same
 
 ## Lists
 
-* **Access**: `print(myList[-1])  # -1 refers to last element in the list.`
-* **Append:** Use `yourNamedList.append(itemToAppend)`&#x20;
+* **Access**: `print(myList[-1]) # -1 refers to last element in the list.`
+* **Append:** Use `yourNamedList.append(itemToAppend)`
 * **Append Another List:** Just use the `+` operator: `firstList + secondList`.
-* **Count:** `trump_votes = votes.count('Trump')` **** will **** return a number.&#x20;
-* **Del:** Removes an element from the list:&#x20;
+* **Count:** `trump_votes = votes.count('Trump')` \*\*\*\* will \*\*\*\* return a number.
+* **Del:** Removes an element from the list:
 * **Length (Size)**: `len(listVariable)`
 * **Pop:** Removes the last index, but you can pass the index you want to remove as an argument.
-* **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index.&#x20;
+* **Remove**: Removes a given item. Unlike pop, this lets you pass the object instead of the index.
 * **Slice:** You can slice a list to get a sublist. `sublist = letters[1:6]`
   * You can get the last 3 items of the list using: `sublist = letters[-3:]`
 * **Sort** _does not return anything_ but sorts the existing list. You can sort a list using `existingList.sort()`
-* **Sorted** generates a new list without affecting the old one and uses the syntax `sorted(myList).`&#x20;
+* **Sorted** generates a new list without affecting the old one and uses the syntax `sorted(myList).`
   * You can also sort in reverse order: `list1.sort(reverse=True).`
 
 ### [List Comprehensions](https://www.w3schools.com/python/python\_lists\_comprehension.asp)
@@ -592,26 +582,24 @@ attractions = [[] for thing in destinations]
 print(attractions)  # [[], [], [], [], []]
 ```
 
-
-
 ### Built In Functions
 
-| Function                                                                                | How to use it                                                                                                                                                                                                                                                                                                                                                                               |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ``[`range()`](https://www.programiz.com/python-programming/methods/built-in/range)``    | <p><code>range(low_bound, upper_Bound, step)</code></p><ul><li>Upper bound doesn't include upper bound. i.e. <code>range(10)</code> returns nums 0 to 9.</li><li>Returns an immutable sequence.</li><li>Steps can be positive or negative. </li><li>It's a weird data type I don't understand.</li><li>You can cast it to a list via:<code>list(range(start, stop, step)))</code></li></ul> |
-| ``[`zip(a, b, c)`](https://www.programiz.com/python-programming/methods/built-in/zip)`` | <ul><li>Zip takes iterables and aggregates them into a tuple.</li><li>The iterables must be the same length. Any <em>extraneous values will be cut off</em></li><li>It casts to a <code>set()</code> or <code>list()</code></li><li>You can also unzip: <code>c, v =.zip(*results).</code>See the bottom of the link for a better explanation.</li></ul>                                    |
-| `.index(element)`                                                                       | <ul><li>Gets the index given an. element.</li><li><code>["foo", "bar", "baz"].index("bar")</code> will return <code>1</code>. </li></ul>                                                                                                                                                                                                                                                    |
+| Function                                                                                | How to use it                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ``[`range()`](https://www.programiz.com/python-programming/methods/built-in/range)``    | <p><code>range(low_bound, upper_Bound, step)</code></p><ul><li>Upper bound doesn't include upper bound. i.e. <code>range(10)</code> returns nums 0 to 9.</li><li>Returns an immutable sequence.</li><li>Steps can be positive or negative.</li><li>It's a weird data type I don't understand.</li><li>You can cast it to a list via:<code>list(range(start, stop, step)))</code></li></ul> |
+| ``[`zip(a, b, c)`](https://www.programiz.com/python-programming/methods/built-in/zip)`` | <ul><li>Zip takes iterables and aggregates them into a tuple.</li><li>The iterables must be the same length. Any <em>extraneous values will be cut off</em></li><li>It casts to a <code>set()</code> or <code>list()</code></li><li>You can also unzip: <code>c, v =.zip(*results).</code>See the bottom of the link for a better explanation.</li></ul>                                   |
+| `.index(element)`                                                                       | <ul><li>Gets the index given an. element.</li><li><code>["foo", "bar", "baz"].index("bar")</code> will return <code>1</code>.</li></ul>                                                                                                                                                                                                                                                    |
 
 ## Dictionaries
 
-* **General Syntax:** `my_dictionary = {key: value, key: value}`&#x20;
+* **General Syntax:** `my_dictionary = {key: value, key: value}`
 * Keys must be immutable. Aka no lists.
 
 {% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-dictionaries/cheatsheet" %}
 
 ### Add a Key
 
-We can add multiple keys to a dictionary by using the `.update()` method.&#x20;
+We can add multiple keys to a dictionary by using the `.update()` method.
 
 ```python
 locations = {}
@@ -761,12 +749,10 @@ Getting the smallest item is always quickest using heaps because it's O(log N) o
 
 _Source: Beazley, Jones Python Cookbook 3ed. See page 7._
 
-
-
 ### OrderedDict
 
 * Ordered dictionaries maintain order when iterating.
-* It preserves the original insertion order of data.&#x20;
+* It preserves the original insertion order of data.
 
 ```python
 from collections import OrderedDict
@@ -805,8 +791,6 @@ for movie in fav_movies:
 This content is directly from CodeCademy. Check them out!
 {% endembed %}
 
-
-
 ## Classes
 
 ```python
@@ -844,11 +828,9 @@ Use `def __init()__:` within the class to make a constructor.
 >
 > What if we aren’t sure if an object has an attribute or not?
 >
-> * &#x20;`hasattr()` will return `True` if an object has a given attribute and `False` otherwise.&#x20;
-> * If we want to get the actual value of the attribute, `getattr()` is a Python function that will return the value of a given object and attribute.&#x20;
+> * `hasattr()` will return `True` if an object has a given attribute and `False` otherwise.
+> * If we want to get the actual value of the attribute, `getattr()` is a Python function that will return the value of a given object and attribute.
 > * In this function, we can also supply a third argument that will be the default if the object does not have the given attribute.
->
->
 >
 > The syntax and parameters for these functions look like this:
 >
@@ -880,7 +862,7 @@ Use `def __init()__:` within the class to make a constructor.
 
 * You can inherit the methods and variables from the superclass by calling `super()`. Make sure you have the **() at the end!!!!!**
 
-****
+***
 
 ## Dunder Methods
 
@@ -1055,13 +1037,11 @@ except KitchenException:
 
 In the above example, we attempt to retrieve food from the fridge and heat it in the microwave. If either `RefrigeratorException`or `MicrowaveException` is raised, we opt to order takeout instead. We catch both `RefrigeratorException` and `MicrowaveException` in our try/except block because both are subclasses of `KitchenException`.
 
-## Working with Modules&#x20;
+## Working with Modules
 
 And how to create your own.
 
 {% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/cheatsheet" %}
-
-
 
 #### Import a Class
 
@@ -1074,4 +1054,3 @@ from your_file import YourClass
 ```python
 from your_file import your_function  # Imports the function so you can use it.
 ```
-
