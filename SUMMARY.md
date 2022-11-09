@@ -62,7 +62,6 @@
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
-* [Career Planning](https://www.tutorialspoint.com/developers\_best\_practices/career\_planning.htm)
 * [Code Reviews](career/code-reviews.md)
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
 * [Dayton2DC](career/dayton2dc.md)
@@ -81,6 +80,8 @@
   * [Feedback and Performance Reviews](career/paperwork/feedback-and-performance-reviews.md)
   * [Master Resume/CV](career/paperwork/master-resume-cv.md)
   * [O-Net](https://www.onetonline.org/)
+* [Industry News](career/industry-news/README.md)
+  * [Metaverse that's Not Hype](https://www.thatssometa.news/p/the-metaverse-is-not-hype)
 * [Quitting](career/how-to-quit/README.md)
   * [Charisma on Command](https://www.charismaoncommand.com/)
 * [Salary Negotiation](career/salary-negotiation.md)
