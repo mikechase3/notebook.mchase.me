@@ -62,6 +62,8 @@
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
+* [Air Force](career/air-force/README.md)
+  * [Defense Logistics Disposal](https://www.dla.mil/)
 * [Code Reviews](career/code-reviews.md)
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
 * [Dayton2DC](career/dayton2dc.md)
@@ -94,8 +96,6 @@
   * [Handling Stress](communications/charism/handling-stress.md)
   * [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY\&t=2410s)
   * [Normalness](communications/charism/quirkiness.md)
-  * [One-Liners](communications/charism/one-liners/README.md)
-    * [Breakups and Rejections](communications/charism/one-liners/breakups-and-rejections.md)
   * [Placebo](communications/charism/placebo.md)
   * [Uncertainty](communications/charism/how-to-make-your-own-luck-or-freakonomics-424.md)
 * [Communication Management](communications/communication-management/README.md)
@@ -127,6 +127,7 @@
     * [Propaganda of Empire](communications/journalism/propaganda/propaganda-of-empire.md)
     * [Hollywood Cinema](communications/journalism/propaganda/hollywood-cinema.md)
     * [Midterm](communications/journalism/propaganda/midterm.md)
+* [Magic Phrases](communications/magic-phrases.md)
 * [Marketing](communications/programiz-how-we-use-psychology-to-market-our-products/README.md)
 * [Media Production](communications/media-production/README.md)
   * [Documentary Filmmaking](communications/media-production/documentary-filmmaking/README.md)
