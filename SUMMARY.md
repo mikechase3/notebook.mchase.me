@@ -3,7 +3,9 @@
 * [Mike Chase's Notebook](README.md)
 * [TOC (Decomissioned)](tableOfContentsDECOMISSIONED.md)
 * [Backlog](backlog.md)
-* [Inbox](inbox.md)
+* [Inbox](inbox/README.md)
+  * [3D Printing & Modeling](inbox/3d-printing-and-modeling/README.md)
+    * [Page 2](inbox/3d-printing-and-modeling/page-2.md)
 
 ## Automotive
 
