@@ -49,6 +49,7 @@
 * [Entrepreneurship](https://www.dropbox.com/s/n5r89txdonc8wbt/Entrepreneurship.pdf?dl=0)
 * [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
 * [Greene How to Apply Laws](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
+* [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
 * [Risk Management](business/risk-management.md)
 * [Role Models](business/role-models/README.md)
   * [Elon Musk](business/role-models/elon-musk.md)
