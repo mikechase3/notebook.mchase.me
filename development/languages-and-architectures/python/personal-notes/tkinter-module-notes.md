@@ -1,14 +1,8 @@
----
-description: Personal notes and examples all about tkinter.
----
-
-# Modules
+# Importing Module Examples
 
 ## Working with Modules
 
 {% embed url="https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/cheatsheet" %}
-
-
 
 #### Import a Class
 
@@ -26,25 +20,19 @@ from your_file import your_function  # Imports the function so you can use it.
 
 {% embed url="https://aws.amazon.com/getting-started/hands-on/build-modern-app-fargate-lambda-dynamodb-python/" %}
 
-
-
-
-
 ## DateTime
 
 * `from datetime import datetime`
 * Print the current time: `datetime.now()`
 * Get the date: `datetime.date()`
 * Get the time: `datetime.time()`
-*   Set a date & time:&#x20;
+*   Set a date & time:
 
     ```
     any_variable = datetime(year, month, day[, hour[, minute[, second[, microsecond[,tzinfo]]]]])
     ```
 
-
-
-#### DateTime Arithmetic&#x20;
+#### DateTime Arithmetic
 
 We can subtract dates from each other to see how much time has elapsed.
 
@@ -74,15 +62,13 @@ date_string = datetime.strftime(datetime.now(), '%b %d, %Y')
 # Returns: 'Jan 17, 2020'
 ```
 
-
-
 ## Decimal
 
 * `random.choice()` takes a list as an argument and picks one.
 * `random.randint()` takes 2 numbers as arguments and returns an int between the two.
 * **Purpose**: Perform decimal arithmetic more accurately.
 * **Import**: `from decimal import Decimal`
-* **Usage:**&#x20;
+* **Usage:**
 
 ```python
 from decimal import Decimal
@@ -96,7 +82,7 @@ cost_of_transaction = cost_of_gum + cost_of_gumdrop
 
 ## Itertools
 
-* `itertools.groupby()` is a function that is particularly useful for grouping data in dictionaries or objects together.&#x20;
+* `itertools.groupby()` is a function that is particularly useful for grouping data in dictionaries or objects together.
 
 ## MatPlotLib
 
@@ -107,7 +93,7 @@ cost_of_transaction = cost_of_gum + cost_of_gumdrop
 
 If all goes to plan, you'll see a plot produced with the dataset.
 
-![](<../../../.gitbook/assets/image (397).png>)
+![](<../../../../.gitbook/assets/image (397).png>)
 
 ## Pipenv
 
@@ -139,10 +125,3 @@ If all goes to plan, you'll see a plot produced with the dataset.
 * Convert python code to generate STL geometry from text, LaTeX, numpy arrays, and pictures.
 
 {% embed url="https://github.com/thearn/stl_tools" %}
-
-
-
-
-
-
-
