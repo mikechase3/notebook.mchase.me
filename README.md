@@ -2,7 +2,7 @@
 
 ## Ecosystem
 
-Mike Chase's ecosystem, organization, and life is wrapped up like a database of systems. Gitlab is the primary key and it's a son of a b\* when I change something on Github. Dropbox
+Mike Chase's ecosystem, organization, and life is wrapped up like a database of systems. Gitlab is the primary key. I'm working on automating the rest.
 
 * Dropbox
   * Active Documents
@@ -11,7 +11,7 @@ Mike Chase's ecosystem, organization, and life is wrapped up like a database of 
 * Email accounts: personal, personal-business, laboratory, government.
 * Keepass
 * [Gitlab](https://gitlab.com/MikeChase) (Primary Key)
-* Notebook _(this)_
+* Notebook _(hosted by Gitbook & Github)_
 * Physical
   * Binder: letters sent/received.
   * Bank for banky things.
