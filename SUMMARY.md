@@ -403,6 +403,7 @@
       * [Codecademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/python)
       * [Importing Module Examples](development/languages-and-architectures/python/personal-notes/tkinter-module-notes.md)
       * [Language Crash Course](development/languages-and-architectures/python/personal-notes/python-crash-course.md)
+      * [Mutable Default Args Warning](https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument)
       * [String Methods](https://docs.python.org/3/library/stdtypes.html?highlight=str#string-methods)
     * [Datetime Package](development/languages-and-architectures/python/datetime-module.md)
     * [Flask](development/languages-and-architectures/python/flask.md)
