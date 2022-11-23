@@ -1,4 +1,4 @@
-# Basics
+# Core
 
 ## Naming Conventions
 
@@ -318,6 +318,61 @@ def favorite_song_statement(song, artist):
 
 ## Functions
 
+### Function Arguments
+
+There are 3 types of arguments in functions:
+
+1. Positional arguments (where order matters)
+2. Keyword arguments (called by their name)
+3. Default arguments (given as default values)
+
+```python
+# Imagine there's tables in a restaurant
+tables = {
+  1: ['Jiho', False],
+  2: [],
+  3: [],
+  4: [],
+  5: [],
+  6: [],
+  7: [],
+}  Currently: # {1: ['Jiho', False], 2: [], 3: [], 4: [], 5: [], 6: [], 7: []}
+
+
+def assign_table(table_number, name, vip_status=False):
+  """Assigns a table to a customer"""
+  tables[table_number] = [name, vip_status]
+
+assign_table(6, 'Yoni', False)  # Positional arguments. Last one is redundant.
+assign_table(4, "Karla")  # So we can just omit it. 
+# Or use keywords to place them in any order.
+assign_table(name="Martha", table_number=3, vip_status=True)
+
+print(tables) 
+# {1: ['Jiho', False], 2: [], 3: ['Martha', True], 4: ['Karla', False], 5: [], 6: ['Yoni', False], 7: []}
+```
+
+
+
+### \*args Unpacking Operator
+
+The `print("hello", "world", "!")` takes an unlimited number of arguments and processes them using the unpacking operator.&#x20;
+
+<pre class="language-python"><code class="lang-python">def custom_print(*unlimited_args_here) -> Tuple[int, ...]:
+    # print(unlimited_args_here)
+    return unlimited_args_here  # in the form of a tuple. 
+    
+def shout_strings(*args):  # (Example from codecademy: intermediate python)
+  for argument in args:
+    print(argument.upper())
+ 
+shout_strings('Working on', 'learning', 'argument unpacking!')
+
+# Returns: 
+<strong># WORKING ON
+</strong># LEARNING
+# ARGUMENT UNPACKING!</code></pre>
+
 ### Returning Multiple Values
 
 We can return multiple values. It's so amazing!
@@ -331,20 +386,7 @@ def get_boundaries(target, margin):
 low_limit, high_limit = get_boundaries(100, 20)
 ```
 
-### Assigning Default Values
-
-* When specifying parameters, you can assign default values.
-* Here, if nothing is passed, `num_repeats` is assigned to 10 by default
-
-```python
-def repeat_stuff(stuff, num_repeats=10):
-  return stuff*num_repeats
-repeat_stuff("Row ", 3) #repeats 3 times because we specified that. 
-lyrics = repeat_stuff("Row ", 3) + "Your Boat. "
-song = repeat_stuff(lyrics)
-
-print(song) #Repeats 10 times because it uses the default value.
-```
+###
 
 ### [Lambda Functions](https://www.youtube.com/watch?v=25ovCm9jKfA)
 
