@@ -18,7 +18,7 @@
 
 {% tabs %}
 {% tab title="General" %}
-#### General Linear Problem
+**General Linear Problem**
 
 * We are given `n` real numbers $$c_1, c_2, ... c_n$$
 * We are also given `m` real numbers $$b_1, b_2, ... b_m$$ .
@@ -30,7 +30,7 @@ I skipped this section because it was confusing. Left off at 04:25
 {% endtab %}
 
 {% tab title="Investment" %}
-#### Investment Profile Example
+**Investment Profile Example**
 
 For example, you might be able to invest your money in different funds. Stocks might pay 10%, bonds, 7%, and cash 3%; however, there may be institutional restrictions. The amount in stock cannot be more than 1/3rd of the amount in bonds, and the amount in cash must be at least 1/4th of the amount in bonds. Using this information, we ask _how should an investor maximize his profits given these constraints?_
 
@@ -52,7 +52,7 @@ We can define these constraints using functions. We can model this problem like 
 {% endtab %}
 
 {% tab title="LP Fractional Knapsack" %}
-#### Fractional Knapsack Problem
+**Fractional Knapsack Problem**
 
 **Problem**
 
@@ -73,7 +73,7 @@ We can define these constraints using functions. We can model this problem like 
 {% endtab %}
 
 {% tab title="LP Maxflow" %}
-#### LP Maximum Flow Problem
+**LP Maximum Flow Problem**
 
 {% hint style="warning" %}
 I don't really understand the motivation behind this problem.
@@ -108,25 +108,25 @@ More words here.
 
 {% tabs %}
 {% tab title="Summary" %}
-#### **Summary**
+**Summary**
 
 The simplex method says: travel along the corner points until you reach a local maximum. This is best illustrated through examples. The textbook describes the _simplex algorithm_ like so:
 
 > The _**simplex algorithm**_ takes as input a linear program and returns an optimal solution. It starts at some vertex of the simplex and performs a sequence of iterations. In each iteration, it moves along an edge of the simplex from a current for tax to a neighboring vertex whose objective value is no smaller than that of current vertex. The simplex algorithm terminates when it reaches a local maximum, which is a vertex from which all neighboring vertices have a smaller objective value.
 
-#### Steps (MIT)
+**Steps (MIT)**
 
 1. Represent LP in "slack" form
 2. Convert one slack form into an equivalent slack form, while likely increasing the value of the objective function, and ensuring that the value does not decrease.
 3. Repeat until the optimal solution becomes apparent.
 
-#### Steps (Yao)
+**Steps (Yao)**
 
 Phase 1 (start-up): Find any corner point feasible solution. In many standard LPs the origin can serve as the start-up comer point
 
 Phase 2 (iterate): Repeatedly move to a better adjacent corner point feasible solution until no further better adjacent comer point feasible solution can be found. The final corner point defines the optimum point
 
-#### Formal Proof
+**Formal Proof**
 
 {% hint style="info" %}
 See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true).
@@ -134,24 +134,24 @@ See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6
 {% endtab %}
 
 {% tab title="Maximization" %}
-### Maximization
+#### Maximization
 
 ![Dr. Yao's slide summarizing slack form.](<../../.gitbook/assets/image (93).png>)
 
-#### Givens
+**Givens**
 
 We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 
 ![](<../../.gitbook/assets/image (88).png>)
 
-#### Convert to Slack Form
+**Convert to Slack Form**
 
 ![](<../../.gitbook/assets/image (90).png>)
 
 * Now we have three more variables. All of them are subject to being greater than 0.
 * $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$
 
-#### Solving
+**Solving**
 
 **Unknown Step**
 
@@ -169,13 +169,13 @@ How did we get here?
 
 ![](<../../.gitbook/assets/image (92).png>)
 
-#### Summary
+**Summary**
 
 ![](<../../.gitbook/assets/image (94).png>)
 {% endtab %}
 
 {% tab title="Minimization" %}
-### Minimization
+#### Minimization
 
 Consider the following example:
 
@@ -205,24 +205,24 @@ If we're asked to convert minimums to maximums, multiply all terms by -1.
 {% endtab %}
 
 {% tab title="Solving" %}
-### Solving
+#### Solving
 
-#### Minimization Example
+**Minimization Example**
 
-#### Basic Solution
+**Basic Solution**
 
 1. Set all nonbasic values to a feasible value.
 2. Compute the value of the basic variables.
 
 For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given statements.
 
-#### Pivoting Step
+**Pivoting Step**
 
 1. Select a nonbasic variable $$x_e$$ whose coefficient in the objective function is positive.
 2. Increase the value of $$x_e$$ as much as possible without violating any constraints.
 3. Set $$x_e$$ to be basic, while some other basic variables become nonbasic.
 
-#### Maximization Example
+**Maximization Example**
 {% endtab %}
 
 {% tab title="Other LP Algorithms" %}
@@ -232,7 +232,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 {% endtab %}
 
 {% tab title="Toy Factory" %}
-#### Toy Factory
+**Toy Factory**
 
 **Step 1: Understand the problem**
 

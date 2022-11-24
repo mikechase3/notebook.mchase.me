@@ -59,7 +59,7 @@ List <T> v = new Vector<> ();
 Where T is the type of the object
 ```
 
-### Array Lists
+#### Array Lists
 
 It's like arrays, but they don't suck:
 
@@ -109,7 +109,7 @@ class GFG {
 1 2 3 5
 ```
 
-#### Linked Lists
+**Linked Lists**
 
 It implements a LinkedList data structure:
 
@@ -158,7 +158,7 @@ class GFG {
 1 2 3 5
 ```
 
-### Stacks
+#### Stacks
 
 **What is it?**
 
@@ -216,7 +216,7 @@ Geeks For Geeks
 Stack is a subclass of Vector and a legacy class. It is thread safe which might be an overhead in an environment where thread safety is not needed. An alternate to Stack is to use [ArrayDequeue](https://www.geeksforgeeks.org/arraydeque-in-java/) which is not thread safe and faster array implementation.
 {% endhint %}
 
-### Vectors
+#### Vectors
 
 **What is it?**
 
@@ -273,7 +273,7 @@ class GFG {
 {% endtab %}
 
 {% tab title="Queue/Deque" %}
-### Queue
+#### Queue
 
 **What is It?**
 
@@ -324,7 +324,7 @@ class GfG {
 15
 ```
 
-### Deque
+#### Deque
 
 **What is it?**
 
@@ -397,7 +397,7 @@ Set<T> ts = new TreeSet<> ();
 Where T is the type of the object.
 ```
 
-### HashSet
+#### HashSet
 
 `HashSet`is the implementation of a hash table. It also lets you insert Null Elements.
 
@@ -439,7 +439,7 @@ For
 Is
 ```
 
-### LinkedHashSet
+#### LinkedHashSet
 
 This is a `HashSet`, but it uses a doubly linked list and **retains the ordering of the elements.** It still won't accept duplicates though.
 
@@ -482,7 +482,7 @@ Is
 Very helpful
 ```
 
-### TreeSet
+#### TreeSet
 
 {% hint style="info" %}
 TreeSet is actually under the sorted set interface.
@@ -546,7 +546,7 @@ Map<T> sm = new SortedMap<> ();
 Where T is the type of the object.
 ```
 
-### HashMap
+#### HashMap
 
 **Example**
 

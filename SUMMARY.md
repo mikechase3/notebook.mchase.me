@@ -491,6 +491,7 @@
 * [Maintaining Household Appliances](house/maintaining-household-appliances.md)
 * [Morpholio](house/morpholio/README.md)
   * [Morpholio Tutorials](https://www.youtube.com/watch?v=kf5lg3VlLoY\&list=PLdlz\_3DMdbrpaZRw9ScLF0J4b\_Zi0DfzU)
+* [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
