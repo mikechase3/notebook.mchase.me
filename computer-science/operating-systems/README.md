@@ -8,7 +8,6 @@
 
 ## Useful Resources
 
-| Resource | Caption |
-| :--- | :--- |
+| Resource                                                | Caption                                                       |
+| ------------------------------------------------------- | ------------------------------------------------------------- |
 | The 10 Operating Systems Concepts Devs Need To Remember | A nice overview that touches on everything that we're using.  |
-

@@ -2,13 +2,13 @@
 
 ## Complexity Theory
 
-![Different problems have different amounts of difficulty.](<../../../.gitbook/assets/image (132).png>)
+![Different problems have different amounts of difficulty.](<../../../.gitbook/assets/image (110).png>)
 
 * An entire field in one lecture.
 * We're going to show that Super Mario Bros is NP Complete.
 * This is all about reductions and converting one problem into another.
 
-![](<../../../.gitbook/assets/image (130).png>)
+![](<../../../.gitbook/assets/image (103).png>)
 
 This expands out to cover NP:
 
@@ -21,7 +21,7 @@ This expands out to cover NP:
 
 ### Exponential Time (EXP)
 
-![We try to bring anything exponential into polynomial time as much as possible](<../../../.gitbook/assets/image (129).png>)
+![We try to bring anything exponential into polynomial time as much as possible](<../../../.gitbook/assets/image (102).png>)
 
 * EXP is the set of all problems you can solve in exponential time.
 * Exponential means $$2^{n^\text{some constant}}$$&#x20;
@@ -33,7 +33,7 @@ This expands out to cover NP:
 
 ### Nondeterministic Polynomial (NP)
 
-![](<../../../.gitbook/assets/image (133).png>)
+![](<../../../.gitbook/assets/image (104).png>)
 
 * _**NP**_ describes a set of decision problems:
   * Solvable in polynomial time via a _lucky_ algorithm.
@@ -49,7 +49,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 
 #### Nondeterministic Model
 
-![](<../../../.gitbook/assets/image (128).png>)
+![](<../../../.gitbook/assets/image (106).png>)
 
 * An algorithm that makes guesses and then says _yes_ or _no_.
 * You give it a list of choices, and somehow, a choice is made (by magic, it just chooses)
@@ -57,7 +57,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 
 ### NP Complete
 
-![](<../../../.gitbook/assets/image (134).png>)
+![](<../../../.gitbook/assets/image (105).png>)
 
 * _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$&#x20;
   * Problem X is NP-Complete if X is in NP and X is _NP-Hard_
@@ -78,7 +78,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
   * If I can solve B, then I can solve A, so B is at least as hard as A.
 * Tetris is _NP-hard_, meaning "as hard as" every problem in NP.
 
-![](<../../../.gitbook/assets/image (106).png>)
+![](<../../../.gitbook/assets/image (95).png>)
 
 {% hint style="warning" %}
 * What is NP?&#x20;
@@ -104,11 +104,11 @@ What is problem y and what is problem x?
 They're both problems. What's the difference?
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (107).png>)
+![](<../../../.gitbook/assets/image (96).png>)
 
 ### Exptime
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](<../../../.gitbook/assets/image (109).png>)
 
 * Exptime contains problems that are not solvable in P.
 
@@ -116,13 +116,13 @@ They're both problems. What's the difference?
 
 That are useful for me to know thus far:
 
-![](<../../../.gitbook/assets/image (135).png>)
+![](<../../../.gitbook/assets/image (113).png>)
 
 ## Reductions: $$A \implies B$$&#x20;
 
 Convert your problem into a problem you already know how to solve instead of solving it from scratch.
 
-![](<../../../.gitbook/assets/image (127).png>)
+![](<../../../.gitbook/assets/image (114).png>)
 
 ### Dijkstra's Example&#x20;
 
@@ -135,7 +135,7 @@ Convert your problem into a problem you already know how to solve instead of sol
 
 ## 3 SAT (Satisfiability)
 
-![SAT is the king of NP. SAT is able to completely represent every other problem in NP. That makes SAT NP Complete.](<../../../.gitbook/assets/image (126).png>)
+![SAT is the king of NP. SAT is able to completely represent every other problem in NP. That makes SAT NP Complete.](<../../../.gitbook/assets/image (107).png>)
 
 ### Problem
 
@@ -145,7 +145,7 @@ Convert your problem into a problem you already know how to solve instead of sol
   * _**Clauses**_ are groups of 3 things.
 * _**Question:**_ Can you set the variables: (x\_1, x\_2, x\_3...) such that the **formula comes out true?**
 
-![3 SAT Problem](<../../../.gitbook/assets/image (109).png>)
+![3 SAT Problem](<../../../.gitbook/assets/image (97).png>)
 
 * I have to satisfy the first clause in one of 3 ways. One of the first set should be true, and something in the 2nd clause needs to be true, and so on.
   * We don't know a polynomial time algorithm, there probably isn't one.
@@ -159,7 +159,7 @@ Convert your problem into a problem you already know how to solve instead of sol
   * If there is some way to satisfy the formula, I'll return yes.
   * If there is no way to satisfy for the formula, then this nondeterministic algorithm will return no.
 
-![](<../../../.gitbook/assets/image (105).png>)
+![](<../../../.gitbook/assets/image (98).png>)
 
 ### Guessing
 
@@ -197,7 +197,7 @@ What is a certificate? What is a verifier? These don't make sense.
 
 #### Step 1: Show $$x \in \text{NP}$$&#x20;
 
-![Showing that our problems are in SAT means our problem is in NP.](<../../../.gitbook/assets/image (125).png>)
+![Showing that our problems are in SAT means our problem is in NP.](<../../../.gitbook/assets/image (108).png>)
 
 * Recall: We can do this by using:
   * A nondeterministic algorithm
@@ -229,7 +229,7 @@ I don't understand reductions or these definitions very well.
 
 ## Super Mario Bros
 
-![Super Mario Bros is a 3SAT Problem (see works cited).](<../../../.gitbook/assets/image (124).png>)
+![Super Mario Bros is a 3SAT Problem (see works cited).](<../../../.gitbook/assets/image (111).png>)
 
 ### Generalized Problem
 
@@ -238,7 +238,7 @@ I don't understand reductions or these definitions very well.
 
 ### 3SAT Reduction
 
-![](<../../../.gitbook/assets/image (121).png>)
+![](<../../../.gitbook/assets/image (100).png>)
 
 {% hint style="info" %}
 See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K\_QgvdKkovK\_t4K6-\&index=8\&t=36s).
@@ -248,7 +248,7 @@ See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=
 
 ## Further Examples
 
-![](<../../../.gitbook/assets/image (122).png>)
+![](<../../../.gitbook/assets/image (115).png>)
 
 
 

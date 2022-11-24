@@ -10,7 +10,7 @@
 
 ### Subfields of Geology
 
-![Source: Earth, Sixth Edition.](<../../.gitbook/assets/image (572).png>)
+![Source: Earth, Sixth Edition.](<../../.gitbook/assets/image (578).png>)
 
 * Geology is very practical.
 * Informs you about volcanoes, earthquakes, floods, deforestation, fault zones.
@@ -20,7 +20,7 @@
 * Geology is a synthesis of many sciences
   * Physics & Chemistry also describe the physical world.
 
-![The Earth System; Source: What is Geology](<../../.gitbook/assets/image (574).png>)
+![The Earth System; Source: What is Geology](<../../.gitbook/assets/image (579).png>)
 
 > * The Earth has an internal structure
 > * The outer layer of the Earth consists of moving plates
@@ -52,8 +52,8 @@
 
 ### Geologic Time Scale
 
-![](<../../.gitbook/assets/image (573).png>)
+![](<../../.gitbook/assets/image (580).png>)
 
 ## Summary
 
-![](<../../.gitbook/assets/image (575).png>)
+![](<../../.gitbook/assets/image (581).png>)

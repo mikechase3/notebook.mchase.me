@@ -28,17 +28,17 @@
 
 ### Types of Machine Learning Problems
 
-1. Unsupervised: 
+1. Unsupervised:&#x20;
    1. Patterns are found without any help because the labels are not known.
    2. The model constructs patterns without any pre-trained data.
    3. The model discovers groupings and clusters.
    4. i.e: _Customers who buy product A, also tend to buy product B._
-2. Supervised: 
+2. Supervised:&#x20;
    1. Inputs to the model are known and the model learns to generalize the output to these examples.
    2. Teacher's classifications must be present.
    3. Classification: Color, True/False
    4. Regression: Often a number
-3. Reinforcement \(Clasiffication and regression\)
+3. Reinforcement (Clasiffication and regression)
 
 ## Smart Applications
 
@@ -68,6 +68,4 @@
 1. Train Model
 2. Evaluate and Optimize
 3. Retrieve Predictions
-
-
 

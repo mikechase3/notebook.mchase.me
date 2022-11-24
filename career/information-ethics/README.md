@@ -13,11 +13,11 @@
 
 ## Overview
 
-“Technology is neither good nor bad; nor is it neutral.” ~Melvin Kranzberg’s first law of technology
+“Technology is neither good nor bad; nor is it neutral.” \~Melvin Kranzberg’s first law of technology
 
-This course begins with the understanding that information, like human knowledge, carries the potential to harm or help, depending on how we utilize it. The power of modern technology is such that it can change the world in powerful ways. It is our responsibility, both as members of an academic community and as members of a global community of people and non-humans, to think carefully about our responsibilities surrounding information and the technology which disseminates it. 
+This course begins with the understanding that information, like human knowledge, carries the potential to harm or help, depending on how we utilize it. The power of modern technology is such that it can change the world in powerful ways. It is our responsibility, both as members of an academic community and as members of a global community of people and non-humans, to think carefully about our responsibilities surrounding information and the technology which disseminates it.&#x20;
 
-This course will begin by introducing a few ways of discerning right from wrong. You will familiarize yourself with these normative approaches. Next, we will immerse ourselves in the rapidly growing world of moral problems posed by technology. Much of this course is dedicated to computer and internet ethics. 
+This course will begin by introducing a few ways of discerning right from wrong. You will familiarize yourself with these normative approaches. Next, we will immerse ourselves in the rapidly growing world of moral problems posed by technology. Much of this course is dedicated to computer and internet ethics.&#x20;
 
 ### Topics
 
@@ -32,6 +32,4 @@ This course will begin by introducing a few ways of discerning right from wrong.
 9. Professional Codes of Ethics
 10. Confidentiality
 11. Ethics & Humor
-
-
 

@@ -48,10 +48,10 @@
 * Keep your personal statement to 1.5 pages.
   * Emphasize the positive.
   * Do not emphasize anything that is negative.
-* Avoid wordiness. Be clear and concise. 
+* Avoid wordiness. Be clear and concise.&#x20;
 * Use academic prose, but no thesaurus moments.
-* Don't feel compelled to answer every prompt. 
-* Show the committee that you're ready to be a graduate student. That you're ready to do the work that grad students do. That they partake in a scholarly conversation. 
+* Don't feel compelled to answer every prompt.&#x20;
+* Show the committee that you're ready to be a graduate student. That you're ready to do the work that grad students do. That they partake in a scholarly conversation.&#x20;
 
 ## Brainstorm
 
@@ -59,10 +59,9 @@
 
 * The grass always looked greener on the other side.
   * That's why I changed majors 5 times during my undergrad.
-  * Engineering -&gt; Electrical -&gt; Theatre -&gt; Communication -&gt; CompSci
+  * Engineering -> Electrical -> Theatre -> Communication -> CompSci
   * I changed with the full intention of 0
 
 ## Further Reading
 
-* [Personal Statement](https://owl.purdue.edu/owl/job_search_writing/preparing_an_application/writing_the_personal_statement/index.html): Purdue Owl. 
-
+* [Personal Statement](https://owl.purdue.edu/owl/job\_search\_writing/preparing\_an\_application/writing\_the\_personal\_statement/index.html): Purdue Owl.&#x20;

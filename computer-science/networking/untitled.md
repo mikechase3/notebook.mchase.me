@@ -29,15 +29,15 @@ $$
 
 ### Part C
 
-The queuing will only happen with 2 or more users are transmitted. 
+The queuing will only happen with 2 or more users are transmitted.&#x20;
 
 #### What is the fraction of the time which the queue grows?
 
 ## Links
 
-![](../../.gitbook/assets/image%20%28408%29.png)
+![](<../../.gitbook/assets/image (365).png>)
 
-#### What is the end-to-end delay of sending a packet of length L = 1000 bytes? \(Ignore propagation delay and processing delay\)
+#### What is the end-to-end delay of sending a packet of length L = 1000 bytes? (Ignore propagation delay and processing delay)
 
 $$
 \frac{L}{R} = \frac{1000 \text{ bytes} \times 8 \text{ bits}}{2,000,000 \text{ bits per second}}
@@ -49,10 +49,10 @@ $$
 \frac{L}{R_1} + \frac{L}{R_2} + \frac{L}{R_3} = \frac{8000 \text{bits}}{6 \text{mbps}} + \frac{8000 \text{bits}}{2 \text{mbps}} + \frac{8000 \text{bits}}{4 \text{mbps}}  = \frac{8000 \text{bits}}{1 \text{mbps}} (\frac{1}{4} + \frac{1}{6} + \frac{1}{2})
 $$
 
-#### Suppose a file has 5M bytes. Estimate how long it takes to transfer the file to the receiving host. 
+#### Suppose a file has 5M bytes. Estimate how long it takes to transfer the file to the receiving host.&#x20;
 
-![7 sec + 20 seconds + 10 seconds to push the whole file onto the 3rd link.](../../.gitbook/assets/image%20%28407%29.png)
+![7 sec + 20 seconds + 10 seconds to push the whole file onto the 3rd link.](<../../.gitbook/assets/image (366).png>)
 
 ## HTTP Thing
 
-* 
+*

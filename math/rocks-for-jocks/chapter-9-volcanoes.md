@@ -23,4 +23,4 @@ Some information...
 * **Contour Line**: a line on which every point has the same value.
 * Contour lines cannot cross.
 
-![](<../../.gitbook/assets/image (623).png>)
+![](<../../.gitbook/assets/image (632).png>)

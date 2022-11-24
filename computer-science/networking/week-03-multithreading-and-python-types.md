@@ -2,7 +2,7 @@
 
 ## Assignment 1
 
-![](../../.gitbook/assets/image%20%28225%29.png)
+![](<../../.gitbook/assets/image (201).png>)
 
 1. Open the text file and insert the URLs to the _**Queue**_
 2. While the Queue is not empty
@@ -40,9 +40,9 @@ print(my_set)
 
 ### Multi-threading Program
 
-Next time, we're going to write a program spanning multiple threads. The runtime will be significantly decreased when parsing 1M programs. 
+Next time, we're going to write a program spanning multiple threads. The runtime will be significantly decreased when parsing 1M programs.&#x20;
 
-![](../../.gitbook/assets/image%20%28227%29.png)
+![](<../../.gitbook/assets/image (202).png>)
 
 ### Upper Bound
 
@@ -80,7 +80,7 @@ try:
 ## Python Data Types
 
 * All variables in Python are **reference variables**.
-* Strings are immutable. 
+* Strings are immutable.&#x20;
 * Bytes are immutable.
 
 ### Working with Strings
@@ -101,13 +101,11 @@ s = "".join(list_build)  # Allocate3 a single string to put data in.
 
 ## Mutability of Types
 
-![](../../.gitbook/assets/image%20%28226%29.png)
+![](<../../.gitbook/assets/image (203).png>)
 
 
 
 ## Works Cited
 
 [Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
-
-
 

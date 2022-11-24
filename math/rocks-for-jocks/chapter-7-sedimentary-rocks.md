@@ -43,7 +43,7 @@ See page 212.
 * Sedimentary maturity
 * Character of cement
 
-![](<../../.gitbook/assets/image (634).png>)
+![](<../../.gitbook/assets/image (645).png>)
 
 ### Chemical Sedimentary Rocks
 
@@ -52,7 +52,7 @@ See page 212.
 * **Chert**: microcrystalline quartz.
 * **Evaporites:** halite, gypsum, annhydrite.
 
-![](<../../.gitbook/assets/image (636).png>)
+![](<../../.gitbook/assets/image (642).png>)
 
 ### Interpreting Sedimentary Rocks
 
@@ -60,7 +60,7 @@ See page 212.
 * **Sedimentary Structures**:&#x20;
 * **Ripple Marks:** (see below)
 
-![Transport History](<../../.gitbook/assets/image (635).png>)
+![Transport History](<../../.gitbook/assets/image (643).png>)
 
 ### Defining Sedimentary Rocks
 
@@ -74,7 +74,7 @@ See page 212.
 
 ### Ripples
 
-![](<../../.gitbook/assets/image (637).png>)
+![](<../../.gitbook/assets/image (644).png>)
 
 ### Crossbeds
 

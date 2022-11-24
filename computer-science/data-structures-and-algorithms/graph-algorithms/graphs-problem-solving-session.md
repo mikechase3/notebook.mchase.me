@@ -72,7 +72,7 @@ Given a graph $$G=(V,E)$$ , write a method that returns true if there are any cy
 
 ## Does Path Exist?
 
-Given a graph `G = (V, E)`, write a method that return nodes \(in an array\) that are reachable from source node s.
+Given a graph `G = (V, E)`, write a method that return nodes (in an array) that are reachable from source node s.
 
 ```python
 //Uses Breadth first search
@@ -83,10 +83,9 @@ def reachableNode():
 
 ## Works Cited
 
-| Title | Content Used | Author |
-| :--- | :--- | :--- |
-| CPS 450 Class | Structure | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
-| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals) |
-| Introduction to Algorithms | Adjacency Matrix | Thomas e.t. al. |
-| Graph | None, but see quizzes. | Visualgo |
-
+| Title                                                                                 | Content Used           | Author                                                                                           |
+| ------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ |
+| CPS 450 Class                                                                         | Structure              | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao\_zhongmei.php) |
+| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section   | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals)               |
+| Introduction to Algorithms                                                            | Adjacency Matrix       | Thomas e.t. al.                                                                                  |
+| Graph                                                                                 | None, but see quizzes. | Visualgo                                                                                         |

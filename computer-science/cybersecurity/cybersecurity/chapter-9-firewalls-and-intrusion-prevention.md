@@ -64,7 +64,7 @@ What is this?
 
 ## 9.7: Unified Threat Management Products
 
-![](<../../../.gitbook/assets/image (640) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (693).png>)
 
 ## 9.8: Review
 

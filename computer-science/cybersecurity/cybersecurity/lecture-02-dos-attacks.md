@@ -36,7 +36,7 @@
 
 ### SYN Spoofing Attack
 
-![Retrieved from Dr. Baldwin's Slides.](<../../../.gitbook/assets/image (594).png>)
+![Retrieved from Dr. Baldwin's Slides.](<../../../.gitbook/assets/image (601).png>)
 
 * It's trying to fill up a table such that you make a bunch of sessions the system wants to keep a track of, but the table is **filled up with illegitimate sessions.**
 
@@ -73,7 +73,7 @@
 
 ### SIP Flood
 
-![When one INVITE request is sent, it uses 5 times the resources on the receiving end.](<../../../.gitbook/assets/image (593).png>)
+![When one INVITE request is sent, it uses 5 times the resources on the receiving end.](<../../../.gitbook/assets/image (602).png>)
 
 * SIP is used to establish VoIP (voice over IP) sessions.&#x20;
 * It bombards SIP proxy servers with `INVITE` requests.
@@ -102,7 +102,7 @@
 
 Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 
-![](<../../../.gitbook/assets/image (604).png>)
+![](<../../../.gitbook/assets/image (611).png>)
 
 ### Amplification Attacks
 

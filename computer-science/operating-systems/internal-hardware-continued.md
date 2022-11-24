@@ -6,13 +6,13 @@ Words
 
 ### Multiprocessors
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](<../../.gitbook/assets/image (136).png>)
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](<../../.gitbook/assets/image (137).png>)
 
 ## Cluster Systems
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](<../../.gitbook/assets/image (138).png>)
 
 Completely separate machines are connected and work together very well.
 
@@ -22,9 +22,7 @@ Completely separate machines are connected and work together very well.
 
 ### Asymmetric Clustered System
 
-![](../../.gitbook/assets/image%20%28145%29.png)
-
-
+![](<../../.gitbook/assets/image (139).png>)
 
 
 

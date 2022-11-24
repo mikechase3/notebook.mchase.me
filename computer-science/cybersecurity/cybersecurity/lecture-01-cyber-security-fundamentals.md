@@ -9,7 +9,7 @@
 * Introduct/understand theory of cyber security
 * Provide practical experience in hardening a system to achieve resilience against cyber attacks.
 
-![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../../.gitbook/assets/image (547).png>)
+![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../../.gitbook/assets/image (552).png>)
 
 ### Fundamental Topics
 
@@ -32,7 +32,7 @@
 
 ## Works Cited
 
-![Source: Dr. Rusty Baldwin](<../../../.gitbook/assets/image (548).png>)
+![Source: Dr. Rusty Baldwin](<../../../.gitbook/assets/image (554).png>)
 
 * Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\
 
@@ -86,7 +86,7 @@ Threats are potential violations of security.
 
 ### Examples of Threats
 
-![Source: Dr. Rusty Baldwin's Slides](<../../../.gitbook/assets/image (550).png>)
+![Source: Dr. Rusty Baldwin's Slides](<../../../.gitbook/assets/image (556).png>)
 
 ### Passive and Active Attacks
 

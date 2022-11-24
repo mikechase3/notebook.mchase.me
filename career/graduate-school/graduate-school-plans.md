@@ -7,25 +7,25 @@
 
 ## Classmates
 
-| Student | Caption |
-| :--- | :--- |
-| Madison Millhouse | Applying to physical therapy school |
-| Martin McKew | He has no graduate school plans yet; he hasn't looked. |
-| Olivia Leblanc | Education major. The requirements in each state are different. |
-| Abby Kelley | Biochem. She has a long list of all the places she wants to apply to. She hasn't started on application processes, but has checked out due dates. She hasn't taken the GRE and will take it in September. |
-| Dawson Vandervort | I forgot to pay attention |
-| Hannah Waters | Pursuing a nursing post-grad. This summer, she took the GRE and is looking at programs to finance grad school. |
-| Nichole Berardi | Wants to go to school for psychology in a business setting. Most of the programs are a masters, but she can get her PhD. |
+| Student           | Caption                                                                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Madison Millhouse | Applying to physical therapy school                                                                                                                                                                       |
+| Martin McKew      | He has no graduate school plans yet; he hasn't looked.                                                                                                                                                    |
+| Olivia Leblanc    | Education major. The requirements in each state are different.                                                                                                                                            |
+| Abby Kelley       | Biochem. She has a long list of all the places she wants to apply to. She hasn't started on application processes, but has checked out due dates. She hasn't taken the GRE and will take it in September. |
+| Dawson Vandervort | I forgot to pay attention                                                                                                                                                                                 |
+| Hannah Waters     | Pursuing a nursing post-grad. This summer, she took the GRE and is looking at programs to finance grad school.                                                                                            |
+| Nichole Berardi   | Wants to go to school for psychology in a business setting. Most of the programs are a masters, but she can get her PhD.                                                                                  |
 
 ## GRE Percentiles
 
 Do I need to take the GRE Again?
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](<../../.gitbook/assets/image (140).png>)
 
 ## Finding Your Ideal Grad School
 
-![US News &amp; World Report](../../.gitbook/assets/image%20%28151%29.png)
+![US News & World Report](<../../.gitbook/assets/image (141).png>)
 
 * What are the best programs?
 * What are the specializations?
@@ -51,8 +51,6 @@ Do I need to take the GRE Again?
   * Faculty you will work with
   * Classes and/or internships will you take and experience
 * Look to see if there are any assistantships or funding opportunities list.
-
-
 
 
 

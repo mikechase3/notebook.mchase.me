@@ -22,6 +22,5 @@
 
 ## Part 4: Corruption
 
-* Neoliberalism: problems will be solved by the free-market. 
+* Neoliberalism: problems will be solved by the free-market.&#x20;
 * General distrust of the government.
-

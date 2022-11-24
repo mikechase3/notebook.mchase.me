@@ -73,7 +73,7 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 
 #### Reading Data into the text file.
 
-![](<../../../.gitbook/assets/image (69) (5) (5) (3).png>)
+![](<../../../.gitbook/assets/image (69) (5) (5) (1) (4).png>)
 
 | Function                                        | Description                                 |
 | ----------------------------------------------- | ------------------------------------------- |
@@ -115,9 +115,9 @@ $$
 \end{cases}
 $$
 
-![](<../../../.gitbook/assets/image (73).png>)
+![](<../../../.gitbook/assets/image (60).png>)
 
-![](<../../../.gitbook/assets/image (72).png>)
+![](<../../../.gitbook/assets/image (61).png>)
 
 #### Adjacency Matrix Analysis
 
@@ -140,7 +140,7 @@ $$
 * The size of the array `adj[]` is the number of nodes on the graphs.
 * Each node # points to it's outgoing neighbors.
 
-![An Adjacency List Representation of the Graph](<../../../.gitbook/assets/image (75).png>)
+![An Adjacency List Representation of the Graph](<../../../.gitbook/assets/image (63).png>)
 
 Adjacency lists maintain a vertex-indexed array of lists.&#x20;
 
@@ -195,15 +195,15 @@ What is the iterator? Line 20?  What is it iterating through? is v's neighbor se
 
 Directed graphs store the outgoing edges in their adjacency list.
 
-![](<../../../.gitbook/assets/image (79) (1).png>)
+![](<../../../.gitbook/assets/image (68).png>)
 
 ### Directed Graphs API
 
-![](<../../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (64).png>)
 
 ### Directed Graphs Implementation
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (65).png>)
 
 ## Importing From a File
 
@@ -211,7 +211,7 @@ Directed graphs store the outgoing edges in their adjacency list.
 Go through this later to see if I understand it.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (78).png>)
+![](<../../../.gitbook/assets/image (66).png>)
 
 ## Summary
 

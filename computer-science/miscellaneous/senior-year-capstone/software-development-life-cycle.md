@@ -4,25 +4,24 @@
 
 This explains to you how to describe how you work through projects.
 
-![](../../../.gitbook/assets/image%20%28142%29.png)
+![](<../../../.gitbook/assets/image (119).png>)
 
-## Iterative and Agile Systems Development Lifecycle \(SDLC\)
+## Iterative and Agile Systems Development Lifecycle (SDLC)
 
-![](../../../.gitbook/assets/image%20%28143%29.png)
+![](<../../../.gitbook/assets/image (120).png>)
 
 ## SCRUM
 
-Scrum focuses on how you work on a team together. 
+Scrum focuses on how you work on a team together.&#x20;
 
 
 
-![](../../../.gitbook/assets/image%20%28159%29.png)
+![](<../../../.gitbook/assets/image (123).png>)
 
-![](../../../.gitbook/assets/image%20%28140%29.png)
+![](<../../../.gitbook/assets/image (122).png>)
 
 ### Project Overview
 
-![](../../../.gitbook/assets/image%20%28163%29.png)
+![](<../../../.gitbook/assets/image (124).png>)
 
-## 
-
+##

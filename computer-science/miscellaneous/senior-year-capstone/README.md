@@ -2,14 +2,14 @@
 
 
 
-|  |  |
-| :--- | :--- |
+|            |                |
+| ---------- | -------------- |
 | Instructor | Dr. Phu Phung. |
-|  |  |
+|            |                |
 
 ## Career Skills & Proficiencies
 
-![](../../../.gitbook/assets/image%20%28141%29.png)
+![](<../../../.gitbook/assets/image (117).png>)
 
 ## Course Goals
 
@@ -17,7 +17,7 @@
 
 ## Course Description
 
-![](../../../.gitbook/assets/image%20%28138%29.png)
+![](<../../../.gitbook/assets/image (118).png>)
 
 ### How
 
@@ -33,5 +33,4 @@
 * Suggested projects from Dr. Phung and other faculty.
 * My own project idea?
 
-## 
-
+##

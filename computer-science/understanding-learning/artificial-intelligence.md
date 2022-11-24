@@ -13,7 +13,7 @@
 
 ### The Modeling Process
 
- Goal: Keep refining algorithms until they're consistent with what a human will do.
+&#x20;Goal: Keep refining algorithms until they're consistent with what a human will do.
 
 1. Data
 2. Processing algorithms.
@@ -27,7 +27,7 @@
 * New user experiences in new markets
   * Chat bots
   * Identifying fraud.
-  * Security features like fingerprints. 
+  * Security features like fingerprints.&#x20;
   * Payroll & Auditing
   * Moderating social media content.
   * Alexa voice recognition & suggestions.
@@ -41,14 +41,14 @@
 
 * You can give a computer images of what people look like.
 * The machine can **learn** and become more confident when it comes to new challenges like facial hair or people with different color skin.
-* More information in 
+* More information in&#x20;
 
 ### Deep Learning
 
 > Deep Learning takes Machine Learning a step further. Rather than telling the machine what features it needs to look for, Deep Learning enables the machine to define the features it needs to look for itself based on the data it's being provided.
 
 * Developers don't tell the computer anything at all. The machine does all the work.
-* Example: teach a computer to determine features of circles or rectangles by showing it tons of examples until it can infer features of circles and rectangles. 
+* Example: teach a computer to determine features of circles or rectangles by showing it tons of examples until it can infer features of circles and rectangles.&#x20;
 
 ### Artificial Intelligence
 
@@ -64,7 +64,7 @@ This is a repeating cycle:
 * More data
   * Click stream, user activity, generated content, purchases, clicks, likes, sensor data
 * Better Analytics
-  * Object storage, databases, data warehouse, Streaming analytics, BI \(Business Intelligence\), Hadoop, [Spark](https://spark.apache.org/)/Presto, [Elasticsearch](https://www.elastic.co/)
+  * Object storage, databases, data warehouse, Streaming analytics, BI (Business Intelligence), Hadoop, [Spark](https://spark.apache.org/)/Presto, [Elasticsearch](https://www.elastic.co/)
 * Better Products
   * Artificial Intelligence
 * More Users
@@ -76,7 +76,7 @@ This is a repeating cycle:
 
 ### AWS SERVICES
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 #### Amazon Rekognition
 
@@ -94,7 +94,7 @@ This is a repeating cycle:
 * Chats
 * Builds applications and lifelike interactions.
 
-#### Amazon Machine Learning \(Amazon ML\)
+#### Amazon Machine Learning (Amazon ML)
 
 * For researchers who want to build models.
 * Analyzes data, suggests transformations, train your model, and evaluate for accuracy.
@@ -105,11 +105,9 @@ This is a repeating cycle:
 
 #### eGPUs
 
-* Provides GPUs for special 
+* Provides GPUs for special&#x20;
 
 ## Works Cited
 
 Lecture: [https://www.coursera.org/learn/aws-machine-learning/lecture/wTunE/what-is-artificial-intelligence](https://www.coursera.org/learn/aws-machine-learning/lecture/wTunE/what-is-artificial-intelligence)
-
-
 

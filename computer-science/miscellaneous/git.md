@@ -3,7 +3,8 @@
 ## Introduction
 
 * Git is a version control system
-* 
+*
+
 ## Common Commands
 
 * `git init` creates a new Git repository
@@ -29,4 +30,3 @@
 ## Work Cited
 
 * Codecademy's bash/terminal course. There's a [cheatsheet](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-development-skills/modules/learn-git-git-workflow-u/cheatsheet) too - though I don't think it's that good.
-

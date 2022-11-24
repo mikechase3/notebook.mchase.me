@@ -4,15 +4,15 @@
 
 ### Cloud Architectures
 
-![](../../../.gitbook/assets/image%20%28390%29.png)
+![](<../../../.gitbook/assets/image (356).png>)
 
 ### Cloud Service Providers
 
-![](../../../.gitbook/assets/image%20%28400%29.png)
+![](<../../../.gitbook/assets/image (357).png>)
 
 ### Heroku: Our Cloud Service Provider
 
-* Platform as a service \(PaaS\)
+* Platform as a service (PaaS)
 * Enables developers to build, run, and operate applications on the cloud.
   * Supports ruby, java, node.js, scala, clojure, python, php, go.
 * Apps have a unique domain
@@ -26,7 +26,7 @@
 #### App Preparation
 
 1. **Recommended**: Copy the sourcecode into a separate folder in your private repo
-2. Init the configuration for the Node.js app \(to create the `package.json` file.
+2. Init the configuration for the Node.js app (to create the `package.json` file.
 3. Install the required npm packages using `npm init`
 4. Create a .gitignore file
 5. Modify the package.json file to run the app with `$npm start`
@@ -41,33 +41,32 @@
 
 #### Create a new folder
 
-![](../../../.gitbook/assets/image%20%28401%29.png)
+![](<../../../.gitbook/assets/image (359).png>)
 
 #### NPM Init
 
-![](../../../.gitbook/assets/screenshot_2020-09-22-14.28.26_83xlba.jpg)
+![](<../../../.gitbook/assets/Screenshot\_2020-09-22 14.28.26\_83xLba.jpg>)
 
 #### Deploying on the Shell
 
-![](../../../.gitbook/assets/image%20%28391%29.png)
+![](<../../../.gitbook/assets/image (360).png>)
 
-![](../../../.gitbook/assets/image%20%28399%29.png)
+![](<../../../.gitbook/assets/image (362).png>)
 
 
 
-![](../../../.gitbook/assets/image%20%28395%29.png)
+![](<../../../.gitbook/assets/image (361).png>)
 
 ## Re-Deploying Your Code
 
-![](../../../.gitbook/assets/image%20%28397%29.png)
+![](<../../../.gitbook/assets/image (363).png>)
 
 ## Analysis to Design Implementation Model Flow
 
-![](../../../.gitbook/assets/image%20%28398%29.png)
+![](<../../../.gitbook/assets/image (364).png>)
 
-## 
+##
 
 ## Works Cited
 
 * Dr. Phu Phung's CPS 490 Capstone course.
-

@@ -28,7 +28,7 @@
 * It is automatically deployed to your environment.
 * Uses a script to deploy auto
 
-##  Why Use It?
+## &#x20;Why Use It?
 
 * Reproducability
 
@@ -43,9 +43,9 @@
 
 ### Build Jobs
 
-![](../../../.gitbook/assets/image%20%28433%29.png)
+![](<../../../.gitbook/assets/image (379).png>)
 
-![](../../../.gitbook/assets/image%20%28423%29.png)
+![](<../../../.gitbook/assets/image (380).png>)
 
 ### Docker
 
@@ -56,52 +56,50 @@
 
 ### Rules
 
-![](../../../.gitbook/assets/image%20%28429%29.png)
+![](<../../../.gitbook/assets/image (381).png>)
 
-![](../../../.gitbook/assets/image%20%28430%29.png)
+![](<../../../.gitbook/assets/image (382).png>)
 
 ## Unit Tests
 
 * Unit tests test the functionality.
 
-![](../../../.gitbook/assets/image%20%28431%29.png)
+![](<../../../.gitbook/assets/image (383).png>)
 
-![The Unit Test is Created](../../../.gitbook/assets/image%20%28428%29.png)
+![The Unit Test is Created](<../../../.gitbook/assets/image (384).png>)
 
 ## Linting Test
 
-* Linting checks formatting. 
+* Linting checks formatting.&#x20;
 * Functions cannot be overcomplicated.
 * How many environment errors are you using?
 * Prevents you from making things too complicated.
 
 #### Pylint
 
-* Pylint 
+* Pylint&#x20;
 
-![](../../../.gitbook/assets/image%20%28427%29.png)
+![](<../../../.gitbook/assets/image (385).png>)
 
-![](../../../.gitbook/assets/image%20%28425%29.png)
+![](<../../../.gitbook/assets/image (386).png>)
 
-![](../../../.gitbook/assets/image%20%28426%29.png)
+![](<../../../.gitbook/assets/image (387).png>)
 
 ## Linking the Files
 
-![](../../../.gitbook/assets/image%20%28424%29.png)
+![](<../../../.gitbook/assets/image (388).png>)
 
 ## Release Image
 
 * Once all of the tests pass, you're left with a deliverable.
 
-![](../../../.gitbook/assets/image%20%28432%29.png)
+![](<../../../.gitbook/assets/image (389).png>)
 
 ## Best Practices
 
-![](../../../.gitbook/assets/image%20%28421%29.png)
+![](<../../../.gitbook/assets/image (390).png>)
 
 ## Things to Try
 
-![](../../../.gitbook/assets/image%20%28422%29.png)
-
-
+![](<../../../.gitbook/assets/image (391).png>)
 

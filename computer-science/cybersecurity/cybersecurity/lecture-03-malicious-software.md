@@ -30,9 +30,9 @@ Payload actions are performed by malware once it reaches a target.
 
 ### Terminology
 
-![Source: Brown and Stallings. Security Principles and Practices.](<../../../.gitbook/assets/image (558).png>)
+![Source: Brown and Stallings. Security Principles and Practices.](<../../../.gitbook/assets/image (562).png>)
 
-![](<../../../.gitbook/assets/image (554).png>)
+![](<../../../.gitbook/assets/image (563).png>)
 
 ### Attack Kits
 
@@ -70,7 +70,7 @@ There are a lot of different reasons why people attack systems.
 
 ### APT Characteristics
 
-![Brown and Stallings](<../../../.gitbook/assets/image (560).png>)
+![Brown and Stallings](<../../../.gitbook/assets/image (564).png>)
 
 ### APT Attacks
 
@@ -101,7 +101,7 @@ Viruses goes through its propagation and tries to spread to any number of other 
 
 ### Virus Structure
 
-![Source: Brown Stallings.](<../../../.gitbook/assets/image (557).png>)
+![Source: Brown Stallings.](<../../../.gitbook/assets/image (565).png>)
 
 #### More on Compression Virus
 
@@ -111,19 +111,19 @@ A compression virus inserts itself such that the virus size doesn't change.
 
 ### Virus Classifications
 
-![](<../../../.gitbook/assets/image (553).png>)
+![](<../../../.gitbook/assets/image (566).png>)
 
-![](<../../../.gitbook/assets/image (556).png>)
+![](<../../../.gitbook/assets/image (567).png>)
 
-![](<../../../.gitbook/assets/image (555).png>)
+![](<../../../.gitbook/assets/image (568).png>)
 
 ### Macros and Scripting
 
-![](<../../../.gitbook/assets/image (559).png>)
+![](<../../../.gitbook/assets/image (569).png>)
 
 ## 6.4: Worms
 
-![](<../../../.gitbook/assets/image (561).png>)
+![](<../../../.gitbook/assets/image (570).png>)
 
 ### Worm Target Discovery: Scanning Strategies
 
@@ -136,7 +136,7 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 ### Worm Propagation Model
 
-![From "Computer Security Principles and Practices"](<../../../.gitbook/assets/image (577).png>)
+![From "Computer Security Principles and Practices"](<../../../.gitbook/assets/image (582).png>)
 
 ### The Morris Worm (p.219)
 
@@ -149,7 +149,7 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 ### Recent Worms
 
-![Source: Rusty Baldwin's Slides](<../../../.gitbook/assets/image (578).png>)
+![Source: Rusty Baldwin's Slides](<../../../.gitbook/assets/image (583).png>)
 
 * **Miria**: Interesting because it specifically targeted unsecured IoT devices. 600K infected devices induced a DDoS attack of 901 Gbps. A typical DDosS attack was 10-20Gbps.
 
@@ -254,7 +254,7 @@ This is an attack where you change the contents of memory and update something i
 
 
 
-![](<../../../.gitbook/assets/image (576).png>)
+![](<../../../.gitbook/assets/image (584).png>)
 
 * On a linux system, if you want to execute another process, it's called _forking_ a process. It executes another process for you.
 

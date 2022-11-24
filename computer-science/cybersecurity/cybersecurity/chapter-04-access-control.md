@@ -29,7 +29,7 @@ Skipped class for 4.1-4.5.
 * It's very inefficient.
 * You have to have a lot more 'trust' here to implement this.
 
-![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 09.51.35@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 09.51.35@2x (1).jpg>)
 
 ## 4.7: ICAM: Identity, Credential, and Access Management
 

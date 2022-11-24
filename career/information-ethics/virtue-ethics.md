@@ -55,7 +55,7 @@ description: What is good and what is bad?
 
 ### The Golden Mean
 
-![Goldilocks is on a hunt for the 'perfect' amount.](<../../.gitbook/assets/image (243).png>)
+![Goldilocks is on a hunt for the 'perfect' amount.](<../../.gitbook/assets/image (415).png>)
 
 > Lying in a mean... relative to us.
 
@@ -67,7 +67,7 @@ description: What is good and what is bad?
 
 #### Insensibility, Temperance, Indulgence
 
-![An advertisement for the prohibition.](<../../.gitbook/assets/image (250).png>)
+![An advertisement for the prohibition.](<../../.gitbook/assets/image (416).png>)
 
 * Insensibility is a deficiency.
 * Temperance is the mean
@@ -148,7 +148,7 @@ Proper, rational application of the categorical imperative will lead us to moral
 
 ## Utilitarianism w/ Bentham & Mill
 
-![](<../../.gitbook/assets/image (387).png>)
+![](<../../.gitbook/assets/image (427).png>)
 
 * Not Egoism: egoism is for ourselves.
 * We should always act to produce the greatest good for the greatest number of people.
@@ -162,8 +162,8 @@ Proper, rational application of the categorical imperative will lead us to moral
 
 ### Act Utilitarianism
 
-![](<../../.gitbook/assets/image (385).png>)
+![](<../../.gitbook/assets/image (429).png>)
 
 ### Rule Utilitarianism
 
-![](<../../.gitbook/assets/image (384).png>)
+![](<../../.gitbook/assets/image (428).png>)

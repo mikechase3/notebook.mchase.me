@@ -107,13 +107,13 @@ So obviously, by this point, we know two important things. And as a result of th
 
 &#x20;
 
-![Notice A\[0\] (At the right) is flipped every time. A\[1\] (2nd from right) is flipped n/2 times, and so on.](<../../../.gitbook/assets/image (35).png>)
+![Notice A\[0\] (At the right) is flipped every time. A\[1\] (2nd from right) is flipped n/2 times, and so on.](<../../../.gitbook/assets/image (27).png>)
 
 #### Using Geometric Series
 
 * The pattern we're noticing, `n`, `n/2`, `n/4`... is a [geometric series](https://media.pearsoncmg.com/cmg/pmmg\_mml\_shared/mathstats\_html\_ebooks/ThomasCalcET14e/page\_592.html) because geometric series have the form:
 
-![Source: Thomas Calculus](<../../../.gitbook/assets/image (30).png>)
+![Source: Thomas Calculus](<../../../.gitbook/assets/image (28).png>)
 
 $$
 n + n/2 + n/4 + ... ⇒  \sum _{n=1}^{\infty } 2^{-n}=1
@@ -121,7 +121,7 @@ $$
 
 If we graph this, it'll look exactly like this:
 
-![](../../../.gitbook/assets/wolframalpha-1\_2\_\_\_1\_4\_\_\_1\_8\_\_\_1\_16\_\_\_\_\_\_\_\_\_\_\_\_2020\_06\_27\_21\_32.jpeg)
+![](../../../.gitbook/assets/WolframAlpha--1\_2\_\_\_1\_4\_\_\_1\_8\_\_\_1\_16\_\_\_\_\_\_\_\_\_\_\_\_2020\_06\_27\_21\_32.jpeg)
 
 So clearly, this is a geometric series, and the series approaches 1:
 
@@ -142,7 +142,7 @@ $$
   * For every bit flip from 0 to 1, we use $1 for the flip.
   * We associate the extra $1 with bit 1, which will be used when we flip this bit from 1 back to 0.
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 #### Conclusions
 

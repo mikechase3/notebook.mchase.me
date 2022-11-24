@@ -1,4 +1,4 @@
-# Chapter 6: Earth Minerals
+# Earth's Minerals
 
 ## Goals
 
@@ -7,7 +7,7 @@
 
 ## Overview
 
-* A **mineral** is a naturally occurring, inorganic \(not composed of Carbon-Hydrogen molecules usually part of living tissue\), solid crystalline \(atoms have a structured arrangement; opposite of amorphous\),  substance with definite physical and chemical properties. 
+* A **mineral** is a naturally occurring, inorganic (not composed of Carbon-Hydrogen molecules usually part of living tissue), solid crystalline (atoms have a structured arrangement; opposite of amorphous),  substance with definite physical and chemical properties.&#x20;
 
 ## Chemistry Review
 
@@ -18,13 +18,13 @@
 
 ### Ionic Bonding
 
-![](../../.gitbook/assets/image%20%28582%29.png)
+![](<../../.gitbook/assets/image (590).png>)
 
-| Bond Type | Explanation | Strength | Example |
-| :--- | :--- | :--- | :--- |
-| Ionic | Atoms lose or gain electrons to/from other atoms | Strong | NaCl-Haloite |
-| Covalent | Atoms share 1 or more electrons | Very Strong | Carbon-diamond; chlorine gas. |
-| Metalic | Electrons act as mobile clouds moving from atom to atom. | Variable | Copper & Silver |
+| Bond Type | Explanation                                              | Strength    | Example                       |
+| --------- | -------------------------------------------------------- | ----------- | ----------------------------- |
+| Ionic     | Atoms lose or gain electrons to/from other atoms         | Strong      | NaCl-Haloite                  |
+| Covalent  | Atoms share 1 or more electrons                          | Very Strong | Carbon-diamond; chlorine gas. |
+| Metalic   | Electrons act as mobile clouds moving from atom to atom. | Variable    | Copper & Silver               |
 
 ## Bowen's Reaction Series
 
@@ -32,17 +32,17 @@
 Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28609%29.png)
+![](<../../.gitbook/assets/image (617).png>)
 
-![](../../.gitbook/assets/image%20%28610%29.png)
+![](<../../.gitbook/assets/image (616).png>)
 
 ## 6.6: Igneous Rock Classification
 
-![](../../.gitbook/assets/image%20%28605%29.png)
+![](<../../.gitbook/assets/image (620).png>)
 
-![](../../.gitbook/assets/image%20%28607%29.png)
+![](<../../.gitbook/assets/image (618).png>)
 
-![](../../.gitbook/assets/image%20%28612%29.png)
+![](<../../.gitbook/assets/image (619).png>)
 
 ## Extrusive Igneous Rocks: Volcanoes
 
@@ -52,9 +52,8 @@ Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 
 * Thick lava generates pyroclastic flow.
 
-## 
+##
 
 ## Works Cited
 
 * Graphics: Earth Science by Stephen Marshak
-

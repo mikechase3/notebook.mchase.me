@@ -16,15 +16,14 @@ description: Lecture 14
 3. Don't hand out dangerous implementations
 4. Assume all conditions can happen
 
-Source: \*Robust Programming Principles \(Bishop/Elliot 2011\)
+Source: \*Robust Programming Principles (Bishop/Elliot 2011)
 
 ### Examples in C
 
-* Make sure that you include a buffersize when using `strncpy`. 
+* Make sure that you include a buffersize when using `strncpy`.&#x20;
 * Make srue you use an `exit(0)` to terminate invalid programs.
 
 ### Summary
 
 * Programming robustly provides the basis for adding security elements to the program.
 * But without robust programming, secure programming will never achieve the desired effect.
-

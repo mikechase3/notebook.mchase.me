@@ -16,15 +16,15 @@ This was due on Monday Jun 9, 2020 and I started on the Jun 4. I thought 5 days 
 
 I had all of the math done from last time luckily, but I still had to draw myself out some visualizations and remind myself where items in the heap go in different parts of the array. Luckily, this was just a 3-way heap and not the d-way heap I had to implement last time. This made the math much easier.
 
-![](../../../.gitbook/assets/threewayheapvisualizationsketch.jpeg)
+![](../../../.gitbook/assets/ThreeWayHeapVisualizationSketch.jpeg)
 
 ### Generic Methods and Classes
 
-Even though I just took CPS 350, a lot of examples had generic classes in them, but I never really knew what they meant or how to use them. I think the only time I was formally introduced to them was when I was 
+Even though I just took CPS 350, a lot of examples had generic classes in them, but I never really knew what they meant or how to use them. I think the only time I was formally introduced to them was when I was&#x20;
 
-I spent a lot of time reading and going through old textbooks, but ultimately, I went back to what I knew because I couldn't figure it out. At least now, I know it's something useful that I'll have to learn. 
+I spent a lot of time reading and going through old textbooks, but ultimately, I went back to what I knew because I couldn't figure it out. At least now, I know it's something useful that I'll have to learn.&#x20;
 
-![Source: Big Java Late Objects Textbook](../../../.gitbook/assets/generic-methods-big-java-late-objects.jpg)
+![Source: Big Java Late Objects Textbook](<../../../.gitbook/assets/Generic Methods Big Java Late Objects.jpg>)
 
 ```java
 public class Key<K>{
@@ -173,7 +173,7 @@ public class Value extends Object{
 ```
 
 {% hint style="warning" %}
-I could not convert from object to string, so I had to write a method that does not apply to anything but a string, which I think defeats the purpose of generic classes _\(but also, I don't know much about generic classes, they confuse me\)_.
+I could not convert from object to string, so I had to write a method that does not apply to anything but a string, which I think defeats the purpose of generic classes _(but also, I don't know much about generic classes, they confuse me)_.
 {% endhint %}
 
 ### Fundamentals Are Holding Me Back
@@ -186,13 +186,13 @@ Below are all the running times for the **worst case**.
 
 **isEmpty**
 
-```text
+```
 public boolean isEmpty(){
     return heapSize == 0;
 }
 ```
 
-The isEmpty function is O\(1\) since I have a variable that holds everything constant.
+The isEmpty function is O(1) since I have a variable that holds everything constant.
 
 **size**
 
@@ -202,7 +202,7 @@ All functions on size are constant `O(1)`. It gets increased when you add someth
 
 Find min is `O(1)` because the smallest variable is always on the top of the heap. In the code below, I set `toReturn` to `array[1]`. The smallest will always be at `array[1]`, so this always works.
 
-```text
+```
 @Override
 public double deleteMin() throws NoSuchElementException {
 
@@ -262,7 +262,7 @@ All of the input values are strings, and all of the keys are converted to double
     }
 ```
 
-![](../../../.gitbook/assets/asgn-01-running-screenshot.jpg)
+![](<../../../.gitbook/assets/ASGN 01 Running Screenshot.jpg>)
 
 The primary test shown here adds a bunch of elements to an array and is easily modifiable for other tests.
 
@@ -288,6 +288,4 @@ I modified the interface to throw exceptions. I think the names "key" and "val" 
      * Resets the priority queue to appear as not containing any elements.
      */
 ```
-
-
 

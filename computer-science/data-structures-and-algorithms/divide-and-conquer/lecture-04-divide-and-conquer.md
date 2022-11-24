@@ -276,7 +276,7 @@ class Solution {
 
 When we analyze the running time of recurrence functions, we do so using piecewise functions.&#x20;
 
-![An example of a piecewise function defining the running time.](../../../.gitbook/assets/recurrence-function-time-example.jpg)
+![An example of a piecewise function defining the running time.](<../../../.gitbook/assets/Recurrence Function Time Example.jpg>)
 
 ## Homework
 
