@@ -373,6 +373,22 @@ shout_strings('Working on', 'learning', 'argument unpacking!')
 </strong># LEARNING
 # ARGUMENT UNPACKING!</code></pre>
 
+### \*\*kwargs Keyword Args Dictionary
+
+* type(\*\*kwargs) => Type\<Dictionary> &#x20;
+
+Example from Codecademy's intermediate Python course:
+
+```python
+def arbitrary_keyword_args(**kwargs):
+  print(type(kwargs))
+  print(kwargs)
+  # See if there's an 'anything_goes' keyword arg and print it
+  print(kwargs.get('anything_goes'))
+ 
+arbitrary_keyword_args(this_arg='wowzers', anything_goes=101)
+```
+
 ### Returning Multiple Values
 
 We can return multiple values. It's so amazing!

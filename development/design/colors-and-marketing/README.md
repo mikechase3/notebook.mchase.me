@@ -1,5 +1,7 @@
 # Color Theory
 
+> The purest and most thoughtful minds are those which love color the most. John Ruskin, The Stones of Venice (1851-3)
+
 ## Resources
 
 * [Coolors](https://coolors.co/): the super fast color schemes generator.
