@@ -604,6 +604,8 @@
   * [Tritones](music/harmonies/tritones.md)
   * [7th Chords](https://www.tiktok.com/@itsmillertimemusic/video/7076624066463026438?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
   * [Lessons from B](https://www.tiktok.com/@itsmillertimemusic/video/7076996636165147909?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
+* [Genres](music/genres/README.md)
+  * [List of Electronic Music Genres](https://en.wikipedia.org/wiki/List\_of\_electronic\_music\_genres)
 * [Inspiration](music/inspiration.md)
 * [Practice Logs](music/practice-logs/README.md)
   * [\[Book\] Albersold's Jazz Handbook](music/practice-logs/book-albersolds-jazz-handbook.md)
