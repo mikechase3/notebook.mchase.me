@@ -2,7 +2,7 @@
 
 * [Mike Chase's Notebook](README.md)
 * [TOC (Decomissioned)](tableOfContentsDECOMISSIONED.md)
-* [Inbox](inbox.md)
+* [Inbox](inbox/README.md)
 
 ## Automotive
 
@@ -645,8 +645,8 @@
 * [Discipline](principles-and-values/discipline.md)
 * [Don't do drugs](principles-and-values/dont-do-drugs.md)
 * [Friendships](principles-and-values/friendships.md)
-* [Goal Setting](principles-and-values/goal-setting/README.md)
-  * [2020 Goals](principles-and-values/goal-setting/backlog.md)
+* [Goal Setting](principles-and-values/goal-setting.md)
+  * [2020 Goals](backlog.md)
 * [Principles and Values](principles-and-values/values.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 * [Principles Ray](https://www.principles.com)
@@ -682,7 +682,8 @@
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
 * [Ideation](writing/ideation.md)
-* [Inspiration](writing/inspiration.md)
+* [Inspiration](writing/inspiration/README.md)
+  * [2022 Clippings](writing/inspiration/2022-clippings.md)
 * [Introductions](writing/the-introduction.md)
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
 * [Organizational Models](writing/organizational-models/README.md)

@@ -6,6 +6,6 @@
 
 ## Further Reading
 
-{% content-ref url="../../business/seven-habits.md" %}
-[seven-habits.md](../../business/seven-habits.md)
+{% content-ref url="../business/seven-habits.md" %}
+[seven-habits.md](../business/seven-habits.md)
 {% endcontent-ref %}
