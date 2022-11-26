@@ -6,51 +6,15 @@ description: See the table of contents.
 
 ## Business
 
-{% tabs %}
-{% tab title="Cognitive Biases" %}
 I want to study this more. How do cognitive biases play a role in our lives?
-{% endtab %}
 
-{% tab title="Economics" %}
 I took an economics course during my undergrad; it was super interesting and I want to remember concepts so I can apply them to my life.
-{% endtab %}
 
-{% tab title="Uncertainty" %}
-How do we decide on victors, victims? Who wins and who loses?&#x20;
+How do we decide on victors, victims? Who wins and who loses?
 
 {% embed url="https://freakonomics.com/podcast/konnikova-biggest-bluff/" %}
-{% endtab %}
-{% endtabs %}
-
-
 
 ## Career
-
-{% tabs %}
-{% tab title="CompSci Management" %}
-
-{% endtab %}
-
-{% tab title="Feedback" %}
-
-{% endtab %}
-
-{% tab title="Goals" %}
-
-{% endtab %}
-
-{% tab title="Graduate School" %}
-
-{% endtab %}
-
-{% tab title="Quitting" %}
-
-{% endtab %}
-
-{% tab title="Salary Negotiation" %}
-
-{% endtab %}
-{% endtabs %}
 
 ## Communication
 
@@ -60,7 +24,7 @@ How do we decide on victors, victims? Who wins and who loses?&#x20;
 
 * AlgoExpert
 * BackToBack SWE
-* [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices.&#x20;
+* [CodeSignal](https://codesignal.com/) provides developers with state-of-the-art tests for job interviews. They provide developers with a portal to access all of the tests to demonstrate your code proficiency. It supports every major language. It's like Leetcode, but way better, and 100% free. Bad for novices.
 * [Code Wars](https://www.codewars.com/) is a way to achieve mastery through challenges. I used it before switching to CodeSignal.
 * [Princeton Data Structure and Algorithms](hhttps://www.coursera.org/learn/algorithms-part1#syllabus) has a complete, free course available for auditing. The ratings are extremely high. Be sure to have a Java background, otherwise you might have a little difficulty with the assignments. It'll say it costs money, but look for a button that says "audit this course" for free access.
 
@@ -78,8 +42,6 @@ The Pudding
 
 * [Unity Learn](https://pudding.cool/) is worth checking out. I use it for mobile development and the occasional wacky project that only works on Unity.
 * [Learn Unreal Engine](https://learn.unrealengine.com/home/dashboard) has a that's slow and painful. I hate their whole website because it feels slow and disorganized much like this website you are reading - at least the disorganized part. Sorry I'm projecting. I'd give it a 3/5 rating. It's very comprehensive and I haven't found anything better... yet. That being said, I haven't pulled out my wallet because I'll just ask my coworkers when I have problems.
-
-
 
 ### [Languages and Architectures](development/languages-and-architectures/)
 
@@ -119,57 +81,14 @@ MyPy is a Python static type checker. This will force you to make sure your code
 
 {% embed url="https://stepik.org/catalog" %}
 
-#### TKinter (Python)
-
-Tkinter is a GUI for python. It's widely supported and built-into Python.
-
-{% embed url="https://users.tricity.wsu.edu/~bobl/cpts481/tkinter_nmt.pdf" %}
-
-
-
-### Linux
-
-* [Codecademy](https://www.codecademy.com/resources/cheatsheets/all) has a navigation tool. It'll teach you some basic commands everyone should know like navigate the file system. It's probably a little too basic, but it's a good place to start.
-* I'm not going to focus too much effort here, but I'd love someone else to contribute and share their knowledge!
-
-### Machine Learning
-
-`Pass`
-
-### Operating Systems
-
-Unfortunately, I took operating systems from a professor who did a poor job teaching remotely. This is a good place to start:
-
-* [The Top 10 Operating Systems Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
-
-### Web Development and Design
-
-`Pass`
-
-## Health
-
-* [DareBee](https://darebee.com/) has a huge collection of workout and health infographics.
-
 ## Marketing
 
 * Canva has some awesome marketing tools. You can get a free 12-month subscription with the Github Student pack.
-
-## Miscellaneous
-
-{% embed url="https://obsidian.md/" %}
-
-
-
-## Music
-
-{% embed url="https://www.musictheory.net/" %}
-
-
 
 ## Personal Essays
 
 ## Professional Development
 
-* BigInterview helps you develop your charismatic skills, but tailored to responding to interviews.&#x20;
+* BigInterview helps you develop your charismatic skills, but tailored to responding to interviews.
 * [Jobscan](https://www.jobscan.co/) optimizes your resume to increase hits by running it through the same software that career-hiring experts use to filter out good and bad candidates.
 * Resume Star is a nice mac app that builds resumes for you. There should be a better way to do this, but Resume Star is a start. Building a resume takes too long though.
