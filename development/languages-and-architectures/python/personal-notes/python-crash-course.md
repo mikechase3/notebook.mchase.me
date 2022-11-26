@@ -2,7 +2,7 @@
 
 ## Work Cited: [Srebalaji Thirumala](https://www.freecodecamp.org/news/author/srebalaji/) | [FreeCodeCamp](https://www.freecodecamp.org/donate/) <a href="#title-holder" id="title-holder"></a>
 
-I straight-up copied and pasted all of this material. I'm allowed to use it because it's open source. Please check out (and donate to) freeCodeCamp.org and view this specific article [here](https://www.freecodecamp.org/news/python-crash-course/).&#x20;
+I straight-up copied and pasted all of this material. I'm allowed to use it because it's open source. Please check out (and donate to) freeCodeCamp.org and view this specific article [here](https://www.freecodecamp.org/news/python-crash-course/).
 
 FreeCodeCamp - I'm 99% sure I'm free to copy/past this content. It even says I can use this for educational purposes for classes in your FAQs. If you have a problem with this, I will gladly take it down upon request at me @ \[thisDomainName: mchase.me].
 
@@ -95,7 +95,6 @@ bool("some value") # Returns True
 bool("") # Returns False
 
 bool(1) # Returns True
-
 ```
 
 #### List
@@ -216,7 +215,6 @@ len(alpha) # 5
 # Remove the element from the set
 alpha.remove('a')
 alpha.discard('a') # It's safer to use discard than remove. Discard will never throw an error even if the element is not present in the set but remove will do.
-
 ```
 
 #### Dictionaries
@@ -445,7 +443,7 @@ for index, value in enumerate(arr):
 
 ### Functions
 
-```
+```python
 def prints_hello_world():
   print('Hello world from Python')
 
@@ -503,7 +501,6 @@ def user_info(id, name, **info):
   print(info) # {'fav_language': ['Python', 'Ruby'], 'twitter_handle': '@srebalaji'}
 
 user_info(1, 'Srebalaji', fav_language=['Python', 'Ruby'], twitter_handle='@srebalaji')
-
 ```
 
 ### Classes
