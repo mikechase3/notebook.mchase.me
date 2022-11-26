@@ -352,11 +352,9 @@ print(tables)
 # {1: ['Jiho', False], 2: [], 3: ['Martha', True], 4: ['Karla', False], 5: [], 6: ['Yoni', False], 7: []}
 ```
 
-
-
 ### \*args Unpacking Operator
 
-The `print("hello", "world", "!")` takes an unlimited number of arguments and processes them using the unpacking operator.&#x20;
+The `print("hello", "world", "!")` takes an unlimited number of arguments and processes them using the unpacking operator.
 
 <pre class="language-python"><code class="lang-python">def custom_print(*unlimited_args_here) -> Tuple[int, ...]:
     # print(unlimited_args_here)
@@ -375,7 +373,7 @@ shout_strings('Working on', 'learning', 'argument unpacking!')
 
 ### \*\*kwargs Keyword Args Dictionary
 
-* type(\*\*kwargs) => Type\<Dictionary> &#x20;
+* type(\*\*kwargs) => Type\<Dictionary>
 
 Example from Codecademy's intermediate Python course:
 
@@ -388,6 +386,50 @@ def arbitrary_keyword_args(**kwargs):
  
 arbitrary_keyword_args(this_arg='wowzers', anything_goes=101)
 ```
+
+### Unpacking Other S\*\*\*
+
+From Codecademy:
+
+> The possibilities of using the `*` and `**` operators are endless. Observe some more clever use cases:
+>
+> *   Unpacking parts of an iterable
+>
+>     ```
+>      a, *b, c = [3, 6, 9, 12, 15] print(b)
+>     ```
+>
+>     Would output:
+>
+>     ```
+>     [6, 9, 12]
+>     ```
+> *   Merging iterables
+>
+>     ```
+>     my_tuple = (3, 6, 9)merged_tuple = (0, *my_tuple, 12)print(merged_tuple)
+>     ```
+>
+>     Would output:
+>
+>     ```
+>     (0, 3, 6, 9, 12)
+>     ```
+> *   Combining unpacking and packing
+>
+>     ```
+>     num_collection = [3, 6, 9] def power_two(*nums):   for num in nums:    print(num**2) power_two(*num_collection)
+>     ```
+>
+>     Would output:
+>
+>     ```
+>     9 3681
+>     ```
+>
+>
+>
+>
 
 ### Returning Multiple Values
 
