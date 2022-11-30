@@ -76,7 +76,6 @@ _What happens if we pass an **array** into a method?_
 * Arrays are objects. An array variable stores the addresses where the array are located in memory.
 
 ```
-
 public static double sum(double[] numbers){
 	double sum;
 	For element:numbers{
@@ -346,7 +345,7 @@ public void insertEnd(String item){ 	Node nodeToAddToEnd = new Node(); 			nodeTo
 
 Dynamic lookup is ::Help: insert more here::
 
-* Every object of a subclass _is_ an object of the _super_Class (with less fields/methods). The reverse is not true.
+* Every object of a subclass _is_ an object of the \_super\_Class (with less fields/methods). The reverse is not true.
 * Any subclass object can be assigned to a superclass variable, which is called _**polymorphism**_
 
 ```
@@ -570,7 +569,7 @@ for i = 1 to n do
 		x = x+1;
 ```
 
-&#x20;The total number of loop iterations is `nx(n+1)/2`.
+The total number of loop iterations is `nx(n+1)/2`.
 
 * This is a very common loop structure worth memorizing.
 * It’s proportional to n^2.
@@ -579,7 +578,7 @@ for i = 1 to n do
 
 #### Definition
 
-**Definition**: g(n) is in O(f(n)) if there exist positive constraints c and n0 such that g(n) ,= c_f(n) for all n>= n0_.
+**Definition**: g(n) is in O(f(n)) if there exist positive constraints c and n0 such that g(n) ,= c\_f(n) for all n>= n0\_.
 
 **To get the code and finding Big-Oh**:
 

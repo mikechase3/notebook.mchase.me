@@ -38,7 +38,6 @@ In the home folder, add these files:
 ```bash
 alias academics='cd /Users/mikechase3/Dropbox/Active\ Documents/16th\ Grade/Academics'
 export PATH=$PATH:/some/path
-
 ```
 {% endcode %}
 
@@ -51,14 +50,11 @@ alias academics='cd /Users/mikechase3/Dropbox/Active Documents/16th Grade/Academ
 if [ -f ~/.bash_profile ]; then
   . ~/.bash_profile
 fi
-
 ```
 {% endcode %}
 
 * Then, you've got so 'source' those files (e.g. `source ~.bash_profile`)
 * Test this works by using `env` to print out current env vars.
-
-
 
 ## Homebrew
 
@@ -68,8 +64,6 @@ fi
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-
 
 ## App**lications**
 
@@ -117,14 +111,14 @@ fi
 
 **Manage**
 
-1. ****
+1. ***
 
-#### Productivity
+**Productivity**
 
 1. Taskheat (workflow sketching that's more visual; poor prints though)
 2. "Studies"
 
-#### Utilities
+**Utilities**
 
 1. Ohtipi
 {% endtab %}
@@ -146,12 +140,6 @@ fi
 1. Timepage
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
 
 ### Create
 

@@ -470,17 +470,19 @@
   * [Meal Prep Sunday Wiki](https://www.reddit.com/r/MealPrepSunday/wiki/index)
   * [Meal Prepping](health-and-fitness/healthy-eating/meal-prepping/README.md)
     * [Getting Started](https://www.budgetbytes.com/meal-prep-101-a-beginners-guide/)
-  * [Foods To Avoid](https://www.cnbc.com/2022/05/14/harvard-nutritionist-and-brain-expert-avoids-these-foods-that-make-you-tired-and-stressed.html)
-* [Importance & Education](health-and-fitness/importance-and-education/README.md)
+  * [What to Avoid](health-and-fitness/healthy-eating/what-to-avoid/README.md)
+    * [Foods To Avoid](https://www.cnbc.com/2022/05/14/harvard-nutritionist-and-brain-expert-avoids-these-foods-that-make-you-tired-and-stressed.html)
+    * [Ultraprocessed Foods](https://www.cnn.com/2022/09/01/health/ultraprocessed-foods-cancer-early-death-wellness/index.html)
+* [Physical Activity](health-and-fitness/importance-and-education/README.md)
   * [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
+  * [Maximum Potential](https://www.youtube.com/watch?v=y0WOTplwNlw\&t=38s)
 * [Metabolism & Nutrition](health-and-fitness/metabolism-and-nutrition/README.md)
   * ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
 * [Substance Abuse](health-and-fitness/substance-abuse/README.md)
   * [Booklet for Families](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4126.pdf)
   * [I Took a Pill in Ibiza - Mike Posner](https://www.youtube.com/watch?v=foE1mO2yM04)
   * [SAMHSA Helpline](https://www.samhsa.gov/find-help/national-helpline)
-* [Workout Videos](health-and-fitness/workout-videos/README.md)
-  * [Maximum Potential](https://www.youtube.com/watch?v=y0WOTplwNlw\&t=38s)
+* [Workout Videos](health-and-fitness/workout-videos.md)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 

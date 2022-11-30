@@ -20,9 +20,9 @@ I had all of the math done from last time luckily, but I still had to draw mysel
 
 ### Generic Methods and Classes
 
-Even though I just took CPS 350, a lot of examples had generic classes in them, but I never really knew what they meant or how to use them. I think the only time I was formally introduced to them was when I was&#x20;
+Even though I just took CPS 350, a lot of examples had generic classes in them, but I never really knew what they meant or how to use them. I think the only time I was formally introduced to them was when I was
 
-I spent a lot of time reading and going through old textbooks, but ultimately, I went back to what I knew because I couldn't figure it out. At least now, I know it's something useful that I'll have to learn.&#x20;
+I spent a lot of time reading and going through old textbooks, but ultimately, I went back to what I knew because I couldn't figure it out. At least now, I know it's something useful that I'll have to learn.
 
 ![Source: Big Java Late Objects Textbook](<../../../.gitbook/assets/Generic Methods Big Java Late Objects.jpg>)
 
@@ -65,7 +65,6 @@ public class Key<K>{
 
     //MEMBER METHODS
     ...
-
 ```
 
 I had tons of trouble casting everything, and so many errors. I'd look them up on Stack Overflow, but oftentimes, especially when I needed to compare to keys of generic type **K**, I couldn't run any of the normal operators. I couldn't say `key > child` or `key.compareTo(anotherKey)`so it felt rather useless to use generic types. It also cluttered my code up because I kept making classes to try and solve problems and once it got to `UnusedClass2` I gave up.
@@ -169,7 +168,6 @@ public class Value extends Object{
         return testCase1;
     }
 }
-
 ```
 
 {% hint style="warning" %}
@@ -288,4 +286,3 @@ I modified the interface to throw exceptions. I think the names "key" and "val" 
      * Resets the priority queue to appear as not containing any elements.
      */
 ```
-

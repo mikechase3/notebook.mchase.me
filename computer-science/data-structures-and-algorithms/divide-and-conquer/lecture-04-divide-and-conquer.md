@@ -92,7 +92,6 @@ function merge(leftArray, rightArray, array) {
   
   console.log('** end of merge function ** array is: ', array);
 }
-
 ```
 
 #### Analyzing the Running Time of Merge Sort
@@ -123,7 +122,7 @@ This example is from _Back to Back SWE,_ entitled _Divide and Conquer Methodolog
 
 #### To solve using Divide & Conquer
 
-1. Take a vertical slice of the points.&#x20;
+1. Take a vertical slice of the points.
 2. **Split** the first input in half vertically.
    1. Find the closest points in the left half to the line.
    2. Find the closest points in the right half to the line.
@@ -257,7 +256,7 @@ class Solution {
 }
 ```
 
-#### Split Subroutine&#x20;
+#### Split Subroutine
 
 * This **splits** the array into roughly two halves around a **pivot**.
   * It figures out where to chop the array.
@@ -274,7 +273,7 @@ class Solution {
 
 ## Analyzing Running Time
 
-When we analyze the running time of recurrence functions, we do so using piecewise functions.&#x20;
+When we analyze the running time of recurrence functions, we do so using piecewise functions.
 
 ![An example of a piecewise function defining the running time.](<../../../.gitbook/assets/Recurrence Function Time Example.jpg>)
 
@@ -324,11 +323,8 @@ See other problems on her Isidore site.
 3. [Back to Back SWE](https://backtobackswe.com/platform/content/quicksort/code) (Quicksort video)
 4. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4**_).
 
-
-
 ## Works Cited
 
 | Title         | Content Used                   | Author           |
 | ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-

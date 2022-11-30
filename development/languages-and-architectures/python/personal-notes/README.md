@@ -356,6 +356,7 @@ def favorite_song_statement(song, artist):
 >     total_tip = total * (tip/100)
 >     split_price = (total + total_tip) / split
 >     print(split_price)
+>
 > </code></pre>
 
 
@@ -413,7 +414,8 @@ shout_strings('Working on', 'learning', 'argument unpacking!')
 # Returns: 
 <strong># WORKING ON
 </strong># LEARNING
-# ARGUMENT UNPACKING!</code></pre>
+# ARGUMENT UNPACKING!
+</code></pre>
 
 ### \*\*kwargs Keyword Args Dictionary
 

@@ -121,7 +121,7 @@ Research shows there's a big split of confidence between genders.
 
 > I can to realize in the poker world that stereotypes exist. I thought I was above all that. Part of it is the immigrant in me. I was an outsider who didn't speak English and I didn't have money. I wore hand-me-downs. All of those things stuck with me and made me a little more **self-conscious**.
 >
-> When you're female, other people won't step on your toes. They try to be nice and affable, not confrontational.&#x20;
+> When you're female, other people won't step on your toes. They try to be nice and affable, not confrontational.
 
 * Girls are more self-conscious.
 * When you're female, you try not to step on other people's toes. You try to be nice and affable, not confontational.
@@ -135,7 +135,7 @@ Research shows there's a big split of confidence between genders.
 * How do you see women and how do you see women playing poker?
 * Someone gave the women information and power. He wanted him to know that he was being a gentlemen.
 * Men are nice and chivalrous.
-* Other men think you should not be at the poker table at all. They will bull you because you're a woman.&#x20;
+* Other men think you should not be at the poker table at all. They will bull you because you're a woman.
 
 ## Insecurity
 
@@ -162,9 +162,7 @@ He says you can't use games at a metaphor. Life is messy and games are neat, but
 
 That's what makes them powerful as teaching tools. You can't learn in noisy environments because there are too many variables, but poker removes them in an artificial way which alows you to acccess your thoughts on a much deeper way.
 
-In life, you can use&#x20;
-
-
+In life, you can use
 
 ## Lessons Learned
 
@@ -621,5 +619,4 @@ NVxTGckBjSh0jZDQjxdFQRel1OqMR/+10N4SNqsz4gmiAmOX8GVS26lp28ouZUz4
 hXOiZOY0bO4IOYa7UGqPDtzAeL36D5sK+LFvpk+slkdmSa1bVGq/ciuwmA==
 =J7EQ
 -----END PGP MESSAGE-----
-
 ```
