@@ -445,6 +445,7 @@
 
 * [Cone of Learning](education/cone-of-learning.md)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
@@ -493,6 +494,11 @@
 * [Morpholio](house/morpholio/README.md)
   * [Morpholio Tutorials](https://www.youtube.com/watch?v=kf5lg3VlLoY\&list=PLdlz\_3DMdbrpaZRw9ScLF0J4b\_Zi0DfzU)
 * [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
+
+## 🖥 Infrastructure and IT
+
+* [Adblocking](infrastructure-and-it/adblocking/README.md)
+  * [PiHole Custom DNS](https://pi-hole.net/)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
