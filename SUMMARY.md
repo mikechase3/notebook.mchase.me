@@ -499,6 +499,8 @@
 
 * [Adblocking](infrastructure-and-it/adblocking/README.md)
   * [PiHole Custom DNS](https://pi-hole.net/)
+* [Hacking (Root Access)](infrastructure-and-it/hacking-root-access/README.md)
+  * [CarThing](https://npjohnson.github.io/Spotify-Car-Thing-Root/)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
