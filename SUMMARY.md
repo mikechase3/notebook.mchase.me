@@ -402,6 +402,7 @@
       * [Boolean Logic](development/languages-and-architectures/python/personal-notes/boolean-logic.md)
       * [Codecademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/python)
       * [Docs](https://docs.python.org/3/index.html)
+      * [GIL Debate](https://realpython.com/python-gil/)
       * [Importing Module Examples](development/languages-and-architectures/python/personal-notes/tkinter-module-notes.md)
       * [Language Crash Course](development/languages-and-architectures/python/personal-notes/python-crash-course.md)
       * [Mutable Default Args Warning](https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument)
