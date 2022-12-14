@@ -444,6 +444,7 @@
 
 ## 🎒 Education
 
+* [Autism Spectrum Quotient](https://embrace-autism.com/autism-spectrum-quotient/)
 * [Cone of Learning](education/cone-of-learning.md)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
