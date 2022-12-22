@@ -1,4 +1,10 @@
-# Importing Module Examples
+---
+description: >-
+  How do you use existing modules? How do you make your own packages and import
+  them into other applications?
+---
+
+# Module Usage and Creation
 
 ## Working with Modules
 

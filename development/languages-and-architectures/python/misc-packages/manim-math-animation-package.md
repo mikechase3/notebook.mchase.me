@@ -2,7 +2,7 @@
 
 ## What is Manim
 
-![](<../../../.gitbook/assets/image (459).png>)
+![](<../../../../.gitbook/assets/image (459).png>)
 
 * Precise animations.
 * Designed for creating explanatory math videos.
@@ -48,8 +48,6 @@ There are also several video installation instructions here:
 {% embed url="https://youtube.com/c/TheoremofBeethoven/search?query=manim%20install" %}
 
 ## Getting Started
-
-
 
 ## References and Further Reading
 
