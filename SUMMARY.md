@@ -410,6 +410,7 @@
       * [Strings](development/languages-and-architectures/python/personal-notes/strings/README.md)
         * [String Methods](https://docs.python.org/3/library/stdtypes.html?highlight=str#string-methods)
     * [Datetime Package](development/languages-and-architectures/python/datetime-module.md)
+    * [Django Basics](development/languages-and-architectures/python/django-basics.md)
     * [Flask](development/languages-and-architectures/python/flask.md)
     * [Manim Math Animation Package](development/languages-and-architectures/python/manim-math-animation-package.md)
     * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas\_Cheat\_Sheet.pdf)
@@ -435,10 +436,9 @@
   * [Digital Ocean Community](https://www.digitalocean.com/community/tutorials)
 * [Regular Expressions](development/regex-expressions.md)
 * [Web Apps](development/web-apps/README.md)
-  * [Django Basics](development/web-apps/django-basics.md)
-  * [Page 8](development/web-apps/page-8.md)
   * [Create GitLab Pages Site from Scratch](https://docs.gitlab.com/ee/user/project/pages/getting\_started/pages\_from\_scratch.html)
   * [SSL & HTTPS Getting Started](https://support.google.com/domains/answer/7630973?authuser=2\&authuser=2\&hl=en\&visit\_id=637978991464117998-3893459780\&rd=1#zippy=%2Cget-an-ssltls-certificate-from-a-certificate-authority-ca)
+  * [Python: Flask/Django](https://notebook.mchase.me/development/languages-and-architectures/python/)
 * [Version Control](development/git-and-github/README.md)
   * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
@@ -485,7 +485,7 @@
   * [Booklet for Families](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4126.pdf)
   * [I Took a Pill in Ibiza - Mike Posner](https://www.youtube.com/watch?v=foE1mO2yM04)
   * [SAMHSA Helpline](https://www.samhsa.gov/find-help/national-helpline)
-* [Workout Videos](health-and-fitness/workout-videos/README.md)
+* [Workout Videos](health-and-fitness/workout-videos.md)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 
@@ -501,6 +501,8 @@
 
 * [Adblocking](infrastructure-and-it/adblocking/README.md)
   * [PiHole Custom DNS](https://pi-hole.net/)
+* [Humor](infrastructure-and-it/humor/README.md)
+  * [Internet Rules](https://knowyourmeme.com/memes/rules-of-the-internet)
 * [Hacking (Root Access)](infrastructure-and-it/hacking-root-access/README.md)
   * [CarThing](https://npjohnson.github.io/Spotify-Car-Thing-Root/)
 
@@ -635,7 +637,7 @@
       * [Pro Tools](music/producing/equipment/digital-audio-workstations/pro-tools.md)
 * [Sightreading](music/sightreading/README.md)
   * [Wolfhart Sightreading](https://s9.imslp.org/files/imglnks/usimg/a/a8/IMSLP241611-PMLP391095-Wohl\_ABC.pdf)
-* [Technique](music/technique.md)
+* [Technique](music/technique/README.md)
   * [Scat Rap](https://rabbidavidzaslow.com/wp-content/uploads/2013/11/scatrap.pdf)
 * [Theory](music/theory/README.md)
   * [MusicTheory.Net](https://www.musictheory.net/)
@@ -697,7 +699,7 @@
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
 * [Ideation](writing/ideation.md)
-* [Inspiration](writing/inspiration.md)
+* [Inspiration](writing/inspiration/README.md)
 * [Introductions](writing/the-introduction.md)
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
 * [Organizational Models](writing/organizational-models/README.md)
