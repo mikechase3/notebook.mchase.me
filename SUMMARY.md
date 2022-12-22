@@ -485,7 +485,7 @@
   * [Booklet for Families](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4126.pdf)
   * [I Took a Pill in Ibiza - Mike Posner](https://www.youtube.com/watch?v=foE1mO2yM04)
   * [SAMHSA Helpline](https://www.samhsa.gov/find-help/national-helpline)
-* [Workout Videos](health-and-fitness/workout-videos.md)
+* [Workout Videos](health-and-fitness/workout-videos/README.md)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 
@@ -635,7 +635,7 @@
       * [Pro Tools](music/producing/equipment/digital-audio-workstations/pro-tools.md)
 * [Sightreading](music/sightreading/README.md)
   * [Wolfhart Sightreading](https://s9.imslp.org/files/imglnks/usimg/a/a8/IMSLP241611-PMLP391095-Wohl\_ABC.pdf)
-* [Technique](music/technique/README.md)
+* [Technique](music/technique.md)
   * [Scat Rap](https://rabbidavidzaslow.com/wp-content/uploads/2013/11/scatrap.pdf)
 * [Theory](music/theory/README.md)
   * [MusicTheory.Net](https://www.musictheory.net/)
@@ -697,8 +697,7 @@
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
 * [Ideation](writing/ideation.md)
-* [Inspiration](writing/inspiration/README.md)
-  * [2022 Clippings](writing/inspiration/2022-clippings.md)
+* [Inspiration](writing/inspiration.md)
 * [Introductions](writing/the-introduction.md)
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
 * [Organizational Models](writing/organizational-models/README.md)
