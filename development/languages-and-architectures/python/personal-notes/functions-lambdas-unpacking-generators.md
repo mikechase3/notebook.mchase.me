@@ -2,7 +2,7 @@
 description: Functions, unpacking operators (*args, **kwargs), generators
 ---
 
-# Functions, Unpacking, Generators
+# Functions, Lambdas, Unpacking, Generators
 
 ## Functions
 

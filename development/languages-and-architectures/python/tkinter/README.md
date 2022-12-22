@@ -10,8 +10,6 @@ Good Series
 
 {% embed url="https://github.com/PacktPublishing/Tkinter-GUI-Application-Development-Blueprints-Second-Edition" %}
 
-
-
 ### Comprehensive Guide
 
 {% embed url="https://users.tricity.wsu.edu/~bobl/cpts481/tkinter_nmt.pdf" %}
@@ -19,4 +17,3 @@ Good Series
 ### Dropdown Menus
 
 {% embed url="https://www.youtube.com/watch?v=PSm-tq5M-Dc&t=329s" %}
-

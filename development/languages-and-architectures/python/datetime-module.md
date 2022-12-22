@@ -6,15 +6,13 @@
 * Print the current time: `datetime.now()`
 * Get the date: `datetime.date()`
 * Get the time: `datetime.time()`
-*   Set a date & time:&#x20;
+*   Set a date & time:
 
     ```
     any_variable = datetime(year, month, day[, hour[, minute[, second[, microsecond[,tzinfo]]]]])
     ```
 
-
-
-#### DateTime Arithmetic&#x20;
+#### DateTime Arithmetic
 
 We can subtract dates from each other to see how much time has elapsed.
 
@@ -43,4 +41,3 @@ This creates a string from a datetime. It's very similar to `strptime` but just 
 date_string = datetime.strftime(datetime.now(), '%b %d, %Y')
 # Returns: 'Jan 17, 2020'
 ```
-

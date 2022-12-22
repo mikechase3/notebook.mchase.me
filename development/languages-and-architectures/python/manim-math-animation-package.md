@@ -2,7 +2,7 @@
 
 ## What is Manim
 
-![](<../../../../.gitbook/assets/image (459).png>)
+![](<../../../.gitbook/assets/image (459).png>)
 
 * Precise animations.
 * Designed for creating explanatory math videos.

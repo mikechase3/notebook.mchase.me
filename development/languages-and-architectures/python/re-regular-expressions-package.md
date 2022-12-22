@@ -2,8 +2,6 @@
 
 {% embed url="https://docs.python.org/3/library/re.html" %}
 
-
-
 ## Match Class
 
 ## Pattern Class
@@ -12,7 +10,7 @@
 
 {% embed url="https://docs.python.org/3/library/re.html#re.split" %}
 
-``
+\`\`
 
 * The `split` function in `re`, aka `re.split()` is awesome because it lets you use multiple delimiters and accounts for whitespace around the delimiters.
 * The result is a list of fields.

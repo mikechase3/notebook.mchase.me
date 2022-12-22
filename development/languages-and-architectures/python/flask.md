@@ -16,7 +16,7 @@ app = Flask(__name__)  # Gets
 ### Routing
 
 * Here's how you get started with something.
-* Use \`@app.route('/') to route a URL to a function displaying output.:&#x20;
+* Use \`@app.route('/') to route a URL to a function displaying output.:
 
 ```python
 from flask import Flask
