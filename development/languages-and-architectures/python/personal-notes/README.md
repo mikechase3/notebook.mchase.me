@@ -4,8 +4,8 @@
 
 {% embed url="https://www.python.org/dev/peps/pep-0008/#id34" %}
 
-{% content-ref url="../pep-8-style-guide.md" %}
-[pep-8-style-guide.md](../pep-8-style-guide.md)
+{% content-ref url="pep-8-style-guide.md" %}
+[pep-8-style-guide.md](pep-8-style-guide.md)
 {% endcontent-ref %}
 
 * Variables are lowercase.
@@ -26,9 +26,7 @@ runtime_of_crap = 2
 * Use the type() function.
 * `print(type(what_is_this_mysterious_variable))`
 
-### Classes
 
-* Class names are upper case.
 
 ## Math
 
