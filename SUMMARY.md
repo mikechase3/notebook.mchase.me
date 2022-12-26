@@ -460,8 +460,9 @@
 ## Finance
 
 * [Cryptocurrency Taxes](finance/cryptocurrency-taxes.md)
+* [Investments](finance/investments/README.md)
+  * [Mike Chase's Advice](finance/investments/stocks.md)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
-* [Stocks](finance/stocks.md)
 
 ## 🕹 Gaming
 
