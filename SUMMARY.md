@@ -32,14 +32,13 @@
 ## 📺 AV
 
 * [Audio Production Classnotes](https://www.dropbox.com/sh/qjkcjn6an6akj9k/AABVfe6E-sZb8PDw\_RDdKmxNa?dl=0)
-* [Equipment](av/equipment.md)
-* [Projector Central](https://www.projectorcentral.com/)
-* [Photography Basics](av/photography-basics.md)
 * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech\_background/TE-15/teces\_15.html)
 * [Music Production](av/music-production.md)
+* [Projector Central](https://www.projectorcentral.com/)
+* [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
+* [UCSC Tech Music Essays](av/equipment.md)
 * [Video Editing](av/page-7/README.md)
   * [Hermet LTT Video Editor Tutorial](https://www.youtube.com/watch?v=O6ERELse\_QY)
-* [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
@@ -457,6 +456,10 @@
   * [Python Resources](education/teaching-code/resources.md)
   * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
+## 🎥 Entertainment
+
+* [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
+
 ## Finance
 
 * [Cryptocurrency Taxes](finance/cryptocurrency-taxes.md)
@@ -659,7 +662,6 @@
 
 * [Breaking Up Hard Tasks](principles-and-values/breaking-up-hard-tasks.md)
 * [Casting Judgement](principles-and-values/casting-judgement.md)
-* [Complacency](principles-and-values/complacency.md)
 * [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
 * [Dating](principles-and-values/dating.md)
 * [Discipline](principles-and-values/discipline.md)
@@ -717,7 +719,6 @@
 * [Tongue Quill Etiquette](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 * [Tools and Technologies](writing/tools-and-technologies/README.md)
   * [Inferkit](https://app.inferkit.com/generate)
-  * [Ulysses Shortcuts Integrations](https://help.ulysses.app/integrations/shortcuts)
 * [Writing Samples](writing/writing-samples/README.md)
   * [2021](writing/writing-samples/looking-back-on-my-year-that-was-2021/README.md)
     * [Why We Fight: Wartime Propaganda and its Application Today](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-we-fight.md)
