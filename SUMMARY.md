@@ -248,6 +248,7 @@
   * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable\_gate\_array)
   * [MIPS](computer-science/electrical-hardware-topics/mips.md)
   * [Modulation](http://complextoreal.com/wp-content/uploads/2013/01/mod1.pdf)
+  * [Quantum Computing](https://deepboltzer.codes/the-incredible-world-of-quantum-mechanics#heading-quantum-mechanics-fundamental-concepts)
 * [Linux](computer-science/linux/README.md)
   * [Distro Test](https://distrotest.net/index.php)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
