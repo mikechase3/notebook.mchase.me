@@ -48,8 +48,8 @@
 * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
 * [Risk Management](business/risk-management.md)
 * [Role Models](business/role-models/README.md)
-  * [Elon Musk](business/role-models/elon-musk.md)
-    * [On Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
+  * [Hasting NFLX Culture](https://www.youtube.com/watch?v=2fuOs6nJSjY)
+  * [Musk Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
   * [Gen Z Best Email Signatures](https://vm.tiktok.com/ZTd9PXJBG/)
@@ -447,12 +447,14 @@
 ## 🎒 Education
 
 * [Autism Spectrum Quotient](https://embrace-autism.com/autism-spectrum-quotient/)
+* [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom's\_taxonomy)
 * [Cone of Learning](education/cone-of-learning.md)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
+* [Polarized Learning](education/polarized-learning.md)
 * [Teaching Code](education/teaching-code/README.md)
   * [Python Resources](education/teaching-code/resources.md)
   * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
@@ -695,7 +697,6 @@
     * [Overview Maps Charts](https://www.vox.com/policy-and-politics/2017/10/2/16399418/america-mass-shooting-gun-violence-statistics-charts)
 * [Psychology](social-sciences/psychology/README.md)
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
-  * [Polarized Learning](social-sciences/psychology/polarized-learning.md)
 
 ## 📝 Writing
 
