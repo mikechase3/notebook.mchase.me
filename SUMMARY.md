@@ -456,6 +456,7 @@
 * [Teaching Code](education/teaching-code/README.md)
   * [Python Resources](education/teaching-code/resources.md)
   * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+  * [Tips for Kids](education/teaching-code/tips-for-kids.md)
 
 ## 🎥 Entertainment
 
