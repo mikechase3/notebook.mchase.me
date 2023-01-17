@@ -8,7 +8,11 @@ description: Notes from Jess A.'s presentation, combined with some creative comm
 
 ### Bloom
 
-You need to start from the bottom and work upwards.
+{% embed url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blooms_rose.svg/1280px-Blooms_rose.svg.png" %}
+Author: Wikipedia contributors
+{% endembed %}
+
+
 
 {% embed url="https://en.wikipedia.org/wiki/Bloom's_taxonomy" %}
 

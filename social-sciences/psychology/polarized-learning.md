@@ -8,8 +8,8 @@ description: How to deal with heated climates.
 
 ### Framing to Win
 
-* Know the facts&#x20;
-* Know what information should be discussed&#x20;
+* Know the facts
+* Know what information should be discussed
 * I am going to realize my goals
 * Rigidly maintain my assumptions
 * Seek to minimize negative feelings and emotions
@@ -25,8 +25,8 @@ description: How to deal with heated climates.
 
 Below is a list of what we discussed:
 
-* Preparing for the Conversation&#x20;
-* Respectful Listening&#x20;
+* Preparing for the Conversation
+* Respectful Listening
 * Thoughtful Advocacy
 * Openness to Learning
 * Intellectual Humility
@@ -35,13 +35,13 @@ Below is a list of what we discussed:
 
 ### Preparing for Conversations
 
-* I will create opportunities for conversations on important questions that shape our society Engage persons with a variety of perspectives will enter these conversations&#x20;
+* I will create opportunities for conversations on important questions that shape our society Engage persons with a variety of perspectives will enter these conversations
 * Respecting the dignity of each person and their right to formulate arguments and Framing to Learn
 
 ### Prophetic Courage
 
 * When called for, I will speak clearly and forcefully for positions that I believe to be just and true, but may be unpopular or even reviled.
-* &#x20;In these situations, I will persist in speaking for my position even when mine is a minority voice and there is a price to pay.
+* In these situations, I will persist in speaking for my position even when mine is a minority voice and there is a price to pay.
 
 ## Good Questions
 
