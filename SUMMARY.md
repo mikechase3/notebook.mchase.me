@@ -676,15 +676,19 @@
 * [Breaking Up Hard Tasks](principles-and-values/breaking-up-hard-tasks.md)
 * [Casting Judgement](principles-and-values/casting-judgement.md)
 * [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
-* [Dating](principles-and-values/dating.md)
 * [Discipline](principles-and-values/discipline.md)
 * [Don't do drugs](principles-and-values/dont-do-drugs.md)
-* [Friendships](principles-and-values/friendships.md)
 * [Goal Setting](principles-and-values/goal-setting.md)
   * [2020 Goals](backlog.md)
 * [Principles and Values](principles-and-values/values.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 * [Principles Ray](https://www.principles.com)
+
+## Relationships
+
+* [Dating](relationships/dating/README.md)
+  * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
+* [Friendships](relationships/friendships.md)
 
 ## Social Sciences
 
