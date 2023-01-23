@@ -2,9 +2,9 @@
 description: Smile when you dial
 ---
 
-# Magic Phrases
+# Phone Conversations
 
-## Phone
+## Phone Magic Methods for Surveys
 
 * "Let's try a few and see how it goes"
 * "Every opinion matters"
