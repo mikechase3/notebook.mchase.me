@@ -500,6 +500,7 @@
   * [Maximum Potential](https://www.youtube.com/watch?v=y0WOTplwNlw\&t=38s)
 * [Metabolism & Nutrition](health-and-fitness/metabolism-and-nutrition/README.md)
   * ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
+* [Processed Foods](health-and-fitness/processed-foods.md)
 * [Substance Abuse](health-and-fitness/substance-abuse/README.md)
   * [Booklet for Families](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4126.pdf)
   * [I Took a Pill in Ibiza - Mike Posner](https://www.youtube.com/watch?v=foE1mO2yM04)

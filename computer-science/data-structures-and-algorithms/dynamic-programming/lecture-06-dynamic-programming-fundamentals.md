@@ -25,21 +25,7 @@ Unlike divide & conquer algorithms, the problems did not explicitly overlap, and
 ## Matrix Multiplication
 
 $$
-\begin{bmatrix}3, 4
-\\ 7,2
-\\ 5,9
-\end{bmatrix}
-
-\cdot 
-
-\begin{bmatrix}3, 1, 5
-\\ 6, 7, 9
-\end{bmatrix}
-
-=\begin{bmatrix}33, 39, 43
-\\33, 25, 49
-\\69, 86, 88
-\end{bmatrix}
+\begin{bmatrix}3, 4 \\ 7,2 \\ 5,9 \end{bmatrix} \cdot \begin{bmatrix}3, 1, 5 \\ 6, 7, 9 \end{bmatrix} =\begin{bmatrix}33, 39, 43 \\33, 25, 49 \\69, 86, 88 \end{bmatrix}
 $$
 
 ### Understanding The Problem
@@ -55,8 +41,6 @@ If you're completely new to this like I was, this [video](https://www.youtube.co
   * [ ] 4x9 = 36
   * [ ] 36+3=**39**
 * [ ] Repeat until you fill the matrix.
-
-
 
 ### Different Approaches to Matrix Multiplication
 
@@ -88,10 +72,10 @@ Assume we're using a 4x4 matrix. _See her video at 4:40_
 When this is all set and done, we find that the run time is:
 
 $$
-T(n) = 8T\left (\frac{n}{2}  \right )+\Theta \left (n^2 \right)
+T(n) = 8T\left (\frac{n}{2} \right )+\Theta \left (n^2 \right)
 $$
 
-#### Master Theorem
+**Master Theorem**
 
 ![Source: Brilliant, Master Theorem](<../../../.gitbook/assets/image (1).png>)
 
@@ -111,7 +95,7 @@ $$
 [f(n)] \approx ? [\log_{b}(n)] \rightarrow n^2 < n^3 \rightarrow \texttt{Use Case A}
 $$
 
-#### Conclusion
+**Conclusion**
 
 Therefore, we can conclude the running time is:
 
@@ -122,22 +106,19 @@ $$
 Which, unfortunately, is the same running time as our brute force method.
 {% endtab %}
 
-{% tab title="Strassen's Method" %}
-#### The Main Idea
+{% tab title="Strassen" %}
+**The Main Idea**
 
 Recall from earlier, the running time of the divide & conquer approach:
 
 $$
-T(n) = 8T\left (\frac{n}{2}  \right )+\Theta \left (n^2 \right)
+T(n) = 8T\left (\frac{n}{2} \right )+\Theta \left (n^2 \right)
 $$
 
 Strassen's main idea is to make the recursion tree less bushy by lowering `a`. Here, we can **perform only 7 recursive multiplicaitons** of `n/2` x `n/2` matrices, rather than 8.
 
 $$
-\begin{cases}
-\Theta(1) & \text{ if } n=1 \\ 
-7T(\frac{n}{2}) & \text{ if } n>1
-\end{cases}
+\begin{cases} \Theta(1) & \text{ if } n=1 \\ 7T(\frac{n}{2}) & \text{ if } n>1 \end{cases}
 $$
 
 Now, `a` is 7 and b is 2, so:
@@ -146,15 +127,15 @@ $$
 n^{log_2(7)}\rightarrow n^{2.81}
 $$
 
-#### Finding Big Theta
+**Finding Big Theta**
 
 We'll use the master theorem again to compare `f(n) = Θ(n^2)` to `n^{log_b(a)} = 2.81` and we'll clearly be using case a.
 
-![Source: Dr. Yao's Notes](<../../../.gitbook/assets/image (3).png>)
+![Source: Dr. Yao's Notes](<../../../.gitbook/assets/image (3) (2).png>)
 
 Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better.
 
-#### Optional Further Reading
+**Optional Further Reading**
 
 * The best case by this method runs in `Θ(n^(2.376)` time.
 * _Textbook:_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _(Chapter 15_).
@@ -167,14 +148,14 @@ Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better
 
 > 1. **Characterize the structure of an optimal solution**. _(What are the sub-problems?)_
 > 2. **Recursively define the value of an optimal solution.** _(i.e. recurrence for Fibonacci(n): Fib(n) = Fib(n-1)+(n-2), which is a formula involving only smaller sub-problems._
-> 3. **Compute the value of an optimal solution in a **_**bottom-up**_** fashion**. Store (memorize) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
+> 3. **Compute the value of an optimal solution in a \_bottom-up**\_\*\* fashion\*\*. Store (memorize) the results of all sub-problems, which can then be later accessed to solve other sub-problems.
 > 4. **Construct an optimal solution from computed information.**
 >
 > _Source: Dr. Yao's Slides, Dynamic Programming Part 1. (Paraphrased)_
 
-_****_
+_\*\*\*\*_
 
-****
+***
 
 ### Example: Fibonacci Numbers
 
@@ -215,10 +196,6 @@ class fibonacci
 // Source: Geeks For Geeks.
 ```
 
-
-
-
-
 ## Works Cited
 
 1. Dr. Zhongmei Yao's [CPS 450 course](http://academic.udayton.edu/zhongmeiyao/450592.html). _(Four-step method)._
@@ -226,8 +203,6 @@ class fibonacci
 3. _**Textbook:**_ Introduction to Algorithms by Thomas Cormen et. al., 3rd Edition _**(Chapter 4, 15**_).
 4. [Brilliant: Master Theorem](https://brilliant.org/wiki/master-theorem/?subtopic=algorithms\&chapter=complexity-runtime-analysis)
 5. Geeks for Geeks: Fibonacci Sequence
-
-
 
 ## Works Cited
 

@@ -50,8 +50,6 @@ Let's say we have an original array with the elements `[3, -2, 5, -1]`. We can c
 3. The number of elements with 3 consecutive elements has _2_ subarrays.
 4. The number of elements with 4 consecutive elements has _1_ subarrays.
 
-
-
 The number of subarrays with 4 elements is
 
 $$
@@ -68,7 +66,7 @@ I'm only 90% sure I calculated this right, not 100%
 
 {% tabs %}
 {% tab title="Cubic Time" %}
-This work is not my own, but from [Back to Back SWE](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions):&#x20;
+This work is not my own, but from [Back to Back SWE](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions):
 
 ```java
 class Solution {
@@ -134,7 +132,7 @@ class Solution {
 {% endtab %}
 
 {% tab title="Linear-Ish Time (Divide & Conquer)" %}
-#### Divide into Two Halves
+**Divide into Two Halves**
 
 Given the subarray: `[3, -2, 5, -1]`, we can split it up into the left half and the right half:
 
@@ -148,18 +146,18 @@ There are three cases we must consider:
 * Across the middle portion
 
 {% hint style="danger" %}
-I do not understand how to cross between the middle point _(Video: 17:30: We need to compare the three sum, if we go from A\[0]_ ⇒_A\[2]_, we find the sum is 6._)_
+I do not understand how to cross between the middle point _(Video: 17:30: We need to compare the three sum, if we go from A\[0]_ ⇒\_A\[2]_, we find the sum is 6._)\_
 {% endhint %}
 
-__
+\_\_
 
-#### Pseudocode
+**Pseudocode**
 
 1. **Divide** by computing the mid-point and splitting.
 2. **Conquer** by two recursive calls:
-   1. Find the maximum subarray of `A[low...mid]`&#x20;
-   2. Find the maximum subarray of  `A[mid+1...high]`
-3. **Combine**  by calling the _Find-max-crossing subarray_ that crosses the midpoint, and then determining which of the three results gives the maximum sum _(Source: Yao)_.
+   1. Find the maximum subarray of `A[low...mid]`
+   2. Find the maximum subarray of `A[mid+1...high]`
+3. **Combine** by calling the _Find-max-crossing subarray_ that crosses the midpoint, and then determining which of the three results gives the maximum sum _(Source: Yao)_.
 4. Solve the **base case**, where the array only has one element _by returning just that element._
 
 {% hint style="danger" %}
@@ -186,7 +184,7 @@ See video @ 24:00.
 I don't understand this pseudocode @ 26:00 for crossing the array.
 {% endhint %}
 
-#### Full Solution
+**Full Solution**
 
 Solution from [Back to Back SWE](https://backtobackswe.com/platform/content/max-contiguous-subarray-sum/solutions):
 
@@ -264,7 +262,7 @@ class Solution {
 
 Roughly, this means:
 
-![Source: Dr. Yao's Slides](<../../../.gitbook/assets/image (3).png>)
+![Source: Dr. Yao's Slides](<../../../.gitbook/assets/image (3) (2).png>)
 
 {% hint style="info" %}
 T(n) is the worst case running time on the problem. **n** is the problem size. **a** is the number of sub problems. **n/b** is the size of each subproblem. **f(n)** is the worst-case running time for the divide & combination step.
@@ -278,7 +276,7 @@ What are the steps for solving ad divide/conquer running time?
 
 * [ ] Look at each sub-problem and find the running time _(see merge-sort and quick-sort examples above)._
 * [ ] **Add** each sub-problem together and set them equal to **T(n)**
-* [ ] **Solve** for a, b, and n in the master theorem.&#x20;
+* [ ] **Solve** for a, b, and n in the master theorem.
 * [ ] **Substitute** variables to solve:
 
 $$
@@ -316,4 +314,3 @@ $$
 | Title         | Content Used                   | Author           |
 | ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-
