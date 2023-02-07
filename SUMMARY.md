@@ -480,6 +480,10 @@
   * [Mike Chase's Advice](finance/investments/stocks.md)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 
+## 🥪 Food
+
+* [Favorite Restaurants](food/favorite-restaurants.md)
+
 ## 🕹 Gaming
 
 * [Gaming Research Integration](gaming/gaming-research-integration.md)
