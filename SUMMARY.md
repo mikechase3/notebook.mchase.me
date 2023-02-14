@@ -689,6 +689,7 @@
 * [Principles and Values](principles-and-values/values.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 * [Principles Ray](https://www.principles.com)
+* [Societal Impact](principles-and-values/societal-impact.md)
 
 ## Relationships
 
