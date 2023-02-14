@@ -721,6 +721,8 @@
 
 * [Abstracts](writing/abstracts.md)
 * [Bullet Statement Mechanics](writing/bullet-statement-mechanics.md)
+* [Common Mistakes](writing/common-mistakes/README.md)
+  * [Avoiding Wordiness & Redundancy](https://www.tutor.com/cmspublicfiles/WWW/Avoiding\_Wordiness\_and\_Redundancy.pdf)
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
 * [Ideation](writing/ideation.md)
@@ -745,5 +747,5 @@
     * [Why I Became a CS Major](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-i-became-a-cs-major.md)
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
-  * [2023](writing/writing-samples/2023/README.md)
+  * [2023](writing/writing-samples/2023.md)
     * [Statement of Purpose](writing/writing-samples/2023/statement-of-purpose.md)
