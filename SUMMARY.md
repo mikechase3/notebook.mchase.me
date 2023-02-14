@@ -745,4 +745,5 @@
     * [Why I Became a CS Major](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-i-became-a-cs-major.md)
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
-  * [2023](writing/writing-samples/2023.md)
+  * [2023](writing/writing-samples/2023/README.md)
+    * [Statement of Purpose](writing/writing-samples/2023/statement-of-purpose.md)
