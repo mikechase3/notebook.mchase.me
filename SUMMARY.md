@@ -304,7 +304,7 @@
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
   * [Processes & Process Management](computer-science/operating-systems/untitled.md)
   * [Something New](computer-science/operating-systems/something-new.md)
-  * [Lecture 06: Solving Systems of Equations](computer-science/operating-systems/lecture-06-solving-systems-of-equations.md)
+  * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 
 ## 🐍 Development
@@ -606,6 +606,7 @@
   * [Single Value Decomposition](math/matrix-theory/single-value-decomposition.md)
   * [Chapter 1 Textbook Notes](math/matrix-theory/chapter-1-textbook-notes.md)
   * [Principle Component Analysis](math/matrix-theory/principle-component-analysis.md)
+  * [Lecture 06: Solving Systems of Equations](math/matrix-theory/lecture-06-solving-systems-of-equations.md)
   * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE\_ab)
 * [Lit Solution](https://www.litsolutions.org/)
 * [Propositional Logic Cheat Sheet](https://sites.pitt.edu/\~woon/courses/ps2703\_logic.pdf)
