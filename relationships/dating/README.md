@@ -30,6 +30,20 @@ Part of being a good boyfriend is small, romantic actions of service. You can se
 * A percentage of women think that all men are trash and men are sick of hearing that.
 * Men who have options can hook up without starting a relationship.
 
+## Turning Towards [Video](https://www.youtube.com/watch?v=QCgREyqILl4)
+* Physically turning towards your partner.
+* Saying "bless you", "ow", "are you ok?"
+* Acknowledge when they talk to you. 
+* Reciprocating with kisses & hugs.
+
+This:
+1. Makes them feel cared for.
+2. Makes them feel not rejected.
+3. Instead of turning towards, I say "whatever"
+
+### Rejecting Without Rejecting
+1. People who don't reach-out or turn away from a conversation.
+2. After enough times, they're going to turn away too.
 
 
 ### Legal? Developer? Make an EULA:
@@ -41,3 +55,5 @@ This is a joke.&#x20;
 * Create a dating app or something of the sort.
 * Make the EULA super long - like Microsoft level long.
 * On the 27th page, put a dating clause requiring users to date me.
+
+
