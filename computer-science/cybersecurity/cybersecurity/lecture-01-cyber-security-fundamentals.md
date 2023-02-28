@@ -9,7 +9,7 @@
 * Introduct/understand theory of cyber security
 * Provide practical experience in hardening a system to achieve resilience against cyber attacks.
 
-![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../../.gitbook/assets/image (552).png>)
+![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../../.gitbook/assets/image (553).png>)
 
 ### Fundamental Topics
 
@@ -34,8 +34,7 @@
 
 ![Source: Dr. Rusty Baldwin](<../../../.gitbook/assets/image (554).png>)
 
-* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\
-
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\\
 
 #### Confidentiality
 
@@ -66,7 +65,7 @@
 
 * **Vulnerabilities**: System weaknesses (corruptions, leakiness, unavailability of services)
 * **Threats**: capable of exploiting vulnerabilities and represent potential harms to assets.
-* **Attacks**/Exploits: Altering system resources, alter system resources, insider threats.&#x20;
+* **Attacks**/Exploits: Altering system resources, alter system resources, insider threats.
 
 ### Classes of Threats
 
@@ -96,4 +95,3 @@ Threats are potential violations of security.
   * Masquerade
   * Modification of messages
   * Denial of Service
-

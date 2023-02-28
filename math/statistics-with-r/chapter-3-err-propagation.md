@@ -6,7 +6,7 @@ description: 'TODO: cite, make sure it''s fair use.'
 
 ## Measurement of Error
 
-* **Error** is the difference between the measured value and actual value.&#x20;
+* **Error** is the difference between the measured value and actual value.
 * **Systematic error/bias** describes is part of the error that is the same for every measurement.
 * **Random error** varies from measurement to measurement and averages out to zero in the long run.
 
@@ -26,12 +26,7 @@ $$
 
 ### Visual Representation
 
-
-
-![Image from Navadi](<../../.gitbook/assets/image (669).png>)
-
-
+![Image from Navadi](<../../.gitbook/assets/image (640) (1).png>)
 
 * $$\mu$$ is the sum of the true value and bias, $$\mu = \texttt{true value + bias}$$.
 * σ is the standard deviation. The standard deviation of the population is the standard deviation of the random error.
-

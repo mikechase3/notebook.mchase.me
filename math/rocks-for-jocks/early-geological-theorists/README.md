@@ -6,7 +6,7 @@
 * Plate tectonics: how it has helped us reconstruct the history of the earth.
 * Evolution: understanding the development & history of life on earth.
 
-![](<../../../.gitbook/assets/image (690).png>)
+![](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1).png>)
 
 ### External Metaphors in Geologic Thought
 
@@ -26,7 +26,7 @@ We looked at stones and learned it was hard to determine if things were organic/
 
 ### Thomas Burnet & the Sacred Theory of the Earth (1635-1715)
 
-He explained that God works in ways that can be observed. It's a way to think of scriptural framework, but think how it's possible to describe God's work through observation.&#x20;
+He explained that God works in ways that can be observed. It's a way to think of scriptural framework, but think how it's possible to describe God's work through observation.
 
 * Adam/Eve: perfection
 * Noah/s Flood: ocean holes form.
@@ -99,7 +99,7 @@ Smith -> Knowledge: establish the idea of extinction.
 @enduml
 ```
 
-![](<../../../.gitbook/assets/image (703).png>)
+![](<../../../.gitbook/assets/image (642) (1) (1) (1) (1) (1).png>)
 
 ## Issue: Extinction
 
@@ -129,8 +129,6 @@ In the geologic record, fossil faunas succeed on another in an orderly and deter
 2. God then created a new fauna to replace the extinct one.
 3. All of this happened within Buffon's age of 75K years. Buffon claimed, "A year is to God as a thousand years is to man."
 4. Processes are cataclysmic.
-
-
 
 ### Charles Lyell & Uniformitarianism
 
@@ -165,7 +163,7 @@ Lyell -> Werner: start debate no 2
 @enduml
 ```
 
-![](<../../../.gitbook/assets/image (719).png>)
+![](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 #### Beliefs
 
@@ -195,7 +193,7 @@ _"The present is the key to the past"_
 * Know the Geologic Time Scale
 * Know the 3 "Great Theorists of the Earth"
 
-![](<../../../.gitbook/assets/image (651).png>)
+![](<../../../.gitbook/assets/image (639) (1).png>)
 
 ## Power of Uniformitarianism
 
@@ -205,7 +203,7 @@ You can look at some sediment and characterize it by _color, composition, size, 
 
 ## Sediment Deposit Refresher
 
-![](<../../../.gitbook/assets/image (698).png>)
+![](<../../../.gitbook/assets/image (642) (1) (1) (1) (1).png>)
 
 **Ways to identify:** color, composition, size, sorting, shape.
 
@@ -218,7 +216,7 @@ You can look at some sediment and characterize it by _color, composition, size, 
 
 ### Boulders
 
-There's these channeled scablands where ice existed one time which carried a bunch of random a\*\*  boulders and sediment left by the ice. Glaciers came through Ohio multiple times and left lots of unsorted sediment and glacial deposits. Anyways, the channeled scablands let you see deep a lot more quickly because it is weirdly mountainous.
+There's these channeled scablands where ice existed one time which carried a bunch of random a\*\* boulders and sediment left by the ice. Glaciers came through Ohio multiple times and left lots of unsorted sediment and glacial deposits. Anyways, the channeled scablands let you see deep a lot more quickly because it is weirdly mountainous.
 
 1. Realized earth has to be old.
 2. Evolution has become an "accepted" idea. Charles wrote "On the Origin of Species" already
@@ -239,7 +237,7 @@ This theory is correct.
 
 * **William Buckland** determined that all the sediment deposits couldn't be left by Noah's Flood again
 * **Charpentier & Vernetz**: determined glaciers are producing this "chaotic sediment"
-* ****[**Louis Agassiz:**](https://en.wikipedia.org/wiki/Louis\_Agassiz) **** he was an exceptionally well-known paleontologist (and for being racist and used science to promote racism).
+* \*\*\*\*[**Louis Agassiz:**](https://en.wikipedia.org/wiki/Louis\_Agassiz) \*\*\*\* he was an exceptionally well-known paleontologist (and for being racist and used science to promote racism).
   * He hammers stakes from one side of the valley to another and observes what happens over time.
   * Through an experiment, he determines that glaciers move. It is responsible for till and erratics.
   * The idea of ice moving is catastrophic so this wasn't popular.

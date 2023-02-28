@@ -30,7 +30,7 @@ If this makes no sense to you, you might want to go back and check out [recurren
 ### Formal Definition
 
 {% hint style="warning" %}
-I don't understand what `C(g(n)` is.&#x20;
+I don't understand what `C(g(n)` is.
 {% endhint %}
 
 ```
@@ -58,7 +58,7 @@ O(g(n)) = { f(n): there exist positive constants c and n0
 
 > Little o notation is used to describe an upper bound that cannot be tight. In other words, loose upper bound of f(n).
 
-Mathematically, we can say `f(n) = o(g(n))` means $$\underset{n \to \infty }{lim} \frac{f(n)}{g(n)} = 0$$&#x20;
+Mathematically, we can say `f(n) = o(g(n))` means $$\underset{n \to \infty }{lim} \frac{f(n)}{g(n)} = 0$$
 
 ### Example (TutorialsPoint)
 
@@ -72,12 +72,12 @@ Then, we can use the above limit definition to determine:
 
 ![](https://www.tutorialspoint.com/assets/questions/media/26170/formula1.jpg)
 
-## Theta Notation $$(\Theta)$$&#x20;
+## Theta Notation $$(\Theta)$$
 
-* Theta is the **most accurate and tightest bound**.&#x20;
-* We'll use&#x20;
+* Theta is the **most accurate and tightest bound**.
+* We'll use
 * It encloses a function above and below.
-* We use it to analyze average case complexity.&#x20;
+* We use it to analyze average case complexity.
 
 > In general, we always want to give a theta bound if possible because it is the most accurate and tightest bound. If we can’t give a theta bound, the next best thing is the tightest O bound possible.
 
@@ -93,7 +93,7 @@ Then, we can use the above limit definition to determine:
 So the notation is more of a mathematical concept than a computer science one. For example, I can describe my own graph using these terms. Here, I graphed the following 3 equations.
 
 $$
-y=\sin\left(x\right)+1.1^{x} \text{ |  }y=1.1^{x}+1 \text{ |  } y=1.1^{x}-1
+y=\sin\left(x\right)+1.1^{x} \text{ | }y=1.1^{x}+1 \text{ | } y=1.1^{x}-1
 $$
 
 When I graphed them in Desmos, I got these:
@@ -102,21 +102,19 @@ When I graphed them in Desmos, I got these:
 
 The bounds also don't have to be touching exactly. Here's an [example](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) from [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation):
 
-![](<../../../.gitbook/assets/image (39) (1).png>)
+![](<../../../.gitbook/assets/image (39) (1) (1).png>)
 
 Note here that we don't care about the small cases, but only when `n` gets really large, or after the dashed line in this case.
 
-## Big Omega Notation $$(\Omega)$$&#x20;
+## Big Omega Notation $$(\Omega)$$
 
 * This describes the lower bound, or the **best case** running time.
 
 > We say that the running time is “big-Ω of f(n).” We use big-Ω notation for **asymptotic lower bounds**, since it bounds the growth of the running time from below for large enough input sizes.
 
-> #### **Difference between Big O and Big Ω** <a href="#difference-between-big-o-and-big" id="difference-between-big-o-and-big"></a>
+> **Difference between Big O and Big Ω**
 >
 > The difference between Big O notation and Big Ω notation is that Big O is used to describe the worst case running time for an algorithm. But, Big Ω notation, on the other hand, is used to describe the best case running time for a given algorithm.
-
-
 
 ## Works Cited
 

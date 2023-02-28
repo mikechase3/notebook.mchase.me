@@ -29,7 +29,7 @@ Skipped class for 4.1-4.5.
 * It's very inefficient.
 * You have to have a lot more 'trust' here to implement this.
 
-![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 09.51.35@2x (1).jpg>)
+![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 09.51.35@2x.jpg>)
 
 ## 4.7: ICAM: Identity, Credential, and Access Management
 
@@ -42,16 +42,16 @@ Skipped class for 4.1-4.5.
 
 ### Identity Management
 
-* This is concenred with assigning attributes to a digital identity and connecting that digital identity to an individual.&#x20;
+* This is concenred with assigning attributes to a digital identity and connecting that digital identity to an individual.
 * The goal is to access a trustworthy digital identity independent of a specific app or context.
 
 ### Access Management
 
 There are 3 elements you need for enterprise-wide access control facilities.
 
-* Resource management:&#x20;
-* Privilege management:&#x20;
-* Policy management:&#x20;
+* Resource management:
+* Privilege management:
+* Policy management:
 
 ## 4.8: Trust Frameworks Identity Federation
 
@@ -88,10 +88,9 @@ Solutions: contracts and TOS agreements.
 * The data structure is called an **inode**. Read, write, execute.
 * If the file is in a directory of 7, 3, 0, this can cause a problem in that this combination of directory mode and file mode can allow the contents of the file to be changed either directly or indirectly.
 * We have to figure out what's allowed in the directory permissions, and how can we use that to change what is in the file?
-* If you look at the file on the board, only the owner has write access. The intent is that only the owner can change it; however, with the directory set this way, it's possible for someone other than the owner to change it.&#x20;
+* If you look at the file on the board, only the owner has write access. The intent is that only the owner can change it; however, with the directory set this way, it's possible for someone other than the owner to change it.
 * Our task is to figure out how.
 
 #### 4D
 
 * DAC: Discressionary access control.
-

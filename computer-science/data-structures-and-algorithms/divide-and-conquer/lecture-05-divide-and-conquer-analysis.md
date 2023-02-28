@@ -262,7 +262,7 @@ class Solution {
 
 Roughly, this means:
 
-![Source: Dr. Yao's Slides](<../../../.gitbook/assets/image (3) (2).png>)
+![Source: Dr. Yao's Slides](<../../../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
 T(n) is the worst case running time on the problem. **n** is the problem size. **a** is the number of sub problems. **n/b** is the size of each subproblem. **f(n)** is the worst-case running time for the divide & combination step.

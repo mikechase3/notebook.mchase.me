@@ -45,15 +45,13 @@
 
 #### NPM Init
 
-![](<../../../.gitbook/assets/Screenshot\_2020-09-22 14.28.26\_83xLba.jpg>)
+![](../../../.gitbook/assets/screenshot\_2020-09-22-14.28.26\_83xlba.jpg)
 
 #### Deploying on the Shell
 
 ![](<../../../.gitbook/assets/image (360).png>)
 
 ![](<../../../.gitbook/assets/image (362).png>)
-
-
 
 ![](<../../../.gitbook/assets/image (361).png>)
 

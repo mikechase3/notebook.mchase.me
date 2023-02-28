@@ -16,7 +16,7 @@ Prof. Leonard: click playlist icon on top right. Start at #13
 
 ### Vocabulary
 
-* **Random Variable:** the outcomes you can get, that depend on chance. A variable that has a number for each outcome and those outcomes are determined by chance. We use the letter `x` for our variable that has a value for each outcome of a procedure.&#x20;
+* **Random Variable:** the outcomes you can get, that depend on chance. A variable that has a number for each outcome and those outcomes are determined by chance. We use the letter `x` for our variable that has a value for each outcome of a procedure.
 * **Probability Distributions:** a table that gives us the probability for each value of a random variable.
 
 ![](<../../.gitbook/assets/image (724).png>)
@@ -26,8 +26,6 @@ Prof. Leonard: click playlist icon on top right. Start at #13
   * Must be a whole number.
 * **Continuous Random Variable**: a variable with an infinite number of possible values.
   * Can be any # of decimal places out.
-
-
 
 ## Ch 5-6.3: Binomial Probability Distributions
 
@@ -51,7 +49,7 @@ The binomial probability distribution deals with two outcomes: successes and fai
 ### Expected Mean, Var, and SD For ?
 
 {% hint style="danger" %}
-Matt - what's this called? Mean of a binomial probability? If that's the case, what's the  $$\mu = n \cdot p$$ formula called?
+Matt - what's this called? Mean of a binomial probability? If that's the case, what's the $$\mu = n \cdot p$$ formula called?
 {% endhint %}
 
 #### Expected Mean
@@ -66,13 +64,11 @@ Matt - what's this called? Mean of a binomial probability? If that's the case, w
 * Instead of frequency, we have probability.
 * We're going to subtract the
 
-![](<../../.gitbook/assets/image (695).png>)
+![](<../../.gitbook/assets/image (650) (1).png>)
 
 #### Standard Deviation
 
-![](<../../.gitbook/assets/image (720).png>)
-
-
+![](<../../.gitbook/assets/image (657) (1).png>)
 
 It helps to create a table when calculating/adding the mean, variance, and standard deviation.
 
@@ -89,12 +85,10 @@ It helps to create a table when calculating/adding the mean, variance, and stand
 
 If `P(A) <= 0.05`, then the event `A` is considered unusual.
 
-
-
 ### Rules for binomial distributions
 
 1. You have to have a fixed number of trials.
-2. Trials must be independent. The outcome of one trial does not affect the outcome of the others.&#x20;
+2. Trials must be independent. The outcome of one trial does not affect the outcome of the others.
 3. Each trial has only to outcomes: success or failure..
 4. The probability of success remains the same in all trials.
 
@@ -157,7 +151,7 @@ The probability of rolling #4 on our weighted die exactly 8 times is 0.0014467.
 
 #### Step 1: Use Addition Rule
 
-* The probability of rolling at most 8 `4`'s is: $$P(0) + P(1) + P(2) ... P(8)$$.&#x20;
+* The probability of rolling at most 8 `4`'s is: $$P(0) + P(1) + P(2) ... P(8)$$.
 * For each of these, we have to plug it into our binomial probability formula.
   * Calculating this takes a lot of work
   * It's easier to use precomputed values and add them up.
@@ -206,8 +200,6 @@ binompdf(10,.30,8)  // 10 trials, P(x)=0.3, for 8 successes.
 binompdf(10,.30,8)  // returns probability there are 0 or 1...8 successes.
 ```
 
-
-
 ### Ex: [Cards](https://youtu.be/iGKSxMGX0Do?t=3614)
 
 * This example will be used henceforth until otherwise noted.
@@ -222,14 +214,14 @@ binompdf(10,.30,8)  // returns probability there are 0 or 1...8 successes.
 Last time, we wanted to find mean _probability_ that an outcome occurred. This time, we are finding the mean value.
 
 {% hint style="info" %}
-#### Mean Formula: $$\mu = n \cdot p$$
+**Mean Formula:** $$\mu = n \cdot p$$
 {% endhint %}
 
 * The mean is the number of successes you expect to occur from your procedure.
 * Recall the weighted die example. If you roll it 100 times and `p(rolling #4)` = 0.3, you should expect to see roughly 30 `4's`.
 
 {% hint style="info" %}
-**Variance**: $$\sigma^2= n *p*q$$  `where q is probability of not happening.`
+**Variance**: $$\sigma^2= n *p*q$$ `where q is probability of not happening.`
 {% endhint %}
 
 * Your variance and standard deviation will always be based on the mean, so always find the mean first.
@@ -255,15 +247,15 @@ Since our goal is to have more Mexican-Americans representing the population in 
 #### Step 2: Identify Key Information
 
 * There are 12 trials => `n=12;`
-* The probability of a successful trial: selecting a Mexican American. If you have a population that's 80% Mexican-American your chances of selecting a Mexican-American at random should be 80%. Therefore `p=0.80`.&#x20;
+* The probability of a successful trial: selecting a Mexican American. If you have a population that's 80% Mexican-American your chances of selecting a Mexican-American at random should be 80%. Therefore `p=0.80`.
 * `q` describes the probability of failure. The probability of failure should be people who are not Mexican-American. Therefore, `q=0.20.`
 
 #### **Step 3: Calculate mean value, var, and std**
 
 * **Mean:** is `n*p` => 12\*.80 => 9.6.
-  * 9.6 is our mean value.&#x20;
+  * 9.6 is our mean value.
   * If you selected a whole bunch of juries of people, you'd get 9.6 Mexican-Americans on average.
-* **Variance** is `n*p*q`  => 1.93
+* **Variance** is `n*p*q` => 1.93
 * **Standard Deviation**: sqrt(var) => 1.39
 
 {% hint style="info" %}
@@ -302,7 +294,7 @@ for sample in allPossibleSamples:
 
 #### What is the proportion of odd numbers?
 
-* We have 2 odd numbers out of 3 total.&#x20;
+* We have 2 odd numbers out of 3 total.
 * Therefore, the proportion of odd numbers is $$\frac{2}{3}$$
 * Population proportion, aka `p`, is also 2/3rds because that's our sample.
 
@@ -313,8 +305,3 @@ Left off at 20:34 in lecture 6.4 [here](https://www.youtube.com/watch?v=kBYt67ND
 ## Works Cited <a href="#works-cited" id="works-cited"></a>
 
 ​Prof. Leonard: click playlist icon on top right. Start at #13
-
-
-
-
-

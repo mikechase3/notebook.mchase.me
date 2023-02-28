@@ -7,11 +7,7 @@
 We know how to multiply a vector by a scalar (scalar = number). Multiply each component.
 
 $$
-k \overrightarrow{v} = k\begin{bmatrix}
-k & v_x \\ 
-k & v_y \\
-k & v_z
-\end{bmatrix} = k<v_x, v_y, v_z>
+k \overrightarrow{v} = k\begin{bmatrix} k & v_x \\ k & v_y \\ k & v_z \end{bmatrix} = k<v_x, v_y, v_z>
 $$
 
 #### Adding Vectors
@@ -23,11 +19,7 @@ Add up each component separately.
 When we combine both together, we get a **linear combination** of vectors.
 
 $$
-a \overrightarrow{u}+b \overrightarrow{v} = \begin{bmatrix}
-a u_x + bv_y\\ 
-au_y + b_vy\\
-au_z + bv_z
-\end{bmatrix}
+a \overrightarrow{u}+b \overrightarrow{v} = \begin{bmatrix} a u_x + bv_y\\ au_y + b_vy\\ au_z + bv_z \end{bmatrix}
 $$
 
 We can write a linear combination in a slightly more compact form:
@@ -51,49 +43,47 @@ $$
 \vec{u} \cdot \vec{v} \implies u_1 v_1 + u_2 v_2 + ... u_n v_n
 $$
 
-There are two uses for the dot product. First, it is convenient for writing the length/magnitude. Second, dot products are **related** to the angle between two vectors. For example, if we consider the unit vector $$\vec{v} = \begin{bmatrix} 1\\ 0 \end{bmatrix}$$ and another unit vector $$\vec{w} = \begin{bmatrix} cos(\theta) \\ sin(\theta) \end{bmatrix}$$ then $$\vec{v} \cdot \vec{w} = 1cos(\theta)+0sin(\theta)=cos(\theta)$$&#x20;
+There are two uses for the dot product. First, it is convenient for writing the length/magnitude. Second, dot products are **related** to the angle between two vectors. For example, if we consider the unit vector $$\vec{v} = \begin{bmatrix} 1\\ 0 \end{bmatrix}$$ and another unit vector $$\vec{w} = \begin{bmatrix} cos(\theta) \\ sin(\theta) \end{bmatrix}$$ then $$\vec{v} \cdot \vec{w} = 1cos(\theta)+0sin(\theta)=cos(\theta)$$
 
 To restate, $$\vec{u} \cdot \vec{v}$$ is always the angle between $$\vec{u} \texttt{ and } \vec{v}$$ for any unit vector.
 
 #### Converting Non Unit Vectors to Unit Vectors
 
-$$\vec{v} \implies \frac{1}{||\vec{v}||} \vec{v}$$  and $$\vec{w} \implies \frac{1}{|| \vec{w} ||} \vec{w}$$  therefore:
+$$\vec{v} \implies \frac{1}{||\vec{v}||} \vec{v}$$ and $$\vec{w} \implies \frac{1}{|| \vec{w} ||} \vec{w}$$ therefore:
 
-$$\frac{1}{||v||} \vec{v} \cdot \frac{1}{||w||}\vec{w} = cos(\theta)$$  and therefore...
+$$\frac{1}{||v||} \vec{v} \cdot \frac{1}{||w||}\vec{w} = cos(\theta)$$ and therefore...
 
-$$\frac{1}{||\vec{v}|| \cdot ||\vec{w}||} = cos(\theta)$$&#x20;
+$$\frac{1}{||\vec{v}|| \cdot ||\vec{w}||} = cos(\theta)$$
 
 We can derive a couple of rules and take the dot product and determine if it's positive or negative to see if it's acute or obtuse.
 
-* $$\vec{v} \cdot \vec{u} >0 \implies \texttt{angle between the vectors is acute}$$&#x20;
-* If it's equal to zero, it means they are perpendicular/orthogonal.&#x20;
-* Also: $$v \cdot w < 0 \implies \texttt{Angle is obtuse}$$&#x20;
+* $$\vec{v} \cdot \vec{u} >0 \implies \texttt{angle between the vectors is acute}$$
+* If it's equal to zero, it means they are perpendicular/orthogonal.
+* Also: $$v \cdot w < 0 \implies \texttt{Angle is obtuse}$$
 
 ### Cauchy Schwartz Inequality
 
 There's a French and German person who discover that the absolute value of a dot product is guaranteed to be less than the product of the lengths.
 
-$$|\vec{v} \cdot \vec{w} | \leq ||\vec{v}|| \ast ||\vec{w}||$$&#x20;
+$$|\vec{v} \cdot \vec{w} | \leq ||\vec{v}|| \ast ||\vec{w}||$$
 
-Therefore,&#x20;
+Therefore,
 
-$$|cos(\theta)| = \frac{\vec{v} \cdot \vec{w}|}{||\vec{v}|| \ast ||\vec{w}||} \leq 1$$  meaning that $$|\vec{v} \ast \vec{w}| \leq ||\vec{v}|| \ast ||\vec{w}||$$&#x20;
+$$|cos(\theta)| = \frac{\vec{v} \cdot \vec{w}|}{||\vec{v}|| \ast ||\vec{w}||} \leq 1$$ meaning that $$|\vec{v} \ast \vec{w}| \leq ||\vec{v}|| \ast ||\vec{w}||$$
 
 ### Triangle Inequality
 
-****$$||\vec{v} + \vec{w}|| \leq ||\vec{v}|| + ||\vec{w}||$$ ****&#x20;
+\*\*\*\*$$||\vec{v} + \vec{w}|| \leq ||\vec{v}|| + ||\vec{w}||$$ \*\*\*\*
 
 This also means if we square both sides, then if we dot it, we can simplify it like we'd expand two binomials.
 
 > Here is his proof:
 >
-> $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$&#x20;
+> $$||\vec{v} + \vec{w}||^2 \leq ||\vec{v}||^2 + ||\vec{w}||^2 \implies (\vec{v}+\vec{w})\cdot(\vec{v} + \vec{w})\vec{v}\vec{v}+2\vec{v}\cdot\vec{w}+\vec{w}\cdot\vec{w} \leq ||\vec{v}||^2+2|\vec{v}\cdot\vec{w} + ||\vec{w}||^2 = (||\vec{v}|| + ||\vec{w}||)^2$$
 
 We next went over some cool stuff about column space with the following lab:
 
 {% embed url="https://www.geogebra.org/resource/cfeayta7/9fTewx4V0FmMQs82/material-cfeayta7.pdf" %}
-
-
 
 {% embed url="https://www.geogebra.org/m/fkk8j959" %}
 
@@ -105,7 +95,7 @@ We next went over some cool stuff about column space with the following lab:
 
 We solved this by using the formula:
 
-$$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac{-2+12}{(33)(21)}$$&#x20;
+$$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac{-2+12}{(33)(21)}$$
 
 #### Find Two Independent Vectors in the Plane
 
@@ -129,8 +119,6 @@ You're probably more familiar with the formula below:
 
 ![](<../../../.gitbook/assets/image (551).png>)
 
-
-
 ## Multiplying Matrices
 
 ### Column-Column Method
@@ -146,9 +134,7 @@ You're probably more familiar with the formula below:
 
 #### Example: Row-Row Method of Multiplying Vectors
 
-Here, we're taking the rows&#x20;
-
-
+Here, we're taking the rows
 
 ![Example from Su p.51. Annotated by me.](<../../../.gitbook/assets/image (546).png>)
 
@@ -180,13 +166,11 @@ $$
 
 **Step 3:** Define R's Columns by using the weights on the columns of `C` that equal the corresponding column of `A`.
 
-* The first column of `A` is in&#x20;
+* The first column of `A` is in
 
 $$
 R=\begin{bmatrix}1 & 0 & 1\\0 & 1 & 1 \end{bmatrix}
 $$
-
-
 
 ### Steps (Restated Differently)
 
@@ -203,9 +187,9 @@ $$
    1. For the first column, how many of the first and how many of the 2nd do you need to equal the original?
    2. Do this for each set of columns to get `R`.
 
-![](<../../../.gitbook/assets/image (557).png>)
+![](<../../../.gitbook/assets/image (549) (1).png>)
 
-![](<../../../.gitbook/assets/image (558).png>)
+![](<../../../.gitbook/assets/image (550) (1).png>)
 
 ### Good Example
 
@@ -234,7 +218,7 @@ $$
 
 ### Subtopic Unknown
 
-* Vectors are always columns $$n \times 1$$ by default. To turn a vector or matrix on its side, we write $$\triangledown^T$$  or $$A^T$$&#x20;
+* Vectors are always columns $$n \times 1$$ by default. To turn a vector or matrix on its side, we write $$\triangledown^T$$ or $$A^T$$
 * **T** means to transpose of all columns into rows or vice versa.
 * With this notation, the dot product is just _regular_ multiplication
 
@@ -242,7 +226,7 @@ $$
 \vec{u}_{(n \times 1)} \cdot \vec{v}_{(n \times 1)} = \vec{u}^T_{(n \times 1)} \vec{v}_{(n \times 1)} = d_{1 \times 1}
 $$
 
-* **T** is often called the inner product versus the _outer product_ $$\vec{u}_{n \times 1} \vec{v}^T_{1 \times n} = M_{n \times n}$$&#x20;
+* **T** is often called the inner product versus the _outer product_ $$\vec{u}_{n \times 1} \vec{v}^T_{1 \times n} = M_{n \times n}$$
 * The matrix has rank 1. The column space dimension is one, or a line.
 
 ## Third Model: Column/Row Model
@@ -265,22 +249,19 @@ $$
 #### When i=1:
 
 $$
-\begin{bmatrix}3 \\ 2 \end{bmatrix} \begin{bmatrix}1 & 2 \end{bmatrix} = 
-\begin{bmatrix} 3 & 6\\2 & 4 \end{bmatrix}
+\begin{bmatrix}3 \\ 2 \end{bmatrix} \begin{bmatrix}1 & 2 \end{bmatrix} = \begin{bmatrix} 3 & 6\\2 & 4 \end{bmatrix}
 $$
 
 #### When i =2:
 
 $$
-\begin{bmatrix}1 \\ 4 \end{bmatrix} \begin{bmatrix}0 & -1 \end{bmatrix} = 
-\begin{bmatrix} 0 & -1\\0 & -4 \end{bmatrix}
+\begin{bmatrix}1 \\ 4 \end{bmatrix} \begin{bmatrix}0 & -1 \end{bmatrix} = \begin{bmatrix} 0 & -1\\0 & -4 \end{bmatrix}
 $$
 
 #### When i=3:
 
 $$
-\begin{bmatrix}6 \\ -1 \end{bmatrix} \begin{bmatrix}2 & -1 \end{bmatrix} = 
-\begin{bmatrix} 12 & -6\\-2 & 1 \end{bmatrix}
+\begin{bmatrix}6 \\ -1 \end{bmatrix} \begin{bmatrix}2 & -1 \end{bmatrix} = \begin{bmatrix} 12 & -6\\-2 & 1 \end{bmatrix}
 $$
 
 #### It gives you the same answer
@@ -297,8 +278,8 @@ $$
 \begin{bmatrix} 3 & -2 \\ 5 & 0 \end{bmatrix} \begin{bmatrix}1 & 3 \\ -2 & 2 \end{bmatrix} = \begin{bmatrix} 7 & 5 \\ 5 & 15 \end{bmatrix}
 $$
 
-* Row 1: $$3 \begin{bmatrix}1 & 3 \end{bmatrix} + -2 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 7 & 5 \end{bmatrix}$$&#x20;
-* Row 2: $$5 \begin{bmatrix}1 & 3 \end{bmatrix} + 0 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 5 & 15\end{bmatrix}$$&#x20;
+* Row 1: $$3 \begin{bmatrix}1 & 3 \end{bmatrix} + -2 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 7 & 5 \end{bmatrix}$$
+* Row 2: $$5 \begin{bmatrix}1 & 3 \end{bmatrix} + 0 \begin{bmatrix} -2 & 2 \end{bmatrix} = \begin{bmatrix} 5 & 15\end{bmatrix}$$
 
 From this, two facts about transposes follow:
 
@@ -308,9 +289,7 @@ $$
 
 * We use the columns of $$A^T$$ as weights on the columns of $$B^T$$. The answer is a column.
 * To multiply this product, we use the _rows_ of `A` as weights on the _rows_ of `B`. The answer is a row.
-* The only difference between these statements if a formatting difference. When we do the first method, the answer is a column.&#x20;
-
-
+* The only difference between these statements if a formatting difference. When we do the first method, the answer is a column.
 
 ## When to use each model
 
@@ -320,7 +299,7 @@ Ask Dr. Arthur when to use each model.
 
 ## \[Summary] Matrix Multiplication
 
-* **Matrixes are Associative**: $$ABC = (AB)C = A(BC)$$&#x20;
+* **Matrixes are Associative**: $$ABC = (AB)C = A(BC)$$
 * Matrixes are **not communitive:** $$AB \neq BA$$ , so the order matters.
 
 ## Identity Matrixes
@@ -344,13 +323,10 @@ a(-4) +b(-3) = -4
 $$
 
 $$
-[-4, -3]  \begin{bmatrix} a & b \\ c & d \end{bmatrix} = -3
+[-4, -3] \begin{bmatrix} a & b \\ c & d \end{bmatrix} = -3
 $$
-
-
 
 ## Works Cited
 
 * Bush, Arthur. "MTH 301 Matrix Theory and Applications." _Physical Class at the University of Dayton._
 * Su, Francis. "Mastering Linear Algebra: An Introduction with Applications." _Great Courses Press._
-

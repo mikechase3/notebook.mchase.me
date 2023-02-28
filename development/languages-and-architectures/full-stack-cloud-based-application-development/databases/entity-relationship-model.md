@@ -2,7 +2,7 @@
 
 ## Terminology
 
-![](<../../../../.gitbook/assets/image (592).png>)
+![](<../../../../.gitbook/assets/image (593).png>)
 
 * **Entity**: objects in the world with an _**independent existence**_. Distinguishable from other objects.
 * **Relationships**: are how things interact.
@@ -21,20 +21,20 @@
 
 Relationships are placed in diamonds.
 
-![](<../../../../.gitbook/assets/image (594).png>)
+![](<../../../../.gitbook/assets/image (595).png>)
 
 ## Roles
 
-![](<../../../../.gitbook/assets/image (596).png>)
+![](<../../../../.gitbook/assets/image (597).png>)
 
 * **Roles** tell you more about the relationship beyond what's in the diamond.
-* Roles are straightforward/obvious, except in **recursive relationships**.&#x20;
+* Roles are straightforward/obvious, except in **recursive relationships**.
   * Therefore, you need to put `father` and `son` to see what each is referring to.
 
 ## Structural Constraints
 
 * **Cardinality Ratio Constraint**: specifies the number of relationship instances that an entity can participate in.
-* **Participation Constraints**:&#x20;
+* **Participation Constraints**:
   * **Total (Existence Dependency)**: Every entity in _the total set_ of employee entities must be related to a department entity via works-in.
   * **Partial:** Some or part of the set of employees are related to the department via a manager, but not necessarily all.
 
@@ -45,9 +45,9 @@ Relationships are placed in diamonds.
 * A **weak identity** for each relationship is identified by considering the primary key of another (owner) identity.
   * it's attached to its identifying owner.
   * The **double diamond (or bold diamond)** shows the **identifying relationship**.
-* Whenever there is a weak entity, there is always going to be an existence dependency.&#x20;
+* Whenever there is a weak entity, there is always going to be an existence dependency.
 
-![ssn is a primary key. ](<../../../../.gitbook/assets/image (599).png>)
+![ssn is a primary key.](<../../../../.gitbook/assets/image (599).png>)
 
 **In this example...**
 
@@ -64,10 +64,9 @@ Relationships are placed in diamonds.
 * A superkey for which no subset is also a superkey is a **candidate key**.
 
 {% hint style="info" %}
-Ask Prof. Buckley to check accuracy here regarding the specific definitions. Does a super key need _all_ that information? Or just some of it? What makes it super? And what is a candidate key?  Why is it called that?
+Ask Prof. Buckley to check accuracy here regarding the specific definitions. Does a super key need _all_ that information? Or just some of it? What makes it super? And what is a candidate key? Why is it called that?
 {% endhint %}
 
 ## Example
 
 ![](<../../../../.gitbook/assets/image (600).png>)
-

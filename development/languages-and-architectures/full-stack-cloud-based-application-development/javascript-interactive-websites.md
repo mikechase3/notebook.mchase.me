@@ -14,8 +14,6 @@ Good article because my notes don't make sense:
 
 {% embed url="https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html" %}
 
-
-
 ## Using the \<script> tag
 
 * You can have HTML reference/call the JS code.
@@ -76,8 +74,8 @@ Use it when it interacts with the DOM.
 
 ## The Async Attribute
 
-* The async attribute loads and executes the script asynchronously with the rest of the page.&#x20;
-* It's useful for scripts that do not depend on each other.&#x20;
+* The async attribute loads and executes the script asynchronously with the rest of the page.
+* It's useful for scripts that do not depend on each other.
 * Optimizes web page load time well.
 
 ### Syntax
@@ -90,8 +88,6 @@ Use it when it interacts with the DOM.
 
 {% embed url="https://www.youtube.com/watch?v=iwNUJU5D3aI" %}
 
-
-
 ## JS and the DOM
 
 {% embed url="https://www.youtube.com/watch?v=kd8zX-66FS0" %}
@@ -102,7 +98,7 @@ Use it when it interacts with the DOM.
   * There are other types of documents like XML and SVG that are modeled as DOM structures.
   * The DOM is a link between an HTML web page and scripting languages.
 
-![](<../../../.gitbook/assets/Screenshot\_2021-07-12 01.30.49\_sOfhZC.jpg>)
+![](../../../.gitbook/assets/screenshot\_2021-07-12-01.30.49\_sofhzc.jpg)
 
 ## Accessing and Modifying Content
 
@@ -172,8 +168,6 @@ parent.removeChild(child);
 document.getElementById('sign').hidden = true;
 ```
 
-
-
 ### element.appendChild() Method
 
 * Takes an element as a parameter.
@@ -233,8 +227,6 @@ document.querySelector('.blue').style.fontFamily = 'Roboto';
 }
 ```
 
-
-
 ## Using the .onclick
 
 ```javascript
@@ -256,8 +248,6 @@ element.onclick = turnButtonRed;
 ## DOM Events
 
 ## [Event Handler Registration](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers) and [.onevent()](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/add-event-listener)
-
-
 
 > Using the `.addEventListener()` method, we can have a DOM element listen for a specific event and execute a block of code when the event is detected. The DOM element that listens for an event is called the _event target_ and the block of code that runs when the event happens is called the _event handler_.\
 > \- Source: [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-dom-events-with-javascript/lessons/dom-events/exercises/event-handlers)
@@ -288,10 +278,6 @@ function eventHandlerFunction() {
 eventTarget.addEventListener('click', eventHandlerFunction);
 ```
 
-
-
-
-
 ## Works Cited
 
-Large portions of this were  taken from CodeCademy's [cheatsheet](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-javascript-and-the-dom/cheatsheet) so I want to acknowledge them. They also word it better than I do, so you'll want to go right there if you're new to this. I re-type sometimes it so it sticks in my brain.
+Large portions of this were taken from CodeCademy's [cheatsheet](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/tracks/fscp-building-interactive-websites-with-javascript/modules/fecp-javascript-and-the-dom/cheatsheet) so I want to acknowledge them. They also word it better than I do, so you'll want to go right there if you're new to this. I re-type sometimes it so it sticks in my brain.

@@ -60,11 +60,11 @@ What is this?
 {% embed url="https://snort.org" %}
 
 * Snort is a packet monitoring system.
-* It also has intrusion prevention capabilities.&#x20;
+* It also has intrusion prevention capabilities.
 
 ## 9.7: Unified Threat Management Products
 
-![](<../../../.gitbook/assets/image (693).png>)
+![](<../../../.gitbook/assets/image (640) (1) (1) (1) (1).png>)
 
 ## 9.8: Review
 
@@ -79,4 +79,4 @@ What is this?
 |        |           |                |           |          |        |
 |        |           |                |           |          |        |
 
-* This will be due next Tuesday.&#x20;
+* This will be due next Tuesday.

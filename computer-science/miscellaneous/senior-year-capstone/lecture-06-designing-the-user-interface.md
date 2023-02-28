@@ -24,7 +24,7 @@ Web pages are text files in plaintext, written as an HTML document.
 * Javascript
 * Java Applet: depreciated since Java 9 and removed from Java 11.
 * Flash/ActionScript
-* Microsoft Silverlight.&#x20;
+* Microsoft Silverlight.
 
 ## MongoDB
 
@@ -33,11 +33,11 @@ Web pages are text files in plaintext, written as an HTML document.
 
 ![](<../../../.gitbook/assets/image (211).png>)
 
-![](<../../../.gitbook/assets/image (243) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (243) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Documents
 
-* Data is stored in documents.&#x20;
+* Data is stored in documents.
 * Stored in a way which is efficient for people to process.
 * You can add data when you need to quickly and efficiently.
 * Fault tolerances
@@ -107,4 +107,3 @@ Web pages are text files in plaintext, written as an HTML document.
 * Server-side library for Node.JS
 
 ###
-

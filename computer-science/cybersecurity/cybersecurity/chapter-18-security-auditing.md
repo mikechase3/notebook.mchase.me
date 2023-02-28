@@ -2,7 +2,7 @@
 
 ## 18.1: Security Auditing Architecture
 
-![Source: Stalling et. al](<../../../.gitbook/assets/image (716).png>)
+![Source: Stalling et. al](<../../../.gitbook/assets/image (642) (1) (1) (1) (1) (1) (1).png>)
 
 ### Security Audit and Alarms Model
 
@@ -12,13 +12,13 @@
 
 ### Security Auditing Functions
 
-![Src: stallings et. al](<../../../.gitbook/assets/image (660).png>)
+![Src: stallings et. al](<../../../.gitbook/assets/image (639) (1) (1).png>)
 
 * Security auditing is broken down into 6 areas. Each has specific functions.
 
 ### Requirements
 
-![Source: stalling et. al](<../../../.gitbook/assets/image (738).png>)
+![Source: stalling et. al](<../../../.gitbook/assets/image (643) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Implementing Guidelines
 
@@ -29,13 +29,11 @@
 5. Have the resources available to do the audit
 6. If you're going to have additional processing, have resources to do that. Whatever auditors do, that needs to be recorded too. Maybe security auditors are the bad guys.
 
-
-
 ## 18.2: Security Audit Trail
 
 ### What to Collect
 
-* An audit of the auditing software.&#x20;
+* An audit of the auditing software.
 * Access to the system itself.
 * Remote access.
 
@@ -43,8 +41,6 @@
 
 * When prof needs a master key, he has to go into a box, swipe into it, put in a pin, and the key has a locator attached to it to make sure you put the physical master key back.
 *
-
-
 
 ## Works Cited
 

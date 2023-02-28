@@ -8,8 +8,6 @@ description: INCOMPLETE!!
 
 {% embed url="https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example" %}
 
-
-
 ## Unbiased Estimators and Precision
 
 * Often, there are many choices for unbiased estimators.
@@ -40,7 +38,7 @@ More notes...
 
 * Suppose that I observe the number of times a phone rings over two separate 1-minute intervals.
 * Assume the number of rings in a 1 minute interval is Poisson(\lambda)
-* My observations X_1 and X_2 are independet draws from a Poisson distribution
+* My observations X\_1 and X\_2 are independet draws from a Poisson distribution
 * Estimate: P(no rings in the next 1 minute interval)
 * Let $$X_3$$\~ Poisson(\lambda) be the number of rings in the next 1-minute interval.
 
@@ -60,7 +58,7 @@ More on this...
 ## Uniform Distribution
 
 * If X is a real number drawn uniformly from the interval \[a,b] or (a,b), we say X is a **continuous uniform random variable on \[a,b]**
-* If X is an integer drawn uniformly from the set {a, a+1, ..., b}, we say&#x20;
+* If X is an integer drawn uniformly from the set {a, a+1, ..., b}, we say
 
 {% hint style="info" %}
 Re-write. Missing notes from this.
@@ -74,7 +72,7 @@ Re-write. Missing notes from this.
 
 ### Ex: German Tank Problem
 
-![](<../../.gitbook/assets/CleanShot 2022-02-23 at 16.23.58@2x (2).jpg>)
+![](<../../.gitbook/assets/CleanShot 2022-02-23 at 16.23.58@2x (1) (1) (1) (2).jpg>)
 
 ## Exponential Distribution
 
@@ -94,9 +92,9 @@ Find/review missing notes!
 
 Suppose the time in hours until a lightbulb burns out follows an exponential distribution with rate 0.002. Let X be the number of hours until the lightbulb burns out.
 
-* What is the probability it lasts less than 200 hours:&#x20;
+* What is the probability it lasts less than 200 hours:
 * What is the probability it last more than 500?
-* How long is the lightbulb expected to last?&#x20;
+* How long is the lightbulb expected to last?
 
 ## Memoryless Property of Exp
 
@@ -112,7 +110,7 @@ Suppose we observe events from a poisson process with rate of \lambda events per
 * If X is the total number of events in `t` units of time and space, X\~Poisson(\lambda t)
 * If `T` is the waiting time until the next event (starting from any point in time), then `T~exp(\lambda)`
 
-``![](<../../.gitbook/assets/CleanShot 2022-02-23 at 16.40.07@2x.jpg>)``
+`![](<../../.gitbook/assets/CleanShot 2022-02-23 at 16.40.07@2x.jpg>)`
 
 ### Ex: Poisson Process and Exponential
 
@@ -122,10 +120,9 @@ Suppose we observe events from a poisson process with rate of \lambda events per
 
 ## Waiting with Multiple Processes
 
-* _If `X~Exp(\lambda1)` and_ `Y~Exp(\lambda_2)` are independent exponentially distributed random variables, then: $$min(X,Y) Exp(\lambda_1 + \lambda_2)$$ __&#x20;
+* _If `X~Exp(\lambda1)` and_ `Y~Exp(\lambda_2)` are independent exponentially distributed random variables, then: $$min(X,Y) Exp(\lambda_1 + \lambda_2)$$ \_\_
 * We can use this if we are waiting on multiple independent processes and care about the first event... (missed notes)
 
 ### Ex: Supermarket Lines
 
 I'm in the line at a supermarket with 2 checkout counters. Suppose the first counter serves customers at rate 1 per 2 minutes, the second serves customers at rate 1 per 3 minutes, and they are independent. If I assume the waiting time until each counter becomes available follows an exponential distribution, how long should I expect to wait before I can be served?
-

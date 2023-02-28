@@ -8,36 +8,36 @@
 ## Event Basics
 
 * **Random experiment**: a process that generates results that cannot be predicted in advance.
-* **Sample space:** the set of all possible outcomes, denoted by `S`.&#x20;
+* **Sample space:** the set of all possible outcomes, denoted by `S`.
   * Example: the sample space for rolling 1 6-sided die is: `S={1, 2, 3, 4, 5, 6}`
 * **Events:** an outcome, or any subset of a sample space.
   * Example, the event "roll an odd number" yields the sample space `S={1, 2, 3}`.
   * **Union**: `A U B` -> the outcome is in A or B.
   * **Intersection**: $$A \cap B$$ -> both.
   * **Compliment**: denoted $$A^C$$ -> Anything "not" in A.
-* **Mutually Exclusive** or **Disjoint Events**: two sets are said to be "disjoint" if everything in `event A` does not exist in `event B`.&#x20;
+* **Mutually Exclusive** or **Disjoint Events**: two sets are said to be "disjoint" if everything in `event A` does not exist in `event B`.
 
 ## Probability
 
-* We'll denote the "probability" that event A happens as `P(A)`.&#x20;
+* We'll denote the "probability" that event A happens as `P(A)`.
   * In a frequentist paradigm, this is the proportion of times the event A would happen if done over and over again.
 
 ### Axioms
 
 * Let `S` be the sample space. Then `P(S)` is 1.
-* If A and B are mutually exclusive, then $$P \cup B$$ = $$P(A) + P(B)$$.&#x20;
+* If A and B are mutually exclusive, then $$P \cup B$$ = $$P(A) + P(B)$$.
 
 ### Derived Rules
 
 * **Compliment rule**: $$P(A^C)=1-P(A)$$
 * **Empty** set: $$P( \empty) = 0$$
-* Addition:&#x20;
+* Addition:
   * P(A U B) = P(A) + P(A) only when A and B are mutually exclusive .
   * P(A U B) = P(A) + P(B) – P(A ∩ B) is always true.
 
 ### Example: Student Majors
 
-> Suppose the probability that a randomly chosen UD student is math major is .10, the probability a randomly chosen student is a computer science major is .25, and the probability that randomly chosen student is both a math major and a computer science major is .05.&#x20;
+> Suppose the probability that a randomly chosen UD student is math major is .10, the probability a randomly chosen student is a computer science major is .25, and the probability that randomly chosen student is both a math major and a computer science major is .05.
 >
 > What is the probability that a randomly chosen student is either a math major or a computer science major?
 
@@ -51,7 +51,7 @@ TODO
 
 > Suppose the probability a randomly chosen student is an econ major is .2. Is is possible that the probability a randomly chosen student is both a math major and an econ major is .12? Explain.
 
-This isn't possible. We're told 10% of the student body is (at most) a math major, so you can't have 12% be a double major in economics and math because it exceeds the percentage of math majors.&#x20;
+This isn't possible. We're told 10% of the student body is (at most) a math major, so you can't have 12% be a double major in economics and math because it exceeds the percentage of math majors.
 
 ## Counting
 
@@ -81,7 +81,7 @@ There are `3*2*2` arrangements or 12 possible versions of this car.
 
 A **permutation** is an ordering of a collection of objects. For example, in the collection `{A, B, C}`, the number of permutations is `n!`.
 
-#### Generic example.&#x20;
+#### Generic example.
 
 Suppose there are `n` marbles in the bag.
 
@@ -92,7 +92,7 @@ Suppose there are `n` marbles in the bag.
 
 So - you get $$n(n-1)(n-2) = 1$$
 
-> If a soccer game remains tied after extra time, it may go to penalties. Each team selects 5 players to attempt penalty kicks in order.&#x20;
+> If a soccer game remains tied after extra time, it may go to penalties. Each team selects 5 players to attempt penalty kicks in order.
 >
 > Given the team has already decided which 5 players will takes the penalty kicks, how many possible orders can they go in?
 
@@ -100,19 +100,19 @@ So - you get $$n(n-1)(n-2) = 1$$
 
 > A soccer team has 11 players. How many different penalty shootout configurations are possible for the team?
 
-You'd get $$(11)(10)(9)(8)(7) \implies 55,440$$ possibilities.&#x20;
+You'd get $$(11)(10)(9)(8)(7) \implies 55,440$$ possibilities.
 
 ### Combinations & Team Building
 
 The number of possible permutations of `k` objects chosen from `n` objects is:
 
 $$
-\frac{n!}{(n-k)!k!} \lor  (n-k) \implies 0
+\frac{n!}{(n-k)!k!} \lor (n-k) \implies 0
 $$
 
 > A manager has funds to send a team 3 employees to a conference. Suppose that 10 employees express interest. How many possible teams of 3 employees could the manager form. (Assume that the order the employees are chosen in doesn’t matter.)
 
-There are $$\frac{10!}{7!  \times 3!}$$ (this might be wrong)
+There are $$\frac{10!}{7! \times 3!}$$ (this might be wrong)
 
 > Suppose I’m one of the employees who wants to go. If the manager forms the team by choosing uniformly at random from among all possible teams of 3, what is the probability I get to go?
 
@@ -130,7 +130,7 @@ There's a 66% chance you'll win if you switch?
 
 Now, it's 50/50.
 
-![](<../../.gitbook/assets/image (740).png>)
+![](<../../.gitbook/assets/image (644) (1) (1) (1) (1) (1).png>)
 
 ## Conditional Probability
 
@@ -185,15 +185,15 @@ Review - I don't know how to tell myself.
 
 From Wascher, verbatim:
 
-> * If A and B are independent P(A ∩ B) = P(A)P(B)&#x20;
-> * For an independent collection P(A1 ∩ . . . An) = P(A1) . . . P(An)&#x20;
+> * If A and B are independent P(A ∩ B) = P(A)P(B)
+> * For an independent collection P(A1 ∩ . . . An) = P(A1) . . . P(An)
 > * Generally P(A ∩ B) = P(A|B)P(B) Why?
 
 #### Ex: Cooling Systems
 
 > Suppose that if a reactor temperature ever exceeds 700C, the cooling system activates. Here is the data we collected:
 >
-> * The primary cooling system activates with probability .98&#x20;
+> * The primary cooling system activates with probability .98
 > * If the primary cooling system fails to activate, the backup cooling system activates with probability .95 $$P(B|A^C) = 0.95$$
 > * If both cooling systems fail, the reactor shuts down.
 
@@ -207,13 +207,11 @@ Questions
 
 To figure this out, we'll need to calculate $$P(A^C \cap B^C) = P(B^C | A^C) P(A^C) = 0.001$$
 
-
-
 ## Law of Total Probability
 
 Verbatim:
 
-![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (739).png>)
+![Source: Wascher. Slide 36.](<../../.gitbook/assets/image (646) (1) (1) (1) (1) (1) (1).png>)
 
 #### Example Continued:
 
@@ -235,13 +233,13 @@ Note: we changed pizza to have a probability of 0.3 so it'd all add up to 1.
 
 Suppose I know P(A|B) and I want to find P(B|A). Baye's rule connects these:
 
-![](<../../.gitbook/assets/image (741).png>)
+![](<../../.gitbook/assets/image (647) (1) (1) (1) (1) (1).png>)
 
 {% embed url="https://www.freecodecamp.org/news/bayes-rule-explained" %}
 
 ### Example: Testing for Disease
 
-Why don't we test people for rare disease?&#x20;
+Why don't we test people for rare disease?
 
 {% hint style="warning" %}
 Review/discuss with him.
@@ -269,13 +267,11 @@ Let the random variable X count the number of heads:
   * Money is continuous because we stop counting at a fraction of a cent. In the stock market, I can't sell $0.00326345679 worth of Apple. At some point, you have to stop, usually at two decimals
 * Discrete
 
-
-
-![](<../../.gitbook/assets/image (683).png>)
+![](<../../.gitbook/assets/image (642) (1) (1) (1).png>)
 
 ### Example: Mo Manufacturing Flaws
 
-![](<../../.gitbook/assets/image (707).png>)
+![](<../../.gitbook/assets/image (643) (2) (1).png>)
 
 To solve this, let's do this:
 
@@ -292,7 +288,7 @@ $$
 
 The probability mass function of a discrete random variable x is P(x) = p(x=x)
 
-![](<../../.gitbook/assets/image (735).png>)
+![](<../../.gitbook/assets/image (644) (1) (1) (1) (1).png>)
 
 We did an example in class:
 
@@ -313,22 +309,16 @@ We did an example in class:
 
 #### Example
 
-
-
 To solve, we'd do 0\*.71+1\*.18+2\*0.07...
 
 * P(0) = 1
 * P(1)
 
-
-
 #### Ex
 
-![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.45.26@2x.jpg>)
+![](<../../.gitbook/assets/CleanShot 2022-01-31 at 15.45.26@2x (1).jpg>)
 
-
-
-To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \implies <number>$$
+To solve this: $$.71*100 + .*18 * 10 + 0.07 *500+0.04*500 \implies <number>$$
 
 #### Ex 3: St. Petersburg Game (Take 1)
 
@@ -338,14 +328,12 @@ To solve this: $$.71*100 + .*18 * 10 + 0.07   *500+0.04*500 \implies <number>$$
 
 > Consider the following game:
 >
-> * You flip a fair coin until the first time it comes up Tails&#x20;
-> * Let X be the total number of flips&#x20;
+> * You flip a fair coin until the first time it comes up Tails
+> * Let X be the total number of flips
 > * You win \$$$2^x$$ but The house can pay out at most $1 billion
 > * What are your expected winnings? (As the house)
->
->
 
-![](<../../.gitbook/assets/image (726).png>)
+![](<../../.gitbook/assets/image (646) (1) (1) (1) (1).png>)
 
 ### Population Variance
 
@@ -363,11 +351,7 @@ The **probability density function** f(x) is a function such that $$P(a<X<b) = P
 
 * Helps you compute stuff by integrating.
 
-
-
 ![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.18.28@2x.jpg>)
-
-
 
 #### Example: Computation Time
 
@@ -380,7 +364,7 @@ Might've answered the wrong question. Similar questions on slides & I mixed them
 #### Ex: Electricity Generation
 
 {% hint style="info" %}
-Ask him to go over this one more time... couldn't find slide.&#x20;
+Ask him to go over this one more time... couldn't find slide.
 {% endhint %}
 
 ## Relating PDFs and CDFs
@@ -390,8 +374,6 @@ Ask him to go over this one more time... couldn't find slide.&#x20;
 It's often pays off to find the CDF first.
 
 ![](<../../.gitbook/assets/CleanShot 2022-01-31 at 16.27.12@2x.jpg>)
-
-
 
 #### Example: PDFs and CDFs - Time to Failure
 
@@ -406,7 +388,7 @@ It's often pays off to find the CDF first.
 #### Example: Expected Value: Computation Time
 
 > * Suppose the pdf for the time in seconds it takes a computation to finish is given by: $$f(x) = \frac{6}{5}x(1+x) \iff x>0$$
-> * What is the standard deviation of the computation time?&#x20;
+> * What is the standard deviation of the computation time?
 
 #### Example: Expected Value: Time to Failure
 
@@ -437,7 +419,7 @@ Missing content? See Feb 2 or chapter 2 slides.
 ### Example: Percentiles: Time to Failures
 
 * Suppose the pdf for the time to failure for a component is given by $$f(x)=\frac{1}{10}e^{\frac{-x}{10}} \iff x >0$$.
-* What is the median time to failure?&#x20;
+* What is the median time to failure?
 
 {% hint style="info" %}
 Missed a lot of information here.
@@ -451,7 +433,7 @@ Missed a lot of information here.
 
 Markov's inequality gives you a conservative way to bound the worst-case scenario.
 
-{% embed url="https://en.wikipedia.org/wiki/Markov's_inequality" %}
+{% embed url="https://en.wikipedia.org/wiki/Markov" %}
 
 {% hint style="danger" %}
 Need to review & redo notes!
@@ -459,9 +441,7 @@ Need to review & redo notes!
 
 #### Chebyshev's Inequality
 
-
-
-Let _X_ (integrable) be a [random variable](https://en.wikipedia.org/wiki/Random\_variable) with finite [expected value](https://en.wikipedia.org/wiki/Expected\_value) _μ_ and finite non-zero [variance](https://en.wikipedia.org/wiki/Variance) _σ_2. Then for any [real number](https://en.wikipedia.org/wiki/Real\_number) _k_ > 0,
+Let _X_ (integrable) be a [random variable](https://en.wikipedia.org/wiki/Random\_variable) with finite [expected value](https://en.wikipedia.org/wiki/Expected\_value) _μ_ and finite non-zero [variance](https://en.wikipedia.org/wiki/Variance) \_σ\_2. Then for any [real number](https://en.wikipedia.org/wiki/Real\_number) _k_ > 0,
 
 ![](https://wikimedia.org/api/rest\_v1/media/math/render/svg/13787911b032508f2a54da8eb84750f331a70401)
 
@@ -475,7 +455,7 @@ Only the case ![k > 1](https://wikimedia.org/api/rest\_v1/media/math/render/svg/
 
 We did the above problem again
 
-{% embed url="https://en.wikipedia.org/wiki/Chebyshev's_inequality" %}
+{% embed url="https://en.wikipedia.org/wiki/Chebyshev" %}
 R
 {% endembed %}
 
@@ -507,18 +487,13 @@ $$
 E(C_1X_1+...+c_nX_n) = c_1E(X_1)+...c_nE(X_n)=c_1\mu_1+...+c_n \mu_n
 $$
 
-
-
-
-
 ## Variance of a Linear Combination
 
 * Go back and see notes
 
 ### Example
 
-## Works Cited&#x20;
+## Works Cited
 
 * Navidi, William. Statistics for Engineers & Scientists (4th edition).
-* Wascher, Matthew. "[Chapter 2 Class/Powerpoint](https://isidore.udayton.edu/access/lessonbuilder/item/29997089/group/d6082308-ebf3-4045-9a06-a4d7a6611751/Lessons/MTH+367+Chapter+2-2.pptx)" _MTH 367 Statistics._ Spring 2022. University of Dayton.&#x20;
-
+* Wascher, Matthew. "[Chapter 2 Class/Powerpoint](https://isidore.udayton.edu/access/lessonbuilder/item/29997089/group/d6082308-ebf3-4045-9a06-a4d7a6611751/Lessons/MTH+367+Chapter+2-2.pptx)" _MTH 367 Statistics._ Spring 2022. University of Dayton.

@@ -40,13 +40,11 @@
 1. How did life originate on earth?
 2. When and why did metazoans (multi-cellular animals) evolve?
 
-
-
 ### Qualities of Life
 
 Recall all living things do 3 things: metabolize, achieve homeostasis, and reproduce.
 
-![Source: Wikimedia. Creative Commons.](<../../.gitbook/assets/image (694).png>)
+![Source: Wikimedia. Creative Commons.](<../../.gitbook/assets/image (649) (1).png>)
 
 #### Diverse Things
 
@@ -56,7 +54,7 @@ Recall all living things do 3 things: metabolize, achieve homeostasis, and repro
 
 #### Simple Things
 
-* Chemically CHON+SP => Monomers CH_4, NH_3, CO_2, H_2O => Polymers (Sugars, carbs, amino acids)
+* Chemically CHON+SP => Monomers CH\_4, NH\_3, CO\_2, H\_2O => Polymers (Sugars, carbs, amino acids)
 
 ### Miller Urey Experiment
 
@@ -81,8 +79,8 @@ The third part is about earliest metabolisms. First is glycolosis or sugar ferme
 
 #### Stromatolites
 
-* Occur today in extremely hot environment but they are rare.&#x20;
-* There's some really old stuff.&#x20;
+* Occur today in extremely hot environment but they are rare.
+* There's some really old stuff.
 
 #### Cyanobacteria
 

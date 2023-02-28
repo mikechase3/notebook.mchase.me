@@ -12,7 +12,7 @@ Common functions of interruptions:
 ## What is an Operating System?
 
 * An intermediary between a user of a computer and the computer hardware
-* Operating system goals:&#x20;
+* Operating system goals:
   * Execute user programs and make solving user problems easier
   * Make the computer system convenient to use
   * Use the computer hardware in an efficient manner
@@ -41,7 +41,7 @@ Common functions of interruptions:
 
 ## Computer System Operation
 
-![](<../../.gitbook/assets/image (149).png>)
+![](<../../.gitbook/assets/image (132).png>)
 
 ## Computer System Operation
 
@@ -52,10 +52,6 @@ Common functions of interruptions:
 ![](<../../.gitbook/assets/image (134).png>)
 
 ![](<../../.gitbook/assets/image (135).png>)
-
-
-
-
 
 ## Storage Structure
 
@@ -69,10 +65,9 @@ Common functions of interruptions:
 
 * **Nonvolatile**: it's stored permanently.
 * Examples: hard disks, magnetic recording material.
-* Disk surface is logically divided into **tracks**.&#x20;
+* Disk surface is logically divided into **tracks**.
   * Tracks are divided into **sectors**.
 
 ### Caching
 
 Copying information into faster storage system; main memory can be viewed as a cache for secondary storage.
-

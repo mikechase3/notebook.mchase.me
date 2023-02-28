@@ -2,7 +2,7 @@
 
 ## Visual Studio
 
-![](<../../../.gitbook/assets/image (526).png>)
+![](<../../../.gitbook/assets/image (525).png>)
 
 ## Javascript in Chrome
 
@@ -16,7 +16,7 @@ Here's a nice overview of running JS in Chrome's Console.
 
 ![](<../../../.gitbook/assets/image (527).png>)
 
-You'll also want to look into how to debug javascript. The following article/video is from Google and shows you how to use the debugging features like breakpoints and pausing when certain events occur like clicking a mouse.&#x20;
+You'll also want to look into how to debug javascript. The following article/video is from Google and shows you how to use the debugging features like breakpoints and pausing when certain events occur like clicking a mouse.
 
 {% embed url="https://developer.chrome.com/docs/devtools/javascript/" %}
 
@@ -25,4 +25,3 @@ You'll also want to look into how to debug javascript. The following article/vid
 ## Node
 
 ### What is Node?
-

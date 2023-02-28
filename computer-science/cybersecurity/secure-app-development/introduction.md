@@ -29,22 +29,22 @@
 
 ## Application Development
 
-* We're focusing on web-apps.&#x20;
+* We're focusing on web-apps.
 * Some sort-of application with some sort-of functionality.
 * Normally, developers focus on the functionalities of the application.
 * We'll work in teams of 2 people.
 * Classmates: Asia, Luis F, Devin P, Anna, Samantha C
 
-## Focus:&#x20;
+## Focus:
 
-* We're going to be developing applications.&#x20;
+* We're going to be developing applications.
 
 ![](<../../../.gitbook/assets/image (398).png>)
 
 ## Attacks
 
 * Cross-Site Attacks
-* SQL&#x20;
+* SQL
 * Buffer-overflow attacks _use input-validation_.
 
 ## New Development
@@ -54,7 +54,7 @@
 
 ![](<../../../.gitbook/assets/image (399).png>)
 
-![](<../../../.gitbook/assets/image (46) (1).png>)
+![](<../../../.gitbook/assets/image (46) (1) (1).png>)
 
 ## Contact Information
 

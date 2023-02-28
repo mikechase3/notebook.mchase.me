@@ -7,7 +7,7 @@ description: 'TODO: citation needed, fair use verification.'
 ## Basic Ingredients
 
 * There are 2 schools of probability. Frequentists measure probability as a long-run frequency. Bayesian measures probability by the strength of belief. We use the frequentist paradigm.
-* **Sample spaces** describe all possible outcomes of an experiment. We represent this with the variable `S`.&#x20;
+* **Sample spaces** describe all possible outcomes of an experiment. We represent this with the variable `S`.
 * **Experiments** result in unpredictable outcomes.
 * **Events** are subsets of sample spaces.
 
@@ -17,7 +17,7 @@ description: 'TODO: citation needed, fair use verification.'
 * **Intersections** are logical ands.
 * **Complements**: show that sets aren't in a specified event.
 
-![Illustration of unions, intersections, and complements. (Source: Navidi)](<../../.gitbook/assets/image (686).png>)
+![Illustration of unions, intersections, and complements. (Source: Navidi)](<../../.gitbook/assets/image (643) (1) (1) (1) (1).png>)
 
 ### Mutually Exclusive Events
 
@@ -58,7 +58,7 @@ $$
 
 * If you want to find the probability that `event A` will happen, regardless of whether `event B/d/`E`...` happens or not, you are looking for:
 
-![Img Source: Navidi](<../../.gitbook/assets/image (723).png>)
+![Img Source: Navidi](<../../.gitbook/assets/image (646) (1) (1) (1).png>)
 
 $$
 P(A) = P(A \cap B) + P(A \cap B^C) + [P(A \cap D^C) + P(A \cap E^C)...]
@@ -110,13 +110,10 @@ $$
 
 ## Conditional Probability & Independence
 
-* **Unconditional probabilities** describe things that are outside the sample space.&#x20;
+* **Unconditional probabilities** describe things that are outside the sample space.
 * **Conditional Probability** describes the outcomes from a certain part of the sample space.
 * Knowledge involving certain conditions to predict a conclusion doesn't tell us about the entire sample, only the sample/population that meets the conditional criteria.
 * **Notation**: to say that `P(<new quality we're measuring> | <such that it meets this conditional criteria>)`.
 * For example, if we were making rods and you wrote this: `P(diameter is ok | length is ok)`, it would answer "how many, of the rods that are the correct length, also have an `ok` diameter?"
 
 _Left off at the beginning of chapter 2.3_
-
-
-

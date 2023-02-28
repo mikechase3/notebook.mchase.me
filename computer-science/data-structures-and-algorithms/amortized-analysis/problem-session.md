@@ -6,7 +6,7 @@
 
 The correct answer is A.
 
-![](<../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### 0-1 Knapsack Problem
 
@@ -26,7 +26,7 @@ Given an input with length `n`, what is the running time of the dynamic programm
 
 ### DFS
 
-Given a graph of V nodes and E edges, which algorithm Design paradigm is exemplified by DFS?&#x20;
+Given a graph of V nodes and E edges, which algorithm Design paradigm is exemplified by DFS?
 
 * **Brute Force,** because we want to visit all the nodes.
 * It’s not greedy because we don’t sort them.
@@ -34,7 +34,7 @@ Given a graph of V nodes and E edges, which algorithm Design paradigm is exempli
 
 ### BFS
 
-Given a graph with V nodes and E edges, which algorithm&#x20;
+Given a graph with V nodes and E edges, which algorithm
 
 * Brute force approach.
 * We can’t say _divide and conquer_ becuase there is no _conquer_ part of it.
@@ -43,7 +43,7 @@ Given a graph with V nodes and E edges, which algorithm&#x20;
 
 * For Kruskal’s, we want to use edges to cover all nodes on the graph.
 * Each edge costs money.
-* We use a **greedy approach** because we sort the edges by their weights.&#x20;
+* We use a **greedy approach** because we sort the edges by their weights.
 
 ### Dijkstra’s Single Source
 
@@ -147,4 +147,3 @@ I don’t know what this means.
 
 * Our total cost is T(n).
 * You can change your money as long as it’s a fixed number?
-

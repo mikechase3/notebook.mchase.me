@@ -14,12 +14,12 @@
 
 ## Areas Of Parallelograms
 
-![](<../../../../.gitbook/assets/image (277).png>)
+![](<../../../../.gitbook/assets/image (277) (1).png>)
 
 ## Determinant Formula for u x v
 
 {% hint style="info" %}
-V1-V2+V3 for 3x3 determinants.&#x20;
+V1-V2+V3 for 3x3 determinants.
 {% endhint %}
 
 ![](<../../../../.gitbook/assets/image (255).png>)
@@ -44,7 +44,7 @@ V1-V2+V3 for 3x3 determinants.&#x20;
 
 ## Torque
 
-* The magnitude of torque vector is $$|r| \times |F| \times \sin(\theta)$$&#x20;
+* The magnitude of torque vector is $$|r| \times |F| \times \sin(\theta)$$
 
 ![](<../../../../.gitbook/assets/image (259).png>)
 
@@ -72,9 +72,9 @@ This wasn't in the homework so I skipped it.
 
 ### Find Area of a triangle given three points. Find a Unit Vector Perpendicular to the plane (#15)
 
-![](<../../../../.gitbook/assets/HW 2-Michael Chase-1.jpg>)
+![](../../../../.gitbook/assets/hw-2-michael-chase-1.jpg)
 
-![](<../../../../.gitbook/assets/HW 2-Michael Chase-2.jpg>)
+![](../../../../.gitbook/assets/hw-2-michael-chase-2.jpg)
 
 ### Parallelgram
 
@@ -83,4 +83,3 @@ This wasn't in the homework so I skipped it.
 {% hint style="info" %}
 I don't have an answer; use Chegg.
 {% endhint %}
-

@@ -6,7 +6,7 @@
 
 ## Formulas
 
-![](<../../.gitbook/assets/image (479).png>)
+![](<../../.gitbook/assets/image (480).png>)
 
 ## Key Concepts
 
@@ -36,7 +36,7 @@
 
 ### 2.4: The Cross Product
 
-![](<../../.gitbook/assets/image (483).png>)
+![](<../../.gitbook/assets/image (482).png>)
 
 ### 2.5: Equations of Lines and Planes in Space
 
@@ -62,17 +62,11 @@
 
 ![](<../../.gitbook/assets/image (472).png>)
 
-
-
 ![](<../../.gitbook/assets/image (473).png>)
-
-
 
 ![](<../../.gitbook/assets/image (474).png>)
 
 ![](<../../.gitbook/assets/image (475).png>)
-
-
 
 2.4.9
 
@@ -104,8 +98,6 @@ Aren't there infinite parallel lines? Why did my intuition work to correctly ans
 
 ![](<../../.gitbook/assets/image (491).png>)
 
-
-
 To solve this, we'll need to refer to this theorem again:
 
 ![](<../../.gitbook/assets/image (492).png>)
@@ -116,9 +108,9 @@ To solve this, we'll need to refer to this theorem again:
 
 ![](<../../.gitbook/assets/image (495).png>)
 
-#### 2.5.4:&#x20;
+#### 2.5.4:
 
 ## Works Cited
 
 * All problems are completed by Michael Chase
-* Review sections come from the text cited at the top:[ "Calculus Volume 3" by Edwin Herman and Gilbert Strang. ](https://openstax.org/details/books/calculus-volume-3)
+* Review sections come from the text cited at the top:[ "Calculus Volume 3" by Edwin Herman and Gilbert Strang.](https://openstax.org/details/books/calculus-volume-3)

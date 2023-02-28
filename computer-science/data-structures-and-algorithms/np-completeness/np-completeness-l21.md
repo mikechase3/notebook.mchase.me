@@ -12,19 +12,19 @@
 
 This expands out to cover NP:
 
-![](<../../../.gitbook/assets/image (110) (1) (1).png>)
+![](<../../../.gitbook/assets/image (110) (1) (1) (1).png>)
 
 ### Polynomial Time (P)
 
 * P is the set of all problems that can be solved in polynomial time.
-* **Polynomial:** $$n^{\text{some constant}}$$&#x20;
+* **Polynomial:** $$n^{\text{some constant}}$$
 
 ### Exponential Time (EXP)
 
 ![We try to bring anything exponential into polynomial time as much as possible](<../../../.gitbook/assets/image (102).png>)
 
 * EXP is the set of all problems you can solve in exponential time.
-* Exponential means $$2^{n^\text{some constant}}$$&#x20;
+* Exponential means $$2^{n^\text{some constant}}$$
 
 ### Recursive (R)
 
@@ -37,9 +37,9 @@ This expands out to cover NP:
 
 * _**NP**_ describes a set of decision problems:
   * Solvable in polynomial time via a _lucky_ algorithm.
-  * _**Lucky**: Lucky algorithms make guesses. It just needs to try 1 problem because it's really lucky and always guesses the right choice._&#x20;
+  * _**Lucky**: Lucky algorithms make guesses. It just needs to try 1 problem because it's really lucky and always guesses the right choice._
 * _**NP decision**_ problems are solvable in _**nondeterministic**_ _**polynomial**_ time.
-  * Polynomial:  $$n^{\text{some constant}}$$&#x20;
+  * Polynomial: $$n^{\text{some constant}}$$
   * _**Nondeterminstic:**_ in O(1) time, you can _guess_ among polynomial number of choices. If the computer guesses a yes answer, then we get such a guess.
   * _**Decision**_: The output is yes or no.
 
@@ -59,7 +59,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 
 ![](<../../../.gitbook/assets/image (105).png>)
 
-* _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$&#x20;
+* _**NP-Complete**_ if $$\exists x: (x \in \text{NP} \land x \implies \text{NP-Hard}) \implies \text{NP-Complete})$$
   * Problem X is NP-Complete if X is in NP and X is _NP-Hard_
   * _You are exactly as hard as NP. No harder and no easier._
 * Bonus: [Mario is computationally hard](https://arxiv.org/abs/1203.1895).
@@ -68,7 +68,7 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 
 * _**NP-Hard**_ if every problem $$Y\in \text{NP}$$ reduces to X.
 * In English, NP hard means that it's at least as hard as every problem in NP.
-  * If $$P \neq \text{NP} \implies x \notin P$$&#x20;
+  * If $$P \neq \text{NP} \implies x \notin P$$
     * Aka: Your problem is not polynomial solvable.
   * \[Reduction from problem A to problem B] = \[polynomial-time algorithm converting A inputs into equivalent _(same yes/no answer)_ B inputs]
     * Equivalent means it has the same yes/no answer.
@@ -81,13 +81,13 @@ When the answer is YES, you can prove it and check that proof in polynomial time
 ![](<../../../.gitbook/assets/image (95).png>)
 
 {% hint style="warning" %}
-* What is NP?&#x20;
+* What is NP?
   * Not polynomial?
   * Did I define it right?
 * How do I know if something is in NP?
 * How do I know if NP is hard?
-* What is the definition of a _problem_ in this case?&#x20;
-  * Like a function?&#x20;
+* What is the definition of a _problem_ in this case?
+  * Like a function?
   * Like binary search is a problem that's O(log(n))?
 * What do the handwritten notes mean?
 {% endhint %}
@@ -118,20 +118,18 @@ That are useful for me to know thus far:
 
 ![](<../../../.gitbook/assets/image (113).png>)
 
-## Reductions: $$A \implies B$$&#x20;
+## Reductions: $$A \implies B$$
 
 Convert your problem into a problem you already know how to solve instead of solving it from scratch.
 
 ![](<../../../.gitbook/assets/image (114).png>)
 
-### Dijkstra's Example&#x20;
+### Dijkstra's Example
 
 * Suppose your friend gives you a problem for unweighted Shortest paths.
 * How do you solve unweighted paths? Do BFS if you're smart.
 * But suppose someone gave you dijkstra's code and goes "how do you do it?" Just set all the weights to 1.
   * Weighted -> Unweighted. //Just set all the weights to 1.
-
-
 
 ## 3 SAT (Satisfiability)
 
@@ -139,7 +137,7 @@ Convert your problem into a problem you already know how to solve instead of sol
 
 ### Problem
 
-* I'm given a formula which is an AND of ORs. Each OR clause only has 3 things in it.&#x20;
+* I'm given a formula which is an AND of ORs. Each OR clause only has 3 things in it.
   * The things are called _literals._
     * _Literals_ is either a variable _x\_i_ or it's the negation of a variable, _not x\_i_.
   * _**Clauses**_ are groups of 3 things.
@@ -195,7 +193,7 @@ What is a certificate? What is a verifier? These don't make sense.
 
 ### Proving NP Completeness of Your Algorithms
 
-#### Step 1: Show $$x \in \text{NP}$$&#x20;
+#### Step 1: Show $$x \in \text{NP}$$
 
 ![Showing that our problems are in SAT means our problem is in NP.](<../../../.gitbook/assets/image (108).png>)
 
@@ -204,7 +202,7 @@ What is a certificate? What is a verifier? These don't make sense.
   * Certificate + verifier.
 * We defined the certificate
 * We provide a verification algorithm that checks if everything is true or not.
-* Now we can conclude $$\text{problem } x \in \text{NP}$$&#x20;
+* Now we can conclude $$\text{problem } x \in \text{NP}$$
 
 #### Step 2: Reductions
 
@@ -221,7 +219,7 @@ I don't understand reductions or these definitions very well.
 
 #### Proof Your Own Algorithms Summary
 
-![Choose a problem and reduce it down to prove something is NP Complete](<../../../.gitbook/assets/image (118) (1) (1) (1).png>)
+![Choose a problem and reduce it down to prove something is NP Complete](<../../../.gitbook/assets/image (118) (1) (1) (1) (1).png>)
 
 * Cook proved (through a pain in the a\*\*) that the 3SAT problem is NP complete.
 * Now, you just have to pick your favorite problem, and reduce from any known problem (like 3SAT) to your problem that you're trying to prove is NP Hard.
@@ -244,13 +242,9 @@ I don't understand reductions or these definitions very well.
 See a full explanation [here](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K\_QgvdKkovK\_t4K6-\&index=8\&t=36s).
 {% endhint %}
 
-
-
 ## Further Examples
 
 ![](<../../../.gitbook/assets/image (115).png>)
-
-
 
 ## Works Cited
 
@@ -262,4 +256,4 @@ Chang, Cory. [_P vs. NP - An Introduction_](https://www.youtube.com/watch?v=OY41
 
 Chang, Cory. [_What Makes Mario NP-Hard? (Polynomial Reductions)_](https://www.youtube.com/watch?v=oS8m9fSk-Wk\&list=PLlwsleWT767dnN25K\_QgvdKkovK\_t4K6-\&index=8\&t=36s)_._ Undefined Behavior.
 
-\
+\\

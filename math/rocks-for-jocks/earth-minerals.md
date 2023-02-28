@@ -7,7 +7,7 @@
 
 ## Overview
 
-* A **mineral** is a naturally occurring, inorganic (not composed of Carbon-Hydrogen molecules usually part of living tissue), solid crystalline (atoms have a structured arrangement; opposite of amorphous),  substance with definite physical and chemical properties.&#x20;
+* A **mineral** is a naturally occurring, inorganic (not composed of Carbon-Hydrogen molecules usually part of living tissue), solid crystalline (atoms have a structured arrangement; opposite of amorphous), substance with definite physical and chemical properties.
 
 ## Chemistry Review
 
@@ -34,7 +34,7 @@ Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 
 ![](<../../.gitbook/assets/image (617).png>)
 
-![](<../../.gitbook/assets/image (616).png>)
+![](<../../.gitbook/assets/image (615).png>)
 
 ## 6.6: Igneous Rock Classification
 

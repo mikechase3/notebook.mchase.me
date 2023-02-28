@@ -46,15 +46,13 @@ When should we use each one?
 {% hint style="warning" %}
 What does this mathematical notation mean? What is A\[i]? I thought "i" is the number we're trying to represent, but then we have "A\[i]" which refers to an index, so we can't have both.
 
-Also, if `i` is the index, then what is `k`? We use `k-1` sometimes.&#x20;
+Also, if `i` is the index, then what is `k`? We use `k-1` sometimes.
 {% endhint %}
 
 > * K-bit counter
 >   * A\[0] is the least significant bit.
 >   * A\[k-1] is the most significant bit.
-> * The value of the counter is: $$\sum_{i=0}^{k-1}A[i]2^i$$&#x20;
-
-
+> * The value of the counter is: $$\sum_{i=0}^{k-1}A[i]2^i$$
 
 #### Simple Example
 
@@ -110,7 +108,7 @@ Example where k = 6. (There are 6 bits).
 ```
 
 * We can make a _predicted cost_: after `n` operations, we will have done $$2 \cdot n$$ flips.
-  * This sets an upper bound that's surprising accurate :point\_down:&#x20;
+  * This sets an upper bound that's surprising accurate :point\_down:
 
 ![Source: "The k-bit counter"](<../../../.gitbook/assets/image (17).png>)
 
@@ -122,7 +120,7 @@ Notice how our predicted cost never exceeds the actual cost. This is good!
    1. The worst case is that we flip all the bits.
    2. But probably... we don't flip all the base. So it's _in_ `O(k)`
 2. The total cost of `n` _increment_ operations (starting from all 0s) is $$\leq 2\cdot n \in O(n)$$ .
-3. So, on a single _increment_ operation, the _**average cost, or amortized**_ cost of an increment is `2`, and $$2 \in O(1)$$&#x20;
+3. So, on a single _increment_ operation, the _**average cost, or amortized**_ cost of an increment is `2`, and $$2 \in O(1)$$
 
 {% hint style="info" %}
 If we used the worst-case cost, we would have dramatically over-estimated the actual cost. By using an amortized analysis, we got a much tighter bound.
@@ -135,8 +133,6 @@ So obviously, by this point, we know two important things. And as a result of th
 1. The worst case is `O(k)` because at some point, every single bit gets flipped. _This is when the array is when our_ `list = [1, 1, 1, 1, 1, 1, 1, 1, 1]`and every bit needs to get flipped.
 2. Our average case is not going to be our worst case. Clearly, not every bit is getting flipped all the time.
 
-&#x20;
-
 ![Notice A\[0\] (At the right) is flipped every time. A\[1\] (2nd from right) is flipped n/2 times, and so on.](<../../../.gitbook/assets/image (27).png>)
 
 #### Using Geometric Series
@@ -146,12 +142,12 @@ So obviously, by this point, we know two important things. And as a result of th
 ![Source: Thomas Calculus](<../../../.gitbook/assets/image (28).png>)
 
 $$
-n + n/2 + n/4 + ... ⇒  \sum _{n=1}^{\infty } 2^{-n}=1
+n + n/2 + n/4 + ... ⇒ \sum _{n=1}^{\infty } 2^{-n}=1
 $$
 
 If we graph this, it'll look exactly like this:
 
-![](../../../.gitbook/assets/WolframAlpha--1\_2\_\_\_1\_4\_\_\_1\_8\_\_\_1\_16\_\_\_\_\_\_\_\_\_\_\_\_2020\_06\_27\_21\_32.jpeg)
+![](../../../.gitbook/assets/wolframalpha-1\_2\_\_\_1\_4\_\_\_1\_8\_\_\_1\_16\_\_\_\_\_\_\_\_\_\_\_\_2020\_06\_27\_21\_32.jpeg)
 
 So clearly, this is a geometric series, and the series approaches 1:
 
@@ -166,9 +162,9 @@ $$
 
 ### Accounting Method
 
-* Recall, for the accounting method, we design an amortized cost _(which is our budget)_ for increment operations.&#x20;
+* Recall, for the accounting method, we design an amortized cost _(which is our budget)_ for increment operations.
 * Here, we declared **our budget is $2**.
-* And below, we **prove we have enough budget to cover `n` operations**.&#x20;
+* And below, we **prove we have enough budget to cover `n` operations**.
   * For every bit flip from 0 to 1, we use $1 for the flip.
   * We associate the extra $1 with bit 1, which will be used when we flip this bit from 1 back to 0.
 
@@ -180,9 +176,9 @@ Clearly, we have enough budget to cover all the bit flips. This means the balanc
 
 ## The Potential Method
 
-The potential method is similar to the accounting method, but it's a little bit more formally defined. We will use some potential phi function. Then, we'll map the data structure's current status to a real number.&#x20;
+The potential method is similar to the accounting method, but it's a little bit more formally defined. We will use some potential phi function. Then, we'll map the data structure's current status to a real number.
 
-#### Formal Definition&#x20;
+#### Formal Definition
 
 The formal definition from [Wikipedia](https://en.wikipedia.org/wiki/Potential\_method):
 
@@ -210,13 +206,13 @@ $$
 m_i = c_i + \Phi(D_i)-\Phi(D_{i-1})
 $$
 
-| Symbol    | Meaning                                                                                      |
-| --------- | -------------------------------------------------------------------------------------------- |
-| $$m_i$$   | The amortized cost of the $$i^{th}$$ operation.                                              |
-| $$c_i$$   | The actual cost of the $$i^{th}$$ operation.                                                 |
-| $$D_0$$   | The initial state of the data structure                                                      |
-| $$D_i$$   | The state of the data structure after the $$i^{th}$$ operation.                              |
-| $$\Phi$$  | A function that maps any _state_ of the data structures to a real number, $$\Phi(D_0) = 0$$  |
+| Symbol   | Meaning                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------- |
+| $$m_i$$  | The amortized cost of the $$i^{th}$$ operation.                                             |
+| $$c_i$$  | The actual cost of the $$i^{th}$$ operation.                                                |
+| $$D_0$$  | The initial state of the data structure                                                     |
+| $$D_i$$  | The state of the data structure after the $$i^{th}$$ operation.                             |
+| $$\Phi$$ | A function that maps any _state_ of the data structures to a real number, $$\Phi(D_0) = 0$$ |
 
 {% hint style="warning" %}
 What is the _state_ of the data structure? Like, what does that mean?
@@ -282,4 +278,3 @@ Regarding the first two equations. In Dr. Yao's, she says equals instead of impl
 | [Amortized Analysis (of the k-bit counter)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy.               | simrob (Youtube)                                             |
 | Thomas Calculus                                                                          | Geometric Series                    | Thomas. Pearson e-Text. Free                                 |
 | [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential\_method)           | Equations                           | Wikipedia Authors                                            |
-

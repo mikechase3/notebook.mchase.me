@@ -6,13 +6,13 @@ description: Blender Doughnut Tutorial Part 3
 
 ## View Options
 
-![The wire-frame/flat circle button](<../../../.gitbook/assets/image (721).png>)
+![The wire-frame/flat circle button](<../../../.gitbook/assets/image (657) (1) (1).png>)
 
 If you need to select throughout an entire object, and not just the surface, change your viewing mode using one of these buttons (on the right) to change it into a wire-frame.
 
 ## Separating Selection
 
-`Mesh => Separate => Selection`  lets you create new objects in the hierarchy.. When I duplicated the doughnut and make the ice cream
+`Mesh => Separate => Selection` lets you create new objects in the hierarchy.. When I duplicated the doughnut and make the ice cream
 
 ## Linked Items
 
@@ -20,7 +20,7 @@ Lets say you didn't separate the selection immediately. If you need to do that a
 
 ## Solidify Modifier
 
-* Make something solid by going to `modifiers`  and add a component called `Solidify`.&#x20;
+* Make something solid by going to `modifiers` and add a component called `Solidify`.
 * You might have to make an offset.
 
 ## Ordering Modifiers
@@ -29,4 +29,4 @@ Lets say you didn't separate the selection immediately. If you need to do that a
 * For example, subdividing before solidifying will make the rendering take longer.
 * We can reverse the order to make rendering more efficient.
 
-![](<../../../.gitbook/assets/image (696).png>)
+![](<../../../.gitbook/assets/image (649) (2).png>)

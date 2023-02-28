@@ -18,7 +18,7 @@ Defining Undirected Graphs
 {% endtab %}
 
 {% tab title="Directed Graphs" %}
-**Definition**: Let `V` be a finite set and `E` be a binary relation on V, that is,  $$E \subseteq V \cdot V$$ . Then, the pair `G=(V, E)` is called an directed graph.
+**Definition**: Let `V` be a finite set and `E` be a binary relation on V, that is, $$E \subseteq V \cdot V$$ . Then, the pair `G=(V, E)` is called an directed graph.
 
 **Self Loops** are allowed. `E` may contain `(v, v)`.
 {% endtab %}
@@ -73,7 +73,7 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 
 #### Reading Data into the text file.
 
-![](<../../../.gitbook/assets/image (69) (5) (5) (1) (4).png>)
+![](<../../../.gitbook/assets/image (69) (5) (5) (1) (1) (1).png>)
 
 | Function                                        | Description                                 |
 | ----------------------------------------------- | ------------------------------------------- |
@@ -109,10 +109,7 @@ Don't worry about the adjacency list representation just yet.
 For unweighted graphs, especially small ones, we use adjacency matrices because they only take up 1 bit. We can define a graph by vertices and edges. Formally, we define a _|V| x |V| matrix A =_ $$a_{ij}$$ where
 
 $$
-|V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases}
- &1 \text{ if } (i,j)\in E\\ 
- &0 \text{ if } (i,j)\notin E
-\end{cases}
+|V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases} &1 \text{ if } (i,j)\in E\\ &0 \text{ if } (i,j)\notin E \end{cases}
 $$
 
 ![](<../../../.gitbook/assets/image (60).png>)
@@ -121,12 +118,12 @@ $$
 
 #### Adjacency Matrix Analysis
 
-| Representation   | Space    | Add Edge | Find if Edge Exists | Iterate over Adj. Vertices |
-| ---------------- | -------- | -------- | ------------------- | -------------------------- |
-| Adjacency matrix | $$V^2$$  | 1        | 1                   | V                          |
-| Adjacency Lists  | E+V      | 1        | `degree(v)`         | `degree(v)`                |
+| Representation   | Space   | Add Edge | Find if Edge Exists | Iterate over Adj. Vertices |
+| ---------------- | ------- | -------- | ------------------- | -------------------------- |
+| Adjacency matrix | $$V^2$$ | 1        | 1                   | V                          |
+| Adjacency Lists  | E+V     | 1        | `degree(v)`         | `degree(v)`                |
 
-* The space requirement is $$\Theta(|V|^2)$$&#x20;
+* The space requirement is $$\Theta(|V|^2)$$
 * The time complexity for listing all vertices adjacent to node `u` is $$\Theta(|V|)$$, which is how long it takes to check one row of the adjacency matrix. _This is asking "what is adjacent to this node, not all nodes)._
 * The running time to determine if two nodes are directly connected is $$\Theta(1).$$ You can just check the adjacency list.
 
@@ -142,19 +139,17 @@ $$
 
 ![An Adjacency List Representation of the Graph](<../../../.gitbook/assets/image (63).png>)
 
-Adjacency lists maintain a vertex-indexed array of lists.&#x20;
+Adjacency lists maintain a vertex-indexed array of lists.
 
 ## Undirected Graph API
 
-| Method                       | Description                                                              |
-| ---------------------------- | ------------------------------------------------------------------------ |
-| `Graph(int V)`               | Constructs an empty graph with `V` nodes on the graph.                   |
-| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. We specify two nodes.      |
-| `Iterable adj(int v)`        | Returns v's neighbors: a list of nodes adjacent to the specified nodes.  |
-| `int V()`                    | Return the number of vertices                                            |
-| `int E()`                    | Return the number of edges.                                              |
-
-
+| Method                       | Description                                                             |
+| ---------------------------- | ----------------------------------------------------------------------- |
+| `Graph(int V)`               | Constructs an empty graph with `V` nodes on the graph.                  |
+| `void addEdge(int v, int w)` | Creates two edges: `v` to `w` and `w` to `v`. We specify two nodes.     |
+| `Iterable adj(int v)`        | Returns v's neighbors: a list of nodes adjacent to the specified nodes. |
+| `int V()`                    | Return the number of vertices                                           |
+| `int E()`                    | Return the number of edges.                                             |
 
 ### Adjacency List Implementation
 
@@ -188,14 +183,14 @@ public class Graph{
 ```
 
 {% hint style="warning" %}
-What is the iterator? Line 20?  What is it iterating through? is v's neighbor set the&#x20;
+What is the iterator? Line 20? What is it iterating through? is v's neighbor set the
 {% endhint %}
 
 ## Directed Graphs
 
 Directed graphs store the outgoing edges in their adjacency list.
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (79) (1).png>)
 
 ### Directed Graphs API
 

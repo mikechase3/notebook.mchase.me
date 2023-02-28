@@ -260,7 +260,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 The objective line is measured by the value of: $$z \text{ (which was defined to be) }= 15x_1 + 10x_2$$
 
-![](<../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2).png>)
+![](<../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (3).png>)
 
 **Step 4: Observe:**
 

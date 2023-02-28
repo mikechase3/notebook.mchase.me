@@ -11,7 +11,7 @@ Chapters 5.1-5.7 only.
 
 ## 5.2: DBMS
 
-![](<../../../.gitbook/assets/image (714).png>)
+![](<../../../.gitbook/assets/image (641) (1) (1) (1) (1) (1).png>)
 
 * You're defining the data stored in databases.
 * It'll be process and put into database description tables.
@@ -53,6 +53,6 @@ Read this!
 ## Homewrok
 
 1. IDK
-2. The user inputs a single quote.&#x20;
+2. The user inputs a single quote.
 3. Analyze a grant operation sequence and tell me what happens when B revokes access rights from C. Redraw the diagram based on what priveleges are still in-place after that occurs.
 4. Has to do with role-based access control. What is the appropriate access for each role?
