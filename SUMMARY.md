@@ -474,6 +474,8 @@
 ## 🎥 Entertainment
 
 * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
+* [Reports](entertainment/reports/README.md)
+  * [Super Crooks](entertainment/reports/super-crooks.md)
 
 ## Finance
 
