@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Mike Chase's Notebook](README.md)
-* [TOC (Decomissioned)](tableOfContentsDECOMISSIONED.md)
 * [Inbox](inbox/README.md)
 
 ## Automotive
@@ -109,6 +108,7 @@
   * [Normalness](communications/charism/quirkiness.md)
   * [Placebo](communications/charism/placebo.md)
   * [Uncertainty](communications/charism/how-to-make-your-own-luck-or-freakonomics-424.md)
+  * [What, So What, Now What](https://www.fastcompany.com/90867258/this-formula-introduce-yourself-like-a-pro?partner=rss\&utm\_source=rss\&utm\_medium=feed\&utm\_campaign=rss+fastcompany\&utm\_content=rss)
 * [Communication Management](communications/communication-management/README.md)
   * [48 Laws of Power Cult Wiki](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
   * [Decision Making](communications/communication-management/decision-making.md)
@@ -417,6 +417,7 @@
       * [GIL Debate](https://realpython.com/python-gil/)
       * [Module Usage and Creation](development/languages-and-architectures/python/personal-notes/tkinter-module-notes.md)
       * [Language Crash Course](development/languages-and-architectures/python/personal-notes/python-crash-course.md)
+      * [List Comprehension Practice](https://www.codecademy.com/paths/visualize-data-with-python/tracks/python-for-data-analysis-dvp/modules/python-lists-dvp/lessons/lists/exercises/practice-i)
       * [Mutable Default Args Warning](https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument)
       * [Namespace & Scope](development/languages-and-architectures/python/personal-notes/namespace-and-scope.md)
       * [Strings](development/languages-and-architectures/python/personal-notes/strings/README.md)
