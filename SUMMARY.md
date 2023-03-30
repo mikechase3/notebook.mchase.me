@@ -79,6 +79,7 @@
 * [Graduate School](career/graduate-school/README.md)
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
+* [Hostile Work Environments](career/hostile-work-environments.md)
 * [How to be a Full Stack Dev](https://www.codecademy.com/career-change-guide/full-stack-engineer-career-path?utm\_campaign=camp\~jan\_2022\_newsletter\~prod\~All\~geo\~All\~aud\~General\~funn\_Awareness\~msg\~Learn\_More\~cont\~CTA\_Button\~sited\~Career\_Path\~time\~2022Q1\~\&utm\_content=career\_guide\&utm\_source=iterable\&utm\_medium=email)
 * [Information Ethics](career/information-ethics/README.md)
   * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
