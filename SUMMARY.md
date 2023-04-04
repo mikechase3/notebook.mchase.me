@@ -72,8 +72,14 @@
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
 * [Air Force](career/air-force/README.md)
+  * [2023](https://sites.google.com/d/1lMeESgjseLp6CShcteykDBZiPwGD2FBl/p/1Cjua4nV8Jxyo7BHo5G\_boaaif87Z3VrU/edit)
+  * [ATAAPS](https://af.ataaps.csd.disa.mil/index2.html?d)
+  * [CAC Self Service](https://idco.dmdc.osd.mil/idco/)
   * [Defense Logistics Disposal](https://www.dla.mil/)
   * [Integrity First, Service Before Self, Excellence](https://www.dropbox.com/s/fghqzmrh8by25nt/Core%20Values.mp4?dl=0)
+  * [TSA Precheck Enrollment](https://milconnect.dmdc.osd.mil/milconnect/public/faq/DEERS-TSA\_Precheck)
+  * [Webmail](https://webmail.apps.mil)
+  * [wow](https://tasks.osi.apps.mil/USAF.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=200a4a0a-8d87-4476-8478-686fec3b78cb\&planId=LiMjW1pZ6EKmcrV-LYU0IowADQ5f)
 * [Code Reviews](career/code-reviews.md)
 * [CompSci Management Practices](career/lecture-01-course-overview.md)
 * [Dayton2DC](career/dayton2dc.md)
@@ -149,9 +155,6 @@
 
 ## ⌨ Computer Help
 
-* [iOS](computer-help/ios/README.md)
-  * [List: iOS Phone Applications](computer-help/ios/list-ios-phone-applications.md)
-  * [List iOS Tablet Applications](computer-help/ios/list-ios-tablet-applications.md)
 * [Mac OS](computer-help/mac-os/README.md)
   * [Security and Kernel Setup](computer-help/mac-os/security-and-kernel-setup/README.md)
     * [On Legacy Kernel Extensions](https://www.apriorit.com/dev-blog/430-macos-kext-development)
@@ -164,7 +167,10 @@
 * [Legacy](computer-help/legacy/README.md)
   * [PCjs Machines](https://www.pcjs.org/software/pcx86/sys/windows/win95/4.00.950/)
   * [Flash](https://www.howtogeek.com/707830/how-to-use-adobe-flash-in-2021-and-beyond/)
-* [Mac Workstation Standards](computer-help/workstation-standards.md)
+  * [Flash Content](https://archive.org/details/softwarelibrary\_flash)
+* [Web Tools](computer-help/misc-software/README.md)
+  * [\[Web IDE\] Replit](https://replit.com/\~)
+  * [VirusTotal Sus File Scanner](https://www.virustotal.com/gui/home/upload)
 * [Ubuntu](computer-help/ubuntu/README.md)
   * [CAC Configuration](computer-help/ubuntu/cac-configuration/README.md)
     * [Ubuntu CAC Docs](https://help.ubuntu.com/community/CommonAccessCard)
@@ -175,9 +181,6 @@
   * [GUIs](computer-help/ubuntu/guis/README.md)
     * [Overview (Start Here)](https://www.youtube.com/watch?v=UUcEr2BjWHI)
     * [Customizing Gnome Desktop Env](computer-help/ubuntu/guis/customizing-gnome-desktop-env.md)
-* [Web Tools](computer-help/misc-software/README.md)
-  * [\[Web IDE\] Replit](https://replit.com/\~)
-  * [VirusTotal Sus File Scanner](https://www.virustotal.com/gui/home/upload)
 * [Windows](computer-help/windows/README.md)
   * [Workstation Standard Libary](computer-help/windows/workstation-standard-libary/README.md)
     * [Better-Cursors](http://www.michieldb.nl/other/cursors/)
@@ -185,6 +188,14 @@
     * [Visual Studio](computer-help/misc-software/visual-studio.md)
   * [Stupid](computer-help/windows/stupid/README.md)
     * [Internet Explorer](https://lagplorer.tms.sx/?27y)
+
+## 🖲 Computer Idiosyncrasies
+
+* [iOS](computer-idiosyncrasies/ios/README.md)
+  * [List: iOS Phone Applications](computer-idiosyncrasies/ios/list-ios-phone-applications.md)
+  * [List iOS Tablet Applications](computer-idiosyncrasies/ios/list-ios-tablet-applications.md)
+* [Mac Workstation Standards](computer-idiosyncrasies/workstation-standards.md)
+* [Page 2](computer-idiosyncrasies/page-2.md)
 
 ## 💾 Computer Science
 
