@@ -503,7 +503,10 @@
 
 ## 🥪 Food
 
+* [Dads Recipes](food/dads-recipes/README.md)
+  * [Baked Beans](food/dads-recipes/baked-beans.md)
 * [Favorite Restaurants](food/favorite-restaurants.md)
+* [NYT Cooking](https://cooking.nytimes.com/)
 
 ## 🕹 Gaming
 
@@ -664,6 +667,8 @@
   * [Tritones](music/harmonies/tritones.md)
   * [7th Chords](https://www.tiktok.com/@itsmillertimemusic/video/7076624066463026438?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
   * [Lessons from B](https://www.tiktok.com/@itsmillertimemusic/video/7076996636165147909?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
+* [Favorites](music/favorites/README.md)
+  * [2023 Favorite Music](music/favorites/2023-favorite-music.md)
 * [Genres](music/genres/README.md)
   * [List of Electronic Music Genres](https://en.wikipedia.org/wiki/List\_of\_electronic\_music\_genres)
 * [Inspiration](music/inspiration.md)
