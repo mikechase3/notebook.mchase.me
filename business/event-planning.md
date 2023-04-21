@@ -12,12 +12,12 @@
 
 ### Sample Table:
 
-| Task                  | Assignee   | Priority  |
-| --------------------- | ---------- | --------- |
-| Setup monitors        | Mike Chase | Required  |
-| Setup 3x oculus rifts | Mike Chase | Important |
-| Setup tablecloth      | Tyler      | Normal    |
-| Bring snacks          | Gretchen   | Low       |
+| Task                  | Assignee    | Priority  |
+| --------------------- | ----------- | --------- |
+| Setup monitors        | Mike Chase  | Required  |
+| Setup 3x oculus rifts | Mike Chase  | Important |
+| Setup tablecloth      | John Doe    | Normal    |
+| Bring snacks          | Jane Austin | Low       |
 
 ## During the Meeting
 
