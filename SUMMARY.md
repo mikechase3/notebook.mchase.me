@@ -57,6 +57,7 @@
   * [Blackfish (Sea World)](https://en.wikipedia.org/wiki/Blackfish\_\(film\))
   * [Disney's Fastpass - A Complicated History](business/documentaries/disneys-fastpass-a-complicated-history.md)
 * [Entrepreneurship](https://www.dropbox.com/s/n5r89txdonc8wbt/Entrepreneurship.pdf?dl=0)
+* [Event Planning](business/event-planning.md)
 * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
 * [Risk Management](business/risk-management.md)
 * [Role Models](business/role-models/README.md)
