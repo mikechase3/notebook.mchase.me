@@ -190,14 +190,6 @@
   * [Stupid](computer-help/windows/stupid/README.md)
     * [Internet Explorer](https://lagplorer.tms.sx/?27y)
 
-## 🖲 Computer Idiosyncrasies
-
-* [iOS](computer-idiosyncrasies/ios/README.md)
-  * [List: iOS Phone Applications](computer-idiosyncrasies/ios/list-ios-phone-applications.md)
-  * [List iOS Tablet Applications](computer-idiosyncrasies/ios/list-ios-tablet-applications.md)
-* [Mac Workstation Standards](computer-idiosyncrasies/workstation-standards.md)
-* [Page 2](computer-idiosyncrasies/page-2.md)
-
 ## 💾 Computer Science
 
 * [Cybersecurity](computer-science/cybersecurity/README.md)
@@ -370,6 +362,7 @@
       * [Blueprint Components](development/game-development/unreal-engine/blueprints/blueprint-components.md)
   * [Unity (Game Dev Class)](development/game-development/unity-game-dev-class/README.md)
     * [Unity Docs](https://docs.unity3d.com/Manual/)
+    * [C# Scripting](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
   * [Dropbox LAN Sync How it Works](https://dropbox.tech/infrastructure/inside-lan-sync)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
 * [Languages](development/languages-and-architectures/README.md)
@@ -550,10 +543,15 @@
 
 * [Adblocking](infrastructure-and-it/adblocking/README.md)
   * [PiHole Custom DNS](https://pi-hole.net/)
-* [Humor](infrastructure-and-it/humor/README.md)
-  * [Internet Rules](https://knowyourmeme.com/memes/rules-of-the-internet)
+* [Atlas OS](https://atlasos.net/)
 * [Hacking (Root Access)](infrastructure-and-it/hacking-root-access/README.md)
   * [CarThing](https://npjohnson.github.io/Spotify-Car-Thing-Root/)
+* [Humor](infrastructure-and-it/humor/README.md)
+  * [Internet Rules](https://knowyourmeme.com/memes/rules-of-the-internet)
+* [iOS](infrastructure-and-it/ios/README.md)
+  * [List: iOS Phone Applications](infrastructure-and-it/ios/list-ios-phone-applications.md)
+  * [List iOS Tablet Applications](infrastructure-and-it/ios/list-ios-tablet-applications.md)
+* [Mac Workstation Standards](infrastructure-and-it/workstation-standards.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
