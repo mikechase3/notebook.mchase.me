@@ -78,6 +78,7 @@
   * [CAC Self Service](https://idco.dmdc.osd.mil/idco/)
   * [Defense Logistics Disposal](https://www.dla.mil/)
   * [DoD MWR Databases](https://daf.dodmwrlibraries.org/databases)
+  * [Electronic Foreign Clearance Guide](https://apacs.milcloud.mil/fcg/fcg.cfm)
   * [Integrity First, Service Before Self, Excellence](https://www.dropbox.com/s/fghqzmrh8by25nt/Core%20Values.mp4?dl=0)
   * [SECURE](https://secure.eci.metrahub.us/)
   * [TSA Precheck Enrollment](https://milconnect.dmdc.osd.mil/milconnect/public/faq/DEERS-TSA\_Precheck)
