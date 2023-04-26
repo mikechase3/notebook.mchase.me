@@ -112,7 +112,7 @@ These enhance natural colors, add color to colorless foods, and help identify fl
 
 ## Advertising Scams
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>In order for companies to make these claims, they have to have the above qualifications.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>In order for companies to make these claims, they have to have the above qualifications.</p></figcaption></figure>
 
 * There is a code of federal regulations that claims something is a "good source of" as long as it contains 10-19% of your daily value.
 * **Potato Chips**: they like to market it as a food that's low in cholesterol, but cholesterol comes from animal-products. That's a trick they like to swindle their buyers but there's no cholesterol to begin with.

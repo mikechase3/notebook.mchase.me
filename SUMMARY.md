@@ -77,7 +77,9 @@
   * [ATAAPS](https://af.ataaps.csd.disa.mil/index2.html?d)
   * [CAC Self Service](https://idco.dmdc.osd.mil/idco/)
   * [Defense Logistics Disposal](https://www.dla.mil/)
+  * [DoD MWR Databases](https://daf.dodmwrlibraries.org/databases)
   * [Integrity First, Service Before Self, Excellence](https://www.dropbox.com/s/fghqzmrh8by25nt/Core%20Values.mp4?dl=0)
+  * [SECURE](https://secure.eci.metrahub.us/)
   * [TSA Precheck Enrollment](https://milconnect.dmdc.osd.mil/milconnect/public/faq/DEERS-TSA\_Precheck)
   * [Webmail](https://webmail.apps.mil)
   * [wow](https://tasks.osi.apps.mil/USAF.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=200a4a0a-8d87-4476-8478-686fec3b78cb\&planId=LiMjW1pZ6EKmcrV-LYU0IowADQ5f)
@@ -537,6 +539,7 @@
 * [Maintaining Household Appliances](house/maintaining-household-appliances.md)
 * [Morpholio](house/morpholio/README.md)
   * [Morpholio Tutorials](https://www.youtube.com/watch?v=kf5lg3VlLoY\&list=PLdlz\_3DMdbrpaZRw9ScLF0J4b\_Zi0DfzU)
+* [Plan of work for small servantless house](house/plan-of-work-for-small-servantless-house.md)
 * [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 
 ## 🖥 Infrastructure and IT
