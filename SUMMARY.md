@@ -693,6 +693,7 @@
   * [Scat Rap](https://rabbidavidzaslow.com/wp-content/uploads/2013/11/scatrap.pdf)
 * [Theory](music/theory/README.md)
   * [MusicTheory.Net](https://www.musictheory.net/)
+  * [Music Visualization Articles](https://muted.io/)
   * [Rhythm and Meter](music/theory/rhythm-and-meter.md)
   * [Scales and Key Signatures](music/theory/scales-and-key-signatures.md)
   * [Intervals](music/theory/intervals.md)
@@ -743,6 +744,7 @@
   * [Gun Violence](social-sciences/political-science/gun-violence/README.md)
     * [Overview Maps Charts](https://www.vox.com/policy-and-politics/2017/10/2/16399418/america-mass-shooting-gun-violence-statistics-charts)
 * [Psychology](social-sciences/psychology/README.md)
+  * [Absurd Trolly Problem](https://neal.fun/absurd-trolley-problems/)
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
 
 ## 📝 Writing
