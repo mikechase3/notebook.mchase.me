@@ -341,6 +341,7 @@
     * [02: Mesh Editing](development/game-development/blender-3d-modeling/02-mesh-editing.md)
     * [03: View Options, Linked Items, Separating, Selections, Modifiers](development/game-development/blender-3d-modeling/03-view-options-linked-items-separating-selections-modifiers.md)
     * [04 Snapping](development/game-development/blender-3d-modeling/04-snapping.md)
+    * [Meshroom Pics to 3D](https://github.com/alicevision/Meshroom)
   * [Erik Buck](https://people.wright.edu/erik.buck)
   * [Game-Specific Algorithms](development/game-development/game-specific-algorithms/README.md)
     * [A\*](https://www.google.com/search?q=a\*+path+finding\&rlz=1C1GCEA\_enUS999US999\&oq=A\*+Path+Finding\&aqs=chrome.0.0i512j0i20i263i512l2j0i512j0i10i512j0i10i22i30j0i22i30l4.2259j0j7\&sourceid=chrome\&ie=UTF-8)
