@@ -512,6 +512,10 @@
 ## 🕹 Gaming
 
 * [Gaming Research Integration](gaming/gaming-research-integration.md)
+* [Guides](gaming/guides/README.md)
+  * [Don't Starve Together](gaming/guides/dont-starve-together/README.md)
+    * [Console Commands](https://dontstarve.fandom.com/wiki/Console/Don't\_Starve\_Together\_Commands)
+    * [Crockpot Cheat Sheet](https://steamcommunity.com/sharedfiles/filedetails/?id=1937832167)
 
 ## 💊 Health and Fitness
 
