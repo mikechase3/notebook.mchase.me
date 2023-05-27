@@ -565,6 +565,10 @@
   * [List iOS Tablet Applications](infrastructure-and-it/ios/list-ios-tablet-applications.md)
 * [Mac Workstation Standards](infrastructure-and-it/workstation-standards.md)
 
+## 🌴 Leisure
+
+* [Page 2](leisure/page-2.md)
+
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
 * [Chemistry](math/chemistry/README.md)
