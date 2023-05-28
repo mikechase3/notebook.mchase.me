@@ -1,2 +1,0 @@
-# \[Book] Changes: Chord/Scale
-

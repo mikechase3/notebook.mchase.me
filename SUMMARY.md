@@ -494,6 +494,7 @@
 * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
 * [Reports](entertainment/reports/README.md)
   * [Super Crooks](entertainment/reports/super-crooks.md)
+  * [Spy x Family](entertainment/reports/spy-x-family.md)
 
 ## Finance
 
@@ -677,24 +678,17 @@
 
 ## 🎹 Music
 
-* [Aural](music/aural.md)
-* [Harmonies](music/harmonies/README.md)
-  * [Tritones](music/harmonies/tritones.md)
-  * [7th Chords](https://www.tiktok.com/@itsmillertimemusic/video/7076624066463026438?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
-  * [Lessons from B](https://www.tiktok.com/@itsmillertimemusic/video/7076996636165147909?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
 * [Favorites](music/favorites/README.md)
-  * [2023 Favorite Music](music/favorites/2023-favorite-music.md)
+  * [LSD](music/favorites/lsd.md)
+  * [Portrait of Tracy](music/favorites/inspiration.md)
 * [Genres](music/genres/README.md)
   * [List of Electronic Music Genres](https://en.wikipedia.org/wiki/List\_of\_electronic\_music\_genres)
-* [Inspiration](music/inspiration.md)
-* [Practice Logs](music/practice-logs/README.md)
-  * [\[Book\] Albersold's Jazz Handbook](music/practice-logs/book-albersolds-jazz-handbook.md)
-  * [\[Book\] DeGregg Jazz Harmonies & Voicing](music/practice-logs/book-degregg-jazz-harmonies-and-voicing.md)
-  * [\[Book\] Hannon Exercises: 12 Major Minor Scales/Arpeggios](music/practice-logs/book-hannon-exercises-12-major-minor-scales-arpeggios.md)
-  * [\[Book\] Rhythm Packet](music/practice-logs/book-rhythm-packet.md)
-  * [\[Book\] Real Books](music/practice-logs/book-real-books.md)
-  * [\[Book\] Changes: Chord/Scale](music/practice-logs/book-changes-chord-scale.md)
-  * [\[Book\] Scool of Velocity](music/practice-logs/book-scool-of-velocity.md)
+* [Jazz](music/jazz/README.md)
+  * [\_Jazz Handbook](https://www.jazzbooks.com/mm5/download/FQBK-handbook.pdf)
+  * [Misc TikToks](music/jazz/misc-tiktoks/README.md)
+    * [7th Chords](https://www.tiktok.com/@itsmillertimemusic/video/7076624066463026438?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
+    * [Lessons from B](https://www.tiktok.com/@itsmillertimemusic/video/7076996636165147909?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
+  * [Jazz Practice Journals](https://www.youtube.com/watch?v=igY5ub9Kbd8\&list=PLF1XQqLQ2m0pGeHQq8Tqc\_-\_PG-2fjtSS)
 * [Producing](music/producing/README.md)
   * [Equipment](music/producing/equipment/README.md)
     * [Digital-Audio Workstations](music/producing/equipment/digital-audio-workstations/README.md)
@@ -715,7 +709,6 @@
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Chord Progressions](music/theory/chord-progressions.md)
   * [Advanced Harmonies](music/theory/advanced-harmonies.md)
-  * [Page 1](music/theory/page-1-1.md)
   * [Page 1](music/theory/page-1-2.md)
   * [Page 1](music/theory/page-1-3.md)
 
@@ -728,10 +721,10 @@
 * [Don't do drugs](principles-and-values/dont-do-drugs.md)
 * [Goal Setting](principles-and-values/goal-setting.md)
   * [2020 Goals](backlog.md)
+  * [2023](principles-and-values/goal-setting/2023.md)
 * [Principles and Values](principles-and-values/values.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 * [Principles Ray](https://www.principles.com)
-* [Societal Impact](principles-and-values/societal-impact.md)
 
 ## Relationships
 

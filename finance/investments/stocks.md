@@ -36,7 +36,4 @@ This is my advice, tailored for individuals aged 20-30.
 
 Three long-term bets/goals.&#x20;
 
-| Action Ticker | Advantages                        | Criticism                                                         | My Take                                                                               |
-| ------------- | --------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Short TSLA    | The only autonomous manufacturer. | Too much on its plate. Not working on plans for $25K compact car. | Most environmentalist progressives can't afford it. Only appealing/affordable to 0.1% |
-| Buy AMZN      | AWS is strong                     | Retail isn't                                                      | They're undervalued. No options b/c they have lawsuits & retail is risky atm.         |
+<table><thead><tr><th width="146">Action Ticker</th><th width="153">Advantages</th><th width="169">Criticism</th><th width="260">My Take</th></tr></thead><tbody><tr><td>Short TSLA</td><td>The only autonomous manufacturer.</td><td>Too much on its plate. Not working on plans for $25K compact car.</td><td>Most environmentalist progressives can't afford it. Only appealing/affordable to 0.1%</td></tr><tr><td>Buy AMZN</td><td>AWS is strong</td><td>Retail isn't</td><td>They're undervalued. No options b/c they have lawsuits &#x26; retail is risky atm. </td></tr></tbody></table>
