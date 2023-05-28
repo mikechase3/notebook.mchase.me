@@ -708,7 +708,6 @@
   * [Chords](music/theory/chords.md)
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Chord Progressions](music/theory/chord-progressions.md)
-  * [Advanced Harmonies](music/theory/advanced-harmonies.md)
   * [Page 1](music/theory/page-1-2.md)
   * [Page 1](music/theory/page-1-3.md)
 
