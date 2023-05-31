@@ -65,7 +65,7 @@
   * [Musk Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
-  * [Gen Z Best Email Signatures](https://vm.tiktok.com/ZTd9PXJBG/)
+  * [Gen Z Email Signatures](business/satire/gen-z-email-signatures.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
 * [Speed of Trust](https://www.speedoftrust.com/)
 * [VC](https://hbr.org/1998/11/how-venture-capital-works)
@@ -729,7 +729,8 @@
 
 * [Dating](relationships/dating/README.md)
   * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
-* [Friendships](relationships/friendships.md)
+* [Friendships](relationships/friendships/README.md)
+  * [Pandemic Friends](https://www.reddit.com/gallery/slt0d7)
 
 ## Social Sciences
 
