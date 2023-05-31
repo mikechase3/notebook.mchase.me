@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mike Chase's Notebook](README.md)
+* [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
 
 ## Automotive
