@@ -729,7 +729,7 @@
 
 * [Dating](relationships/dating/README.md)
   * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
-* [Friendships](relationships/friendships/README.md)
+* [Friendships](relationships/friendships.md)
   * [Pandemic Friends](https://www.reddit.com/gallery/slt0d7)
 
 ## Social Sciences
