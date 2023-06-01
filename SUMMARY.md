@@ -778,6 +778,7 @@
 * [Tools and Technologies](writing/tools-and-technologies/README.md)
   * [Hemmingway](https://hemingwayapp.com/)
   * [Inferkit](https://app.inferkit.com/generate)
+  * [Wiby No JS Search](https://wiby.org/)
 * [Writing Samples](writing/writing-samples/README.md)
   * [2021](writing/writing-samples/looking-back-on-my-year-that-was-2021/README.md)
     * [Why We Fight: Wartime Propaganda and its Application Today](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-we-fight.md)
