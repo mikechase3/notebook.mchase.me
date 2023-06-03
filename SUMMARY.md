@@ -710,6 +710,8 @@
   * [Chord Progressions](music/theory/chord-progressions.md)
   * [Page 1](music/theory/page-1-2.md)
   * [Page 1](music/theory/page-1-3.md)
+* [Unsorted](music/unsorted/README.md)
+  * [Lofi Cityhop](https://www.cityhop.cafe/)
 
 ## 📒 Principles and Values
 
@@ -721,8 +723,9 @@
 * [Goal Setting](principles-and-values/goal-setting.md)
   * [2020 Goals](backlog.md)
   * [2023](principles-and-values/goal-setting/2023.md)
-* [Principles and Values](principles-and-values/values.md)
+* [Old & Unsorted Ideas](principles-and-values/values.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
+* [Philosophy Bro](https://www.philosophybro.com/)
 * [Principles Ray](https://www.principles.com)
 
 ## Relationships
@@ -771,6 +774,9 @@
   * [WWW & EBF](writing/organizational-models/www-and-ebf.md)
   * [Employee Input Worksheet](writing/organizational-models/employee-input-worksheet.md)
 * [Reflection Papers](writing/reflection-papers.md)
+* [Research Tools and Technologies](writing/research-tools-and-technologies/README.md)
+  * [Wiby No JS Search](https://wiby.org/)
+  * [MWR Library](https://daf.dodmwrlibraries.org/)
 * [Style Guides](writing/style-guides/README.md)
   * [MLA Poster](https://owl.purdue.edu/owl/research\_and\_citation/mla\_style/mla\_formatting\_and\_style\_guide/20211015MLA9Poster.jpg)
   * [Purdue Owl](https://owl.purdue.edu/owl/purdue\_owl.html)
@@ -778,7 +784,6 @@
 * [Tools and Technologies](writing/tools-and-technologies/README.md)
   * [Hemmingway](https://hemingwayapp.com/)
   * [Inferkit](https://app.inferkit.com/generate)
-  * [Wiby No JS Search](https://wiby.org/)
 * [Writing Samples](writing/writing-samples/README.md)
   * [2021](writing/writing-samples/looking-back-on-my-year-that-was-2021/README.md)
     * [Why We Fight: Wartime Propaganda and its Application Today](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-we-fight.md)
