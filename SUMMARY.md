@@ -192,6 +192,8 @@
     * [Visual Studio](computer-help/misc-software/visual-studio.md)
   * [Stupid](computer-help/windows/stupid/README.md)
     * [Internet Explorer](https://lagplorer.tms.sx/?27y)
+  * [XP Setup](computer-help/windows/xp-setup/README.md)
+    * [ISO and Installation](https://archive.org/details/windows-xp-all-sp-msdn-iso-files-en-de-ru-tr-x86-x64)
 
 ## 💾 Computer Science
 
