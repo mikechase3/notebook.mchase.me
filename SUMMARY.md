@@ -526,6 +526,7 @@
 ## 💊 Health and Fitness
 
 * [Darbee Fitness Guides](https://darebee.com/fitness.html)
+* [Haircuts](health-and-fitness/haircuts.md)
 * [Healthy Eating](health-and-fitness/healthy-eating/README.md)
   * [Quick Meal Options](health-and-fitness/healthy-eating/quick-meal-options.md)
   * [Meal Prep Sunday Wiki](https://www.reddit.com/r/MealPrepSunday/wiki/index)
