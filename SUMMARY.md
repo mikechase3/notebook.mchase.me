@@ -572,6 +572,10 @@
   * [List iOS Tablet Applications](infrastructure-and-it/ios/list-ios-tablet-applications.md)
 * [Mac Workstation Standards](infrastructure-and-it/workstation-standards.md)
 
+## ⚖ Law
+
+* [Intellectual Property](law/intellectual-property.md)
+
 ## 🌴 Leisure
 
 * [Page 2](leisure/page-2.md)
