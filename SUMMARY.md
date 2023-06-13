@@ -574,7 +574,8 @@
 
 ## ⚖ Law
 
-* [Intellectual Property](law/intellectual-property.md)
+* [Intellectual Property](law/intellectual-property/README.md)
+  * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
 
 ## 🌴 Leisure
 
