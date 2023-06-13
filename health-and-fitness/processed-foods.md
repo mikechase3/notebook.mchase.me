@@ -101,7 +101,7 @@ These enhance natural colors, add color to colorless foods, and help identify fl
 * **Refined grains** are processed to remove the bran/germ. It improves shelf-life and has a finer texture, but lacks fiber, iron, and B-vitamins.
 * **Recommendations**: Ezekiel (frozen) & Dave's Killer Bread are recommended.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Whole wheat flower should be on top.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Whole wheat flower should be on top.</p></figcaption></figure>
 
 ## Ad
 

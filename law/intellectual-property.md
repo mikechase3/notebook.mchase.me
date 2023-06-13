@@ -16,8 +16,12 @@ description: James McBride AFMC Law Office; Larry Huston
 
 ## Patent
 
-* **Utility patents**: most common. Using or making something like machinery or pharmasudicals.&#x20;
-* **Design Patents:** pharmaceuticals. There are more things than a tire tread. An example would be the Febreeze design patent. It has the monk look, the angled top, the curved handle. The design patents prevent knock-offs and look-alikes.&#x20;
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **Utility patents**: most common. Using or making something like machinery or pharmaceuticals.&#x20;
+* **Design Patents:** pharmaceuticals. There are more things than a tire tread. An example would be the Febreze design patent. It has the monk look, the angled top, the curved handle. The design patents prevent knock-offs and look-alikes.&#x20;
 * **Plant Patents:** Produces&#x20;
 * Protection lasts for 20 years from the date of filing.&#x20;
 
