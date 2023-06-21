@@ -78,6 +78,7 @@
   * [Benefits](career/air-force/benefits/README.md)
     * [WPAFB Outdoor Rec Rentals](https://www.wrightpattfss.com/document-manager/outdoor-recreation/424-2021-odr-price-list/file)
   * [CAC Self Service](https://idco.dmdc.osd.mil/idco/)
+  * [Defense Logistics Agency](https://business.dla.mil/landing/index.html)
   * [Defense Logistics Disposal](https://www.dla.mil/)
   * [DoD MWR Databases](https://daf.dodmwrlibraries.org/databases)
   * [Electronic Foreign Clearance Guide](https://apacs.milcloud.mil/fcg/fcg.cfm)
