@@ -2,7 +2,7 @@
 
 ## What is Deep Learning
 
-![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9).png>)
+![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9) (1).png>)
 
 ### Brief History
 
@@ -78,8 +78,6 @@
 * CPUs for interences.
 * Launch an AWS Learning Template.
 
-
-
 ## Amazon Linux
 
 * It's a linux image provided by AWS for use on AMazon Elastic Compute Cloud.
@@ -88,6 +86,3 @@
 ## C-Span Case Study
 
 They did amazing things with the ability to upload tons of faces!
-
-
-

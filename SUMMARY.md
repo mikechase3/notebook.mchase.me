@@ -488,6 +488,7 @@
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
 * [Polarized Learning](social-sciences/psychology/polarized-learning.md)
+* [Skill Acquisition](education/skill-acquisition.md)
 * [Teaching Code](education/teaching-code/README.md)
   * [Python Resources](education/teaching-code/resources.md)
   * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
