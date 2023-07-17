@@ -375,6 +375,8 @@
   * [Dropbox LAN Sync How it Works](https://dropbox.tech/infrastructure/inside-lan-sync)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
 * [Git](development/git/README.md)
+  * [Gandhi Git Fundamentals Oreilly](https://learning.oreilly.com/scenarios/your-first-git/9781098144425/)
+  * [Git Flash Cards](development/git/git-flash-cards.md)
   * [Git/Github Codecademy](https://www.codecademy.com/learn/learn-git)
 * [Languages](development/languages-and-architectures/README.md)
   * [Bash](development/languages-and-architectures/bash.md)

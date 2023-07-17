@@ -34,7 +34,7 @@ Try to reach a state of consonance (mental comfort) when we face a situation of 
 
 ![](<../../.gitbook/assets/image (50).png>)
 
-***
+
 
 **Works Cited**: [How We Use Psychology to Market Our Products](https://www.programiz.com/blog/use-psychology-to-market-products/)
 

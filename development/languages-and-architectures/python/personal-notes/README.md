@@ -567,7 +567,7 @@ Use `def __init()__:` within the class to make a constructor.
 
 * You can inherit the methods and variables from the superclass by calling `super()`. Make sure you have the **() at the end!!!!!**
 
-***
+
 
 ## Dunder Methods
 

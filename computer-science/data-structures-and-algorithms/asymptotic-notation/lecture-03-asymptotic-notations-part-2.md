@@ -24,7 +24,7 @@ Little o is like Big O notation, but we care about the constant of the largest t
 
     **Infimum** is the tightest lower-bound.
 
-****
+
 
 ## **Infimum, The Tightest Lower Bound**
 
@@ -39,9 +39,7 @@ Little o is like Big O notation, but we care about the constant of the largest t
 
     **Sufficient Condition**
 * Lemma 1: If the limit exists, then we can draw a conclusion about the upper bound _O(function)_, the lower bound _omega(function)_
-* Lemma 2: Uses _sup_ which I don’t know what that means.&#x20;
-
-
+* Lemma 2: Uses _sup_ which I don’t know what that means.
 
 ## Bonus: who are my classmates?
 
@@ -61,4 +59,3 @@ Little o is like Big O notation, but we care about the constant of the largest t
 | Title         | Content Used                   | Author           |
 | ------------- | ------------------------------ | ---------------- |
 | Class Lecture | What we're learning; structure | Dr. Zhongmei Yao |
-

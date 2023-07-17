@@ -155,7 +155,7 @@ Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better
 
 _\*\*\*\*_
 
-***
+
 
 ### Example: Fibonacci Numbers
 
