@@ -335,7 +335,7 @@
   * [Embedding PlantUML](development/documentation-tips-tools/embedding-plantuml.md)
   * [Table Convert](https://tableconvert.com/)
   * [Obsidian MD Knowledge Base](https://obsidian.md/)
-* [Design](development/design/README.md)
+* [Shopping \[DELETE\]](development/design/README.md)
   * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
   * [Color Theory](development/design/colors-and-marketing/README.md)
     * [Coolors](https://coolors.co/palettes/trending)
@@ -487,6 +487,7 @@
 * [Cone of Learning](education/cone-of-learning.md)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
+* [Map of Reddit Post API](https://sub.rehab/?searchTerm=\&visibleServices=lemmy\&visibleServices=kbin\&visibleServices=discord\&visibleServices=misc\&visibleServices=matrix\&visibleServices=squabbles\&visibleServices=raddle\&officialOnly=false\&newOnly=false\&favoriteOnly=false\&sortBy=name)
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
@@ -517,6 +518,7 @@
 * [Dads Recipes](food/dads-recipes/README.md)
   * [Baked Beans](food/dads-recipes/baked-beans.md)
 * [Favorite Restaurants](food/favorite-restaurants.md)
+* [F\* Nestle](https://www.fucknestle.art/)
 * [NYT Cooking](https://cooking.nytimes.com/)
 
 ## 🕹 Gaming
@@ -575,6 +577,8 @@
   * [List: iOS Phone Applications](infrastructure-and-it/ios/list-ios-phone-applications.md)
   * [List iOS Tablet Applications](infrastructure-and-it/ios/list-ios-tablet-applications.md)
 * [Mac Workstation Standards](infrastructure-and-it/workstation-standards.md)
+* [Open Source Web Servers](infrastructure-and-it/open-source-web-servers/README.md)
+  * [Lemmy Reddit](https://join-lemmy.org/docs/administration/administration.html)
 
 ## ⚖ Law
 
@@ -583,7 +587,7 @@
 
 ## 🌴 Leisure
 
-* [Page 2](leisure/page-2.md)
+* [Shopping](leisure/shopping.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
@@ -780,7 +784,8 @@
   * [Avoiding Wordiness & Redundancy](https://www.tutor.com/cmspublicfiles/WWW/Avoiding\_Wordiness\_and\_Redundancy.pdf)
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
-* [Ideation](writing/ideation.md)
+* [Ideation](writing/ideation/README.md)
+  * [Neal](https://neal.fun/)
 * [Introductions](writing/the-introduction.md)
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
 * [Organizational Models](writing/organizational-models/README.md)
