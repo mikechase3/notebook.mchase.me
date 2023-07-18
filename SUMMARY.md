@@ -83,7 +83,7 @@
   * [DoD MWR Databases](https://daf.dodmwrlibraries.org/databases)
   * [Electronic Foreign Clearance Guide](https://apacs.milcloud.mil/fcg/fcg.cfm)
   * [Integrity First, Service Before Self, Excellence](https://www.dropbox.com/s/fghqzmrh8by25nt/Core%20Values.mp4?dl=0)
-  * [SECURE](https://secure.eci.metrahub.us/)
+  * [SECURE (Foreign Travel)](https://secure.eci.metrahub.us/)
   * [TSA Precheck Enrollment](https://milconnect.dmdc.osd.mil/milconnect/public/faq/DEERS-TSA\_Precheck)
   * [Webmail](https://webmail.apps.mil)
   * [wow](https://tasks.osi.apps.mil/USAF.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=200a4a0a-8d87-4476-8478-686fec3b78cb\&planId=LiMjW1pZ6EKmcrV-LYU0IowADQ5f)
