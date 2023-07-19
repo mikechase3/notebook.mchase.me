@@ -58,17 +58,20 @@
   * [Disney's Fastpass - A Complicated History](business/documentaries/disneys-fastpass-a-complicated-history.md)
 * [Entrepreneurship](https://www.dropbox.com/s/n5r89txdonc8wbt/Entrepreneurship.pdf?dl=0)
 * [Event Planning](business/event-planning.md)
-* [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
-* [Risk Management](business/risk-management.md)
-* [Role Models](business/role-models/README.md)
+* [Excel](business/excel/README.md)
+  * [Formula Bot](https://formulabot.com/)
+* [Philosophies of Businesses](business/philosophies-of-businesses/README.md)
   * [Hasting NFLX Culture](https://www.youtube.com/watch?v=2fuOs6nJSjY)
   * [Musk Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
+  * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
+  * [Speed of Trust](https://www.speedoftrust.com/)
+* [Risk Management](business/risk-management.md)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
   * [Gen Z Email Signatures](business/satire/gen-z-email-signatures.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
-* [Speed of Trust](https://www.speedoftrust.com/)
 * [VC](https://hbr.org/1998/11/how-venture-capital-works)
+* [Page 2](business/page-2.md)
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
@@ -159,6 +162,7 @@
   * [Documentary Filmmaking](communications/media-production/documentary-filmmaking/README.md)
     * [Inspirational Techniques](communications/media-production/documentary-filmmaking/inspirational-techniques.md)
 * [Public Speaking](communications/public-speaking.md)
+* [Sign Learner](https://signlearner.com/)
 
 ## ⌨ Computer Help
 
@@ -324,6 +328,7 @@
 
 ## 🐍 Development
 
+* [AI Tools Directory](https://www.futurepedia.io/)
 * [Development Platforms](development/development-platforms/README.md)
   * [Apple's Ecosystem](development/apples-ecosystem/README.md)
     * [iOS and Swift](development/apples-ecosystem/ios-and-swift/README.md)
@@ -501,10 +506,12 @@
 
 ## 🎥 Entertainment
 
+* [Before The Internet](https://internetkhole.com/)
 * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
 * [Reports](entertainment/reports/README.md)
   * [Super Crooks](entertainment/reports/super-crooks.md)
   * [Spy x Family](entertainment/reports/spy-x-family.md)
+* [Star Wars A New Hope](https://swanh.net/)
 
 ## Finance
 
@@ -587,7 +594,7 @@
 
 ## 🌴 Leisure
 
-* [Shopping](leisure/shopping.md)
+* [Shopping](leisure/page-2.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
@@ -784,7 +791,7 @@
   * [Avoiding Wordiness & Redundancy](https://www.tutor.com/cmspublicfiles/WWW/Avoiding\_Wordiness\_and\_Redundancy.pdf)
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
-* [Ideation](writing/ideation/README.md)
+* [Ideation](writing/ideation.md)
   * [Neal](https://neal.fun/)
 * [Introductions](writing/the-introduction.md)
 * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
