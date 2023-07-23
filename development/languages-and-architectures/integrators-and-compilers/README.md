@@ -20,7 +20,7 @@ Dr. Chen's Slides:
 
 {% tabs %}
 {% tab title="Schedule" %}
-![](<../../.gitbook/assets/image (402).png>)
+![](<../../../.gitbook/assets/image (402).png>)
 {% endtab %}
 
 {% tab title="Topics" %}
@@ -83,7 +83,7 @@ Dr. Chen's Slides:
 * Python
 * Matlab
 
-![](<../../.gitbook/assets/image (195) (1) (1).png>)
+![](<../../../.gitbook/assets/image (195) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Hybrid" %}
@@ -108,7 +108,7 @@ Dr. Chen's Slides:
 * Java
 * .NET languages
 
-![](<../../.gitbook/assets/image (413).png>)
+![](<../../../.gitbook/assets/image (413).png>)
 {% endtab %}
 
 {% tab title="Compiled" %}
@@ -176,7 +176,7 @@ Dr. Chen's Slides:
 
 **Examples**
 
-![Recursively computing a factorial in Scheme](<../../.gitbook/assets/image (217) (1) (1) (1) (2).png>)
+![Recursively computing a factorial in Scheme](<../../../.gitbook/assets/image (217) (1) (1) (1) (2).png>)
 
 * All expressions using scheme use prefix notation: `if( (= n 0)` checks whether n is equal to zero or not.
   * If it's true, return 1. _We see it's really simple. It's just_ `1` _which eliminates so much syntax._
@@ -200,7 +200,7 @@ Dr. Chen's Slides:
 
 **Examples**
 
-![](<../../.gitbook/assets/image (414).png>)
+![](<../../../.gitbook/assets/image (414).png>)
 
 * The first line is the base case.
 * The second line and indented lines describe the recursive call.
@@ -231,7 +231,7 @@ Dr. Chen's Slides:
 
 ## Syntax and Semantics
 
-![Chomsky Hierarchy](<../../.gitbook/assets/image (423).png>)
+![Chomsky Hierarchy](<../../../.gitbook/assets/image (423).png>)
 
 ### Applications of Regular Languages
 
@@ -248,7 +248,7 @@ Dr. Chen's Slides:
 
 ### Translating a Finite Automaton to an Algorithm
 
-![](<../../.gitbook/assets/image (424).png>)
+![](<../../../.gitbook/assets/image (424).png>)
 
 * Input: a word or string of characters.
 * Output: true if the word belongs ot the regular language described by the automation, otherwise false.
@@ -262,7 +262,7 @@ Dr. Chen's Slides:
 3. Translating the finite automaton to an algorithm
 4. Implementing the algorithm
 
-![](<../../.gitbook/assets/image (425).png>)
+![](<../../../.gitbook/assets/image (425).png>)
 
 ### What is Grammar?
 
@@ -277,7 +277,7 @@ Dr. Chen's Slides:
 
 If and only if a grammar is regular:
 
-![](<../../.gitbook/assets/image (426).png>)
+![](<../../../.gitbook/assets/image (426).png>)
 
 ##
 
