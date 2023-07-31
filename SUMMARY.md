@@ -597,6 +597,7 @@
 
 ## 🌴 Leisure
 
+* [Gem City Catfe](leisure/gem-city-catfe.md)
 * [Shopping](leisure/page-2.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
