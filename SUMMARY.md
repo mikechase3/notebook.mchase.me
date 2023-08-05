@@ -205,6 +205,7 @@
 
 ## 💾 Computer Science
 
+* [AI](computer-science/ai.md)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
   * [Cybersecurity Fundamentals](computer-science/cybersecurity/cybersecurity/README.md)
     * [Lecture 05: The Maya Part 1](computer-science/cybersecurity/cybersecurity/lecture-05-the-maya-part-1.md)
@@ -272,6 +273,7 @@
     * [NP Completeness (L21)](computer-science/data-structures-and-algorithms/np-completeness/np-completeness-l21.md)
     * [NP Reductions and Applications (L22)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
   * [Base CS Podcast](https://www.codenewbie.org/basecs)
+  * [Large Language Models Jargon Free Explanation](computer-science/data-structures-and-algorithms/large-language-models-jargon-free-explanation.md)
 * [Electrical/Hardware Topics](computer-science/electrical-hardware-topics/README.md)
   * [FPGAs](computer-science/electrical-hardware-topics/fpgas.md)
   * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable\_gate\_array)
