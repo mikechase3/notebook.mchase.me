@@ -175,6 +175,7 @@
 * [Hardware](computer-help/hardware/README.md)
   * [ThinkWiki](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
   * [Raid Controllers for Beginners](https://www.youtube.com/watch?v=G1E7ur0PS5k)
+  * [USB Hub Limitations](https://www.youtube.com/watch?v=hiwaxlttWow)
 * [Legacy](computer-help/legacy/README.md)
   * [PCjs Machines](https://www.pcjs.org/software/pcx86/sys/windows/win95/4.00.950/)
   * [Flash](https://www.howtogeek.com/707830/how-to-use-adobe-flash-in-2021-and-beyond/)
