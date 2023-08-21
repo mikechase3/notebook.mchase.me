@@ -597,6 +597,7 @@
 
 * [Intellectual Property](law/intellectual-property/README.md)
   * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
+* [Emerging Legal Issues in CompSci 2023](law/emerging-legal-issues-in-compsci-2023.md)
 
 ## 🌴 Leisure
 
