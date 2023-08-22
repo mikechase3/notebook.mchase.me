@@ -98,3 +98,22 @@ Or was it assault and he went to jail? Yeah, now that I googled it & found it on
 
 <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
+## \[Reading] Legal Foundations
+
+This is some dry reading, but it explains how the law works by providing foundations of the lgal system.
+
+### 1.1 Purpose and Principles of Law
+
+* **Purpose**: establish standards, maintain order, resolve disputes, protect rights/liberties.
+  * Law means justice, morality, reason, order, righteous from the perspective of society.
+  * Law means statues, acts, rules, regulations, orders, and ordinances from the point of view of the legislature.
+  * Law means rules of court, decrees, judgement, order of courts, and injunction from judges viewpoint.
+
+#### 1.1.1 Salmond & Classifications of Law
+
+Salmond recognizes 8 types of laws: imperative, physical/scientific, natural/moral laws, conventional laws, customary laws, practical/technical laws, international law (btw nations), and civil law (enforced by state).
+
+#### 1.1.2: Rule of Law
+
+* Says everyone is subject to the law
+* Meant to take it "seriously"
