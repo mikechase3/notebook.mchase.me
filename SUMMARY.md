@@ -598,7 +598,8 @@
 * [Intellectual Property](law/intellectual-property/README.md)
   * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
 * [Emerging Legal Issues in CompSci 2023](law/emerging-legal-issues-in-compsci-2023/README.md)
-  * [Broad Overview](law/emerging-legal-issues-in-compsci-2023/broad-overview.md)
+  * [01 Broad Overview](law/emerging-legal-issues-in-compsci-2023/01-broad-overview.md)
+  * [Purpose of Law](law/emerging-legal-issues-in-compsci-2023/purpose-of-law.md)
 
 ## 🌴 Leisure
 
@@ -807,8 +808,8 @@
 * [Organizational Models](writing/organizational-models/README.md)
   * [Paragraph Org Models](https://www.ursinus.edu/live/files/1157-five-organizational-modelspdf)
   * [Accomplishment-Impact Bullets](writing/accomplishment-impact-bullets.md)
-  * [WWW & EBF](writing/organizational-models/www-and-ebf.md)
   * [Employee Input Worksheet](writing/organizational-models/employee-input-worksheet.md)
+  * [WWW & EBF](writing/organizational-models/www-and-ebf.md)
 * [Reflection Papers](writing/reflection-papers.md)
 * [Research Tools and Technologies](writing/research-tools-and-technologies/README.md)
   * [12ft Ladder](https://12ft.io/)
