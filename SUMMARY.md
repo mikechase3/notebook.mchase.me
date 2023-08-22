@@ -330,6 +330,8 @@
   * [Something New](computer-science/operating-systems/something-new.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
+  * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
+    * [01 OS](computer-science/operating-systems/cps-536-os/01-os.md)
 
 ## 🐍 Development
 
