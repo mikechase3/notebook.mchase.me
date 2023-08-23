@@ -98,9 +98,9 @@ Or was it assault and he went to jail? Yeah, now that I googled it & found it on
 
 <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-## \[Reading] Legal Foundations
+## Legal Foundations
 
-This is some dry reading, but it explains how the law works by providing foundations of the lgal system.
+We had a reading & he's going over it in class. This is some dry reading, but it explains how the law works by providing foundations of the lgal system. I didn't read it.
 
 ### 1.1 Purpose and Principles of Law
 
@@ -108,12 +108,38 @@ This is some dry reading, but it explains how the law works by providing foundat
   * Law means justice, morality, reason, order, righteous from the perspective of society.
   * Law means statues, acts, rules, regulations, orders, and ordinances from the point of view of the legislature.
   * Law means rules of court, decrees, judgement, order of courts, and injunction from judges viewpoint.
+* **Injunctions** are when judges tell you what you can & cannot do.
 
-#### 1.1.1 Salmond & Classifications of Law
+### 1.1.1 Salmond & Classifications of Law
 
 Salmond recognizes 8 types of laws: imperative, physical/scientific, natural/moral laws, conventional laws, customary laws, practical/technical laws, international law (btw nations), and civil law (enforced by state).
 
-#### 1.1.2: Rule of Law
+{% hint style="info" %}
+Question: What are the 7 types of law?
+{% endhint %}
 
-* Says everyone is subject to the law
-* Meant to take it "seriously"
+* **Imperative Law**: asks us why we obey the law. We do it out of fear of the person in power. We follow & respect that due to the power of the position. This is the oldest form of law.
+* **Physical/Scientific Law:** Laws of science. Don't question it's just science.
+* **Natural or Moral Law**: Natural is based on principles of right & wrong, while moral laws are based on principles of morality. It can be derived from principles of right & wrong. It was originally guided by religion.
+* **Customary Law**: the way you behave develops customs. Customs are written down. Then it becomes law.
+* **Practical or Technical Law**: how does the law form out of technology?
+  * Before the printing press, there was no copyright law. Once the press was there, publishers were making money off of others' labor.
+* **International Laws**: don't try to mess with other world nations' legal systems.
+* **Civil Law**: law enforced by the state.
+
+#### Other Considerations
+
+* Norms: unwritten
+* Ethics: not criminal law, not civil law, but a regulated behavior.
+* **Personal Morals**: most ethics say ethics create morals.&#x20;
+* **Jurisprudence**: legal theory consisting of the theoretical study or konwledge of law.
+
+
+
+## Code of Ethics for ACM
+
+* It's a huge list of ethical principles. The GDPR tries to guide privacy, but also ACM.
+* We can write about this on our paper.
+
+
+
