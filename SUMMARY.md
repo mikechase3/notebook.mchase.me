@@ -326,7 +326,7 @@
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
-  * [Processes & Process Management](computer-science/operating-systems/untitled.md)
+  * [Processes & Process Management](computer-science/operating-systems/ProcessManagement.md)
   * [Something New](computer-science/operating-systems/something-new.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
