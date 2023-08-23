@@ -276,6 +276,8 @@
     * [NP Reductions and Applications (L22)](computer-science/data-structures-and-algorithms/np-completeness/np-reductions-and-applications-l22.md)
   * [Base CS Podcast](https://www.codenewbie.org/basecs)
   * [Large Language Models Jargon Free Explanation](computer-science/data-structures-and-algorithms/large-language-models-jargon-free-explanation.md)
+* [Discrete Logic](computer-science/discrete-logic/README.md)
+  * [TAUT](https://www.taut-logic.com/)
 * [Electrical/Hardware Topics](computer-science/electrical-hardware-topics/README.md)
   * [FPGAs](computer-science/electrical-hardware-topics/fpgas.md)
   * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable\_gate\_array)
