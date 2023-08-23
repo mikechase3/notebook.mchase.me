@@ -1,4 +1,5 @@
 # Processes & Process Management
+* See also lecture 1.2 in my graduate course. 
 
 ## Processes in Memory
 
