@@ -39,7 +39,50 @@ All the above information about the status of information is contained in a PCB 
 9. CPU Scheduling Info: 
 
 [//]: # (![img.png]&#40;../../.gitbook/assets/ProcessControlBlock.png&#41;)
-<!-- UNCOMMENT THESE TO DISPLAY! These are old undergrad notes.
+
+### How do we Use Process Control Blocks? 
+* We discussed this in a high-level. 
+* When context switching, the CPU saves the state to a PCB block and restores other.
+* When more memory is needed, we perform a **Mallotcall**
+
+### What is Context Switching?
+Context switching when you swap between processes. 
+It is **expensive** because it takes lots of cycles to load & store all the values of the PCB to/from mem
+
+## Process Lifecycle
+### What is the lifecycle of a process. (List the "states" it goes through")
+1. **New:** Initially, a process enters the "new" state where the OS performs admission control & determine whether
+to block or allow a process to run based on policy & available resources.
+2. **Ready**: process is admitted & ready to start executing. It's on-hold for the scheduler to move it to a running state.
+3. **Running**: after the **scheduler dispatch**, it'll run and be in (`interrupt` || `I/O or event wait` | ) 
+4. **Terminated**: it'll exit peacefully and return a result.
+
+This is a redundant visual of what I said above but more complicated:
+Event waits are usually caused by hard drives and i/o devices.
+![](<../../.gitbook/assets/image (153).png>)
+
+| Process    | Comment                                                                                                                                                        |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| new        | The process is being created.                                                                                                                                  |
+| running    | Instructions are being executed. The CPU scheduler takes a process from the head of the ready queue to execute. Sometimes, there may be multiple ready queues. |
+| Waiting    | The process is waiting for another event to occur.                                                                                                             |
+| Ready      | The process is waiting to be assigned to a processor                                                                                                           |
+| Terminated | The process has finished execution.                                                                                                                            |
+
+### What are the two commonly used mechanisms for creating a process?
+* **[FORK](https://www.youtube.com/watch?v=9seb8hddeK4&t=0s)** copies the parent PCB onto a new PCB and child continues execution at the fork.
+* **[EXEC](https://www.youtube.com/watch?v=mj2VjcOXXs4&t=0s)**: will replace the child imap. It loads new a new program starting from the first instruction.
+* Here's an optional [video](https://www.youtube.com/watch?v=l64ySYHmMmY) showing off how these work.
+
+
+
+#### Misc
+* Once the inital boot process is done and the OS is loaded, it'll create some initial process. 
+  * "It can be represented as a tree". That seemed important.
+  * Then more procesess spawn as a user logs in & he starts programs.
+
+
+
 ## Processes in Memory
 
 ![](<../../.gitbook/assets/image (152).png>)
@@ -58,17 +101,6 @@ All the above information about the status of information is contained in a PCB 
     * In operating systems, it specifies a region in the hardware.
   * Data Section: contains global regions?
 
-## Process States
-
-![](<../../.gitbook/assets/image (153).png>)
-
-| Process    | Comment                                                                                                                                                        |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| new        | The process is being created.                                                                                                                                  |
-| running    | Instructions are being executed. The CPU scheduler takes a process from the head of the ready queue to execute. Sometimes, there may be multiple ready queues. |
-| Waiting    | The process is waiting for another event to occur.                                                                                                             |
-| Ready      | The process is waiting to be assigned to a processor                                                                                                           |
-| Terminated | The process has finished execution.                                                                                                                            |
 
 ## Process Control Block PCB
 
@@ -79,4 +111,3 @@ All the above information about the status of information is contained in a PCB 
 * Process Scheduling
 * Job Queues
 
--->
