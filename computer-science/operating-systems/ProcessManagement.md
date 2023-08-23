@@ -74,7 +74,11 @@ Event waits are usually caused by hard drives and i/o devices.
 * **[EXEC](https://www.youtube.com/watch?v=mj2VjcOXXs4&t=0s)**: will replace the child imap. It loads new a new program starting from the first instruction.
 * Here's an optional [video](https://www.youtube.com/watch?v=l64ySYHmMmY) showing off how these work.
 
+#### FORK
+TODO: go back through the video.
 
+#### EXEC
+TOdo: 34:00
 
 #### Misc
 * Once the inital boot process is done and the OS is loaded, it'll create some initial process. 
