@@ -133,13 +133,37 @@ Question: What are the 7 types of law?
 * Ethics: not criminal law, not civil law, but a regulated behavior.
 * **Personal Morals**: most ethics say ethics create morals.&#x20;
 * **Jurisprudence**: legal theory consisting of the theoretical study or konwledge of law.
+* **Soverginty**: you can't sue the government unless they say you can.
+* **Analytical Jurisprudence**: REVIEW
 
-
-
-## Code of Ethics for ACM
+#### Code of Ethics for ACM
 
 * It's a huge list of ethical principles. The GDPR tries to guide privacy, but also ACM.
 * We can write about this on our paper.
 
+### Legal Positivism
 
 
+
+* **Legal Positivism**: the law springs from individuals with knowledge like philosophers, attorneys, judges. Because they've been schooled in the law, we should follow the social construction that they created. It's a top-down approach out of respect for philosophers & laws of nature as created.
+* Tells us the law has little with morality & we should just apply the law as it is & move on.
+* Just trust the legal system & let it work. It's like a science & we don't question science.
+
+### Legal Realism
+
+* Legal realism says we should look & question society to examine the outcome of the law.
+* Asks if outcome does it serve good public policy & social interest.
+
+### Normative Jurisprudence
+
+That's concerned with evaluative theories of law.&#x20;
+
+
+
+### Sources of Law
+
+1. Legistlation & statutory law.
+2. Legal precedent, case law, and history.
+3. Sources of influence like elected officials.
+4. Common Law **Stare Decisis** (Stare Decisis: term for whatever the previous courts did, you do that).
+5. Civil Law: codified core principles
