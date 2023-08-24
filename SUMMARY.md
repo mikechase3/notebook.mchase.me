@@ -47,7 +47,7 @@
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
 * [Articles](business/articles/README.md)
-  * [2023](business/articles/2023/README.md)
+  * [2023](writing/writing-samples/2023.md)
     * [Inside Elon Musk's "Extremely Hardcore" Twitter](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji)
 * [Books](business/books/README.md)
   * [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
@@ -630,7 +630,7 @@
       * [14.2: Limits and Continuity](math/untitled-1/calculus-3/ch-14/14.2-limits-and-continuity.md)
       * [14.3: Don't Go Furthur Yet.](math/untitled-1/calculus-3/ch-14/14.3-dont-go-furthur-yet..md)
       * [14.4: The Chain Rule](math/untitled-1/calculus-3/ch-14/untitled-1.md)
-      * [Untitled](math/untitled-1/calculus-3/ch-14/untitled.md)
+      * [Untitled](<computer-science/data-structures-and-algorithms/graph-algorithms/untitled (1).md>)
     * [Untitled](math/untitled-1/calculus-3/untitled-3.md)
     * [Ch 12: Vectors and Space Geometry](math/untitled-1/calculus-3/untitled/README.md)
       * [12.1:](math/untitled-1/calculus-3/untitled/12.1.md)
@@ -730,6 +730,7 @@
     * [7th Chords](https://www.tiktok.com/@itsmillertimemusic/video/7076624066463026438?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
     * [Lessons from B](https://www.tiktok.com/@itsmillertimemusic/video/7076996636165147909?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
   * [Jazz Practice Journals](https://www.youtube.com/watch?v=igY5ub9Kbd8\&list=PLF1XQqLQ2m0pGeHQq8Tqc\_-\_PG-2fjtSS)
+  * [Dan's Jazz Midis](http://dansmusic.freeservers.com/custom.html)
 * [Producing](music/producing/README.md)
   * [Equipment](music/producing/equipment/README.md)
     * [Digital-Audio Workstations](music/producing/equipment/digital-audio-workstations/README.md)
@@ -753,6 +754,7 @@
   * [Page 1](music/theory/page-1-3.md)
 * [Unsorted](music/unsorted/README.md)
   * [Lofi Cityhop](https://www.cityhop.cafe/)
+  * [VanBasco MIDI Search](http://www.vanbasco.com/index.html)
 
 ## 📒 Principles and Values
 
@@ -834,5 +836,5 @@
     * [Why I Became a CS Major](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-i-became-a-cs-major.md)
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
-  * [2023](writing/writing-samples/2023.md)
+  * [2023](business/articles/2023/README.md)
     * [Statement of Purpose](writing/writing-samples/2023/statement-of-purpose.md)

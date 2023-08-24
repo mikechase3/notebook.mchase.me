@@ -96,7 +96,7 @@ Or was it assault and he went to jail? Yeah, now that I googled it & found it on
 
 <table><thead><tr><th width="234">Case</th><th>I de S et ux. v. W de S, At the Assizes (1348)</th></tr></thead><tbody><tr><td>Court &#x26; Date</td><td>At the Assizes, 1348</td></tr><tr><td>Procedural History</td><td>For assault a man shall recover damages</td></tr><tr><td>Precedent</td><td>Recover damage for assault.</td></tr><tr><td>Question Presented</td><td>If you get assaulted, should the assaulter be liable for damages they cause? Did he assault her?</td></tr><tr><td>Trigger Facts</td><td><ul><li>Plaintiffs Sam &#x26; wife Mary complained that Whacko assaulted and beat Mary.</li><li>False alarm. He was just buying wine.</li></ul></td></tr><tr><td>Plaintiff Arguments</td><td>You break it you buy it. You swung &#x26; assaulted her.</td></tr><tr><td>Defendant's Arguments</td><td>No contact was made. </td></tr><tr><td><strong>Rule of Law</strong></td><td>A person can be liable for assault even if contact doesn't occur. Intention is what matters.</td></tr><tr><td>Takeaways</td><td>Damaging personal property is sufficient to count as assault when paired with testimony.</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Legal Foundations
 

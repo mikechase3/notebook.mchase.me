@@ -5,7 +5,7 @@
 * [MIT's 6.042J](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) (OpenCourseware) and their corresponding Youtube [Playlist](https://www.youtube.com/playlist?list=PLB7540DEDD482705B).&#x20;
 * Be sure to check out the recitation notes; they're very helpful in reviewing/practicing/learning.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 ## CPS 341 Discrete Course at UD
 
