@@ -26,7 +26,7 @@ How would we design an algorithm that makes change for $1.50 in the least amount
 
 So, we could start at $1.50 and ask: _what's the largest coin we can put in there?_, which would be $1. Then we have $0.50 left and fit that coin in there. That's the optimal because it uses only two coins.
 
-However, that greedy approach might not always be the best approach.&#x20;
+However, that greedy approach might not always be the best approach.
 
 ## Finding the Optimal Solutions
 
@@ -131,11 +131,11 @@ Why did the knapsack problem fail? It seems like it will work.
 
 Let `S` be a finite set, and F a non-empty collection of subsets S.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (20).png>)
 
 #### What does it mean to be in a subset? What's the size of a subset?
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (21).png>)
 
 ### Defining a Matroid
 
@@ -147,17 +147,17 @@ TODO: _**Replace slides with my own content!**_
 What does all of this notation mean?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 ### Example: Graphic Matroids
 
 #### Proving if (S, F) is a matroid
 
 {% hint style="warning" %}
-What is (S, F).  What does it mean that "F is a subset of S?" Is S an element? A collection of elements?
+What is (S, F). What does it mean that "F is a subset of S?" Is S an element? A collection of elements?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 ### Weighted Matroids
 
@@ -167,7 +167,7 @@ What is (S, F).  What does it mean that "F is a subset of S?" Is S an element? A
 What's a weight function? What does the definition _A_ mean? **I'm getting lost in the notation.**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 {% hint style="info" %}
 Click this [link](https://www.dropbox.com/s/iwf13fzz4tbbfna/Lecture%2009%20Greedy%20Approach.pdf?dl=0) to see Dr. Yao's slides on correctness where I get lost in notation again, spanning trees, Kruskal's Minimum Spanning Tree, and the running time of these greedy algorithms.
@@ -179,7 +179,7 @@ Click this [link](https://www.dropbox.com/s/iwf13fzz4tbbfna/Lecture%2009%20Greed
 * A **minimum spanning tree** is just a spanning tree where the sum of the weights is minimal.
 * Kruskal's is sort-of like Dikstra's.. But you start off saying every thing is in it's own bubble.
   * Then you take the edge that's the smallest and merge the bubbles.
-  * You repeat this until there is only one bubble left.&#x20;
+  * You repeat this until there is only one bubble left.
 
 ## Works Cited
 
