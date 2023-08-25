@@ -10,10 +10,37 @@ Good Series
 
 {% embed url="https://github.com/PacktPublishing/Tkinter-GUI-Application-Development-Blueprints-Second-Edition" %}
 
-### Comprehensive Guide
+### Comprehensive Reference
 
 {% embed url="https://users.tricity.wsu.edu/~bobl/cpts481/tkinter_nmt.pdf" %}
 
-### Dropdown Menus
+## Notes
 
-{% embed url="https://www.youtube.com/watch?v=PSm-tq5M-Dc&t=329s" %}
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Tkinter Learning Notes-2.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Tkinter Learning Notes-3.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Tkinter Learning Notes-1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+<figure><img src="../../../../.gitbook/assets/Tkinter Learning Notes-1.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/Tkinter Learning Notes-2.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/Tkinter Learning Notes-3.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
