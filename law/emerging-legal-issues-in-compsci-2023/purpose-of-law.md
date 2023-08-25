@@ -10,6 +10,10 @@ description: Notes by Mike Chase. Source material from Daniel Craine's course.
 Deck by Daniel Craine at Univ of Dayton
 {% endembed %}
 
+## Illustration: Stealing Laptops & Purpose of Law
+
+![](<../../.gitbook/assets/Laptop Theft (1).png>)![](<../../.gitbook/assets/Laptop Theft 2 (1).png>)
+
 ## Categories of Law
 
 **What's preventing my teacher from stealing my laptop?** Professor Craine broke it down into four things:
