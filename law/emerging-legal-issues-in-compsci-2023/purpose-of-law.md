@@ -98,6 +98,10 @@ Or was it assault and he went to jail? Yeah, now that I googled it & found it on
 
 <figure><img src="../../.gitbook/assets/image (86) (1).png" alt=""><figcaption></figcaption></figure>
 
+###
+
+
+
 ## Legal Foundations
 
 We had a reading & he's going over it in class. This is some dry reading, but it explains how the law works by providing foundations of the lgal system. I didn't read it.
@@ -167,3 +171,6 @@ That's concerned with evaluative theories of law.&#x20;
 3. Sources of influence like elected officials.
 4. Common Law **Stare Decisis** (Stare Decisis: term for whatever the previous courts did, you do that).
 5. Civil Law: codified core principles
+
+
+
