@@ -70,7 +70,6 @@
   * [Gen Z Email Signatures](business/satire/gen-z-email-signatures.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
 * [VC](https://hbr.org/1998/11/how-venture-capital-works)
-* [Page 2](business/page-2.md)
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
@@ -489,6 +488,7 @@
 * [Problem Solving Resources](development/problem-solving-resources/README.md)
   * [Digital Ocean Community](https://www.digitalocean.com/community/tutorials)
 * [Regular Expressions](development/regex-expressions.md)
+* [Replit](https://replit.com/@mikechase3)
 * [Web Apps](development/web-apps/README.md)
   * [Create GitLab Pages Site from Scratch](https://docs.gitlab.com/ee/user/project/pages/getting\_started/pages\_from\_scratch.html)
   * [SSL & HTTPS Getting Started](https://support.google.com/domains/answer/7630973?authuser=2\&authuser=2\&hl=en\&visit\_id=637978991464117998-3893459780\&rd=1#zippy=%2Cget-an-ssltls-certificate-from-a-certificate-authority-ca)
