@@ -48,7 +48,6 @@
   * [2023](writing/writing-samples/2023.md)
     * [Inside Elon Musk's "Extremely Hardcore" Twitter](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji)
 * [Books](business/books/README.md)
-  * [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
   * [Greene How to Apply Laws](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
   * [Seven Habits](business/books/seven-habits.md)
 * [Documentaries](business/documentaries/README.md)
@@ -780,6 +779,7 @@
   * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
 * [Friendships](relationships/friendships.md)
   * [Pandemic Friends](https://www.reddit.com/gallery/slt0d7)
+* [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
 
 ## Social Sciences
 
