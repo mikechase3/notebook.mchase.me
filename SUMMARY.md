@@ -644,6 +644,7 @@
 * [Discrete Logic](math/discrete-logic/README.md)
   * [MIT Math for CompSci](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
   * [TAUT](https://www.taut-logic.com/)
+* [Economic Game Theory](math/economic-game-theory.md)
 * [Geology](math/rocks-for-jocks/README.md)
   * [External Resources](math/rocks-for-jocks/external-resources.md)
   * [Subfields of Geology](math/rocks-for-jocks/prelude-what-is-geology.md)
