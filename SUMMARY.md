@@ -643,6 +643,7 @@
       * [12.5: Lines in Space](math/untitled-1/calculus-3/untitled/untitled.md)
       * [12.6: Cylinders and Quadric Surfaces](math/untitled-1/calculus-3/untitled/untitled-1.md)
 * [Discrete Logic](math/discrete-logic/README.md)
+  * [6.042J Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
   * [MIT Math for CompSci](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
   * [TAUT](https://www.taut-logic.com/)
 * [Economic Game Theory](math/economic-game-theory.md)
