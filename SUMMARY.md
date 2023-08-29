@@ -295,6 +295,7 @@
   * [Understanding Neural Networks](computer-science/understanding-learning/understanding-neural-networks.md)
   * [Text Generation: Textgenrnn](computer-science/understanding-learning/text-generation-textgenrnn.md)
 * [Miscellaneous](computer-science/miscellaneous/README.md)
+  * [Prolific Flash Cards](https://quizlet.com/Prolific1997/folders)
   * [Senior Year Capstone](computer-science/miscellaneous/senior-year-capstone/README.md)
     * [Lecture 01: Course Overview](computer-science/miscellaneous/senior-year-capstone/lecture-01-course-overview.md)
     * [Lecture 02: Tools](computer-science/miscellaneous/senior-year-capstone/git-and-cloud-shell.md)
