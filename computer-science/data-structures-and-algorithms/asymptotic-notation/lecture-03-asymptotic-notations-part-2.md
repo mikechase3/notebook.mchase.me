@@ -24,7 +24,7 @@ Little o is like Big O notation, but we care about the constant of the largest t
 
     **Infimum** is the tightest lower-bound.
 
-
+***
 
 ## **Infimum, The Tightest Lower Bound**
 

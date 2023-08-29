@@ -15,8 +15,8 @@ description: 'Mike Chase. Ref From: Tim Lee & Sean Trott ARS Technica'
 * **Thesis**: Today, I'm going to step away from the conventional programming via step-by-step instructions and discuss something completely different: how Chat GPT predicts text.
 * **Preview**:&#x20;
   * First, we're going to talk about how we can add/subtract terms to sentences and how that's mathematically represented as a vector.
-  * Then, the transformre.&#x20;
-  * Finally, how they're trained and why it requires a penomenally large quantity of data.
+  * Then, the transformer.&#x20;
+  * Finally, how they're trained and why it requires a phenomenally large quantity of data.
 
 
 
