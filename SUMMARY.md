@@ -112,6 +112,8 @@
 * [Quitting](career/how-to-quit/README.md)
   * [Charisma on Command](https://www.charismaoncommand.com/)
 * [Salary Negotiation](career/salary-negotiation.md)
+* [Time Management](career/time-management/README.md)
+  * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 
 ## Communications
 
