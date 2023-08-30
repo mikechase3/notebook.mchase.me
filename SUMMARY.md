@@ -337,6 +337,7 @@
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
   * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
     * [01 OS](computer-science/operating-systems/cps-536-os/01-os.md)
+    * [02 Processes or Something](computer-science/operating-systems/cps-536-os/02-processes-or-something.md)
   * [Threads and Concurrency](computer-science/operating-systems/threads-and-concurrency.md)
 
 ## 🐍 Development
