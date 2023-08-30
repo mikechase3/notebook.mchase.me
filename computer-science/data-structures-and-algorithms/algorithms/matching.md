@@ -46,3 +46,44 @@ algorithm stable_matching:
 ## Scrap Notes
 
 <figure><img src="../../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
+
+## Class Notes
+
+### Background
+
+* Sweeden awarded them via the Royal Swedish Nobel of Economics and something in Harvard.
+
+### Brute Force Approach
+
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+
+Another example:
+
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+
+###
+
+## How to Prove Correctness
+
+* **Deterministic**: this algorithm always produces the same result.
+
+#### Termination
+
+* **Observation 1**: men propose to women in decreasing order of preference.
+* **Observation 2**: once a woman is matched, she only trades up & is always single.
+* **Claim**: the algorithm terminates after at most `n^2` iterations.
+
+#### Perfection
+
+* **Claim**: In Gale-Shapley matching, all men & women get matched.
+* Proof is by contradiction
+  * Suppose for sake of contradiction, that Zeus isn't matched upon termination of the GS algorithm.
+  * Then, there is a single girl must be unmatched & Zeus didn't propose to Amy.
+  * Therefore, this contradicts the condition for the while loo because our counter-claim can't be true (that Amy never received a proposal and that cannot happen).
+
+#### Stability
+
+* **Claim**: in Gale-Shapley matching, there are no unstable pairs.
+* **Proof**: by **contradiction**.&#x20;
+  * Let's say that for sake of contradiction, it's possible for there to be an unstable pair after the algorithm gets completed.
+  * We did an example on the board. See one of the above sources for the proof of stability.
