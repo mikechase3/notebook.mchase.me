@@ -78,3 +78,64 @@ IDK how this is implemented. Maybe just a consideration?
 * Provides a place for the child to store its result.
 * Frees the resources the child used.
 
+## Mutex
+
+### Mutex Data Structure
+
+<figure><img src="../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+
+* **Status**: The data structure should contain information about whether it's locked or not.
+* **List\[Blocked]**: threads and awaiting the mutex to be free.
+* Owner: what thread has the lock?
+
+**Critical section** refers to code within the mutex-locked section.&#x20;
+
+**Condition variables** should be used in conjunction with mutexes to control the behavior of concurrent threads.&#x20;
+
+### Reader/Writer Problem
+
+* We can't read from memory, perform an operation, and write to it all at the same time.
+* **Naieve**: lock the whole function & be super restrictive.
+* We can also have an enum sorta thing with `Free`, `Reading`, and `Writing` state.
+  * Free: resource counter = 0
+  * Reading: resource counter  > 0 (equal to the number of readers)
+  * Writing: resource counter = -1 (there is exactly one writer currently accessing the resoe)
+
+### Common Pitfalls
+
+* Keep track of mutex & condition variables that are specially used with a given shared resource.
+* Forgetting to use the lock() and unlock() commands.&#x20;
+* Not generating a warner that there's a locked construct.
+* It's desirable to use a single mutex to access a single resource.
+* **Deadlocks**: situations where competing threads  are waiting on each other to complete but none of them ever do.
+
+In practice, we force everyone to first get the mutex for A and then the lock for B, deadlocks won't occur?
+
+## Multithreading Models
+
+A kernel level thread has to launch a user-level thread.&#x20;
+
+### Every User Thread Gets a Kernel Thread
+
+* **Pros**: better synchornization because OS has more opportunities to schedule?
+* **Cons**: more process control blocks & context switching is expensive.
+
+### All User-Level Threads Supported by One Kernel Level Thread
+
+* Everything will be done at the user-level thread library: scheduling, synchronization, etc.
+* Not limited by the specific limits and policies that are available in the kernel.
+* No system calls?
+
+### Many to Many
+
+* The coordination between the kernel-level thread management & user-level thread management is required.&#x20;
+
+## Scope of Multithreading
+
+* **Process Scope** is a user-level thread library that's linked to the process manages all the threads that are **within that single process only.**&#x20;
+* **System Scope**: all the threads compete for the CPU. It's also known as globbal scheduling because the kernel decides which kernel-level thread is to be scheduled into the CPU.
+
+
+
+
+
