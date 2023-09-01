@@ -25,7 +25,7 @@ I used a multitude of videos to understand this. I'd start there if you're learn
 6. Write the proof of stability
 7. Write an efficient implementation.
 
-## The Algorithm
+## The Gale-Shapley Deferred Acceptance Algorithm (1962)
 
 ```
 algorithm stable_matching:
@@ -87,3 +87,15 @@ Another example:
 * **Proof**: by **contradiction**.&#x20;
   * Let's say that for sake of contradiction, it's possible for there to be an unstable pair after the algorithm gets completed.
   * We did an example on the board. See one of the above sources for the proof of stability.
+
+### Efficient Implementation
+
+* We describe an O(n^2) time implementation
+* Assume men are named {1, ..., n}
+* And the women are {1', ... n'}
+* Maintain a list of free men in a stack or queue.
+* Maintain two arrays `wife[m]` and `husband[w]`.
+  * If `m` matched to `w` then `wife[m] = w` and `usband[w] = m` set entry to 0 if unmatched.
+
+#### Men Proposing
+

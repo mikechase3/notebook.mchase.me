@@ -614,6 +614,7 @@
 ## 🌴 Leisure
 
 * [Gem City Catfe](leisure/gem-city-catfe.md)
+* [Kiwiah Beach Cam](https://kica.us/beach-cam/)
 * [Shopping](leisure/page-2.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
