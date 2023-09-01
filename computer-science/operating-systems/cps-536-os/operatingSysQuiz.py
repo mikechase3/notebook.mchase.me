@@ -3,24 +3,19 @@ from collections import OrderedDict
 
 # OS Quiz
 
-class Quiz():
-    def __init__(self, qa: dict):
-        self.qa = qa
+class Question():
+    def __init__(self, shortIdentifier, question, answer):
+        self.ID = shortIdentifier
+        self.q = question
+        self.a = answer
         self.score = 0
+        # Pandas - read a dataframe from the .csv!
 
     def __repr__(self):
-        return "Questions, Answers\n======\n\n {}".format(str(self.qa))
+        return "{}\nQuestion: {}\nAnswer: {}\nCurrent score: \n".format(self.ID, self.q, self.a, self.score)
 
-    def play(self):
-        # Receive input from user. Prompt with question. Check the answer with some string formatting methods.
-        pass
-
-qa = {  # question, answer
-    "", ""
-}
 
 
 
 if __name__ == "__main__":
-    q = Quiz(qa)
-    q.play()
+    pass
