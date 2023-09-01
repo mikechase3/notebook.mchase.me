@@ -60,3 +60,23 @@ Optional:
 * Does the latest technology make people feel like a utopia/distopia.
   * Utopian: self driving cars are nice
   * Dystopian: but china can spy on us better.
+
+### International Jurisdiction
+
+* Extradition treaties
+* INTERPOL: international police submission to arrest an individual in foreign countries.
+* There's no courts for countries w/ disagreements.
+
+#### India Contractual Choice of Law
+
+This didn't seem to be important:
+
+* **Party autonomy**: Recognize a choice of governing law other than Indian Law
+* Choice of foreign law can't derogate from the mandatory/overriding provisions of Indian law, or conflict with Indian public policy.
+* Whether two Indian parties can contract out of Indian law is a grey area, although several decisions indicate this will be considered to be against Indian public policy.
+
+#### Objections to Enforcement in India
+
+* A foreign judgement must be conclusive to be enforceable.
+* It has to be found on the correct view of India's international principles.
+
