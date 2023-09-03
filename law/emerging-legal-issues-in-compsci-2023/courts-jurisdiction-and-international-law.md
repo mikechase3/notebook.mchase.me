@@ -80,3 +80,14 @@ This didn't seem to be important:
 * A foreign judgement must be conclusive to be enforceable.
 * It has to be found on the correct view of India's international principles.
 
+### Example: AI Generating False News about Jon Doe
+
+California says elements of defemation are:&#x20;
+
+1. Published:&#x20;
+2. It's false:&#x20;
+3. Unpriveleged: means it's not a governmental activity or official stuff.
+4. Causes damage:&#x20;
+5. Defendant's fault is **at least negligence**. But when you're famous or political, you have to prove at least malice.&#x20;
+
+Here, the intent isn't malicious. You could argue the confidence threshold is low. California does have jurisdiction though.&#x20;

@@ -97,5 +97,19 @@ Another example:
 * Maintain two arrays `wife[m]` and `husband[w]`.
   * If `m` matched to `w` then `wife[m] = w` and `usband[w] = m` set entry to 0 if unmatched.
 
-#### Men Proposing
+### Proof that women get the worse deal
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Unorganized
+
+Proof by contradiction?
+
+![](../../../.gitbook/assets/image.png)
+
+
+
+## Representative Problems
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
