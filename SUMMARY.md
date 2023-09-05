@@ -338,6 +338,7 @@
   * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
     * [01 OS](computer-science/operating-systems/cps-536-os/01-os.md)
   * [Threads and Concurrency](computer-science/operating-systems/threads-and-concurrency.md)
+  * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
 
 ## 🐍 Development
 
