@@ -28,11 +28,15 @@ What are they? How are they different from processes? What data structures are u
 
 ### Benefits of Multithreading
 
-* **Parallelization**: we can process much faster than if a single thread on a single CPU had to calculate the entire input matrix.
+* **Parallelization**: speeds up programs. We can process much faster than if a single thread on a single CPU had to calculate the entire input matrix.
 * Threads can either execute completely different portions of the program or operate on different portions of the code that correspond to specific functions.
 * By specializing different threads to run different tasks or different portions of the program, we can differentiate how we manage those threads. So, for instance, we can give higher priority to those threads that handle more important tasks or more important customers.
 * Another important benefit of partitioning what exactly the operations are executed by each thread, and on each CPU, comes from the fact that performance is dependent on how much state can be present in the processor cache.&#x20;
-* **Specialization**: we end up executing with a hotter cache which translates to faster performance.
+* **Specialization**: **hotter cache**. We end up executing with a hotter cache which translates to faster performance.
+* **Efficiency**: lower memory management requirement and cheaper IPC. 
+
+### Applications of Threading on Single-Core CPUs 
+She calls it: Single CPU Use Cases
 
 ### Single CPU Use Cases
 
@@ -134,8 +138,4 @@ A kernel level thread has to launch a user-level thread.&#x20;
 
 * **Process Scope** is a user-level thread library that's linked to the process manages all the threads that are **within that single process only.**&#x20;
 * **System Scope**: all the threads compete for the CPU. It's also known as globbal scheduling because the kernel decides which kernel-level thread is to be scheduled into the CPU.
-
-
-
-
 
