@@ -612,6 +612,7 @@
   * [01 Broad Overview](law/emerging-legal-issues-in-compsci-2023/01-broad-overview.md)
   * [Purpose of Law](law/emerging-legal-issues-in-compsci-2023/purpose-of-law.md)
   * [Courts, Jurisdiction, and International Law](law/emerging-legal-issues-in-compsci-2023/courts-jurisdiction-and-international-law.md)
+  * [Business Matters & Contracts](law/emerging-legal-issues-in-compsci-2023/business-matters-and-contracts.md)
 
 ## 🌴 Leisure
 
