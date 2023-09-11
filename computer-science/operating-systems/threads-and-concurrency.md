@@ -52,13 +52,23 @@ What are they? How are they different from processes? What data structures are u
 
 ## Thread Mechanisms
 
+{% hint style="danger" %}
+Slides won't match up with the content here. Week 2-1 is all note above, but we did a surface-level brief of the topics below. Week 2-2 covers the mutex in more depth, so the notes below come from multiple time-stamps across the two videos.&#x20;
+{% endhint %}
+
 ### Mutual Exclusion Mechanism
 
-* This policy gives threads exclusive access to a variable/synchorinzation mechanism.
-* These are called **mutexes**.&#x20;
+### Mutex Basics
+
+From Week 2-2.&#x20;
+
+* **Mutexes** should be used whenever we access data/resources shared among threads.
+* We say a thread is trying to **acquire the lock** when attempting to get exclusive access to the shared resource.
 * **Condition variables** handle the inter-thread communication in Birrel threading systems.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **Thread Creation & Data Structure**
 
