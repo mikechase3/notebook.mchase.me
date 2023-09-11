@@ -88,7 +88,9 @@ Fork works by:
 
 
 
-Blah blah blah
+### Nondeterministic Code
+
+Sometimes, we don't have a clear result. In the case below, the list could come out to be two different orders.
 
 <figure><img src="../../.gitbook/assets/image (588).png" alt=""><figcaption><p>This example shows how we create threads in code.</p></figcaption></figure>
 
@@ -98,16 +100,12 @@ Don't confuse this `Fork` code with the one in [process mgmt.](ProcessManagement
 
 * **Fork**: doesn't create a new process this time, but instead a thread passing along the thread data structure.
 
-### Mechanism of Storing Results
-
-IDK how this is implemented. Maybe just a consideration?
-
 ### Join Mechanism
 
 * Provides a place for the child to store its result.
 * Frees the resources the child used.
 
-## Mutex
+
 
 ### Mutex Data Structure
 
@@ -140,7 +138,7 @@ IDK how this is implemented. Maybe just a consideration?
 
 In practice, we force everyone to first get the mutex for A and then the lock for B, deadlocks won't occur?
 
-## Multithreading Models
+### Multithreading Models
 
 A kernel level thread has to launch a user-level thread.
 
@@ -163,3 +161,5 @@ A kernel level thread has to launch a user-level thread.
 
 * **Process Scope** is a user-level thread library that's linked to the process manages all the threads that are **within that single process only.**
 * **System Scope**: all the threads compete for the CPU. It's also known as globbal scheduling because the kernel decides which kernel-level thread is to be scheduled into the CPU.
+
+## User & Kernel Threads
