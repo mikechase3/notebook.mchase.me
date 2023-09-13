@@ -135,4 +135,7 @@ Angel investors are typically people who have done well in that industry. That p
 
 ## Readings
 
-* [**How to start a tech company**](https://www.purrweb.com/blog/how-to-start-a-technology-company/): discusses
+* [**How to start a tech company**](https://www.purrweb.com/blog/how-to-start-a-technology-company/): discusses the big five {Apple/MSFT/Alphabet}. Typically, they close because the market doesn't need the product. Pry on competitors to see what features are lacking. Get to know your audience & see whta features they need. Fill out a business model canvas. Develop your minimum viable product and: get fedback, present it to investors, understand technical limitations, add new features. Create a company brand. Give it a name & a domain. Create a logo. Start landing. Find funding sources (crowdfunding, business angels, corporate accelerators). Then, assemble a team: {product manager, technical officer, marketing manager, financer, development team}.&#x20;
+
+### Todo for my business
+
