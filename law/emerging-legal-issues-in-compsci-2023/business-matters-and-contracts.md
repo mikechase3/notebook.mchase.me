@@ -1,5 +1,7 @@
 # Business Matters & Contracts
 
+{% embed url="https://docs.google.com/presentation/d/1mKGKNHWKQIsZ_mFXvM3ejekIbx26s2A6/edit?usp=sharing&ouid=107409858575080529517&rtpof=true&sd=true" %}
+
 ## Forms of Business Organizations
 
 ### Sole Proprietorship
@@ -130,3 +132,7 @@ Angel investors are typically people who have done well in that industry. That p
 * They'll be able to convert the loan and flip it into preffered stock.
 * **Preffered stock:** you get dividends. When you're making money, we get money.
 * **Common stock**: worth more because it can go up in value.&#x20;
+
+## Readings
+
+* [**How to start a tech company**](https://www.purrweb.com/blog/how-to-start-a-technology-company/): discusses
