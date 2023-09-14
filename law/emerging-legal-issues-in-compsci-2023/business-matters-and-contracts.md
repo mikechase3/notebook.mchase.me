@@ -2,6 +2,8 @@
 
 {% embed url="https://docs.google.com/presentation/d/1mKGKNHWKQIsZ_mFXvM3ejekIbx26s2A6/edit?usp=sharing&ouid=107409858575080529517&rtpof=true&sd=true" %}
 
+{% embed url="https://quizlet.com/765218587/eliit-business-matters-and-contracts-flash-cards/?i=2e7en0&x=1jqt" %}
+
 ## Forms of Business Organizations
 
 ### Sole Proprietorship
@@ -133,9 +135,36 @@ Angel investors are typically people who have done well in that industry. That p
 * **Preffered stock:** you get dividends. When you're making money, we get money.
 * **Common stock**: worth more because it can go up in value.&#x20;
 
+## Employee Contracts
+
+{% hint style="info" %}
+Put these in my business plan!
+{% endhint %}
+
+* **Non-Compete Clause**: if you're working for a business, you can't compete with the company.[ If it's too broad, it'll be deemed unconstitutional.](https://www.bing.com/search?pglt=513\&q=non-compete+supreme+court\&cvid=b984345ab32c46ab95951114c3ffe9a4\&aqs=edge..69i57j0l6.2760j0j1\&FORM=ANNTA1\&PC=U531)
+* **Invention Assignment Agreement**: your employer owns & has rights to your inventions. You have to have in the contract that the developer doesn't own the code, but the company owns the code. As a contractor, if I hire a contractor, have in there that I own the code not the other way around.&#x20;
+* **Non-Solicitation Agreement**: you won't solicit any business clients, bring over any employees, or use confidential information connected to your current job. You can't steal good employees from your previous boss.
+
 ## Readings
 
 * [**How to start a tech company**](https://www.purrweb.com/blog/how-to-start-a-technology-company/): discusses the big five {Apple/MSFT/Alphabet}. Typically, they close because the market doesn't need the product. Pry on competitors to see what features are lacking. Get to know your audience & see whta features they need. Fill out a business model canvas. Develop your minimum viable product and: get fedback, present it to investors, understand technical limitations, add new features. Create a company brand. Give it a name & a domain. Create a logo. Start landing. Find funding sources (crowdfunding, business angels, corporate accelerators). Then, assemble a team: {product manager, technical officer, marketing manager, financer, development team}.&#x20;
+* **Selecting the apprpriate legal entity for your tech startup**: discusses corporations, LLCs, etc.&#x20;
 
-### Todo for my business
+## Videos
+
+{% embed url="https://www.youtube.com/watch?v=JQNeRik2KpE" %}
+
+Contract & Offer Acceptance:
+
+{% embed url="https://www.youtube.com/watch?v=AvsM819br94&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY&feature=emb_logo" %}
+
+Contract Law Mistakes:
+
+{% embed url="https://youtu.be/9Mp0_iaWxAs" %}
+
+* Is a promise to make a gift enforceable? (https://youtu.be/3m7racAQpYA) - 2 minutes
+* Promise and reliance in contract law (https://youtu.be/4Kiz7ttEDAk) - 5 minutes
+* Tort Law in 3 Minutes (https://youtu.be/TFdprG8tXzY) - 3 minutes
+
+
 
