@@ -1,4 +1,5 @@
 # Boolean Logic
+Works cited: jetbrains academy
 
 * The Boolean type is notated `bool`.
 * `True` and `False` are capitalized because Java does the opposite and Python hates Java.
@@ -48,6 +49,3 @@ print("" or False)  # False
 truthy_integer = False or 5 and 100  # 100
 ```
 
-
-
-_Works Cited: Jetbrains Academy_

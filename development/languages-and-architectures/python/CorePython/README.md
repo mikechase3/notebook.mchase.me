@@ -198,6 +198,8 @@ def main(): # function, method are the same
 
 ### [List Comprehensions](https://www.w3schools.com/python/python\_lists\_comprehension.asp)
 
+![List Comprehension Chart](https://www.freecodecamp.org/news/content/images/2021/07/list-comprehension.png)
+
 Note: these examples were taken from my[ CodeCademy course.](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-flow-data-iteration/modules/dspath-python-loops/cheatsheet)
 
 Let’s say we have scraped a certain website and gotten these words:
