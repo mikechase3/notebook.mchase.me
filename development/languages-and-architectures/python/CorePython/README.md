@@ -26,8 +26,6 @@ runtime_of_crap = 2
 * Use the type() function.
 * `print(type(what_is_this_mysterious_variable))`
 
-
-
 ## Math
 
 ### Exponents
@@ -62,8 +60,6 @@ print(arr2)
 ### Compound Operators
 
 > Naturally, similar assignment forms exist for the rest of arithmetic operations: `-=`, `*=`, `/=`, `//=`, `%=`, `**=`. Given the opportunity, use them to save time and effort.
-
-
 
 ## Expressions
 
@@ -198,7 +194,7 @@ def main(): # function, method are the same
 
 ### [List Comprehensions](https://www.w3schools.com/python/python\_lists\_comprehension.asp)
 
-![List Comprehension Chart](https://www.freecodecamp.org/news/content/images/2021/07/list-comprehension.png)
+<figure><img src="../../../../.gitbook/assets/Receipt on Sep 14, 2023 at 11_45_36 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Note: these examples were taken from my[ CodeCademy course.](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-flow-data-iteration/modules/dspath-python-loops/cheatsheet)
 
@@ -568,8 +564,6 @@ Use `def __init()__:` within the class to make a constructor.
 ### Superclass
 
 * You can inherit the methods and variables from the superclass by calling `super()`. Make sure you have the **() at the end!!!!!**
-
-
 
 ## Dunder Methods
 
