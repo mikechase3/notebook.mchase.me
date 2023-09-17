@@ -507,6 +507,7 @@
 * [Autism Spectrum Quotient](https://embrace-autism.com/autism-spectrum-quotient/)
 * [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom's\_taxonomy)
 * [Cone of Learning](education/cone-of-learning.md)
+* [Curse of Knowledge](education/curse-of-knowledge.md)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
 * [Map of Reddit Post API](https://sub.rehab/?searchTerm=\&visibleServices=lemmy\&visibleServices=kbin\&visibleServices=discord\&visibleServices=misc\&visibleServices=matrix\&visibleServices=squabbles\&visibleServices=raddle\&officialOnly=false\&newOnly=false\&favoriteOnly=false\&sortBy=name)
