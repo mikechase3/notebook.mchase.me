@@ -53,4 +53,13 @@ Normative framework of a free & fair digital economy.&#x20;
 
 * Reverse warrants which violate right to privacy.&#x20;
 * This asks the question: if someone breaks in your home, can the police get a geofence warrant to see who was all in the area when the house was broken into. That's generally considered a violation of the 4th amendment because someone else in the area will get blamed.
-*
+
+{% embed url="https://www.phoenixnewtimes.com/news/google-geofence-location-data-avondale-wrongful-arrest-molina-gaeta-11426374" %}
+
+## Common Law Torts
+
+1. **Intrusion upon seclusion**: means that they broke in sorta.
+   1. They intended to intrude upon me.
+   2. I had a reasonable expectation of privacy.
+   3. Intrusion was highly offensive to a reasonable person.
+2.
