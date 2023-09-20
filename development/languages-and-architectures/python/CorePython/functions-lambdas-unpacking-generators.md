@@ -49,8 +49,6 @@ description: Functions, unpacking operators (*args, **kwargs), generators
 
 
 
-
-
 ### Function Arguments
 
 There are 3 types of arguments in functions:
@@ -194,4 +192,4 @@ low_limit, high_limit = get_boundaries(100, 20)
 
 {% embed url="https://www.youtube.com/watch?v=bD05uGo_sVI" %}
 
-End of Functions
+##

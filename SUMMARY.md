@@ -452,6 +452,7 @@
     * [Core](development/languages-and-architectures/python/CorePython/README.md)
       * [Boolean Logic](development/languages-and-architectures/python/CorePython/boolean-logic.md)
       * [Codecademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/python)
+      * [Decorators](development/languages-and-architectures/python/corepython/decorators.md)
       * [Docs (Official)](https://docs.python.org/3/index.html)
       * [Doc Conventions, PEP8, RSTs](development/languages-and-architectures/python/CorePython/pep-8-style-guide.md)
       * [Functions, Lambdas, Unpacking, Generators](development/languages-and-architectures/python/CorePython/functions-lambdas-unpacking-generators.md)
