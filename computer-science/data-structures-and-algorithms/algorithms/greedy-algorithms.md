@@ -233,7 +233,11 @@ TODO: Review/add these. Go through Dr. K's slides to see an example.
 
 See also graph algorithms: [BFS & DFS Basics](graph-algorithms/bfs-and-dfs-basics-l14.md).
 
-
+* **Requirements**: `G=(V, E)` where edges have positive values. We'll have source `s` and destination `t`. $$l_e$$ is the length of edge `e`.&#x20;
+* **Problem**: find the shortest directed path from s to `t`
+* Maintain a set of **explored nodes** `S` for which we have determined the shortest path distance `d(u)` from `s` to `u`.  Initially, `S`'s path will just contain `{s}`, `d(s) = 0`.
+* Then we'll repeatedly choose unexplored node `v` where $$v \notin S$$
+* **Dijkstra Variant**: (Min cost, min-path)
 
 
 
