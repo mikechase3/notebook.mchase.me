@@ -84,7 +84,7 @@ Another example:
 #### Stability
 
 * **Claim**: in Gale-Shapley matching, there are no unstable pairs.
-* **Proof**: by **contradiction**.&#x20;
+* **Proof**: by **contradiction**.
   * Let's say that for sake of contradiction, it's possible for there to be an unstable pair after the algorithm gets completed.
   * We did an example on the board. See one of the above sources for the proof of stability.
 
@@ -107,11 +107,14 @@ Proof by contradiction?
 
 ![](<../../../.gitbook/assets/image (1).png>)
 
-
-
 ## Representative Problems
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Homework & Implementation
+
 Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir.
+
+### Replit
+
+{% embed url="https://replit.com/@mikechase3/Stable-Matching-CPS-530-UDayton?v=1" %}
