@@ -181,6 +181,62 @@ Click this [link](https://www.dropbox.com/s/iwf13fzz4tbbfna/Lecture%2009%20Greed
   * Then you take the edge that's the smallest and merge the bubbles.
   * You repeat this until there is only one bubble left.
 
+## Optimal Offline Caching Problem (4.3)
+
+Problem is how do we cache/retreive stuff efficiently.
+
+### Furthest in Future
+
+* **Belady** is the guy who wrote this. It's called a Belady Schedule.
+
+<figure><img src="../../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
+
+* **Proof**: by induction on number of requests `j`.
+* **Invariant**: there exists an optimal reduced schedule `S` that makes the same eviction schedule as $$S_{FF}$$ through the first `j+1` requests.
+*
+
+### Reduced Eviction Schedule
+
+<figure><img src="../../../.gitbook/assets/image (659).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* **Reduced** schedules are schedules that only insert an item into the cache in a step in which that item is requested.
+* **Intuition:** we transform an unreduced schedule
+* **Claim**: given any unreduced schedule `S`, we can transform it into a reduced schedule `S'` with no more cache misses and this is always better.
+* **Proof** by induction on the number of unreduced items.
+  * Suppose `S` brings `d` into the cache at time `t` without a request.
+  * Let `c` be the item S evicts when it brings `d` into the cache.
+  * Case 1: `d` is evicted at time `t'` before next request for `d`.
+  * Case 2: `d` requested at time `t'` before `d` is evicted
+  * Case 3: `d` is not in the cache; $$S_{FF}$$ evicts `e`; S evicts $$f \neq e$$.&#x20;
+    * Case 3a: g=e. Can't happen with furthest in the future.
+    * Case 3b: idk
+    * Case 3c: if the requested item is not `e` or `f` (or mathematically $$g \neq e, f$$), then `S` must evict `e`. We'll make `S'` evict f so now `S` and `S'` have the same cache.
+
+### Caching Perspective
+
+* **Offline**: we know full sequence of requests known beforehand. This is a bit unrealistic.
+* **Online (reality)**: requests are not known in advance.
+* Caching is among most fundamental online problems in computer science.
+  * **FIFO**: evict the page brought in least recently.
+  * **LIFO**: evict most recent page.
+  * **LRU**: evict page whose most recent access was earliest. (FF with direction of time reversed!) This is the **best.**
+* **Theorem**: FF is an optimal offline eviction algorithm because:
+  * It provides basis for understanding and analyzing online algorithms.
+  * LRU is k-competitive
+  * LIFO is arbitrarily bad.
+
+{% hint style="info" %}
+TODO: Review/add these. Go through Dr. K's slides to see an example.
+{% endhint %}
+
+### Dijkstra & Shortest Paths in Graphs
+
+See also graph algorithms: [BFS & DFS Basics](graph-algorithms/bfs-and-dfs-basics-l14.md).
+
+
+
+
+
 ## Works Cited
 
 | Title                                                                                                       | Author            | Content Used                            |
