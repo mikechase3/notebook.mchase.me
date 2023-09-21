@@ -525,11 +525,12 @@
 
 ## 🎥 Entertainment
 
-* [Before The Internet](https://internetkhole.com/)
-* [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
-* [Reports](entertainment/reports/README.md)
+* [Anecdotal Reviews](entertainment/reports/README.md)
+  * [Harley Quinn](entertainment/reports/harley-quinn.md)
   * [Super Crooks](entertainment/reports/super-crooks.md)
   * [Spy x Family](entertainment/reports/spy-x-family.md)
+* [Before The Internet](https://internetkhole.com/)
+* [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
 * [Star Wars A New Hope](https://swanh.net/)
 
 ## Finance
@@ -658,7 +659,6 @@
   * [6.042J Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj\_KNphQ)
   * [MIT Math for CompSci](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
   * [TAUT](https://www.taut-logic.com/)
-* [Economic Game Theory](math/economic-game-theory.md)
 * [Geology](math/rocks-for-jocks/README.md)
   * [External Resources](math/rocks-for-jocks/external-resources.md)
   * [Subfields of Geology](math/rocks-for-jocks/prelude-what-is-geology.md)
