@@ -1,5 +1,13 @@
 # Privacy
 
+{% embed url="https://quizlet.com/766798170/eliit-privacy-flash-cards/" %}
+
+
+
+{% embed url="https://docs.google.com/presentation/u/1/d/11_ud3QWxf2JBAG0CrbZDA7cwsu6R213u/edit?usp=sharing&ouid=110304299013474520093&rtpof=true&sd=true" %}
+
+{% embed url="https://create.kahoot.it/share/data-privacy-week-3-class-6/23781873-454a-46b7-b170-27f5259f2b44" %}
+
 ## Why Right to Privacy
 
 * **Risk**: telling people where you work creates risk because it can be targeted by a foreign power or someone who wants to murder you.
