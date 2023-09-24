@@ -330,16 +330,17 @@
   * [Network Security](computer-science/networking/network-security.md)
   * [Monmouth, IL Latency](computer-science/networking/monmouth-il-latency.md)
 * [Operating Systems](computer-science/operating-systems/README.md)
+  * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
+    * [01 OS Welcome](computer-science/operating-systems/cps-536-os/01-os.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
+  * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
   * [Processes & Process Management](computer-science/operating-systems/ProcessManagement.md)
   * [Semaphores](computer-science/operating-systems/something-new.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
-  * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
-    * [01 OS](computer-science/operating-systems/cps-536-os/01-os.md)
+  * [Scheduling](computer-science/operating-systems/scheduling.md)
   * [Threads and Concurrency](computer-science/operating-systems/threads-and-concurrency.md)
-  * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
 
 ## 🐍 Development
 

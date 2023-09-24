@@ -12,6 +12,12 @@
 
 1. Course videos are stashed in `MikeChase\Active Documents\2023\Career\Education\CPS 536 Operating Systems Fall23`
 
+| Subtopic                                              | Flashcard Status                 | Retyped Notes Status |
+| ----------------------------------------------------- | -------------------------------- | -------------------- |
+| [Process & Process Management](ProcessManagement.md)  | Completed. Yellow Deck.          |                      |
+| [Threads and Concurrency](threads-and-concurrency.md) | Missing parts of 3, parts of 4-2 |                      |
+| [Scheduling](scheduling.md)                           | Building now                     |                      |
+
 ## Useful Resources
 
 * MIT[ Operating System](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/pages/lecture-notes-and-readings/) Engineering Notes
