@@ -70,4 +70,11 @@ Normative framework of a free & fair digital economy.&#x20;
    1. They intended to intrude upon me.
    2. I had a reasonable expectation of privacy.
    3. Intrusion was highly offensive to a reasonable person.
-2.
+
+## Readings
+
+* [Livestreaming Traffic Stops](https://docs.google.com/document/d/1T13gScf977tHazsxg0Tx\_kgdbUiKZVmlGu4XjYHJrX4/edit?usp=sharing): is it legal to livestream for your protection? The police officer asked if he was streaming & the officer said that streaming was a safety issue & lets everyone know that we're out here. Officer had immunity & plantiff lost, but on appeal Sharpe's lawyers argued that the livestream was based on a "fanciful chain of hypotheticals involving a third party seeing Mr. Sharpe's livestreaming, deducting the location of the traffic stop, driving to the scene, and attempting to harm the officers."&#x20;
+* [Equifax's Security overhaul](https://docs.google.com/document/u/3/d/1DFJn2Fvl0HsPIo-3xe09ZBbvSSHUT0ih34EN06IBNCA/edit?mode=html\&usp=sharing): Hackers entered Equifax's network and stole financial information. They had to hire a chief information security officer. FTC got involved.
+* Data on your mental health: after asking a broker 11 companies were willing to sell bundles of data including what antidepressants people were taking, whether they struggled with insomnia/attnetion issues, and other details on their medical ailmments like alzheimer or bladder control issues with addresses, incomes, etc. HIPAA restricts what covered health entities share, but it doesn't protect the information anywhere else so app makers can sell them.&#x20;
+* Google & Illinois Biometric Info Privacy Act (BIPA): Google got sued because Google Photos uses, sorts, and stores peoples' facial information making Google basically like China.&#x20;
+* Psychological data breach harms:&#x20;
