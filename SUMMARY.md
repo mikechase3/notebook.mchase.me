@@ -618,6 +618,7 @@
   * [Courts, Jurisdiction, and International Law](law/emerging-legal-issues-in-compsci-2023/courts-jurisdiction-and-international-law.md)
   * [Business Matters & Contracts](law/emerging-legal-issues-in-compsci-2023/business-matters-and-contracts.md)
   * [Privacy](law/emerging-legal-issues-in-compsci-2023/privacy.md)
+  * [Copyright](law/emerging-legal-issues-in-compsci-2023/copyright.md)
 
 ## 🌴 Leisure
 
