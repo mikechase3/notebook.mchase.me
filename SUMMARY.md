@@ -536,9 +536,11 @@
 
 ## Finance
 
+* [Collections](finance/collections.md)
 * [Cryptocurrency Taxes](finance/cryptocurrency-taxes.md)
 * [Investments](finance/investments/README.md)
   * [Mike Chase's Advice](finance/investments/stocks.md)
+* [r/personalfinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 
 ## 🥪 Food
