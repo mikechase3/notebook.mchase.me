@@ -91,4 +91,73 @@ These levels range from the program's most abstract to its most concrete express
 
 Also, derivative work isn't copyrightable. If I steal Facebook's code and convert it from Javascript to Typescript, I can't copyright the Typescript.&#x20;
 
-You can also include code nobody would use by leaving breadcrumbs. Maybe you did things not in the most straighforward way so if someone copies your code,&#x20;
+You can also include code nobody would use by leaving breadcrumbs. Maybe you did things not in the most straighforward way so if someone copies your code.
+
+### Registration
+
+* Registration is necessary to enforce the copyright & sue for infringement.
+* A work doesn't need to be published for protection.
+* Joint authors are co-owners. In your employment contract, you have to say "anything you write, we hold on to"
+* Patents are a first-to-file, but with copyrights it's the 'first-to-create'
+
+## Infringement of Copyright & Trademark Law
+
+* You'll see pretty stiff damages. Multiplying the damages by three is pretty typical. For example, if I sell Taylor Swift's albums illegally, I'll probably owe her triple the amount I'd make. In addition, you'll have to pay for the other side's attorney's fees.
+* If you have a copyright infringement ordering you to stop, you can go to jail.
+* $2500 in sales brings you to the felony level w/ 5 years of jail.
+
+## Fair Use
+
+* Some mediums are protected. For example: criticism, comment, news reporting, teaching, and a few more.
+* **Limited & Transformative Copying**: sometimes this is allowable.
+
+### Factors
+
+1. The purpose & character of the use. Was it commercial or for nonprofit & educational purposes?
+2. What's the nature of copyrighted work?
+3. What's the amount & sustainability of the portion used in relation to the copyrighted work as a whole?
+   1. Did I take only 1% of the code?&#x20;
+4. The effect of the use upon the potential market for or value of the copyrighted work.
+   1. By taking from their code, did I make their work less valuable?
+   2. Did I steal customers?&#x20;
+
+* Deep-linking is a violation
+
+### Indemnity Clause & OpenAI
+
+* We have AI & AI creates new text, images, etc.&#x20;
+* Those outputs could be violating copyright, but they didn't have permission to do that.&#x20;
+* They say that the "user" of OpenAI is liable for copyright violations.
+
+### Google LLC vs Oracle America Inc
+
+{% embed url="https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc." %}
+
+* Google allegedly "stole" some of their code.
+
+### Perfect 10 v Google
+
+* Perfect 10 was a website that had nude photos & nude photo magazine.
+* Google would display really small images from the site because it was nude.
+* It was perfect 10's images, but Google was displaying images paywalled on the website. They need to pay for a subscription in order to obtain the images otherwise.
+  * Google says: hey, different market. Perfect 10 is selling access to these images but Google is using a very small amount. We're not using all the pixels from the website. Substantiality is low.
+* Google is definitely making money from this, but they're making money in different ways.
+* Therefore, this is fair use & no copyright infringement occurred.
+
+### Authors Giuld v Google
+
+The authors guild wants to protect authors, so they bring lawsuits on their behalf. Currently, they're in litigation with AI and their speakers often come in & share their thoughts with courts.
+
+* One time, they sued Google because Google displayed portions of text. If you were interested & searched up the book, you could see half of some chapters.
+* Allegedly, Google was providing access to copyrighted books and reproducing them.
+* Google said that the fact that they were reading part of the books was in fact helping people. Although Google is in the market of getting people to use their stuff, it was for different purposes and therefore this was fair use.
+
+### AV v iParadigms (TurnItIn)
+
+* It creates an originality report based on previous submissions.
+* There was a suit between AV and iParadigms. But they said that TurnItIn wasn't violating it because Turnitin wasn't selling access to my essays.
+
+## International Copyright Law
+
+* The **Berne Convention** in 1886 deals with the protections & works of their authors.
+*
