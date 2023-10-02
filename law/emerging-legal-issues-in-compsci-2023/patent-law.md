@@ -1,5 +1,11 @@
 # Patent Law
 
+{% embed url="https://docs.google.com/presentation/d/19WnnkP63zktrYP1IMyg4QrB1DvT5D0fl/edit#slide=id.g1d280e052d4_0_6" %}
+
+{% embed url="https://create.kahoot.it/share/review-of-ip-law/131bef20-fa69-44cb-9fcd-de341355feb3" %}
+
+{% embed url="https://quizlet.com/818299617/eliit-patent-and-copyright-flash-cards/?i=2e7en0&x=1qqt" %}
+
 ## Comparing to Copyright
 
 **Patents are:**
@@ -68,3 +74,24 @@ The general standard is to ask if it would be obvious to a person with an ordina
 
 1. **Utility Patents**: granted to inventions that represent new things.&#x20;
 2. **Design Patents**:&#x20;
+
+## Can You Patent It?
+
+{% embed url="https://docs.google.com/document/d/1Brtcdk5_UbsqOrVawae3NfFYjPJcbmt_WjZs9MTmM40/edit?mode=html" %}
+
+## Readings
+
+{% embed url="https://docs.google.com/document/d/1GgWQvLQhyIhedRDO_QP4LYnTcfzoLvIL68NUI58piqo/edit?mode=html" %}
+
+{% embed url="https://drive.google.com/file/d/1O6fEuRHDBTS19oYFzgI15FfjCNnxcUgH/view" %}
+
+## Videos
+
+{% embed url="https://www.youtube.com/watch?v=0hZ2pEVXeds" %}
+
+{% embed url="https://www.youtube.com/watch?v=mPFqFDuTJPQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=tm_5MRShbkk" %}
+
+{% embed url="https://www.youtube.com/watch?v=hWbrnnagVL8" %}
+
