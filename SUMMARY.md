@@ -622,6 +622,7 @@
   * [Business Matters & Contracts](law/emerging-legal-issues-in-compsci-2023/business-matters-and-contracts.md)
   * [Privacy](law/emerging-legal-issues-in-compsci-2023/privacy.md)
   * [Copyright](law/emerging-legal-issues-in-compsci-2023/copyright.md)
+  * [Patent Law](law/emerging-legal-issues-in-compsci-2023/patent-law.md)
 
 ## 🌴 Leisure
 
