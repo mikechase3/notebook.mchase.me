@@ -245,7 +245,7 @@
     * [Greedy Algorithms (L09)](computer-science/data-structures-and-algorithms/algorithms/greedy-algorithms.md)
     * [Matching](computer-science/data-structures-and-algorithms/algorithms/matching.md)
     * [Divide and Conquer](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/README.md)
-      * [Lecture 04: Divide and Conquer Methodology](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/lecture-04-divide-and-conquer-methodology.md)
+      * [Data Compression](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/lecture-04-divide-and-conquer-methodology.md)
       * [Lecture 05: Divide and Conquer Analysis](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/lecture-05-divide-and-conquer-analysis.md)
     * [Graph Algorithms](computer-science/data-structures-and-algorithms/algorithms/graph-algorithms/README.md)
       * [Graph Representations (L12)](computer-science/data-structures-and-algorithms/algorithms/graph-algorithms/graph-representations-l12.md)
