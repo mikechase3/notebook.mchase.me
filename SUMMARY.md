@@ -335,6 +335,7 @@
     * [01 OS Welcome](computer-science/operating-systems/cps-536-os/01-os.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
+  * [Inter Process CMM](/computer-science/operating-systems/ipc.md)
   * [Memory Management](computer-science/operating-systems/memory-management.md)
   * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
   * [Processes & Process Management](computer-science/operating-systems/ProcessManagement.md)
