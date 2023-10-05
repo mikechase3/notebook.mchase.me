@@ -1,6 +1,6 @@
 # Operating Systems
 
-## Sources of Informatoin
+## Sources of Information
 
 ### CPS 356 Undergraduate Course Content
 
