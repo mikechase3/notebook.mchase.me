@@ -53,10 +53,9 @@
 * [Documentaries](business/documentaries/README.md)
   * [Blackfish (Sea World)](https://en.wikipedia.org/wiki/Blackfish\_\(film\))
   * [Disney's Fastpass - A Complicated History](business/documentaries/disneys-fastpass-a-complicated-history.md)
-* [Entrepreneurship](https://www.dropbox.com/s/n5r89txdonc8wbt/Entrepreneurship.pdf?dl=0)
+* [Entrepreneurship](business/entrepreneurship/README.md)
+  * [VC](https://hbr.org/1998/11/how-venture-capital-works)
 * [Event Planning](business/event-planning.md)
-* [Excel](business/excel/README.md)
-  * [Formula Bot](https://formulabot.com/)
 * [Philosophies of Businesses](business/philosophies-of-businesses/README.md)
   * [Hasting NFLX Culture](https://www.youtube.com/watch?v=2fuOs6nJSjY)
   * [Musk Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
@@ -66,9 +65,7 @@
 * [Risk Management](business/risk-management.md)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
-  * [Gen Z Email Signatures](business/satire/gen-z-email-signatures.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
-* [VC](https://hbr.org/1998/11/how-venture-capital-works)
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
@@ -335,7 +332,7 @@
     * [01 OS Welcome](computer-science/operating-systems/cps-536-os/01-os.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
-  * [Inter Process CMM](/computer-science/operating-systems/ipc.md)
+  * [Inter Process CMM](computer-science/operating-systems/ipc.md)
   * [Memory Management](computer-science/operating-systems/memory-management.md)
   * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
   * [Processes & Process Management](computer-science/operating-systems/ProcessManagement.md)
