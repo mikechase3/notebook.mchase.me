@@ -141,6 +141,9 @@ One is solvable by a greedy algorith, another by dynamic, one by network flow, t
 
 ## Homework & Implementation
 
-Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir. I also made a Replit. TODO: update with my source code!!
+Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir. I took the non-report aspects of the code & put it on Replit; however, there are optimized implementations online elsewhere that don't use my `Person` class and just use straight-up lists.&#x20;
 
 {% embed url="https://replit.com/@mikechase3/Stable-Matching-CPS-530-UDayton?v=1" %}
+
+
+
