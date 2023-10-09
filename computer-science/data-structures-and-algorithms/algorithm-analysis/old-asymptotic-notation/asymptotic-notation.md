@@ -3,7 +3,7 @@
 ## Learning Goals
 
 | Term                                                             | What is it?                                                                                                                                                                                                             |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Big-O Notation                                                   | Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst case complexity of an algorithm.                                                                                |
 | [Little Oh](https://www.tutorialspoint.com/little-oh-notation-o) | Big O, but we don't drop constants. "Little o notation is used to describe an upper bound that cannot be tight. In other words, loose upper bound of f(n)."                                                             |
 | Theta Notation $$\Theta$$                                        | Theta notation encloses the function from above and below. Since it represents the upper and the lower bound of the running time of an algorithm, it is used for analyzing the average case complexity of an algorithm. |

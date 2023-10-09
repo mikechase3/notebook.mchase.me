@@ -1,5 +1,5 @@
 ---
-description: Subsection of Ch5 in Klienberg Algorithm Design
+description: Subsection of Ch5 in klienberg-basics-of-alg-analysis Algorithm Design
 ---
 
 # Data Compression
