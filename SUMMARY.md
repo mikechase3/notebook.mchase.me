@@ -239,7 +239,7 @@
     * [L25: Input Validation and Regular Expressions](computer-science/cybersecurity/secure-app-development/l25-input-validation-and-regular-expressions.md)
     * [L26:](computer-science/cybersecurity/secure-app-development/l26.md)
 * [Data Structures, Algorithms, Analysis](computer-science/data-structures-and-algorithms/README.md)
-  * [Alg Design Klienberg Tardos](https://www.cs.princeton.edu/\~wayne/kleinberg-tardos/)
+  * [Alg Design Kleinberg Tardos](https://www.cs.princeton.edu/\~wayne/kleinberg-tardos/)
   * [Algorithm Analysis](computer-science/data-structures-and-algorithms/algorithm-analysis/README.md)
     * [Asymptotic Notation](computer-science/data-structures-and-algorithms/algorithm-analysis/old-asymptotic-notation/asymptotic-notation.md)
       * [Lecture 02: Asymptotic Notation](computer-science/data-structures-and-algorithms/algorithm-analysis/old-asymptotic-notation/lecture-02-asymptotic-notation.md)
@@ -249,7 +249,7 @@
       * [Lecture 11: More Amortized Analysis](computer-science/data-structures-and-algorithms/algorithm-analysis/amortized-analysis/lecture-11-more-amortized-analysis.md)
       * [Amortized Analysis Quiz](computer-science/data-structures-and-algorithms/algorithm-analysis/amortized-analysis/amortized-analysis-quiz.md)
       * [Problem Session](computer-science/data-structures-and-algorithms/algorithm-analysis/amortized-analysis/problem-session.md)
-    * [Ch2p1 Computational Tractability](computer-science/data-structures-and-algorithms/algorithm-analysis/klienberg-basics-of-alg-analysis/Ch2p1-computational-tractability.md)
+    * [Ch2 Kleinberg Alg Analysis Basics](computer-science/data-structures-and-algorithms/algorithm-analysis/kleinberg-ch2-analysis-basics.md)
   * [Base CS Podcast](https://www.codenewbie.org/basecs)
   * [CPS 350 Jawa Warmup](computer-science/data-structures-and-algorithms/CPS350MISC.md)
   * [CPS 350 Midterm Preparation](computer-science/data-structures-and-algorithms/midterm-preparation.md)
@@ -627,6 +627,7 @@
   * [Privacy](law/emerging-legal-issues-in-compsci-2023/privacy.md)
   * [Copyright](law/emerging-legal-issues-in-compsci-2023/copyright.md)
   * [Patent Law](law/emerging-legal-issues-in-compsci-2023/patent-law.md)
+  * [Trademark Law](law/emerging-legal-issues-in-compsci-2023/trademarks.md)
 
 ## 🌴 Leisure
 
