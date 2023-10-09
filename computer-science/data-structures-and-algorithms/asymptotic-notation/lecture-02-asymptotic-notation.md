@@ -7,7 +7,7 @@ description: Chapter 3
 ## Asymptotic Notation Describes Growth To Infinity
 
 1. Asymptotic notation is a way to describe the behavior when n goes to infinity.
-2. We will study other notations besides Big Oh.&#x20;
+2. We will study other notations besides Big Oh.
 
 ## Notation Goals
 
@@ -43,4 +43,3 @@ Can you prove that `f(n) = 2n+10 is in O(n)?` 1. If the maximum is `c*n`, then w
 | Title         | Content Used | Author           |
 | ------------- | ------------ | ---------------- |
 | Class Lecture | Structure    | Dr. Zhongmei Yao |
-

@@ -1,4 +1,4 @@
-# Lecture 01: Course Overview
+# CPS 450 Overview
 
 ## About This Course
 

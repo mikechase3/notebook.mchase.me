@@ -5,7 +5,7 @@ description: >-
   Microsoft Word, but MS word looked like crap.
 ---
 
-# CPS 350 Miscellaneous
+# CPS 350 Jawa Warmup
 
 ## CPS 350 | Day 1-5 | Java Fundamentals
 

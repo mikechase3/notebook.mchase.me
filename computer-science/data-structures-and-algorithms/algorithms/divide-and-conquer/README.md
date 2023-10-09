@@ -1,4 +1,4 @@
-# Divide and Conquer
+# Divide and Conquer Technique
 
 * Break up the problem into several problems.
 * Solve each part recurively.

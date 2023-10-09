@@ -1,7 +1,5 @@
 # Dynamic Programming
 
-
-
 ## Works Cited
 
 | Title         | Content Used                   | Author           |

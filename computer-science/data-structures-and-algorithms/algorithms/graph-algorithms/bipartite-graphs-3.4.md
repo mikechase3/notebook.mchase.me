@@ -2,12 +2,12 @@
 
 ## Introduction
 
-* Bipartite grpahs can be colored red & blue.
+* Bipartite graphs can be colored red & blue.
 * If you can represent a problem using bipartite graphs, you can find smart solutions.
 * Stable marriage: men = red & women = blue. (Not stable marriage problem, but compatibility)
 * Scheduling: machines = red & jobs = blue.
 
-## Testing Barpititeness
+## Testing Bipartiteness
 
 * Tractable if the underlying graph is bipartite. (And independent set)
 * To see if graph `G` is **bipartite**, we'll {idk}
@@ -22,5 +22,5 @@
 
 ## Bipartite Graphs
 
-![](<../../../../.gitbook/assets/image (1).png>)
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,7 +1,6 @@
 # Stable Matching Problem
 
-For CPS 530 Week 2.
-**Goals**: sets up issues in algorithm design. 
+For CPS 530 Week 2. **Goals**: sets up issues in algorithm design.
 
 ## Sources:
 
@@ -62,7 +61,6 @@ Another example:
 
 <figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
-
 ## How to Prove Correctness
 
 * **Deterministic**: this algorithm always produces the same result.
@@ -105,18 +103,18 @@ Another example:
 
 Proof by contradiction?
 
-![](<../../../.gitbook/assets/partners.png>)
+![](../../../.gitbook/assets/partners.png)
 
 ## Representative Problems
-First, we're going to talk about what an independent set is and then
-go into different ways of solving it.
+
+First, we're going to talk about what an independent set is and then go into different ways of solving it.
 
 The problems are all interrelated & variations of this problem
 
-One is solvable by a greedy algorith, another by dynamic, one by network flow, 
-the independent set problem itself (which is NP complete), and one is PSPACE-complete.
+One is solvable by a greedy algorith, another by dynamic, one by network flow, the independent set problem itself (which is NP complete), and one is PSPACE-complete.
 
 ### On Independent Sets
+
 [Article](https://www.meltingpointathens.com/what-is-the-maximum-independent-set-problem/)
 
 * **Independent Sets** problems are where we must find the largest set of verticies such that no two are ajacent.
@@ -125,26 +123,24 @@ the independent set problem itself (which is NP complete), and one is PSPACE-com
 * In this section, we talk about the **applications**: like scheduling, resource allocation, and network design.
 
 ### Independent Set Example
+
 * Given a graph `G=(V, E)` find the largest independent set in `G`.
-    * Where G is the entire graph.
-    * V is a set of vertices
-    * E is the set of edges.
-    
+  * Where G is the entire graph.
+  * V is a set of vertices
+  * E is the set of edges.
 
 ![Independent Set Example.png](../../../.gitbook/assets/IndependentSetExample.png)
+
 * For example, here the set `{a, c}` is an independent set
 * **Maximal** independent sets mean there are no vertexes we can add to the graph while preserving independence.
-    * Example: `{a, c, e}` is a maximal
-    * Non-Example: `{a, b}` are not an independent set because it's connected.
-    * `{b}` is a trivial independent set.
+  * Example: `{a, c, e}` is a maximal
+  * Non-Example: `{a, b}` are not an independent set because it's connected.
+  * `{b}` is a trivial independent set.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Homework & Implementation
 
-Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir.
-I also made a Replit. TODO: update with my source code!!
+Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir. I also made a Replit. TODO: update with my source code!!
 
 {% embed url="https://replit.com/@mikechase3/Stable-Matching-CPS-530-UDayton?v=1" %}

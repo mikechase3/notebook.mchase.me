@@ -1,6 +1,7 @@
 # Graph Algorithms
 
-There are lots of graph algorithms.
+Specific applications are under greedy/divide and conquer, network flow, etc. This section is the basics.
+
 * Basic Definitions
 * Graph connectivity/traversal
 * Implementing graph traversal w/ Queues/Stacks
