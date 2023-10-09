@@ -1,6 +1,6 @@
 # Data Structures, Algorithms, Analysis
 
-This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS 350/450/530 classes.&#x20;
+This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS 350/450/530 classes.
 
 ## Purpose
 
@@ -11,7 +11,7 @@ This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS
 5. Make Mike Chase's future interviewing life easier.
 6. I don't know please work Gitfox.
 
-## The Holy Grail of Resources
+## The Holy Grail of External Resources
 
 | Resource        | Content                                                                                                                                                                                                              |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

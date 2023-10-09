@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> **Amortized analysis allows one to estimate the cost `T(n)` of a sequence of `n` operations on a data structure.**&#x20;
+> **Amortized analysis allows one to estimate the cost `T(n)` of a sequence of `n` operations on a data structure.**
 
 > In an **amortized analysis**, we average the time required to perform a sequence of data-structure operations over all the operations performed.
 >
@@ -14,9 +14,9 @@
 
 ### The Goal of Amortized Analysis
 
-We want to show that although some individual operations may be expensive, on average, the cost-per-operation is lower than the cost of those expensive ones.&#x20;
+We want to show that although some individual operations may be expensive, on average, the cost-per-operation is lower than the cost of those expensive ones.
 
-On average, the cost per operation is lower than the cost of those expensive ones. **We want to measure the average cost of operation** instead of the worst case.&#x20;
+On average, the cost per operation is lower than the cost of those expensive ones. **We want to measure the average cost of operation** instead of the worst case.
 
 ### Three Different Approaches
 
@@ -36,13 +36,13 @@ When should we use each one?
 
 ### What are Heaps?
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../../.gitbook/assets/image (13).png>)
 
 > A heap is a binary tree storing keys at its internal nodes and satisfying the following properties:
 
 Min-Heap Properties
 
-* **Heap Order:** Every child node must be larger than the parent node.&#x20;
+* **Heap Order:** Every child node must be larger than the parent node.
 * **Complete Binary Tree**: You have to fill an entire level before moving onto the next level.
 
 ### What is Heap Sort?
@@ -70,7 +70,7 @@ Heap-sort lets you put things in order by using a heap.
 
 ## Aggregate Method: Augmented Stack
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../../.gitbook/assets/image (14).png>)
 
 ### Multipop Method
 
@@ -114,7 +114,7 @@ I don't understand what |S| is, or why it's in an absolute value bracket. She sa
 ### The Aggregate Method
 
 * Show that a sequence of `n` operations takes T(n) time.
-* We can say that the amortized cost per operation **** is then T(n)/n
+* We can say that the amortized cost per operation \*\*\*\* is then T(n)/n
 * Makes no distinction between operation types.
 * T(n) is the time it takes to do `n` operations; and the n is the total operations.
 
@@ -134,8 +134,6 @@ Argument for what?
 
 * So it's talking about any combination of operations.
 * You can do some pushes, some pops, in whatever order you want.
-
-
 
 {% hint style="info" %}
 The goal is to find out the worst-case running time of any `n` operations.
@@ -165,10 +163,10 @@ The maximum amount of work you can do is add `n` elements and remove `n` element
 
 > So time for the entire sequence is O(n) + O(n)
 
-> And amortized cost per operation is  $$O(\frac{2n}{n}) = O(1)$$&#x20;
+> And amortized cost per operation is $$O(\frac{2n}{n}) = O(1)$$
 
 {% hint style="success" %}
-This doesn't tell you the running time of an algorithm, but the average running time of a whole bunch of operations.&#x20;
+This doesn't tell you the running time of an algorithm, but the average running time of a whole bunch of operations.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -196,7 +194,7 @@ Is this an accurate statement? I wrote it myself.
 
 ### Example: Augmented Stack
 
-This example uses the same augmented stack as the example in the last section. Let's take this example and follow the 2-step method I just described above.&#x20;
+This example uses the same augmented stack as the example in the last section. Let's take this example and follow the 2-step method I just described above.
 
 #### Step 1: Assign functions an amortized cost.
 
