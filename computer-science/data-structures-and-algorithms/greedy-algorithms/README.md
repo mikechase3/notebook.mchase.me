@@ -235,7 +235,7 @@ TODO: Review/add these. Go through Dr. K's slides to see an example.
 
 ### Dijkstra & Shortest Paths in Graphs
 
-See also graph algorithms: [BFS & DFS Basics](../graph-algorithms/bfs-and-dfs-basics-l14.md).
+See also graph algorithms: [BFS & DFS Basics](../../graph-algorithms/bfs-and-dfs-basics-l14.md).
 
 * **Requirements**: `G=(V, E)` where edges have positive values. We'll have source `s` and destination `t`. $$l_e$$ is the length of edge `e`.&#x20;
 * **Problem**: find the shortest directed path from s to `t`

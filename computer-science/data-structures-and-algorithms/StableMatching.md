@@ -103,7 +103,7 @@ Another example:
 
 Proof by contradiction?
 
-![](../../../.gitbook/assets/partners.png)
+![](../../.gitbook/assets/partners.png)
 
 ## Representative Problems
 
@@ -129,7 +129,7 @@ One is solvable by a greedy algorith, another by dynamic, one by network flow, t
   * V is a set of vertices
   * E is the set of edges.
 
-![Independent Set Example.png](../../../.gitbook/assets/IndependentSetExample.png)
+![Independent Set Example.png](../../.gitbook/assets/IndependentSetExample.png)
 
 * For example, here the set `{a, c}` is an independent set
 * **Maximal** independent sets mean there are no vertexes we can add to the graph while preserving independence.
