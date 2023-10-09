@@ -23,6 +23,8 @@ This is a collection of notes Mike Chase has prepared for Dr. Zhongmei Yao's CPS
 2. Coursera _Algorithms_ from Princeton and this corresponding [textbook](https://algs4.cs.princeton.edu/home/)
 3. The Data Structure Visualizations link on the sidebar.
 
+
+
 ## Works Cited
 
 Where I've used it is shown at the bottom of each page, if I used it.
