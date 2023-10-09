@@ -1,4 +1,4 @@
-# Matching
+# Stable Matching Problem
 
 For CPS 530 Week 2.
 
@@ -108,8 +108,9 @@ Proof by contradiction?
 ![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ## Representative Problems
-
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Homework & Implementation
 

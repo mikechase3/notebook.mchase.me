@@ -19,8 +19,8 @@
 | [Scheduling](scheduling.md)                           | Done                             |                      |
 | [Mem Mgmt](memory-management.md)                      | Up to 6.1.16                     | 6.1.16               |
 | [IPC](ipc.md)                                         | Up to 6.1.16                     | 6.1.16               |
-## Useful Resources
 
+## Useful Resources
 * MIT[ Operating System](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/pages/lecture-notes-and-readings/) Engineering Notes
 
 | Resource                                                | Caption                                                      |

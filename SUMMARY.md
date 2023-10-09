@@ -248,7 +248,7 @@
       * [Lecture 06: Matrix Multiplication & Fibonacci](computer-science/data-structures-and-algorithms/algorithms/dynamic-programming/lecture-06-dynamic-programming-fundamentals.md)
     * [Greedy Algorithms (L09)](computer-science/data-structures-and-algorithms/algorithms/greedy-algorithms/README.md)
       * [Data Compression](computer-science/data-structures-and-algorithms/algorithms/greedy-algorithms/lecture-04-divide-and-conquer-methodology.md)
-    * [Matching](computer-science/data-structures-and-algorithms/algorithms/matching.md)
+    * [Matching](computer-science/data-structures-and-algorithms/algorithms/StableMatching.md)
     * [Divide and Conquer](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/README.md)
       * [Lecture 05: Divide and Conquer Analysis](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/lecture-05-divide-and-conquer-analysis.md)
       * [5.1 Sort](computer-science/data-structures-and-algorithms/algorithms/divide-and-conquer/5.1-sort.md)
