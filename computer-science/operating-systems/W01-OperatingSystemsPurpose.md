@@ -1,4 +1,4 @@
-# 01 OS Welcome
+# W01 Purpose of Operating Systems
 
 ## Operating System Tasks
 
@@ -8,7 +8,7 @@ The operating system is the interface between the software & hardware.
 2. Enforce working policies (fair resource use/access, impose limits for processes/apps)
 3. Mitigate difficulty of complex tasks (abstract hardware details w/ system calls)
 4. Hides hardware complexity: from developers & applications.
-5. Resource management:&#x20;
+5. Resource management
 6. Provide isolation & protection: for multiple apps co-running on the same hardware.
 7. Also device drivers.
 
@@ -16,7 +16,7 @@ The operating system is the interface between the software & hardware.
 
 ### Abstractions
 
-* Process & threads correspond the to the applications that the OS executes.
+* Process & threads correspond to the applications that the OS executes.
 * To operate on abstractions, the OS may incorporate **mechanisms.**
 
 ### Policies
@@ -25,7 +25,7 @@ The operating system is the interface between the software & hardware.
 
 ## OS Design Principles
 
-1. Separation between mehcanisms and policies.
+1. Separation between mechanisms and policies.
    1. Incorporate into the OS number of flexible mechanisms supporting a range of policies.&#x20;
    2. Mechanism used to track frequency or the time when memory locations have been accessed.
 2. Optimize for the common case:
@@ -37,7 +37,7 @@ The operating system is the interface between the software & hardware.
 
 Computers have at least a user & kernel mode. Operating systems access at the kernel level while applications operate in user mode.
 
-### Priveledged Mode
+### Privileged Mode
 
 1. When in the kernel mode, a special bit is set in the CPU and if the bit is set, any instructions that directly manipulate hardware is permitted to execute.
 2. When in user mode, the bit isn't set so privileged operations are forbidden.
@@ -46,16 +46,16 @@ Computers have at least a user & kernel mode. Operating systems access at the ke
 ### System Call Interface
 
 * Rather than applications interfacing with hardware, it'll invoke a system call
-* On a system call, control is passed to the operaing system, in priveledged mode, and the OS will perform the operation and return the result to the process.
+* On a system call, control is passed to the operating system, in priveledged mode, and the OS will perform the operation and return the result to the process.
 * To make a system call, an application must:
   * Write arguments
-  * Save all relavant data at a well-defined location
-  * Make the actual sys calll using this specific system call number & make the call.
+  * Save all relevant data at a well-defined location
+  * Make the actual sys call using this specific system call number & make the call.
 
 ### Crossing the OS Boundary
 
 1. Making system calls is expensive. You use more memory locations & must pass arguments back/forth which is expensive for memory.&#x20;
-2. If you want to build an optimiztaion, try and reduce the number of system calls.
+2. If you want to build an optimization, try and reduce the number of system calls.
 
 
 
@@ -103,9 +103,9 @@ Now, the operating system isn't this one piece of software but rather it's a bun
 
 ## Scrap Quiz
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 
 

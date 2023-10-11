@@ -12,13 +12,14 @@
 
 1. Course videos are stashed in `MikeChase\Active Documents\2023\Career\Education\CPS 536 Operating Systems Fall23`
 
-| Subtopic                                              | Flashcard Status                 | Retyped Notes Status |
-|-------------------------------------------------------|----------------------------------|----------------------|
-| [Process & Process Management](ProcessManagement.md)  | Completed. Yellow Deck.          |                      |
-| [Threads and Concurrency](threads-and-concurrency.md) | Missing parts of 3, parts of 4-2 |                      |
-| [Scheduling](scheduling.md)                           | Done                             |                      |
-| [Mem Mgmt](memory-management.md)                      | Up to 6.1.16                     | 6.1.16               |
-| [IPC](ipc.md)                                         | Up to 6.1.16                     | 6.1.16               |
+| Subtopic                                                          | Flashcard Status                 | Retyped Notes Status |
+|-------------------------------------------------------------------|----------------------------------|----------------------|
+| [W01 OS Purposes and Motivation](W01-OperatingSystemsPurpose.md)  | Completed.                       | Completed.           |
+| [W01 Process & Process Management](W01-ProcessManagement.md)      | Completed. Yellow Deck.          | Completed.           |
+| [W02-W04 Threads and Concurrency](W02-threads-and-concurrency.md) | Missing parts of 3, parts of 4-2 | Incomplete.          |
+| [W05 Scheduling](W05-Scheduling.md)                               | Done                             | Incomplete.          |
+| [W06 Mem Mgmt](W06-MemoryManagement.md)                           | Up to 6.1.16                     | 6.1.16               |
+| [W07 IPC](W07-IPC.md)                                             | Complete?                        | 6.1.16               |
 
 ## Useful Resources
 * MIT[ Operating System](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/pages/lecture-notes-and-readings/) Engineering Notes

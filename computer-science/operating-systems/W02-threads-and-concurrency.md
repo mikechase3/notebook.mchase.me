@@ -105,7 +105,7 @@ Sometimes, we don't have a clear result. In the case below, the list could come 
 <figure><img src="../../.gitbook/assets/image (588).png" alt=""><figcaption><p>This example shows how we create threads in code.</p></figcaption></figure>
 
 {% hint style="info" %}
-Don't confuse this `Fork` code with the one in [process mgmt.](ProcessManagement.md)
+Don't confuse this `Fork` code with the one in [process mgmt.](W01-ProcessManagement.md)
 {% endhint %}
 
 * **Fork**: doesn't create a new process this time, but instead a thread passing along the thread data structure.

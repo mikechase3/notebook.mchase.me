@@ -333,18 +333,18 @@
   * [GitLab CICD Pipeline](computer-science/senior-year-capstone/gitlab-cicd-pipeline.md)
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
-    * [01 OS Welcome](computer-science/operating-systems/cps-536-os/01-os.md)
+    * [01 OS Welcome](computer-science/operating-systems/W01-OperatingSystemsPurpose.md)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
-  * [Inter Process CMM](computer-science/operating-systems/ipc.md)
-  * [Memory Management](computer-science/operating-systems/memory-management.md)
+  * [Inter Process CMM](computer-science/operating-systems/W07-IPC.md)
+  * [Memory Management](computer-science/operating-systems/W06-MemoryManagement.md)
   * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
-  * [Processes & Process Management](computer-science/operating-systems/ProcessManagement.md)
-  * [Scheduling](computer-science/operating-systems/scheduling.md)
+  * [Processes & Process Management](computer-science/operating-systems/W01-ProcessManagement.md)
+  * [Scheduling](computer-science/operating-systems/W05-Scheduling.md)
   * [Semaphores](computer-science/operating-systems/something-new.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
-  * [Threads and Concurrency](computer-science/operating-systems/threads-and-concurrency.md)
+  * [Threads and Concurrency](computer-science/operating-systems/W02-threads-and-concurrency.md)
 
 ## 🐍 Development
 
@@ -628,6 +628,7 @@
   * [Copyright](law/emerging-legal-issues-in-compsci-2023/copyright.md)
   * [Patent Law](law/emerging-legal-issues-in-compsci-2023/patent-law.md)
   * [Trademark Law](law/emerging-legal-issues-in-compsci-2023/trademarks.md)
+  * [Trade Secret](/law/emerging-legal-issues-in-compsci-2023/trade-secrets.md)
 
 ## 🌴 Leisure
 
