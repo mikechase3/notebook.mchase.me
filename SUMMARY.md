@@ -274,7 +274,7 @@
     * [L14](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-14.md)
     * [L16](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
     * [TopSort](computer-science/data-structures-and-algorithms/graph-algorithms/topological-sorting.md)
-    * [Weighted Graphs](computer-science/data-structures-and-algorithms/graph-algorithms/weighted-graphs-l13.md)
+    *
   * [Greedy Techniques](computer-science/data-structures-and-algorithms/greedy-techniques/README.md)
     * [Data Compression](computer-science/data-structures-and-algorithms/greedy-techniques/lecture-04-divide-and-conquer-methodology.md)
     * [Stable Matching Problem](computer-science/data-structures-and-algorithms/StableMatching.md)
