@@ -274,7 +274,6 @@
     * [L14](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-14.md)
     * [L16](computer-science/data-structures-and-algorithms/graph-algorithms/lecture-16-single-source-paths-dijkstras-algorithm.md)
     * [TopSort](computer-science/data-structures-and-algorithms/graph-algorithms/topological-sorting.md)
-    *
   * [Greedy Techniques](computer-science/data-structures-and-algorithms/greedy-techniques/README.md)
     * [Data Compression](computer-science/data-structures-and-algorithms/greedy-techniques/lecture-04-divide-and-conquer-methodology.md)
     * [Stable Matching Problem](computer-science/data-structures-and-algorithms/StableMatching.md)
@@ -628,7 +627,7 @@
   * [Copyright](law/emerging-legal-issues-in-compsci-2023/copyright.md)
   * [Patent Law](law/emerging-legal-issues-in-compsci-2023/patent-law.md)
   * [Trademark Law](law/emerging-legal-issues-in-compsci-2023/trademarks.md)
-  * [Trade Secret](/law/emerging-legal-issues-in-compsci-2023/trade-secrets.md)
+  * [Trade Secret](law/emerging-legal-issues-in-compsci-2023/trade-secrets.md)
 
 ## 🌴 Leisure
 
