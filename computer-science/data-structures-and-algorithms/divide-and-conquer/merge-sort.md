@@ -1,8 +1,0 @@
-# Merge Sort
-
-## Merge Sorting
-
-* Given `n` elements, rearrange in ascending order.
-* **Applications**: sorting MP3 library, display ranks, find median, computer graphics/biology, book recommendations.
-
-##
