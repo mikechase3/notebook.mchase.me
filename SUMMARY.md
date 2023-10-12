@@ -256,6 +256,7 @@
   * [CPS 450 Overview](computer-science/data-structures-and-algorithms/cps450-overview.md)
   * [CPS 530 Syllabus](computer-science/data-structures-and-algorithms/cps-530.md)
   * [Data Structure Visualizations](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html)
+  * [Data Struct Viz P2](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
   * [Divide and Conquer Technique](computer-science/data-structures-and-algorithms/divide-and-conquer/README.md)
     * [Merge Sort](computer-science/data-structures-and-algorithms/divide-and-conquer/lecture-04-divide-and-conquer.md)
   * [Dynamic Programming](computer-science/data-structures-and-algorithms/dynamic-programming/dynamic-programming.md)
