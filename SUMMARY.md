@@ -628,6 +628,7 @@
   * [Patent Law](law/emerging-legal-issues-in-compsci-2023/patent-law.md)
   * [Trademark Law](law/emerging-legal-issues-in-compsci-2023/trademarks.md)
   * [Trade Secret](law/emerging-legal-issues-in-compsci-2023/trade-secrets.md)
+  * [Cyber Crime](law/emerging-legal-issues-in-compsci-2023/cyber-crime.md)
 
 ## 🌴 Leisure
 
