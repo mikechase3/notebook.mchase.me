@@ -1,8 +1,6 @@
 # CPS 530 Syllabus
 
-
-
-![CPS530 Syllabus](../../.gitbook/assets/cps530Syllabus.png)
+![CPS530 Syllabus](../../../.gitbook/assets/cps530Syllabus.png)
 
 ## Design Considerations
 
@@ -11,8 +9,8 @@
 * **Practice**: overcome intractability via approximation & improve performance through randomization.
 
 ## Representative Problems
-There are five problems that are variations of the independent-set problem. 
-One is solvable by a greedy algorithm, another by dynamic, one by network flow, the independent set problem itself (which is NP complete), and one is PSPACE-complete.
+
+There are five problems that are variations of the independent-set problem. One is solvable by a greedy algorithm, another by dynamic, one by network flow, the independent set problem itself (which is NP complete), and one is PSPACE-complete.
 
 ### On Independent Sets
 
@@ -30,7 +28,7 @@ One is solvable by a greedy algorithm, another by dynamic, one by network flow, 
   * V is a set of vertices
   * E is the set of edges.
 
-![Independent Set Example.png](../../.gitbook/assets/IndependentSetExample.png)
+![Independent Set Example.png](../../../.gitbook/assets/IndependentSetExample.png)
 
 * For example, here the set `{a, c}` is an independent set
 * **Maximal** independent sets mean there are no vertexes we can add to the graph while preserving independence.
@@ -41,7 +39,8 @@ One is solvable by a greedy algorithm, another by dynamic, one by network flow, 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Other Representative Problems
-* [Interval scheduling](computer-science/data-structures-and-algorithms/greedy-algorithms/interval-scheduling.md)
+
+* [Interval scheduling](../computer-science/data-structures-and-algorithms/greedy-algorithms/interval-scheduling.md)
 * Weighted Interval Scheduling
 * Bipartite Matching
 * Independent Set (NP Complete, Describe above)

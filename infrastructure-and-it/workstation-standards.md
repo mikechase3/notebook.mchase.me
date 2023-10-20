@@ -111,7 +111,7 @@ fi
 
 **Manage**
 
-1.
+1. ***
 
 **Productivity**
 
@@ -192,7 +192,7 @@ Menubar should be setup like this. Everything to the left of "new items here" is
 {% endtab %}
 
 {% tab title="Noteworthy" %}
-
+***
 
 * **Better Touch Tool**
 * **Install Setapp:** Get the favorited apps. (Warning: heavily decreases security?)
