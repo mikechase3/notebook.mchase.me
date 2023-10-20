@@ -341,6 +341,7 @@
   * [Processes & Process Management](computer-science/operating-systems/W01-ProcessManagement.md)
   * [Scheduling](computer-science/operating-systems/W05-Scheduling.md)
   * [Semaphores](computer-science/operating-systems/something-new.md)
+  * [W09 Sync Constructs](computer-science/operating-systems/W09-Sync-Constructs.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
   * [Threads and Concurrency](computer-science/operating-systems/W02-threads-and-concurrency.md)
