@@ -175,6 +175,6 @@ That's concerned with evaluative theories of law.&#x20;
 3. Sources of influence like elected officials.
 4. Common Law **Stare Decisis** (Stare Decisis: term for whatever the previous courts did, you do that).
 5. Civil Law: codified core principles
-
-
+6. CCPA: (California Code? Privacy Act)
+7. GDPR (Europe)
 
