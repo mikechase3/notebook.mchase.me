@@ -1,4 +1,6 @@
 # Trademarks
+
+## Lecture
 * Trademarks protect your identifiers.
 * Trademarks are usually country-wide.
   * You can get state patents & trademarks.

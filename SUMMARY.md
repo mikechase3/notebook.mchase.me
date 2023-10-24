@@ -341,6 +341,7 @@
   * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
   * [Processes & Process Management](computer-science/operating-systems/W01-ProcessManagement.md)
   * [Scheduling](computer-science/operating-systems/W05-Scheduling.md)
+  * [Synchornization Constructs](computer-science/operating-systems/synchornization_constructs.md)
   * [Semaphores](computer-science/operating-systems/something-new.md)
   * [W09 Sync Constructs](computer-science/operating-systems/W09-Sync-Constructs.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)

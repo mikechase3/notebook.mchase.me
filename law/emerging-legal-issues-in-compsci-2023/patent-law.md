@@ -81,8 +81,17 @@ The general standard is to ask if it would be obvious to a person with an ordina
 
 ## Readings
 
+### How to get a patent
 {% embed url="https://docs.google.com/document/d/1GgWQvLQhyIhedRDO_QP4LYnTcfzoLvIL68NUI58piqo/edit?mode=html" %}
+* **Patents are property rights** governing inventors to forbid others from using it for 20yrs. 
+* There are four types:
+  1. **Utility patents** protect inventions that have a specific function.
+  2. **Design patents** protect non-functional parts like shape/aesthetics
+  3. **Plant patent**: protects plants that an inventor created/discovered/reproduced
+  4. A software patent protects software.
+* Costs about $300 to file and $5-16K in attorney fees as of 2022.
 
+### Internet & Tech Laws On Trade Secrets/Patents
 {% embed url="https://drive.google.com/file/d/1O6fEuRHDBTS19oYFzgI15FfjCNnxcUgH/view" %}
 
 ## Videos
