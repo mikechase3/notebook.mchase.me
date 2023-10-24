@@ -8,8 +8,6 @@ description: >-
 
 ## Before Class
 
-###
-
 And so on
 
 {% embed url="https://gizmodo.com/are-we-already-living-in-a-tech-dystopia-1844824718" %}
@@ -43,7 +41,9 @@ And so on
 * He's got 26 topics. We'll pick a partner on week-7.
 * Quizlet sets are built-into the schedule.
 
-### Internet of Things
+{% embed url="https://docs.google.com/document/d/15F3gexUZo8GMm5y3Wjs6h2FqeyOp8f6Axnb3qCm5-cI/edit#heading=h.j3ybi0bpzeda" %}
+
+Internet of Things
 
 * IOT Has Benefits
   * Economic Efficiency

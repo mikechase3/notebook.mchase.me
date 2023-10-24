@@ -1,5 +1,9 @@
 # Cyber Crime
 
+{% embed url="https://docs.google.com/presentation/d/1AZTpjuIWcb--Xi7-SAlhTqABZE2ZQ1Bx/edit?rtpof=true&sd=true" %}
+
+{% embed url="https://quizlet.com/818326933/eliit-cybercrime-flash-cards/?i=2e7en0&x=1jqt" %}
+
 ## Opening Facts
 
 * California is the state with the largest amount of cybercrime losses in 2021.
@@ -58,3 +62,24 @@ Harvard was quite mad. They weren't offering him a plea deal during the process 
 ### India Act of 2000
 
 We'll do this on Friday when we get back. He'll do some stories of cybercrime. We'll do the quiz on trademarks & trade secrets. We'll continue cybercrime & do the quiz that week.
+
+## Ashley Madison Lab
+
+{% embed url="https://docs.google.com/document/d/1wTIvNk9ekXn4Zu6pStnW9SHsrEwfWJ-TwtdExroU9VQ/edit" %}
+
+## Readings
+
+{% embed url="https://drive.google.com/file/u/1/d/11IJXilerbjXdOfjMO-ro0mZ693o7K9KE/view?usp=sharing" %}
+
+## Videos
+
+{% embed url="https://www.youtube.com/watch?v=-FENubmZGj8&feature=youtu.be" %}
+
+{% embed url="https://www.youtube.com/watch?v=Sgs6idCKTkE&feature=youtu.be" %}
+
+{% embed url="https://www.youtube.com/watch?v=BQ_JrFgUTKI&feature=youtu.be" %}
+
+{% embed url="https://www.youtube.com/watch?v=4Xo9wu8Sskk&feature=youtu.be" %}
+
+{% embed url="https://www.youtube.com/watch?v=DelwG1pTDv0&feature=youtu.be" %}
+
