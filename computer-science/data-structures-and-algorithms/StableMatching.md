@@ -45,7 +45,7 @@ algorithm stable_matching:
 
 ## Scrap Notes
 
-<figure><img src="../../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
 
 ## Class Notes
 
@@ -55,11 +55,11 @@ algorithm stable_matching:
 
 ### Brute Force Approach
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 Another example:
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 ## How to Prove Correctness
 
@@ -97,7 +97,7 @@ Another example:
 
 ### Proof that women get the worse deal
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Unorganized
 
@@ -105,12 +105,8 @@ Proof by contradiction?
 
 ![](../../.gitbook/assets/partners.png)
 
-
 ## Homework & Implementation
 
-Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir. I took the non-report aspects of the code & put it on Replit; however, there are optimized implementations online elsewhere that don't use my `Person` class and just use straight-up lists.&#x20;
+Search my hashmap for `MatchingCPS530` folder. It's currently sitting in the default PyCharm project dir. I took the non-report aspects of the code & put it on Replit; however, there are optimized implementations online elsewhere that don't use my `Person` class and just use straight-up lists.
 
 {% embed url="https://replit.com/@mikechase3/Stable-Matching-CPS-530-UDayton?v=1" %}
-
-
-
