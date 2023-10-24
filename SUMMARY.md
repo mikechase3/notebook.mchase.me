@@ -528,7 +528,9 @@
   * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
   * [Tips for Kids](education/teaching-code/tips-for-kids.md)
   * [Feedback](education/teaching-code/feedback.md)
-* [UD](education/ud.md)
+* [UD](education/ud/README.md)
+  * [Employment @ UD](https://employment.udayton.edu/en-us/listing/?pagenotfound=true)
+  * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
 * [Pearson Request](https://app.smartsheet.com/b/form/68610eab22b34a2e8f4032519adbaf65)
 
 ## 🎥 Entertainment
