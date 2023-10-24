@@ -20,13 +20,3 @@ In sorting algorithms, sometimes we divide arrays into smaller arrays so we can 
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Divide and Conquer .png" alt=""><figcaption></figcaption></figure>
-
-
-## Methods for Solving Recurrences
-1. Use substituition and mathematical induction.
-2. Use a recursion tree.
-3. Use the master theorem.
-
-### Master Theorem
-* Every recursive call has to have the same reduction factor
-* `T(n)=aT(n/b)+f(n)` 
