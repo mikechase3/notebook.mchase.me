@@ -535,6 +535,9 @@
   * [Employment @ UD](https://employment.udayton.edu/en-us/listing/?pagenotfound=true)
   * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
 * [Pearson Request](https://app.smartsheet.com/b/form/68610eab22b34a2e8f4032519adbaf65)
+* [DAF](education/daf/README.md)
+  * [Hoopla](https://www.hoopladigital.com/my/hoopla)
+  * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
 
 ## 🎥 Entertainment
 
