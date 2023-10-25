@@ -202,6 +202,7 @@
     * [Better-Cursors](http://www.michieldb.nl/other/cursors/)
     * [DOD CAs & PKIE Tools](https://public.cyber.mil/pki-pke/tools-configuration-files/)
     * [Visual Studio](computer-help/misc-software/visual-studio.md)
+    * [Office 365 Apps 2023 Video](https://www.youtube.com/watch?v=LmKUxgSIADU)
   * [Stupid](computer-help/windows/stupid/README.md)
     * [Internet Explorer](https://lagplorer.tms.sx/?27y)
   * [XP Setup](computer-help/windows/xp-setup/README.md)
