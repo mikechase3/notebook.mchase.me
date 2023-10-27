@@ -67,7 +67,36 @@ We'll do this on Friday when we get back. He'll do some stories of cybercrime. W
 
 {% embed url="https://docs.google.com/document/d/1wTIvNk9ekXn4Zu6pStnW9SHsrEwfWJ-TwtdExroU9VQ/edit" %}
 
+### Honey Pots
+
+* Creates virtual traps&#x20;
+* Not legal?
+
+### Hack Backs
+
+* This is still illegal.
+* It looks pretty ethical to "hack-back" someone who hacked me.&#x20;
+* Anything you collect through 'your own servers' is okay.&#x20;
+* Under the CFAA act, it's still illegal to hack-back.
+* Potentially, you could hack back into the wrong server or the people hacking you are a part of a larger organizatoin and you do some damage to an innocent party or a facility or get some information that makes a former adversary look vulnerable. It can be seen as an "act of war." For example, if you do a hack-back as GE to some cybercriminals in China, that can be seen as a cyber assault on behalf of the US against China.
+* Under the India Act, it's illegal too.
+
+
+
 ## Readings
+
+### The Love Bug Virus
+
+* The text said "check your email" and there was a file that said `love-letter-for-you` and nobody has seen a virus before so people clicked on it.&#x20;
+* From the Philipines.
+* As soon as you opened that attachment, it would try to send that email/text to fifty more people.
+* The student wanted someone else's password to AOL so he could get online.&#x20;
+* He first tested it out in AOL chat-rooms and thought that if he told someone he'd love them that was the most likely what would interact with him.
+* It **emailed back stolen passwords to him**.
+* Half of the students in the US and 45 million machines worldwide did some **large-scale economic damage**.&#x20;
+* He wasn't prosecuted. The Philippines had no law at the time that was appropriate for computer hacking so he didn't violate any laws.&#x20;
+
+### Cybersecurity Primer
 
 {% embed url="https://drive.google.com/file/u/1/d/11IJXilerbjXdOfjMO-ro0mZ693o7K9KE/view?usp=sharing" %}
 
