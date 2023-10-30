@@ -642,6 +642,7 @@
   * [Trademark Law](law/emerging-legal-issues-in-compsci-2023/trademarks.md)
   * [Trade Secret](law/emerging-legal-issues-in-compsci-2023/trade-secrets.md)
   * [Cyber Crime](law/emerging-legal-issues-in-compsci-2023/cyber-crime.md)
+  * [Intermediary Liability & Free Speech](law/emerging-legal-issues-in-compsci-2023/intermediary-liability-and-free-speech.md)
 
 ## 🌴 Leisure
 
