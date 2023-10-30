@@ -1,4 +1,4 @@
-# W01 Purpose of Operating Systems
+# 01 OS Welcome
 
 ## Operating System Tasks
 
@@ -26,7 +26,7 @@ The operating system is the interface between the software & hardware.
 ## OS Design Principles
 
 1. Separation between mechanisms and policies.
-   1. Incorporate into the OS number of flexible mechanisms supporting a range of policies.&#x20;
+   1. Incorporate into the OS number of flexible mechanisms supporting a range of policies.
    2. Mechanism used to track frequency or the time when memory locations have been accessed.
 2. Optimize for the common case:
    1. Where will the OS be used?
@@ -54,10 +54,8 @@ Computers have at least a user & kernel mode. Operating systems access at the ke
 
 ### Crossing the OS Boundary
 
-1. Making system calls is expensive. You use more memory locations & must pass arguments back/forth which is expensive for memory.&#x20;
+1. Making system calls is expensive. You use more memory locations & must pass arguments back/forth which is expensive for memory.
 2. If you want to build an optimization, try and reduce the number of system calls.
-
-
 
 ## Types of OS
 
@@ -68,7 +66,7 @@ A **monolithic kernel** is a single large process running entirely in a single a
 * **Benefits**: everything is packaged at the same time. There are compile-time optimizations.
 * **Downsides**: too much state & code that's hard to maintain, debug, and upgrade.
 * Since the device drivers reside in the kernel space, it makes monlothic kernels less secure/stable.
-* **Examples**: early Linux.&#x20;
+* **Examples**: early Linux.
 
 ### Microkernel OS
 
@@ -80,14 +78,14 @@ A **monolithic kernel** is a single large process running entirely in a single a
 
 Now, the operating system isn't this one piece of software but rather it's a bunch of modules. Once you boot it up, different applicatoins require different modules. If there's another module thta is needed, it's going to bring it in & serve the application.
 
-**Pros**:&#x20;
+**Pros**:
 
 * You can easily customize which particular file system or schedule the OS uses. Just bring up the corresponding module.
 * Allows the administrator to add functionality only when it's required.
 * Decreases boot itme because you don't have to load everything at once.
 * Faster development time because the components operate independently.
 
-**Cons**:&#x20;
+**Cons**:
 
 * Less security/reliability compared to a microkernel becuase components change.
 
@@ -99,14 +97,12 @@ Now, the operating system isn't this one piece of software but rather it's a bun
 
 * Core is a microkernel, it's a type 2 operating system.
 * Kernel level is like Linux.
-* Driver's modules and kernel modules can be dynamically loaded into the kernel.&#x20;
+* Driver's modules and kernel modules can be dynamically loaded into the kernel.
 
 ## Scrap Quiz
 
-<figure><img src="../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 More

@@ -6,7 +6,7 @@ description: Easy, Beginner Level Cards
 
 ## Inspiration
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I'm considering making a flashcard deck for the team. The bolded headings would be the "term" and the body is on the back.
 
@@ -28,7 +28,7 @@ Initialized empty Git repository in /root/commit-exercise/.git/
 
 When you initialize git, it creates a `.git` folder in the folder you've initialized that creates specific files needed for revision history:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Committing
 

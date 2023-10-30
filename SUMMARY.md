@@ -202,6 +202,7 @@
     * [Better-Cursors](http://www.michieldb.nl/other/cursors/)
     * [DOD CAs & PKIE Tools](https://public.cyber.mil/pki-pke/tools-configuration-files/)
     * [Visual Studio](computer-help/misc-software/visual-studio.md)
+    * [Office 365 Apps 2023 Video](https://www.youtube.com/watch?v=LmKUxgSIADU)
   * [Stupid](computer-help/windows/stupid/README.md)
     * [Internet Explorer](https://lagplorer.tms.sx/?27y)
   * [XP Setup](computer-help/windows/xp-setup/README.md)
@@ -260,6 +261,8 @@
   * [Data Struct Viz P2](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
   * [Divide and Conquer Technique](computer-science/data-structures-and-algorithms/divide-and-conquer/README.md)
     * [Merge Sort](computer-science/data-structures-and-algorithms/divide-and-conquer/lecture-04-divide-and-conquer.md)
+    * [Methods for Solving Recurrences](computer-science/data-structures-and-algorithms/divide-and-conquer/methods-for-solving-recurrences.md)
+    * [Fourier Transform](computer-science/data-structures-and-algorithms/divide-and-conquer/fourier-transform.md)
   * [Dynamic Programming](computer-science/data-structures-and-algorithms/dynamic-programming/dynamic-programming.md)
     * [Lecture 06: Matrix Multiplication & Fibonacci](computer-science/data-structures-and-algorithms/dynamic-programming/lecture-06-dynamic-programming-fundamentals.md)
     * [Weighted Interval Scheduling](computer-science/data-structures-and-algorithms/dynamic-programming/weighted-interval-scheduling.md)
@@ -341,7 +344,7 @@
   * [OS Song](https://www.youtube.com/watch?v=FGwevyxoycw)
   * [Processes & Process Management](computer-science/operating-systems/W01-ProcessManagement.md)
   * [Scheduling](computer-science/operating-systems/W05-Scheduling.md)
-  * [Synchornization Constructs](computer-science/operating-systems/synchornization_constructs.md)
+  * [Synchornization Constructs](computer-science/operating-systems/synchornization\_constructs.md)
   * [Semaphores](computer-science/operating-systems/something-new.md)
   * [W09 Sync Constructs](computer-science/operating-systems/W09-Sync-Constructs.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
@@ -533,6 +536,10 @@
   * [Employment @ UD](https://employment.udayton.edu/en-us/listing/?pagenotfound=true)
   * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
 * [Pearson Request](https://app.smartsheet.com/b/form/68610eab22b34a2e8f4032519adbaf65)
+* [DAF](education/daf/README.md)
+  * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
+  * [Hoopla](https://www.hoopladigital.com/my/hoopla)
+  * [Percepio](https://usaf.percipio.com/)
 
 ## 🎥 Entertainment
 
@@ -641,6 +648,8 @@
 * [Gem City Catfe](leisure/gem-city-catfe.md)
 * [Kiwiah Beach Cam](https://kica.us/beach-cam/)
 * [Shopping](leisure/page-2.md)
+* [Trip Logs](leisure/trip-logs/README.md)
+  * [MI Weekend Trip](leisure/trip-logs/mi-weekend-trip.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
