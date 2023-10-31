@@ -136,3 +136,9 @@ How do we convert coefficient form to point value? That's the goal of this.
 
 {% embed url="https://www.youtube.com/watch?v=1BjDKRrR8-E" %}
 
+### Polynomial Multiplication
+
+* **Theorem**: we can multiply two degree n-1 polynomials in O(n\*log(n)) steps.
+* Convert coefficient to point-value -> n \* log(n)
+* Then point value multiplication is -> O(n)
+* Inverse FFT -> O(n log(n))
