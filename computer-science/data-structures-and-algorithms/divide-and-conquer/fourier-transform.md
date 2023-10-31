@@ -86,3 +86,53 @@ Reduces the number of bits & is lossless.
 ### Horner's Method
 
 {% embed url="https://www.youtube.com/watch?v=RGrmEWj38bs" %}
+
+### Factoring Polynomials
+
+* The **degree** is the highest `x`.
+* $$A(x): (x_0, y_0), ..., (x_{n-1}, y_{n-1})$$
+
+There's a lot more here I didn't really get & need to review hard with Bard or something.
+
+### Converting Between Polynomial Representations
+
+| Representation | Multiply | Evaluate |
+| -------------- | -------- | -------- |
+| Coefficient    | O(n^2)   | O(n)     |
+| Point Value    | O(n)     | ?        |
+
+### Fast Fourier Transform
+
+How do we convert coefficient form to point value? That's the goal of this.
+
+1. **Divide:** break the polynomial up into even and odd powers.
+2. **Intuition:** choose two points to be +-1.
+
+### Coefficient to Point-Value Representation
+
+#### Intuition Slide
+
+<figure><img src="../../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
+
+#### The "Fun Part"
+
+* The cost is the same with A(x)=A\_even(x^2)+x(A\_odd x^2)
+* We don't have to re-execute because we have a value obtained in some operation.&#x20;
+* Just **multiply** things by **-x**.
+
+<figure><img src="../../../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+
+### Discrete Fourier Transform
+
+* **Key idea:** Choose $$x_k=\omega \texttt{TODO FIND THIS!}$$
+* **Roots of Unity**: a complex number `x` such that x^n=1
+  * Explained by Euler's Identity.
+
+{% embed url="https://www.youtube.com/watch?v=0r2qGONXTa4" %}
+
+<figure><img src="../../../.gitbook/assets/image (674).png" alt=""><figcaption></figcaption></figure>
+
+### Tutorial: Nth roots of unity
+
+{% embed url="https://www.youtube.com/watch?v=1BjDKRrR8-E" %}
+
