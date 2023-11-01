@@ -43,7 +43,7 @@
 * [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
 * [UCSC Tech Music Essays](av/equipment.md)
 * [Video Editing](av/page-7/README.md)
-  * [Hermet LTT Video Editor Tutorial](https://www.youtube.com/watch?v=O6ERELse\_QY)
+  * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse\_QY)
 
 ## 💼 Business/Mgmt <a href="#business" id="business"></a>
 
