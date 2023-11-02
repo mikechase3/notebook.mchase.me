@@ -263,6 +263,7 @@
     * [Merge Sort](computer-science/data-structures-and-algorithms/divide-and-conquer/lecture-04-divide-and-conquer.md)
     * [Methods for Solving Recurrences](computer-science/data-structures-and-algorithms/divide-and-conquer/methods-for-solving-recurrences.md)
     * [Fourier Transform](computer-science/data-structures-and-algorithms/divide-and-conquer/fourier-transform.md)
+    * [Quick Sort](computer-science/data-structures-and-algorithms/divide-and-conquer/quick-sort.md)
   * [Dynamic Programming](computer-science/data-structures-and-algorithms/dynamic-programming/dynamic-programming.md)
     * [Lecture 06: Matrix Multiplication & Fibonacci](computer-science/data-structures-and-algorithms/dynamic-programming/lecture-06-dynamic-programming-fundamentals.md)
     * [Weighted Interval Scheduling](computer-science/data-structures-and-algorithms/dynamic-programming/weighted-interval-scheduling.md)
