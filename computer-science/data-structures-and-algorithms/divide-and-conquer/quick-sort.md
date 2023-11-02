@@ -79,4 +79,5 @@ When we analyze the running time of recurrence functions, we do so using piecewi
 
 ![An example of a piecewise function defining the running time.](../../../.gitbook/assets/recurrence-function-time-example.jpg)
 
-##
+{% embed url="https://www.youtube.com/watch?v=aXXWXz5rF64" %}
+
