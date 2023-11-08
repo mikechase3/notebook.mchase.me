@@ -81,3 +81,70 @@
 * Tesla's statements were conflicting
 * Tesla's full self-driving costs $15K in hardware and $200/month for full self-driving.
 
+### Negligence
+
+1. You have a duty not to harm others.
+2. You must breach that duty.
+3. That breach causes harm.
+4. Causation is established and has negative consequences.
+
+Tesla & Ford are really in charge of putting the components together. But if it's an emerging technology, it's a group of folks. They might buy software from company A and car body from B and as a team process, you put it all together. So when you're suing, we normally don't. We sue Ford who put the car together if the tire is screwed up not the tire company.&#x20;
+
+While we have familairity with risks, it's hard to acknowledge the risk of a driverless car.&#x20;
+
+#### Driverless Cars
+
+New Hampshire & crosswalks. If a padestrian is crossing, you'll get ticketed if you don't give the pedestrian the right of way. It's expected you'll walk right out in the middle of the road.&#x20;
+
+But with AI, the padestrians don't know if it's driverless or not. With a train, we know how a train is going to act. With a human driving a car, I have some sort-of reasonable expectation as to what'll happen & what won't.&#x20;
+
+## Tesla Removes Ultrasonic Sensors for Cameras
+
+{% embed url="https://medium.com/tech-topics/why-tesla-is-removing-ultrasonic-sensors-from-new-vehicles-179ef6f130b1" %}
+
+### Autonomous Vehicles
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Wikimedia Commons</p></figcaption></figure>
+
+### News Headlines
+
+* Currently at the time of writing, we have some level-3 automation, but not level 4/5. There's a DARPA challenge with a $1M prize where a car has to go 142 miles in a rugged course. Finally, when they added 360-degree lidar sensors (radar but light to create a 3D mapping of objects around it), it was able to pass.&#x20;
+  * With some exceptions, LIDAR is huge & amazing, but it's expensive. Carnegie Melon was able to complete the course in 4 hours in DARPA 2007 challenge (which was their last).
+* There was a road accident where a Google AV crashed into a bus at 2mph. They figured it was because of the reflective nature.
+* In 2018, an Uber AV was watching a movie that was confirmed by a camera in the uber. They're on the line for negligence-murder charges were brought against the backup driver, but not against Uber. A trial was set for Jun 2023. &#x20;
+  * There hasn't been a lot of accidents with the loss of a human life, but this was one of them.&#x20;
+* When cars first came out, they almost wanted to put the kabab on cars on roads because of how dangerous they were & we were just going and stick to horses.
+
+### Lidar is Important
+
+* Sonar is very short range & works for quick stoppping.
+* Cameras are alright, but don't work for poor conditions like rainy weather.
+* Lidar works at a further range
+
+Typically, all of these sensors work together, but if Tesla is removing Lidar equipment to mostly cameras are they creating unnecessary risk?&#x20;
+
+Due to **cost**, Tesla is going to remove other sensors like Lidar. Lidar goes 100m and can 3D map and \*differentiate between obstacles\*. While it's very expensive right now (maybe $60-100/sensor?), it does a darn good job. And most importantly **with lidar, the weather does not affect what it senses**.&#x20;
+
+### Other Inputs
+
+* Sonar is good for short range stops/notices.
+* GPS
+* And more go into the AI.
+
+### Cybersecurity
+
+* If driverless cars are widely adopted, the ability for a cyberterrorist to do a large amount of damage.
+* Researchers from University of California to hack a jeep including disabling the engine and breaks.
+
+### Elements to Sue for Design Defects
+
+1. Did I design this item in an _unreasonable/dangerous way._&#x20;
+2. We'd normally bring expert witnesses to say how my item would've said it should've been built.
+3. Now, let's say you've built a product, how do you know if it works? There must be a quality standard.&#x20;
+
+When it comes to driverless cars, we're still in the testing phase. We have driverless cars in just a few cities. Even level 2, it's failing.&#x20;
+
+We should have **redundancy even though it's more defective?** is one argument.&#x20;
+
+**Tesla:** has backed away. We might see a product defect claim for making a car that people can say unanimously to say that only having cameras was "reasonable."&#x20;
+
