@@ -535,6 +535,8 @@
 * [UD](education/ud/README.md)
   * [Employment @ UD](https://employment.udayton.edu/en-us/listing/?pagenotfound=true)
   * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
+  * [UD Stu Discounts](https://docs.google.com/spreadsheets/d/1bnw-46Tm\_3PdFD6EXIhHwArfNsQX4DNUFPog2\_CNjQA/edit#gid=0)
+  * [Student Orgs](education/ud/student-orgs.md)
 * [Pearson Request](https://app.smartsheet.com/b/form/68610eab22b34a2e8f4032519adbaf65)
 * [DAF](education/daf/README.md)
   * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
