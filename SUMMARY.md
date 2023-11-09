@@ -267,6 +267,8 @@
   * [Dynamic Programming](computer-science/data-structures-and-algorithms/dynamic-programming/dynamic-programming.md)
     * [Lecture 06: Matrix Multiplication & Fibonacci](computer-science/data-structures-and-algorithms/dynamic-programming/lecture-06-dynamic-programming-fundamentals.md)
     * [Weighted Interval Scheduling](computer-science/data-structures-and-algorithms/dynamic-programming/weighted-interval-scheduling.md)
+    * [Segmented Least Squares](computer-science/data-structures-and-algorithms/dynamic-programming/segmented-least-squares.md)
+    * [RNA Secondary Structure](computer-science/data-structures-and-algorithms/dynamic-programming/rna-secondary-structure.md)
   * [Large Language Models Jargon Free Explanation](computer-science/data-structures-and-algorithms/large-language-models-jargon-free-explanation.md)
   * [Linear Programming (L20)](computer-science/data-structures-and-algorithms/linear-programming.md)
   * [Graph Algorithms](computer-science/data-structures-and-algorithms/graph-algorithms/README.md)

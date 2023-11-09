@@ -18,7 +18,7 @@ description: James McBride AFMC Law Office; Larry Huston
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Utility patents**: most common. Using or making something like machinery or pharmaceuticals.&#x20;
 * **Design Patents:** pharmaceuticals. There are more things than a tire tread. An example would be the Febreze design patent. It has the monk look, the angled top, the curved handle. The design patents prevent knock-offs and look-alikes.&#x20;
