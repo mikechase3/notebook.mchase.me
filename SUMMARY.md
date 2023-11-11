@@ -31,7 +31,6 @@
 
 ## 📺 AV
 
-* [Audio Production Classnotes](https://www.dropbox.com/sh/qjkcjn6an6akj9k/AABVfe6E-sZb8PDw\_RDdKmxNa?dl=0)
 * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech\_background/TE-15/teces\_15.html)
 * [Music Production](av/music-production.md)
 * [Photography](av/photography/README.md)
@@ -569,6 +568,7 @@
 
 * [Dads Recipes](food/dads-recipes/README.md)
   * [Baked Beans](food/dads-recipes/baked-beans.md)
+  * [Arugula Salad](food/dads-recipes/arugula-salad.md)
 * [Favorite Restaurants](food/favorite-restaurants.md)
 * [F\* Nestle](https://www.fucknestle.art/)
 * [NYT Cooking](https://cooking.nytimes.com/)
