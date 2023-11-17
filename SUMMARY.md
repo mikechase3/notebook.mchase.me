@@ -232,6 +232,7 @@
     * [Chapter 20: Symmetric Encryption](computer-science/cybersecurity/cybersecurity/chapter-20-symmetric-encryption.md)
     * [Chapter 21: Public Key Cryptography](computer-science/cybersecurity/cybersecurity/chapter-21-public-key-cryptography.md)
     * [Wrap Up](computer-science/cybersecurity/cybersecurity/wrap-up.md)
+  * [Educational Threats @ UD](computer-science/cybersecurity/educational-threats-ud.md)
   * [Secure App Development](computer-science/cybersecurity/secure-app-development/README.md)
     * [Introduction](computer-science/cybersecurity/secure-app-development/introduction.md)
     * [Network Security](computer-science/cybersecurity/secure-app-development/lecture-2.md)
