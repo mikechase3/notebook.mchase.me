@@ -1,4 +1,4 @@
-# Midterm Preparation
+# CPS 350 Midterm Preparation
 
 ## Format
 
@@ -26,25 +26,23 @@ The midterm will have similar questions, but they will all be new.
 
 If this is marked wrong, make sure she knows why I thought this way.
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../../.gitbook/assets/image (39).png>)
 
 {% hint style="info" %}
 O(n) depends on the constant. If the constant o(n) has a constant of 1, then yes, this works because it's exactly equal. I said A, B, and C.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40).png>)
 
 {% hint style="info" %}
-We're diving the function time by 2 every iteration, but also adding `n`.&#x20;
+We're diving the function time by 2 every iteration, but also adding `n`.
 {% endhint %}
 
 Given an input array with length n, what is the running time of the divide and conquer approach for finding the maximum subarray?
 
 Given that a divide and conquer approach is used, which of the following is the recurrence function for finding the maximum subarray?
 
-
-
-![What's the question?](<../../.gitbook/assets/image (41).png>)
+![What's the question?](<../../../.gitbook/assets/image (41).png>)
 
 ## Past Quizzes
 
@@ -66,8 +64,8 @@ O(n \* m)
 
 Answer Key: D Question 2 of 114.0 Points Given an input array with length n, what is the running time of the dynamic programming approach for finding the maximum subarray? A. O(n)\
 B. O(log(n))\
-C. O(n_n)_\
-_D. O(n_log(n))
+C. O(n\_n)\_\
+\_D. O(n\_log(n))
 
 Answer Key: A Question 3 of 114.0 Points
 
@@ -192,10 +190,10 @@ B. T(n) = 2T(n/2) + O(1)\
 C. T(n) = 2T(n/2) + O(n)\
 D. T(n) = T(n/2) + O(n)
 
-Answer Key: C Question 7 of 104.0 Points Which of the following is the recurrence function for finding the maximum subarray? A. T(n) = 2_T(n/2) + n_\
+Answer Key: C Question 7 of 104.0 Points Which of the following is the recurrence function for finding the maximum subarray? A. T(n) = 2\_T(n/2) + n\_\
 _B. T(n) = T(n/2) + n_\
 _C. T(n) = T(n/2) + 2_\
-_D. T(n) = 2_T(n/2) + 2
+\_D. T(n) = 2\_T(n/2) + 2
 
 Answer Key: A Question 8 of 104.0 Points Consider the attached figure, what problem does the method find() solve?
 

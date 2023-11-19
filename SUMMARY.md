@@ -41,7 +41,7 @@
 * [Projector Central](https://www.projectorcentral.com/)
 * [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
 * [UCSC Tech Music Essays](av/equipment.md)
-* [Video Editing](av/page-7/README.md)
+* [Video Editing](av/video-editing/README.md)
   * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse\_QY)
 
 ## 💼 Biz/Ent Mgmt <a href="#business" id="business"></a>
@@ -59,11 +59,11 @@
 * [DoD](business/dod/README.md)
   * [2023](https://sites.google.com/d/1lMeESgjseLp6CShcteykDBZiPwGD2FBl/p/1Cjua4nV8Jxyo7BHo5G\_boaaif87Z3VrU/edit)
   * [ATAAPS](https://af.ataaps.csd.disa.mil/index2.html?d)
-  * [Benefits & Edu Resources](business/dod/benefits_and_edu_resources/README.md)
+  * [Benefits & Edu Resources](business/dod/benefits\_and\_edu\_resources/README.md)
     * [DoD MWR Databases](https://daf.dodmwrlibraries.org/databases)
     * [Force Support Squadron](https://www.wrightpattfss.com)
     * [WPAFB Outdoor Rec Rentals](https://www.wrightpattfss.com/document-manager/outdoor-recreation/424-2021-odr-price-list/file)
-  * [Public-Facing Sites](/business/dod/public_sites.md)
+  * [Public-Facing Sites](business/dod/public\_sites.md)
     * [CAC Self Service](https://idco.dmdc.osd.mil/idco/)
     * [Defense Logistics Agency](https://business.dla.mil/landing/index.html)
     * [Defense Logistics Disposal](https://www.dla.mil/)
@@ -170,7 +170,6 @@
 
 ## ⌨ Computer Help
 
-
 * [Hardware](computer-help/hardware/README.md)
   * [ThinkWiki](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
   * [Raid Controllers for Beginners](https://www.youtube.com/watch?v=G1E7ur0PS5k)
@@ -250,11 +249,11 @@
       * [Problem Session](computer-science/data-structures-and-algorithms/algorithm-analysis/amortized-analysis/problem-session.md)
     * [Ch2 Kleinberg Alg Analysis Basics](computer-science/data-structures-and-algorithms/algorithm-analysis/kleinberg-ch2-analysis-basics.md)
   * [Base CS Podcast](https://www.codenewbie.org/basecs)
-  * [CPS 350 Jawa Warmup](computer-science/data-structures-and-algorithms/CPS350MISC.md)
-  * [CPS 350 Midterm Preparation](computer-science/data-structures-and-algorithms/midterm-preparation.md)
-  * [CPS 450 Overview](computer-science/data-structures-and-algorithms/cps450-overview.md)
-  * [CPS 530 Syllabus](computer-science/data-structures-and-algorithms/cps-530/README.md)
-    * [Midterm Post-Review](computer-science/data-structures-and-algorithms/cps-530/midterm-post-review.md)
+  * [Classroom Residuals](computer-science/data-structures-and-algorithms/classroom-residuals/README.md)
+    * [CPS 350 Jawa Warmup](computer-science/data-structures-and-algorithms/classroom-residuals/cps350misc.md)
+    * [CPS 350 Midterm Preparation](computer-science/data-structures-and-algorithms/classroom-residuals/midterm-preparation.md)
+    * [CPS 450 Overview](computer-science/data-structures-and-algorithms/classroom-residuals/cps450-overview.md)
+    * [CPS 530 Syllabus](computer-science/data-structures-and-algorithms/classroom-residuals/cps-530.md)
   * [Data Structure Visualizations](https://www.cs.usfca.edu/\~galles/visualization/Algorithms.html)
   * [Data Struct Viz P2](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
   * [Divide and Conquer Technique](computer-science/data-structures-and-algorithms/divide-and-conquer/README.md)
@@ -639,6 +638,7 @@
   * [Lemmy Reddit](https://join-lemmy.org/docs/administration/administration.html)
 
 ## ⚖ Law
+
 * [Intellectual Property](law/intellectual-property/README.md)
   * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
 * [Emerging Legal Issues in CompSci 2023](law/emerging-legal-issues-in-compsci-2023/README.md)
@@ -655,9 +655,8 @@
   * [Intermediary Liability & Free Speech](law/emerging-legal-issues-in-compsci-2023/intermediary-liability-and-free-speech.md)
   * [Artificial Intelligence](law/emerging-legal-issues-in-compsci-2023/artificial-intelligence/README.md)
     * [Indian Discrimination](https://candor.co/articles/immigration-intel/why-is-this-place-full-of-indians-a-look-at-discrimination-in-the-tech-industry)
-* [Rabbit Holes]()
+* [Rabbit Holes](<README (1).md>)
   * [Renting Cars to Strangers](https://www.legalzoom.com/articles/the-airbnb-of-car-renting-how-to-legally-rent-your-car-to-a-stranger-from-one)
-
 
 ## 🌴 Leisure
 
@@ -806,7 +805,7 @@
   * [Chord Progressions](music/theory/chord-progressions.md)
   * [Diatonic Chords](music/theory/diatonic-chords.md)
   * [Music Visualization Articles](https://muted.io/)
-  * [Learning Tools](/music/theory/learning_tools.md)
+  * [Learning Tools](music/theory/learning-tools/README.md)
     * [MusicTheory.Net](https://www.musictheory.net/)
     * [Music Theory Helper](https://play.google.com/store/apps/details?id=com.okramuf.musikteori)
     * [Perfect Ear](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit)
