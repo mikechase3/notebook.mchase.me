@@ -551,6 +551,7 @@
 * [Before The Internet](https://internetkhole.com/)
 * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
 * [Star Wars A New Hope](https://swanh.net/)
+* [VHS Vault](https://archive.org/details/vhsvault)
 
 ## Finance
 
@@ -603,6 +604,7 @@
   * [SAMHSA Helpline](https://www.samhsa.gov/find-help/national-helpline)
 * [Workout Videos](health-and-fitness/workout-videos/README.md)
   * [Maximum Potential](https://www.youtube.com/watch?v=y0WOTplwNlw\&t=38s)
+  * [Barbie Workout](https://www.youtube.com/watch?v=sQfEqrXkSE0)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 
@@ -900,3 +902,4 @@
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](<writing/writing-samples/2023 (1).md>)
+* [Grammar Rock](https://archive.org/details/School\_House\_Rock\_Grammar\_Rock\_1995\_Tape)
