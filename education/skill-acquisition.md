@@ -31,7 +31,7 @@ The rate of improving skills & knowledge is high initially, but eventually decre
 * Different types of models are used to predict skill acquisition prediction like exponential fits, power fits, hyperbolic fits, and logarithmic fits.&#x20;
   * For group data, power curves tend to be the best fit.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Practical Application Siu Et Al 2016
 

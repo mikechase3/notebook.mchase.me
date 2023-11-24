@@ -76,7 +76,7 @@ This is a repeating cycle:
 
 ### AWS SERVICES
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
 
 #### Amazon Rekognition
 
