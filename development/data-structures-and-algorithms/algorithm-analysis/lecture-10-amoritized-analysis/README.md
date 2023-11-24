@@ -50,7 +50,7 @@ Min-Heap Properties
 Heap-sort lets you put things in order by using a heap.
 
 1. Insert a key into the heap.
-2. Let the heap sort itself so that the number/letter you just added is in order & follows the [heap properties.](lecture-10-amoritized-analysis.md#what-are-heaps)
+2. Let the heap sort itself so that the number/letter you just added is in order & follows the [heap properties.](./#what-are-heaps)
 3. Repeat steps 1 and 2 until all the keys are added to the heap.
 4. Finally, remove every object from the root of the heap and store the output into an array.
 5. That array will be in order and you're done!

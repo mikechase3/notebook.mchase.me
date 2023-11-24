@@ -45,7 +45,7 @@ algorithm stable_matching:
 
 ## Scrap Notes
 
-<figure><img src="../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
 
 ## Class Notes
 
@@ -55,11 +55,11 @@ algorithm stable_matching:
 
 ### Brute Force Approach
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 Another example:
 
-<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 ## How to Prove Correctness
 
@@ -97,13 +97,13 @@ Another example:
 
 ### Proof that women get the worse deal
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Unorganized
 
 Proof by contradiction?
 
-![](../../.gitbook/assets/partners.png)
+![](../../../.gitbook/assets/partners.png)
 
 ## Homework & Implementation
 

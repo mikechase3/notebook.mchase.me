@@ -3,7 +3,7 @@
 ## Learning Goals
 
 | Term                                                             | What is it?                                                                                                                                                                                                             |
-|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Big-O Notation                                                   | Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst case complexity of an algorithm.                                                                                |
 | [Little Oh](https://www.tutorialspoint.com/little-oh-notation-o) | Big O, but we don't drop constants. "Little o notation is used to describe an upper bound that cannot be tight. In other words, loose upper bound of f(n)."                                                             |
 | Theta Notation $$\Theta$$                                        | Theta notation encloses the function from above and below. Since it represents the upper and the lower bound of the running time of an algorithm, it is used for analyzing the average case complexity of an algorithm. |
@@ -25,7 +25,7 @@ If this makes no sense to you, you might want to go back and check out [recurren
 
 ###
 
-![Note: x is the same as n in the below definitions.](<../../../.gitbook/assets/image (35).png>)
+![Note: x is the same as n in the below definitions.](../../../../computer-science/.gitbook/assets/image%20\(35\).png)
 
 ### Formal Definition
 
@@ -48,11 +48,11 @@ O(g(n)) = { f(n): there exist positive constants c and n0
 
 ### Common Orders
 
-![Source: Wikimedia Commons](<../../../.gitbook/assets/image (36).png>)
+![Source: Wikimedia Commons](../../../../computer-science/.gitbook/assets/image%20\(36\).png)
 
 ### [Applications](https://en.wikipedia.org/wiki/Big\_O\_notation#Orders\_of\_common\_functions)
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](../../../../computer-science/.gitbook/assets/image%20\(33\).png)
 
 ## [Little Oh Notation (o)](https://www.tutorialspoint.com/little-oh-notation-o)
 
@@ -98,11 +98,11 @@ $$
 
 When I graphed them in Desmos, I got these:
 
-![The first, second, and third equation is red, blue, and green respectively.](../../../.gitbook/assets/desmos-graph.png)
+![The first, second, and third equation is red, blue, and green respectively.](../../../../computer-science/.gitbook/assets/desmos-graph.png)
 
 The bounds also don't have to be touching exactly. Here's an [example](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) from [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation):
 
-![](<../../../.gitbook/assets/image (39) (1) (1).png>)
+![](../../../../computer-science/.gitbook/assets/image%20\(39\)%20\(1\)%20\(1\).png)
 
 Note here that we don't care about the small cases, but only when `n` gets really large, or after the dashed line in this case.
 

@@ -135,11 +135,11 @@ Why did the knapsack problem fail? It seems like it will work.
 
 Let `S` be a finite set, and F a non-empty collection of subsets S.
 
-![](<../../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (20).png>)
 
 #### What does it mean to be in a subset? What's the size of a subset?
 
-![](<../../../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (21).png>)
 
 ### Defining a Matroid
 
@@ -151,7 +151,7 @@ TODO: _**Replace slides with my own content!**_
 What does all of this notation mean?
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 ### Example: Graphic Matroids
 
@@ -161,7 +161,7 @@ What does all of this notation mean?
 What is (S, F). What does it mean that "F is a subset of S?" Is S an element? A collection of elements?
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 ### Weighted Matroids
 
@@ -171,7 +171,7 @@ What is (S, F). What does it mean that "F is a subset of S?" Is S an element? A 
 What's a weight function? What does the definition _A_ mean? **I'm getting lost in the notation.**
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 {% hint style="info" %}
 Click this [link](https://www.dropbox.com/s/iwf13fzz4tbbfna/Lecture%2009%20Greedy%20Approach.pdf?dl=0) to see Dr. Yao's slides on correctness where I get lost in notation again, spanning trees, Kruskal's Minimum Spanning Tree, and the running time of these greedy algorithms.
@@ -193,7 +193,7 @@ Problem is how do we cache/retreive stuff efficiently.
 
 * **Belady** is the guy who wrote this. It's called a Belady Schedule.
 
-<figure><img src="../../../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
 
 * **Proof**: by induction on number of requests `j`.
 * **Invariant**: there exists an optimal reduced schedule `S` that makes the same eviction schedule as $$S_{FF}$$ through the first `j+1` requests.
@@ -201,7 +201,7 @@ Problem is how do we cache/retreive stuff efficiently.
 
 ### Reduced Eviction Schedule
 
-<figure><img src="../../../../.gitbook/assets/image (659).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (659).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * **Reduced** schedules are schedules that only insert an item into the cache in a step in which that item is requested.
 * **Intuition:** we transform an unreduced schedule
@@ -211,7 +211,7 @@ Problem is how do we cache/retreive stuff efficiently.
   * Let `c` be the item S evicts when it brings `d` into the cache.
   * Case 1: `d` is evicted at time `t'` before next request for `d`.
   * Case 2: `d` requested at time `t'` before `d` is evicted
-  * Case 3: `d` is not in the cache; $$S_{FF}$$ evicts `e`; S evicts $$f \neq e$$.&#x20;
+  * Case 3: `d` is not in the cache; $$S_{FF}$$ evicts `e`; S evicts $$f \neq e$$.
     * Case 3a: g=e. Can't happen with furthest in the future.
     * Case 3b: idk
     * Case 3c: if the requested item is not `e` or `f` (or mathematically $$g \neq e, f$$), then `S` must evict `e`. We'll make `S'` evict f so now `S` and `S'` have the same cache.
@@ -235,15 +235,13 @@ TODO: Review/add these. Go through Dr. K's slides to see an example.
 
 ### Dijkstra & Shortest Paths in Graphs
 
-See also graph algorithms: [BFS & DFS Basics](../../graph-algorithms/bfs-and-dfs-basics-l14.md).
+See also graph algorithms: [BFS & DFS Basics](../../../computer-science/graph-algorithms/bfs-and-dfs-basics-l14.md).
 
-* **Requirements**: `G=(V, E)` where edges have positive values. We'll have source `s` and destination `t`. $$l_e$$ is the length of edge `e`.&#x20;
+* **Requirements**: `G=(V, E)` where edges have positive values. We'll have source `s` and destination `t`. $$l_e$$ is the length of edge `e`.
 * **Problem**: find the shortest directed path from s to `t`
-* Maintain a set of **explored nodes** `S` for which we have determined the shortest path distance `d(u)` from `s` to `u`.  Initially, `S`'s path will just contain `{s}`, `d(s) = 0`.
+* Maintain a set of **explored nodes** `S` for which we have determined the shortest path distance `d(u)` from `s` to `u`. Initially, `S`'s path will just contain `{s}`, `d(s) = 0`.
 * Then we'll repeatedly choose unexplored node `v` where $$v \notin S$$
 * **Dijkstra Variant**: (Min cost, min-path)
-
-
 
 ## Works Cited
 
