@@ -90,6 +90,7 @@
   * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
   * [Speed of Trust](https://www.speedoftrust.com/)
 * [Risk Management](business/risk-management.md)
+* [Breaking Up Hard Tasks](business/breaking-up-hard-tasks.md)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
@@ -649,8 +650,6 @@
 
 ## ⚖ Law
 
-* [Intellectual Property](law/intellectual-property/README.md)
-  * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
 * [Emerging Legal Issues in CompSci 2023](law/emerging-legal-issues-in-compsci-2023/README.md)
   * [01 Broad Overview](law/emerging-legal-issues-in-compsci-2023/01-broad-overview.md)
   * [Purpose of Law](law/emerging-legal-issues-in-compsci-2023/purpose-of-law.md)
@@ -665,6 +664,8 @@
   * [Intermediary Liability & Free Speech](law/emerging-legal-issues-in-compsci-2023/intermediary-liability-and-free-speech.md)
   * [Artificial Intelligence](law/emerging-legal-issues-in-compsci-2023/artificial-intelligence/README.md)
     * [Indian Discrimination](https://candor.co/articles/immigration-intel/why-is-this-place-full-of-indians-a-look-at-discrimination-in-the-tech-industry)
+* [Intellectual Property](law/intellectual-property/README.md)
+  * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
 * [Rabbit Holes](<README (1).md>)
   * [Renting Cars to Strangers](https://www.legalzoom.com/articles/the-airbnb-of-car-renting-how-to-legally-rent-your-car-to-a-stranger-from-one)
 
@@ -830,7 +831,6 @@
 
 ## 📒 Principles and Values
 
-* [Breaking Up Hard Tasks](principles-and-values/breaking-up-hard-tasks.md)
 * [Casting Judgement](principles-and-values/casting-judgement.md)
 * [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
 * [Discipline](principles-and-values/discipline.md)
@@ -873,6 +873,10 @@
   * [Absurd Trolly Problem](https://neal.fun/absurd-trolley-problems/)
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
 
+## Workflow
+
+* [Page 1](workflow/page-1.md)
+
 ## 📝 Writing
 
 * [Abstracts](writing/abstracts.md)
@@ -911,3 +915,7 @@
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](<writing/writing-samples/2023 (1).md>)
 * [Grammar Rock](https://archive.org/details/School\_House\_Rock\_Grammar\_Rock\_1995\_Tape)
+
+## Group 2
+
+* [Page 2](group-2/page-2.md)
