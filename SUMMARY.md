@@ -90,9 +90,11 @@
   * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
   * [Speed of Trust](https://www.speedoftrust.com/)
 * [Risk Management](business/risk-management.md)
-* [Breaking Up Hard Tasks](business/breaking-up-hard-tasks.md)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
+* [Time Management](career/time-management/README.md)
+  * [Breaking Up Hard Tasks](business/breaking-up-hard-tasks.md)
+  * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
@@ -106,11 +108,7 @@
   * [Statement of Purpose](career/graduate-school/statement-of-purpose.md)
 * [Hostile Work Environments](career/hostile-work-environments.md)
 * [How to be a Full Stack Dev](https://www.codecademy.com/career-change-guide/full-stack-engineer-career-path?utm\_campaign=camp\~jan\_2022\_newsletter\~prod\~All\~geo\~All\~aud\~General\~funn\_Awareness\~msg\~Learn\_More\~cont\~CTA\_Button\~sited\~Career\_Path\~time\~2022Q1\~\&utm\_content=career\_guide\&utm\_source=iterable\&utm\_medium=email)
-* [Information Ethics](career/information-ethics/README.md)
-  * [Anti-Vaxxers](career/information-ethics/anti-vaxxers.md)
-  * [Computer Ethics](career/information-ethics/computer-ethics.md)
-  * [Virtue Ethics](career/information-ethics/virtue-ethics.md)
-* [Interviewing](career/interviewing.md)
+* [Interviewing](principles-and-values/interviewing.md)
 * [Paperwork](career/paperwork/README.md)
   * [Clearances](career/paperwork/clearances.md)
   * [CV](career/paperwork/cv.md)
@@ -118,12 +116,11 @@
   * [Feedback and Performance Reviews](career/paperwork/feedback-and-performance-reviews.md)
   * [Master Resume/CV](career/paperwork/master-resume-cv.md)
   * [O-Net](https://www.onetonline.org/)
-* [Industry News](career/industry-news/README.md)
+* [Industry News](principles-and-values/industry-news/README.md)
 * [Quitting](career/how-to-quit/README.md)
   * [Charisma on Command](https://www.charismaoncommand.com/)
 * [Salary Negotiation](career/salary-negotiation.md)
-* [Time Management](career/time-management/README.md)
-  * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
+
 
 ## Communications
 
@@ -837,6 +834,10 @@
 * [Don't do drugs](principles-and-values/dont-do-drugs.md)
 * [Goal Setting](principles-and-values/goal-setting.md)
   * [2020 Goals](backlog.md)
+* [Information Ethics](principles-and-values/information-ethics/README.md)
+  * [Anti-Vaxxers](principles-and-values/information-ethics/anti-vaxxers.md)
+  * [Computer Ethics](principles-and-values/information-ethics/computer-ethics.md)
+  * [Virtue Ethics](principles-and-values/information-ethics/virtue-ethics.md)
   * [2023](principles-and-values/goal-setting/2023.md)
 * [lost+found](principles-and-values/lostandfound.md)
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
@@ -873,9 +874,7 @@
   * [Absurd Trolly Problem](https://neal.fun/absurd-trolley-problems/)
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
 
-## Workflow
 
-* [Page 1](workflow/page-1.md)
 
 ## 📝 Writing
 
