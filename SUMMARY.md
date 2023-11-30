@@ -524,12 +524,17 @@
 * [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom's\_taxonomy)
 * [Cone of Learning](education/cone-of-learning.md)
 * [Curse of Knowledge](education/curse-of-knowledge.md)
+* [DAF](education/daf/README.md)
+  * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
+  * [Hoopla](https://www.hoopladigital.com/my/hoopla)
+  * [Percepio](https://usaf.percipio.com/)
 * [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
 * [Map of Reddit Post API](https://sub.rehab/?searchTerm=\&visibleServices=lemmy\&visibleServices=kbin\&visibleServices=discord\&visibleServices=misc\&visibleServices=matrix\&visibleServices=squabbles\&visibleServices=raddle\&officialOnly=false\&newOnly=false\&favoriteOnly=false\&sortBy=name)
 * [Mimicry](education/mimicry/README.md)
   * [Do you mind borrow personality](https://freakonomics.com/podcast/do-you-mind-if-i-borrow-your-personality/)
   * [Pantograph Study](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13506)
+* [Pearson Request](https://app.smartsheet.com/b/form/68610eab22b34a2e8f4032519adbaf65)
 * [Polarized Learning](social-sciences/psychology/polarized-learning.md)
 * [Skill Acquisition](education/skill-acquisition.md)
 * [Teaching Code](education/teaching-code/README.md)
@@ -543,11 +548,6 @@
   * [UD Stu Discounts](https://docs.google.com/spreadsheets/d/1bnw-46Tm\_3PdFD6EXIhHwArfNsQX4DNUFPog2\_CNjQA/edit#gid=0)
   * [Student Orgs](education/ud/student-orgs.md)
   * [Alumni Association TODO\_SORT\_TITLE](education/ud/alumni-association-todo\_sort\_title.md)
-* [Pearson Request](https://app.smartsheet.com/b/form/68610eab22b34a2e8f4032519adbaf65)
-* [DAF](education/daf/README.md)
-  * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
-  * [Hoopla](https://www.hoopladigital.com/my/hoopla)
-  * [Percepio](https://usaf.percipio.com/)
 
 ## 🎥 Entertainment
 
@@ -557,6 +557,8 @@
   * [Spy x Family](entertainment/reports/spy-x-family.md)
 * [Before The Internet](https://internetkhole.com/)
 * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
+* [Sci-Fi](entertainment/sci-fi/README.md)
+  * [Time Travel Guide](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_112923\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=Final\&utm\_term=ARS\_OrbitalTransmission)
 * [Star Wars A New Hope](https://swanh.net/)
 * [VHS Vault](https://archive.org/details/vhsvault)
 
@@ -883,6 +885,7 @@
   * [Avoiding Wordiness & Redundancy](https://www.tutor.com/cmspublicfiles/WWW/Avoiding\_Wordiness\_and\_Redundancy.pdf)
 * [Conclusions](writing/the-conclusion.md)
 * [eSSS Sample](writing/esss-sample.md)
+* [Grammar Rock](https://archive.org/details/School\_House\_Rock\_Grammar\_Rock\_1995\_Tape)
 * [Ideation](writing/ideation.md)
   * [Neal](https://neal.fun/)
 * [Introductions](writing/the-introduction.md)
@@ -912,7 +915,6 @@
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](<writing/writing-samples/2023 (1).md>)
-* [Grammar Rock](https://archive.org/details/School\_House\_Rock\_Grammar\_Rock\_1995\_Tape)
 
 ## Group 2
 
