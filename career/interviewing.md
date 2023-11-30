@@ -1,3 +1,2 @@
 # Interviewing
 
-* See BigInterview

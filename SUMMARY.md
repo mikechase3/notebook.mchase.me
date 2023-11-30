@@ -96,6 +96,8 @@
   * [Breaking Up Hard Tasks](business/breaking-up-hard-tasks.md)
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
+* [Business Management Software](business/business-management-software/README.md)
+  * [Pagico](business/business-management-software/pagico.md)
 
 ## Career (Software Engineer) <a href="#career" id="career"></a>
 
@@ -108,7 +110,7 @@
   * [Statement of Purpose](career/graduate-school/statement-of-purpose.md)
 * [Hostile Work Environments](career/hostile-work-environments.md)
 * [How to be a Full Stack Dev](https://www.codecademy.com/career-change-guide/full-stack-engineer-career-path?utm\_campaign=camp\~jan\_2022\_newsletter\~prod\~All\~geo\~All\~aud\~General\~funn\_Awareness\~msg\~Learn\_More\~cont\~CTA\_Button\~sited\~Career\_Path\~time\~2022Q1\~\&utm\_content=career\_guide\&utm\_source=iterable\&utm\_medium=email)
-* [Interviewing](principles-and-values/interviewing.md)
+* [Interviewing](career/interviewing.md)
 * [Paperwork](career/paperwork/README.md)
   * [Clearances](career/paperwork/clearances.md)
   * [CV](career/paperwork/cv.md)
@@ -116,11 +118,10 @@
   * [Feedback and Performance Reviews](career/paperwork/feedback-and-performance-reviews.md)
   * [Master Resume/CV](career/paperwork/master-resume-cv.md)
   * [O-Net](https://www.onetonline.org/)
-* [Industry News](principles-and-values/industry-news/README.md)
+* [Industry News](career/industry-news.md)
 * [Quitting](career/how-to-quit/README.md)
   * [Charisma on Command](https://www.charismaoncommand.com/)
 * [Salary Negotiation](career/salary-negotiation.md)
-
 
 ## Communications
 
@@ -663,7 +664,7 @@
     * [Indian Discrimination](https://candor.co/articles/immigration-intel/why-is-this-place-full-of-indians-a-look-at-discrimination-in-the-tech-industry)
 * [Intellectual Property](law/intellectual-property/README.md)
   * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
-* [Rabbit Holes](<README (1).md>)
+* [Rabbit Holes](law/rabbit-holes/README.md)
   * [Renting Cars to Strangers](https://www.legalzoom.com/articles/the-airbnb-of-car-renting-how-to-legally-rent-your-car-to-a-stranger-from-one)
 
 ## 🌴 Leisure
@@ -873,8 +874,6 @@
 * [Psychology](social-sciences/psychology/README.md)
   * [Absurd Trolly Problem](https://neal.fun/absurd-trolley-problems/)
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
-
-
 
 ## 📝 Writing
 
