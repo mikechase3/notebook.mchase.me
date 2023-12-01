@@ -92,6 +92,8 @@
 * [Risk Management](business/risk-management.md)
 * [Satire](business/satire/README.md)
   * [Corporate Translations](business/satire/corporate-translations.md)
+* [Systems Design](business/systems-design/README.md)
+  * [Uber/Lyft Model](https://www.youtube.com/watch?v=R\_agd5qZ26Y)
 * [Time Management](career/time-management/README.md)
   * [Breaking Up Hard Tasks](business/breaking-up-hard-tasks.md)
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
