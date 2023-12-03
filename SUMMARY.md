@@ -255,6 +255,7 @@
   * [Penetration Testing](computer-science/lostandfound/penetration-testing.md)
   * [Prolific Flash Cards](https://quizlet.com/Prolific1997/folders)
   * [Whole Brain Emulation Roadmap](https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf)
+  * [Shor's Algorithm Quantum](https://www.youtube.com/watch?v=FRZQ-efABeQ)
 * [Linux](computer-science/linux/README.md)
   * [Bash](computer-science/linux/bash.md)
   * [Distro Test](https://distrotest.net/index.php)
