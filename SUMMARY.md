@@ -831,6 +831,9 @@
   * [TheoryMisc2](music/unsorted/page-1-3.md)
   * [Lofi Cityhop](https://www.cityhop.cafe/)
   * [VanBasco MIDI Search](http://www.vanbasco.com/index.html)
+  * [Bookmarks MIDI/Music](music/unsorted/bookmarks-midi-music/README.md)
+    * [IMSLP Duets](https://imslp.org/wiki/List\_of\_Compositions\_for\_Piano\_Four-Hands)
+    * [More Duets IMSLP](https://imslp.org/wiki/Category:For\_piano\_4\_hands)
 
 ## 📒 Principles and Values
 
