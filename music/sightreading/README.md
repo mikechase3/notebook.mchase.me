@@ -1,3 +1,0 @@
-# Sightreading
-
-Kinder Kalijur

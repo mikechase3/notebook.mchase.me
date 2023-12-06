@@ -1,4 +1,4 @@
-# Shopping \[DELETE]
+# Null
 
 Shopping is fun.
 
