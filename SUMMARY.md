@@ -85,7 +85,7 @@
     * [DoD MWR Databases](https://daf.dodmwrlibraries.org/databases)
     * [Force Support Squadron](https://www.wrightpattfss.com)
     * [WPAFB Outdoor Rec Rentals](https://www.wrightpattfss.com/document-manager/outdoor-recreation/424-2021-odr-price-list/file)
-  * [Public-Facing Sites](business/dod/public_sites.md)
+  * [Public-Facing Sites](business/dod/public\_sites.md)
     * [CAC Self Service](https://idco.dmdc.osd.mil/idco/)
     * [Defense Logistics Agency](https://business.dla.mil/landing/index.html)
     * [Defense Logistics Disposal](https://www.dla.mil/)
@@ -143,6 +143,7 @@
 * [Salary Negotiation](career/salary-negotiation.md)
 
 ## Communications
+
 * [Charisma](communications/charism/README.md)
   * [Breaking Up Gracefully](communications/charism/breaking-up-gracefully.md)
   * [Charisma on Command](https://www.youtube.com/c/Charismaoncommand)
@@ -208,6 +209,7 @@
     * [Tinyapps](https://tinyapps.org/)
 
 ## 💾 Computer Science
+
 * [AI](computer-science/ai/README.md)
   * [How AI Large Lang Models Work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_080223\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=B\&utm\_term=ARS\_OrbitalTransmission)
 * [Cybersecurity](computer-science/cybersecurity/README.md)
@@ -789,38 +791,41 @@
   * [Stat Calculators](https://statpages.info/index.html)
 
 ## 🎹 Music
-* [Composition And Theory](music/composition_theory/README.md)
-  * [Chord Progressions](music/composition_theory/chord-progressions.md)
-  * [Chords](music/composition_theory/chords.md)
-  * [Diatonic Chords](music/composition_theory/diatonic-chords.md)
+
+* [Composition And Theory](music/composition\_theory/README.md)
+  * [Chord Progressions](music/composition\_theory/chord-progressions.md)
+  * [Chords](music/composition\_theory/chords.md)
+  * [Diatonic Chords](music/composition\_theory/diatonic-chords.md)
   * [Jazz Handbook](https://www.jazzbooks.com/mm5/download/FQBK-handbook.pdf)
   * [Jazz Practice Journals](https://www.youtube.com/watch?v=igY5ub9Kbd8\&list=PLF1XQqLQ2m0pGeHQq8Tqc\_-\_PG-2fjtSS)
-  * [Misc TikToks](music/composition_theory/misc-tiktoks/README.md)
+  * [Misc TikToks](music/composition\_theory/misc-tiktoks/README.md)
     * [7th Chords](https://www.tiktok.com/@itsmillertimemusic/video/7076624066463026438?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
     * [Lessons from B](https://www.tiktok.com/@itsmillertimemusic/video/7076996636165147909?is\_copy\_url=1\&is\_from\_webapp=v1\&lang=en)
-  * [Intervals](music/composition_theory/intervals.md)
+  * [Intervals](music/composition\_theory/intervals.md)
   * [Favorite Music](music/favorites/README.md)
     * [LSD](music/favorites/lsd.md)
     * [Portrait of Tracy](music/favorites/inspiration.md)
-  * [Learning Tools](music/composition_theory/learning-tools/README.md)
+  * [Learning Tools](music/composition\_theory/learning-tools/README.md)
     * [MusicTheory.Net](https://www.musictheory.net/)
     * [Music Theory Helper](https://play.google.com/store/apps/details?id=com.okramuf.musikteori)
     * [Perfect Ear](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit)
   * [Music Visualization Toys](https://muted.io/)
-  * [Rhythm and Meter](music/composition_theory/rhythm-and-meter.md)
+  * [Rhythm and Meter](music/composition\_theory/rhythm-and-meter.md)
   * [Scat Rap](https://rabbidavidzaslow.com/wp-content/uploads/2013/11/scatrap.pdf)
-  * [Scales and Key Signatures](music/composition_theory/scales-and-key-signatures.md)
+  * [Scales and Key Signatures](music/composition\_theory/scales-and-key-signatures/README.md)
+    * [Free Jonny Lessons](https://pianowithjonny.com/free-piano-lessons/)
+    * [Maj Scale Practice](https://pianowithjonny.com/piano-lessons/5-major-scale-exercises-to-practice-daily/)
   * [Technology](music/MusicTechnology/README.md)
     * [Digital-Audio Workstations](music/MusicTechnology/digital-audio-workstations/README.md)
       * [FL Studio](music/MusicTechnology/digital-audio-workstations/fl-studio.md)
       * [Logic Pro](music/MusicTechnology/digital-audio-workstations/logic-pro.md)
       * [Pro Tools](music/MusicTechnology/digital-audio-workstations/pro-tools.md)
-* [History](music/history)
+* [History](music/history/README.md)
   * [List of Electronic Music Genres](https://en.wikipedia.org/wiki/List\_of\_electronic\_music\_genres)
 * [MIDI & Sheet Music](music/unsorted/bookmarks-midi-music/README.md)
   * [Dan's Jazz Midis](http://dansmusic.freeservers.com/custom.html)
-  * [IMSLP Duets](https://imslp.org/wiki/Category:For_piano_4_hands_(arr))
-  * [More Duets IMSLP](https://imslp.org/wiki/List_of_Compositions_for_Piano_Four-Hands)
+  * [IMSLP Duets](https://imslp.org/wiki/Category:For\_piano\_4\_hands\_\(arr\))
+  * [More Duets IMSLP](https://imslp.org/wiki/List\_of\_Compositions\_for\_Piano\_Four-Hands)
   * [VanBasco MIDI Search](http://www.vanbasco.com/index.html)
 * [Performance](music/performance/performance.md)
 * [Unsorted](music/unsorted/README.md)
@@ -829,9 +834,8 @@
   * [TheoryMisc2](music/unsorted/page-1-3.md)
   * [Wolfhart Sightreading](https://s9.imslp.org/files/imglnks/usimg/a/a8/IMSLP241611-PMLP391095-Wohl\_ABC.pdf)
 
-
-
 ## 📒 Principles and Values
+
 * [Casting Judgement](principles-and-values/casting-judgement.md)
 * [Consent Outside the Bedroom](principles-and-values/consent-outside-the-bedroom.md)
 * [Discipline](principles-and-values/discipline.md)
@@ -850,6 +854,7 @@
 * [Principles Ray](https://www.principles.com)
 
 ## Relationships
+
 * [Dating](relationships/dating/README.md)
   * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
 * [Friendships](relationships/friendships.md)
@@ -879,6 +884,7 @@
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
 
 ## 📝 Writing
+
 * [Abstracts](writing/abstracts.md)
 * [Bullet Statement Mechanics](writing/bullet-statement-mechanics.md)
 * [Common Mistakes](writing/common-mistakes/README.md)
