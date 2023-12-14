@@ -43,6 +43,8 @@
 * [UCSC Tech Music Essays](av/equipment.md)
 * [Video Editing](av/video-editing/README.md)
   * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse\_QY)
+* [Youtube Tips & Tricks](av/youtube-tips-and-tricks/README.md)
+  * [Youtube User/Creator Tips](https://www.youtube.com/watch?v=LicfHxvAlXI)
 
 ## 💼 Biz/Ent Mgmt <a href="#business" id="business"></a>
 
