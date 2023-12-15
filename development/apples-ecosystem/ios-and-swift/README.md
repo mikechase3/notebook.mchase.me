@@ -8,6 +8,6 @@ No cheatsheet is complete without a list of resources with more information. Wan
 * [Swift Evolution](https://apple.github.io/swift-evolution/)
 * [Swift Standard Library](https://developer.apple.com/documentation/swift)
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
-* [https://github.com/vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
-* [https://github.com/matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [https://github.com/vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) awesome iOS projects/packages.
+* [https://github.com/matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) for libraries & collection of packages.
 * [http://online.swiftplayground.run/](http://online.swiftplayground.run/)
