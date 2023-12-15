@@ -16,6 +16,7 @@ Ranked in order of usefulness:
 3. Lecture videos are stashed in `MikeChase\000-025\2023\Career\Education\CPS 536 Operating Systems Fall23`
 4. Made a [quizlet deck](https://quizlet.com/mikechase3/folders/ud-cps536f23-operating-systems?i=ss8s&x=1xqt)
 5. Remnants are in OneNote, but probably nothing useful & I hardly used it.
+6. Tests/quizzes are in a binder somewhere & it's not in my top 1000 priorities to scan/import them rn.
 
 | Subtopic                                                          | Flashcard Status                 | Retyped Notes Status |
 |-------------------------------------------------------------------|----------------------------------|----------------------|
