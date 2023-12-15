@@ -296,6 +296,7 @@
 * [Operating Systems](computer-science/operating-systems/README.md)
   * [CPS 536 OS](computer-science/operating-systems/cps-536-os/README.md)
     * [01 OS Welcome](computer-science/operating-systems/W01-OperatingSystemsPurpose.md)
+  * [CPS 536 Mindmap](computer-science/operating-systems/CPS536MindMapToMD.markdown)
   * [Introduction](computer-science/operating-systems/introduction.md)
   * [Internal Hardware Continued](computer-science/operating-systems/internal-hardware-continued.md)
   * [Inter Process CMM](computer-science/operating-systems/W07-IPC.md)
