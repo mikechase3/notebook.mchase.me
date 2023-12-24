@@ -3,7 +3,7 @@
 Plan for this page:
 
 * Summary of tools/technologies I used.
-* Links to "[discipline](../principles-and-values/discipline.md)" if it's more of that.
+* Links to "[discipline](../../principles-and-values/discipline.md)" if it's more of that.
 * Some consistent model to describe tools/tech. Maybe for each app:
   * Summary
   * Advantages
@@ -14,7 +14,7 @@ Plan for this page:
 
 Here is an item on my todo list that I am procrastinating by writing this article:
 
-![](<../.gitbook/assets/CleanShot 2021-12-27 at 00.57.10@2x.jpg>)
+![](<../../.gitbook/assets/CleanShot 2021-12-27 at 00.57.10@2x.jpg>)
 
 Like any computer scientist does, take a hard task and turn it into smaller tasks. Then use multithreading and run the calculations concurrently.
 

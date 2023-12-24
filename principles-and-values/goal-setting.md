@@ -6,6 +6,6 @@
 
 ## Further Reading
 
-{% content-ref url="../business/books/seven-habits.md" %}
-[seven-habits.md](../business/books/seven-habits.md)
+{% content-ref url="../career/communication-management/seven-habits.md" %}
+[seven-habits.md](../career/communication-management/seven-habits.md)
 {% endcontent-ref %}
