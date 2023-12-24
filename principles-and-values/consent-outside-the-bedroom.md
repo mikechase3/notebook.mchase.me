@@ -21,7 +21,7 @@
 
 Asking in advance conveys that enjoyment is a priority for you. **Get their input on anything you expect them to participate in.**
 
-* Ask if someone is happy with the location before buying plane tickets.&#x20;
+* Ask if someone is happy with the location before buying plane tickets.
 * Ask if everyone likes the dish you're preparing before buying the ingredients.
 * Make sure your friends are happy with the destination if you're going out.
 * Text the group if they have anything in mind themselves _before_ offering your suggestion.
@@ -33,7 +33,7 @@ Asking in advance conveys that enjoyment is a priority for you. **Get their inpu
 
 ### Gain Consent before Non-Sexual Touch
 
-I learned the hard way that not everyone like hugs. Some people have been touched inappropriately or have large personal bubbles.&#x20;
+I learned the hard way that not everyone like hugs. Some people have been touched inappropriately or have large personal bubbles.
 
 1. "Can I hug you?"
 
@@ -50,7 +50,7 @@ I learned the hard way that not everyone like hugs. Some people have been touche
 
 ### Don't Pressure Someone to Accept Anything
 
-* There is pressure to.keep anything they don't give consent to. GIFT RECEIPTS!&#x20;
+* There is pressure to keep anything they don't give consent to. GIFT RECEIPTS!
 * "You don't have to eat anything you don't want."
 * "I can exchange this if you want" (takes off the pressure to keep stuff)
 
@@ -58,12 +58,12 @@ I learned the hard way that not everyone like hugs. Some people have been touche
 
 * Decide if we're splitting the bill evenly (and you have to pay more than my share).
 * At least offer to pay for your own meal or movie ticket.
-* **Do not impose any unanticipated expenses**.&#x20;
+* **Do not impose any unanticipated expenses**.
 * Overestimate costs and tell them how you're going to explicitly split expenses.
 
 ## Get Feedback Along the Way
 
-If it's _probably_ ok, you can suggest the idea first before asking permission to do it.&#x20;
+If it's _probably_ ok, you can suggest the idea first before asking permission to do it.
 
 1. "May I try"
 2. "Would you like if we did..."

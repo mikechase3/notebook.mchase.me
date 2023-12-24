@@ -54,7 +54,7 @@
     * [Unexplored](https://blog.hubspot.com/sales/small-business-accounting-software)
 * [Application Paperwork & Interviews](career/paperwork/README.md)
   * [Clearances](career/paperwork/clearances.md)
-  * [CV](career/paperwork/cv.md)
+  * [CV Resources](career/paperwork/cv.md)
   * [Effective Resume Writing for STEM](https://www.tutorialspoint.com/effective\_resume\_writing.htm)
   * [Feedback and Performance Reviews](career/paperwork/feedback-and-performance-reviews.md)
   * [Master Resume/CV](career/paperwork/master-resume-cv.md)
