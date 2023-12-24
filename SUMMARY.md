@@ -112,6 +112,8 @@
   * [Graduate School Plans](career/graduate-school/graduate-school-plans.md)
   * [Personal Statements](career/graduate-school/personal-statements.md)
   * [Statement of Purpose](career/graduate-school/statement-of-purpose.md)
+* [Marketing](career/marketing/marketing.md)
+  * [Programiz Psychology](career/marketing/programiz_psychology_marketing.md)
 * [Industry News](career/books/README.md)
   * [2023](career/books/2023/README.md)
     * [Inside Elon Musk's "Extremely Hardcore" Twitter](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji)
@@ -552,7 +554,6 @@
   * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
   * [UD Stu Discounts](https://docs.google.com/spreadsheets/d/1bnw-46Tm\_3PdFD6EXIhHwArfNsQX4DNUFPog2\_CNjQA/edit#gid=0)
   * [Student Orgs](education/ud/student-orgs.md)
-  * [Alumni Association TODO\_SORT\_TITLE](education/ud/alumni-association-todo\_sort\_title.md)
 
 ## 🎥 Entertainment
 
