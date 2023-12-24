@@ -136,6 +136,7 @@
 * [Time Management](career/time-management/README.md)
   * [Breaking Up Hard Tasks](career/time-management/breaking-up-hard-tasks.md)
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
+  * [Dealing with Distractions](career/time-management/dealing-with-distractions.md)
 
 ## Communications
 
