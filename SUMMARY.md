@@ -102,7 +102,7 @@
     * [WOW](https://usaf.dps.mil/sites/20647/RHW/RHWO?CT=1694107440713\&OR=OWA-NT\&CID=d9b0ce39-479a-8e11-f5bc-67ba6313bd4e)
   * [Dayton2DC](career/dod/dayton2dc.md)
 * [Entrepreneurship](career/entrepreneurship/README.md)
-  * [Business Model Canvas]()
+  * [Business Model Canvas](career/entrepreneurship/bizModelCanvas.md)
   * [Launch Dayton Business Toolkit](https://sso.teachable.com/secure/1435228/identity/sign\_up/routing?wizard\_id=EExzyBwqQ0eBgWl7hyZZOX2Ndm7heipZOPOW9BZ7989yU7s\_waQXKLgfOFy58nK-aduK-lXs3qmDHAAUu1iuWA)
   * [MV SBDC (Small Biz Dev)](career/entrepreneurship/mvsb-getting-started/README.md)
     * [MiamiValley Counselling](https://mvsbdc.as.me/KimWoodbury)
