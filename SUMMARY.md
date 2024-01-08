@@ -101,6 +101,7 @@
     * [TSA Precheck Enrollment](https://milconnect.dmdc.osd.mil/milconnect/public/faq/DEERS-TSA\_Precheck)
     * [WOW Viz Board](https://tasks.osi.apps.mil/USAF.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=200a4a0a-8d87-4476-8478-686fec3b78cb\&planId=LiMjW1pZ6EKmcrV-LYU0IowADQ5f)
     * [WOW](https://usaf.dps.mil/sites/20647/RHW/RHWO?CT=1694107440713\&OR=OWA-NT\&CID=d9b0ce39-479a-8e11-f5bc-67ba6313bd4e)
+  * [AFVEC TA](https://afvec.us.af.mil/afvec/public/welcome)
 * [Entrepreneurship](career/entrepreneurship/README.md)
   * [Business Model Canvas](career/entrepreneurship/bizModelCanvas.md)
   * [Launch Dayton Business Toolkit](https://sso.teachable.com/secure/1435228/identity/sign\_up/routing?wizard\_id=EExzyBwqQ0eBgWl7hyZZOX2Ndm7heipZOPOW9BZ7989yU7s\_waQXKLgfOFy58nK-aduK-lXs3qmDHAAUu1iuWA)
