@@ -10,6 +10,12 @@ description: >-
 
 * **ACM Club:** project lead for rebuilding the UD website? Currently in-progress.
 * **Bravo 10**: team won runner-up for Bravo Biometrics, a plotly application for measuring pilot readiness and fatigue. Twas an effort to convince superiors to invest in more comfortable cockpits to reduce pilot turnover because it costs \~$12-20 million to train jet fighter pilots.
+
+### Coursework
+
+* AI
+* Algorithm Design
+* Virtual Reality
 * **tKinter Turtles:** build a learning application to teach K-12 kids python via by solving Codecademy-like challenges.
   * Built it for COVID as I was a remote speaker for Canadian students at Southpointe Academy.
 
