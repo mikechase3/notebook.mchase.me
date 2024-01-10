@@ -676,6 +676,7 @@
     * [Indian Discrimination](https://candor.co/articles/immigration-intel/why-is-this-place-full-of-indians-a-look-at-discrimination-in-the-tech-industry)
 * [Intellectual Property](law/intellectual-property/README.md)
   * [Manual of Patent Examining Procedure](https://www.uspto.gov/web/offices/pac/mpep/index.html)
+* [Afghanistan](https://www.youtube.com/watch?v=iIFi_Rgm-T8)
 * [Rabbit Holes](law/rabbit-holes/README.md)
   * [Renting Cars to Strangers](https://www.legalzoom.com/articles/the-airbnb-of-car-renting-how-to-legally-rent-your-car-to-a-stranger-from-one)
 
