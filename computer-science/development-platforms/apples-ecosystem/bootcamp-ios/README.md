@@ -1,4 +1,4 @@
-# Angela Bootcamp Course
+# Bootcamp iOS Course
 
 ## Course
 
@@ -17,7 +17,7 @@ Ranked in order of usefulness:
 
 There's 55hrs of content & five pages.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

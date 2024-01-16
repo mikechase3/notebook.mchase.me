@@ -77,7 +77,7 @@ $$
 
 **Master Theorem**
 
-![Source: Brilliant, Master Theorem](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![Source: Brilliant, Master Theorem](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Roughly, this theorem says:
 
@@ -131,7 +131,7 @@ $$
 
 We'll use the master theorem again to compare `f(n) = Θ(n^2)` to `n^{log_b(a)} = 2.81` and we'll clearly be using case a.
 
-![Source: Dr. Yao's Notes](<../../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
+![Source: Dr. Yao's Notes](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)
 
 Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better.
 
