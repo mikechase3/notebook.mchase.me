@@ -13,3 +13,6 @@
 * `imshow` take stuff from memory to screen.
 * `imwrite(<filename>, <matrix_back>` basic functions.
 * Use a while loop that waits for a key (such as `esc`).&#x20;
+* I setup a development environment:
+
+{% embed url="https://www.youtube.com/watch?v=H5-B5qKhtYg" %}
