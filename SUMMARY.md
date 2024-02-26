@@ -162,7 +162,7 @@
 * [Public Speaking](communications/public-speaking.md)
 * [Sign Learner](https://signlearner.com/)
 
-## ⌨ Computer Help
+## ⌨️ Computer Help
 
 * [Hardware](computer-help/hardware/README.md)
   * [ThinkWiki](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
@@ -199,13 +199,6 @@
 
 ## 💾 Computer Science
 
-* [Electrical/Hardware Topics](computer-science/electrical-hardware-topics/README.md)
-  * [FPGAs](computer-science/electrical-hardware-topics/fpgas.md)
-  * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable\_gate\_array)
-  * [MIPS](computer-science/electrical-hardware-topics/mips.md)
-  * [Modulation](http://complextoreal.com/wp-content/uploads/2013/01/mod1.pdf)
-  * [Quantum Computing](https://deepboltzer.codes/the-incredible-world-of-quantum-mechanics#heading-quantum-mechanics-fundamental-concepts)
-* [Interactive Media](computer-science/interactive-media.md)
 * [lost+found](computer-science/lostandfound/README.md)
   * [CPS Staff](computer-science/lostandfound/staff.md)
   * [Dropbox LAN Sync How it Works](https://dropbox.tech/infrastructure/inside-lan-sync)
@@ -220,12 +213,6 @@
   * [Distro Test](https://distrotest.net/index.php)
   * [rEFInd Boot Manager](computer-science/linux/refind-boot-manager.md)
   * [Make Your Own Command-Line Commands With python](computer-science/linux/make-your-own-command-line-commands-with-python.md)
-* [Machine Learning](computer-science/understanding-learning/README.md)
-  * [Artificial Intelligence](computer-science/understanding-learning/artificial-intelligence.md)
-  * [Machine Learning](computer-science/understanding-learning/machine-learning.md)
-  * [Deep Learning](computer-science/understanding-learning/deep-learning.md)
-  * [Understanding Neural Networks](computer-science/understanding-learning/understanding-neural-networks.md)
-  * [Text Generation: Textgenrnn](computer-science/understanding-learning/text-generation-textgenrnn.md)
 * [Networking](computer-science/networking/README.md)
   * [DDOS Glossary](https://www.cloudflare.com/learning/ddos/glossary/)
   * [Defining Ports and Protocols](https://superuser.com/questions/346386/what-are-ports-and-protocols-really)
@@ -370,9 +357,15 @@
   * [Obsidian MD Knowledge Base](https://obsidian.md/)
 * [Design](development/design/README.md)
   * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
+  * [Grids](https://www.reddit.com/r/graphic\_design/comments/wftzdn/little\_video\_i\_made\_about\_grids/)
   * [Color Theory](development/design/colors-and-marketing/README.md)
     * [Coolors](https://coolors.co/palettes/trending)
-  * [Grids](https://www.reddit.com/r/graphic\_design/comments/wftzdn/little\_video\_i\_made\_about\_grids/)
+* [Electrical/Hardware Topics](development/electrical-hardware-topics/README.md)
+  * [FPGAs](development/electrical-hardware-topics/fpgas.md)
+  * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable\_gate\_array)
+  * [MIPS](development/electrical-hardware-topics/mips.md)
+  * [Modulation](http://complextoreal.com/wp-content/uploads/2013/01/mod1.pdf)
+  * [Quantum Computing](https://deepboltzer.codes/the-incredible-world-of-quantum-mechanics#heading-quantum-mechanics-fundamental-concepts)
 * [Game Development](development/game-development/README.md)
   * [Blender (3D Modeling)](development/game-development/blender-3d-modeling/README.md)
     * [Doughnut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw\&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
@@ -405,6 +398,8 @@
     * [Unity Docs](https://docs.unity3d.com/Manual/)
     * [C# Scripting](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
+* [Interactive Media](development/interactive-media/README.md)
+  * [Splines](development/interactive-media/splines.md)
 * [Git](development/git/README.md)
   * [Gandhi Git Fundamentals Oreilly](https://learning.oreilly.com/scenarios/your-first-git/9781098144425/)
   * [Git Flash Cards](development/git/git-flash-cards.md)
@@ -500,6 +495,12 @@
   * [Racket](development/languages-and-architectures/scheme.md)
   * [R](development/languages-and-architectures/r.md)
   * [Stack Overflow Insights](https://insights.stackoverflow.com/survey/)
+* [Machine Learning](development/understanding-learning/README.md)
+  * [Artificial Intelligence](development/understanding-learning/artificial-intelligence.md)
+  * [Machine Learning](development/understanding-learning/machine-learning.md)
+  * [Deep Learning](development/understanding-learning/deep-learning.md)
+  * [Understanding Neural Networks](development/understanding-learning/understanding-neural-networks.md)
+  * [Text Generation: Textgenrnn](development/understanding-learning/text-generation-textgenrnn.md)
 * [Microelectronics](development/microelectronics/README.md)
   * [High Quality Projects](development/microelectronics/high-quality-projects/README.md)
     * [BelenaHub](https://hub.balena.io/projects)
@@ -579,7 +580,7 @@
 * [F\* Nestle](https://www.fucknestle.art/)
 * [NYT Cooking](https://cooking.nytimes.com/)
 
-## 🕹 Gaming
+## 🕹️ Gaming
 
 * [Gaming Research Integration](gaming/gaming-research-integration.md)
 * [Guides](gaming/guides/README.md)
@@ -625,7 +626,7 @@
 * [Plan of work for small servantless house](house/plan-of-work-for-small-servantless-house.md)
 * [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 
-## 🖥 Infrastructure and IT
+## 🖥️ Infrastructure and IT
 
 * [Adblocking](infrastructure-and-it/adblocking/README.md)
   * [PiHole Custom DNS](https://pi-hole.net/)
@@ -648,7 +649,7 @@
 * [Open Source Web Servers](infrastructure-and-it/open-source-web-servers/README.md)
   * [Lemmy Reddit](https://join-lemmy.org/docs/administration/administration.html)
 
-## ⚖ Law
+## ⚖️ Law
 
 * [Emerging Legal Issues in CompSci 2023](law/emerging-legal-issues-in-compsci-2023/README.md)
   * [01 Broad Overview](law/emerging-legal-issues-in-compsci-2023/01-broad-overview.md)
