@@ -27,3 +27,4 @@ TODO: put github/gitlab project links here...
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+![IterativeDeepening](IterativeDeepeningAStar.png)

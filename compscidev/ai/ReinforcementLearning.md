@@ -35,6 +35,3 @@ New Twist: we don’t know `T` or `R`.
 
 Sample = Trajectory:
 * An agent take practice in the environment by taking a sequence of actions until it stops the current practice.
-
-## Example
-l
