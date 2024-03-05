@@ -202,7 +202,7 @@
 * [AI](compscidev/ai/README.md)
   * [How AI Large Lang Models Work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_080223\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=B\&utm\_term=ARS\_OrbitalTransmission)
   * [AI Tools Directory](https://www.futurepedia.io/)
-  * [Markov Decision](compscidev/ai/markovDecisionProcess.md)
+  * [Markov Decision](compscidev/ai/MarkovDecision.md)
   * [Reinforcement Learning](compscidev/ai/ReinforcementLearning.md)
 * [Cybersecurity](compscidev/cybersecurity/README.md)
   * [Cybersecurity Fundamentals](compscidev/cybersecurity/cybersecurity/README.md)
