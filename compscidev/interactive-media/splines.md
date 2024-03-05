@@ -18,3 +18,4 @@
 
 <figure><img src="../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
 
+## Bezier Curves
