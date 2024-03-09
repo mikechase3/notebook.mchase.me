@@ -29,10 +29,6 @@ nano ~/.config/user-dirs.dirs
 
 Then run the command `xdg-user-dirs-gtk-update`. If that doesn't fix it, restart Nautilus by typing `nautilus -q` to restart.
 
-
-
-
-
 ## Bookmarks
 
 \~/.config/gtk-3.0/bookmarks
@@ -44,4 +40,3 @@ file:///home/%yourusername%/Pictures
 file:///home/%yourusername%/Videos
 file:///home/%yourusername%/Downloads
 ```
-

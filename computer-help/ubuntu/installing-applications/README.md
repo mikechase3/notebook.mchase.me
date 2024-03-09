@@ -34,9 +34,8 @@ Output:
 
 ## Building from source (.tar.xz)
 
-1. First, unpack the archive with a command like `tar -xzf archive.tar.gz`.&#x20;
-2.  The software must be compiled before it is installed. Typically, what you do is\
-
+1. First, unpack the archive with a command like `tar -xzf archive.tar.gz`.
+2.  The software must be compiled before it is installed. Typically, what you do is\\
 
     ```
     tar -xzf archive-name.tar.gz
@@ -46,11 +45,9 @@ Output:
     sudo make install
     ```
 
-
-
 ## Make a desktop shortcut
 
-Once you have something that is executable, make it searchable in natillius by adding a desktop shortcut (a text file) at `/usr/share/applications/<AppName>.desktop`.&#x20;
+Once you have something that is executable, make it searchable in natillius by adding a desktop shortcut (a text file) at `/usr/share/applications/<AppName>.desktop`.
 
 Inside this text file, enter the following information:
 
@@ -68,6 +65,3 @@ Categories=Network;Application;
 Name[en_US]=<App Name in English>
 ```
 {% endcode %}
-
-
-
