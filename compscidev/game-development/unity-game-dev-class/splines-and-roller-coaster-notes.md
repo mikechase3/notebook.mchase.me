@@ -148,4 +148,10 @@ Recall that an engine has the following **components**: rigidbody, box collider,
 
 The `Start()` method gets the rigidbody component of itself which is the car. Update() will run & updates to the nearest point along the provided spline through and match the forward/up position tangent to the spline.
 
+### Spline Transform Notes
+
+We're going to apply a 200x200 offset in the x/z axis to keep the track on the terrain at 0,0 without having to re-draw the beginning of the spline.&#x20;
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 01.07.48@2x.png" alt=""><figcaption></figcaption></figure>
+
 ##
