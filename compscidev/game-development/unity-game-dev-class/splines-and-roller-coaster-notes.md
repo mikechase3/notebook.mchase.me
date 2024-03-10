@@ -154,4 +154,24 @@ We're going to apply a 200x200 offset in the x/z axis to keep the track on the t
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 01.07.48@2x.png" alt=""><figcaption></figcaption></figure>
 
-##
+## Building the Track
+
+I started by using a top-view and drawing the different points & stopped after a few after noticng that I wasn't reaching the top. I figured there might be a little friction, but I'm only reaching halfway up the other spline:
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 14.08.54.gif" alt=""><figcaption></figcaption></figure>
+
+Easy fix I thought. If we dial up the mass, then the momentum will make the coefficient of friction negligable.
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.28.55@2x.png" alt=""><figcaption></figcaption></figure>
+
+Unfortunately, the orcale says:
+
+> Mass does not affect inertia: In the real world, a heavier object would have more inertia and thus could climb higher given the same initial speed. However, in Unity's physics system, mass does not affect inertia in the same way. Gravity affects all objects equally, but friction and drag can be affected.
+
+In the engine's rigidbody, I set these back to zero:
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.40.00@2x.png" alt=""><figcaption></figcaption></figure>
+
+I honestly didn't think that would work, but that was it:
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.41.07.gif" alt=""><figcaption></figcaption></figure>
