@@ -122,4 +122,30 @@ When we start the script, it'll add an audio component to itself & set the sound
 
 ### Spline Follow Script
 
-Engine is the only game object in the provided scene that uses the game object.&#x20;
+Engine is the only game object in the provided scene that uses the game object. The engine spawns the car mesh and somehow glides it along the spline.&#x20;
+
+Recall that an engine has the following **components**: rigidbody, box collider, audio files, booster script, and this spline follow script. We'd expect this to be in the beginning as a puiblic/serializable field and there's almost too many to keep track of holy moly:
+
+```
+    Rigidbody rb;
+    GameObject car;
+    [SerializeField] SplineContainer track;
+    // [SerializeField] GameObject car;
+    public float directionSwitchThreshold = 0.3f;
+    public float velocityDampeningThreshold = 2.5f;
+    public float velocityDampeningRate = 0.8f;
+    public float stopMinAngleThreshold = 12f;
+    public bool isFollowingSpline = true;
+
+    //Information about our object.
+    [SerializeField] private Vector3 velocity;
+    [SerializeField] private float velocityMagnitude;
+    [SerializeField] private float direction;
+    [SerializeField] private float angle;
+    [SerializeField] private bool movingBackward = false;
+
+```
+
+The `Start()` method gets the rigidbody component of itself which is the car. Update() will run & updates to the nearest point along the provided spline through and match the forward/up position tangent to the spline.
+
+##
