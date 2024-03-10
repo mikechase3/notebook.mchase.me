@@ -4,7 +4,7 @@ Splines are a way to place objects along a mathematical equation such that they 
 
 <figure><img src="../../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
 
-## Roller Coastr Assignment Requirements
+## Roller Coaster Assignment Requirements
 
 * Design based on Spline and Unity physics.
 * Include up and down, turn left and right, and twist.
@@ -54,3 +54,72 @@ It's easier to read about it elsewhere, but here's my notes:
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## Scripting
+
+This is a first-pass of me reading the provided scripts.&#x20;
+
+### Booster Script
+
+Essentially, this script applies a nudge to help maintain the speed of GameObjects passing through the trigger zone, playing sound on repeat while it stays in the trigger zone, and stops both as it exits. Skip to the next header now.
+
+```csharp
+    private void OnTriggerStay(Collider other)
+    {
+        // Check if the collision involves a Rigidbody component
+        Rigidbody otherRigidbody = other.gameObject.GetComponent<Rigidbody>();
+
+        if (otherRigidbody != null)
+        {
+            // Calculate the current speed of the object
+            float currentSpeed = otherRigidbody.velocity.magnitude;
+
+            // Check if the current speed is below the minimum
+            if (currentSpeed < minimumSpeed)
+            {
+                // Apply force continuously as long as the object stays in the trigger
+                otherRigidbody.AddForce(forceMagnitude * other.gameObject.transform.forward);
+                
+
+                // Check if the audio source is not playing, and if not, play the sound
+                if (!audioSource.isPlaying)
+                {
+                    audioSource.Play();
+                }
+            }
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        // Stop playing the sound when the object exits the trigger zone
+        audioSource.Stop();
+    }
+```
+
+<details>
+
+<summary>Jibber Jabber </summary>
+
+When a game object collides with a trigger box, you can use the `OnTriggerStay (Collider other)` to run custom code through that function because it inherits Monobehaviour. Because we have a reference to that object, we can grab it's rigidbody. Rigidbodies give them mass such that they react to the laws of physics and we can assign them a mass. Because they have mass, we can make them react to other game objects which have mass because they are rigid bodies. The `Booster.cs` shares the game object with the trigger box, so we'll grab it and change it's speed by applying "forward".
+
+Forward by my rough definition on the x-z axis. I should lookup what's the proper term. I'll do this by messing around with it. Let's look at this existing code & print what `transform.forward()` is:
+
+```
+// Apply force continuously as long as the object stays in the trigger
+otherRigidbody.AddForce(forceMagnitude * other.gameObject.transform.forward);
+```
+
+And once again I forgot how to print stuff to the console so I'll save this for when it's an actual problem & come back to it. I believe it'll be forward on the x-z plane of whatever we define to be the front (which is the front of the roller coaster). Just use common sense in orienting things.&#x20;
+
+First, the forceMagnitude variable holds however much force is applied to that other game object's rigidbody. I wonder - is there a convention for books? Am I referring to the class? Like... yeah, but really an instance of a game object defined by the class. Interesting conundrum for a fellow commenter. `miniumSpeed` is just a float. You can put a sound clip in here too, that's nice.&#x20;
+
+When we start the script, it'll add an audio component to itself & set the sound to play continuously in a loop until `OnTriggerExit());`
+
+</details>
+
+
+
+### Spline Follow Script
+
+Engine is the only game object in the provided scene that uses the game object.&#x20;
