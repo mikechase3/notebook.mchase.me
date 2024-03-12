@@ -156,6 +156,8 @@ We're going to apply a 200x200 offset in the x/z axis to keep the track on the t
 
 ## Building the Track
 
+
+
 I started by using a top-view and drawing the different points & stopped after a few after noticng that I wasn't reaching the top. I figured there might be a little friction, but I'm only reaching halfway up the other spline:
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 14.08.54.gif" alt=""><figcaption></figcaption></figure>
@@ -175,3 +177,110 @@ In the engine's rigidbody, I set these back to zero:
 I honestly didn't think that would work, but that was it:
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.41.07.gif" alt=""><figcaption></figcaption></figure>
+
+### Constructing the Track
+
+First, take a cube. I scaled mine to look like an `H` like so:
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.15.10.png" alt=""><figcaption></figcaption></figure>
+
+Next, I modified the script to include this to make the track follow the spline.&#x20;
+
+```csharp
+[SerializedField] prefa;
+
+void placePrefabsAlongSpline() {
+    if (track.Spline == null || prefab == null) {
+        return;
+    }
+
+    float totalDistance = track.Spline.GetTotalLength();
+    int n = Mathf.RoundToInt(totalDistance / resolution); // where resolution is the desired distance between prefabs
+
+    for (int i = 0; i <= n; i++) {
+        float t = i / (float)n;
+        Vector3 position = track.Spline.EvaluatePosition(t);
+        Vector3 tangent = track.Spline.EvaluateTangent(t);
+        Quaternion rotation = Quaternion.LookRotation(tangent);
+        
+        Transform instance = Instantiate(prefab, position, rotation);
+        instance.SetParent(track.transform);
+    }
+}
+
+
+```
+
+And now it works. I had to re-adjust some of the sharp turns.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.13.37.png" alt="" width="187"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.21.27.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.32.33.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Eliminating Collisions
+
+Let's just move the track down & see what happens?
+
+![](<../../../.gitbook/assets/CleanShot 2024-03-11 at 17.59.32@2x.png>) So now that it's moved down we get:
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.57.43.png" alt=""><figcaption></figcaption></figure>
+
+## Audio Triggers
+
+### Prefab Reference Approach (Didn't Work)
+
+While I don't know the right approach, this should work:
+
+```
+public AudioSource audioSource;
+public AudioClip scareClip;
+public GameObject scareBox;  // WORKING ON IT
+```
+
+And for the function:
+
+```
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject == scareBox)  
+        {
+            // Ensure AudioSource isn't already playing something
+            if (!audioSource.isPlaying)
+            {
+                audioSource.PlayOneShot(scareClip);
+            }
+        }
+    }
+    
+```
+
+
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-12 at 10.22.21@2x.png" alt=""><figcaption></figcaption></figure>
+
+### Tag Approach
+
+Don't know what's up with that, but let's try this. Same thing, but instead of using the object we'll compare tags:
+
+```
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("scaryAudioBox")){
+            // Ensure AudioSource isn't already playing something
+            if (!audioSource.isPlaying)
+            {
+                audioSource.PlayOneShot(scareClip);
+            }
+        }
+    }
+```
