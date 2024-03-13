@@ -43,3 +43,17 @@ In Markov decision process, we receive feedback.
 Sample = Trajectory:
 
 * An agent take practice in the environment by taking a sequence of actions until it stops the current practice.
+
+## Further Exploration
+
+{% embed url="https://openai.com/research/openai-gym-beta" %}
+
+### Malamo
+
+Apparently there's some sort-of minecraft educational tool that'll help you design/study RL algorithms in a complex world.&#x20;
+
+{% embed url="https://github.com/microsoft/malmo" %}
+
+### Reading on RL
+
+{% embed url="http://incompleteideas.net/book/bookdraft2018jan1.pdf" %}

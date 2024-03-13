@@ -53,9 +53,87 @@ Update the policy based on the updated value function estimates (e.g. using a po
 
 * After each episode, the value function estimate $$V(s)$$ for a state $$s$$ is updated using the following equation:  where $$N(s)$$ is the number of times state $$ss$$ has been visited, and $$G$$ is the return obtained in the episode.
 
+## Class Notes
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-13 at 19.33.38.png" alt=""><figcaption></figcaption></figure>
+
 ## Further Reading
 
 {% embed url="https://en.wikipedia.org/wiki/Monte_Carlo_method" %}
 
 {% embed url="https://www.youtube.com/watch?v=BfS2H1y6tzQ" %}
 
+## Sample Code
+
+```python
+import numpy as np
+
+# State value and initial policy
+v = np.zeros((4, 4))  # All state values are initially 0 for non-terminal states
+pi = np.random.randint(0, 4, (4, 4))
+rewards = np.zeros((4, 4)) # rewards for each state are initially 0
+
+# Set rewards for specific states
+rewards[0, 3] = -100
+rewards[3, 0] = 10
+rewards[3, 3] = 100
+
+# Available actions and their corresponding labels
+actions = [[1, 0], [0, 1], [-1, 0], [0, -1]]
+a_labels = ['down', 'right', 'up', 'left']
+
+# Define valid and terminal states
+valid_locs = [[0, 3], [1, 0], [1, 1], [1, 2], [1, 3], [2, 0], [2, 1], [2, 2], [2, 3], [3, 0], [3, 3]]
+terminal_states = [[0, 3], [3, 0], [3, 3]]
+
+# Set terminal state values
+v[0, 3] = 100
+v[3, 0] = 10
+v[3, 3] = -100
+
+# Discount factor for the future rewards
+gamma = .990
+
+def action_chooser(y, x):
+    """
+    Randomly choose an action based on the policy for state (y, x) to simulate the unknown environment.
+    """
+    a = pi[x, y]
+    action_probs = [np.random.rand() + 0.5 for _ in range(3)]  # probabilities of 3 actions
+    action_probs[1] = action_probs[1] if a != 0 else np.random.rand()  
+    action_probs[2] = action_probs[2] if a != 3 else np.random.rand()
+
+    # Choosing the action with maximum probability
+    move = [a, a - 1 if a != 0 else 3, a + 1 if a != 3 else 0][np.argmax(action_probs)]
+    print(f'action: {a_labels[move]}')
+    return move
+
+def go_next(y, x):
+    """Decides the next state for the agent to move to. If the next state is not valid, the agent stays in the current state."""
+    a = action_chooser(y, x)
+    next_state = (np.array([y, x]) + np.array(actions[a])).tolist()
+
+    if next_state not in valid_locs:
+        next_state = [y, x]
+    reward = rewards[next_state[0], next_state[1]]  # get the reward for transitioning to the next state
+    return next_state, reward
+
+# Training episodes, starting from random states
+for e in range(8):
+    print(f'**************** episode [{e}] ****************')
+
+    init_x = np.random.randint(0, 4, 1)[0]
+    init_y = np.random.randint(1, 3, 1)[0]
+
+    print(f'[{init_y}, {init_x}]')
+    next_state, reward = go_next(init_y, init_x)
+
+
+
+    while next_state not in terminal_states:
+        print(next_state)
+        next_state, reward = go_next(next_state[0], next_state[1])
+        print("Received reward: ", reward)
+
+    print(next_state)
+```
