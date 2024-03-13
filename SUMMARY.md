@@ -382,6 +382,8 @@
   * [Splines](compscidev/interactive-media/splines.md)
   * [CV CMAKE](compscidev/interactive-media/cv-cmake.md)
   * [OpenGL Setup Mac](compscidev/interactive-media/opengl-setup-mac.md)
+  * [Rotating around a Point](compscidev/interactive-media/rotating-around-a-point.md)
+  * [OpenCV Flow](https://online.opencvflow.org)
 * [Git](compscidev/git/README.md)
   * [Gandhi Git Fundamentals Oreilly](https://learning.oreilly.com/scenarios/your-first-git/9781098144425/)
   * [Git Flash Cards](compscidev/git/git-flash-cards.md)

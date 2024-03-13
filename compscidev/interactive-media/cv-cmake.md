@@ -1,3 +1,5 @@
+# CV CMAKE
+
 Add this to a cmake file:
 
 ```
@@ -26,4 +28,21 @@ add_executable(${PROJECT_NAME} main.cpp)
 # Link project with ependencies
 target_link_libraries(AS02_BeizerCurves ${OpenCV_LIBS})
 
+```
+
+Header Imports:
+
+```
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <vector>
+#include <cmath> // for pow
+
+using namespace std;
+
+// OpenCV includes
+#include "opencv2/core.hpp"
+#include "opencv2/highgui.hpp"
+#include "opencv2/imgproc/imgproc.hpp" // Required for drawing functions
 ```
