@@ -919,7 +919,7 @@
   * [MLA Poster](https://owl.purdue.edu/owl/research\_and\_citation/mla\_style/mla\_formatting\_and\_style\_guide/20211015MLA9Poster.jpg)
   * [Purdue Owl](https://owl.purdue.edu/owl/purdue\_owl.html)
 * [Thesis](writing/thesis/README.md)
-  * [Thesis Ideas Feb 2024 Reflection](writing/thesis/thesis-ideas-feb-2024-reflection.md)
+  * [Thesis Ideas 2024 Reflections](writing/thesis/thesis-ideas-feb-2024-reflection.md)
   * [UD Guide](https://libguides.udayton.edu/etd)
 * [Tongue Quill Etiquette](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 * [Tools and Technologies](writing/tools-and-technologies/README.md)
