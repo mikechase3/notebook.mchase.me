@@ -12,4 +12,3 @@ description: Coursera's AWS Machine Learning Course. Taught by experts at Amazon
 * Understanding Neural Networks
 * Machine Learning Algorithms
 * Quiz
-
