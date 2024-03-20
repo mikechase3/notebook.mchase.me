@@ -1,4 +1,4 @@
-# Graph Fundamentals (L12)
+# Elementary Graph Algs
 
 ## Graph Fundamentals
 
@@ -8,7 +8,7 @@ By the way - you should check out his videos because they're awesome. Even thoug
 
 ### Mathematical Representation
 
-* &#x20;A [graph](https://en.wikipedia.org/wiki/Graph\_\(abstract\_data\_type\)) is a mathematical object that consists of a [set](https://en.wikipedia.org/wiki/Set\_\(mathematics\)) of vertices (or "nodes") and a set of edges connecting those nodes together.
+* A [graph](https://en.wikipedia.org/wiki/Graph\_\(abstract\_data\_type\)) is a mathematical object that consists of a [set](https://en.wikipedia.org/wiki/Set\_\(mathematics\)) of vertices (or "nodes") and a set of edges connecting those nodes together.
 * We stress that you see a graph as a mathematical object that takes the form `G = (V, E)`. A graph consists of a set of vertices and a set of edges.
 * We say this because many get confused by the many ways a graph can be _represented_ and get stuck on details. In the problem-solving process, it is of great help to "see the larger picture" and understand that a graph just consists of **2 sets** (`V` & `E`).
 
@@ -27,29 +27,29 @@ $$
 G = (V, E)
 $$
 
-| Title     | Definition                                                                     |
-| --------- | ------------------------------------------------------------------------------ |
-| Edges     | Connects the verticies                                                         |
-| Verticies | The 'nodes,' or circles you're connecting to.                                  |
-| V         | V is the set of all vertices, like `V = {1, 2, 3, 4, 5}`                       |
-| E         | E contains all the **sets of edges**, like `E = { {1,2}, {1, 3}, {2, 3} }`     |
-| \|V\|     | The **cardinality**, or size of the vertices, or how many vertices their are.  |
-| \|E\|     | The **cardinality**, or size, or how many total edges there are.               |
+| Title     | Definition                                                                    |
+| --------- | ----------------------------------------------------------------------------- |
+| Edges     | Connects the verticies                                                        |
+| Verticies | The 'nodes,' or circles you're connecting to.                                 |
+| V         | V is the set of all vertices, like `V = {1, 2, 3, 4, 5}`                      |
+| E         | E contains all the **sets of edges**, like `E = { {1,2}, {1, 3}, {2, 3} }`    |
+| \|V\|     | The **cardinality**, or size of the vertices, or how many vertices their are. |
+| \|E\|     | The **cardinality**, or size, or how many total edges there are.              |
 
 ### Vertices (V)
 
 ![](<../../../.gitbook/assets/image (51).png>)
 
-* Vertices is the set of all the vertices.&#x20;
-* These are connected by edges.&#x20;
+* Vertices is the set of all the vertices.
+* These are connected by edges.
 * Here, the vertices are `V = {1, 2, 3, 4, 5}`.
-* The _cardinality_ (or size) __ of the vertices is 5.
+* The _cardinality_ (or size) \_\_ of the vertices is 5.
 
 ### Edges
 
 ![](<../../../.gitbook/assets/image (52).png>)
 
-* Edges connect the vertices together.&#x20;
+* Edges connect the vertices together.
 * The order in which you write out the edges doesn't matter
 * The _cardinality_ of the edges is 6.
 
@@ -90,7 +90,7 @@ $$
 * `m` is the amount of true edges.
 * `2` means we're double counting every edge because they can go back and forth.
   * We count each edge twice
-  * We double count the number of true edges.&#x20;
+  * We double count the number of true edges.
 
 ### Summations for Directed Graphs
 
@@ -106,7 +106,7 @@ If the whole graph is just `u -> v`, then:
 
 * The set of all vertices is `V = {u, v}`
 * The set of all edges is `{(u,v)}`.
-* Clearly, the sum of all in-degrees is equal to the sum of all outgoing degrees.&#x20;
+* Clearly, the sum of all in-degrees is equal to the sum of all outgoing degrees.
 
 ### Sub-Graphs
 
@@ -138,13 +138,9 @@ In this example:
 1. The connected components of `v(1)` is the entire red arrow.
 2. The connected components of `v(5)` is the entire set the yellow arrow points to.
 
-#### Why are we concerned?
+**Why are we concerned?**
 
 DFS and BFS are guaranteed to search their connected component, but they are not going to search the whole graph like looping over all the vertices and finding each edge between them in the representation versus just doing a search off of a node (which will only hit the whole component).
-{% endtab %}
-
-{% tab title="Directed Graphs" %}
-
 {% endtab %}
 {% endtabs %}
 
@@ -154,7 +150,7 @@ DFS and BFS are guaranteed to search their connected component, but they are not
 Is this actually what a strong connection means?
 {% endhint %}
 
-Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection_ implies`v` can get to `u` and `u` can get to `v`.&#x20;
+Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection_ implies`v` can get to `u` and `u` can get to `v`.
 
 ![Strong Connection](<../../../.gitbook/assets/image (58).png>)
 
@@ -187,7 +183,7 @@ A forest is a graph with no cycles, and a tree is a connected forest. That makes
 
 Shortest path: You start at a source node.
 
-Minimum spanning:&#x20;
+Minimum spanning:
 
 ## Works Cited
 
