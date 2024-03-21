@@ -560,6 +560,7 @@
   * [Tips for Kids](education/teaching-code/tips-for-kids.md)
   * [Feedback](education/teaching-code/feedback.md)
 * [UD](education/ud/README.md)
+  * [Course Registration](https://docs.google.com/document/d/1vtXd3nWGOwcNm9usflvjmCE6y46FvIgZUvEt3S\_bcOA/edit?pli=1#heading=h.7j3l00r5uhvu)
   * [Employment @ UD](https://employment.udayton.edu/en-us/listing/?pagenotfound=true)
   * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
   * [UD Stu Discounts](https://docs.google.com/spreadsheets/d/1bnw-46Tm\_3PdFD6EXIhHwArfNsQX4DNUFPog2\_CNjQA/edit#gid=0)
