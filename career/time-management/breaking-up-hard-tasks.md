@@ -1,5 +1,11 @@
 # Breaking Up Hard Tasks
 
+## Better Written Works
+
+{% embed url="https://jacobian.org/2024/mar/11/breaking-down-tasks/" %}
+
+## My Original Thoughts
+
 Plan for this page:
 
 * Summary of tools/technologies I used.
