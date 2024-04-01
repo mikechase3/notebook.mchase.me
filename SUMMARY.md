@@ -393,7 +393,7 @@
 * [Interactive Media](compscidev/interactive-media/README.md)
   * [Splines](compscidev/interactive-media/splines.md)
   * [CV CMAKE](compscidev/interactive-media/cv-cmake.md)
-  * [OpenGL Setup Mac](compscidev/interactive-media/opengl-setup-mac.md)
+  * [OpenGL Setup](compscidev/interactive-media/opengl-setup.md)
   * [Rotating around a Point](compscidev/interactive-media/rotating-around-a-point.md)
   * [OpenCV Flow](https://online.opencvflow.org)
 * [Git](compscidev/git/README.md)

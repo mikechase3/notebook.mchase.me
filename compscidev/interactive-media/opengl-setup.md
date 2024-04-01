@@ -1,4 +1,4 @@
-# OpenGL Setup Mac
+# OpenGL Setup
 
 ## Mac (XCODE)
 
@@ -163,6 +163,10 @@ This is where I give up for today.&#x20;
 
 ## Windows & Visual Studio
 
+{% hint style="info" %}
+Lots of classmates had issues/errors using this.&#x20;
+{% endhint %}
+
 You can get the community studio of visual studio for free:
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 13.02.07@2x.png" alt=""><figcaption></figcaption></figure>
@@ -174,3 +178,56 @@ Then, download these files from Isidore:
 
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 13.04.30@2x.png" alt=""><figcaption></figcaption></figure>
+
+## Linux
+
+Linux seems to work extremely well whenever I have development issues. I love the terminal & it lets me stay focused on my work instead of complaints [about why I'm not using Edge](https://arstechnica.com/gadgets/2024/01/microsoft-edge-is-apparently-seamlessly-usurping-chrome-on-peoples-pcs/).&#x20;
+
+And GOSH DARN IT I DIDNT EVEN GET THAT FAR!:
+
+### Debugging HyperV
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 10.11.25@2x (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 10.29.14@2x.png" alt=""><figcaption></figcaption></figure>
+
+To install OpenCV and OpenGL on Ubuntu 22.04 LTS, you can follow the steps below:
+
+**1. Install OpenCV:**\
+OpenCV can be installed using the package manager or built from source. Here's the recommended method of installation using the package manager:
+
+```
+sudo apt updatesudo apt install libopencv-dev
+```
+
+This command will install the pre-compiled OpenCV package and its dependencies.
+
+**2. Install OpenGL:**\
+OpenGL is usually installed on Linux systems by default. However, you may need to install the development libraries and utilities to compile and link OpenGL applications. Use the following command:
+
+```
+sudo apt install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev
+```
+
+This will install the necessary packages for OpenGL development.
+
+**3. Verify the installations:**\
+To make sure the installations were successful, you can check the versions of OpenCV and OpenGL installed on your system:
+
+For OpenCV, use the following command:
+
+```
+pkg-config --modversion opencv
+```
+
+This should display the version number of OpenCV.
+
+For OpenGL, you can check the version by running:
+
+```
+glxinfo | grep "OpenGL version"
+```
+
+This will display the OpenGL version information.
+
+These steps should help you install OpenCV and OpenGL on Ubuntu 22.04 LTS. Remember to consult official documentation or resources from the respective projects if you encounter any issues during the installation process.
