@@ -1,6 +1,14 @@
+---
+description: Also getting OpenCV to work at the same time.
+---
+
 # OpenGL Setup
 
 ## Mac (XCODE)
+
+{% hint style="warning" %}
+This works, but broke my OpenCV installation.
+{% endhint %}
 
 First, launch xcode and make a command line tool.
 
@@ -100,64 +108,7 @@ I ran `xhost +` in my terminal and found that there was no access control issues
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.49.53.png" alt=""><figcaption></figcaption></figure>
 
-```cpp
-#include <GL/glew.h>
-#include <GL/freeglut.h>
-#include <iostream>
-#include <cstdlib> // for getenv
 
-
-int main(int argc, char** argv)
-{
-    // Disable access control for the X11 server
-    int result = system("/opt/X11/bin/xhost +");
-    if (result != 0)
-    {
-        std::cerr << "Failed to disable access control for the X11 server" << std::endl;
-        return 1;
-    }
-
-    // Check if the DISPLAY environment variable is set
-    const char* display_env = std::getenv("DISPLAY");
-    if (display_env) {
-        std::cout << "DISPLAY: " << display_env << std::endl;
-    } else {
-        std::cout << "DISPLAY environment variable not set" << std::endl;
-    }
-
-    // Initialize GLUT
-    glutInit(&argc, argv);
-
-    // Create a window
-    glutCreateWindow("Library Check");
-
-    // Initialize GLEW
-    GLenum glewStatus = glewInit();
-    if (glewStatus != GLEW_OK)
-    {
-        std::cerr << "Error initializing GLEW: " << glewGetErrorString(glewStatus) << std::endl;
-        return 1;
-    }
-
-    // Check if GLEW is working
-    if (!GLEW_VERSION_2_1)  // Check for GLEW 2.1 or higher
-    {
-        std::cerr << "Your GLEW version is too old. GLEW 2.1 or higher is required." << std::endl;
-        return 1;
-    }
-
-    // Check if freeglut is working
-    if (!glutGet(GLUT_ELAPSED_TIME))
-    {
-        std::cerr << "freeglut is not working correctly." << std::endl;
-        return 1;
-    }
-
-    std::cout << "GLEW and freeglut are installed and working correctly." << std::endl;
-
-    return 0;
-}
-```
 
 This is where I give up for today.&#x20;
 
@@ -179,7 +130,7 @@ Then, download these files from Isidore:
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 13.04.30@2x.png" alt=""><figcaption></figcaption></figure>
 
-## Linux
+### HyperVisor Approach
 
 Linux seems to work extremely well whenever I have development issues. I love the terminal & it lets me stay focused on my work instead of complaints [about why I'm not using Edge](https://arstechnica.com/gadgets/2024/01/microsoft-edge-is-apparently-seamlessly-usurping-chrome-on-peoples-pcs/).&#x20;
 
@@ -187,9 +138,23 @@ And GOSH DARN IT I DIDNT EVEN GET THAT FAR!:
 
 ### Debugging HyperV
 
+Looks like something is wrong with my BIOS settings. Since my PC is back in Dayton I probably can't fix my BIOS settings remotely...
+
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 10.11.25@2x (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 10.29.14@2x.png" alt=""><figcaption></figcaption></figure>
+
+### Azure Cloud Solution
+
+Since I'm not in the office, I decided to create a whole new VM. If this doesn't work, I'm taking my mac to my professor and telling him to get both OpenCV and OpenGL working at the same time because OpenGL on my mac broke OpenCV which is just dandy and I've never spent&#x20;
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 11.08.18@2x.png" alt=""><figcaption></figcaption></figure>
+
+## Ubuntu Instructions
+
+{% hint style="info" %}
+Asked an LLM; untested so far but I might pivot to this if I can somehow RDP into a linux machine (which I don't think I can do but maybe Azure supports it. Won't work if I have to ssh in only).
+{% endhint %}
 
 To install OpenCV and OpenGL on Ubuntu 22.04 LTS, you can follow the steps below:
 
@@ -231,3 +196,6 @@ glxinfo | grep "OpenGL version"
 This will display the OpenGL version information.
 
 These steps should help you install OpenCV and OpenGL on Ubuntu 22.04 LTS. Remember to consult official documentation or resources from the respective projects if you encounter any issues during the installation process.
+
+
+

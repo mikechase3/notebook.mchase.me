@@ -181,6 +181,8 @@
   * [Search Algorithms](compscidev/ai/search-algorithms.md)
   * [Natural Language Processing](compscidev/ai/natural-language-processing.md)
   * [Robotics & Autonomous Systems](compscidev/ai/robotics-and-autonomous-systems.md)
+* [Cloud Env Setups](compscidev/cloud-env-setups/README.md)
+  * [Azure](compscidev/cloud-env-setups/azure.md)
 * [Cybersecurity](compscidev/cybersecurity/README.md)
   * [Cybersecurity Fundamentals](compscidev/cybersecurity/cybersecurity/README.md)
     * [Lecture 05: The Maya Part 1](compscidev/cybersecurity/cybersecurity/lecture-05-the-maya-part-1.md)
