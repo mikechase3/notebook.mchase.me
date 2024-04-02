@@ -398,6 +398,7 @@
   * [OpenGL Setup](compscidev/interactive-media/opengl-setup.md)
   * [Rotating around a Point](compscidev/interactive-media/rotating-around-a-point.md)
   * [OpenCV Flow](https://online.opencvflow.org)
+  * [Illumination](compscidev/interactive-media/illumination.md)
 * [Git](compscidev/git/README.md)
   * [Gandhi Git Fundamentals Oreilly](https://learning.oreilly.com/scenarios/your-first-git/9781098144425/)
   * [Git Flash Cards](compscidev/git/git-flash-cards.md)
