@@ -1,5 +1,13 @@
 # Splines & Roller Coaster Notes
 
+## Project Setup
+
+Link to the project in zip form:
+
+{% embed url="https://drive.google.com/file/d/1Mcp3uJ-larCEAf72oCdyh7P-WJPccXoc/view?usp=sharing" %}
+
+## What Are Splines?
+
 Splines are a way to place objects along a mathematical equation such that they are efficient in memory. It's composed of two vectors on a cartesian plane, but an equation controls the shape giving it a curve.
 
 <figure><img src="../../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
@@ -284,3 +292,9 @@ Don't know what's up with that, but let's try this. Same thing, but instead of u
         }
     }
 ```
+
+## Building for Google Cardboard VR
+
+Build for AR w/ android support for google cardboard.
+
+{% embed url="https://developers.google.com/cardboard/develop/unity/quickstart" %}
