@@ -12,7 +12,11 @@
 >
 > On the other hand, the shading models mentioned (flat, Gouraud, and Phong) are common heuristic models used in computer graphics that do not strictly adhere to physical accuracy. They approximate the lighting and shading effects on a surface in a **simplified manner**. Although these models may not accurately represent the physical behavior of light, they have been widely adopted and provide effective results in practice. Most graphics hardware and software include support for these shading models, making them common choices for real-time rendering applications.
 
+<figure><img src="../../.gitbook/assets/image (703).png" alt=""><figcaption></figcaption></figure>
+
 ## Diffuse Objects
+
+Diffusion is how light direction interacts with surface normal. The vector starts from V pointing towards the light source.
 
 > "Illumination and shading in computer graphics involve simulating how light interacts with materials. While physically based rendering aims for accurate simulations, there are commonly used non-physically based shading models: flat, Gouraud, and Phong.
 >
@@ -59,4 +63,14 @@ $$
 > Multiplying "C.v", "C.l", and "cos(\theta)" together combines the colors of the surface, light source, and the part of the light that is hitting the surface to determine the contribution of the diffuse reflection component to the overall color of point V.
 >
 > Essentially, this equation represents the interaction between the surface color, the color and intensity of the light source, and the angle at which light hits the surface, to calculate the diffuse reflection component responsible for determining the final color of the point V on the surface.
+>
+>
+
+### Equations for Defining a Lighting Model
+
+<figure><img src="../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
+
+### Calculating Dot Products of Normalized Vectors
+
+<figure><img src="../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
