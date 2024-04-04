@@ -178,6 +178,7 @@
     * [Markov Decision](compscidev/ai/reinforcementlearning/markovdecision.md)
     * [Monte Carlo Methods](compscidev/ai/reinforcementlearning/monte-carlo-methods.md)
     * [Prescriptive Analytics w/ Python](compscidev/ai/reinforcementlearning/prescriptive-analytics-w-python.md)
+    * [Crawler Practice](compscidev/ai/reinforcementlearning/crawler-practice.md)
   * [Search Algorithms](compscidev/ai/search-algorithms.md)
   * [Natural Language Processing](compscidev/ai/natural-language-processing.md)
   * [Robotics & Autonomous Systems](compscidev/ai/robotics-and-autonomous-systems.md)
