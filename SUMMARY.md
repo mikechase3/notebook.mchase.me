@@ -617,6 +617,7 @@
   * [Darbee Fitness Guides](https://darebee.com/fitness.html)
 * [Kinesiology (Exercise Science)](health-and-fitness/importance-and-education/README.md)
   * [Benefits of Physical Activity Infograph](https://www.cdc.gov/physicalactivity/basics/adults/pdfs/Health\_Benefits\_PA\_Adults\_Jan2021\_H.pdf)
+  * [Lower Back Stretches](https://www.youtube.com/watch?v=29RJaiZ2TSo)
 * [Nutrition & Dietetics](health-and-fitness/metabolism-and-nutrition/README.md)
   * ["Physical Activity Guidelines for Americans"](https://health.gov/sites/default/files/2019-09/Physical\_Activity\_Guidelines\_2nd\_edition.pdf)
   * [Healthy Eating](health-and-fitness/metabolism-and-nutrition/healthy-eating/README.md)
