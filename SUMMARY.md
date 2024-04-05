@@ -182,6 +182,7 @@
   * [Search Algorithms](compscidev/ai/search-algorithms.md)
   * [Natural Language Processing](compscidev/ai/natural-language-processing.md)
   * [Robotics & Autonomous Systems](compscidev/ai/robotics-and-autonomous-systems.md)
+  * [Gymnasium Environment Setup](compscidev/ai/gymnasium-environment-setup.md)
 * [Cloud Env Setups](compscidev/cloud-env-setups/README.md)
   * [Azure](compscidev/cloud-env-setups/azure.md)
 * [Cybersecurity](compscidev/cybersecurity/README.md)
