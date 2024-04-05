@@ -86,6 +86,7 @@
   * [Sowell Economics Inequality](https://www.youtube.com/watch?v=mS5WYp5xmvI)
 * [DoD](career/dod/README.md)
   * [2023](https://sites.google.com/d/1lMeESgjseLp6CShcteykDBZiPwGD2FBl/p/1Cjua4nV8Jxyo7BHo5G\_boaaif87Z3VrU/edit)
+  * [2023 Almanac](https://www.airandspaceforces.com/article/air-force-space-force-almanac-2023/)
   * [Dayton2DC](career/dod/dayton2dc.md)
   * [Military Morale | Welfare | Recreation](career/dod/benefits\_and\_edu\_resources/README.md)
     * [Library/Databases](https://daf.dodmwrlibraries.org/databases)
