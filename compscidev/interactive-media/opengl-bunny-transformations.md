@@ -5,7 +5,7 @@ This project was initially intended to be implemented in C++, but due to complic
 The approach to this project is divided into several steps:  
 1. **Data Import**: The data from an .obj file is imported. The file is in plain text, so the String.split() and .startswith() methods, which are part of Python strings, are used for parsing. This process is encapsulated in a Data class.
 2. **3D Object Display:** The 3D object is displayed using an OpenGL Python wrapper. The glColor3f() function is used to set colors, and glBegin() and glEnd() denote the beginnings and ends of glVertex()s to be shaded. A keyboard callback function is also implemented to toggle between solid and mesh views.  
-3. Translation/Rotation Methods: These methods are built without using OpenGL provided commands. Instead, OpenCV's Mat class is used to create matrices and homogeneous coordinates. These matrices are then multiplied to translate/rotate, and the display is updated using gluePostRedisplay() after mouse/keyboard actions. 
+3. **Translation/Rotation Methods**: These methods are built without using OpenGL provided commands. Instead, OpenCV's Mat class is used to create matrices and homogeneous coordinates. These matrices are then multiplied to translate/rotate, and the display is updated using gluePostRedisplay() after mouse/keyboard actions. 
 
 
 ## Parsing An `.obj` File to Extract Vertexes & Faces
