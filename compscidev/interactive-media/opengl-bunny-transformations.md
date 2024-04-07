@@ -1,19 +1,12 @@
 # OpenGL Bunny Transformations
+This project was initially intended to be implemented in C++, but due to complications with OpenCV and OpenGL installations, it was decided to use Python instead. Python's virtual environments provide a more manageable solution. For those interested in the C++ attempt, refer to the OpenGL Setup where OpenGL setup for Mac is discussed. 
 
-We're supposed to implement this in C++, but life is too short and installing OpenCV breaks OpenGL so I wrote this in Python where I can use virtual environments.  If you're interested in seeing my C++ attempt, see [OpenGL Setup](opengl-setup.md) where I get GL for mac setup.
+# Approach
+The approach to this project is divided into several steps:  
+1. **Data Import**: The data from an .obj file is imported. The file is in plain text, so the String.split() and .startswith() methods, which are part of Python strings, are used for parsing. This process is encapsulated in a Data class.
+2. **3D Object Display:** The 3D object is displayed using an OpenGL Python wrapper. The glColor3f() function is used to set colors, and glBegin() and glEnd() denote the beginnings and ends of glVertex()s to be shaded. A keyboard callback function is also implemented to toggle between solid and mesh views.  
+3. Translation/Rotation Methods: These methods are built without using OpenGL provided commands. Instead, OpenCV's Mat class is used to create matrices and homogeneous coordinates. These matrices are then multiplied to translate/rotate, and the display is updated using gluePostRedisplay() after mouse/keyboard actions. 
 
-## Approach
-
-1. Import the data from an `.obj` file. Since it's in plain text, we'll parse them using `String.split()` and `.startswith()` methods I think are part of [python strings.](../git/languages-and-architectures/python/corepython/strings/) I wrapped all this into a Data class.
-2. Display the 3D object through an OpenGL python wrapper. I'll use `glColor3f()` to set colors and `glBegin()` and `glEnd()` to denote the beginnings/ends of `glVertex()`s to be shaded. I'll also implement a keyboard callback function to toggle between solid & mesh views if I can. Initially without illumination/shading it'll look flat but we'll fix that too.
-3. Build translation/rotation methods without using OpenGL provided commands. Instead, we'll use OpenCV's `Mat` clas to create matrices & homogenous (uniform) coordinates. We'll multiply to translate/rotate matrices and ensure proper updating of the display using `gluePostRedisplay()` after mouse/keyboard actions.&#x20;
-
-* [ ] Successfully display the bunny object on screen
-* [ ] Implemdnt the ability to switch between solid & mesh views
-* [ ] Use OpenCV for matrix operations
-* [ ] Accurately translate/rotate the bunny object.
-* [ ] Consider integrating basic settings for display size & perspective projection
-* [ ] Control mouse movement speed by appropriately scaling pixel changes to the rotation/translation in 3D space.
 
 ## Parsing An `.obj` File to Extract Vertexes & Faces
 
@@ -110,9 +103,48 @@ class Bunny:
         pass
 ```
 
-
-
 ## Rotating with Quaternions & Translations
 
 {% embed url="https://eater.net/quaternions" %}
 
+
+
+Combine with this
+
+# OpenGL Bunny Transformations
+
+This project was initially intended to be implemented in C++, but due to complications with OpenCV and OpenGL installations, it was decided to use Python instead. Python's virtual environments provide a more manageable solution. For those interested in the C++ attempt, refer to the [OpenGL Setup](opengl-setup.md) where OpenGL setup for Mac is discussed.
+
+## Approach
+
+The approach to this project is divided into several steps:
+
+1. **Data Import**: The data from an `.obj` file is imported. The file is in plain text, so the `String.split()` and `.startswith()` methods, which are part of Python strings, are used for parsing. This process is encapsulated in a Data class.
+
+2. **3D Object Display**: The 3D object is displayed using an OpenGL Python wrapper. The `glColor3f()` function is used to set colors, and `glBegin()` and `glEnd()` denote the beginnings and ends of `glVertex()`s to be shaded. A keyboard callback function is also implemented to toggle between solid and mesh views.
+
+3. **Translation/Rotation Methods**: These methods are built without using OpenGL provided commands. Instead, OpenCV's `Mat` class is used to create matrices and homogeneous coordinates. These matrices are then multiplied to translate/rotate, and the display is updated using `gluePostRedisplay()` after mouse/keyboard actions.
+
+The progress so far is as follows:
+
+- [x] Import data from file.
+- [ ] Display the bunny object on screen.
+- [ ] Implement the ability to switch between solid & mesh views.
+- [ ] Use OpenCV for matrix operations.
+- [ ] Accurately translate/rotate the bunny object.
+- [ ] Integrate basic settings for display size & perspective projection.
+- [ ] Control mouse movement speed by appropriately scaling pixel changes to the rotation/translation in 3D space.
+
+## Parsing An `.obj` File to Extract Vertices & Faces
+
+The decision was made to encapsulate the parsing process into a class, `Data`. This class provides an interface to represent vertex data and can be used by other libraries such as OpenCV, GL, and NumPy if necessary.
+
+The `Data` class includes methods for adding vertices and faces, both interactively and non-interactively. It also includes a `__repr__` method for a string representation of the object, and a `__iter__` method to make the object iterable.
+
+## Displaying Vertices and Faces with OpenGL
+
+A `Bunny` class was created to encapsulate the bunny's vertices and faces. This class uses composition to hold an instance of the `Data` class and delegates some behaviors back to it. The `Bunny` class includes methods for rendering, translating, rotating, scaling, and handling interactions.
+
+## Rotating with Quaternions & Translations
+
+For more information on rotating with quaternions and translations, refer to this [resource](https://eater.net/quaternions).
