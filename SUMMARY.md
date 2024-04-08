@@ -936,6 +936,7 @@
 * [Thesis](writing/thesis/README.md)
   * [Thesis Ideas 2024 Reflections](writing/thesis/thesis-ideas-feb-2024-reflection.md)
   * [UD Guide](https://libguides.udayton.edu/etd)
+  * [Generating Topics](./writing/thesis/generatingTopics.md)
 * [Tongue Quill Etiquette](https://www.dropbox.com/s/qlz9kuxwt7ajic2/The%20Tongue%20and%20Quill%20Communication%20Ettiquette.pdf?dl=0)
 * [Tools and Technologies](writing/tools-and-technologies/README.md)
   * [Hemmingway](https://hemingwayapp.com/)
