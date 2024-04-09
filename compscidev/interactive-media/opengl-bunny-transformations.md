@@ -145,6 +145,9 @@ The `Data` class includes methods for adding vertices and faces, both interactiv
 
 A `Bunny` class was created to encapsulate the bunny's vertices and faces. This class uses composition to hold an instance of the `Data` class and delegates some behaviors back to it. The `Bunny` class includes methods for rendering, translating, rotating, scaling, and handling interactions.
 
-## Rotating with Quaternions & Translations
+### Rotating with Quaternions & Translations
 
 For more information on rotating with quaternions and translations, refer to this [resource](https://eater.net/quaternions).
+
+### Naive Approaches
+![img.png](img.png)
