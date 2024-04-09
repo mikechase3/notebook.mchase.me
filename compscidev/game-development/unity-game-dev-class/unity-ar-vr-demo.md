@@ -58,5 +58,6 @@ Just place the camera there & disable the Main Camera by checking it.&#x20;
 
 ## New Packages
 
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-09 at 10.35.08@2x.png" alt=""><figcaption></figcaption></figure>
 
-
+\`
