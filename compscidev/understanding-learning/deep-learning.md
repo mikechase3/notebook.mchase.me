@@ -2,7 +2,7 @@
 
 ## What is Deep Learning
 
-![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9).png>)
+![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9) (1).png>)
 
 ### Brief History
 
@@ -30,7 +30,7 @@
 
 ### Types of Neural Networks
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 #### Feedforward Network
 
