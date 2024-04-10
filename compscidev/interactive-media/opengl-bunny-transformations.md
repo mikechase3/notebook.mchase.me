@@ -121,7 +121,7 @@ Combine with this
 
 ## OpenGL Bunny Transformations
 
-This project was initially intended to be implemented in C++, but due to complications with OpenCV and OpenGL installations, it was decided to use Python instead. Python's virtual environments provide a more manageable solution. For those interested in the C++ attempt, refer to the [OpenGL Setup](opengl-setup/) where OpenGL setup for Mac is discussed.
+This project was initially intended to be implemented in C++, but due to complications with OpenCV and OpenGL installations, it was decided to use Python instead. Python's virtual environments provide a more manageable solution. For those interested in the C++ attempt, refer to the [OpenGL Setup](opengl-setup.md) where OpenGL setup for Mac is discussed.
 
 ### Approach
 
