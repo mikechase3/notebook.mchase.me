@@ -12,11 +12,11 @@ This works, but broke my OpenCV installation.
 
 First, launch xcode and make a command line tool.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 12.53.11@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-07 at 12.53.11@2x.png" alt=""><figcaption></figcaption></figure>
 
 Link the following files:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 12.53.48@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-07 at 12.53.48@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Mac (Clion)
 
@@ -30,17 +30,17 @@ After doing some `brew install`s from various services, I ended up with OpenGL s
 
 <div>
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.05.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-17 at 22.05.27.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.05.47@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-17 at 22.05.47@2x.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 I found it in `/applications/utilities/XQuartz.app`. Not sure if I'll reference it here because I was expecting some cpp headers, but I'll cross my fingers & come back to that if it doesn't work.&#x20;
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.07.54@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-17 at 22.07.54@2x.png" alt=""><figcaption></figcaption></figure>
 
 Now, despite putting environmental vars in my `.zshrc` file and sourcing them, Clion complained that there weren't any display environmental variables when testing it with this script:
 
@@ -96,17 +96,17 @@ int main(int argc, char** argv)
 
 So I went back and fixed it!
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.24.51@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-17 at 22.24.51@2x.png" alt=""><figcaption></figcaption></figure>
 
 But then I got this `failed to open display 0` error again.&#x20;
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.45.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-17 at 22.45.01.png" alt=""><figcaption></figcaption></figure>
 
 ### XQuartz Permissions
 
 I ran `xhost +` in my terminal and found that there was no access control issues; however, when running it in Clion, I got that permissions error again.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-17 at 22.49.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-17 at 22.49.53.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -120,15 +120,15 @@ Lots of classmates had issues/errors using this.&#x20;
 
 You can get the community studio of visual studio for free:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 13.02.07@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-07 at 13.02.07@2x.png" alt=""><figcaption></figcaption></figure>
 
 Then, download these files from Isidore:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 12.56.56@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-07 at 12.56.56@2x.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-07 at 13.04.30@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-07 at 13.04.30@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### HyperVisor Approach
 
@@ -140,15 +140,15 @@ And GOSH DARN IT I DIDNT EVEN GET THAT FAR!:
 
 Looks like something is wrong with my BIOS settings. Since my PC is back in Dayton I probably can't fix my BIOS settings remotely...
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 10.11.25@2x (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-01 at 10.11.25@2x (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 10.29.14@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-01 at 10.29.14@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Azure Cloud Solution
 
 Since I'm not in the office, I decided to create a whole new VM. If this doesn't work, I'm taking my mac to my professor and telling him to get both OpenCV and OpenGL working at the same time because OpenGL on my mac broke OpenCV which is just dandy and I've never spent&#x20;
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-01 at 11.08.18@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-01 at 11.08.18@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Ubuntu Instructions
 
