@@ -1,4 +1,10 @@
+---
+description: Mix of python & C++.
+---
+
 # OpenGL Bunny Transformations
+
+
 
 {% embed url="https://github.com/mikechase3/OpenGLCVBunnyPyEdition" %}
 
@@ -145,7 +151,7 @@ The progress so far is as follows:
 
 The decision was made to encapsulate the parsing process into a class, `Data`. This class provides an interface to represent vertex data and can be used by other libraries such as OpenCV, GL, and NumPy if necessary.
 
-The `Data` class includes methods for adding vertices and faces, both interactively and non-interactively. It also includes a `__repr__` method for a string representation of the object, and a `__iter__` method to make the object iterable.
+The `Data` class includes methods for adding vertices and faces, both interactively and non-interactively cause I thought that'd be useful even though I've barely used it. It also includes a `__repr__` method for a string representation of the object, and a `__iter__` method to make the object iterable. Got Copilot to write the Unit Tests.
 
 ### Displaying Vertices and Faces with OpenGL
 
@@ -157,4 +163,6 @@ For more information on rotating with quaternions and translations, refer to thi
 
 #### Naive Approaches
 
-![img.png](img.png)
+## Ability to Switch
+
+Placeholders.
