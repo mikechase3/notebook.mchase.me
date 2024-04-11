@@ -77,11 +77,11 @@ Next Class; April 11, 2024. Left laptop with my project at home accidentally.
 
 ## Fire Breathing Monster
 
-We took the particle pack and nested a flame thrower under it.
+We took the particle pack and nested a flame thrower under it. Also brought in some outer space package.
 
-## Vast Outer Space
+## After Effects Composition
 
-
+See "Light Trails After Effects Trail"
 
 ## GIRLL Idea
 
