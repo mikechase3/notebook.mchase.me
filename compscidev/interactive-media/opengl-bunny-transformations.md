@@ -141,7 +141,7 @@ The progress so far is as follows:
 
 * [x] Import data from file.
 * [x] Display the bunny object on screen.
-* [ ] Implement the ability to switch between solid & mesh views.
+* [x] Implement the ability to switch between solid & mesh views.
 * [ ] Use OpenCV for matrix operations.
 * [ ] Accurately translate/rotate the bunny object.
 * [ ] Integrate basic settings for display size & perspective projection.
@@ -164,5 +164,7 @@ For more information on rotating with quaternions and translations, refer to thi
 #### Naive Approaches
 
 ## Ability to Switch
+Next thing I sovled was ability to fill in the bunny textures which certainly did something.
+![abilityToSwtich.gif](abilityToSwtich.gif)
 
-Placeholders.
+## 
