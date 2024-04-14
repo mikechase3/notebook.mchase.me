@@ -4,8 +4,6 @@ description: Mix of python & C++.
 
 # OpenGL Bunny Transformations
 
-
-
 {% embed url="https://github.com/mikechase3/OpenGLCVBunnyPyEdition" %}
 
 {% embed url="https://quizlet.com/890677132/opencv-f24_cps465-interactive-media-shen-flash-cards/" %}
@@ -142,7 +140,7 @@ The progress so far is as follows:
 * [x] Import data from file.
 * [x] Display the bunny object on screen.
 * [x] Implement the ability to switch between solid & mesh views.
-* [ ] Use OpenCV for matrix operations.
+* [ ] Use OpenCV for matrix operations. (Requirement removed; doesn't work)
 * [ ] Accurately translate/rotate the bunny object.
 * [ ] Integrate basic settings for display size & perspective projection.
 * [ ] Control mouse movement speed by appropriately scaling pixel changes to the rotation/translation in 3D space.
@@ -163,8 +161,185 @@ For more information on rotating with quaternions and translations, refer to thi
 
 #### Naive Approaches
 
-## Ability to Switch
-Next thing I sovled was ability to fill in the bunny textures which certainly did something.
-![abilityToSwtich.gif](abilityToSwtich.gif)
+## Implementing Keyboard Callbacks
 
-## 
+GLUT I believe is the one that handles the window. You can make your own function and register it like so
+
+```
+import keyboard
+
+def on_keyboard_callback(event):
+    if event.name == 'q':  # Replace 'q' with the key you want to listen for
+        print('You pressed the specified key!')
+        # Add your custom logic here
+
+# Register the callback
+keyboard.on_press(on_keyboard_callback)
+
+# Keep the program running (you can add other logic here)
+while True:
+    pass
+    
+```
+
+
+
+Next thing I solved was ability to fill in the bunny textures which certainly did something. ![abilityToSwtich.gif](abilityToSwtich.gif)
+
+## Mouse Functionality
+
+### glutGetModifiers() Call Positioning & Debugging
+
+I spent a few hours debugging an issue with this callback. I originally wrote `glutGetModifiers = glutGetModifiers()` which returned an int. I thought it'd be okay to compare this to the constant for shift which is defined as 1 in the OpenGL. My error-prone code is below if you'd like to have a gander.&#x20;
+
+```python
+def handle_mouse_motion(self, x, y):
+    '''
+    This function will be called whenever the mouse moves within the window while one or more mouse buttons are pressed.
+    :return: None
+    '''
+    print(f"Before glutGetModifiers in handle_mouse_motion: {time.time()}")
+    # GLUT Warning: glutCurrentModifiers: do not call outside core input callback.
+    # modifiers = glutGetModifiers(). # BIG ISSUES!!
+    print(f"After glutGetModifiers in handle_mouse_motion: {time.time()}")
+    # rest of your code...
+    if glutGetModifiers == GLUT_ACTIVE_SHIFT:
+        self.inTranslateMode = True
+        print("ACTIVATE Translate Mode"). # Never gets called at this point.
+    else:
+        self.inTranslateMode = False
+        print("Deactivated Translate Mode")
+
+    if self.inTranslateMode:
+        # Apply translation based on mouse movement (scaled down by 100x)
+        self.apply_translation(x / 10.0, y / 10.0, 0)
+        glutPostRedisplay()
+```
+
+<details>
+
+<summary>Original Error (Even more Error Prone Code)</summary>
+
+You see a problem here? Let me know...
+
+```
+def handle_mouse_motion(self, x, y):
+    '''
+    This function will be called whenever the mouse moves within the window while one or more mouse buttons are pressed.
+    :return:
+    '''
+    print(f"Before glutGetModifiers in handle_mouse_motion: {time.time()}")
+    modifiers = glutGetModifiers()
+    print(f"After glutGetModifiers in handle_mouse_motion: {time.time()}")
+    # rest of your code...
+    if modifiers == GLUT_ACTIVE_SHIFT:
+        self.inTranslateMode = True
+        # print("ACTIVATE Translate Mode")
+    else:
+        self.inTranslateMode = False
+        # print("Deactivated Translate Mode")
+
+    if self.inTranslateMode:
+        # Apply translation based on mouse movement (scaled down by 100x)
+        self.apply_translation(x / 10.0, y / 10.0, 0)
+        glutPostRedisplay()
+        
+```
+
+I asked the Ghat Gippity what I did & it gave me some bullcrap about my constructor:
+
+Specifically, you used it in the `Bunny` class constructor to check for modifier keys. However, using `glutGetModifiers()` outside of the registered callback functions is not recommended because it relies on the OpenGL state, which might not be properly initialized at that point in the code execution.\
+
+
+Clearly, I didn't call it. No idea why this fix worked.
+
+<pre><code><strong>class Bunny:
+</strong>    def __init__(self, filename: str):
+        self.data = Data(filename)
+        self.inMeshVersion: bool = False
+        self.inArbitraryLineMode: bool = False
+        self.inTranslateMode: bool = False
+</code></pre>
+
+
+
+</details>
+
+### Fixing Active Shift Modifiers
+
+An important part of debugging is learning what went wrong & learning from it. If I ever run into the problem again, it's documented in this notebook! Anyways, while debugging I noticed that hitting shift never changes my bool
+
+While debugging, I noticed that it's never activated when I hit shift and move the mouse. An important part of programming is figuring out what actually is going wrong&#x20;
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 08.43.16@2x.png" alt=""><figcaption></figcaption></figure>
+
+It is generally bad practice to be changing the same global variables in callbacks... especially since python now supports multithreading soon. As of April 2024, there was a GIL (global interperter lock) that prevented the same interperter from running things concurrently despite there being a threading library. I think you could disable the GIL if you were using that library but it wasn't encouraged by devs for some reason and instead they told me to go learn C, C++, and`Go.`&#x20;
+
+Looks like I just missed a function call (aka no parenthesis at the end):
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 08.54.30@2x.png" alt=""><figcaption></figcaption></figure>
+
+And oh nnooooooooo it turns out I didn't fix the last bug after all:
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 08.55.28@2x.png" alt=""><figcaption></figcaption></figure>
+
+#### Refactoring to Split Handling Shift Into Multiple Functions
+
+The great oracle of chat gippity told me to refactor my crap code so I did. Wouldn't you? The more I do this, the better of a coder I become; however, I look incredibly suspicious when turning this for an assignment. Did anyone write code this good 10 years ago just to get things working? Probably senior devs who know better. Anyways, made these changes.&#x20;
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 09.02.17@2x.png" alt=""><figcaption></figcaption></figure>
+
+I don't like their suggestion because of how it's all coupled together, but whatever. Once I typed it in I realized that I had to register more callback functions within main which I thought would be inefficient but with few lines of code and no loops it runs smoothly.&#x20;
+
+After making these changes, more stuff broke and I forget what I even fixed now but here's one nice refactoring:
+
+```python
+   def render(self):
+        if self.inMeshVersion:
+            glBegin(GL_LINE_LOOP)
+        else:
+            glBegin(GL_TRIANGLES)
+
+        for face in self.data.iterFaces():
+            for i in face:
+                # Subtract one apparently because obj indices start at 1.
+                vertex = self.data.vertices[i - 1]
+                glColor3f(1.0, 0.0, 0.0)
+                glVertex3f(vertex[0], vertex[1], vertex[2])
+
+        glEnd()
+```
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 09.46.55@2x.png" alt=""><figcaption></figcaption></figure>
+
+### Toggling with Space Instead
+
+Having wasted time on stuff that's not related to the matrix and drawings, I implemented the rest like this and moved on.&#x20;
+
+> ```python
+> if key == b'\x20':  # ASCII value for space bar
+>     # Reset the translation
+>     if self.rotationMode == False:
+>         self.rotationMode = True
+>     elif self.rotationMode == True:
+>         self.rotationMode = False
+> ```
+
+## Translating
+
+About thirty hours later and three days overdue now, it'll translate. Not correctly though even though I think this translation matrix is setup right:
+
+<div>
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.26.14@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.24.30.gif" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+### Debugging this
+
+Finally. At long last, I just need to understand linear algebra and boom I'll be done with this mess!
+
