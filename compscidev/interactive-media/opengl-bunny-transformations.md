@@ -339,7 +339,112 @@ About thirty hours later and three days overdue now, it'll translate. Not correc
 
 </div>
 
-### Debugging this
+### Debugging GL Variables
 
-Finally. At long last, I just need to understand linear algebra and boom I'll be done with this mess!
+Finally. Let's just open the debugger... and at long last, I just need to understand linear algebra and boom I'll be done with this mess! Let's look through the variables:
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 21.36.30.png" alt=""><figcaption></figcaption></figure>
+
+I thought that was a wonderful peek under the hood at what this library is keeping track of. I find it fascinating how they've named everything with a constant including draw\_buffers and error bits. It makes me feel like I could potentially be dealing with some low level system code & things that almost look like GPU registers.
+
+### Linear Algebra Bits
+
+Before reading this code, go back to the [quaternions](opengl-bunny-transformations.md#rotating-with-quaternions-and-translations) section and mess with the interactive videos linked there. We'll extend stuff into 4D and apply a translation that way because it's not possible with only a 3x3 array for reasons I don't quite remember.&#x20;
+
+```python
+def create_translation_matrix(self, x: float, y: float, z: float) -> np.array:
+    """Creates a 4x4 translation matrix"""
+    return np.array([
+        [1, 0, 0, x],
+        [0, 1, 0, y],
+        [0, 0, 1, z],
+        [0, 0, 0, 1]
+    ])
+
+def apply_translation(self, x: float, y: float, z: float):
+    """Apply a translation matrix to all vertices."""
+    # Create a translation matrix
+    translation_matrix = self.create_translation_matrix(x, y, z)
+
+    # Apply the translation matrix to all vertices
+    for i in range(len(self.data.vertices)):
+        vertex_4d = np.append(self.data.vertices[i], 1)  # 3D vertex => 4d by appending 1.
+        translated_vertex = np.dot(translation_matrix, vertex_4d)  # Dot w/ translation matrix.
+        self.data.vertices[i] = translated_vertex[:3]  # Update the vertex in-place
+
+    # Calculate and print the new centroid
+    new_centroid = self.calculate_centroid()
+    print(f"New centroid: {new_centroid}")
+```
+
+**1. Homogeneous coordinates:**
+
+* The code converts each 3D vertex (x, y, z) into a 4D homogeneous coordinate by appending a 1 at the end. This creates a vector in the form (x, y, z, 1).
+* This is a mathematical trick that allows us to represent translations using matrix multiplication.
+
+**2. Translation matrix:**
+
+* The `translation_matrix` is a 4x4 matrix that encodes the translation amount along each axis. In 3D space, it typically looks like this:
+
+```
+[[1, 0, 0, tx],
+ [0, 1, 0, ty],
+ [0, 0, 1, tz],
+ [0, 0, 0, 1]]
+```
+
+* `tx`, `ty`, and `tz` represent the translation distances along the x, y, and z axes, respectively.
+
+**3. Matrix multiplication:**
+
+* The code performs matrix multiplication between the `translation_matrix` and the 4D homogeneous coordinate vector (`vertex_4d`).
+* This multiplication combines the scaling and translation factors defined in the matrix with the original vertex coordinates.
+
+**4. Resulting transformation:**
+
+* The resulting product (`translated_vertex`) is another 4D homogeneous coordinate vector representing the translated vertex.
+* To retrieve the actual translated position in 3D space, the code extracts the first three elements (x, y, z) from the resulting vector and updates the original vertex data.
+
+In essence, this code efficiently applies a translation defined by the matrix to all the vertices in the data set. This could be used to move objects in 3D computer graphics, animation, or other geometric processing applications.
+
+### Graphing
+
+I graphed some points in an attempt to do this by hand.
+
+```
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define a simple function to create a 3D object (replace with your bunny data)
+def create_bunny():
+  bunny_vertices = np.array([
+      [0, 0, 1],
+      [1, 0, 1],
+      [1, 1, 1],
+      [0, 1, 1],
+      [0, 0, 0],
+      [1, 0, 0],
+      [1, 1, 0],
+      [0, 1, 0],
+  ])
+  return bunny_vertices
+```
+
+
+
+<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Then after some work I got my bunny to translate wrong again, but I think I know what's wrong. It's my viewing/camera angle!
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.38.07.gif" alt=""><figcaption></figcaption></figure>
+
+The issue with the program was not related to the viewing angle, but rather the lack of implementation for mouseUP/Down. This caused the program to always refer to the last clicked position, without accounting for new clicks or mouse movement without clicking. I also had to invert the y-axis because of how the coordinate system is referenced in OpenGL.
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.58.47.gif" alt=""><figcaption></figcaption></figure>
+
+Next up is rotation!
+
+
 
