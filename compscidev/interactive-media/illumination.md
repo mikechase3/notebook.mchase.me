@@ -1,10 +1,10 @@
-# Illumination
+# Illumination w/ Diffuse, Ambience, Phong
 
 ## Illumination and Shading
 
 * **Illumination** computes the color of each vertex.
 * **Shading** computes the whole surface color. It's an interpolation process.
-* This is a mdoel of how light interacts with materials.
+* This is a model of how light interacts with materials.
 * We discuss the common, heuristic shading models: flat, gouraud, and phong.
 * Not physically based: work well in practice & are common on most graphics boards.
 
@@ -74,3 +74,48 @@ $$
 
 <figure><img src="../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (712).png" alt=""><figcaption></figcaption></figure>
+
+## Ambience
+
+<figure><img src="../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
+
+## Phong
+
+<figure><img src="../../.gitbook/assets/image (714).png" alt=""><figcaption></figcaption></figure>
+
+### Phong Illumination
+
+* Adding two vectors forms the resultant vector.
+* Subtracting a vector is the same as adding the negative of the vector. This flips the direction of the vector.
+* Multiplying a vector by a number scales the vector. The direction stays the same but the magnitude is multiplied by the number.
+
+<figure><img src="../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
+
+### Components of Phong
+
+* Ambient light: This provides a general low-level of illumination.
+* Diffuse light: This determines how much ambient light is reflected by the surface.
+* Specular light: This creates highlights on shiny surfaces.
+
+<figure><img src="../../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
+
+#### Finding s
+
+$$
+\vec{s} = \vec{l} - \vec{m} \implies \vec{l} - \vec{n} \cdot(\vec{n} \cdot \vec{l})
+$$
+
+So now we pull from the $$\vec{r}$$ and sub it into this somehow:
+
+<figure><img src="../../.gitbook/assets/image (720).png" alt="" width="188"><figcaption></figcaption></figure>
+
+This last line represents our final result for `def compute_reflection`.
+
+## Quiz
+
+There is a point `P(300, 240, 200)` in a 3D space and its color is `RGB(0.1, 0.5, 0.1)`. If there is only one light source in the capturing environment, which locates at `(300, 270, 190)`. The light color is `RGB(0.9, 0.9, 0.9)`. W also know the point `P` is from a surface with its normal is `(0, 1, 0)`. If you look at the point `P` form (300, 260, 210), what is the final color of this point?
+
+Assuming the specular color is RGB(1.0, 1.0, 1.0), and the exponent is 5.
+
+<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>

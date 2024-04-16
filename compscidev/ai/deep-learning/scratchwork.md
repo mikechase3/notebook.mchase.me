@@ -1,6 +1,0 @@
-# Scratchwork
-
-## Neural Networks
-
-
-
