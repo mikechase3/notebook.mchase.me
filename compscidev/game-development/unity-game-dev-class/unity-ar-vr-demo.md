@@ -83,7 +83,12 @@ We took the particle pack and nested a flame thrower under it. Also brought in s
 
 See "Light Trails After Effects Trail"
 
-## GIRLL Idea
+Random GRILL Idea- I wonder if I setup multiple cameras how I could track the whole GRILL. I bet I could rotate matrices using what I'm learning in interactive media to orient ourselves in the game object.
 
-I wonder if I setup multiple cameras how I could track the whole GRILL. I bet I could rotate matrices using what I'm learning in interactive media to orient ourselves in the game object.
+## New Class New Packages
 
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 09.49.57@2x.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 09.58.36@2x.png" alt=""><figcaption></figcaption></figure>
+
+* Simulated Tracked Image. Bring an image and it'll become a target image?

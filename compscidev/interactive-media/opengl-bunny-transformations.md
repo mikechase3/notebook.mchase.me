@@ -446,5 +446,36 @@ The issue with the program was not related to the viewing angle, but rather the 
 
 Next up is rotation!
 
+## Rotation
+
+Here's some theory. We did a derivation elsewhere but the equation is the most important part.&#x20;
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.26.36@2x.png" alt=""><figcaption></figcaption></figure>
+
+In the expression T1^-1 \* R2^-1 \* R3^-1 \* R0 \* R3 \* R2 \* T1 \* P, T, R, P, and M represent different operations or transformations:
+
+* T represents a translation transformation.
+* R represents a rotation transformation.
+* P represents a point or a vector.
+* M represents the resulting transformed point or vector.
+
+Now let's break down the expression step by step:
+
+1. T1^-1 represents the inverse of a translation transformation T1. The inverse of a translation undoes the original translation. It involves moving in the opposite direction of the original translation.
+2. R2^-1 represents the inverse of a rotation transformation R2. The inverse of a rotation undoes the original rotation. It involves rotating in the opposite direction of the original rotation.
+3. R3^-1 represents the inverse of a rotation transformation R3. Similarly, it undoes the original rotation R3.
+4. R0 represents a rotation transformation R0.
+5. R3 represents a rotation transformation R3.
+6. R2 represents a rotation transformation R2.
+7. T1 represents a translation transformation T1.
+8. P represents a point or a vector, which is being transformed.
+
+When we apply these transformation operations in the given order (inverse translations followed by inverse rotations and then the original rotations and translations in reverse order), we obtain the transformed point or vector.
+
+The resulting transformed point or vector is denoted by M.
 
 
+
+
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.46.21.gif" alt=""><figcaption></figcaption></figure>
