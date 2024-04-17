@@ -25,7 +25,6 @@ The approach to this project is divided into several steps:
 After some deliberation I decided to wrap everything into a class like this:
 
 ```python
-
 class Data:
     """
     Provides a way to interface to represent vertex data.
@@ -138,7 +137,7 @@ The progress so far is as follows:
 * [x] Import data from file.
 * [x] Display the bunny object on screen.
 * [x] Implement the ability to switch between solid & mesh views.
-* [ ] Use OpenCV for matrix operations. (Requirement removed; doesn't work)
+* [x] Use NumPy for matrix operations.&#x20;
 * [ ] Accurately translate/rotate the bunny object.
 * [ ] Integrate basic settings for display size & perspective projection.
 * [ ] Control mouse movement speed by appropriately scaling pixel changes to the rotation/translation in 3D space.
@@ -323,9 +322,21 @@ Having wasted time on stuff that's not related to the matrix and drawings, I imp
 >         self.rotationMode = False
 > ```
 
-## Translating
+## Linear Algebra Bits: Rotate & Translate
 
-About thirty hours later and three days overdue now, it'll translate. Not correctly though even though I think this translation matrix is setup right:
+### Debugging GL Variables
+
+### Linear Algebra Bits
+
+Before reading this code, go back to the [quaternions](opengl-bunny-transformations.md#rotating-with-quaternions-and-translations) section and mess with the interactive videos linked there. We'll extend stuff into 4D and apply a translation that way because it's not possible with only a 3x3 array for reasons I don't quite remember.&#x20;
+
+## Translation
+
+I got a C- when I took linear algebra so this is the toughest spot. I'll be brushing up on a lot of linear algebra & learning some along the way.&#x20;
+
+Before reading code, go back to the [quaternions](opengl-bunny-transformations.md#rotating-with-quaternions-and-translations) section and mess with the interactive videos linked there. We'll extend stuff into 4D and apply a translation that way because it's not possible with only a 3x3 array for reasons I don't quite remember.&#x20;
+
+
 
 <div>
 
@@ -337,17 +348,64 @@ About thirty hours later and three days overdue now, it'll translate. Not correc
 
 </div>
 
+
+
+### Graphing (Part One of Many)
+
+I graphed some points. It was taking too long so I abandoned it but made pretty dots.&#x20;
+
+```
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define a simple function to create a 3D object (replace with your bunny data)
+def create_bunny():
+  bunny_vertices = np.array([
+      [0, 0, 1],
+      [1, 0, 1],
+      [1, 1, 1],
+      [0, 1, 1],
+      [0, 0, 0],
+      [1, 0, 0],
+      [1, 1, 0],
+      [0, 1, 0],
+  ])
+  return bunny_vertices
+```
+
+
+
+<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Then after some work I got my bunny to translate wrong again, but I think I know what's wrong. It's my viewing/camera angle!
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.38.07.gif" alt=""><figcaption></figcaption></figure>
+
+We'll come back to this with the rotational part with a new tool?
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 18.58.26.png" alt=""><figcaption></figcaption></figure>
+
 ### Debugging GL Variables
 
-Finally. Let's just open the debugger... and at long last, I just need to understand linear algebra and boom I'll be done with this mess! Let's look through the variables:
+Let's just open the debugger's open variables and wham!:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 21.36.30.png" alt=""><figcaption></figcaption></figure>
+<details>
+
+<summary>How many variables does OpenGL Need?</summary>
+
+<img src="../../.gitbook/assets/CleanShot 2024-04-15 at 21.36.30.png" alt="" data-size="original">
+
+</details>
 
 I thought that was a wonderful peek under the hood at what this library is keeping track of. I find it fascinating how they've named everything with a constant including draw\_buffers and error bits. It makes me feel like I could potentially be dealing with some low level system code & things that almost look like GPU registers.
 
-### Linear Algebra Bits
+The issue with the program was not related to the viewing angle, but rather the lack of a proper implementation for mouseUP/Down. This caused the program to always refer to the last clicked position, without accounting for new clicks or mouse movement without clicking. I also inverted the y-axis because of how the coordinate system is referenced in OpenGL.
 
-Before reading this code, go back to the [quaternions](opengl-bunny-transformations.md#rotating-with-quaternions-and-translations) section and mess with the interactive videos linked there. We'll extend stuff into 4D and apply a translation that way because it's not possible with only a 3x3 array for reasons I don't quite remember.&#x20;
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.58.47.gif" alt=""><figcaption></figcaption></figure>
+
+### Code Analysis
 
 ```python
 def create_translation_matrix(self, x: float, y: float, z: float) -> np.array:
@@ -405,75 +463,86 @@ def apply_translation(self, x: float, y: float, z: float):
 
 In essence, this code efficiently applies a translation defined by the matrix to all the vertices in the data set. This could be used to move objects in 3D computer graphics, animation, or other geometric processing applications.
 
-### Graphing
 
-I graphed some points in an attempt to do this by hand.
-
-```
-import numpy as np
-import matplotlib.pyplot as plt
-
-# Define a simple function to create a 3D object (replace with your bunny data)
-def create_bunny():
-  bunny_vertices = np.array([
-      [0, 0, 1],
-      [1, 0, 1],
-      [1, 1, 1],
-      [0, 1, 1],
-      [0, 0, 0],
-      [1, 0, 0],
-      [1, 1, 0],
-      [0, 1, 0],
-  ])
-  return bunny_vertices
-```
-
-
-
-<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
-
-
-
-Then after some work I got my bunny to translate wrong again, but I think I know what's wrong. It's my viewing/camera angle!
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.38.07.gif" alt=""><figcaption></figcaption></figure>
-
-The issue with the program was not related to the viewing angle, but rather the lack of implementation for mouseUP/Down. This caused the program to always refer to the last clicked position, without accounting for new clicks or mouse movement without clicking. I also had to invert the y-axis because of how the coordinate system is referenced in OpenGL.
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.58.47.gif" alt=""><figcaption></figcaption></figure>
-
-Next up is rotation!
 
 ## Rotation
 
 Here's some theory. We did a derivation elsewhere but the equation is the most important part.&#x20;
 
+The order in which you multiply matrices matters because the sequence determines how the transformations are applied to the object. Unfortunately all I know is R stands for rotation, T stands for translation. What's P? Who knows, but let's review the notes:
+
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.26.36@2x.png" alt=""><figcaption></figcaption></figure>
 
-In the expression T1^-1 \* R2^-1 \* R3^-1 \* R0 \* R3 \* R2 \* T1 \* P, T, R, P, and M represent different operations or transformations:
+Professor gave us some guidance.&#x20;
 
-* T represents a translation transformation.
-* R represents a rotation transformation.
-* P represents a point or a vector.
-* M represents the resulting transformed point or vector.
+> "Rotating an arbitrary line means... T\_1^-1 \* R\_2^-1 ... R\_0_R\_3_R\_2\*T\_1 \* P".
 
-Now let's break down the expression step by step:
+Let's break this down:
 
-1. T1^-1 represents the inverse of a translation transformation T1. The inverse of a translation undoes the original translation. It involves moving in the opposite direction of the original translation.
-2. R2^-1 represents the inverse of a rotation transformation R2. The inverse of a rotation undoes the original rotation. It involves rotating in the opposite direction of the original rotation.
-3. R3^-1 represents the inverse of a rotation transformation R3. Similarly, it undoes the original rotation R3.
-4. R0 represents a rotation transformation R0.
-5. R3 represents a rotation transformation R3.
-6. R2 represents a rotation transformation R2.
-7. T1 represents a translation transformation T1.
-8. P represents a point or a vector, which is being transformed.
+1. **P:** Represents the initial position of your object (likely the vertices of your bunny model).
+2. **T\_1:** Translate the object so that the line of rotation passes through the origin. This simplification makes the rotation calculations easier.
+3. **R\_2, R\_3 ...:** A sequence of rotations to align the object's desired axis of rotation with one of the standard axes (x, y, or z).
+4. **R\_0:** The actual rotation around the now-aligned axis.
+5. **T\_1^-1:** The inverse of the initial translation. This moves the object back to its original position in space.
 
 When we apply these transformation operations in the given order (inverse translations followed by inverse rotations and then the original rotations and translations in reverse order), we obtain the transformed point or vector.
 
 The resulting transformed point or vector is denoted by M.
 
+### Naieve AI Generated Code Analysis
 
+This is a decent AI story I'll use if I ever become a professor and why it's good to learn things the "right" way and not the fast way. I prompted an LLM to implement rotate functionality and it did, but it chose to use a 3x3 method. And it produced something that worked! But not very well and it suffers from gimball lock depending on how it's used.&#x20;
+
+* `apply_translation` implements a translation matrix & applies it to verties. It represents the T part.
+* apply\_rotation\_originToAxis: This implements a rotation matrix and seems to represent rotations like the 'R' transformations mentioned by your professor.
+* handle\_mouse\_motion: This function uses mouse movements to control the rotation or translation, depending on the rotationMode flag.
+
+```python
+    def apply_rotation_originToAxis(self, angle: float, axis: np.ndarray) -> None:
+        """
+        Applies a rotation to all vertices of the bunny model.
+
+        Args:
+            angle: The angle of rotation in radians.
+            axis: A unit vector representing the axis of rotation.
+                  This should be a numpy array of shape (3x1)
+
+        Returns:
+            None (modifies the object in-place)
+        """
+        c = np.cos(angle)
+        s = np.sin(angle)
+        t = 1.0 - c
+
+        x, y, z = axis
+
+        # Create the rotation matrix
+        rotation_matrix = np.array([
+            [t * x * x + c, t * x * y - z * s, t * x * z + y * s],
+            [t * x * y + z * s, t * y * y + c, t * y * z - x * s],
+            [t * x * z - y * s, t * y * z + x * s, t * z * z + c]
+        ])
+
+        # Apply the rotation matrix to all vertices
+        for i in range(len(self.data.vertices)):
+            self.data.vertices[i] = np.dot(rotation_matrix, self.data.vertices[i])
+```
 
 
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.46.21.gif" alt=""><figcaption></figcaption></figure>
+
+### Resources for Finding Expected Outputs
+
+In my attempt to build matrices from my notes, I failed & used some helpful resources along the way. The first one shows you syntax to put into Wolfram Alpha but it's a 3x3 matrix. Might be better ones so&#x20;
+
+{% embed url="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Mathematics_for_Game_Developers_(Burzynski)/04%3A_Matrices/4.06%3A_Rotation_Matrices_in_3-Dimensions" %}
+
+{% embed url="https://en.wikipedia.org/wiki/Rotation_matrix#In_three_dimensions" %}
+
+### Code Analysis
+
+Boy howdy I just went at it for the last few hours, never took a break and it just got worse.
+
+
+
