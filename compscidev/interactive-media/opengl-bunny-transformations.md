@@ -2,27 +2,9 @@
 description: Mix of python & C++.
 ---
 
-# Closing Notes
-* **Initial Approach**: Though file parsing was optional, I chose to implement it manually in Python first. This decision stemmed from my greater familiarity with Python's string manipulation libraries compared to C++. The goal was to gain a solid understanding of the data structure before potentially re-implementing it in C++ for potential performance advantages.
-* **Environment Challenges:**  A significant portion of the project time was dedicated to environment setup. I initially  believed OpenCV was a requirement, and encountered conflicts with OpenGL.  This led to extensive exploration of virtual machines and cloud-based solutions to try resolving the "Windows way".
-* **Conceptual Learning**: The process of working through these challenges deepened my understanding of development environments and the interactions between different libraries.
-* **Python for Prototyping**: Python's accessibility proved invaluable for rapid prototyping and grasping the core concepts of the project. This allowed me to focus on the underlying logic and visualization before potentially optimizing in a lower-level language.
-* **Reflections and Time Management**:  In retrospect, I recognize that seeking guidance earlier could have streamlined the process.  Balancing multiple assignments has been a learning experience in time management, and I acknowledge the importance of effective prioritization.
-* **Commitment**:  Despite the challenges, I invested substantial time and effort in this project. This demonstrates my dedication and a genuine desire to learn.
-
-**Key Takeaways**
-I gained valuable insights into:
-1. The trade-offs between different programming languages for specific tasks.
-2. The complexities of setting up development environments and managing dependencies.
-3. The value of a prototyping-focused approach for understanding fundamental concepts.
-4. The importance of effective planning and seeking help when encountering obstacles.
-
-
 # OpenGL Bunny Transformations
 
 {% embed url="https://github.com/mikechase3/OpenGLCVBunnyPyEdition" %}
-
-{% embed url="https://quizlet.com/890677132/opencv-f24_cps465-interactive-media-shen-flash-cards/" %}
 
 {% embed url="https://quizlet.com/891983741/opengl-interactive-media-cps592-cps-465ish-flash-cards/?funnelUUID=91901382-c74d-4c94-aaff-282158607604" %}
 
@@ -489,9 +471,9 @@ Now let's break down the expression step by step:
 When we apply these transformation operations in the given order (inverse translations followed by inverse rotations and then the original rotations and translations in reverse order), we obtain the transformed point or vector.
 
 The resulting transformed point or vector is denoted by M.
+
+
+
+
+
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.46.21.gif" alt=""><figcaption></figcaption></figure>
-
-
-# Future Progress
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
