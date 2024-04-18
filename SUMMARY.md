@@ -178,7 +178,7 @@
     * [Text Generation: Textgenrnn](compscidev/understanding-learning/text-generation-textgenrnn.md)
   * [Natural Language Processing](compscidev/ai/natural-language-processing.md)
   * [Reinforcement Learning](compscidev/ai/reinforcementlearning/README.md)
-    * [Crawler](compscidev/ai/reinforcementlearning/crawler-practice.md)
+    * [Bipedal Walker](compscidev/ai/reinforcementlearning/crawler-practice.md)
     * [Markov Decision](compscidev/ai/reinforcementlearning/markovdecision.md)
     * [Monte Carlo Methods](compscidev/ai/reinforcementlearning/monte-carlo-methods.md)
     * [Prescriptive Analytics w/ Python](compscidev/ai/reinforcementlearning/prescriptive-analytics-w-python.md)

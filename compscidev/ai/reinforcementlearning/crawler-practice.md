@@ -1,288 +1,117 @@
-# Crawler
+# Bipedal Walker
 
-deleteme\_mergingconflicts.
 
 
+{% embed url="https://gymnasium.farama.org/_images/bipedal_walker.gif" fullWidth="false" %}
+Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/](https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/)
+{% endembed %}
 
-```python
+{% embed url="https://quizlet.com/891442364/ai-cps-48x-f24-shen-monte-carlo-flash-cards/?funnelUUID=906ee232-b50a-4529-9d1c-94006f3e7038" %}
 
-"""
-@author: Ju Shen
-@email: jshen1@udayton.edu
-@date: 03-16-2024
-"""
-import random
-import numpy as np
-import math as mth
+This is a gymnasium environment, but it's basically what we're doing, but we're using Shen's proprietary environment instead. Let's see what happens.
 
-# The state class
-class State:
-    def __init__(self, angle1=0, angle2=0):
-        self.angle1 = angle1
-        self.angle2 = angle2
+## Pycharm Project Setup
 
-class ReinforceLearning:
+I took Pycharm and opened up the folder as my project.&#x20;
 
-    #
-    def __init__(self, unit=5):
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 19.54.54.png" alt=""><figcaption></figcaption></figure>
 
-        ####################################  Needed: here are the variable to use  ################################################
+Something they never teach you about is how to setup interperters which I found confusing at first. Apparently, environments are fragile in code and while Python is easier than most languages, there are dependency conflicts when working with outdated code. To fix this, we have virtual environments of which there's pipenv and conda as the major ones. Anyways, if something is going wrong, the beginning of the arrow will let you add a new virtual environment interpreter and the IDE will use that.&#x20;
 
-        # The crawler agent
-        self.crawler = 0
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.06.46.png" alt=""><figcaption></figcaption></figure>
 
-        # Number of iterations for learning
-        self.steps = 1000
+{% embed url="https://gymnasium.farama.org/environments/box2d/bipedal_walker/" %}
 
-        # learning rate alpha
-        self.alpha = 0.2
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.06.46 (1).png" alt=""><figcaption></figcaption></figure>
 
-        # Discounting factor
-        self.gamma = 0.95
+In ye older days, you could import it right from the context menu.&#x20;
 
-        # E-greedy probability
-        self.epsilon = 0.1
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.15.43.png" alt=""><figcaption></figcaption></figure>
 
-        self.Qvalue = []  # Update Q values here
-        self.unit = unit  # 5-degrees
-        self.angle1_range = [-35, 55]  # specify the range of "angle1"
-        self.angle2_range = [0, 180]  # specify the range of "angle2"
-        self.rows = int(1 + (self.angle1_range[1] - self.angle1_range[0]) / unit)  # the number of possible angle 1
-        self.cols = int(1 + (self.angle2_range[1] - self.angle2_range[0]) / unit)  # the number of possible angle 2
+But now they want you to use the package manager
 
-        ########################################################  End of Needed  ################################################
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.16.51.png" alt=""><figcaption></figcaption></figure>
 
+You can verify this works successfully by opening up the python console right above it & typing `import numpy` into the interperter prompt (e.g. `>>>`). If you don't see that, type python3, unless you're using conda than you've got to activate it somehow but I'm doing a pipenv & it works for now. If you don't get any error when running import numpy, you're good to go.
 
+### CV2 Issues
 
-        self.pi = [] # store policies
-        self.actions = [-1, +1] # possible actions for each angle
+I'm guessing that PyCharm's solution to installing packages is seeing if `pip install <whatYouTypeIn>` is a registered package and `cv2` apparently isn't.&#x20;
 
-        # Controlling Process
-        self.learned = False
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.23.24.png" alt=""><figcaption></figcaption></figure>
 
-        # Store the old statusE Access the action space at a particular block.
-        # Access the action (+1, -1) at (20, 50)
-        def getRecommendedActionAtSpace(self, r, c):
-            r_idx = (20 - self.angle1_range[0]) / self.unit
-            c_idx = (50 - self.angle2_range[0]) / self.unit
-            action_idx = 8
-            print(self.Qvalue[r_idx][c_idx * 9 + 7])
-            return self.pi[r][c]
-        
-        # Assume the agent has finished learning & apply policy pi to change to a new angle where is the next state for (20,50)
-        
+If you get this error too, you've got to install `opencv-python` like so:
 
-        # Initialize all the Q-values
-        for i in range(self.rows):
-            row = []
-            for j in range(self.cols):
-                for a in range(9):
-                    row.append(0.0)
-            self.Qvalue.append(row)
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.28.27.png" alt=""><figcaption></figcaption></figure>
 
+## Understanding the Environment
 
-
-        # Initialize all the action combinations
-        self.actions = ((-1, -1), (-1, 0), (0, 1), (0, -1), (0, 0), (0, 1), (1, -1), (1, 0), (1, 1))
-
-
-        # Initialize the policy
-        for i in range(self.rows):
-            row = []
-            for j in range(self.cols):
-                row.append(random.randint(0, 8))
-            self.pi.append(row)
-
-
-
-
-
-    # Reset the learner to empty
-    def reset(self):
-        self.Qvalue = [] # store Q values
-        self.R = [] # not working
-        self.pi = [] # store policies
-
-        # Initialize all the Q-values
-        for i in range(self.rows):
-            row = []
-            for j in range(self.cols):
-                for a in range(9):
-                    row.append(0.0)
-            self.Qvalue.append(row)
-
-        # Initiliaize all the Reward
-        for i in range(self.rows):
-            row = []
-            for j in range(self.cols):
-                for a in range(9):
-                    row.append(0.0)
-            self.R.append(row)
-
-        # Initialize all the action combinations
-        self.actions = ((-1, -1), (-1, 0), (0, 1), (0, -1), (0, 0), (0, 1), (1, -1), (1, 0), (1, 1))
-
-
-        # Initialize the policy
-        for i in range(self.rows):
-            row = []
-            for j in range(self.cols):
-                row.append(random.randint(0, 8))
-            self.pi.append(row)
-
-        # Controlling Process
-        self.learned = False
-
-    # Set the basic info about the robot
-    def setBot(self, crawler):
-        self.crawler = crawler
-
-
-    def storeCurrentStatus(self):
-        self.old_location = self.crawler.location
-        self.old_angle1 = self.crawler.angle1
-        self.old_angle2 = self.crawler.angle2
-        self.old_contact = self.crawler.contact
-        self.old_contact_pt = self.crawler.contact_pt
-        self.old_location = self.crawler.location
-        self.old_p1 = self.crawler.p1
-        self.old_p2 = self.crawler.p2
-        self.old_p3 = self.crawler.p3
-        self.old_p4 = self.crawler.p4
-        self.old_p5 = self.crawler.p5
-        self.old_p6 = self.crawler.p6
-
-    def reverseStatus(self):
-        self.crawler.location = self.old_location
-        self.crawler.angle1 = self.old_angle1
-        self.crawler.angle2 = self.old_angle2
-        self.crawler.contact = self.old_contact
-        self.crawler.contact_pt = self.old_contact_pt
-        self.crawler.location = self.old_location
-        self.crawler.p1 = self.old_p1
-        self.crawler.p2 = self.old_p2
-        self.crawler.p3 = self.old_p3
-        self.crawler.p4 = self.old_p4
-        self.crawler.p5 = self.old_p5
-        self.crawler.p6 = self.old_p6
-
-
-
-    def updatePolicy(self):
-        # After convergence, generate policy y
-        for r in range(self.rows):
-            for c in range(self.cols):
-                max_idx = 0
-                max_value = -1000
-                for i in range(9):
-                    if self.Qvalue[r][9 * c + i] >= max_value:
-                        max_value = self.Qvalue[r][9 * c + i]
-                        max_idx = i
-
-                # Assign the best action
-                self.pi[r][c] = max_idx
-
-
-    # This function will do additional saving of current states than Q-learning
-    def onLearningProxy(self, option):
-        self.storeCurrentStatus()
-        if option == 0:
-            self.onMonteCarlo()
-        elif option == 1:
-            self.onTDLearning()
-        elif option == 2:
-            self.onQLearning()
-        self.reverseStatus()
-
-
-        # Turn off learned
-        self.learned = True
-
-
-
-    # For the play_btn uses: choose an action based on the policy pi
-    def onPlay(self, ang1, ang2, mode=1):
-
-        epsilon = self.epsilon
-
-        ang1_cur = ang1
-        ang2_cur = ang2
-
-        # get the state index
-        r = int((ang1_cur - self.angle1_range[0]) / self.unit)
-        c = int((ang2_cur - self.angle2_range[0]) / self.unit)
-
-        # Choose an action and udpate the angles
-        idx, angle1_update, angle2_update = self.chooseAction(r=r, c=c)
-        ang1_cur += self.unit * angle1_update
-        ang2_cur += self.unit * angle2_update
-
-        return ang1_cur, ang2_cur
-
-
-
-    ####################################  Needed: here are the functions you need to use  ################################################
-
-
-    # This function is similar to the "runReward()" function but without returning a reward.
-    # It only update the robot position with the new input "angle1" and "angle2"
-    def setBotAngles(self, ang1, ang2):
-        self.crawler.angle1 = ang1
-        self.crawler.angle2 = ang2
-        self.crawler.posConfig()
-
-
-
-    # Given the current state, return an action index and angle1_update, angle2_update
-    # Return valuse
-    #  - index: any number from 0 to 8, which indicates the next action to take, according to the e-greedy algorithm
-    #  - angle1_update: return the angle1 new value according to the action index, one of -1, 0, +1
-    #  - angle2_update: the same as angle1
-
-    def chooseAction(self, r, c):
-        # implementation here
-
-
-        # below is just an example of randomly generating angle updates
-        idx = 0
-        angle1_update = random.randint(-1, 1)
-        angle2_update = random.randint(-1, 1)
-
-        # if out of the range, then just make angle1_update = 0
-        if angle1_update * self.unit + self.crawler.angle1 < self.angle1_range[0] or angle1_update * self.unit + self.crawler.angle1 >  self.angle1_range[1]:
-            angle1_update = 0
-
-        # if out of the range, then just make angle2_update = 0
-        if angle2_update * self.unit + self.crawler.angle2 < self.angle2_range[0] or angle2_update * self.unit + self.crawler.angle2 > self.angle2_range[1]:
-            angle2_update = 0
-
-
-        return idx, angle1_update, angle2_update
-
-
-
-    # Method 1: Monte Carlo algorithm
-    def onMonteCarlo(self):
-        # You don't need to implement this function
-        return
-
-
-
-    # Method 2: Temporal Difference based on SARSA
-    def onTDLearning(self):
-        # This is the function that you have to work on
-        return
-
-
-
-
-    # Method 3: Bellman operator based Q-learning
-    def onQLearning(self):
-        # You don't have to work on it for the moment
-        return
-
-
-
+1. **State:** Represents a combination of `angle1` and `angle2`.
+2. **Qvalue:** A 2D array storing Q-values for each state-action pair.
+3. **chooseAction():** Selects an action based on the ε-greedy policy, potentially updates the angle1 and angle2
+4. **onTDLearning():** The core of the TD SARSA algorithm, updates Q-values based on rewards and state transitions.
+5. **Crawler (From Crawler.py):** The simulated bot whose state is being modeled and controlled by the RL algorithm.
 
 ```
+                        Bot Movement and State Representation                        
+                                                                                     
+     ┌───────┐                              ┌─────────┐                              
+     │Crawler│                              │RLearning│                              
+     └───┬───┘                              └────┬────┘                              
+         │Request current state (angle1, angle2) │                                   
+         │──────────────────────────────────────>│                                   
+         │                                       │                                   
+         │                                       ────┐                               
+         │                                           │ Calculate state indices (r, c)
+         │                                       <───┘                               
+         │                                       │                                   
+         │         Send updated angles           │                                   
+         │<──────────────────────────────────────│                                   
+         │                                       │                                   
+         ────┐                                   │                                   
+             │ Update internal angles            │                                   
+         <───┘                                   │                                   
+     ┌───┴───┐                              ┌────┴────┐                              
+     │Crawler│                              │RLearning│                              
+     └───────┘                              └─────────┘                              
+```
+
+* This diagram shows how the `Crawler` object interacts with the `RLearning` component.
+* The `Crawler` provides its current angles.
+* The `RLearning` module maps these angles to a discrete state representation (using row and column indices).
+* New angles might be calculated by `RLearning` (e.g, if the `play_mode` is on) and sent back to the `Crawler` to update its position.
+
+```
+                        TD SARSA Q-Value Update                   
+                                                                  
+     ┌─────────┐                                         ┌───────┐
+     │RLearning│                                         │Crawler│
+     └────┬────┘                                         └───┬───┘
+          ────┐                                              │    
+              │ chooseAction()                               │    
+          <───┘                                              │    
+          │                                                  │    
+          ────┐                                              │    
+              │ Get current state (r, c) and action index    │    
+          <───┘                                              │    
+          │                                                  │    
+          │      Execute action, get new state, reward       │    
+          │─────────────────────────────────────────────────>│    
+          │                                                  │    
+          ────┐                                              │    
+              │ Calculate next state (r', c')                │    
+          <───┘                                              │    
+          │                                                  │    
+          ────┐                                              │    
+              │ Update Qvalue[r][c] based on TD SARSA formula│    
+          <───┘                                              │    
+     ┌────┴────┐                                         ┌───┴───┐
+     │RLearning│                                         │Crawler│
+     └─────────┘                                         └───────┘
+```
+
+* This focuses on the internal logic within the `onTDLearning()` function.
+* `chooseAction()` selects an action using the ε-greedy approach.
+* The `Crawler` executes the action, leading to a new state and a reward.
+* The key step is the Q-value update, which uses the immediate reward, the Q-value of the next state-action pair, and the discount factor (gamma).
 
