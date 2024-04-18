@@ -2,7 +2,7 @@
 
 ## What is Deep Learning
 
-![Source: AWS Training and Certification | Coursera](<../../../.gitbook/assets/image (9) (1).png>)
+![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9) (1).png>)
 
 ### Brief History
 
@@ -26,11 +26,11 @@
   * Output layers.
 * The basic unit is a **node** or artifical neuron.
 
-![Source: Amazon Machine Learning | AWS from Coursera](<../../../.gitbook/assets/image (10) (1).png>)
+![Source: Amazon Machine Learning | AWS from Coursera](<../../.gitbook/assets/image (10) (1).png>)
 
 ### Types of Neural Networks
 
-![](<../../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 #### Feedforward Network
 
@@ -88,11 +88,11 @@
 
 ### Class Notes From 2024-APR-11
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 14.34.11@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 14.34.11@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Quiz
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Given an image of a neural network, be able to know:
 
@@ -140,7 +140,7 @@ $$
 * **Clarity:** Specifying the dimensions of the weight matrix helps understand how it connects layers.
 * **Completeness:** Mentioning the activation function used in the output layer would provide a more complete picture.
 
-## Activation Functions
+## Activation Function Programming
 
 We're going to implement it by hand and understand how data goes through layers. The training process is more complex.&#x20;
 
@@ -160,7 +160,7 @@ print(x)
 
 ```
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 15.11.08@2x.png" alt="" width="313"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 15.11.08@2x.png" alt="" width="313"><figcaption></figcaption></figure>
 
 Now everything is column wise.&#x20;
 
@@ -188,4 +188,96 @@ def relu(x):
     return np.max(0, x)
 ```
 
-###
+### Thetas
+
+```python
+# Create some 3D Input Data
+x = np.random.rand(3, 1)
+theta_1 = np.random.randn(3,4)
+theta_2 = np.random.randn(1,4)
+```
+
+Now we're doing some forward pass? Not sure what this means.&#x20;
+
+```python
+hidden = theta_1.dot(x)
+```
+
+Numpy has a `dot` method.  That's easy. Takes a vector and does something to it.
+
+Here's where we left off in the code:
+
+```python
+import numpy as np
+
+# Create some 3D Input Data
+x = np.random.rand(3, 1)
+theta_1 = np.random.randn(3, 4)
+theta_2 = np.random.randn(1, 4)
+
+
+def sigmoid(x: np.ndarray) -> np.ndarray:
+    """
+    An activation function.
+
+    Sigmoid: 1 / (1 + e^(-x)) 
+
+    Args:
+        x: Input array.
+
+    Returns:
+        The result of applying the sigmoid function to the input.
+    """
+    return 1.0 / (1.0 + np.exp(-x))
+
+
+def relu(x: np.ndarray) -> np.ndarray:
+    """
+    ReLU (Rectified Linear Unit) activation function.
+
+    Args:
+        x: Input array.
+
+    Returns:
+        The result of applying the ReLU function to the input.
+    """
+    return np.maximum(0, x)  # Optimized implementation of ReLU
+
+
+def forward_pass(x: np.ndarray, theta_1: np.ndarray, theta_2: np.ndarray) -> np.ndarray:
+    """
+    Performs the forward pass of a simple neural network layer.
+
+    Args:
+        x: Input data (with bias term prepended).
+        theta_1: Weight matrix for the first layer.
+        theta_2: Weight matrix for the second layer.
+
+    Returns:
+        The output of the forward pass.
+    """
+    ones_array = np.ones((1, x.shape[1]))  # Ensure bias has correct shape
+
+    # Calculate hidden layer (with bias)
+    hidden = theta_1.dot(x)
+    hidden = np.vstack((ones_array, hidden))
+
+    # Calculate output layer
+    output = sigmoid(theta_2.dot(hidden))
+
+    return output
+
+
+if __name__ == "__main__":
+    # Example usage (assuming x still has a bias term)
+    result = forward_pass(x, theta_1, theta_2)
+    print(result)
+
+```
+
+### Handwritten idk what we're doing
+
+<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption></figcaption></figure>
+
+The output has 3 classes.&#x20;
+
