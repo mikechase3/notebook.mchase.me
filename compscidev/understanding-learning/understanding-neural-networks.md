@@ -1,2 +1,0 @@
-# Understanding Neural Networks
-
