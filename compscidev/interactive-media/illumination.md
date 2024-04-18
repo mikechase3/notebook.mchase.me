@@ -181,4 +181,4 @@ For example, what is the normal of n`* \vec(v_4)` and `n(v_2)`.&#x20;
 
 ### ![](<../../.gitbook/assets/image (737).png>)
 
-###
+.
