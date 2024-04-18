@@ -114,8 +114,71 @@ This last line represents our final result for `def compute_reflection`.
 
 ## Quiz
 
-There is a point `P(300, 240, 200)` in a 3D space and its color is `RGB(0.1, 0.5, 0.1)`. If there is only one light source in the capturing environment, which locates at `(300, 270, 190)`. The light color is `RGB(0.9, 0.9, 0.9)`. W also know the point `P` is from a surface with its normal is `(0, 1, 0)`. If you look at the point `P` form (300, 260, 210), what is the final color of this point?
+The problem given is that there is a point P(300, 240, 200) in a 3D space and its color is RGB(0.1, 0.5, 0.1). There is only one light source in the capturing environment, which locates at (300, 270, 190). The light color is RGB (0.9, 0.9, 0.9). We also know the point P is from a surface with its normal is (0, 1, 0). We need to find the final color of this point, assuming the specular color is RGB(1.0, 1.0, 1.0), and the exponent is 5.
 
-Assuming the specular color is RGB(1.0, 1.0, 1.0), and the exponent is 5.
+The solution involves using the illumination equation which models three components: ambient, diffuse reflections, and specular reflections.
 
 <figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>
+
+## Programming Tips
+
+### Normalizing
+
+<figure><img src="../../.gitbook/assets/image (722).png" alt=""><figcaption></figcaption></figure>
+
+Then make a calculate reflected vector part:
+
+<figure><img src="../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+
+Not sure what we're doing now; here's what he wrote.
+
+<figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-18 at 12.53.52@2x.png" alt=""><figcaption></figcaption></figure>
+
+It's better if we show something like this visually. Multiply down the diagonals:
+
+<figure><img src="../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+
+### Calculating Normal Vectors
+
+<figure><img src="../../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (733).png" alt=""><figcaption></figcaption></figure>
+
+## Multiple Lighting Sources
+
+How do we reflect several lights? We'd acount for additional lights by computing the dot products with each light & sum them up.
+
+<figure><img src="../../.gitbook/assets/image (734).png" alt=""><figcaption></figcaption></figure>
+
+### Dealing with Shadows
+
+* Goal: If a point is visible from a light, illuminate it. If not, don't.
+* Introduce a visibility term S\_i for each point, light pair.&#x20;
+* $$S_i$$=0 if the point isn't visible. S\_i = 1 if it is visible.
+
+$$
+c=c_rc_a + \sum_{i=1}^nS_ic_{l_i}(c_r max(0, n \cdot l_i) + c_p \texttt{ max} (0,v \cdot r_i)^p)
+$$
+
+Make sure you clamp all colors at 1.&#x20;
+
+### Computing Normal for Multiple Connected Vertexes?
+
+Let's say you have a triangle. How do you compute the normal? We can generate two vectors & find the normal. But then, that normal- it's the safe normal for this triangle. It shares the same number?&#x20;
+
+* For each vertex, find all polygons that contain the vertex. For vertex v\_0 these are polygons p\_1, p\_2, p\_3, and p\_4.
+* Take the average of the polygon normals.
+* This gives the normal n\_v0 at the vertex.
+* Repeat this for each vertex.&#x20;
+
+So this is a new question, what if we have multiple faces? Ps are the faces, but if four faces share a point. Then sum up the vectors I think.
+
+For example, what is the normal of n`* \vec(v_4)` and `n(v_2)`.&#x20;
+
+### ![](<../../.gitbook/assets/image (737).png>)
+
+###
