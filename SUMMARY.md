@@ -368,6 +368,7 @@
     * [C# Scripting](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
     * [Splines & Roller Coaster Notes](compscidev/game-development/unity-game-dev-class/splines-and-roller-coaster-notes.md)
     * [Unity AR/VR Demo](compscidev/game-development/unity-game-dev-class/unity-ar-vr-demo.md)
+    * [Student Presentations](compscidev/game-development/unity-game-dev-class/student-presentations.md)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
 * [Networking](compscidev/networking/README.md)
   * [DDOS Glossary](https://www.cloudflare.com/learning/ddos/glossary/)
