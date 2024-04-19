@@ -24,7 +24,7 @@ Here's the general process:
    3. Load the driver. Use `dpkg --contents <cackey_package_location>.deb`>which will reveal the location of where it got installed.
    4. Hit Load and navigate to the driver. My linux installation dropped it in `/usr/lib64/libcackey.so` but yours might be different.
 
-![Loading Certificates into Firefox](<../../../.gitbook/assets/Screenshot from 2022-02-28 13-41-52.png>)
+![Loading Certificates into Firefox](<../../../../.gitbook/assets/Screenshot from 2022-02-28 13-41-52.png>)
 
 ## Resources
 
