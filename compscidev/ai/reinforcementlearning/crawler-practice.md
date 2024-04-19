@@ -46,6 +46,8 @@ If you get this error too, you've got to install `opencv-python` like so:
 
 ## Understanding the Environment
 
+This is an AI chat to help me do a few things...
+
 ### Understanding the Assignment
 
 * **Temporal Difference (TD) Learning:** The key idea is to learn by adjusting predictions based on the difference between the predicted reward for a state and the actual reward received along with the estimated reward for the next state. In essence, it learns by refining its expectations with experience.
@@ -159,3 +161,17 @@ I looked up how a robot makes a decision and learn from it (a bit more formally 
 * **Start with `chooseAction`:** It's more straightforward to implement, and then you can use that function within your `onTDLearning` function.
 * **Data Structures:** Think about how to access and update your `Qvalue` array efficiently given the discretized `angle1` and `angle2` values.
 * **Debugging:** Print values of states, actions, rewards, and Q-values at different steps to help you visualize the process and spot errors.
+
+### Misc
+
+Just gonna copy/paste my chat here:
+
+<details>
+
+<summary>More Background Knowledge</summary>
+
+<img src="../../../.gitbook/assets/CleanShot 2024-04-18 at 23.06.10@2x.png" alt="" data-size="original">
+
+</details>
+
+.
