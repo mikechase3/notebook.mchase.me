@@ -8,6 +8,8 @@ Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environment
 
 {% embed url="https://quizlet.com/891442364/ai-cps-48x-f24-shen-monte-carlo-flash-cards/?funnelUUID=906ee232-b50a-4529-9d1c-94006f3e7038" %}
 
+{% embed url="https://github.com/mikechase3/OptimalWalkingProblem" %}
+
 This is a gymnasium environment, but it's basically what we're doing, but we're using Shen's proprietary environment instead. Let's see what happens.
 
 ## Pycharm Project Setup
