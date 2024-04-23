@@ -170,6 +170,7 @@
   * [AWS Building Intelligent Systems](compscidev/ai/artificial-intelligence.md)
   * [Deep Learning](compscidev/ai/deep-learning/README.md)
     * [Neural Networks](compscidev/understanding-learning/deep-learning.md)
+    * [BP Backwards Pass Backpropagation](compscidev/ai/deep-learning/bp-backwards-pass-backpropagation.md)
   * [Gymnasium Environment Setup](compscidev/ai/gymnasium-environment-setup.md)
   * [How AI Large Lang Models Work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_080223\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=B\&utm\_term=ARS\_OrbitalTransmission)
   * [Machine Learning](compscidev/understanding-learning/README.md)
