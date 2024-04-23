@@ -384,6 +384,7 @@
 * [Operating Systems](compscidev/operating-systems/README.md)
   * [CPS 536 OS](compscidev/operating-systems/cps-536-os/README.md)
     * [01 OS Welcome](compscidev/operating-systems/cps-536-os/w01-operatingsystemspurpose.md)
+    * [Videos](compscidev/operating-systems/cps-536-os/videos.md)
   * [Introduction](compscidev/operating-systems/introduction.md)
   * [Internal Hardware Continued](compscidev/operating-systems/internal-hardware-continued.md)
   * [Inter Process CMM](compscidev/operating-systems/w07-ipc.md)
