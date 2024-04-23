@@ -399,6 +399,7 @@
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 * [Interactive Media](compscidev/interactive-media/README.md)
   * [OpenGL Bunny Transformations](compscidev/interactive-media/opengl-bunny-transformations.md)
+  * [OpenGL Bunny Shading](compscidev/interactive-media/opengl-bunny-shading.md)
   * [CV CMAKE](compscidev/interactive-media/cv-cmake.md)
   * [Illumination w/ Diffuse, Ambience, Phong](compscidev/interactive-media/illumination.md)
   * [OpenGL Setup](compscidev/interactive-media/opengl-setup.md)
