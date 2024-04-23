@@ -1,5 +1,9 @@
 # Neural Networks
 
+## What are Neural Networks?
+
+{% embed url="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi" %}
+
 ## What is Deep Learning
 
 ![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9) (1).png>)
