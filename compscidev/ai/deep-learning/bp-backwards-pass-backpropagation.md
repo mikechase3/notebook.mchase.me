@@ -24,3 +24,11 @@ In essence, backpropagation employs the chain rule to calculate gradients and le
 
 </details>
 
+## Neural Network & Gradient Descent
+
+We'll account for the bias in the last function? We'l get five equations in each layer.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+> So then you can go back to the neural network and see that it's built up on many functions of theta. y=F\_1=(\theta\_1, \theta\_2, \theta\_3) and it's a compacted process. You can see between two layer there's multiple functions. Then at the end you compute the ? to compute gradient descent.&#x20;
+

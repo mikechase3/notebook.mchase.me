@@ -92,7 +92,7 @@
 
 ### Quiz
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (711).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Given an image of a neural network, be able to know:
 
