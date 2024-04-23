@@ -540,9 +540,8 @@ In my attempt to build matrices from my notes, I failed & used some helpful reso
 
 {% embed url="https://en.wikipedia.org/wiki/Rotation_matrix#In_three_dimensions" %}
 
-### Code Analysis
+## CPP Implementation
 
-Boy howdy I just went at it for the last few hours, never took a break and it just got worse.
+Got it working here:
 
-
-
+<figure><img src="../../.gitbook/assets/CleanShot 2024-04-23 at 12.43.46.gif" alt=""><figcaption></figcaption></figure>
