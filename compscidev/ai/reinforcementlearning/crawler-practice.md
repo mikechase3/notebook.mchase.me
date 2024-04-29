@@ -1,6 +1,49 @@
 # Bipedal Walker
 
+## Background Knowledge
+* **Reinforcement Learning (RL):**  Algorithms that allow an agent to learn by interacting with an environment and receiving rewards.
+* **Temporal Difference (TD) Learning:**  RL method that learns by adjusting predictions based on the difference between expected and actual rewards.
+* **SARSA:**  A TD algorithm updating Q-values based on (State, Action, Reward, next State, next Action).
+* **Q-values:**  Represent the expected future rewards of taking a specific action from a given state. 
 
+## Progress Made
+* **Environment Setup:**  Successfully installed dependencies and configured the PyCharm project.
+* **State Representation:**  Implemented a `State` class to represent the crawler's angles.
+* **Action Selection:**  Implemented the `chooseAction` function using the ε-greedy policy.
+* **Core TD Learning:**  Started implementing the SARSA algorithm in the `onTDLearning` function.
+
+## Challenges and Future Work
+
+* **Major Challenges:**  Initially had difficulty calculating correct state indices and ensuring Q-value updates use integer division. Debugging helped resolve these issues.
+* **Negative Indices:**  Need to address the issue where the crawler tries to access negative indices, preventing correct Q-value updates.
+* **Debugging and Refinement:**  Continued debugging and testing of the SARSA implementation is required, and will need to visualize the crawler's behavior.
+
+## Additional Notes
+* I used Gym's Bipedal Walker environment initially to understand the concepts.
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.18.36.gif" alt=""><figcaption></figcaption></figure>
+
+* [x] &#x20;It compiles!
+* [x] self.steps repeatedly lets the agent learn multiple episodes & generate random trajectories for each episode.
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.08.52.png" alt=""><figcaption></figcaption></figure>
+
+* [ ] Correctly updates the Qvalue for each state by finding the right state and action index within the 2D list.
+  * [x] Done, but major bugs
+  * [ ] Crawler tries to access negative indices that are nonexistant.&#x20;
+  * [ ] Therefore, Q-values do not get updated.
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.12.17.png" alt=""><figcaption></figcaption></figure>
+
+* [x] &#x20;Correctly implement the e-greedy algorithm for chooseAction()
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.14.17.png" alt=""><figcaption></figcaption></figure>
+
+* [x] &#x20;Provide a document with what's implemented & not.
+
+
+
+# Draft & Scrap Notes
 
 {% embed url="https://gymnasium.farama.org/_images/bipedal_walker.gif" fullWidth="false" %}
 Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/](https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/)
@@ -10,7 +53,7 @@ Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environment
 
 {% embed url="https://github.com/mikechase3/OptimalWalkingProblem" %}
 
-This is a gymnasium environment, but it's basically what we're doing, but we're using Shen's proprietary environment instead. Let's first try it with Gym:
+This is a gymnasium environment, but it's basically what we're doing, but we're using Dr. Shen's proprietary environment instead. Let's first try it with Gym:
 
 ## Pycharm Project Setup
 
@@ -166,26 +209,4 @@ Just gonna copy/paste my chat here:
 
 </details>
 
-## Progress So Far
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.18.36.gif" alt=""><figcaption></figcaption></figure>
-
-
-
-* [x] &#x20;It compiles!
-* [x] self.steps repeatedly lets the agent learn multiple episodes & generate random trajectories for each episode.
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.08.52.png" alt=""><figcaption></figcaption></figure>
-
-* [ ] Correctly updates the Qvalue for each state by finding the right state and action index within the 2D list.
-  * [x] Done, but major bugs
-  * [ ] Crawler tries to access negative indices that are nonexistant.&#x20;
-  * [ ] Therefore, Q-values do not get updated.
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.12.17.png" alt=""><figcaption></figcaption></figure>
-
-* [x] &#x20;Correctly implement the e-greedy algorithm for chooseAction()
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.14.17.png" alt=""><figcaption></figcaption></figure>
-
-* [x] &#x20;Provide a document with what's implemented & not.
