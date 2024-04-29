@@ -60,6 +60,7 @@
   * [Master Resume/CV](career/paperwork/master-resume-cv.md)
   * [O-Net](https://www.onetonline.org/)
   * [Salary Negotiation](career/paperwork/salary-negotiation.md)
+* [Gale PlanBuilder Evaluation](career/gale-planbuilder-evaluation.md)
 * [Code Reviews](career/code-reviews.md)
 * [Communication Management](career/communication-management/README.md)
   * [48 Laws of Power Cult Wiki](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
