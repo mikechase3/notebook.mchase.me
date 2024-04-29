@@ -10,7 +10,7 @@ Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environment
 
 {% embed url="https://github.com/mikechase3/OptimalWalkingProblem" %}
 
-This is a gymnasium environment, but it's basically what we're doing, but we're using Shen's proprietary environment instead. Let's see what happens.
+This is a gymnasium environment, but it's basically what we're doing, but we're using Shen's proprietary environment instead. Let's first try it with Gym:
 
 ## Pycharm Project Setup
 
@@ -35,16 +35,6 @@ But now they want you to use the package manager
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.16.51.png" alt=""><figcaption></figcaption></figure>
 
 You can verify this works successfully by opening up the python console right above it & typing `import numpy` into the interperter prompt (e.g. `>>>`). If you don't see that, type python3, unless you're using conda than you've got to activate it somehow but I'm doing a pipenv & it works for now. If you don't get any error when running import numpy, you're good to go.
-
-### CV2 Issues
-
-I'm guessing that PyCharm's solution to installing packages is seeing if `pip install <whatYouTypeIn>` is a registered package and `cv2` apparently isn't.&#x20;
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.23.24.png" alt=""><figcaption></figcaption></figure>
-
-If you get this error too, you've got to install `opencv-python` like so:
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.28.27.png" alt=""><figcaption></figcaption></figure>
 
 ## Understanding the Environment
 
@@ -176,4 +166,26 @@ Just gonna copy/paste my chat here:
 
 </details>
 
-.
+## Progress So Far
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.18.36.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+* [x] &#x20;It compiles!
+* [x] self.steps repeatedly lets the agent learn multiple episodes & generate random trajectories for each episode.
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.08.52.png" alt=""><figcaption></figcaption></figure>
+
+* [ ] Correctly updates the Qvalue for each state by finding the right state and action index within the 2D list.
+  * [x] Done, but major bugs
+  * [ ] Crawler tries to access negative indices that are nonexistant.&#x20;
+  * [ ] Therefore, Q-values do not get updated.
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.12.17.png" alt=""><figcaption></figcaption></figure>
+
+* [x] &#x20;Correctly implement the e-greedy algorithm for chooseAction()
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.14.17.png" alt=""><figcaption></figcaption></figure>
+
+* [x] &#x20;Provide a document with what's implemented & not.
