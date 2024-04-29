@@ -1,5 +1,5 @@
 # Bipedal Walker
-
+{% embed url="https://github.com/mikechase3/OptimalWalkingProblem" %}
 ## Background Knowledge
 * **Reinforcement Learning (RL):**  Algorithms that allow an agent to learn by interacting with an environment and receiving rewards.
 * **Temporal Difference (TD) Learning:**  RL method that learns by adjusting predictions based on the difference between expected and actual rewards.
@@ -19,6 +19,8 @@
 * **Debugging and Refinement:**  Continued debugging and testing of the SARSA implementation is required, and will need to visualize the crawler's behavior.
 
 ## Additional Notes
+{% embed url="https://quizlet.com/891442364/ai-cps-48x-f24-shen-monte-carlo-flash-cards/?funnelUUID=906ee232-b50a-4529-9d1c-94006f3e7038" %}
+
 * I used Gym's Bipedal Walker environment initially to understand the concepts.
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.18.36.gif" alt=""><figcaption></figcaption></figure>
@@ -49,9 +51,6 @@
 Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/](https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/)
 {% endembed %}
 
-{% embed url="https://quizlet.com/891442364/ai-cps-48x-f24-shen-monte-carlo-flash-cards/?funnelUUID=906ee232-b50a-4529-9d1c-94006f3e7038" %}
-
-{% embed url="https://github.com/mikechase3/OptimalWalkingProblem" %}
 
 This is a gymnasium environment, but it's basically what we're doing, but we're using Dr. Shen's proprietary environment instead. Let's first try it with Gym:
 
