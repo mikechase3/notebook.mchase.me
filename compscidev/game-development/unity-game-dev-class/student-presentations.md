@@ -1,8 +1,9 @@
 # Student Presentations
 
-## TODO for my slide
+## Michael Chase
 
-* Name Slide
+Name Slide
+
 * Go over the main parts of our projects
 
 ## Vinay Kamisetty & Mansa Kakumani
