@@ -1,9 +1,17 @@
 # OpenGL Bunny Shading
 
+## Theory
+
+Make sure you read through this first. I had to print it out to go through it all.
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 Our task:
 
 * [ ] Finish the block "else if" in `functions.h` around lines 130-146.
-* [ ] Implement the equation:
+* [ ] Implement the equation that supposedly adds up the color values for its final product.
 
 $$
 color(v) = C_rC_l max(\vec{l} \cdot \vec{n}, 0)  + C_rC_a + C_l C_p \cdot max(\vec{r} \vec{v}, 0)
@@ -35,9 +43,9 @@ You are tasked with creating a realistic 3D rendering of a bunny object using di
      * "2": Display with all three illumination terms (simulating materials like china or metal).
      * "M" or "m": Display only the mesh lines.
 
-## Functions & Configurations
+## Functions & Configurations May 1
 
-Mostly May 1st
+Met with Rachit & got this far:
 
 <details>
 
@@ -897,5 +905,118 @@ int main(int argc,  char * argv[]) {
 
 
 
+## UML Diagrams
 
+### Global Variables
+
+<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+
+### Important Structures
+
+<figure><img src="../../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+
+
+<details>
+
+<summary>Links for editing:</summary>
+
+```
+@startuml
+class Triangle {
+  +v_idx[] : int[3]
+  +c[] : Color[3]
+}
+@enduml
+
+@startuml
+class Color {
+  +channel[] : float[3] 
+}
+@enduml
+
+
+
+
+
+@startuml
+class Vertex {
+  +x : float
+  +y : float
+  +z : float
+  +c : Color
+  +uni_x : float
+  +uni_y : float
+  +uni_z : float 
+  +normalVector(v1: Vertex, v2: Vertex) : Vertex 
+  +normalize() : void
+  +* (right: Vertex) : float  
+  +- (right: Vertex) : Vertex 
+  ++ (right: Vertex) : Vertex 
+  +* (right: float) : Vertex  
+  +normDot(right: Vertex) : float 
+  +cross(right: Vertex) : Vertex  
+}
+@enduml 
+
+@startuml
+class Material {
+  +ambient : Color
+  +diffuse : Color
+  +specular : Color
+  +shininess : float
+}
+@enduml
+
+@startuml
+class Mat {
+  +elem[][] : float[4][4] 
+  +eye() : void
+  +* (right: Mat) : Mat 
+  +* (vec: Vec) : Vec
+} 
+@enduml
+
+@startuml
+' Add variables with their types
+light : Vertex
+ambient_color : Color
+bunny_color : Color 
+phong_color : Color
+view_pos : Vertex
+theta_x : float
+theta_y : float
+theta_z : float
+translate_x : float
+translate_y : float
+translate_z : float
+mesh_only : int
+shading_type : int
+mouse_down: int
+change_mode: int
+current_x: int
+current_y: int
+@enduml
+
+```
+
+</details>
 
