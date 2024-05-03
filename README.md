@@ -6,10 +6,11 @@ Not for public use most of the time, but occasionally I share what I build:
 
 {% embed url="https://github.com/mikechase3" %}
 
-### Currently Exploring (April 2024)&#x20;
+### Currently Exploring (Updated May 2024)&#x20;
 
-1. [Bipedal Walker](compscidev/ai/reinforcementlearning/crawler-practice.md)
+1. Python [stdlib](compscidev/languages-and-architectures/python/standard-library/). There's a lot of cool built-ins there that should work on most computers! I've been brainstorming a customized messenger application for our lab & our frequently rotating staff.
 2. Exploring [Google Colaboratory](https://colab.research.google.com/?authuser=1#scrollTo=Nma\_JWh-W-IF)
+3. Django: try & make a website/interface for an[ IT business](https://www.dam-it.tech/) I might build.
 
 ## Study Decks
 
