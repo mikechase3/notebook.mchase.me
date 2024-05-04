@@ -45,7 +45,7 @@ You are tasked with creating a realistic 3D rendering of a bunny object using di
 
 ## Functions & Configurations May 1
 
-Met with Rachit & got this far:
+Met with Rachit & got this far. Didn't work on my machine...
 
 <details>
 
@@ -1020,3 +1020,42 @@ current_y: int
 
 </details>
 
+### Ambience
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 15.48.25.gif" alt=""><figcaption></figcaption></figure>
+
+Ambience is just the background color. All we have to do is take the bunny's original color and multiply it by the bunny's. Something that confused me was the data structure used to represent this. While we have a `Color` class, we just represent this as `c` and iterate through each one of the three through `k`.&#x20;
+
+```cpp
+for (int j = 0; j < 3; j++) {
+    // Ambient Contribution
+    for (int k = 0; k < 3; k++) {
+         triangles_list[i].c[j].channel[k] = ambient_color.channel[k] * bunny_color.channel[k];
+}
+```
+
+If that's all you do in your triangels function, you'll get something that looks like the above gif.
+
+### Diffuse
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.17.38.gif" alt=""><figcaption></figcaption></figure>
+
+### Fixing Dot & Cross Products
+
+Turns out we've got to implement these too & it's not provided in the `data` class.&#x20;
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.52.36@2x.png" alt=""><figcaption></figcaption></figure>
+
+This was the "whoa!!" moment for me. Like- I did this? I made it rotate and look like a real bunny?!
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.54.55.gif" alt=""><figcaption></figcaption></figure>
+
+### Phong
+
+Phong incorporates more elements. I really had to use drastic values so I'm not sure what that's about.&#x20;
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.05.13.gif" alt=""><figcaption></figcaption></figure>
+
+Setting it to ten was a bit better:
+
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.07.21.gif" alt=""><figcaption></figcaption></figure>
