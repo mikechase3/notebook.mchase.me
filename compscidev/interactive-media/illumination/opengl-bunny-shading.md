@@ -1,5 +1,7 @@
 # OpenGL Bunny Shading
 
+{% embed url="https://youtu.be/vn1zKJCAJR8" %}
+
 ## Theory
 
 Make sure you read through this first. I had to print it out to go through it all.
