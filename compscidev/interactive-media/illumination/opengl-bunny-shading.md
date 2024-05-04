@@ -1,8 +1,10 @@
 # OpenGL Bunny Shading
 
+## OpenGL Bunny Shading
+
 {% embed url="https://youtu.be/vn1zKJCAJR8" %}
 
-## Theory
+### Theory
 
 Make sure you read through this first. I had to print it out to go through it all.
 
@@ -16,12 +18,12 @@ Our task:
 * [ ] Implement the equation that supposedly adds up the color values for its final product.
 
 $$
-color(v) = C_rC_l max(\vec{l} \cdot \vec{n}, 0)  + C_rC_a + C_l C_p \cdot max(\vec{r} \vec{v}, 0)
+color(v) = C_rC_l max(\vec{l} \cdot \vec{n}, 0) + C_rC_a + C_l C_p \cdot max(\vec{r} \vec{v}, 0)
 $$
 
 .
 
-## **Assignment Summary**
+### **Assignment Summary**
 
 You are tasked with creating a realistic 3D rendering of a bunny object using different illumination models to simulate various material appearances. Key components of the assignment include:
 
@@ -45,7 +47,7 @@ You are tasked with creating a realistic 3D rendering of a bunny object using di
      * "2": Display with all three illumination terms (simulating materials like china or metal).
      * "M" or "m": Display only the mesh lines.
 
-## Functions & Configurations May 1
+### Functions & Configurations May 1
 
 Met with Rachit & got this far. Didn't work on my machine...
 
@@ -901,21 +903,17 @@ int main(int argc,  char * argv[]) {
 ```
 {% endcode %}
 
-
-
 </details>
 
+### UML Diagrams
 
-
-## UML Diagrams
-
-### Global Variables
+#### Global Variables
 
 <figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
 
-### Important Structures
+#### Important Structures
 
 <figure><img src="../../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
 
@@ -932,10 +930,6 @@ int main(int argc,  char * argv[]) {
 <figure><img src="../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-
-
-
 
 <details>
 
@@ -1022,11 +1016,11 @@ current_y: int
 
 </details>
 
-### Ambience
+#### Ambience
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 15.48.25.gif" alt=""><figcaption></figcaption></figure>
 
-Ambience is just the background color. All we have to do is take the bunny's original color and multiply it by the bunny's. Something that confused me was the data structure used to represent this. While we have a `Color` class, we just represent this as `c` and iterate through each one of the three through `k`.&#x20;
+Ambience is just the background color. All we have to do is take the bunny's original color and multiply it by the bunny's. Something that confused me was the data structure used to represent this. While we have a `Color` class, we just represent this as `c` and iterate through each one of the three through `k`.
 
 ```cpp
 for (int j = 0; j < 3; j++) {
@@ -1038,13 +1032,13 @@ for (int j = 0; j < 3; j++) {
 
 If that's all you do in your triangels function, you'll get something that looks like the above gif.
 
-### Diffuse
+#### Diffuse
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.17.38.gif" alt=""><figcaption></figcaption></figure>
 
-### Fixing Dot & Cross Products
+#### Fixing Dot & Cross Products
 
-Turns out we've got to implement these too & it's not provided in the `data` class.&#x20;
+Turns out we've got to implement these too & it's not provided in the `data` class.
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.52.36@2x.png" alt=""><figcaption></figcaption></figure>
 
@@ -1052,46 +1046,902 @@ This was the "whoa!!" moment for me. Like- I did this? I made it rotate and look
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.54.55.gif" alt=""><figcaption></figcaption></figure>
 
-### Phong
+#### Phong
 
-Phong incorporates more elements. I really had to use drastic values so I'm not sure what that's about.&#x20;
+Phong incorporates more elements. I really had to use drastic values so I'm not sure what that's about.
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.05.13.gif" alt=""><figcaption></figcaption></figure>
 
 Setting it to ten was a bit better:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.07.21.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.07.21.gif" alt=""><figcaption><p>Phong part is blinking.</p></figcaption></figure>
 
+## Working Code
 
-# Working Code
 <details>
+
 <summary>functions.h</summary>
-Blah blah blah
-```py
-maybe put code here
+
+```cpp
+#include <stdio.h>
+#include <vector>
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <sstream>
+
+
+using namespace std;
+
+inline double to_int(std::string const& str) {
+    std::istringstream ss(str);
+    
+    int d;
+    ss >> d;
+    
+    /* eat up trailing whitespace if there was a double read, and ensure
+     * there is no character left. the eof bit is set in the case that
+     * `std::ws` tried to read beyond the stream. */
+    if(!(ss && (ss >> std::ws).eof()))
+        exit(1);
+    
+    return d;
+}
+
+inline float to_float(std::string const& str) {
+    std::istringstream ss(str);
+    
+    float f;
+    ss >> f;
+    
+    /* eat up trailing whitespace if there was a double read, and ensure
+     * there is no character left. the eof bit is set in the case that
+     * `std::ws` tried to read beyond the stream. */
+    if(!(ss && (ss >> std::ws).eof()))
+        exit(1);
+    
+    return f;
+}
+
+
+inline char* to_char(string s)
+{
+    char *a=new char[s.size()+1];
+    a[s.size()]=0;
+    memcpy(a,s.c_str(),s.size());
+    return a;
+}
+
+
+void transformTriangles()
+{
+    /*Initialize the rotation matrix*/
+    Mat Rx, Ry, Rz;
+    Mat T;
+    
+    /*Initially set all the matrix to */
+    Rx.eye();
+    Ry.eye();
+    Rz.eye();
+    T.eye();
+    
+    /*rotation matrix about x axis */
+    Rx.elem[1][1] = cos(theta_x);
+    Rx.elem[1][2] = -sin(theta_x);
+    Rx.elem[2][1] = sin(theta_x);
+    Rx.elem[2][2] = cos(theta_x);
+    
+    
+    /*rotation matrix about y axis */
+    Ry.elem[0][0] = cos(theta_y);
+    Ry.elem[0][2] = sin(theta_y);
+    Ry.elem[2][0] = -sin(theta_y);
+    Ry.elem[2][2] = cos(theta_y);
+    
+    /* transaltion matrix*/
+    T.elem[0][3] = translate_x;
+    T.elem[1][3] = translate_y;
+    
+    
+    /*Final transformation matrix P*/
+    Mat P = T * Rx * Ry;
+    
+    /* Go through each vertex*/
+    for(int i = 0; i < vertice_list.size(); i++)
+    {
+        Vec cur_pt, updated_pt;
+        cur_pt.elem[0] = vertice_list[i].x;
+        cur_pt.elem[1] = vertice_list[i].y;
+        cur_pt.elem[2] = vertice_list[i].z;
+        cur_pt.elem[3] = 1.0f;
+        updated_pt = P * cur_pt;
+        vertice_list[i].x = updated_pt.elem[0]/updated_pt.elem[3];
+        vertice_list[i].y = updated_pt.elem[1]/updated_pt.elem[3];
+        vertice_list[i].z = updated_pt.elem[2]/updated_pt.elem[3];
+        
+        vertice_list[i].normalize();
+    }
+    
+    /*Reset the angles and translations */
+    theta_x = 0;
+    theta_y = 0;
+    theta_z = 0;
+    translate_x = 0;
+    translate_y = 0;
+    translate_z = 0;
+}
+
+
+
+void trianglesShading() {
+    if (shading_type == 0) {
+        // Apply a uniform color to all triangles without shading.
+        for (int i = 0; i < triangles_list.size(); i++) {
+            for (int j = 0; j < 3; j++) {
+                for (int k = 0; k < 3; k++) {
+                    triangles_list[i].c[j].channel[k] = bunny_color.channel[k];
+                }
+            }
+        }
+    } else {
+        // Apply ambient, diffuse, and potentially Phong shading based on the shading_type.
+        for (int i = 0; i < triangles_list.size(); i++) {
+            // Retrieve the vertex indices of the current triangle.
+            int vIndices[3] = {
+                triangles_list[i].v_idx[0],
+                triangles_list[i].v_idx[1],
+                triangles_list[i].v_idx[2]
+            };
+
+            // Gather the vertices from the vertex list.
+            Vertex vertices[3] = {
+                vertice_list[vIndices[0]],
+                vertice_list[vIndices[1]],
+                vertice_list[vIndices[2]]
+            };
+
+            // Compute normal for the triangle.
+            Vertex normal = vertices[0].normalVector(vertices[1], vertices[2]);
+
+            for (int j = 0; j < 3; j++) {
+                // Set the ambient contribution.
+                for (int k = 0; k < 3; k++) {
+                    triangles_list[i].c[j].channel[k] = ambient_color.channel[k] * bunny_color.channel[k];
+                }
+
+                // Calculate and normalize the light direction.
+                Vertex lightDirection = {
+                    light.uni_x - vertices[j].uni_x,
+                    light.uni_y - vertices[j].uni_y,
+                    light.uni_z - vertices[j].uni_z
+                };
+                lightDirection.normalize();
+
+                // Computing the dot product between the normal and the light direction.
+                float dot_product = std::max(0.0f, normal.normDot(lightDirection));
+
+                // Adding the diffuse contribution scaled by the dot product.
+                for (int k = 0; k < 3; k++) {
+                    triangles_list[i].c[j].channel[k] += bunny_color.channel[k] * light.c.channel[k] * dot_product;
+                }
+
+                // Phong Specular contribution for shading_type 2.
+                if (shading_type == 2) {
+                    Vertex viewDirection = {
+                        view_pos.uni_x - vertices[j].uni_x,
+                        view_pos.uni_y - vertices[j].uni_y,
+                        view_pos.uni_z - vertices[j].uni_z
+                    };
+                    viewDirection.normalize();
+
+                    Vertex reflection = normal * (2 * dot_product) - lightDirection;
+                    reflection.normalize();
+
+                    float specAngle = max(0.0f, reflection.normDot(viewDirection));
+                    float specular = pow(specAngle, shininess);
+
+                    // Adding the specular contribution.
+                    for (int k = 0; k < 3; k++) {
+                        triangles_list[i].c[j].channel[k] += phong_color.channel[k] * light.c.channel[k] * specular;
+                    }
+                }
+            }
+        }
+    }
+}
+
+void trianglesShading() {  // Original code; AI Refactoring Above is better
+//    cout << "Current shading type: " << shading_type << endl;  // Debugging statement to indicate the shading mode
+    if (shading_type == 0) {
+        /* No Shading: Set all triangles to a uniform color */
+//        cout << "Applying uniform color to all triangles." << endl;
+        for (int i = 0; i < triangles_list.size(); i++) {
+            for (int j = 0; j < 3; j++) {
+                for (int k = 0; k < 3; k++) {
+                    triangles_list[i].c[j].channel[k] = bunny_color.channel[k];
+                }
+            }
+        }
+    } else {
+        /* Ambient + Diffuse Shading or Phong Shading */
+//        cout << "Applying advanced shading (Ambient, Diffuse" << (shading_type == 2 ? ", Phong)" : ")") << endl;
+        for (int i = 0; i < triangles_list.size(); i++) {
+            int vIndices[3] = {
+                triangles_list[i].v_idx[0],
+                triangles_list[i].v_idx[1],
+                triangles_list[i].v_idx[2]
+            };
+            Vertex vertices[3] = {
+                vertice_list[vIndices[0]],
+                vertice_list[vIndices[1]],
+                vertice_list[vIndices[2]]
+            };
+            // Compute normal for the triangle once to use in both diffuse and specular calculations
+            Vertex normal = vertices[0].normalVector(vertices[1], vertices[2]);
+
+            for (int j = 0; j < 3; j++) {
+                // Ambient Contribution
+                for (int k = 0; k < 3; k++) {
+                    triangles_list[i].c[j].channel[k] = ambient_color.channel[k] * bunny_color.channel[k];
+                }
+                // END AMBIENT CONTRIBUTION============================================================================================================
+                // Diffuse Contribution DEBUG
+                
+                
+                Vertex lightDirection = {light.uni_x - vertices[j].uni_x, light.uni_y - vertices[j].uni_y, light.uni_z - vertices[j].uni_z}; // Calculate light direction
+                lightDirection.normalize(); // Ensure the vector is a unit vector
+
+//              Debugging Statements - Light Direction
+//                std::cout << "Light Direction: ("
+//                          << lightDirection.uni_x << ", "
+//                          << lightDirection.uni_y << ", "
+//                          << lightDirection.uni_z << ")\n";
+
+                float dot_product = std::max(0.0f, normal.normDot(lightDirection)); // Avoid negative illumination
+
+                // Debugging Statements - Normal and Dot Product
+//                std::cout << "Vertex Normal: ("
+//                          << normal.uni_x << ", "
+//                          << normal.uni_y << ", "
+//                          << normal.uni_z << ")\n";
+//                std::cout << "Dot Product: " << dot_product << "\n";
+
+                for (int k = 0; k < 3; k++) {
+                    triangles_list[i].c[j].channel[k] += bunny_color.channel[k] * light.c.channel[k] * dot_product; // Scale color by light & dot product
+
+//                    Debugging Statement - Color After Diffuse
+//                    std::cout << "Color After Diffuse: ("
+//                              << triangles_list[i].c[j].channel[0] << ", "
+//                              << triangles_list[i].c[j].channel[1] << ", "
+//                              << triangles_list[i].c[j].channel[2] << ")\n";
+                }
+
+                // END DIFFUSE CONTRIBUTION============================================================================================================
+
+
+                if (shading_type == 2) {
+//                    cout << "PHONG" << endl;
+                    // Phong Specular (Highlight) Contribution
+                    for (int j = 0; j < 3; j++) {
+                        Vertex viewDirection = {view_pos.uni_x - vertices[j].uni_x, view_pos.uni_y - vertices[j].uni_y, view_pos.uni_z - vertices[j].uni_z};
+                        viewDirection.normalize();  // Calculate and normalize the view direction
+                        
+                        
+                        Vertex reflection = normal * (2 * dot_product) - lightDirection;
+                        reflection.normalize();  // Calculate reflection vector
+                        
+                        float specAngle = max(0.0f, reflection.normDot(viewDirection));  // Correct use of normalized dot product
+                        float specular = pow(specAngle, shininess);  // shininess should be defined earlier or use a default value if undefined
+
+                        for (int k = 0; k < 3; k++) {
+                            triangles_list[i].c[j].channel[k] += phong_color.channel[k] * light.c.channel[k] * specular;
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+}
+
+
+void initialize()
+{
+    light.x = 1;  // tood: try zero
+    light.y = 1;
+    light.z = 1;
+    
+    light.normalize();
+    
+    //light color Cl
+    light.c.channel[0] = 0.8;
+    light.c.channel[1] = 0.9;
+    light.c.channel[2] = 0.8;
+    
+    //Ambient Ca
+    ambient_color.channel[0] = 0.1;
+    ambient_color.channel[1] = 0.1;
+    ambient_color.channel[2] = 0.1;
+    
+    //Object surface color Cr
+    bunny_color.channel[0] = 0.9;
+    bunny_color.channel[1] = 0.8;
+    bunny_color.channel[2] = 0.0;
+    
+    //Specular Color Cs
+    phong_color.channel[0] = 0.9;
+    phong_color.channel[1] = 0.8;
+    phong_color.channel[2] = 0.5;
+    shininess = 10;
+    
+    view_pos.x = 0.0f;
+    view_pos.y = 0.0f;
+    view_pos.z = 3.0f;
+    view_pos.normalize();
+}
+
+void loadObjFiles(char *filename, vector<Vertex> &vertice_list, vector<Triangle> &triangles_list )
+{
+    ifstream myfile (filename);
+    string line;
+    string valueX, valueY, valueZ, v;
+    string idx0, idx1, idx2, f;
+    
+    int n = 0;
+    while(!myfile.eof())
+    {
+        getline (myfile, line);
+        if (line[0] == 'v')
+        {
+            std::istringstream iss( line );
+            iss >> v >> valueX>> valueY>> valueZ;
+            Vertex v;
+            v.x = (GLfloat)to_float(valueX);
+            v.y = (GLfloat)to_float(valueY);
+            v.z = (GLfloat)to_float(valueZ);
+            // v.normalize();
+            
+            
+            /* By default, the initial colors for all the vertices are grey */
+            for(int c = 0; c < 3; c++)
+            {
+                v.c.channel[c] = bunny_color.channel[c];
+            }
+            vertice_list.push_back(v);
+        }
+        if( line[0] == 'f')
+        {
+            std::istringstream iss( line );
+            iss >> f >> idx0 >> idx1 >> idx2;
+            int i0 = to_int(idx0) - 1;
+            int i1 = to_int(idx1) - 1;
+            int i2 = to_int(idx2) - 1;
+            
+            Triangle triangle;
+            triangle.v_idx[0] = i0;
+            triangle.v_idx[1] = i1;
+            triangle.v_idx[2] = i2;
+            
+            triangle.c[0] = vertice_list[i0].c;
+            triangle.c[1] = vertice_list[i1].c;
+            triangle.c[2] = vertice_list[i2].c;
+            triangles_list.push_back(triangle);
+        }
+    }
+    
+    
+    /* Check what is the centroid value */
+    float x = .0f;
+    float y = .0f;
+    float z = .0f;
+    for(int i = 0; i < vertice_list.size(); i++)
+    {
+        x += vertice_list[i].x;
+        y += vertice_list[i].y;
+        z += vertice_list[i].z;
+    }
+    x /= (float)vertice_list.size();
+    y /= (float)vertice_list.size();
+    z /= (float)vertice_list.size();
+}
+
 ```
+
 </details>
 
 <details>
+
 <summary>data.h</summary>
-Blah blah blah
-```py
-maybe put code here
+
+```python
+#include <iostream>
+#ifdef WIN32
+#include <windows.h>
+#endif
+
+#include <stdlib.h>
+#include <iostream>
+#include <fstream>
+
+#ifdef __APPLE__
+#include <GLUT/glut.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
+#else
+#include <GL/glut.h>
+#include <GL/glu.h>
+#include <GL/gl.h>
+#endif
+
+#define PHONG 100
+
+
+struct Color{
+    GLfloat channel[3];
+};
+
+struct Vertex{
+    float x;
+    float y;
+    float z;
+    
+    Color c;
+    
+    float uni_x; //store the normalized value of this vector (for cos_theta and cross product use
+    float uni_y;
+    float uni_z;
+    
+    
+    
+    // Computes the normal vector
+    Vertex normalVector(const Vertex& v1, const Vertex& v2) const{
+        Vertex normal;
+        Vertex edge1 = v1 - *this;
+        Vertex edge2 = v2 - *this;
+        normal = edge1.cross(edge2);
+        normal.normalize();
+        return normal;
+    }
+    
+    /*Normalize the vertex's vector to make the length equal to 1 and store it in uni_x,y,z*/
+    void normalize()
+    {
+        float length = sqrt(x * x + y * y + z * z);
+        if (length !=0){
+            uni_x = x / length;
+            uni_y = y / length;
+            uni_z = z / length;
+        }
+    }
+    
+    /*Reload dot product */
+    // You have to implement it here
+    const float operator * (const Vertex& right) const
+    {
+        float result = x * right.x + y * right.y + z * right.z;
+        return result;
+    }
+    
+    
+    /*Reload - operator*/
+    const Vertex operator - (const Vertex& right) const
+    {
+        Vertex result;
+        result.x = x - right.x;
+        result.y = y - right.y;
+        result.z = z - right.z;
+        return result;
+    }
+   
+    
+    /*Reload + operator*/
+    const Vertex operator + (const Vertex& right) const
+    {
+        Vertex result;
+        result.x = x + right.x;
+        result.y = y + right.y;
+        result.z = z + right.z;
+        return result;
+    }
+    
+    /*Reload * operator to times a number*/
+    const Vertex operator * (const float right) const
+    {
+        Vertex result;
+        result.x = x * right;
+        result.y = y * right;
+        result.z = z * right;
+        
+        return result;
+    }
+    
+    /*For normalized vector dot product use*/
+    float normDot(const Vertex& right) const
+    {
+        float result = uni_x * right.uni_x + uni_y * right.uni_y + uni_z * right.uni_z;
+        return result;
+    }
+    
+    /*The cross-product */
+    Vertex cross(const Vertex& right)
+    {
+        Vertex result;
+        result.x = y * right.z - z * right.y;
+        result.y = z * right.x - x * right.z;
+        result.z = x * right.y - y * right.x;
+        return result;
+    }
+
+};
+
+struct Triangle{
+    int v_idx[3];
+    Color c[3];
+};
+
+/* Here you need to implement some operations for 4-by-1 vector*/
+struct Vec{
+    float elem[4];
+    
+    
+};
+
+struct Material {
+    Color ambient;
+    Color diffuse;
+    Color specular;
+    float shininess;
+};
+
+/* Here you need to implement a 4-by-4 matrix */
+struct Mat{
+    float elem[4][4];
+    
+    
+    /*Normalize the matrix*/
+    void eye()
+    {
+        for(int i = 0; i < 4; i++)
+        {
+            for(int j = 0; j < 4; j++)
+            {
+                if(i == j)
+                    elem[i][j] = 1.0f;
+                else
+                    elem[i][j] = 0.0f;
+            }
+        }
+    }
+    
+    /*This function is to reload the multipliation operator for matrix products*/
+    const Mat operator * (const Mat& right) const
+    {
+        Mat result;
+        
+        for(int i = 0; i < 4; i++)
+        {
+            for(int j = 0; j < 4; j++)
+            {
+                result.elem[i][j] = 0;
+                for(int k = 0; k < 4; k++)
+                {
+                    result.elem[i][j] += elem[i][k] * right.elem[k][j];
+                }
+            }
+        }
+        
+        return result;
+    }
+    
+    /*This function is to reload the multipliation operator for matrix times a 4-by-1 vector*/
+    const Vec operator * (const Vec& vec) const
+    {
+        Vec result;
+        
+        for(int i = 0; i < 4; i++)
+        {
+            
+            result.elem[i] = 0;
+            for(int k = 0; k < 4; k++)
+            {
+                result.elem[i] += elem[i][k] * vec.elem[k];
+            }
+            
+        }
+        
+        return result;
+    }
+    
+    
+    
+    void printMat()
+    {
+        for(int i = 0; i < 4; i++)
+        {
+            for(int j = 0; j < 4; j++)
+            {
+                printf("%.5f, ", elem[i][j]);
+            }
+            printf("\n");
+        }
+    }
+};
+
+
+vector<Vertex> vertice_list;
+vector<Triangle> triangles_list;
+
+/*Define the light and colors*/
+Vertex light;
+Color ambient_color;
+Color bunny_color;
+Color phong_color;
+float shininess;
+
+/*Define the viewpoint*/
+Vertex view_pos;
+
+/*Parameter control the rotation*/
+float theta_x = .0f;
+float theta_y = .0f;
+float theta_z = .0f;
+
+/*Parameter control the translation*/
+float translate_x = .0f;
+float translate_y = .0f;
+float translate_z = .0f;
+
+
+int mesh_only = 0; //control whether a mesh triangle or plane is drawn
+int shading_type = 0; //0 - no shading; 1 - ambient + diffuse shading; 2 - ambient + diffuse + phong; 3 - static shading
+
+
+/*For the mouse control use*/
+/* Define data */
+int mouse_down = 0; //Represent the left mouse key is clicked down
+int change_mode = 0; //0 means rotation; 1 means translation
+int current_x = 0, current_y = 0;
+
 ```
+
 </details>
 
 <details>
+
 <summary>main.c</summary>
-Blah blah blah
-```py
-maybe put code here
+
+```python
+#include <iostream>
+#ifdef WIN32
+#include <windows.h>
+#endif
+
+#include <stdlib.h>
+#include <iostream>
+#include <streambuf>
+#include <fstream>
+#include <vector>
+#include <math.h>
+#define GL_SILENCE_DEPRECATION
+
+
+#ifdef __APPLE__
+#include <GLUT/glut.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
+#else
+#include <GL/glut.h>
+#include <GL/glu.h>
+#include <GL/gl.h>
+#endif
+
+using namespace std;
+
+#include "data.h"
+#include "functions.h"
+#include "callbackFunctions.h"
+//#include "DataManager.h"
+
+int main(int argc,  char * argv[]) {
+    /*Initialize glut stuff*/
+    glutInit(&argc, argv);
+    glutInitDisplayMode(GLUT_DEPTH|GLUT_RGB|GLUT_SINGLE);
+    glutInitWindowSize(640, 480);
+    glutInitWindowPosition(200, 100);
+    glutCreateWindow("Bunny");
+    loadObjFiles("/Users/mikechase3/Dropbox/000-025 Educational Years/024 ITAndGradSchool/Career/Education/CPS 592 Interactive Media/AS04v2_OpenGLShading/OpenGLShading/OpenGLShading/bunny_high.obj", vertice_list, triangles_list);
+    initialize();
+    
+
+    
+    /*Initialize gl stuff*/
+    glClearColor(0, 0, 0, 0);
+    glEnable(GL_DEPTH_TEST);
+    glMatrixMode(GL_PROJECTION);
+    glLoadIdentity();
+    glOrtho(-0.4, 0.4, -0.4 * .48 / .64, 0.4 * .48 / .64, 2, 10); //parallel projection
+    gluLookAt( 0, 0, 5, 0, 0.2, 0, 0, 1, 0);
+    
+    
+    /*Register GL stuff with the GLUT*/
+    glutDisplayFunc(onDisplay);
+    glutMouseFunc(onMouse);
+    glutMotionFunc(onMouseMotion);
+    glutKeyboardFunc(onKeyboard);
+    
+    /*Initialize the loop*/
+    glutMainLoop();
+    
+    return 0;
+}
+
 ```
+
 </details>
 
 <details>
+
 <summary>keyboardCallbacks.h</summary>
-Blah blah blah
-```py
-maybe put code here
+
+```python
+#define GL_SILENCE_DEPRECATION
+void onKeyboard(unsigned char key, int x, int y)
+{
+    switch (key)
+    {
+        case 27:
+            exit(1);
+            
+            break;
+        case 'm':
+            mesh_only = (mesh_only == 1)?0:1;
+            glutPostRedisplay();
+            break;
+        case '1':
+            shading_type = 1;
+            glutPostRedisplay();
+            break;
+        case '0':
+            shading_type = 0;
+            glutPostRedisplay();
+            break;
+        case '2':
+            shading_type = 2;
+            glutPostRedisplay();
+            break;
+            
+        case '3':
+            shading_type = 3;
+            glutPostRedisplay();
+            break;
+            
+        default:
+            break;
+    }
+}
+
+void onMouse(int button, int state, int x, int y)
+{
+    
+    GLint specialKey = glutGetModifiers();
+    switch (button) {
+        case GLUT_LEFT_BUTTON:
+            if (state == GLUT_DOWN) {
+                mouse_down = 1;
+                current_x = x;
+                current_y = y;
+                if (specialKey == GLUT_ACTIVE_SHIFT)
+                {
+                    change_mode = 1;
+                }
+                else
+                {
+                    change_mode = 0;
+                }
+            }
+            else if (state == GLUT_UP)
+            {
+                mouse_down = 0;
+            }
+            break;
+            
+        case GLUT_RIGHT_BUTTON:
+            if (state == GLUT_DOWN)
+                
+                break;
+            
+        default:
+            break;
+            
+    }
+    
+}
+
+void onMouseMotion(int x, int y)
+{
+    if (mouse_down == 1)
+    {
+        if (change_mode == 0)
+        {
+            theta_y += static_cast<float>(x - current_x) / 100.f;
+            theta_x += static_cast<float>(y - current_y) / 100.f;
+        }
+        else{
+            translate_x += static_cast<float>(x - current_x) / 1000.f;
+            translate_y += static_cast<float>(-y + current_y) / 1000.f;
+        }
+        
+        current_x = x;
+        current_y = y;
+    }
+    
+    glutPostRedisplay();
+}
+
+
+/*Render all the triangles */
+void renderAllTriangles()
+{
+    for(int i = 0; i < triangles_list.size(); i++)
+    {
+        if(mesh_only)
+        {
+            glBegin(GL_LINE_LOOP);
+        }
+        else
+        {
+            glBegin(GL_TRIANGLES);
+        }
+        
+        int pt_0 = triangles_list[i].v_idx[0];
+        int pt_1 = triangles_list[i].v_idx[1];
+        int pt_2 = triangles_list[i].v_idx[2];
+        
+        //point 1
+        glColor3f(triangles_list[i].c[0].channel[0], triangles_list[i].c[0].channel[1], triangles_list[i].c[0].channel[2]);
+        glVertex3f(vertice_list[pt_0].x, vertice_list[pt_0].y, vertice_list[pt_0].z);
+        
+        
+        //point 2
+        glColor3f(triangles_list[i].c[1].channel[0], triangles_list[i].c[1].channel[1], triangles_list[i].c[1].channel[2]);
+        glVertex3f(vertice_list[pt_1].x, vertice_list[pt_1].y, vertice_list[pt_1].z);
+        
+        //point 3
+        glColor3f(triangles_list[i].c[2].channel[0], triangles_list[i].c[2].channel[1], triangles_list[i].c[2].channel[2]);
+        glVertex3f(vertice_list[pt_2].x, vertice_list[pt_2].y, vertice_list[pt_2].z);
+        
+        
+        glEnd();
+    }
+}
+
+/*Define the 3D objects that want to show*/
+void onDisplay() {
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    
+    glColor3f(1.0, 0.0, .0); //RGB
+    //    glBegin(GL_LINES);
+    //    glVertex3f(-5, 0.18, 1.0); //starting point
+    //    glVertex3f(5, 0.1, 1.0); //ending point
+    //    glEnd();
+    
+    glColor3f(0.0, 1.0, 0.0);
+    
+    
+    
+    /* Transform the points */
+    if(mouse_down == 1) //only when the mouse is dragging, this function is called
+        transformTriangles();
+    
+    /* Do the shading on Traingles */
+    trianglesShading();
+    
+    /* Render all the triangles */
+    renderAllTriangles();
+        
+    glFlush(); //clear the memory
+}
+
 ```
+
 </details>
