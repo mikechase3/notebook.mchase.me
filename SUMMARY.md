@@ -561,7 +561,6 @@
   * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
   * [Hoopla](https://www.hoopladigital.com/my/hoopla)
   * [Percepio](https://usaf.percipio.com/)
-* [Feynmenn Method to Teach Deep Understanding](education/the-feynmenn-technique.md)
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000\&y=381000\&z=615624.4584051393)
 * [Map of Reddit Post API](https://sub.rehab/?searchTerm=\&visibleServices=lemmy\&visibleServices=kbin\&visibleServices=discord\&visibleServices=misc\&visibleServices=matrix\&visibleServices=squabbles\&visibleServices=raddle\&officialOnly=false\&newOnly=false\&favoriteOnly=false\&sortBy=name)
 * [Mimicry](education/mimicry/README.md)
