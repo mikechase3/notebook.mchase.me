@@ -1061,3 +1061,37 @@ Phong incorporates more elements. I really had to use drastic values so I'm not 
 Setting it to ten was a bit better:
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.07.21.gif" alt=""><figcaption></figcaption></figure>
+
+
+# Working Code
+<details>
+<summary>functions.h</summary>
+Blah blah blah
+```py
+maybe put code here
+```
+</details>
+
+<details>
+<summary>data.h</summary>
+Blah blah blah
+```py
+maybe put code here
+```
+</details>
+
+<details>
+<summary>main.c</summary>
+Blah blah blah
+```py
+maybe put code here
+```
+</details>
+
+<details>
+<summary>keyboardCallbacks.h</summary>
+Blah blah blah
+```py
+maybe put code here
+```
+</details>
