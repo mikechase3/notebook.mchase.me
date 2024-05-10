@@ -281,6 +281,7 @@
       * [Xcode Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
     * [iOS and Swift](compscidev/development-platforms/apples-ecosystem/ios-and-swift.md)
     * [Open Source](https://github.com/dkhamsing/open-source-ios-apps)
+    * [Pathways](compscidev/development-platforms/apples-ecosystem/pathways.md)
     * [Swift Cheat Sheet](compscidev/development-platforms/apples-ecosystem/swift-cheat-sheet-1.md)
     * [Mac Malware 2023](https://objective-see.org/blog/blog\_0x77.html?mc\_cid=f04318bd89)
   * [DOTNET](compscidev/development-platforms/dotnet/README.md)
