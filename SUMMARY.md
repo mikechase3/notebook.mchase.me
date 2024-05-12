@@ -711,6 +711,7 @@
 ## 🌴 Leisure
 
 * [Dayton OH](leisure/dayton-oh/README.md)
+  * [Downtown Housing FY24](https://downtowndayton.org/wp-content/uploads/2024/05/housingtour2024guide.pdf)
   * [Metroparks](leisure/dayton-oh/metroparks.md)
 * [Gem City Catfe](leisure/gem-city-catfe.md)
 * [Kiwiah Beach Cam](https://kica.us/beach-cam/)
