@@ -1,5 +1,7 @@
 # Prescriptive Analytics w/ Python
 
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-12 at 21.04.15@2x.png" alt=""><figcaption></figcaption></figure>
+
 ## What is Prescriptive Analytics
 
 Prescriptive analytics is a branch of analytics that'll use data & matghematical models to provide recommendations for decision-making. It's called "prescriptive" because it'll provide actionable insights & recommendations to improve future outcomes.
@@ -21,7 +23,7 @@ Goals: understand RL, environments, and Google RecSim
 
 ## Design & Understand a RL Environment
 
-```
+```python
 pip install recsim
 ```
 
@@ -91,13 +93,15 @@ Overall, this observation space indicates that the recommendation system has acc
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-03-19 at 21.16.06@2x.png" alt=""><figcaption></figcaption></figure>
 
+### Summary of Classes
 
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-12 at 21.07.18.png" alt=""><figcaption></figcaption></figure>
 
 ## Works Cited & Further Reading
 
 The following sources helped me compose this:
 
-* [Recsim Docs](https://github.com/google-research/recsim/blob/master/recsim/colab/RecSim\_Developing\_an\_Environment.ipynb)
+* [Recsim Docs](https://github.com/google-research/recsim/blob/master/recsim/colab/RecSim\_Developing\_an\_Environment.ipynb) ([Apache license](https://www.apache.org/licenses/LICENSE-2.0) - by recsim authors).
 
 {% embed url="https://learning.oreilly.com/scenarios/define-and-understand/9781098121587/" %}
 
