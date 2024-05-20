@@ -32,7 +32,6 @@
 ## 📺 AV
 
 * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech\_background/TE-15/teces\_15.html)
-* [Music Production](av/music-production.md)
 * [Photography](av/photography/README.md)
   * [Hardware and Megapixel Limits](av/photography/hardware-and-megapixel-limits/README.md)
     * [CMOS Sensor Microscope](https://petapixel.com/2013/02/12/what-a-dslrs-cmos-sensor-looks-like-under-a-microscope/)
@@ -860,6 +859,8 @@
       * [FL Studio](music/MusicTechnology/digital-audio-workstations/fl-studio.md)
       * [Logic Pro](music/MusicTechnology/digital-audio-workstations/logic-pro.md)
       * [Pro Tools](music/MusicTechnology/digital-audio-workstations/pro-tools.md)
+* [DAWs & Music Production](music/music-production/README.md)
+  * [FL Studio Docs](music/music-production/fl-studio-docs.md)
 * [History](music/history/README.md)
   * [List of Electronic Music Genres](https://en.wikipedia.org/wiki/List\_of\_electronic\_music\_genres)
 * [MIDI & Sheet Music](music/unsorted/bookmarks-midi-music/README.md)
