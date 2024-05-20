@@ -185,6 +185,7 @@
     * [Prescriptive Analytics w/ Python](compscidev/ai/reinforcementlearning/prescriptive-analytics-w-python.md)
   * [Robotics & Autonomous Systems](compscidev/ai/robotics-and-autonomous-systems.md)
   * [Search Algorithms](compscidev/ai/search-algorithms.md)
+  * [Expert Systems](compscidev/ai/expert-systems.md)
 * [Cloud Env Setups](compscidev/cloud-env-setups/README.md)
   * [Azure](compscidev/cloud-env-setups/azure.md)
 * [Cybersecurity](compscidev/cybersecurity/README.md)
