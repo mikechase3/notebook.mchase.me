@@ -382,6 +382,7 @@
     * [Splines & Roller Coaster Notes](compscidev/game-development/unity-game-dev-class/splines-and-roller-coaster-notes.md)
     * [Unity AR/VR Demo](compscidev/game-development/unity-game-dev-class/unity-ar-vr-demo.md)
     * [Student Presentations](compscidev/game-development/unity-game-dev-class/student-presentations.md)
+    * [\[Book\] BP Visual Scripting for UE5](compscidev/game-development/unity-game-dev-class/book-bp-visual-scripting-for-ue5.md)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
 * [Interactive Media](compscidev/interactive-media/README.md)
   * [OpenGL Bunny Transformations](compscidev/interactive-media/opengl-bunny-transformations.md)
