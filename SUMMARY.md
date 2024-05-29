@@ -538,7 +538,7 @@
 * [Replit](https://replit.com/@mikechase3)
 * [UI/HI Guides](compscidev/ui-hi-guides/README.md)
   * [Gnome HIG](https://developer.gnome.org/hig/)
-* [Web Apps](compscidev/web-apps/README.md)
+* [Web App Development](compscidev/web-apps/README.md)
   * [Senior Year Capstone](compscidev/web-apps/senior-year-capstone/README.md)
     * [Lecture 01: Course Overview](compscidev/web-apps/senior-year-capstone/lecture-01-course-overview.md)
     * [Lecture 02: Tools](compscidev/web-apps/senior-year-capstone/git-and-cloud-shell.md)
@@ -554,6 +554,7 @@
   * [Create GitLab Pages Site from Scratch](https://docs.gitlab.com/ee/user/project/pages/getting\_started/pages\_from\_scratch.html)
   * [SSL & HTTPS Getting Started](https://support.google.com/domains/answer/7630973?authuser=2\&authuser=2\&hl=en\&visit\_id=637978991464117998-3893459780\&rd=1#zippy=%2Cget-an-ssltls-certificate-from-a-certificate-authority-ca)
   * [Python: Flask/Django](https://notebook.mchase.me/development/languages-and-architectures/python/)
+  * [P2P Pages (Self-Deleting)](compscidev/web-apps/p2p-pages-self-deleting.md)
 * [Version Control](compscidev/git-and-github/README.md)
   * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
@@ -853,6 +854,7 @@
     * [MusicTheory.Net](https://www.musictheory.net/)
     * [Music Theory Helper](https://play.google.com/store/apps/details?id=com.okramuf.musikteori)
     * [Perfect Ear](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit)
+  * [Musical Web Apps](music/composition\_theory/musical-web-apps.md)
   * [Music Visualization Toys](https://muted.io/)
   * [Rhythm and Meter](music/composition\_theory/rhythm-and-meter.md)
   * [Scat Rap](https://rabbidavidzaslow.com/wp-content/uploads/2013/11/scatrap.pdf)
@@ -865,6 +867,7 @@
       * [Logic Pro](music/MusicTechnology/digital-audio-workstations/logic-pro.md)
       * [Pro Tools](music/MusicTechnology/digital-audio-workstations/pro-tools.md)
 * [DAWs & Music Production](music/music-production/README.md)
+  * [DAW Web Apps](music/music-production/daw-web-apps.md)
   * [FL Studio Docs](music/music-production/fl-studio-docs.md)
 * [History](music/history/README.md)
   * [List of Electronic Music Genres](https://en.wikipedia.org/wiki/List\_of\_electronic\_music\_genres)
@@ -877,8 +880,6 @@
   * [Clowncore NSFW](https://www.bitchute.com/video/GTOe7ewclPkR/)
 * [Unsorted](music/unsorted/README.md)
   * [Lofi Cityhop](https://www.cityhop.cafe/)
-  * [TheoryMisc1](music/unsorted/page-1-2.md)
-  * [TheoryMisc2](music/unsorted/page-1-3.md)
   * [Wolfhart Sightreading](https://s9.imslp.org/files/imglnks/usimg/a/a8/IMSLP241611-PMLP391095-Wohl\_ABC.pdf)
 
 ## 📒 Principles and Values
