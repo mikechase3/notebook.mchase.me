@@ -2,7 +2,7 @@
 
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
-
+    * [Quantum Computing](https://www.youtube.com/playlist?list=PLWt5FuzgdX4nLn__pXyUBB5Gbwu7L-G5K)
 ## Automotive
 
 * [Car Salesmen](automotive/references/car-salesmen.md)
