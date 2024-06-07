@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Inbox](inbox/README.md)
-    * [Quantum Computing](https://www.youtube.com/playlist?list=PLWt5FuzgdX4nLn__pXyUBB5Gbwu7L-G5K)
+* [Inbox](inbox.md)
+
 ## Automotive
 
 * [Car Salesmen](automotive/references/car-salesmen.md)
@@ -534,6 +534,8 @@
     * [Photospectrometers and Colorimeters](https://www.linquip.com/blog/difference-between-colorimeter-and-spectrophotometer/)
 * [Problem Solving Resources](compscidev/problem-solving-resources/README.md)
   * [Digital Ocean Community](https://www.digitalocean.com/community/tutorials)
+* [Quantum Computing](compscidev/quantum-computing/README.md)
+  * [Quantum Computing](https://www.youtube.com/playlist?list=PLWt5FuzgdX4nLn\_\_pXyUBB5Gbwu7L-G5K)
 * [Regular Expressions](compscidev/regex-expressions.md)
 * [Replit](https://replit.com/@mikechase3)
 * [UI/HI Guides](compscidev/ui-hi-guides/README.md)
