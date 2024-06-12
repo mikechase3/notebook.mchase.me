@@ -513,10 +513,6 @@
   * [W09 Sync Constructs](compscidev/operating-systems/w09-sync-constructs.md)
   * [Unix History and Philosophy](https://perugini.cps.udayton.edu/teaching/books/SPUC/www/lecture\_notes/UNIXphilo.html)
   * [Xv6 Make Tiny MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
-* [Git](compscidev/git/README.md)
-  * [Gandhi Git Fundamentals Oreilly](https://learning.oreilly.com/scenarios/your-first-git/9781098144425/)
-  * [Git Flash Cards](compscidev/git/git-flash-cards.md)
-  * [Git/Github Codecademy](https://www.codecademy.com/learn/learn-git)
 * [Linux](compscidev/linux/README.md)
   * [Bash](compscidev/linux/bash.md)
   * [Distro Test](https://distrotest.net/index.php)
@@ -563,7 +559,11 @@
   * [Python: Flask/Django](https://notebook.mchase.me/development/languages-and-architectures/python/)
   * [P2P Pages (Self-Deleting)](compscidev/web-apps/p2p-pages-self-deleting.md)
 * [Version Control](compscidev/git-and-github/README.md)
-  * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+  * [Git](compscidev/git-and-github/git/README.md)
+    * [Gandhi Git Fundamentals Oreilly](https://learning.oreilly.com/scenarios/your-first-git/9781098144425/)
+    * [Git Flash Cards](compscidev/git-and-github/git/git-flash-cards.md)
+    * [Git/Github Codecademy](https://www.codecademy.com/learn/learn-git)
+    * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
 ## 🎒 Education
 
