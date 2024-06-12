@@ -388,6 +388,7 @@
     * [Unity AR/VR Demo](compscidev/game-development/unity-game-dev-class/unity-ar-vr-demo.md)
     * [Student Presentations](compscidev/game-development/unity-game-dev-class/student-presentations.md)
     * [\[Book\] BP Visual Scripting for UE5](compscidev/game-development/unity-game-dev-class/book-bp-visual-scripting-for-ue5.md)
+  * [Game Dev Universal .GitIgnore](compscidev/game-development/game-dev-universal-.gitignore.md)
 * [Interactive Media](compscidev/interactive-media/README.md)
   * [OpenGL Bunny Transformations](compscidev/interactive-media/opengl-bunny-transformations.md)
   * [CV CMAKE](compscidev/interactive-media/cv-cmake.md)
