@@ -402,6 +402,8 @@
   * [Splines](compscidev/interactive-media/splines.md)
   * [Graphicsbook](https://math.hws.edu/graphicsbook/c4/s1.html)
 * [Languages](compscidev/languages-and-architectures/README.md)
+  * [Assembly](compscidev/languages-and-architectures/assembly/README.md)
+    * [6502 Emu](http://www.6502.org/tools/emu/)
   * [Bash](compscidev/languages-and-architectures/bash.md)
   * [C](compscidev/languages-and-architectures/c.md)
   * [Compiler Theory](compscidev/languages-and-architectures/integrators-and-compilers/README.md)
