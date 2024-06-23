@@ -52,7 +52,8 @@ For each board, it helps to have:
 * **CNC Machining & Laser Cutting**: precicely cut components.
 * **Power Management**: solar panels, DC-DC converters, relays.
 * **FPGA**: under electrical/hardware topics in CompSciDev category. 
-* **AWS IoT, Azure IoT**: helps with cloud based applications. 
+* **AWS IoT, Azure IoT**: helps with cloud based applications.
+  * Also [Arduino Cloud?](https://cloud.arduino.cc). Need to evaluate but looks promising. 
 * **RTOS**: realtime os, FreeROTS, Zephyr. 
 
 
