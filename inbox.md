@@ -10,3 +10,4 @@ description: A place to put scrap ideas before I destroy or perfect them.
   1. An authoritative figure w/ house rules.
   2. Exclusivity (creates a sense of belonging & feeling special/important).
   3. Rules against new members because they don't have prior knowledge nor shared experiences/friends.
+* Should I look at [Docusaurus](https://docusaurus.io/docs)?
