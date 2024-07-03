@@ -104,7 +104,7 @@ TOdo: 34:00
 
 Here's what I took to office hours:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **On Fork()**: Dr. X agreed my answer makes logical sense, but wasn't what she's looking for.&#x20;
   * Maybe a better answer includes that we can call an EXEC to replace the child's image with a new program?

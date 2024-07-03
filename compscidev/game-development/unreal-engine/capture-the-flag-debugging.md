@@ -16,7 +16,7 @@ The Game Mode has a function `GetGameState()` which contains the `PlayerArray` o
 
 ## Debugging
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Context
 
@@ -77,13 +77,35 @@ Troubleshooting Steps:
   * Tried this, but output was empty & didn't show the type.
   * I got excited that the warning went away, but I didn't have anything after the print string.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### Also - why didn't this print anything if it's not assigned. What's isValid() doing?
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macro.&#x20;
+
+
+
+## Debug Solution
+
+First, we **removed the construction script pin** and deleted the macro moving the logic there.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+We set the team inside an event (within  `BP_FirstPersonCharacter` )
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+To debug & get the name, we pulled off of `Event Possessed` now because it wasn't possessed by the client previously.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+And I learned about a few new functions within the Game Mode
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Initial Design
 
