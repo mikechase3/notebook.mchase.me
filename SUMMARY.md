@@ -2,6 +2,7 @@
 
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox.md)
+  * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVJoep_XshasfnwHfCV_JMf)
 
 ## Automotive
 
