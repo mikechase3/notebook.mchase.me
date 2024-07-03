@@ -24,3 +24,22 @@ description: A place to put scrap ideas before I destroy or perfect them.
   * And when do I get out?
 
 Let's examine [the o-chem teacher](https://www.youtube.com/watch?v=7IBzTZqeyo0&list=PL0o_zxa4K1BVJoep_XshasfnwHfCV_JMf&index=1)
+
+### 01 Percent Changes
+The first question is a math question of who made more money?
+* 1 -> 2 = 100% return on investment because it doubles
+* 1 -> 4 = not 400, but a 300% return on investment. (100 doubles, +100 triples, +100 quadruples)
+
+Second question - what if stocks go down? If price starts at $10 -> $20 -> $5?
+* Initial investment for John, Kelly, and Bruce buy 1000 shares at $10 = 10K.
+* Different people do different things, but see the video.
+
+The strategy is to take some money out and "trim the fat"
+* Aka: Take some profit when the price goes up.
+* Buy low, sell high as they say.
+
+### 02 ROI Calculations
+If Jon purchases a house for $250K and sells for $325K find ROI.
+* **ROI** = Profit/COI * 100%
+* (325K-250K)/250K * 100% = 30%
+* The *Annual ROI* is 30%/5yrs = 6%/year.
