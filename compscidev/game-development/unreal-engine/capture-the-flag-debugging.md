@@ -16,6 +16,8 @@ The Game Mode has a function `GetGameState()` which contains the `PlayerArray` o
 
 ## Debugging
 
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ### Context
 
 I'm working on a networked Capture the Flag game in Unreal Engine 5. I was refactoring the code to use enums for team assignments instead of strings, but ran into some issues. I reverted to a previous commit where team assignment was partially implemented using strings, but I'm still encountering casting errors. I'd like to understand the cause of this error and how to fix it, as I believe it will help me learn more than simply reverting further back in Git.
@@ -25,6 +27,12 @@ I'm working on a networked Capture the Flag game in Unreal Engine 5. I was refac
 In the `BP_FirstPersonCharacter` Blueprint, I have a macro called `getPlayerState`. This macro aims to retrieve the player's state and cast it to our custom `BP_MyPlayerState` class. However, the cast consistently fails, resulting in a warning message: "Warning: BP\_FirstPersonCharacter getPlayerState Invalid."
 
 <figure><img src="../../../.gitbook/assets/image (749).png" alt=""><figcaption></figcaption></figure>
+
+It's successfully set in the game mode. The Hellos don't fire off.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### Steps to Reproduce
 
@@ -71,23 +79,11 @@ Troubleshooting Steps:
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-<figure><img src="../../../.gitbook/assets/image (748).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-Also - why didn't this print anything if it's not assigned.&#x20;
+#### Also - why didn't this print anything if it's not assigned. What's isValid() doing?
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macro.&#x20;
-
-The succeeded here and didn't print `Hello` in the game mode.
-
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Initial Design
 
