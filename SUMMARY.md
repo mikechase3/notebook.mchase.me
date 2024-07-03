@@ -2,7 +2,7 @@
 
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox.md)
-  * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVJoep_XshasfnwHfCV_JMf)
+  * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
 
 ## Automotive
 
@@ -368,8 +368,6 @@
   * [Unreal Engine](compscidev/game-development/unreal-engine/README.md)
     * [Blueprints](compscidev/game-development/unreal-engine/blueprints/README.md)
       * [Creating Blueprints & Editor UI](compscidev/game-development/unreal-engine/blueprints/creating-blueprints-and-editor-ui.md)
-      * [Blueprint Components](compscidev/game-development/unreal-engine/blueprints/blueprint-components.md)
-    * [Victory Plug In](compscidev/game-development/unreal-engine/victory-plug-in.md)
     * [Editor basics](compscidev/game-development/unreal-engine/editor-basics.md)
     * [UE4 Settings](compscidev/game-development/unreal-engine/settings.md)
     * [Projects and File Structure](compscidev/game-development/unreal-engine/projects-and-file-structure/README.md)
@@ -378,6 +376,7 @@
       * [Exporting and Importing](compscidev/game-development/unreal-engine/projects-and-file-structure/exporting-and-importing.md)
       * [Static Meshes](compscidev/game-development/unreal-engine/projects-and-file-structure/static-meshes.md)
       * [Textures](compscidev/game-development/unreal-engine/projects-and-file-structure/textures.md)
+    * [Victory Plug In](compscidev/game-development/unreal-engine/victory-plug-in.md)
     * [UE5 Networking Multiplayer](compscidev/game-development/unreal-engine/ue5-networking/README.md)
       * [Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/)
       * [Networked CTF Tutorial](compscidev/game-development/unreal-engine/ue5-networking/networked-ctf-tutorial.md)
