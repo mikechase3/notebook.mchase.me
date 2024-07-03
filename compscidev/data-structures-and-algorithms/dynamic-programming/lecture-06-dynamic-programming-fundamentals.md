@@ -77,7 +77,7 @@ $$
 
 **Master Theorem**
 
-![Source: Brilliant, Master Theorem](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![Source: Brilliant, Master Theorem](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Roughly, this theorem says:
 
