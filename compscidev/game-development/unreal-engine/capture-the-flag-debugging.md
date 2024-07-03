@@ -1,4 +1,4 @@
-# Capture The Flag Notes
+# Capture The Flag Debugging
 
 Eventually I want to redo this and make it into a tutorial. Maybe I will today.
 
@@ -16,11 +16,17 @@ The Game Mode has a function `GetGameState()` which contains the `PlayerArray` o
 
 ## Debugging
 
+<figure><img src="../../../.gitbook/assets/image (748).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Also - why didn't this print?
+Also - why didn't this print anything if it's not assigned.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macro.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (749).png" alt=""><figcaption></figcaption></figure>
 
 The succeeded here and didn't print `Hello` in the game mode.
 
@@ -29,3 +35,10 @@ The succeeded here and didn't print `Hello` in the game mode.
 ## Initial Design
 
 <figure><img src="../../../.gitbook/assets/CTF Assets.png" alt=""><figcaption></figcaption></figure>
+
+## Output Log Tags
+
+You can perform output log tagging by appending `Warning` or `Error` to a print string.
+
+<figure><img src="../../../.gitbook/assets/image (750).png" alt=""><figcaption></figcaption></figure>
+
