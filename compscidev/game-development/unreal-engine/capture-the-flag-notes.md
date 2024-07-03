@@ -25,3 +25,7 @@ Also - why didn't this print?
 The succeeded here and didn't print `Hello` in the game mode.
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+## Initial Design
+
+<figure><img src="../../../.gitbook/assets/CTF Assets.png" alt=""><figcaption></figcaption></figure>
