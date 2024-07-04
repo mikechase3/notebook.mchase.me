@@ -43,3 +43,26 @@ If Jon purchases a house for $250K and sells for $325K find ROI.
 * **ROI** = Profit/COI * 100%
 * (325K-250K)/250K * 100% = 30%
 * The *Annual ROI* is 30%/5yrs = 6%/year.
+
+
+## Front End w/ HTML, CSS, JS fundamentals
+Annie is doing this.
+
+### Developer Console
+Our first little project is to randmly change colors.
+```js
+const htmlBody = document.querySelector('body')
+
+const randomClickFunction = function(){
+    const colors = ["#002942", "#0CA7DB", "red", "green", "blue", "yellow", "purple"];
+    const randomIndex = Math.floor(Math.random() * colors.length);
+
+    randomClickFunction()
+
+    htmlBody.onclick = randomClickFunction;
+```
+
+Well - that didn't work. Check this out later:
+https://gemini.google.com/app/b54581554ee330ce
+
+
