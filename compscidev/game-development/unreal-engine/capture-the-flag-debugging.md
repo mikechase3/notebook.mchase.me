@@ -91,15 +91,15 @@ Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macr
 
 First, we **removed the construction script pin** and deleted the macro moving the logic there.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 We set the team inside an event (within  `BP_FirstPersonCharacter` )
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 To debug & get the name, we pulled off of `Event Possessed` now because it wasn't possessed by the client previously.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 And I learned about a few new functions within the Game Mode
 
