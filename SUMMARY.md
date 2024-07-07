@@ -189,7 +189,7 @@
   * [Expert Systems](compscidev/ai/expert-systems.md)
 * [Cloud Env Setups](compscidev/cloud-env-setups/README.md)
   * [Azure](compscidev/cloud-env-setups/azure.md)
-  * [Google Cloud Arcade.md](compscidev/cloud-env-setups/Google Cloud Arcade/Google Cloud Arcade.md)
+  * [\[Google Cloud Arcade.md\](compscidev/cloud-env-setups/Google Cloud Arcade/Google Cloud Arcade.md)](compscidev/cloud-env-setups/google-cloud-arcade.md-compscidev-cloud-env-setups-google-cloud-arcade-google-cloud-arcade.md.md)
 * [Cybersecurity](compscidev/cybersecurity/README.md)
   * [Cybersecurity Fundamentals](compscidev/cybersecurity/cybersecurity/README.md)
     * [Lecture 05: The Maya Part 1](compscidev/cybersecurity/cybersecurity/lecture-05-the-maya-part-1.md)
