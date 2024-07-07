@@ -4,6 +4,12 @@ description: A place to put scrap ideas before I destroy or perfect them.
 
 # Inbox
 
+## Google Cloud Platform
+* I evaled Azure & it was alright. Free plan only had 0.5gb ram
+  * Turns out remote IDE for PyCharm requires 4GB.
+  * It really didn't like 0.5gb of ram & 1 vCPU core.
+* I'm playing the [arcade](compscidev/cloud-env-setups/Google%20Cloud%20Arcade/Google%20Cloud%20Arcade.md)
+
 ## On "The Art of Gathering"? (Title might not be right)
 * I listened to a *No Stupid Questions* podcast regarding group gatherings & what makes good groups.
 * The topic was a *book club** & they used that as an example. Good book clubs have:
