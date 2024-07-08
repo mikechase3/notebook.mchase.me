@@ -41,7 +41,7 @@ I'm getting lost here:
 
 Can we use matrix products to represent this? Yes, we can & we can write it as two matrix products
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Further Reading TODOs
 

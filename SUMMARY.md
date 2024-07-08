@@ -384,6 +384,7 @@
       * [Networked CTF Tutorial](compscidev/game-development/unreal-engine/ue5-networking/networked-ctf-tutorial.md)
     * [UE Essentials Onboarding Collection](https://dev.epicgames.com/community/learning/courses/aJM/unreal-engine-essentials-for-games-onboarding-collection/PdGj/unreal-engine-essentials-for-games)
     * [Capture The Flag Debugging](compscidev/game-development/unreal-engine/capture-the-flag-debugging.md)
+    * [Visual Studio for UE5 Setup](compscidev/game-development/unreal-engine/visual-studio-for-ue5-setup.md)
   * [Unity (Game Dev Class)](compscidev/game-development/unity-game-dev-class/README.md)
     * [Unity Docs](https://docs.unity3d.com/Manual/)
     * [C# Scripting](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
