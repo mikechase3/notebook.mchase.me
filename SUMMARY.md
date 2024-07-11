@@ -3,6 +3,7 @@
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox.md)
   * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
+  * [Gem City Tech](inbox/gem-city-tech.md)
 
 ## Automotive
 
