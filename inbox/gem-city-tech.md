@@ -26,7 +26,7 @@ Walked into a meeting! It's fun.&#x20;
 
 
 
-## On Clean Code
+## Attributes of Clean Code
 
 Attributtes of clean code:
 
@@ -35,3 +35,35 @@ Attributtes of clean code:
 * All code shouldn't have any "numbers" that are just defined.&#x20;
 * They should all be attached to a constant.
 * Never just have `moveForward(10)`,  but put that in as a constant.
+
+### Meaningful Descriptive Identifiers
+* For variables.
+
+### Self-Documenting Code
+* Functions should be clear
+* .
+
+### DRY Code
+* Don't repeat yourself when possible.
+* .
+
+### Consistent Code Style
+.
+
+### Reduced Nesting
+. 
+
+## Miscellaneous
+* It's an **iterative project** like a scientific method. Hypothesize, try it, test it, revise your hypothesis.
+* It's *inherently creative*.
+* The most important testing in games is player testing.
+
+## Big Ball of Mud & Architectures
+* http://www.laputan.org/mud/
+* N-Tier software architecture.
+* MVC: model view controller.
+* Basically, every game he's seen might start off with diagrams, but turns into a *big ball of mud*. (Unstructured)
+* Spaghetti code example  graphic.
+
+![img.png](img.png)
+
