@@ -352,6 +352,7 @@
     * [\[Web IDE\] Replit](https://replit.com/\~)
     * [VirusTotal Sus File Scanner](https://www.virustotal.com/gui/home/upload)
   * [Bare Metal Server](compscidev/env-os-setups/bare-metal-server.md)
+  * [Docker](compscidev/env-os-setups/docker.md)
 * [Game Development](compscidev/game-development/README.md)
   * [Blender (3D Modeling)](compscidev/game-development/blender-3d-modeling/README.md)
     * [Doughnut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw\&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
