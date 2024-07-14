@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Inbox](inbox.md)
+* [Inbox](inbox/README.md)
   * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
   * [Gem City Tech](inbox/gem-city-tech.md)
 
@@ -919,14 +919,6 @@
 * [Philosophy Bro](https://www.philosophybro.com/)
 * [Principles Ray](https://www.principles.com)
 
-## Relationships
-
-* [Dating](relationships/dating/README.md)
-  * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
-* [Friendships](relationships/friendships.md)
-  * [Pandemic Friends](https://www.reddit.com/gallery/slt0d7)
-* [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
-
 ## Social Sciences
 
 * [Anthropology](social-sciences/anthropology/README.md)
@@ -948,6 +940,12 @@
 * [Psychology](social-sciences/psychology/README.md)
   * [Absurd Trolly Problem](https://neal.fun/absurd-trolley-problems/)
   * [Cognitive Biases](social-sciences/psychology/cognitive-biases.md)
+  * [Dating](social-sciences/psychology/dating/README.md)
+    * [Attachment Styles](https://scholar.harvard.edu/sociology1152/attachment-styles-0)
+  * [Friendships](social-sciences/psychology/friendships/README.md)
+    * [Pandemic Friends](https://www.reddit.com/gallery/slt0d7)
+  * [Greene 48 Laws of Power](http://www.theripening.com/2015/09/notes-and-quotes-48-laws-of-power-robert-greene.html)
+  * [\[Book\] What Maisie Knew](social-sciences/psychology/book-what-maisie-knew.md)
 
 ## 📝 Writing
 
