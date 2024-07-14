@@ -3,7 +3,7 @@ description: A place to put scrap ideas before I destroy or perfect them.
 ---
 
 # Inbox
-
+Updated 20240714
 Evaluating [python web frameworks](/compscidev/web-apps/onPythoNWebFrameworks.md)
 
 ## Google Cloud Platform
