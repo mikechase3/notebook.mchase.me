@@ -45,4 +45,9 @@ There's a lot of python web frameworks:
     * Also CharField, TextField, DataField. 
     * Assign relationships with `name = models.ForeignKey(PrimaryKey)`
 * Register models w/ the admin interface by inheriting from `django.contrib.admin.ModelAdmin`
-* 
+
+### Useful Resources
+I swear by [Bucky](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK). Only
+warning is this is for an older version you can't follow along exactly. For Python 2.7, made in 2018ish.
+I can't wait to checkout his newer [pro django tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDYbs0jJdGefNN8eZRSwWqy)
+from 2023, but I'm not a "pro" yet and the videos are much longer.
