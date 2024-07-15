@@ -990,6 +990,6 @@
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](<writing/writing-samples/2023 (1).md>)
 
-## Group 2
 
-* [Page 2](group-2/page-2.md)
+
+
