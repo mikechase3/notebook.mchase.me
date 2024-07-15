@@ -7,10 +7,10 @@ Updated 20240714
 Evaluating [python web frameworks](/compscidev/web-apps/onPythoNWebFrameworks.md)
 
 ## Google Cloud Platform
-
 * I evaled Azure & it was alright. Free plan only had 0.5gb ram
   * Turns out remote IDE for PyCharm requires 4GB.
   * It really didn't like 0.5gb of ram & 1 vCPU core.
+  * Now I have $300 for three months and spend $1/day on 8gb RAM & 2 vCPUS.
 * I'm playing the [arcade](inbox.md#google-cloud-platform) if I can (which is locked but I'm a student!!)
 
 ## On "The Art of Gathering"? (Title might not be right)
