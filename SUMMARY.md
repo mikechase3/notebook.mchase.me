@@ -173,7 +173,9 @@
   * [Deep Learning](compscidev/ai/deep-learning/README.md)
     * [BP Backwards Pass Backpropagation](compscidev/ai/deep-learning/bp-backwards-pass-backpropagation.md)
     * [Neural Networks](compscidev/understanding-learning/deep-learning.md)
-    * [How AI Large Lang Models Work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_080223\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=B\&utm\_term=ARS\_OrbitalTransmission)
+    * [LLM](compscidev/ai/deep-learning/llm/README.md)
+      * [How AI Large Lang Models Work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_080223\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=B\&utm\_term=ARS\_OrbitalTransmission)
+      * [Text Gen Temperature, K, P Lab](compscidev/ai/deep-learning/llm/text-gen-temperature-k-p-lab.md)
     * [Natural Language Processing](compscidev/ai/deep-learning/natural-language-processing.md)
   * [Gymnasium Environment Setup](compscidev/ai/gymnasium-environment-setup.md)
   * [Intro to A\* and DFS Search](compscidev/ai/ai\_elementary.md)
@@ -688,6 +690,8 @@
 * [Adblocking](infrastructure-and-it/adblocking/README.md)
   * [PiHole Custom DNS](https://pi-hole.net/)
 * [Atlas OS](https://atlasos.net/)
+* [Equipment Documentation](infrastructure-and-it/equipment-documentation/README.md)
+  * [Cell2Jack](infrastructure-and-it/equipment-documentation/cell2jack.md)
 * [Hacking (Root Access)](infrastructure-and-it/hacking-root-access/README.md)
   * [CarThing](https://npjohnson.github.io/Spotify-Car-Thing-Root/)
   * [Door Penetration](https://www.youtube.com/watch?v=VJ4FDOw9NcI)
@@ -989,7 +993,3 @@
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](<writing/writing-samples/2023 (1).md>)
-
-
-
-
