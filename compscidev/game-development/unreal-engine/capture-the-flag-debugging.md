@@ -16,7 +16,7 @@ The Game Mode has a function `GetGameState()` which contains the `PlayerArray` o
 
 ## Debugging
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Context
 
@@ -81,7 +81,7 @@ Troubleshooting Steps:
 
 #### Also - why didn't this print anything if it's not assigned. What's isValid() doing?
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macro.&#x20;
 
