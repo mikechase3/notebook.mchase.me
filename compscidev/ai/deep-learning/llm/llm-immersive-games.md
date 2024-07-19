@@ -22,8 +22,7 @@ For instance, this guy can say _anything_ back & it knows if you agree or not. P
 
 The meter in the center infers the character's trust. You can definitely build relationships. Everyone's relationship is different.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-###
