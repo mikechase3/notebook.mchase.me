@@ -28,6 +28,12 @@ Some are listed as CSVs on this website.
 * Some decks are stored in the `Studies` app.
 * Scattered throughout filesystems as CSVs; this notebook.
 
+## Misc Socials
+
+* [Linked In](https://www.linkedin.com/in/michaelgchase/)
+* g.dev/MikeChase
+* [https://stackoverflow.com/users/4777844/mike-chase](https://stackoverflow.com/users/4777844/mike-chase)
+
 ## Fair Use for Copyrighted Content
 
 * Nobody uses my notebook.
