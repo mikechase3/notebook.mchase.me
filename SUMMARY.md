@@ -5,6 +5,7 @@
   * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
   * [Gem City Tech](inbox/gem-city-tech.md)
   * [A Brief History of Time AI](inbox/a-brief-history-of-time-ai.md)
+  * [Kaggle ML AI Resource](inbox/kaggle-ml-ai-resource.md)
 
 ## Automotive
 
