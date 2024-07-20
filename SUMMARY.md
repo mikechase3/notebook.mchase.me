@@ -182,7 +182,6 @@
       * [LLM Immersive Games](compscidev/ai/deep-learning/llm/llm-immersive-games.md)
       * [Stable Diffusion](compscidev/ai/deep-learning/llm/stable-diffusion.md)
       * [Gemini Workspace Guide](compscidev/ai/deep-learning/llm/gemini-workspace-guide.md)
-    * [Natural Language Processing](compscidev/ai/deep-learning/natural-language-processing.md)
   * [Gymnasium Environment Setup](compscidev/ai/gymnasium-environment-setup.md)
   * [Intro to A\* and DFS Search](compscidev/ai/ai\_elementary.md)
   * [Machine Learning](compscidev/understanding-learning/README.md)
