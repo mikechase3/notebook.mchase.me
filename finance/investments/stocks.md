@@ -9,15 +9,15 @@ description: Updated Dec 2022
 This is my advice, tailored for individuals aged 20-30.
 
 * Put 6-months worth of living expenses into bonds.
-  * Keep one month's worth in the bank.
-  * Keep additional 2 months in US govt treasuries (with such low APY you essentially lose money)
-  * Keep additional 4-months in [BBB+ rated](https://www.investopedia.com/ask/answers/09/bond-rating.asp) bonds.
+  * Keep 3-month's worth in the bank.
+  * Keep additional 3 months in US govt treasuries (with such low APY you essentially lose money)
+  * Keep additional 6-months in [BBB+ rated](https://www.investopedia.com/ask/answers/09/bond-rating.asp) bonds.
 * Move all the rest of your money into a marginally riskier asset, an ETF. for me, this is SPY (and sometimes SPYD for lower volatility when uncertain about economy).
 
 ### On Individual Stocks
 
 * **Opinion**: You probably can't beat the market w/o market research & reading financial statements so I wouldn't even try. Just invest in `SPY` or an ETF that covers all sectors/industries/etc.
-* **Evidence**: [Goldstein, Jacob. Brilliant vs. Boring. _NPR Planet Money_ 2019.](https://www.npr.org/transcripts/688018436)
+* **Evidence**: [Goldstein, Jacob. Brilliant vs. Boring. _NPR Planet Money_ 2019](https://www.npr.org/transcripts/688018436) and [The Stupidist Thing You can Do With Your Money](https://freakonomics.com/podcast/the-stupidest-thing-you-can-do-with-your-money/) Freakonomics
 
 ### On Options
 
@@ -31,9 +31,3 @@ This is my advice, tailored for individuals aged 20-30.
 ### Further Reading
 
 * TODO: Source numbers/statistics about how indexing beats picking/choosing at least 60% of the time. I think the percentage is higher, like 70 or 80% honestly, but don't remember.
-
-## Educated Gambling
-
-Three long-term bets/goals.&#x20;
-
-<table><thead><tr><th width="146">Action Ticker</th><th width="153">Advantages</th><th width="169">Criticism</th><th width="260">My Take</th></tr></thead><tbody><tr><td>Short TSLA</td><td>The only autonomous manufacturer.</td><td>Too much on its plate. Not working on plans for $25K compact car.</td><td>Most environmentalist progressives can't afford it. Only appealing/affordable to 0.1%</td></tr><tr><td>Buy AMZN</td><td>AWS is strong</td><td>Retail isn't</td><td>They're undervalued. No options b/c they have lawsuits &#x26; retail is risky atm. </td></tr></tbody></table>

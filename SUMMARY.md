@@ -630,6 +630,7 @@
 * [Cryptocurrency Activities](finance/cryptocurrency-taxes.md)
 * [Investments](finance/investments/README.md)
   * [Mike Chase's Advice](finance/investments/stocks.md)
+  * [Stupidest Thing You Can Do With Your Money](https://freakonomics.com/podcast/the-stupidest-thing-you-can-do-with-your-money/)
 * [r/personalfinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 
