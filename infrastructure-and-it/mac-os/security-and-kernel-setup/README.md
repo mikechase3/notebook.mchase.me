@@ -1,2 +1,0 @@
-# Security and Kernel Setup
-
