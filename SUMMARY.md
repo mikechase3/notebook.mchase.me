@@ -557,6 +557,7 @@
 * [Replit](https://replit.com/@mikechase3)
 * [Roadmaps for CompSci](https://roadmap.sh/)
 * [Tools](compscidev/tools/tools.md)
+  * [Alfred](compscidev/tools/alfred.md)
   * [Mobbin](compscidev/tools/mobin/mobin.md)
   * [UIZard](compscidev/tools/uizard.md)
 * [UI/HI Guides](compscidev/ui-hi-guides/README.md)
