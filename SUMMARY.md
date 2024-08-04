@@ -558,6 +558,7 @@
 * [Roadmaps for CompSci](https://roadmap.sh/)
 * [Tools](compscidev/tools/tools.md)
   * [Mobbin](compscidev/tools/mobin/mobin.md)
+  * [UIZard](compscidev/tools/uizard.md)
 * [UI/HI Guides](compscidev/ui-hi-guides/README.md)
   * [Gnome HIG](https://developer.gnome.org/hig/)
 * [Web App Development](compscidev/web-apps/README.md)
