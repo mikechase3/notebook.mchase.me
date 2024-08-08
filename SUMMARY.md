@@ -515,6 +515,7 @@
   * [Prep Test](compscidev/networking/untitled.md)
   * [Network Security](compscidev/networking/network-security.md)
   * [Monmouth, IL Latency](compscidev/networking/monmouth-il-latency.md)
+  * [WhatsMyDNS CheckPropogation](https://www.whatsmydns.net/#TXT/dam-it.tech)
 * [Operating Systems](compscidev/operating-systems/README.md)
   * [CPS 536 OS](compscidev/operating-systems/cps-536-os/README.md)
     * [01 OS Welcome](compscidev/operating-systems/cps-536-os/w01-operatingsystemspurpose.md)
