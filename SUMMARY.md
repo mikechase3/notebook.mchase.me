@@ -6,6 +6,7 @@
   * [A Brief History of Time AI](inbox/a-brief-history-of-time-ai.md)
   * [Kaggle ML AI Resource](inbox/kaggle-ml-ai-resource.md)
   * [SAT Solvers](inbox/sat-solvers.md)
+  * [Stumpy](inbox/stumpy.md)
 
 ## Automotive
 
@@ -182,6 +183,7 @@
       * [LLM Immersive Games](compscidev/ai/deep-learning/llm/llm-immersive-games.md)
       * [Stable Diffusion](compscidev/ai/deep-learning/llm/stable-diffusion.md)
       * [Gemini Workspace Guide](compscidev/ai/deep-learning/llm/gemini-workspace-guide.md)
+      * [AI-Driven Conversational Data Collection](compscidev/ai/deep-learning/llm/ai-driven-conversational-data-collection.md)
   * [Gymnasium Environment Setup](compscidev/ai/gymnasium-environment-setup.md)
   * [Intro to A\* and DFS Search](compscidev/ai/ai\_elementary.md)
   * [Machine Learning](compscidev/understanding-learning/README.md)
@@ -199,6 +201,8 @@
   * [Azure](compscidev/cloud-env-setups/azure.md)
   * [\[Google Cloud Arcade.md\](compscidev/cloud-env-setups/Google Cloud Arcade/Google Cloud Arcade.md)](compscidev/cloud-env-setups/google-cloud-arcade.md-compscidev-cloud-env-setups-google-cloud-arcade-google-cloud-arcade.md.md)
 * [Conferences & Interest Groups](compscidev/conferences-and-interest-groups/README.md)
+  * [Dayton Linux User Group](compscidev/conferences-and-interest-groups/dayton-linux-user-group.md)
+  * [Ohio LinuxFest](compscidev/conferences-and-interest-groups/ohio-linuxfest.md)
   * [Code for Dayton](compscidev/conferences-and-interest-groups/code-for-dayton.md)
   * [Gem City Tech](compscidev/conferences-and-interest-groups/gem-city-tech/README.md)
     * [Dynamic Languages Group](compscidev/conferences-and-interest-groups/gem-city-tech/dynamic-languages-group.md)
