@@ -3,9 +3,9 @@
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
   * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
-  * [Gem City Tech](inbox/gem-city-tech.md)
   * [A Brief History of Time AI](inbox/a-brief-history-of-time-ai.md)
   * [Kaggle ML AI Resource](inbox/kaggle-ml-ai-resource.md)
+  * [SAT Solvers](inbox/sat-solvers.md)
 
 ## Automotive
 
@@ -198,6 +198,10 @@
 * [Cloud Env Setups](compscidev/cloud-env-setups/README.md)
   * [Azure](compscidev/cloud-env-setups/azure.md)
   * [\[Google Cloud Arcade.md\](compscidev/cloud-env-setups/Google Cloud Arcade/Google Cloud Arcade.md)](compscidev/cloud-env-setups/google-cloud-arcade.md-compscidev-cloud-env-setups-google-cloud-arcade-google-cloud-arcade.md.md)
+* [Conferences & Interest Groups](compscidev/conferences-and-interest-groups/README.md)
+  * [Gem City Tech](compscidev/conferences-and-interest-groups/gem-city-tech/README.md)
+    * [Dynamic Languages Group](compscidev/conferences-and-interest-groups/gem-city-tech/dynamic-languages-group.md)
+  * [Linux Fest](https://olfconference.org/about/)
 * [Cybersecurity](compscidev/cybersecurity/README.md)
   * [Cybersecurity Fundamentals](compscidev/cybersecurity/cybersecurity/README.md)
     * [Lecture 05: The Maya Part 1](compscidev/cybersecurity/cybersecurity/lecture-05-the-maya-part-1.md)
