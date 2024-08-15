@@ -753,6 +753,7 @@
 
 ## 🌴 Leisure
 
+* [Camper Rental Analysis](leisure/camper-rental-analysis.md)
 * [Dayton OH](leisure/dayton-oh/README.md)
   * [Downtown Housing FY24](https://downtowndayton.org/wp-content/uploads/2024/05/housingtour2024guide.pdf)
   * [Metroparks](leisure/dayton-oh/metroparks.md)
@@ -760,7 +761,7 @@
 * [Guns](leisure/guns.md)
 * [Kiwiah Beach Cam](https://kica.us/beach-cam/)
 * [Shopping](leisure/page-2.md)
-* [Trip Logs](leisure/trip-logs/README.md)
+* [Travel](leisure/trip-logs/README.md)
   * [MI Weekend Trip](leisure/trip-logs/mi-weekend-trip.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
