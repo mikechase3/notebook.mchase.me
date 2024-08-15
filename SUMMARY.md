@@ -199,6 +199,7 @@
   * [Azure](compscidev/cloud-env-setups/azure.md)
   * [\[Google Cloud Arcade.md\](compscidev/cloud-env-setups/Google Cloud Arcade/Google Cloud Arcade.md)](compscidev/cloud-env-setups/google-cloud-arcade.md-compscidev-cloud-env-setups-google-cloud-arcade-google-cloud-arcade.md.md)
 * [Conferences & Interest Groups](compscidev/conferences-and-interest-groups/README.md)
+  * [Code for Dayton](compscidev/conferences-and-interest-groups/code-for-dayton.md)
   * [Gem City Tech](compscidev/conferences-and-interest-groups/gem-city-tech/README.md)
     * [Dynamic Languages Group](compscidev/conferences-and-interest-groups/gem-city-tech/dynamic-languages-group.md)
   * [Linux Fest](https://olfconference.org/about/)
