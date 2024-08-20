@@ -595,6 +595,7 @@
     * [Git Flash Cards](compscidev/git-and-github/git/git-flash-cards.md)
     * [Git/Github Codecademy](https://www.codecademy.com/learn/learn-git)
     * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+    * [Write Git](https://wyag.thb.lt)
 
 ## 🎒 Education
 
