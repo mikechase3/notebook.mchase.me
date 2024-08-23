@@ -385,6 +385,7 @@
     * [Maze Generation](https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap)
     * [Minimax](https://en.wikipedia.org/wiki/Minimax)
     * [Ray Casting](https://en.wikipedia.org/wiki/Ray\_casting)
+  * [Godot](compscidev/game-development/godot.md)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
   * [Psychology](compscidev/game-development/psychology.md)
   * [Unreal Engine](compscidev/game-development/unreal-engine/README.md)
