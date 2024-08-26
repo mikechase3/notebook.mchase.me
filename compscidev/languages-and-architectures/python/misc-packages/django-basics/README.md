@@ -2,15 +2,20 @@
 
 ## Quick Links
 
-* Make sure you understand Python [basics](../corepython/).
+* Make sure you understand Python [basics](../../corepython/).
 * Docs - [writing your first django app](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
 * Also know bits of HTML/CSS/JS so you know how they work together.
 
 ## Refreshers
-I'm doing a quiz type of approach. Skim over the answers. 
+
+I'm doing a quiz type of approach. Skim over the answers.
+
 ### HTML
+
 #### Including Headers in CSS
+
 Here's a basic file. Answer:
+
 1. How do you link a CSS file?
 2. How do you change text within headers?
 
@@ -35,6 +40,7 @@ Here's a basic file. Answer:
 ```
 
 #### Using Forms
+
 Here's questions to test understanding of the code below:
 
 1. Which HTML tag is used to create the form for a hotdog?
