@@ -8,6 +8,8 @@ PDF located in `"000-025 Educational Years\024 ITAndGradSchool\Career\Entreprene
 
 <figure><img src="../../../../../.gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 To read/write about:
 
 #### 3. The `django-admin` Utility and Settings
