@@ -130,6 +130,7 @@
 * [SCRUM & Agile Development](career/lecture-01-course-overview.md)
 * [Software Project Management](career/software-project-management/README.md)
   * [PM Memes](career/software-project-management/pm-memes.md)
+  * [PMLC](career/software-project-management/pmlc.md)
 * [Systems Design](career/systems-design/README.md)
   * [Uber/Lyft Model](https://www.youtube.com/watch?v=R\_agd5qZ26Y)
 * [Time Management](career/time-management/README.md)
