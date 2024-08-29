@@ -1,5 +1,9 @@
 # Accounting & Financial Statements
 
+## RESOURCES
+
+* [Score small business financial statements & business planning](../entrepreneurship/score.md) templates.
+
 ## Accounts
 
 ### Bank Account
@@ -26,6 +30,10 @@ Paper invoicing
 ### Income Statement or PNL Statement
 
 {% embed url="https://www.cdfifund.gov/sites/cdfi/files/documents/sample-organization-statement-of-financial-income-and-expense.pdf" %}
+
+{% embed url="https://www.famemaine.com/wp-content/uploads/2015/03/Sample-Income-Statement.pdf" %}
+Income Statement Worksheet
+{% endembed %}
 
 * Shows how much you spend & made within a month or a year usually.
 * Total revenue, total costs of goods sold, total expenses => Net Income
