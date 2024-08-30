@@ -671,6 +671,7 @@
   * [Don't Starve Together](gaming/guides/dont-starve-together/README.md)
     * [Console Commands](https://dontstarve.fandom.com/wiki/Console/Don't\_Starve\_Together\_Commands)
     * [Crockpot Cheat Sheet](https://steamcommunity.com/sharedfiles/filedetails/?id=1937832167)
+* [DND](gaming/dnd/dnd.md)
 
 ## 💊 Health and Fitness
 
