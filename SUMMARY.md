@@ -631,6 +631,7 @@
   * [TeamDynamix](https://udayton.teamdynamix.com/TDClient/1868/Portal/Home/)
   * [UD Stu Discounts](https://docs.google.com/spreadsheets/d/1bnw-46Tm\_3PdFD6EXIhHwArfNsQX4DNUFPog2\_CNjQA/edit#gid=0)
   * [Student Orgs](education/ud/student-orgs.md)
+  * [Housing Contract](education/ud/housing-contract.md)
 
 ## 🎥 Entertainment
 
