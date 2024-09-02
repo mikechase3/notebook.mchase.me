@@ -132,7 +132,7 @@
 * [Software Project Management](career/software-project-management/README.md)
   * [PM Memes](career/software-project-management/pm-memes.md)
   * [PMLC](career/software-project-management/pmlc.md)
-  * [AS01 Scoping](career/software-project-management/as01_scoping)
+  * [AS01 Scoping](career/software-project-management/as01_scoping.md)
 * [Systems Design](career/systems-design/README.md)
   * [Uber/Lyft Model](https://www.youtube.com/watch?v=R\_agd5qZ26Y)
 * [Time Management](career/time-management/README.md)
