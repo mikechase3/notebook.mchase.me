@@ -1,16 +1,12 @@
 # AS01 Scoping
 
 ## Final Deliverable
-### Questions & Answers
-* **What I'm doing**: 
-
 
 
 
 ## Requirements
 * Answer Questions:
   * What am I trying to do? 
-  * 
 
 Goals: 
 * Plan DAM-IT blue-sky-dea services.
@@ -23,9 +19,31 @@ Requirements:
 * 3 total goals w/ how end-user interacts with my software.
 * Make a 1-slide PPT showcasing project.
 
-**DRAFT BELOW**
+## Q/A
+### What are you trying to Do?
+DAM-IT is a company I recently started to service equipment, perform software/hardware consulting, and rent equipment to students.
+I aim to develop a Django-based web application, integrating scheduling, customer management, and inventory functionalities.
+The system will streamline operations for IT support services, equipment rentals, and customer interactions.
+Eventually, I'd like to design the roadmap for creating kiloton and swiftUI application. 
 
-## Project Overview
+### How is it Done Today & Limits of Current Solution
+DAM-IT's process and operations is rather inefficient. It currently uses a Google Sites page which requires manual entry/updating. Scheduling is managed by Google Calendar, which integrates well with existing workflows for blocking out my personal time; however, it looks slightly unprofessional and does not easily coordinate with my website in real-time (though there might be an API?) After a phone call requested through google calendar's iFrame, I perform a free call and request their deposit after which I manually add it to my calendar. Prices for subsequent repairs (e.g. more than three per week) increase the price.
+
+### Innovation - New Approach
+My proposal is to integrate a custom backend, customer database, and real-time inventory tracking. By implementing a custom backend, I can have the site automatically update booking prices as appointments are created and my availability fills up. The introduction of mobile apps using SwiftUI and Android's native UI features & connecting it to the centralized database hasn't been done.
+
+### Impact
+If I'm successful, I could publish a skeleton CRM system open-source. Furthermore, I'll advertise that I'm a cloud engineer, maybe pickup a Google certification, and make more money than I will renting out laptops to others. Additionally, students will be able to view inventory, request services, make payments, and offer self-service.
+
+### Goals
+1. Web application development with a Django app, apache server, SQL database.
+2. Mobile app development w/ system interfaces that connect to SQL database.
+3. Open-Source contribution to CRM environments. 
+
+
+## Drafts & Duplicate Info
+
+### Project Overview
 **Project Objective**: Project Objective: 
 Develop a Django-based web application for DAM-IT, integrating scheduling, customer management, and inventory functionalities. 
 This system will streamline operations for IT support services, equipment rentals, and customer interactions. 
@@ -55,7 +73,7 @@ booking until capacity is reached.
 * Comparison with Existing Solutions: Systems like Uber offer advanced booking capabilities, similar to the envisioned setup. Odoo provides an open-source ERP/CRM system that covers a range of business needs, but the goal here is to create something more lightweight and tailored to small IT service providers.
 
  
-#### What's New:
+### What's New:
 
 Integration of Native UI Elements: By using SwiftUI and Android native components, the apps will leverage the platform's built-in UI frameworks, resulting in a more responsive and consistent user experience.
 Scalable and Modular Design: Starting with essential functionalities and scaling as needed allows for manageable growth and adaptability.
