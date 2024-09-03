@@ -1,6 +1,17 @@
 # AS01 Scoping
 
+## Final Deliverable
+### Questions & Answers
+* **What I'm doing**: 
+
+
+
+
 ## Requirements
+* Answer Questions:
+  * What am I trying to do? 
+  * 
+
 Goals: 
 * Plan DAM-IT blue-sky-dea services.
 * Utilize *The Helmeier Catechism*: questions to articulate goals & risks. 
@@ -11,6 +22,8 @@ Requirements:
 * For each goal, explain how it relates to project.
 * 3 total goals w/ how end-user interacts with my software.
 * Make a 1-slide PPT showcasing project.
+
+**DRAFT BELOW**
 
 ## Project Overview
 **Project Objective**: Project Objective: 
@@ -36,13 +49,13 @@ booking until capacity is reached.
 * SwiftUI-Based iOS App: A native iOS application using SwiftUI to offer seamless interaction with the Django backend. The app will allow users to browse available equipment, book services, and potentially handle payments.
 * Android App: A native Android application mirroring the iOS app functionality, using Android's native UI components for a responsive and intuitive user experience.
 
-* #### Learning Objectives and Open-Source Considerations:
+#### Learning Objectives and Open-Source Considerations:
 * Integration and Customization: The project serves as a learning platform for integrating Google Calendar API and building custom CRM solutions with Django.
 * Publishing Open Source: If successful, components developed could be released as open-source tools, potentially filling gaps in existing CRM and inventory management solutions.
 * Comparison with Existing Solutions: Systems like Uber offer advanced booking capabilities, similar to the envisioned setup. Odoo provides an open-source ERP/CRM system that covers a range of business needs, but the goal here is to create something more lightweight and tailored to small IT service providers.
 
  
-What's New:
+#### What's New:
 
 Integration of Native UI Elements: By using SwiftUI and Android native components, the apps will leverage the platform's built-in UI frameworks, resulting in a more responsive and consistent user experience.
 Scalable and Modular Design: Starting with essential functionalities and scaling as needed allows for manageable growth and adaptability.
@@ -55,25 +68,27 @@ Operational Efficiency: Automation of booking, payments, and customer management
 ## Overview Presentation Slide
 DAM-IT Tech Project: Streamlined IT Service Management
 
-Objectives:
+### Objectives:
 
-Develop a custom Django web app for scheduling, customer management, and inventory.
-Create native iOS and Android apps to enhance user experience and operational efficiency.
-Current State:
+* Develop a custom Django web app for scheduling, customer management, and inventory.
+* Create native iOS and Android apps to enhance user experience and operational efficiency.
 
-Website on Google Sites, linked to DAM-IT.TECH.
-Google Calendar for scheduling initial consultations.
-Manual process for follow-up bookings and payments.
-Proposed Solution:
+#### Current State:
+* Website on Google Sites, linked to DAM-IT.TECH.
+* Google Calendar for scheduling initial consultations.
+* Manual process for follow-up bookings and payments.
 
-Web App: Google Calendar integration, customer database, real-time inventory management.
-Mobile Apps: Native iOS and Android apps using SwiftUI and Android components for intuitive UI.
-Innovation:
+#### Proposed Solution:
+* Web App: Google Calendar integration, customer database, real-time inventory management.
+* Mobile Apps: Native iOS and Android apps using SwiftUI and Android components for intuitive UI.
 
-Use of Native UI Components: Ensures a consistent and responsive user experience.
-Scalable and Modular Design: Facilitates growth and adaptability.
-Open-Source Potential: Contribution to CRM solutions tailored for small businesses.
-Impact:
+#### Innovation:
+
+* Use of Native UI Components: Ensures a consistent and responsive user experience.
+* Scalable and Modular Design: Facilitates growth and adaptability.
+* Open-Source Potential: Contribution to CRM solutions tailored for small businesses.
+
+#### Impact:
 
 Attract more college students through app-based service booking.
 Reduce operational workload with automation.
