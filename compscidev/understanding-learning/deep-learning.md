@@ -6,7 +6,7 @@
 
 ## What is Deep Learning
 
-![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9) (1).png>)
+![Source: AWS Training and Certification | Coursera](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 ### Brief History
 
@@ -30,7 +30,7 @@
   * Output layers.
 * The basic unit is a **node** or artifical neuron.
 
-![Source: Amazon Machine Learning | AWS from Coursera](<../../.gitbook/assets/image (10) (1).png>)
+![Source: Amazon Machine Learning | AWS from Coursera](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 ### Types of Neural Networks
 
