@@ -397,6 +397,7 @@
   * [Gaming History/Theory](compscidev/game-development/gaming-history-theory.md)
   * [Godot](compscidev/game-development/godot.md)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
+  * [Math for Games](compscidev/game-development/math-for-games.md)
   * [Psychology](compscidev/game-development/psychology.md)
   * [Unreal Engine](compscidev/game-development/unreal-engine/README.md)
     * [Blueprints](compscidev/game-development/unreal-engine/blueprints/README.md)
