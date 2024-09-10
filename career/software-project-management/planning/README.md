@@ -2,6 +2,10 @@
 
 This week is asynchronous.
 
+## Study Guides
+
+{% embed url="https://quizlet.com/study-guides/magic-note-1f3ed5b5-aac9-4289-b7eb-fb028ad498ee?i=ss8s&x=13qt" %}
+
 ## Software Planning and Technical Documentation
 
 Images/works cited:
