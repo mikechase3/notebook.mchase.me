@@ -7,6 +7,7 @@
   * [Kaggle ML AI Resource](inbox/kaggle-ml-ai-resource.md)
   * [SAT Solvers](inbox/sat-solvers.md)
   * [Stumpy](inbox/stumpy.md)
+  * [Innovate or Eliminate](inbox/innovate-or-eliminate.md)
 
 ## Automotive
 
