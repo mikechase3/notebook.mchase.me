@@ -129,7 +129,6 @@
 * [Risk Management](career/risk-management.md)
 * [Satire](career/satire/README.md)
   * [Corporate Translations](career/satire/corporate-translations.md)
-* [SCRUM & Agile Development](career/lecture-01-course-overview.md)
 * [Software Project Management](career/software-project-management/README.md)
   * [Agile](career/software-project-management/agile.md)
   * [Planning](career/software-project-management/planning/README.md)
