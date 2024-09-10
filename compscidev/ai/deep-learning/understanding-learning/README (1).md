@@ -2,7 +2,7 @@
 description: Coursera's AWS Machine Learning Course. Taught by experts at Amazon.
 ---
 
-# Machine Learning
+# Understanding Deep Learning
 
 ## Goals
 
