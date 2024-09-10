@@ -27,5 +27,10 @@ Templates below:
 
 {% embed url="https://www.learnleansigma.com/template/impact-and-effort-matrix-template/" %}
 
-.
+## Summary
+
+* Simply first - then add. We jump to adding features too quickly when simplification is usually the right answer.
+* Take guidance over advice: guidance is **have you thought about**. Advice is "you should change".
+* It's okay to hear "no": suggest additional features rahter than deliver their honest opinions.
+* Killing your own ideas is hard: practice and then return. Kill products & ideas that don't work.
 
