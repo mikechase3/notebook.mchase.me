@@ -11,6 +11,10 @@ Most of my knowledge comes from:
    * Academic Papers from: AAAI & CVPR
 2. Crash Course AI (With Hands-On Labs!)
 3. 3Blue1Brown Videos
+4. "Hands on machine learning scikit, kana?, Tensorflow"
+
+## Quizlet Links
+[Quizlet Set Chapter01 Quiz](https://quizlet.com/study-guides/magic-note-5f495850-5648-44b7-b54a-f916ca683057)
 
 ## Projects
 
