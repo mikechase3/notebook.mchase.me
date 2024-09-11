@@ -16,6 +16,9 @@ Most of my knowledge comes from:
 ## Quizlet Links
 [Quizlet Set Chapter01 Quiz](https://quizlet.com/study-guides/magic-note-5f495850-5648-44b7-b54a-f916ca683057)
 
+## Mind-Map?
+Be sure to checkout the mind map. Currently in 024/Career/Education/Development/HandsOnMLSciKitTensorflow.itmz.
+
 ## Projects
 
 TODO: put github/gitlab project links here...
