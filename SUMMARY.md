@@ -134,6 +134,7 @@
     * [Kanban](career/software-project-management/agile/kanban.md)
     * [Old Capstone Notes & Syllabus](career/software-project-management/agile/old-capstone-notes-and-syllabus.md)
     * [Scrum](career/software-project-management/agile/scrum.md)
+    * [Self Organization](career/software-project-management/agile/self-organization.md)
   * [Design Patterns](career/software-project-management/design-patterns/README.md)
     * [Catalog (Ref Guru)](https://refactoring.guru/design-patterns/catalog)
     * [OODesign](https://www.oodesign.com/)
