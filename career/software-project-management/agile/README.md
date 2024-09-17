@@ -1,8 +1,6 @@
 # Agile
 
-## Agile
-
-### Study Guides
+## Agile Study Guides
 
 [The Agile Manifesto](https://agilemanifesto.org/principles.html) specifically:
 
@@ -66,12 +64,41 @@ Rest of slides:
 * Lack of predictability, testing emphasis, risk of team burnout, lack of structure and governance
 
 ### Quick Definitions
+TODO: read [project management at big tech](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 
 * Popular Agile frameworks include Scrum, Kanban, Hybrid, Lean, Bimodal, XP, Crystal (focusing on Scrum and Kanban).
 * Scrum: fixed-length development iterations, suited for well-defined tasks with clear deliverables.
 * Kanban: continuous releases, suited for open-ended tasks.
 
+## Software Project Management Plans Companies Actually Use
+* **Big Tech & Public**:
+    * Teams can choose how they work (common)
+    * Suggested methodology, but teams can choose (less frequent).
+    * There's usually a tech lead or an engineer on the team is the lead.
+* **Venture-funded scale-ups**: suggested methodology, but teams can choose.
+* **Venture-funded startups**: it's common for teams to follow a specific methodology like scrum/kaban.
+* **Non-venture funded tech companies**: teams are usually expected to follow scrum or others.
+* **Large, non-tech companies**: teams typically are expected to follow a specific methodology. 
+* **Consultancies**: teams are usually expected to follow a specific methodology. Usually scrum. 
 
+### Scrum At Riverside Research
+1. Design thinking
+2. Lean startup
+3. Agile
+4. Sustainment
+
+## Project Manager Roles
+* Project managers are not in charge of the project, but do budgeting and finance work across multiple project teams.
+* They typically aren't managers to those groups, but tech leads will report to them.
+* It's more like being an outward facing person that goes to events. It's not figure out an issue & work together.
+
+## Why People Hate Scrum
+1. It's a framework that relies on estimates which are very hard to do & often incorrect.
+2. Developers want to develop, not work in software project management systems.
+3. They don't want to sit in meetings.
+4. Doesn't work well when the tasks are obvious.
+
+But it works well when there's no process, a strong process, clear tasking, a need for constant reporting/releases, and where there' a need for continues monitoring. 
 
 <details>
 
@@ -141,3 +168,5 @@ Rest of slides:
 4. Face-to-face communication is less effective than written documentation in Agile projects. (True/False)
 
 </details>
+
+
