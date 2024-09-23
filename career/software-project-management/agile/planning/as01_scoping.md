@@ -2,7 +2,7 @@
 
 ## AS01 Scoping Slide
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-09-03 at 12.23.18@2x.png" alt=""><figcaption><p>Project Scope Visual</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-09-03 at 12.23.18@2x.png" alt=""><figcaption><p>Project Scope Visual</p></figcaption></figure>
 
 ## Q/A
 
