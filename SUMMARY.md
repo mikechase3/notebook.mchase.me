@@ -405,6 +405,7 @@
     * [Meshroom Pics to 3D](https://github.com/alicevision/Meshroom)
   * [Design Document](compscidev/game-development/design-document/README.md)
     * [Design Docs](https://gamescrye.com/resources/game-design-documents/)
+    * [Coindash Design Doc](compscidev/game-development/design-document/coindash-design-doc.md)
   * [Erik Buck](https://people.wright.edu/erik.buck)
   * [Game-Specific Algorithms](compscidev/game-development/game-specific-algorithms/README.md)
     * [A\*](https://www.google.com/search?q=a\*+path+finding\&rlz=1C1GCEA\_enUS999US999\&oq=A\*+Path+Finding\&aqs=chrome.0.0i512j0i20i263i512l2j0i512j0i10i512j0i10i22i30j0i22i30l4.2259j0j7\&sourceid=chrome\&ie=UTF-8)
