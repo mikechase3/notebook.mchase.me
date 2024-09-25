@@ -417,6 +417,7 @@
   * [Gaming History/Theory](compscidev/game-development/gaming-history-theory/README.md)
     * [Platforms and Player Modes](compscidev/game-development/gaming-history-theory/platforms-and-player-modes.md)
     * [Goals of Video Games](compscidev/game-development/gaming-history-theory/goals-of-video-games.md)
+    * [Gaming on PCs](compscidev/game-development/gaming-history-theory/gaming-on-pcs.md)
   * [Godot](compscidev/game-development/godot.md)
   * [GRILL Learning Playlist](https://learning.oreilly.com/playlists/c43e3de9-288b-40e6-aad7-c3ac69d4e004/)
   * [Math for Games](compscidev/game-development/math-for-games.md)
