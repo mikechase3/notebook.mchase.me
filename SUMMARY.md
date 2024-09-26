@@ -144,6 +144,7 @@
     * [Catalog (Ref Guru)](https://refactoring.guru/design-patterns/catalog)
     * [OODesign](https://www.oodesign.com/)
   * [Large-Scale Software Development](career/software-project-management/large-scale-software-development.md)
+  * [MythManMonth](career/software-project-management/mythicalManMonth.md)
   * [PM Memes](career/software-project-management/pm-memes.md)
   * [Uber/Lyft Model](https://www.youtube.com/watch?v=R\_agd5qZ26Y)
 * [Time Management](career/time-management/README.md)
