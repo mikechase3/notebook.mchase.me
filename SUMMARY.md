@@ -1,13 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Inbox](inbox/README.md)
-  * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
-  * [A Brief History of Time AI](inbox/a-brief-history-of-time-ai.md)
-  * [Kaggle ML AI Resource](inbox/kaggle-ml-ai-resource.md)
-  * [SAT Solvers](inbox/sat-solvers.md)
-  * [Stumpy](inbox/stumpy.md)
-  * [Innovate or Eliminate](inbox/innovate-or-eliminate.md)
+* [Inbox](inbox.md)
 
 ## Automotive
 
@@ -152,6 +146,7 @@
   * [Breaking Up Hard Tasks](career/time-management/breaking-up-hard-tasks.md)
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
   * [Dealing with Distractions](career/time-management/dealing-with-distractions.md)
+  * [Innovate or Eliminate](career/time-management/innovate-or-eliminate.md)
 
 ## Communications
 
@@ -193,6 +188,7 @@
     * [3B1B ML](https://www.youtube.com/watch?v=aircAruvnKk\&list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi)
     * [6.036 UG](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/)
     * [6.867 GR](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/)
+    * [Hands On ML](compscidev/ai/courses/hands-on-ml.md)
   * [Deep Learning](compscidev/ai/deep-learning/README.md)
     * [Theory](compscidev/ai/deep-learning/theory/README.md)
       * [Neural Networks](compscidev/ai/deep-learning/theory/neural-networks/README.md)
@@ -227,7 +223,6 @@
     * [Monte Carlo Methods](compscidev/ai/reinforcementlearning/monte-carlo-methods.md)
     * [Prescriptive Analytics w/ Python](compscidev/ai/reinforcementlearning/prescriptive-analytics-w-python.md)
   * [Robotics & Autonomous Systems](compscidev/ai/robotics-and-autonomous-systems.md)
-  * [Frameworks](compscidev/ai/frameworks.md)
 * [Cloud Env Setups](compscidev/cloud-env-setups/README.md)
   * [Azure](compscidev/cloud-env-setups/azure.md)
   * [\[Google Cloud Arcade.md\](compscidev/cloud-env-setups/Google Cloud Arcade/Google Cloud Arcade.md)](compscidev/cloud-env-setups/google-cloud-arcade.md-compscidev-cloud-env-setups-google-cloud-arcade-google-cloud-arcade.md.md)
@@ -291,6 +286,7 @@
       * [Problem Session](compscidev/data-structures-and-algorithms/algorithm-analysis/lecture-10-amoritized-analysis/problem-session.md)
     * [Recursion Trees](compscidev/data-structures-and-algorithms/algorithm-analysis/recursion-trees.md)
     * [Ch2 Kleinberg Alg Analysis Basics](compscidev/data-structures-and-algorithms/algorithm-analysis/kleinberg-ch2-analysis-basics.md)
+  * [BaseCS Blog](https://medium.com/basecs)
   * [Base CS Podcast](https://www.codenewbie.org/basecs)
   * [Classroom Residuals](compscidev/data-structures-and-algorithms/classroom-residuals/README.md)
     * [CPS 350 Jawa Warmup](compscidev/data-structures-and-algorithms/classroom-residuals/cps350misc.md)
@@ -326,8 +322,8 @@
     * [Interval Scheduling](compscidev/data-structures-and-algorithms/greedy-techniques/interval-scheduling.md)
     * [Stable Matching Problem](compscidev/data-structures-and-algorithms/greedy-techniques/stablematching.md)
   * [NP Completeness (L21)](compscidev/data-structures-and-algorithms/np-completeness-l21.md)
+  * [SAT Solvers](compscidev/data-structures-and-algorithms/sat-solvers.md)
   * [Visualgo](https://visualgo.net/en)
-  * [BaseCS Blog](https://medium.com/basecs)
 * [Development Environments/Platforms](compscidev/development-platforms/README.md)
   * [Apple's Ecosystem](compscidev/development-platforms/apples-ecosystem/README.md)
     * [Bootcamp iOS Course](compscidev/development-platforms/apples-ecosystem/bootcamp-ios/README.md)
@@ -692,6 +688,7 @@
 * [Cryptocurrency Activities](finance/cryptocurrency-taxes.md)
 * [Investments](finance/investments/README.md)
   * [Mike Chase's Advice](finance/investments/stocks.md)
+  * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o\_zxa4K1BVJoep\_XshasfnwHfCV\_JMf)
   * [Stupidest Thing You Can Do With Your Money](https://freakonomics.com/podcast/the-stupidest-thing-you-can-do-with-your-money/)
 * [r/personalfinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)

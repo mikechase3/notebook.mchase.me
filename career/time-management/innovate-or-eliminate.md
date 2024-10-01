@@ -21,7 +21,7 @@
 
 ### Impact Difficulty Matrix
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-09-10 at 11.42.34@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-09-10 at 11.42.34@2x.png" alt=""><figcaption></figcaption></figure>
 
 Templates below:
 

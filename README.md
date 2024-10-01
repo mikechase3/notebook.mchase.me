@@ -6,18 +6,15 @@ Not for public use most of the time, but occasionally I share what I build:
 
 {% embed url="https://github.com/mikechase3" %}
 
-### Currently Exploring (Updated Jun 2024)&#x20;
+## Active Docs
 
-* [Unreal Engine Networking](compscidev/game-development/unreal-engine/ue5-networking/)
-* Some outdoor adventuring!
+* [Hands On Machine Learning w/ Sci-kit Learn, Keras, TensorFlow](compscidev/ai/courses/hands-on-ml.md)
+  * [Google Collab Notebooks](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/)
 
-
-
-#### On My Radar:
+## On My Radar:
 
 1. Python [stdlib](compscidev/languages-and-architectures/python/standard-library/). There's a lot of cool built-ins there that should work on most computers! I've been brainstorming a customized messenger application for our lab & our frequently rotating staff.
-2. Exploring [Google Colaboratory](https://colab.research.google.com/?authuser=1#scrollTo=Nma\_JWh-W-IF)
-3. Django: try & make a website/interface for an[ IT business](https://www.dam-it.tech/) I might build.
+2. Django: try & make a website/interface for an[ IT business](https://www.dam-it.tech/) I might build.
 
 ## Study Decks
 
