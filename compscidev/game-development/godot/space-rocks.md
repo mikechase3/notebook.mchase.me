@@ -42,7 +42,7 @@ Project -> Project Settings
 * **Collision Detection**: when two objects in the game space intersect or come into contact.
 * **Collision Response**: the reactionary response to when a collision is detected.
 
-1. StaticBody: these do not need to be affected by physics or gravity, such as walls, floors, or other environment elements that should not move during gameplay.
+1. `StaticBody2D`: these do not need to be affected by physics or gravity, such as walls, floors, or other environment elements that should not move during gameplay.
 2. `RigidBody2D` is the physics body that provides simulated physics. _You don't control it, but it controls gravity._
 3. `CharacterBody2D`: is a type of body that provides collision detection but no physics. All movement must be implemented in code.
 
