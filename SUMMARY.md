@@ -124,7 +124,7 @@
 * [Satire](career/satire/README.md)
   * [Corporate Translations](career/satire/corporate-translations.md)
 * [Software Project Management](career/software-project-management/README.md)
-  * [HW2](career/software-project-management/hw2.md)
+  * [AS02 Estimating Budget and Time](career/software-project-management/as02-estimating-budget-and-time.md)
   * [Agile](career/software-project-management/agile/README.md)
     * [Kanban](career/software-project-management/agile/kanban.md)
     * [Old Capstone Notes & Syllabus](career/software-project-management/agile/old-capstone-notes-and-syllabus.md)
