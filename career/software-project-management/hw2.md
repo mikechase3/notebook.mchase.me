@@ -25,8 +25,8 @@
 * Integrate API with the django system for scheduling.
 * Allow real-time bookings through Google Calendar and be embedded into the web app via an iFrame.
 
-### Task 3: Inventory Mgmt
-See chat gpt.
+### Task 3: Build the inventory management system
+ 
 
 4. Develop iOS and Androide apps.
 
