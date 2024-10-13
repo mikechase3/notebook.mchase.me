@@ -56,7 +56,7 @@ This'll take a bit to do:
 
 For my sanity & to make things a bit more concise, consider this table:
 
-<table><thead><tr><th>Task</th><th width="378">Description</th><th>Due-Date</th></tr></thead><tbody><tr><td>Start</td><td>Development begins</td><td>Jan 1, 2025</td></tr><tr><td>Django skeleton site, auth, and databases.</td><td>Build the framework for the website, databases, etc. Implement smart-card authentication and deploy it to Google Cloud.</td><td>May 1, 2025</td></tr><tr><td>Adaptive Scheduling System</td><td>Make a user-friendly scheduling interface for the front-end and an admin-side panel that integrates with Google Calendar and utilizes a matching algorithm to optimize technician assignments.</td><td>July 1, 2025</td></tr><tr><td>Real-Time Inventory Management Sys</td><td>Make a comprehensive inventory management for everything quantifiable like labor[availability, skillLevel, qualifications], hardware, software keys/licenses, etc.</td><td>October 1, 2025</td></tr><tr><td>Cross-platform mobile applications</td><td>Develop iOS and Android apps allowing users to interact with scheduling systems, inventory systems, and make payments to confirm reservations.</td><td>January 1, 2026</td></tr></tbody></table>
+<table><thead><tr><th>Task</th><th width="312">Description</th><th>Due-Date</th></tr></thead><tbody><tr><td>Start</td><td>Development begins</td><td>Jan 1, 2025</td></tr><tr><td>Django skeleton site, auth, and databases.</td><td>Build the framework for the website, databases, etc. Implement smart-card authentication and deploy it to Google Cloud.</td><td>May 1, 2025</td></tr><tr><td>Adaptive Scheduling System</td><td>Make a user-friendly scheduling interface for the front-end and an admin-side panel that integrates with Google Calendar and utilizes a matching algorithm to optimize technician assignments.</td><td>July 1, 2025</td></tr><tr><td>Real-Time Inventory Management Sys</td><td>Make a comprehensive inventory management for everything quantifiable like labor[availability, skillLevel, qualifications], hardware, software keys/licenses, etc.</td><td>October 1, 2025</td></tr><tr><td>Cross-platform mobile applications</td><td>Develop iOS and Android apps allowing users to interact with scheduling systems, inventory systems, and make payments to confirm reservations.</td><td>January 1, 2026</td></tr></tbody></table>
 
 
 
@@ -72,6 +72,40 @@ For my sanity & to make things a bit more concise, consider this table:
 * Put lines down for each month.
 * Include milestones.
 
+### PlantUML
+
+I went to plantUML's docs on gantt charts and spent way too much time reading the docs to make this:
+
+```java
+@startgantt
+projectscale monthly
+Project starts the 1st of january 2025
+
+[Django Auth] as [Task1] requires 120 days
+[Schedule] as [Task2] requires 60 days 
+[Inventory Sys] as [Task3] requires 90 days
+[Mobile Apps] as [Task4] requires 90 days
+
+[Task2] starts at [Task1]'s end
+[Task3] starts at [Task2]'s end
+[Task4] starts at [Task3]'s end
+
+@endgantt
+
+```
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+After learning some syntax and spending literally 45m on this tiny chart, I tried putting some subtasks into Chat GPT and having it write the UML code, but it always gets the syntax wrong and wasn't very helpful. Since subtasks weren't required for this project, I'm going to skip over them in this graph.&#x20;
+
 ## Proposed Budget Plot
 
 By month, show the breakdown. CUMULATIVE.
+
+
+
+## Errors
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-10-13 at 15.14.02.png" alt=""><figcaption></figcaption></figure>
