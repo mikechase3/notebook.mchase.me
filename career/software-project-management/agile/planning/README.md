@@ -30,13 +30,13 @@ Images/works cited:
 * Often represented in comic book form.
 * Tells devs about **what users want**, need, and behave.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 #### User Scenarios
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
 
 
 
