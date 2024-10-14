@@ -418,6 +418,7 @@
     * [Ray Casting](https://en.wikipedia.org/wiki/Ray\_casting)
   * [Game Dev Universal .GitIgnore](compscidev/game-development/game-dev-universal-.gitignore.md)
   * [Gaming History/Theory](compscidev/game-development/gaming-history-theory/README.md)
+    * [misc](compscidev/game-development/gaming-history-theory/misc-to-sort.md)
     * [Genres](compscidev/game-development/gaming-history-theory/genres.md)
     * [Goals of Video Games](compscidev/game-development/gaming-history-theory/goals-of-video-games.md)
     * [Gaming on PCs](compscidev/game-development/gaming-history-theory/gaming-on-pcs.md)
