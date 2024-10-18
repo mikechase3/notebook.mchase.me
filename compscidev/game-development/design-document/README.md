@@ -115,6 +115,3 @@ If your game has a story, this section contains the narrative elements of your g
 * Sound FX, ambient music, collisions with obstacles.&#x20;
 
 
-# Coin Dash w/ 4D Wormhole Time Travel
-* **Concept Statement**: Foxy and Friend's Space Adventure
-
