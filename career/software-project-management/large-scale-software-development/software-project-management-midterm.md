@@ -23,7 +23,11 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
 * [ ] Use the mock budget attached.
 * [ ] 12 point times new roman font with 1" margins with excel spreadsheets and charts attached in the document and as separate attachments.&#x20;
 
-### Topic - Digital Twin Simulation
+### Review -  Digital Twin Simulation Stealth Spray Painting
 
-Specifically: create a digital twin VR/AR tool which offers a way for manufacturing plants to safely train their employees.&#x20;
+Specifically: create a digital twin VR/AR tool which offers a way for manufacturing plants to safely train their employees.
 
+Here's some scenarios I could choose from:
+
+1. Digital twin of spray-painting process of stealth parts and material properties of the paints. Components are 1) real-time data acquisition ofputting sensors on paint cans and analyzing which layers, angles, and power settings get used during the process. The physics and material properties of the paint & the ergonomics of how employees should position themselves and move while painting are important. **Components:** a real time data acquisition uses sensors on spray-painting equipment to gather data on factors like pressure, speed, and paint flow. The VR training module will let trainees interact with the digital twin with scenairos that mimic real-life conditions, allowing those users to practice without the risk of waste or injury. Then there's a feedback system that AI can use to provide instant feedback based on the trainee's actions, allowing for cusomized training experiences.&#x20;
+2.
