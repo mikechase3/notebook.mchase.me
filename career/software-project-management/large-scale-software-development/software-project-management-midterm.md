@@ -1,6 +1,6 @@
 # Software Project Management Midterm
 
-View [here](https://notebook.mchase.me/career/software-project-management/large-scale-software-development/software-project-management-midterm) and please… for the love of love, ignore everything below. Didn’t think I’d need to send accommodations but it’s been a doozy and girlfriend has been quite sick today and so have I.
+View [here](https://notebook.mchase.me/career/software-project-management/large-scale-software-development/software-project-management-midterm) and please… for the love of love, ignore everything below. Didn’t think I’d need to send accommodations but it’s been a doozy and girlfriend has been quite sick today and so have I..
 
 ## Digital Twin - Manufacturing, An AR/VR Simulation for Aircraft Maintenance Routine
 
@@ -50,9 +50,13 @@ Here is a table of proposed technical tasks for the VR development of the aircra
 
 ### Deliverable 3: Gantt chart
 
-So. I found some nice software to make my Gantt chart and this is going to be a problem because it’s unreadable. Here’s an export in a different way but I’ll resubmit and pass a link because this is still quite bad.
+{% hint style="info" %}
+See appendix C for a digital approach I tried, but was too time-consuming.
+{% endhint %}
 
 
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Deliverable 4: Charts!
 
@@ -136,9 +140,11 @@ I used an LLM to clean this up, but left my original:
 
 ### Appendix C: Merlin Software
 
-In the [prior](../as02-estimating-budget-and-time.md) software project management scenario, I learned plantuml which took too much time learning syntax. This time, I learned Merlin
+
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-10-19 at 08.58.50.png" alt=""><figcaption></figcaption></figure>
+
+In the [prior](../as02-estimating-budget-and-time.md) software project management scenario, I learned plantuml which took too much time learning syntax. This time, I learned Merlin
 
 The printouts are a bit better, but I need to adjust the scale to a month-by-month view instead of individual links.&#x20;
 
