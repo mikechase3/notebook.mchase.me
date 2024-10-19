@@ -1,4 +1,5 @@
 # Software Project Management Midterm
+View [here][1] and please… for the love of love, ignore everything below. Didn’t think I’d need to send accommodations but it’s been a doozy and girlfriend has been quite sick today and so have I.
 
 
 
@@ -38,38 +39,45 @@ Here is a table of proposed technical tasks for the VR development of the aircra
 
 ### Deliverable 2: Table of Technical Tasks
 
-| **Technical Task**                      | **Description**                                                                                                                                     |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Requirements Gathering**           | Collaborate with subject matter experts to define detailed training requirements and objectives for the VR simulation.                              |
-| **2. Environment Design**               | Create a virtual environment that mimics a realistic aircraft maintenance workshop, including a workbench, tools, and aircraft model.               |
-| **3. 3D Modeling of Aircraft Parts**    | Develop or source high-quality 3D models of aircraft components such as propellers, tires, brakes, and fuel systems for use in the simulation.      |
-| **4. Simulation Mechanics Design**      | Design the interaction mechanics for performing maintenance tasks, including gripping tools, executing checks, and managing errors.                 |
-| **5. Step-by-Step Instruction Logic**   | Implement a system that provides step-by-step verbal and visual guidance for each maintenance task within the simulation.                           |
-| **6. Error Management System**          | Incorporate a feedback mechanism that allows users to receive hints or corrective measures when they make mistakes during tasks.                    |
-| **7. Performance Tracking**             | Develop a module to track user performance metrics such as completion time, accuracy of tasks, and hint usage during maintenance checks.            |
-| **8. User Interface Design**            | Create an intuitive user interface that includes menus for task selection, performance review, and instructional content.                           |
-| **9. Testing & Quality Assurance**      | Conduct thorough testing of the simulation for functionality, usability, and adherence to training objectives; gather feedback for refinement.      |
-| **10. Deployment Planning**             | Prepare the VR simulation for deployment on specified platforms, including desktop computers and Oculus Quest 2 headsets, and ensure compatibility. |
-| **11. Educational Content Development** | Develop supplementary training materials and documentation that support the VR simulation and enhance learning outcomes.                            |
-| **12. Post-Launch Support & Updates**   | Provide ongoing technical support after launch, including updates based on user feedback and advancements in maintenance procedures.                |
+| **Technical Task**                    | **Description**                                                                                                                                                               |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Requirements Gathering**         | PM will collaborate with subject matter experts to review documents, establish a course of action, and check in with customers throughout the year.                           |
+| **2. Environment Design**             | Have a developer work with an artist to create a virtual environment that mimics a realistic aircraft maintenance workshop, including a workbench, tools, and aircraft model. |
+| **3. Simulation Mechanics Design**    | Get a dev to design the interaction mechanics. They need to pickup/interact with tools, execute the line check, and manage errors.                                            |
+| **4. Step-by-Step Instruction Logic** | Implement a system that provides step-by-step  visual guidance through the HUD for each maintenance task within the simulation.                                               |
+| **5. Error Management System**        | Incorporate a feedback mechanism that allows users to receive hints or corrective measures when they make mistakes during tasks.                                              |
+| **6. Performance Tracking**           | Develop something like a csv/report to track user performance metrics such as completion time, accuracy of tasks, and hint usage during maintenance checks.                   |
+| **7. User Interface Design**          | Create a user interface that includes menus for task selection, performance review, and other available content for both students and instructors.                            |
+| **8. Deployment**                     | Prepare the VR simulation for deployment on specified platforms, including desktop computers and Oculus Quest Headsets.                                                       |
 
-### Deliverable 3: Gantt chart 
-```md
-@startgantt
-Project starts 2024-01-01
-[Requirements Gathering] starts 2024-01-01 and ends 2024-01-30
-[Environment Design] starts 2024-02-01 and ends 2024-03-31
-[3D Modeling of Aircraft Parts] starts 2024-04-01 and ends 2024-06-30
-[Simulation Mechanics Design] starts 2024-07-01 and ends 2024-07-30
-[Step-by-Step Instruction Logic] starts 2024-08-01 and ends 2024-08-30
-[Error Management System] starts 2024-08-15 and ends 2024-09-14
-[Performance Tracking] starts 2024-09-01 and ends 2024-09-30
-[User Interface Design] starts 2024-09-01 and ends 2024-09-30
-[Testing & Quality Assurance] starts 2024-10-01 and ends 2024-11-30
-[Deployment Planning] starts 2024-12-01 and ends 2024-12-30
-[Educational Content Development] starts 2024-11-01 and ends 2024-12-31
-@endgantt
-```
+### Deliverable 3: Gantt chart
+So. I found some nice software to make my Gantt chart and this is going to be a problem because it’s unreadable. Here’s an export in a different way but I’ll resubmit and pass a link because this is still quite bad.
+
+|       |              |                                     |             |                      |           |              |
+| ----- | ------------ | ----------------------------------- | ----------- | -------------------- | --------- | ------------ |
+| \\#   | Traits       | Title                               | Given Work  | Given Earliest Start | Resources | Predecessors |
+| **1** | **Is Group** | **Project Management**              | **45 days** |                      |           |              |
+| 2     |              | Customer Meeting                    | 5 days      |                      |           |              |
+| 3     |              | Create Project Plans                | 5 days      |                      |           | 2            |
+| 4     |              | Collaborate with SME                | 5 days      |                      |           | 3            |
+| 5     |              | Document requirements and feedback  | 20 days     |                      |           | 3            |
+| 6     |              | More collaboration with SME         | 5 days      |                      |           | 5            |
+| 7     |              | Finalize Requirements               | 5 days      |                      |           | 6            |
+| **8** | **Is Group** | **Environment Design**              | **40 days** |                      |           | **1**        |
+| 9     |              | Gather reference materials          | 10 days     |                      |           |              |
+| 10    |              | Collaborate with artist for concept | 20 days     |                      |           | 9            |
+| 11    |              | Sim Mechanics Design                | 50 days     |                      |           | 10           |
+| 12    |              | Procedure Programming               | 50 days     |                      |           | 11           |
+| 13    |              | Error Management Sys                | 15 days     |                      |           | 12           |
+| 14    |              | Performance Tracking Sys            | 15 days     |                      |           | 13           |
+| 15    |              | Make User Interface and HUD         | 20 days     |                      |           | 14           |
+| 16    |              | Deployment                          | 30 days     |                      |           | 15           |
+| 17    |              | Buffer Time                         | 20 days     |                      |           |              |
+
+
+### Deliverable 4: Charts!
+
+ 
 
 ## Appendices
 ### Appendix A: Understanding the Assignment
@@ -79,7 +87,7 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
 * [ x] &#x20;Write a 1-2 page review of the subject matter. Include major competitors, technical background of the area, history of the topic, and current best practices.&#x20;
 * [ x] Create a table that lists proposed technical tasks for the project. Give a two-sentence explanation of the task with at least eight technical tasks.
 * [x] Graphically created a task list containing major and subtasks within a Gantt chart.&#x20;
-  - [ ] Include selected _completion_ or due dates .&#x20;
+  - [ x] Include selected _completion_ or due dates .&#x20;
 * [ ] Create a table displaying staff & their total hour breakdown/cost.
   - [ ] Total hour breakdown
   - [ ] Cost across the whole project.&#x20;
@@ -155,3 +163,5 @@ I used an LLM to clean this up, but left my original:
 > *  Expected to enhance learning curve for technicians
 > *  Ensures accuracy and increases preparedness
 > *  Expedites learning times. 
+
+[1]:	https://notebook.mchase.me/career/software-project-management/large-scale-software-development/software-project-management-midterm
