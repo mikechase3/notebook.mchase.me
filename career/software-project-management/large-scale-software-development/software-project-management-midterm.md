@@ -44,21 +44,73 @@ The implementation of AR/VR technologies is expected to enhance the learning cur
 
 Here is a table of proposed technical tasks for the VR development of the aircraft maintenance training simulation:
 
-### Deliverable 2: Table of Technical Tasks
+### Deliverable 2: Table of Technical Tasks & Work Breakdown Structure
 
-<table data-header-hidden><thead><tr><th width="106" data-type="number">#</th><th>Technical Task</th><th>Description</th><th>Due</th></tr></thead><tbody><tr><td>1</td><td><strong>1. Requirements Gathering</strong></td><td>PM will collaborate with subject matter experts to review documents, establish a course of action, and check in with customers throughout the year.</td><td></td></tr><tr><td>1.1</td><td>Dev Kickoff Meeting</td><td></td><td>2024 Jan 05</td></tr><tr><td>1.2</td><td>Create Proj Plans</td><td></td><td>2024JAN10</td></tr><tr><td>1.3</td><td></td><td></td><td></td></tr><tr><td>2</td><td><strong>Environment Design</strong></td><td>Have a developer work with an artist to create a virtual environment that mimics a realistic aircraft maintenance workshop, including a workbench, tools, and aircraft model.</td><td></td></tr><tr><td>2.1</td><td></td><td></td><td></td></tr><tr><td>null</td><td></td><td></td><td></td></tr><tr><td>null</td><td><strong>3. Simulation Mechanics Design</strong></td><td>Get a dev to design the interaction mechanics. They need to pickup/interact with tools, execute the line check, and manage errors.</td><td></td></tr><tr><td>null</td><td><strong>4. Step-by-Step Instruction Logic</strong></td><td>Implement a system that provides step-by-step visual guidance through the HUD for each maintenance task within the simulation.</td><td></td></tr><tr><td>null</td><td><strong>5. Error Management System</strong></td><td>Incorporate a feedback mechanism that allows users to receive hints or corrective measures when they make mistakes during tasks.</td><td></td></tr><tr><td>null</td><td><strong>6. Performance Tracking</strong></td><td>Develop something like a csv/report to track user performance metrics such as completion time, accuracy of tasks, and hint usage during maintenance checks.</td><td></td></tr><tr><td>null</td><td><strong>7. User Interface Design</strong></td><td>Create a user interface that includes menus for task selection, performance review, and other available content for both students and instructors.</td><td></td></tr><tr><td>null</td><td><strong>8. Deployment</strong></td><td>Prepare the VR simulation for deployment on specified platforms, including desktop computers and Oculus Quest Headsets.</td><td></td></tr></tbody></table>
+| #   | Technical Task                             | Description                                                                                                                                                                                                                                                         | Start Date | End Date   |
+|-----|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|
+| 1   | **1. Requirements Gathering**              | PM will collaborate with the Subject-Matter Expert (SME) to understand the technical details of the Cessna's maintenance routines, including tire inspections. A sequence diagram will be created that the SME approves to ensure developer understanding.          | 2024-01-05 | 2024-01-31 |
+| 1.1 | Identify Common Errors                     | Research common errors during maintenance, such as loose nuts on the landing gear. This will help replicate these scenarios in the simulation for trainees to identify and correct.                                                                                 | 2024-01-15 | 2024-02-10 |
+| 2   | **2. Environment and Asset Design**        | Develop a realistic virtual environment that mimics an aircraft maintenance workshop, focusing on detailed models like the Cessna aircraft and its various components. This includes creating intricate assets such as the aircraft tires and workbench components. | 2024-02-11 | 2024-03-31 |
+| 3   | **3. Designing Simulation Game Mechanics** | Design the interaction mechanics that allow users to interact with virtual tools and perform tasks. Implement methods for picking up items and reading clipboard instructions effectively.                                                                          | 2024-04-01 | 2024-05-15 |
+| 3.1 | Implement Tool Interactions                | Create mechanics for users to grasp tools, such as a wrench, and visualize required movements through on-screen arrows to guide their actions in VR. This involves determining how tool manipulation will function within the simulation.                           | 2024-04-15 | 2024-05-15 |
+| 4   | **4. Step-by-Step Instruction Logic**      | Collaborate with the SME to review the sequence diagram and finalize the visual guidance system. Together with developers, outline how tool collisions will work in the simulation.                                                                                 | 2024-05-16 | 2024-06-10 |
+| 4.1 | Define Collision Mechanics                 | Work with developers to determine whether tools snap to corners or if specific rotational parameters are needed for interaction. This step is crucial for creating a realistic user experience.                                                                     | 2024-06-11 | 2024-06-30 |
+| 5   | **5. Error Management System**             | Develop a feedback system that alerts users to mistakes and provides corrective hints during maintenance tasks. Work on embedding this feedback mechanism within the simulation.                                                                                    | 2024-07-01 | 2024-08-05 |
+| 6   | **6. Performance Tracking**                | Design and implement a reporting system that tracks user performance metrics, including task completion times and accuracy. Ensure data is collected effectively for analysis.                                                                                      | 2024-07-01 | 2024-08-05 |
+| 7   | **7. User Interface Design**               | Develop the user interface for the simulation, including buttons for starting the game, navigation menus, and displaying the HUD with performance metrics. Include final polishing touches before deployment.                                                       | 2024-08-06 | 2024-09-30 |
+| 8   | **8. Deployment**                          | Prepare the VR simulation for deployment by optimizing assets, reducing polygon counts for smooth performance on devices like Oculus Quest 2. Publish the app on the research website and Oculus stores.                                                            | 2024-10-01 | 2024-12-15 |
+
 
 ### Deliverable 3: Gantt chart
 
 {% hint style="info" %}
-See appendix C for a digital approach I tried, but was too time-consuming.
+See appendix C for a digital approach I tried, but ended up being too time-consuming.
 {% endhint %}
 
 
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Deliverable 4: Charts!
+### Deliverable 4: Labor Breakdowns
+
+### Role Table
+
+### Pay Rates Table
+
+|     | PM  | JunDev1 | JunDev2 | JunDev3 | SenDev1 | SenDev2 | SME1 | SME2 | 3D Modeler 1 | 3D Modeler 2 |
+|-----|-----|---------|---------|---------|---------|---------|------|------|--------------|--------------|
+| Pay | $50 | $35     | $35     | $35     | $80     | $80     | $120 | $120 | $35          | $35          |
+
+3D Pay rate salaries are from Indeed. 
+
+
+### Estimated Hours Distribution & Cost Calculation
+
+**Estimated Total Hours per Role:** 
+
+| Blank               | PM  | JunDev1 | JunDev2 | JunDev3 | SenDev1 | SenDev2 | SME1 | SME2 | 3D Modeler 1 | 3D Modeler 2 | Total Hours |
+|---------------------|-----|---------|---------|---------|---------|---------|------|------|--------------|--------------|-------------|
+| Total Project Hours | 960 | 480     | 480     | 480     | 960     | 960     | 480  | 480  | 960          | 960          | **4800**    |
+
+
+**Total Cost Break Down Table**
+
+| Task                                | PM Hours | JunDev1 Hours | JunDev2 Hours | JunDev3 Hours | SenDev1 Hours | SenDev2 Hours | SME1 Hours | SME2 Hours | 3D Modeler 1 Hours | 3D Modeler 2 Hours | Total Cost   |
+|-------------------------------------|----------|---------------|---------------|---------------|---------------|---------------|------------|------------|--------------------|--------------------|--------------|
+| Requirements Gathering              | 192      | 48            | 48            | 48            | 144           | 144           | 72         | 72         | 0                  | 0                  | $23,520      |
+| Environment and Asset Design        | 96       | 48            | 48            | 48            | 60            | 60            | 60         | 60         | 160                | 160                | $87,840      |
+| Designing Simulation Game Mechanics | 96       | 72            | 72            | 72            | 288           | 288           | 0          | 0          | 96                 | 96                 | $69,120      |
+| Step-by-Step Instruction Logic      | 144      | 72            | 72            | 0             | 96            | 0             | 72         | 0          | 0                  | 0                  | $28,320      |
+| Error Management System             | 96       | 48            | 48            | 0             | 96            | 0             | 0          | 0          | 48                 | 0                  | $14,760      |
+| Performance Tracking                | 96       | 48            | 48            | 0             | 96            | 0             | 96         | 0          | 0                  | 0                  | $23,520      |
+| User Interface Design               | 48       | 48            | 48            | 0             | 48            | 0             | 24         | 0          | 24                 | 0                  | $7,200       |
+| Deployment                          | 48       | 24            | 24            | 0             | 48            | 0             | 48         | 0          | 0                  | 0                  | $5,760       |
+| **Total Cost**                      | **720**  | **408**       | **408**       | **168**       | **576**       | **288**       | **432**    | **120**    | **432**            | **288**            | **$410,520** |
+
+
+
+### Deliverable 5: 
+
 
 ## Appendices
 
@@ -70,9 +122,9 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
 * [ ] \[ x] Create a table that lists proposed technical tasks for the project. Give a two-sentence explanation of the task with at least eight technical tasks.
 * [x] Graphically created a task list containing major and subtasks within a Gantt chart.
   * \[ x] Include selected _completion_ or due dates .
-* [ ] Create a table displaying staff & their total hour breakdown/cost.
-  * [ ] Total hour breakdown
-  * [ ] Cost across the whole project.
+* [x] Create a table displaying staff & their total hour breakdown/cost.
+  * [x] Total hour breakdown
+  * [x] Cost across the whole project.
 * [ ] Create a monthly line graph to visualize and predict how expenses are distributed over time, with each month representing the x-axis (independent variable) and the total cost as the y-axis (dependent variable).
   * [ ] Plot a budget as y=$budget
   * [ ] Add axes, a title, axes titles, legend.
@@ -85,17 +137,6 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
 * [ ] Use the mock budget attached.
 * [ ] 12 point times new roman font with 1" margins with excel spreadsheets and charts attached in the document and as separate attachments.
 
-#### Draft Snippets
-
-TODO: remove
-
-#### Review - Digital Twin Simulation Stealth Spray Painting
-
-Specifically: create a digital twin VR/AR tool which offers a way for manufacturing plants to safely train their employees.
-
-Here's some scenarios I could choose from:
-
-1. Digital twin of spray-painting process of stealth parts and material properties of the paints. Components are 1) real-time data acquisition of putting sensors on paint cans and analyzing which layers, angles, and power settings get used during the process. The physics and material properties of the paint & the ergonomics of how employees should position themselves and move while painting are important. **Components:** a real time data acquisition uses sensors on spray-painting equipment to gather data on factors like pressure, speed, and paint flow. The VR training module will let trainees interact with the digital twin with scenairos that mimic real-life conditions, allowing those users to practice without the risk of waste or injury. Then there's a feedback system that AI can use to provide instant feedback based on the trainee's actions, allowing for cusomized training experiences.
 
 ### Appendix B: Original Review of Projects
 
