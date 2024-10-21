@@ -679,6 +679,7 @@
   * [Super Crooks](entertainment/reports/super-crooks.md)
   * [Spy x Family](entertainment/reports/spy-x-family.md)
 * [Before The Internet](https://internetkhole.com/)
+* [Movies](entertainment/movies/movies.md)
 * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
 * [Sci-Fi](entertainment/sci-fi/README.md)
   * [Time Travel Guide](https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/?utm\_source=nl\&utm\_brand=ars\&utm\_campaign=aud-dev\&utm\_mailing=Ars\_Orbital\_112923\&utm\_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm\_content=Final\&utm\_term=ARS\_OrbitalTransmission)
