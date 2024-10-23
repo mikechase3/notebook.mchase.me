@@ -114,4 +114,45 @@ If your game has a story, this section contains the narrative elements of your g
 * This section can also list the media assets you will expect to utilize: sound effects, unique level music, etc.
 * Sound FX, ambient music, collisions with obstacles.&#x20;
 
+## Midterm Review
+### Game Overview
+* Title - the name of the game
+* Genre - define thetype of game (platformer, rpg, fighting, etc.)
+* Target audience - describe the intended audience (e.g., age group, casual, hardcore)
+* Platform - specify the platforms the game will be developed (for pc, console, mobile)
 
+### Game Mechanics
+* Core gampeplay - how the game is played, player objectives
+* Controls (e.g., keyboard, controller, touch input)
+* Player progression (e.g., levels, skills, power-ups)
+* Challenges and Obstacles (e.g., enemies, puzzles, hazards)
+
+### Story and Narrative
+* Plot (summary of the main story)
+* Characters (protagonist, antagonist, supporting characters)
+* Setting (time, place, world description)
+* Backstory and Lore (history of the game world, key events)
+
+### Art and Aesthetics
+* Visual Style (eg pixel art, 3D, realism, cartoonish)
+* Character design (appearance, traits, costumes)
+* Environment Design (landscape, structure, color pallette)
+* User Interface (UI elements, HUD Design)
+
+### Sound and Music
+* Souond Effects (interaction sounds, environmental sounds)
+* Background Music (theme, mood, dynamic changes)
+* Voice Acting (if applicable, dialogue, character voices)
+* Audio Integration (how sound responds to in-game events)
+
+### World and Level Design
+* Level Structure (linear progression, open world, branching paths)
+* Pacing and Difficulty (how difficulty scales across levels)
+* Environment Interaction (destructible objects, NPC interaction)
+* Exploration and Secrets (hidden aras, collectibles, how do you go about the game)
+
+### Technical Specifications
+* Game Engine (Unity, Unreal, Godot)
+* Platform Support (PC, mobile, cross-platform)
+* Performance Targets (frame rate, resolution, load times)
+* Physics Systems (collision detection, gravity, AI behavior) 

@@ -60,3 +60,13 @@ PCs
 
 * **Netcode**: what is this? know it.
 * What kind of video game (describe it)
+
+## Review
+### Difference between B2B and B2C Business Model
+* Deeloping for a computing platform provides more flexibility 
+with hardware/software but is harder to ensure compatibility across different systems.
+* Developing for consoles offers a consistent hardware setup, making optimization
+easier, but has limitations.
+
+### Hero's Journey
+* Most people crushed that question and someone drew the hurculean cycle. 
