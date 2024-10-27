@@ -92,12 +92,15 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
 * [x] Create a table that lists proposed technical tasks for the project. Give a two-sentence explanation of the task with at least eight technical tasks.
 * [x] Graphically created a task list containing major and subtasks within a Gantt chart.
   * \[x] Include selected _completion_ or due dates
+  * [ ] Add in subtasks
 * [x] Create a table displaying staff & their total hour breakdown/cost.
   * [x] Total hour breakdown
   * [x] Cost across the whole project.
 * [x] Create a monthly line graph to visualize and predict how expenses are distributed over time, with each month representing the x-axis (independent variable) and the total cost as the y-axis (dependent variable).
   * [x] Plot a budget as y=$budget
   * [x] Add axes, a title, axes titles, legend.
+  * [ ] Change my chart to be month-by-month
+- [ ] Export to a word document with 1" margins and Times New Romans font.
 
 #### Requirements
 
