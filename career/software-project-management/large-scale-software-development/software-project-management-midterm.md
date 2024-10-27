@@ -78,9 +78,7 @@ Note - 3D Pay rate salaries are from Indeed.
 
 ### **Deliverable 5: Cumulative Cost Forecast**
 
-TODO: change this to month-to-month
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-20 at 16.44.00 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-27 at 00.52.50.png" alt=""><figcaption></figcaption></figure>
 
 ## Appendices
 
