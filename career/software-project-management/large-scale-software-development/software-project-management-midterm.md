@@ -6,6 +6,10 @@ description: >-
 
 # Software Project Management Midterm
 
+{% hint style="info" %}
+Available as a PDF [here](softProjMgmtMidtermPdf.pdf)
+{% endhint %}
+
 ## Digital Twin - Manufacturing, An AR/VR Simulation for Aircraft Maintenance Routine
 
 ### Deliverable 1: Review of the Subject Area: AR/VR Training Simulation for Aircraft Maintenance
@@ -58,8 +62,6 @@ Here is a table of proposed technical tasks for the VR development of the aircra
 TODO: include subtasks
 {% endhint %}
 
-
-
 {% hint style="info" %}
 See appendix C for a digital approach I tried, but ended up being too time-consuming.
 {% endhint %}
@@ -74,7 +76,7 @@ Note - 3D Pay rate salaries are from Indeed.
 
 #### In Plaintext for Readability
 
-<table><thead><tr><th width="87">Null</th><th width="261">Task</th><th width="68">Len (Mo)</th><th width="87">PM</th><th width="87">JuniorDev1</th><th width="87">JuniorDev2</th><th width="87">JuniorDev3</th><th width="87">SeniorDev1</th><th width="87">SeniorDev2</th><th width="87">SME</th><th width="87">Modeler1</th><th width="87">Modeler2</th><th width="100">Total Hours</th><th width="100">Cost Per Task</th></tr></thead><tbody><tr><td>$</td><td>Hourly Rate</td><td> N/A</td><td>50</td><td>35</td><td>35</td><td>35</td><td>80</td><td>80</td><td>120</td><td>35</td><td>35</td><td>N/A</td><td>N/A</td></tr><tr><td>1</td><td>Requirements Gathering</td><td>1</td><td>160</td><td>40</td><td>40</td><td>0</td><td>40</td><td>40</td><td>80</td><td>0</td><td>0</td><td>400</td><td> $      26,800.00</td></tr><tr><td>2</td><td>Environment and Core Asset Design</td><td>4</td><td>160</td><td>0</td><td>0</td><td>0</td><td>20</td><td>20</td><td>40</td><td>640</td><td>640</td><td>1520</td><td> $      60,800.00</td></tr><tr><td>3</td><td>Simulation Mechanics</td><td>5</td><td>200</td><td>800</td><td>800</td><td>0</td><td>100</td><td>100</td><td>200</td><td>100</td><td>100</td><td>2400</td><td> $   113,000.00</td></tr><tr><td>4</td><td>UI/HUD Design</td><td>3</td><td>120</td><td>480</td><td>480</td><td>0</td><td>60</td><td>60</td><td>60</td><td>120</td><td>0</td><td>1380</td><td> $      60,600.00</td></tr><tr><td>5</td><td>Implement Procedure Instructions</td><td>3</td><td>120</td><td>480</td><td>480</td><td>0</td><td>480</td><td>120</td><td>240</td><td>240</td><td>0</td><td>2160</td><td> $   124,800.00</td></tr><tr><td>6</td><td>User Feedback and Error Handling</td><td>1</td><td>40</td><td>80</td><td>80</td><td>0</td><td>160</td><td>40</td><td>40</td><td>80</td><td>0</td><td>520</td><td> $      31,200.00</td></tr><tr><td>7</td><td>Performance Tracking</td><td>1</td><td>80</td><td>80</td><td>80</td><td>0</td><td>20</td><td>20</td><td>40</td><td>80</td><td>0</td><td>400</td><td> $      20,400.00</td></tr><tr><td>8</td><td>Polishing and Deployment</td><td>1</td><td>80</td><td>40</td><td>40</td><td>0</td><td>80</td><td>80</td><td>40</td><td>160</td><td>0</td><td>520</td><td> $      30,000.00</td></tr><tr><td>SUM</td><td>Total Hours Per Role</td><td></td><td></td><td>960</td><td>2000</td><td>2000</td><td>0</td><td>960</td><td>480</td><td>740</td><td>1420</td><td>740</td><td>9300</td></tr><tr><td>SUM</td><td>Total Cost Per Role</td><td></td><td></td><td>48000</td><td>70000</td><td>70000</td><td>0</td><td>76800</td><td>38400</td><td>88800</td><td>49700</td><td>25900</td><td> $   467,600.00</td></tr></tbody></table>
+<table><thead><tr><th width="87">Null</th><th width="261">Task</th><th width="68">Len (Mo)</th><th width="87">PM</th><th width="87">JuniorDev1</th><th width="87">JuniorDev2</th><th width="87">JuniorDev3</th><th width="87">SeniorDev1</th><th width="87">SeniorDev2</th><th width="87">SME</th><th width="87">Modeler1</th><th width="87">Modeler2</th><th width="100">Total Hours</th><th width="100">Cost Per Task</th></tr></thead><tbody><tr><td>$</td><td>Hourly Rate</td><td>N/A</td><td>50</td><td>35</td><td>35</td><td>35</td><td>80</td><td>80</td><td>120</td><td>35</td><td>35</td><td>N/A</td><td>N/A</td></tr><tr><td>1</td><td>Requirements Gathering</td><td>1</td><td>160</td><td>40</td><td>40</td><td>0</td><td>40</td><td>40</td><td>80</td><td>0</td><td>0</td><td>400</td><td>$ 26,800.00</td></tr><tr><td>2</td><td>Environment and Core Asset Design</td><td>4</td><td>160</td><td>0</td><td>0</td><td>0</td><td>20</td><td>20</td><td>40</td><td>640</td><td>640</td><td>1520</td><td>$ 60,800.00</td></tr><tr><td>3</td><td>Simulation Mechanics</td><td>5</td><td>200</td><td>800</td><td>800</td><td>0</td><td>100</td><td>100</td><td>200</td><td>100</td><td>100</td><td>2400</td><td>$ 113,000.00</td></tr><tr><td>4</td><td>UI/HUD Design</td><td>3</td><td>120</td><td>480</td><td>480</td><td>0</td><td>60</td><td>60</td><td>60</td><td>120</td><td>0</td><td>1380</td><td>$ 60,600.00</td></tr><tr><td>5</td><td>Implement Procedure Instructions</td><td>3</td><td>120</td><td>480</td><td>480</td><td>0</td><td>480</td><td>120</td><td>240</td><td>240</td><td>0</td><td>2160</td><td>$ 124,800.00</td></tr><tr><td>6</td><td>User Feedback and Error Handling</td><td>1</td><td>40</td><td>80</td><td>80</td><td>0</td><td>160</td><td>40</td><td>40</td><td>80</td><td>0</td><td>520</td><td>$ 31,200.00</td></tr><tr><td>7</td><td>Performance Tracking</td><td>1</td><td>80</td><td>80</td><td>80</td><td>0</td><td>20</td><td>20</td><td>40</td><td>80</td><td>0</td><td>400</td><td>$ 20,400.00</td></tr><tr><td>8</td><td>Polishing and Deployment</td><td>1</td><td>80</td><td>40</td><td>40</td><td>0</td><td>80</td><td>80</td><td>40</td><td>160</td><td>0</td><td>520</td><td>$ 30,000.00</td></tr><tr><td>SUM</td><td>Total Hours Per Role</td><td></td><td></td><td>960</td><td>2000</td><td>2000</td><td>0</td><td>960</td><td>480</td><td>740</td><td>1420</td><td>740</td><td>9300</td></tr><tr><td>SUM</td><td>Total Cost Per Role</td><td></td><td></td><td>48000</td><td>70000</td><td>70000</td><td>0</td><td>76800</td><td>38400</td><td>88800</td><td>49700</td><td>25900</td><td>$ 467,600.00</td></tr></tbody></table>
 
 ### **Deliverable 5: Cumulative Cost Forecast**
 
@@ -89,7 +91,7 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
 * [x] Write a 1-2 page review of the subject matter. Include major competitors, technical background of the area, history of the topic, and current best practices.
 * [x] Create a table that lists proposed technical tasks for the project. Give a two-sentence explanation of the task with at least eight technical tasks.
 * [x] Graphically created a task list containing major and subtasks within a Gantt chart.
-  * \[x] Include selected _completion_ or due dates
+  * [ ] \[x] Include selected _completion_ or due dates
   * [ ] Add in subtasks
 * [x] Create a table displaying staff & their total hour breakdown/cost.
   * [x] Total hour breakdown
@@ -98,7 +100,7 @@ There's a list of plans. Pick one topic area and do a project plan. Then do the 
   * [x] Plot a budget as y=$budget
   * [x] Add axes, a title, axes titles, legend.
   * [ ] Change my chart to be month-by-month
-- [ ] Export to a word document with 1" margins and Times New Romans font.
+* [ ] Export to a word document with 1" margins and Times New Romans font.
 
 #### Requirements
 
