@@ -208,3 +208,35 @@ Examples:
 * Charles Smith (Red Red Redemption 2)
 
 
+## Story Structure
+### Lecture Summary: Creating the Narrative - Story Structure
+
+#### Overview
+This lecture focuses on the unique elements of storytelling within games, contrasting them with traditional narrative forms. By the end of the session, students will be equipped to:
+
+- Identify and understand the key differences in story elements between games and other media.
+- Analyze how these differences affect player experience and engagement. 
+
+Key topics covered will include the structure of narratives in games, including character development, plot progression, and player choices, as well as the implications of interactive storytelling.
+
+### Terminology and Key Points on Story Structure
+
+#### Key Terminology:
+- **Jungian Archetypes**: Fundamental, universal symbols and themes that resonate with human experience, often used in character development and narrative structures.
+- **Monomyth (Hero’s Journey)**: Joseph Campbell's concept of a universal narrative structure common in many stories, detailing stages such as the Call to Adventure, Tests, and the Return.
+- **Three-Act Structure**: A traditional narrative framework that divides a story into Setup, Confrontation, and Resolution.
+- **Five-Act Structure**: An extended narrative structure that includes Exposition, Rising Action, Climax, Falling Action, and Denouement.
+- **Non-linear Storytelling**: A narrative style where events are not presented in chronological order, allowing for flashbacks, parallel storylines, or player-driven progression.
+
+#### Major Points on Types of Story Structure:
+- **Linear Structure**: A straightforward approach where the story advances in a single direction from beginning to end.
+- **Branching Structure**: A format where player choices lead to different outcomes and story paths, providing a sense of agency.
+- **Open World Structure**: A narrative design that allows players to explore and interact with a world at their own pace, with stories emerging from exploration.
+- **Episodic Structure**: A series of self-contained stories that contribute to a larger narrative arc, often seen in games with multiple chapters or episodes.
+- **Character-Centric Structure**: Focuses on character development and personal arcs, emphasizing emotional journeys alongside plot progression. 
+
+These concepts provide a foundation for understanding how narratives are constructed within games and how they may differ from traditional storytelling methods.
+
+
+
+

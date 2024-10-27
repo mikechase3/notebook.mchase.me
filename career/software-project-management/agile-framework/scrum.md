@@ -1,5 +1,5 @@
 ---
-description: Most popular implementation of agile
+description: Most popular implementation of agile-framework
 ---
 
 # Scrum
