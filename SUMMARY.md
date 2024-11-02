@@ -1067,3 +1067,5 @@
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](<writing/writing-samples/2023 (1).md>)
+  * [2024](writing/writing-samples/2024/README.md)
+    * [2024 Presidential Election](writing/writing-samples/2024/2024-presidential-election.md)
