@@ -814,6 +814,7 @@
 * [Dayton OH](leisure/dayton-oh/README.md)
   * [Downtown Housing FY24](https://downtowndayton.org/wp-content/uploads/2024/05/housingtour2024guide.pdf)
   * [Metroparks](leisure/dayton-oh/metroparks.md)
+  * [restaurants](leisure/dayton-oh/restaurants)
 * [Gem City Catfe](leisure/gem-city-catfe.md)
 * [Guns](leisure/guns.md)
 * [Kiwiah Beach Cam](https://kica.us/beach-cam/)
@@ -1067,11 +1068,5 @@
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
   * [2023](writing/writing-samples/2023/README.md)
-<<<<<<< HEAD
   * [2024](writing/writing-samples/2024/README.md)
     * [2024 Presidential Election](writing/writing-samples/2024/2024-presidential-election.md)
-=======
-- [restaurants](leisure/dayton-oh/restaurants)
-* [2024](writing/writing-samples/2024/README.md)
-  * [2024 Presidential Election](writing/writing-samples/2024/2024-presidential-election.md)
->>>>>>> a7db427 (Updated SUMMARY.md to fix AS01 Scoping link and added entries for 2024 Presidential Election.)
