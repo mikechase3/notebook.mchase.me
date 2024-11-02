@@ -1066,6 +1066,12 @@
     * [Why I Became a CS Major](writing/writing-samples/looking-back-on-my-year-that-was-2021/why-i-became-a-cs-major.md)
   * [2022](writing/writing-samples/2022/README.md)
     * [Dayton2DC](writing/writing-samples/2022/dayton2dc.md)
-  * [2023](<writing/writing-samples/2023 (1).md>)
+  * [2023](writing/writing-samples/2023/README.md)
+<<<<<<< HEAD
   * [2024](writing/writing-samples/2024/README.md)
     * [2024 Presidential Election](writing/writing-samples/2024/2024-presidential-election.md)
+=======
+- [restaurants](leisure/dayton-oh/restaurants)
+* [2024](writing/writing-samples/2024/README.md)
+  * [2024 Presidential Election](writing/writing-samples/2024/2024-presidential-election.md)
+>>>>>>> a7db427 (Updated SUMMARY.md to fix AS01 Scoping link and added entries for 2024 Presidential Election.)
