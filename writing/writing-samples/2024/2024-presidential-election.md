@@ -1,14 +1,6 @@
 # 2024 Presidential Election
 
-When I grew up,&#x20;
-
-
-
-People close to me are split in the upcoming election. Generally, I have been against the donald as they say, but&#x20;
-
-
-
-My girlfriend is in favor of voting for Donald Trump and so is my therapist. I recall during his 2016 presidence not liking him very much,&#x20;
+Certain people in my life are split on the 2024 election.
 
 
 

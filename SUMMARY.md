@@ -138,6 +138,8 @@
   * [Design Patterns](career/software-project-management/design-patterns/README.md)
     * [Catalog (Ref Guru)](https://refactoring.guru/design-patterns/catalog)
     * [OODesign](https://www.oodesign.com/)
+  * [Execution](career/software-project-management/execution/execution.md)
+    * [as03](career/software-project-management/execution/as03-low-level-subtasks.md)
   * [Large-Scale Software Development](career/software-project-management/large-scale-software-development/README.md)
     * [Software Project Management Midterm](career/software-project-management/large-scale-software-development/software-project-management-midterm.md)
   * [MythManMonth](career/software-project-management/mythicalManMonth.md)

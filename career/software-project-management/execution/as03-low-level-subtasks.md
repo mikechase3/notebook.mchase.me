@@ -1,11 +1,12 @@
 # AS03 Sprint Planning Task Breakdown
 
 ## Project Overview
-The assignments I chose so far are part of a larger goal of creating my own platform for my small business, DAM-IT LLC
+The assignments I chose so far are part of a larger goal of creating my own
+platform for my small business, DAM-IT LLC
 which is a brick-and-mortar tech business that provides on-site service, affordable device rentals, and same day service.
 The "grand idea" is an uber-style service that manages inventory, availability, and gives customers access to that info.
 
-I'm going to select two tasks from the [second assignment.](/career/software-project-management/as02-estimating-budget-and-time.md)
+I'm going to select two tasks from the [second assignment.][1]
 Since the timeline of that entire project was one year and this takes over the course of two sprints, the timeline
 will be shortened to complete each task in two weeks. Specifically, it will be shortened to build a **prototype**
 application:
@@ -18,11 +19,11 @@ application:
 My _as02_ table of the overarching project is listed below for reference; however, we'll only be focusing on the first two.
 
 | Task                                       | Description                                                                                                                                                                                    | Due Date     |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | Start                                      | Development begins                                                                                                                                                                             | Jan 1, 2025  |
 | Django skeleton site, auth, and databases. | Build the framework for the website, databases, etc. Implement smart-card authentication and deploy it to Google Cloud.                                                                        | May 1, 2025  |
 | Adaptive Scheduling System                 | Make a user-friendly scheduling interface for the front-end and an admin-side panel that integrates with Google Calendar and utilizes a matching algorithm to optimize technician assignments. | July 1, 2025 |
-| Real-Time Inventory Management Sys         | Make a comprehensive inventory management for everything quantifiable like labor\[availability, skillLevel, qualifications], hardware, software keys/licenses, etc.                            | Oct 1, 2025  |
+| Real-Time Inventory Management Sys         | Make a comprehensive inventory management for everything quantifiable like labor\\[availability, skillLevel, qualifications], hardware, software keys/licenses, etc.                           | Oct 1, 2025  |
 | Cross-platform mobile applications         | Develop iOS and Android apps allowing users to interact with scheduling systems, inventory systems, and make payments to confirm reservations.                                                 | Jan 1, 2026  |
 
 
@@ -52,7 +53,7 @@ the employee's qualifications and their Google Calendar using G-Cal API calls.
 ### Sprint Backlog
 
 | Task Name                                 | Assignee    | Time (hrs) | Definition of Done                                                                                               |          |
-|-------------------------------------------|-------------|------------|------------------------------------------------------------------------------------------------------------------|----------|
+| ----------------------------------------- | ----------- | ---------- | ---------------------------------------------------------------------------------------------------------------- | -------- |
 | Set up Google Cloud Environment           | Developer 1 | 40         | Google Cloud account is created; Network/IP Filtering setup; security policy; sql instance setup.                | Critical |
 | Install Python and Django                 | Developer 1 | 20         | Compute engine setup; Python and Django are installed; a sample Django project runs successfully without errors. | Critical |
 | Documentation and User Guide              | Developer 1 | 16         | Documentation for installation and usage is complete and reviewed; user guide is created for FAQ.                | Medium   |
@@ -72,3 +73,6 @@ Here's how their hours stack up:
 * Dev3: 72hrs
 * Dev4: 76hrs
 
+Following this sprint is one developing the inventory management system for equipment. Following that or perhaps concurrently, mobile development begins.
+
+[1]:	/career/software-project-management/as02-estimating-budget-and-time.md
