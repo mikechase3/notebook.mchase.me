@@ -145,6 +145,7 @@
   * [MythManMonth](career/software-project-management/mythicalManMonth.md)
   * [PM Memes](career/software-project-management/pm-memes.md)
   * [Uber/Lyft Model](https://www.youtube.com/watch?v=R\_agd5qZ26Y)
+  * [Risk Management Frameworks & Cybersecurity Applications](career/software-project-management/risk-management-frameworks-and-cybersecurity-applications.md)
 * [Time Management](career/time-management/README.md)
   * [Breaking Up Hard Tasks](career/time-management/breaking-up-hard-tasks.md)
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
