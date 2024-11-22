@@ -4,13 +4,13 @@
 
 * **Populations** describe entire collections of objects or outcomes about which information is _sought_.
 * **Tangible populations** already exist; they are not hypothetical future things.
-* **Conceptual populations** are hypothetical future predictions.&#x20;
+* **Conceptual populations** are hypothetical future predictions.
 
 ## 1.2: Summary Statistics
 
-* _**Sample Mean Formula:**_  $$\bar{X} = \frac{1}{n} \sum_{i=1}^{n} X_i$$  where x is a `1xn` array of data.
+* _**Sample Mean Formula:**_ $$\bar{X} = \frac{1}{n} \sum_{i=1}^{n} X_i$$ where x is a `1xn` array of data.
 * The bar over X denotes a **sample mean**.
-* **Sample Variance** is the first step in finding the standard deviation. It is computed as follows**:** $$s^2 = \frac{1}{n-1}\sum_{i=1}^{n} (X_i - \bar{X})^2 \equiv \frac{1}{n-1}(\sum_{i=1}^{n}X_i^2 - n\bar{X}^2)$$. Its units are not the same as the sample values, and we take the square root of this to get the sample standard deviation by `s`.
+* **Sample Variance** is the first step in finding the standard deviation. It is computed as follows\*\*:\*\* $$s^2 = \frac{1}{n-1}\sum_{i=1}^{n} (X_i - \bar{X})^2 \equiv \frac{1}{n-1}(\sum_{i=1}^{n}X_i^2 - n\bar{X}^2)$$. Its units are not the same as the sample values, and we take the square root of this to get the sample standard deviation by `s`.
 * **Standard Deviation Formula**: $$s = \sqrt{\frac{1}{n-1}(\sum_{i=1}^{n}X_i^2 - n\bar{X}^2)}$$
 
 ### The $50 raise question
@@ -35,6 +35,6 @@ And what happens if I give everyone a $50 raise? The mean increases, but the pop
 > In a certain company, every worker received a 5% raise. How does this affect the mean salary and the standard deviation of the salaries?
 >
 > \
-> _Answer: The mean and standard deviation increase by 5%._
+> &#xNAN;_&#x41;nswer: The mean and standard deviation increase by 5%._
 
-* If we change the parameters to 5% instead of a fixed value, the mean will also increase.&#x20;
+* If we change the parameters to 5% instead of a fixed value, the mean will also increase.

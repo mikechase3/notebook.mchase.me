@@ -457,7 +457,7 @@ Progress: 90%
 
 **Canonical Device: a hypothetical interface used to illustrate the concepts of device interaction & I/O Management.**
 
-**Control registers allow the CPU to control the operation of the device. **_**example: select the mode of operation of the device or start a specific operation**_
+**Control registers allow the CPU to control the operation of the device.&#x20;**_**example: select the mode of operation of the device or start a specific operation**_
 
 * Registers are accessed by the CPU quickly/often. I'd guess interacting with the registers on that device is efficient/quick way to communicate on microcontrollers.
 
@@ -698,7 +698,7 @@ Progress: 55%
 Progress: 100%
 
 * Examples of Bare Metal Hypervisors\
-  Link: [en.wikipedia.org/wiki/Hypervisor#External\_links](https://en.wikipedia.org/wiki/Hypervisor#External\_links)
+  Link: [en.wikipedia.org/wiki/Hypervisor#External\_links](https://en.wikipedia.org/wiki/Hypervisor#External_links)
   * **Xen** (Open source or Citrix XenServer)
     * VMs are referred to as **domains**. There are two types:
       * **Dom0** is a privileged domain.
@@ -984,10 +984,10 @@ Progress: 66%
 
 Progress: 100%
 
-* \-C flag generates code that's not thread safe.
+* -C flag generates code that's not thread safe.
   * Output results in a function that will need to be called y=squareproc\_1\`
   * This leads to race conditions when multiple threads are trying to make RPC calls to this routine.
-* \-M generates thread safe code.
+* -M generates thread safe code.
   * Avoids issues that can occur with the non-thread safe implementation.
   * Creates a wrapper funciton for each RPC routine that's thread safe.
   * The wrapper function will dynamically allocate memory for the results ofthe operation

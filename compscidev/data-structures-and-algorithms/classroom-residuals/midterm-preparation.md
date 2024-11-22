@@ -191,8 +191,8 @@ C. T(n) = 2T(n/2) + O(n)\
 D. T(n) = T(n/2) + O(n)
 
 Answer Key: C Question 7 of 104.0 Points Which of the following is the recurrence function for finding the maximum subarray? A. T(n) = 2\_T(n/2) + n\_\
-_B. T(n) = T(n/2) + n_\
-_C. T(n) = T(n/2) + 2_\
+&#xNAN;_&#x42;. T(n) = T(n/2) + n_\
+&#xNAN;_&#x43;. T(n) = T(n/2) + 2_\
 \_D. T(n) = 2\_T(n/2) + 2
 
 Answer Key: A Question 8 of 104.0 Points Consider the attached figure, what problem does the method find() solve?

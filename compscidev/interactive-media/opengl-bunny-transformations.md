@@ -338,15 +338,7 @@ Before reading code, go back to the [quaternions](opengl-bunny-transformations.m
 
 
 
-<div>
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.26.14@2x.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.24.30.gif" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.26.14@2x.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.24.30.gif" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
@@ -475,7 +467,7 @@ The order in which you multiply matrices matters because the sequence determines
 
 Professor gave us some guidance.&#x20;
 
-> "Rotating an arbitrary line means... T\_1^-1 \* R\_2^-1 ... R\_0_R\_3_R\_2\*T\_1 \* P".
+> "Rotating an arbitrary line means... T\_1^-1 \* R\_2^-1 ... R\_&#x30;_&#x52;\_&#x33;_&#x52;\_2\*T\_1 \* P".
 
 Let's break this down:
 

@@ -8,8 +8,6 @@
 | Eigenvectors      | Find the eigenvector given a lambda that you solved for. | $$A \vec{v} = \lambda \vec{v} \Leftrightarrow A- \lambda I_n=0$$ |
 | P-D Factorization |                                                          | $$A=P D P^{-1}$$                                                 |
 
-
-
 ## Example
 
 {% embed url="https://www.youtube.com/watch?index=46&list=PL221E2BBF13BECF6C&v=mVeuZzJdd1w" %}
@@ -21,17 +19,17 @@
 Use the eigenvalues formula $$0=\texttt{det}(A - \lambda I_n)$$and substitute in the matrix A and identity matrix to get
 
 $$
-0= \texttt{det}(\begin{bmatrix} 1 & 2 & 3 \\ 0 & 1 & -2 \\ 0 & 1 & 4\end{bmatrix} - \lambda \begin{bmatrix} 1  & 0 & 0  \\ 0&1& 0 \\ 0 & 0 & 1 \end{bmatrix}) \Rightarrow \texttt{det}(\begin{bmatrix} 1- \lambda & 2 & 3 \\ 0 & 1- \lambda & -2 \\ 0 & 1 & 4 - \lambda \end{bmatrix})
+0= \texttt{det}(\begin{bmatrix} 1 & 2 & 3 \\ 0 & 1 & -2 \\ 0 & 1 & 4\end{bmatrix} - \lambda \begin{bmatrix} 1 & 0 & 0 \\ 0&1& 0 \\ 0 & 0 & 1 \end{bmatrix}) \Rightarrow \texttt{det}(\begin{bmatrix} 1- \lambda & 2 & 3 \\ 0 & 1- \lambda & -2 \\ 0 & 1 & 4 - \lambda \end{bmatrix})
 $$
 
-To find the determinant of a 3x3 matrix, use the formula you have to use cofactors, but I think you only have to do it once for some reason:&#x20;
+To find the determinant of a 3x3 matrix, use the formula you have to use cofactors, but I think you only have to do it once for some reason:
 
 $$
 0=(1-\lambda) \ast \texttt{det} \begin{bmatrix} 1 - \lambda & -2 \\ 1 & 4 - \lambda \end{bmatrix}
 $$
 
 $$
-\Rightarrow 0=(1 - \lambda)(\lambda^2 -5 \lambda + 6) \Rightarrow 0=(1-\lambda) (\lambda-2) (\lambda-3) \Rightarrow \lambda = 1, 2, 3
+ightarrow 0=(1 - \lambda)(\lambda^2 -5 \lambda + 6) \Rightarrow 0=(1-\lambda) (\lambda-2) (\lambda-3) \Rightarrow \lambda = 1, 2, 3
 $$
 
 {% hint style="info" %}
@@ -51,4 +49,3 @@ In summary, just use the formula, set it equal to zero, and solve for lambda.
 ![](<../../.gitbook/assets/CleanShot 2021-12-02 at 12.41.16@2x.jpg>)
 
 ![Your final answer would say that the eigenvectors are: .](<../../.gitbook/assets/CleanShot 2021-12-02 at 12.41.45@2x.jpg>)
-
