@@ -361,6 +361,7 @@
   * [MIPS](compscidev/electrical-hardware-topics/mips.md)
   * [Modulation](http://complextoreal.com/wp-content/uploads/2013/01/mod1.pdf)
   * [Quantum Computing](https://deepboltzer.codes/the-incredible-world-of-quantum-mechanics#heading-quantum-mechanics-fundamental-concepts)
+  * [The Transistor](compscidev/electrical-hardware-topics/the-transistor.md)
 * [ENV/OS Setups](compscidev/env-os-setups/README.md)
   * [Applications](compscidev/env-os-setups/applications/README.md)
     * [Alfred](compscidev/env-os-setups/applications/alfred.md)
