@@ -22,7 +22,7 @@ description: Miami Valley Small Business Webinar Nov 18 2023
 
 Make a matrix
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * SCORE business plan template.
 * Kauffman Fasstrac
