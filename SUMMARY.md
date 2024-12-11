@@ -819,6 +819,7 @@
 ## 🌴 Leisure
 
 * [Camper Rental Analysis](leisure/camper-rental-analysis.md)
+* [Christmas Wish List](leisure/christmas-wish-list.md)
 * [Dayton OH](leisure/dayton-oh/README.md)
   * [Downtown Housing FY24](https://downtowndayton.org/wp-content/uploads/2024/05/housingtour2024guide.pdf)
   * [Metroparks](leisure/dayton-oh/metroparks.md)
