@@ -753,6 +753,8 @@
 * [Workout Videos](health-and-fitness/workout-videos/README.md)
   * [Maximum Potential](https://www.youtube.com/watch?v=y0WOTplwNlw\&t=38s)
   * [Barbie Workout](https://www.youtube.com/watch?v=sQfEqrXkSE0)
+* [Yoga](health-and-fitness/yoga/README.md)
+  * [7 Chakras](https://www.mindbodygreen.com/articles/7-chakras-for-beginners)
 
 ## 🏠 Household <a href="#house" id="house"></a>
 
