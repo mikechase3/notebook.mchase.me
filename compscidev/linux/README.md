@@ -1,4 +1,6 @@
 # Linux
+For linux environment setups, go to /CompSciDev/env-os-setups/ubuntu.
+This page is for programming tips, not environment setups. 
 
 ## Course Description
 

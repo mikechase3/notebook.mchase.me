@@ -29,3 +29,4 @@ Here's the general process:
 ## Resources
 
 * Ubuntu CAC docs has these instructions in more detail; however, many of the links wouldn't load for me.
+* Building for other distributions. From a [gov employee](https://github.com/OpenSC/OpenSC/wiki/Compiling-and-Installing-on-Unix-flavors)

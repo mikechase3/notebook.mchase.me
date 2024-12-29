@@ -6,10 +6,11 @@ Not for public use most of the time, but occasionally I share what I build:
 
 {% embed url="https://github.com/mikechase3" %}
 
-## Active Docs
+## Active Projects
 
 * [Hands On Machine Learning w/ Sci-kit Learn, Keras, TensorFlow](compscidev/ai/courses/hands-on-ml.md)
   * [Google Collab Notebooks](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/)
+* Getting CACs to work with Ubuntu.
 
 ## On My Radar:
 
