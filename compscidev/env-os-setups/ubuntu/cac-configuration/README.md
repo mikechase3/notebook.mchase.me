@@ -1,4 +1,6 @@
 # CAC Configuration
+TODO: Read through [this](https://github.com/M-Pepper/linux-cac-walkthrough) first.
+They match notes from previous years but describe it better.
 
 I decided to spend 2hrs of my time figuring out how to login to my government email instead of studying for my Geology test. i thought it'd be simple, but I was wrong; however, the process wasn't too bad.
 
@@ -29,4 +31,5 @@ Here's the general process:
 ## Resources
 
 * Ubuntu CAC docs has these instructions in more detail; however, many of the links wouldn't load for me.
-* Building for other distributions. From a [gov employee](https://github.com/OpenSC/OpenSC/wiki/Compiling-and-Installing-on-Unix-flavors)
+* Secondary [source](https://github.com/M-Pepper/linux-cac-walkthrough)
+* [Compiling](https://github.com/OpenSC/OpenSC/wiki/Compiling-and-Installing-on-Unix-flavors) OpenSC
