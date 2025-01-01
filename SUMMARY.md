@@ -157,6 +157,7 @@
 ## Communications
 
 * [Charisma](communications/charism/README.md)
+  * [Greatfulness](communications/charism/greatfulness.md)
   * [Breaking Up Gracefully](communications/charism/breaking-up-gracefully.md)
   * [Charisma on Command](https://www.youtube.com/c/Charismaoncommand)
   * [Handling Stress](communications/charism/handling-stress.md)
@@ -381,7 +382,7 @@
     * [Flash](https://www.howtogeek.com/707830/how-to-use-adobe-flash-in-2021-and-beyond/)
     * [Flash Content](https://archive.org/details/softwarelibrary_flash)
   * [Mac OSX](compscidev/env-os-setups/mac-osx.md)
-  * [Ubuntu](compscidev/env-os-setups/ubuntu/ubuntu)
+  * [Ubuntu](compscidev/env-os-setups/ubuntu/README.md)
     * [CAC Configuration](compscidev/env-os-setups/ubuntu/cac-configuration/README.md)
       * [Ubuntu CAC Docs](https://help.ubuntu.com/community/CommonAccessCard)
       * [CACKey Downloads](http://cackey.rkeene.org/fossil/wikie?name=Downloads)
