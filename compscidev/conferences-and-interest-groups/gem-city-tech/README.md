@@ -1,10 +1,14 @@
 # Gem City Tech
 
-## 2024 JUL 11 Meeting
+## Resources
 
-Walked into a meeting! It's fun.
+Website:
 
 {% embed url="https://gemcity.tech" %}
+
+Meetup:
+
+{% embed url="https://www.meetup.com/gem-city-tech/?eventOrigin=event_home_page" %}
 
 ### Upcoming Technology Events
 
