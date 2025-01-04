@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Inbox](inbox.md)
+* [Inbox](inbox/README.md)
+  * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
 
 ## Automotive
 
@@ -195,7 +196,6 @@
     * [3B1B ML](https://www.youtube.com/watch?v=aircAruvnKk\&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     * [6.036 UG](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/)
     * [6.867 GR](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/)
-    * [Hands On ML](compscidev/ai/courses/hands-on-ml.md)
   * [Deep Learning](compscidev/ai/deep-learning/README.md)
     * [Theory](compscidev/ai/deep-learning/theory/README.md)
       * [Neural Networks](compscidev/ai/deep-learning/theory/neural-networks/README.md)
