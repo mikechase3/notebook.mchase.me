@@ -818,6 +818,7 @@
   * [Renting Cars to Strangers](https://www.legalzoom.com/articles/the-airbnb-of-car-renting-how-to-legally-rent-your-car-to-a-stranger-from-one)
   * [Afghanistan](https://www.youtube.com/watch?v=iIFi_Rgm-T8)
   * [Public Defending Liars](https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars)
+* [TOSDR](https://tosdr.org/en)
 
 ## 🌴 Leisure
 
