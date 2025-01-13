@@ -12,6 +12,10 @@
 
 | Tool       | Use                                                             |   |
 | ---------- | --------------------------------------------------------------- | - |
-| MatPlotLib |                                                                 |   |
-| Pandas     |                                                                 |   |
+| MatPlotLib | Graphing & Plotting                                             |   |
+| Pandas     | Imports/export tables from csv & others                         |   |
 | Seaborn    | Built on Matplotlib and leverages statistics in visualizations. |   |
+| SciPy      | Science stuff for statistics beyond norm. (and way more)        |   |
+
+## Playground
+A playground is available in this repository & can be viewed/changed with `jupyter notebook` in this directory.
