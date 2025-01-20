@@ -51,7 +51,7 @@ Income Statement Worksheet
   * Current liabilities: must be satisfied within a year
   * Long-term liabilities: debts like mortgages that are long-term
 * **Equity = Assets - Liabilities**
-  * what'd be returned to our shareholder if we just sold everything off.
+  * What'd be returned to our shareholder if we just sold everything off.
 
 ### Cashflow Statement
 

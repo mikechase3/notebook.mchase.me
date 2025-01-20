@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/Active/Projects/MLAI-Training/Machine-Learning-Data-Science-and-Generative-AI-with-Python/.idea/Machine-Learning-Data-Science-and-Generative-AI-with-Python.iml" filepath="$USER_HOME$/Dropbox/Active/Projects/MLAI-Training/Machine-Learning-Data-Science-and-Generative-AI-with-Python/.idea/Machine-Learning-Data-Science-and-Generative-AI-with-Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/notebook-mchase-me.iml" filepath="$PROJECT_DIR$/.idea/notebook-mchase-me.iml" />
     </modules>
   </component>

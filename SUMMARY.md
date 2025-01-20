@@ -707,6 +707,7 @@
   * [Mike Chase's Advice](finance/investments/stocks.md)
   * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVJoep_XshasfnwHfCV_JMf)
   * [Stupidest Thing You Can Do With Your Money](https://freakonomics.com/podcast/the-stupidest-thing-you-can-do-with-your-money/)
+  * [On National Debt](/finance/investments/national-debt.md)
 * [r/personalfinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 

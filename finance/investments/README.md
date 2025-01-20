@@ -1,6 +1,6 @@
 # Investments
-
 TODO: move to analysis
+
 ## Stocks and Bonds
 
 * Currently, I buy index funds.
