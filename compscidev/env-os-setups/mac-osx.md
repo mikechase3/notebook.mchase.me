@@ -2,8 +2,8 @@
 For re-imaging Mac OS without the crud.
 
 1. **VPN Connections**: home, work, and cloud servers.
-2. **Network Drives**: Home NAS, Work NAS, Google Cloud NAS
-3. **Cloud Drives**: Dropbox
+2. **Network Drives**: Home NAS, Work NAS, Google Cloud NAS.
+3. **Cloud Drives**: Dropbox.
 
 
 ## Setapps
@@ -38,6 +38,9 @@ For re-imaging Mac OS without the crud.
 ### Dash
 * **Hotkey**: CMD+Option+D to show dash and focus search field.
 
+### Dev Utils
+* CTRL+Option+CMD+Space
+* Don't have this autostart?
 
 ### Default Folder X
 * **Hotkey**: CMD+SHIFT+SPACE
@@ -45,7 +48,6 @@ For re-imaging Mac OS without the crud.
 
 ### Dropzone
 Has lots of shortcuts, but you have to make them:
-
 * **Hotkey**: F3
 * ZIP Stuff
 * Email AirDrop Shorten URL Zip Files Unzip Files Open
@@ -64,6 +66,4 @@ Has lots of shortcuts, but you have to make them:
 ### Text Sniper
 * CMD+SHIFT+2
 
-### Dev Utils
-* CTRL+Option+CMD+Space
-* Don't have this autostart?
+
