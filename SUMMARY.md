@@ -273,7 +273,7 @@
 * [Data Analytics and Vizualization](compscidev/data-analytics-and-vizualization/README.md)
   * [py.MatPlotLib Package](compscidev/data-analytics-and-vizualization/matplotlib/README.md)
     * [Anatomy of a Figure](https://matplotlib.org/stable/gallery/showcase/anatomy.html)
-  * [SciPy](compscidev/data-analytics-and-visualization/scipy/scipy.md)
+  * [SciPy](compscidev/data-analytics-and-vizualization/scipy.md)
   * [py.Pandas Package](compscidev/data-analytics-and-vizualization/pandas/README.md)
     * [Codecademy Cheatsheet](https://www.codecademy.com/learn/data-processing-pandas/modules/dspath-intro-pandas/cheatsheet)
     * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
@@ -707,7 +707,7 @@
   * [Mike Chase's Advice](finance/investments/stocks.md)
   * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVJoep_XshasfnwHfCV_JMf)
   * [Stupidest Thing You Can Do With Your Money](https://freakonomics.com/podcast/the-stupidest-thing-you-can-do-with-your-money/)
-  * [On National Debt](/finance/investments/national-debt.md)
+  * [On National Debt](finance/investments/national-debt.md)
 * [r/personalfinance Wiki](https://old.reddit.com/r/personalfinance/wiki/index)
 * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 
@@ -836,6 +836,10 @@
 * [Shopping](leisure/page-2.md)
 * [Travel](leisure/trip-logs/README.md)
   * [MI Weekend Trip](leisure/trip-logs/mi-weekend-trip.md)
+
+## ⚙️ Maintenance
+
+* [Automotive](maintenance/automotive.md)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
@@ -1013,6 +1017,10 @@
 * [Reducing Expectancy Violations](principles-and-values/reducing-expectancy-violations.md)
 * [Philosophy Bro](https://www.philosophybro.com/)
 * [Principles Ray](https://www.principles.com)
+
+## 🤝 Relations
+
+* [Relations.Something](relations/relations.something.md)
 
 ## Social Sciences
 
