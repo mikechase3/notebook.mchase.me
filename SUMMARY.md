@@ -4,21 +4,6 @@
 * [Inbox](inbox/README.md)
   * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
 
-## 📺 AV
-
-* [Making Connections](http://artsites.ucsc.edu/EMS/music/tech_background/TE-15/teces_15.html)
-* [Photography](av/photography/README.md)
-  * [Hardware and Megapixel Limits](av/photography/hardware-and-megapixel-limits/README.md)
-    * [CMOS Sensor Microscope](https://petapixel.com/2013/02/12/what-a-dslrs-cmos-sensor-looks-like-under-a-microscope/)
-    * [EarthCam Gigapixel](https://www.earthcam.net/products/gigapixelcamx80.php)
-    * [Megapixel Limits](https://www.whatdigitalcamera.com/x-archive/megapixel-limits-10774)
-* [Projector Central](https://www.projectorcentral.com/)
-* [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
-* [UCSC Tech Music Essays](av/equipment.md)
-* [Video Editing](av/video-editing/README.md)
-  * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse_QY)
-  * [Youtube Tips & Tricks](av/video-editing/youtube-tips-and-tricks/README.md)
-    * [Youtube User/Creator Tips](https://www.youtube.com/watch?v=LicfHxvAlXI)
 
 ## 💼 Career (and Business Management) <a href="#career" id="career"></a>
 
@@ -813,7 +798,7 @@
 
 ## ⚙️ Maintenance
 
-* [Automotive](maintenance/automotive.md)
+* [Automotive](maintenance/automotive/automotive.md)
   * [Car Salesmen](maintenance/automotive/references/car-salesmen.md)
   * [Hacking](maintenance/automotive/hacking/README.md)
     * [Adventures in Automotive Networks and Control Units](https://ioactive.com/pdfs/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf)
@@ -837,6 +822,21 @@
   * [Recommendations](maintenance/automotive/references/README.md)
     * [Crutchfield Car Audio/Video](https://www.crutchfield.com/)
     * [Tirerack Customer Direct](https://www.tirerack.com/content/tirerack/desktop/en/homepage.html)
+
+* [A/V](maintenance/av/av.md)
+  * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech_background/TE-15/teces_15.html)
+  * [Photography](maintenance/av/photography/README.md)
+    * [Hardware and Megapixel Limits](maintenance/av/photography/hardware-and-megapixel-limits/README.md)
+      * [CMOS Sensor Microscope](https://petapixel.com/2013/02/12/what-a-dslrs-cmos-sensor-looks-like-under-a-microscope/)
+      * [EarthCam Gigapixel](https://www.earthcam.net/products/gigapixelcamx80.php)
+      * [Megapixel Limits](https://www.whatdigitalcamera.com/x-archive/megapixel-limits-10774)
+  * [Projector Central](https://www.projectorcentral.com/)
+  * [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
+  * [UCSC Tech Music Essays](maintenance/av/UCSC-EMS-TechEssays)
+  * [Video Editing](maintenance/av/video-editing/README.md)
+    * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse_QY)
+    * [Youtube Tips & Tricks](maintenance/av/video-editing/youtube-tips-and-tricks/README.md)
+      * [Youtube User/Creator Tips](https://www.youtube.com/watch?v=LicfHxvAlXI)
 
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
