@@ -4,32 +4,6 @@
 * [Inbox](inbox/README.md)
   * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
 
-## Automotive
-
-* [Car Salesmen](automotive/references/car-salesmen.md)
-* [Hacking](automotive/hacking/README.md)
-  * [Adventures in Automotive Networks and Control Units](https://ioactive.com/pdfs/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf)
-  * [CAN Busses](https://en.wikipedia.org/wiki/CAN_bus)
-  * [Forester Immobilizer](automotive/hacking/forester-immobilizer.md)
-  * [Tesla JSON API](https://tesla-api.timdorr.com/)
-* [Imported Vehicles](automotive/old-better-vehicles/README.md)
-  * [Vans from Japan](https://www.vansfromjapan.com/)
-* [Privacy Concerns](automotive/privacy-concerns/README.md)
-  * [A Survey of Automotive Attack Surfaces](https://illmatics.com/remote%20attack%20surfaces.pdf)
-  * [Disabling Telemetrics](automotive/privacy-concerns/disabling-telemetrics.md)
-  * [Subaru Starlink Vulnerabilities](https://www.bitdefender.com/blog/hotforsecurity/researcher-finds-basic-mistakes-subarus-starlink-service)
-  * [TPMS Vulnerabilities](https://www.winlab.rutgers.edu/~gruteser/papers/xu_tpms10.pdf)
-  * [Uber Rides of Glory](https://web.archive.org/web/20140827195715/http://blog.uber.com/ridesofglory)
-* [Rallying](automotive/rallying/README.md)
-  * [Group B](automotive/rallying/group-b/README.md)
-    * [Rallying - The Killer Years](https://www.amazon.com/Rallying-Killer-Years-John-Matthews/dp/B0882R7YKV/ref=nav_ya_signin?crid=1MCBSBK1UMB6U\&keywords=The+Killer+Years\&qid=1643523211\&sprefix=the+killer+ye%2Caps%2C531\&sr=8-1&)
-    * ["Too Fast to Race"](https://youtu.be/imXk8u-reUQ)
-    * [Maddness on Wheels](https://www.dailymotion.com/video/x14ems5)
-  * [Roll Cages](https://24hoursoflemons.com/wp-content/themes/lemons/assets/images/how-to-not-fail-lemons-tech-inspection.pdf)
-* [Recommendations](automotive/references/README.md)
-  * [Crutchfield Car Audio/Video](https://www.crutchfield.com/)
-  * [Tirerack Customer Direct](https://www.tirerack.com/content/tirerack/desktop/en/homepage.html)
-
 ## 📺 AV
 
 * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech_background/TE-15/teces_15.html)
@@ -840,6 +814,30 @@
 ## ⚙️ Maintenance
 
 * [Automotive](maintenance/automotive.md)
+  * [Car Salesmen](maintenance/automotive/references/car-salesmen.md)
+  * [Hacking](maintenance/automotive/hacking/README.md)
+    * [Adventures in Automotive Networks and Control Units](https://ioactive.com/pdfs/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf)
+    * [CAN Busses](https://en.wikipedia.org/wiki/CAN_bus)
+    * [Forester Immobilizer](maintenance/automotive/hacking/forester-immobilizer.md)
+    * [Tesla JSON API](https://tesla-api.timdorr.com/)
+  * [Imported Vehicles](maintenance/automotive/old-better-vehicles/README.md)
+    * [Vans from Japan](https://www.vansfromjapan.com/)
+  * [Privacy Concerns](maintenance/automotive/privacy-concerns/README.md)
+    * [A Survey of Automotive Attack Surfaces](https://illmatics.com/remote%20attack%20surfaces.pdf)
+    * [Disabling Telemetrics](maintenance/automotive/privacy-concerns/disabling-telemetrics.md)
+    * [Subaru Starlink Vulnerabilities](https://www.bitdefender.com/blog/hotforsecurity/researcher-finds-basic-mistakes-subarus-starlink-service)
+    * [TPMS Vulnerabilities](https://www.winlab.rutgers.edu/~gruteser/papers/xu_tpms10.pdf)
+    * [Uber Rides of Glory](https://web.archive.org/web/20140827195715/http://blog.uber.com/ridesofglory)
+  * [Rallying](maintenance/automotive/rallying/README.md)
+    * [Group B](maintenance/automotive/rallying/group-b/README.md)
+      * [Rallying—The Killer Years](https://www.amazon.com/Rallying-Killer-Years-John-Matthews/dp/B0882R7YKV/ref=nav_ya_signin?crid=1MCBSBK1UMB6U\&keywords=The+Killer+Years\&qid=1643523211\&sprefix=the+killer+ye%2Caps%2C531\&sr=8-1&)
+      * ["Too Fast to Race"](https://youtu.be/imXk8u-reUQ)
+      * [Madness on Wheels](https://www.dailymotion.com/video/x14ems5)
+    * [Roll Cages](https://24hoursoflemons.com/wp-content/themes/lemons/assets/images/how-to-not-fail-lemons-tech-inspection.pdf)
+  * [Recommendations](maintenance/automotive/references/README.md)
+    * [Crutchfield Car Audio/Video](https://www.crutchfield.com/)
+    * [Tirerack Customer Direct](https://www.tirerack.com/content/tirerack/desktop/en/homepage.html)
+
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 
