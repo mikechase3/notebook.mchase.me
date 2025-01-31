@@ -24,11 +24,11 @@ Course Material:
 * htop: does stuff... whatever
 * nvtop is better and does GPU
 
-<figure><img src="../../../../.gitbook/assets/CleanShot 2024-07-18 at 18.29.29@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/CleanShot%202024-07-18%20at%2018.29.29@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Transformers
 
-<figure><img src="../../../../.gitbook/assets/CleanShot 2024-07-18 at 19.07.09@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/CleanShot%202024-07-18%20at%2019.07.09@2x.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.linkedin.com/pulse/llm-transformer-architecture-shivasish-mahapatra-kj9qf" %}
 

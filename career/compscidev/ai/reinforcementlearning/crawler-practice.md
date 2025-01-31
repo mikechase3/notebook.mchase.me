@@ -23,23 +23,23 @@
 
 * I used Gym's Bipedal Walker environment initially to understand the concepts.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.18.36.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.18.36.gif" alt=""><figcaption></figcaption></figure>
 
 * [x] &#x20;It compiles!
 * [x] self.steps repeatedly lets the agent learn multiple episodes & generate random trajectories for each episode.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.08.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.08.52.png" alt=""><figcaption></figcaption></figure>
 
 * [ ] Correctly updates the Qvalue for each state by finding the right state and action index within the 2D list.
   * [x] Done, but major bugs
   * [ ] Crawler tries to access negative indices that are nonexistant.&#x20;
   * [ ] Therefore, Q-values do not get updated.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.12.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.12.17.png" alt=""><figcaption></figcaption></figure>
 
 * [x] &#x20;Correctly implement the e-greedy algorithm for chooseAction()
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-28 at 22.14.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.14.17.png" alt=""><figcaption></figcaption></figure>
 
 * [x] &#x20;Provide a document with what's implemented & not.
 
@@ -58,23 +58,23 @@ This is a gymnasium environment, but it's basically what we're doing, but we're 
 
 I took Pycharm and opened up the folder as my project.&#x20;
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 19.54.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2019.54.54.png" alt=""><figcaption></figcaption></figure>
 
 Something they never teach you about is how to setup interperters which I found confusing at first. Apparently, environments are fragile in code and while Python is easier than most languages, there are dependency conflicts when working with outdated code. To fix this, we have virtual environments of which there's pipenv and conda as the major ones. Anyways, if something is going wrong, the beginning of the arrow will let you add a new virtual environment interpreter and the IDE will use that.&#x20;
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.06.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.06.46.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://gymnasium.farama.org/environments/box2d/bipedal_walker/" %}
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.06.46 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.06.46%20(1).png" alt=""><figcaption></figcaption></figure>
 
 In ye older days, you could import it right from the context menu.&#x20;
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.15.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.15.43.png" alt=""><figcaption></figcaption></figure>
 
 But now they want you to use the package manager
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-17 at 20.16.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.16.51.png" alt=""><figcaption></figcaption></figure>
 
 You can verify this works successfully by opening up the python console right above it & typing `import numpy` into the interperter prompt (e.g. `>>>`). If you don't see that, type python3, unless you're using conda than you've got to activate it somehow but I'm doing a pipenv & it works for now. If you don't get any error when running import numpy, you're good to go.
 
@@ -204,7 +204,7 @@ Just gonna copy/paste my chat here:
 
 <summary>More Background Knowledge</summary>
 
-<img src="../../../.gitbook/assets/CleanShot 2024-04-18 at 23.06.10@2x.png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/CleanShot%202024-04-18%20at%2023.06.10@2x.png" alt="" data-size="original">
 
 </details>
 

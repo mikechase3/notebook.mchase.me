@@ -43,19 +43,19 @@ Update the policy based on the updated value function estimates (e.g. using a po
 
 **Return (G):**
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-13 at 19.04.43@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-03-13%20at%2019.04.43@2x.png" alt=""><figcaption></figcaption></figure>
 
 * The return $$G_t$$ is the total discounted reward obtained in an episode. It is calculated as the sum of discounted rewards from the current time step $$tt$$ until the end of the episode: $$Gt=Rt+1+γRt+2+γ2Rt+3+…+γT−t−1RTGt​=Rt+1​+γRt+2​+γ2Rt+3​+…+γT−t−1RT​$$ where $$RtRt​$$ is the reward obtained at time step $$tt$$, $$γγ$$ is the discount factor (a value between 0 and 1), and $$TT$$ is the time step at which the episode terminates.
 
 **Value Function Update:**
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-13 at 19.04.27@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-03-13%20at%2019.04.27@2x.png" alt=""><figcaption></figcaption></figure>
 
 * After each episode, the value function estimate $$V(s)$$ for a state $$s$$ is updated using the following equation:  where $$N(s)$$ is the number of times state $$ss$$ has been visited, and $$G$$ is the return obtained in the episode.
 
 ## Class Notes
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-13 at 19.33.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-03-13%20at%2019.33.38.png" alt=""><figcaption></figcaption></figure>
 
 ## Further Reading
 

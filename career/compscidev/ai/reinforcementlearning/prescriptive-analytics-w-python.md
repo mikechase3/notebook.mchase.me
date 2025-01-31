@@ -1,6 +1,6 @@
 # Prescriptive Analytics w/ Python
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-12 at 21.04.15@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-05-12%20at%2021.04.15@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## What is Prescriptive Analytics
 
@@ -69,7 +69,7 @@ lts_env = recsim.environments.long_term_satisfaction.create_environment({
 
 
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-19 at 21.04.47@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-03-19%20at%2021.04.47@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Observation Space
 
@@ -91,11 +91,11 @@ Overall, this observation space indicates that the recommendation system has acc
 
 ### Action Space
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-19 at 21.16.06@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-03-19%20at%2021.16.06@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Summary of Classes
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-12 at 21.07.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot%202024-05-12%20at%2021.07.18.png" alt=""><figcaption></figcaption></figure>
 
 ## Works Cited & Further Reading
 
