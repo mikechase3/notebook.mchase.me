@@ -25,7 +25,7 @@ Ranked in order of usefulness:
 
 A more readable text version of the mindmap follows this relatively gigantic image.&#x20;
 
-<figure><img src="../../old_computer-science/operating-systems/CPS 536 Operating Systems Mindmap DEC112023.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../old_computer-science/operating-systems/CPS 536 Operating Systems Mindmap DEC112023.png" alt=""><figcaption></figcaption></figure>
 
 ## Operating Systems Mind Map
 

@@ -2,7 +2,7 @@
 
 * The federal role in cybersecurity is complex.
 
-![](<../../../.gitbook/assets/image (640) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (640) (1) (1) (1).png>)
 
 ## Cyber Legislation
 

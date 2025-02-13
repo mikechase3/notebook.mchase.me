@@ -3,7 +3,7 @@
 ## Note
 
 * I'm summarizing a summary to force me to go through the information
-* Just read it again [here](https://realpython.com/python-sockets/).&#x20;
+* Just read it again [here](https://realpython.com/python-sockets/).
 * [Source: Real Python's Socket Guide](https://realpython.com/python-sockets/)
 
 ## Background
@@ -52,7 +52,7 @@
 
 ### TCP Socket Flow
 
-![](<../../.gitbook/assets/image (182).png>)
+![](<../../../.gitbook/assets/image (182).png>)
 
 | Method     | Functionality                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------- |
@@ -63,12 +63,3 @@
 ## Works Cited
 
 * [Real Python's Python Sockets](https://realpython.com/python-sockets/)
-
-
-
-
-
-
-
-
-

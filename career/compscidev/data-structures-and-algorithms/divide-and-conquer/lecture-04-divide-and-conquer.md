@@ -4,7 +4,7 @@ description: >-
   algorithms so we can use this strategy to solve new problems.
 ---
 
-# Lecture 04: Divide and Conquer Methodology
+# Merge Sort
 
 ## Goals
 
@@ -275,7 +275,7 @@ class Solution {
 
 When we analyze the running time of recurrence functions, we do so using piecewise functions.
 
-![An example of a piecewise function defining the running time.](../../../.gitbook/assets/recurrence-function-time-example.jpg)
+![An example of a piecewise function defining the running time.](../../../../.gitbook/assets/recurrence-function-time-example.jpg)
 
 ## Homework
 

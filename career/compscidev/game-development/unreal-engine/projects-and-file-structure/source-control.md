@@ -23,15 +23,13 @@ Source control software lets you:
 
 * It's in the menu bar.
 
-![](<../../../../.gitbook/assets/image (147).png>)
+![](<../../../../../.gitbook/assets/image (147).png>)
 
 ### Project Iteration
 
 * Import only the final assets into UE4.
 * When re-importing, make sure to write over the existing file.
 * Don't import different versions.
-
-
 
 ## Works Cited
 

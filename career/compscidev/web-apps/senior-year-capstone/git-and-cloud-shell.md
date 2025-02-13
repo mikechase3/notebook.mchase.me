@@ -19,7 +19,7 @@ description: Lecture 02
 
 ### Git Platforms
 
-![](<../../../.gitbook/assets/image (197) (1).png>)
+![](<../../../../.gitbook/assets/image (197) (1).png>)
 
 ### Bit Bucket
 

@@ -24,7 +24,7 @@ What are they? How are they different from processes? What data structures are u
 
 ### Thread Resources & Under-The-Hood
 
-<figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
 ## Benefits of Multithreading
 
@@ -40,7 +40,7 @@ What are they? How are they different from processes? What data structures are u
 * Multithreading is even applicable to single-processors with single-cores.
 * As long as the amount of idle time is less than twice the amount of time it costs to context switch, the OS should switch to minimize idling time.
 
-![](<../../.gitbook/assets/image (523).png>)
+![](<../../../.gitbook/assets/image (523).png>)
 
 * Here: threads here help us hide the latency of I/O operations.
 
@@ -66,7 +66,7 @@ From Week 2-2.
 * We say a thread is trying to **acquire the lock** when attempting to get exclusive access to the shared resource.
 * **Condition variables** handle the inter-thread communication in Birrel threading systems.
 
-<figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
 
 ### **Thread Creation & Data Structure**
 
@@ -81,7 +81,7 @@ We create forks by the `Fork` call. The fork call is composed of `procs`, a proc
 
 ### FORK Call
 
-<figure><img src="../../.gitbook/assets/image (646).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (646).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Fork works by:
 
@@ -98,7 +98,7 @@ Fork works by:
 
 Sometimes, we don't have a clear result. In the case below, the list could come out to be two different orders.
 
-<figure><img src="../../.gitbook/assets/image (588).png" alt=""><figcaption><p>This example shows how we create threads in code.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (588).png" alt=""><figcaption><p>This example shows how we create threads in code.</p></figcaption></figure>
 
 {% hint style="info" %}
 Don't confuse this `Fork` code with the one in [process mgmt.](w01-processmanagement.md)
@@ -113,7 +113,7 @@ Don't confuse this `Fork` code with the one in [process mgmt.](w01-processmanage
 
 ### Mutex Data Structure
 
-<figure><img src="../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
 
 * **Status**: The data structure should contain information about whether it's locked or not.
 * **List\[Blocked]**: threads and awaiting the mutex to be free.

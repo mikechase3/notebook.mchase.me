@@ -30,9 +30,9 @@ When should we use each one?
 
 ## The K-Bit Counter Accounting Example
 
-![K-bit counter, at the low level.](<../../../../.gitbook/assets/image (16).png>)
+![K-bit counter, at the low level.](<../../../../../.gitbook/assets/image (16).png>)
 
-### Understanding The [Problem](https://www.youtube.com/watch?v=2kUTu0sI\_Rs)
+### Understanding The [Problem](https://www.youtube.com/watch?v=2kUTu0sI_Rs)
 
 #### Mathematical Notation
 
@@ -110,11 +110,11 @@ Example where k = 6. (There are 6 bits).
 * We can make a _predicted cost_: after `n` operations, we will have done $$2 \cdot n$$ flips.
   * This sets an upper bound that's surprising accurate :point\_down:
 
-![Source: "The k-bit counter"](<../../../../.gitbook/assets/image (17).png>)
+![Source: "The k-bit counter"](<../../../../../.gitbook/assets/image (17).png>)
 
 Notice how our predicted cost never exceeds the actual cost. This is good!
 
-![](<../../../../.gitbook/assets/image (19).png>)
+![](<../../../../../.gitbook/assets/image (19).png>)
 
 1. The worst case cost of a single _increment_ operation is $$k \in O(k)$$ .
    1. The worst case is that we flip all the bits.
@@ -133,13 +133,13 @@ So obviously, by this point, we know two important things. And as a result of th
 1. The worst case is `O(k)` because at some point, every single bit gets flipped. _This is when the array is when our_ `list = [1, 1, 1, 1, 1, 1, 1, 1, 1]`and every bit needs to get flipped.
 2. Our average case is not going to be our worst case. Clearly, not every bit is getting flipped all the time.
 
-![Notice A\[0\] (At the right) is flipped every time. A\[1\] (2nd from right) is flipped n/2 times, and so on.](<../../../../.gitbook/assets/image (27).png>)
+![Notice A\[0\] (At the right) is flipped every time. A\[1\] (2nd from right) is flipped n/2 times, and so on.](<../../../../../.gitbook/assets/image (27).png>)
 
 #### Using Geometric Series
 
-* The pattern we're noticing, `n`, `n/2`, `n/4`... is a [geometric series](https://media.pearsoncmg.com/cmg/pmmg\_mml\_shared/mathstats\_html\_ebooks/ThomasCalcET14e/page\_592.html) because geometric series have the form:
+* The pattern we're noticing, `n`, `n/2`, `n/4`... is a [geometric series](https://media.pearsoncmg.com/cmg/pmmg_mml_shared/mathstats_html_ebooks/ThomasCalcET14e/page_592.html) because geometric series have the form:
 
-![Source: Thomas Calculus](<../../../../.gitbook/assets/image (28).png>)
+![Source: Thomas Calculus](<../../../../../.gitbook/assets/image (28).png>)
 
 $$
 n + n/2 + n/4 + ... ⇒ \sum _{n=1}^{\infty } 2^{-n}=1
@@ -147,7 +147,7 @@ $$
 
 If we graph this, it'll look exactly like this:
 
-![](../../../../.gitbook/assets/wolframalpha-1\_2\_\_\_1\_4\_\_\_1\_8\_\_\_1\_16\_\_\_\_\_\_\_\_\_\_\_\_2020\_06\_27\_21\_32.jpeg)
+![](../../../../../.gitbook/assets/wolframalpha-1_2___1_4___1_8___1_16____________2020_06_27_21_32.jpeg)
 
 So clearly, this is a geometric series, and the series approaches 1:
 
@@ -168,7 +168,7 @@ $$
   * For every bit flip from 0 to 1, we use $1 for the flip.
   * We associate the extra $1 with bit 1, which will be used when we flip this bit from 1 back to 0.
 
-![](<../../../../.gitbook/assets/image (30).png>)
+![](<../../../../../.gitbook/assets/image (30).png>)
 
 #### Conclusions
 
@@ -180,7 +180,7 @@ The potential method is similar to the accounting method, but it's a little bit 
 
 #### Formal Definition
 
-The formal definition from [Wikipedia](https://en.wikipedia.org/wiki/Potential\_method):
+The formal definition from [Wikipedia](https://en.wikipedia.org/wiki/Potential_method):
 
 > Let o be any individual operation within a sequence of operations on some data structure, with $$S_{\text{before}}$$ denoting the state of the data structure prior to operation _o_ and $$S_{\text{after}}$$ denoting its state after operation _o_ has completed. Once Φ has been chosen, the amortized time for operation _o_ is defined to be
 
@@ -190,15 +190,15 @@ $$
 
 > Where C is a non-negative constant of proportionality (in units of time) that must remain fixed throughout the analysis. That is, the amortized time is defined to be the actual time taken by the operation plus C times the difference in potential caused by the operation.
 >
-> When studying [asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic\_computational\_complexity) using [big O notation](https://en.wikipedia.org/wiki/Big\_O\_notation), constant factors are irrelevant and so the constant C is usually omitted.
+> When studying [asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity) using [big O notation](https://en.wikipedia.org/wiki/Big_O_notation), constant factors are irrelevant and so the constant C is usually omitted.
 
-| Symbol | Meaning                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `C`    | A non-negative constant of proportionality (in units of time) that must remain fixed throughout the analysis. _**Is usually omitted.**_                                                                                                                                                                                                                                                                             |
-| `Φ`    | A function that maps states of the data structure to non-negative numbers                                                                                                                                                                                                                                                                                                                                           |
-| `S`    | The state of a data strucutre                                                                                                                                                                                                                                                                                                                                                                                       |
-| `Φ(S)` | represents work that has been accounted for ("paid for") in the amortized analysis but not yet performed. Thus, Φ(S) may be thought of as calculating the amount of [potential energy](https://en.wikipedia.org/wiki/Potential\_energy) stored in that state [\[1\]](https://en.wikipedia.org/wiki/Potential\_method#cite\_note-gt-ad-1)[\[2\]](https://en.wikipedia.org/wiki/Potential\_method#cite\_note-clrs-2). |
-| `0`    | The potential value prior to the operation of initializing a data structure.                                                                                                                                                                                                                                                                                                                                        |
+| Symbol | Meaning                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `C`    | A non-negative constant of proportionality (in units of time) that must remain fixed throughout the analysis. _**Is usually omitted.**_                                                                                                                                                                                                                                                                        |
+| `Φ`    | A function that maps states of the data structure to non-negative numbers                                                                                                                                                                                                                                                                                                                                      |
+| `S`    | The state of a data strucutre                                                                                                                                                                                                                                                                                                                                                                                  |
+| `Φ(S)` | represents work that has been accounted for ("paid for") in the amortized analysis but not yet performed. Thus, Φ(S) may be thought of as calculating the amount of [potential energy](https://en.wikipedia.org/wiki/Potential_energy) stored in that state [\[1\]](https://en.wikipedia.org/wiki/Potential_method#cite_note-gt-ad-1)[\[2\]](https://en.wikipedia.org/wiki/Potential_method#cite_note-clrs-2). |
+| `0`    | The potential value prior to the operation of initializing a data structure.                                                                                                                                                                                                                                                                                                                                   |
 
 #### Classroom Definition
 
@@ -274,7 +274,7 @@ Regarding the first two equations. In Dr. Yao's, she says equals instead of impl
 | Introduction to Algorithms                                                               | Definitions for introduction        | Cormen et. al.                                               |
 | Wikimedia Commons                                                                        | K-bit counter photo.                | Various. Noncommercial reuse.                                |
 | Class lecture & slideshow                                                                | Structures, definition, and content | [Dr. Zhongmei Yao](http://academic.udayton.edu/zhongmeiyao/) |
-| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI\_Rs)                        | K-bit example, graphs.              | simrob (Youtube)                                             |
+| [The K-Bit Counter](https://www.youtube.com/watch?v=2kUTu0sI_Rs)                         | K-bit example, graphs.              | simrob (Youtube)                                             |
 | [Amortized Analysis (of the k-bit counter)](https://www.youtube.com/watch?v=U5XKyIVy2Vc) | None, but noteworthy.               | simrob (Youtube)                                             |
 | Thomas Calculus                                                                          | Geometric Series                    | Thomas. Pearson e-Text. Free                                 |
-| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential\_method)           | Equations                           | Wikipedia Authors                                            |
+| [Wikipedia: Potential Method](https://en.wikipedia.org/wiki/Potential_method)            | Equations                           | Wikipedia Authors                                            |

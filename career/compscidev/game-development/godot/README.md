@@ -4,7 +4,7 @@
 
 They go from TI-4080 to potato. All of these can be changed on the fly.&#x20;
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-08-23 at 09.47.06@2x.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-08-23 at 09.47.06@2x.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Recommended Styling
 
@@ -12,7 +12,7 @@ They go from TI-4080 to potato. All of these can be changed on the fly.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-08-23 at 09.49.57@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-08-23 at 09.49.57@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Editor Window
 

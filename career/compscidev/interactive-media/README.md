@@ -1,10 +1,8 @@
 # Interactive Media
 
-
-
 ## Notes
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-01-16 at 13.36.32@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-01-16 at 13.36.32@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## 2024JAN16
 
@@ -12,13 +10,15 @@
 * `imread` takes stuff from the hard drive & loads it into memory.
 * `imshow` take stuff from memory to screen.
 * `imwrite(<filename>, <matrix_back>` basic functions.
-* Use a while loop that waits for a key (such as `esc`).&#x20;
+* Use a while loop that waits for a key (such as `esc`).
 * I setup a development environment:
 
 {% embed url="https://www.youtube.com/watch?v=H5-B5qKhtYg" %}
 
 ## March 2024
-[OpenCV Flash Cards](https://quizlet.com/890677132/opencv-f24_cps465-interactive-media-shen-flash-cards/?i=ss8s&x=1qqt)
+
+[OpenCV Flash Cards](https://quizlet.com/890677132/opencv-f24_cps465-interactive-media-shen-flash-cards/?i=ss8s\&x=1qqt)
+
 ```txt
 What headers are required for utilizing core, highgui, and imgproc modules of OpenCV?	#include <opencv2/core/core.hpp>\n#include <opencv2/highgui/highgui.hpp>\n#include <opencv2/imgproc/imgproc.hpp>
 How do you initialize a VideoCapture object with a specific camera index?	VideoCapture cap(cameraIndex);

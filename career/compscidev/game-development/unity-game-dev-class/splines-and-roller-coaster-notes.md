@@ -10,7 +10,7 @@ Link to the project in zip form:
 
 Splines are a way to place objects along a mathematical equation such that they are efficient in memory. It's composed of two vectors on a cartesian plane, but an equation controls the shape giving it a curve.
 
-<figure><img src="../../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
 
 ## Roller Coaster Assignment Requirements
 
@@ -24,15 +24,15 @@ Splines are a way to place objects along a mathematical equation such that they 
 
 It's easier to read about it elsewhere, but here's my notes:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-09 at 14.18.53@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-09 at 14.18.53@2x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-09 at 14.19.29@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-09 at 14.19.29@2x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-09 at 14.19.45@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-09 at 14.19.45@2x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-09 at 14.20.00@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-09 at 14.20.00@2x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-09 at 14.20.13@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-09 at 14.20.13@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Roller Coaster Assignment
 
@@ -59,9 +59,9 @@ It's easier to read about it elsewhere, but here's my notes:
 
 ### Moving the Car
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Scripting
 
@@ -160,7 +160,7 @@ The `Start()` method gets the rigidbody component of itself which is the car. Up
 
 We're going to apply a 200x200 offset in the x/z axis to keep the track on the terrain at 0,0 without having to re-draw the beginning of the spline.&#x20;
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 01.07.48@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-10 at 01.07.48@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Building the Track
 
@@ -168,11 +168,11 @@ We're going to apply a 200x200 offset in the x/z axis to keep the track on the t
 
 I started by using a top-view and drawing the different points & stopped after a few after noticng that I wasn't reaching the top. I figured there might be a little friction, but I'm only reaching halfway up the other spline:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 14.08.54.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-10 at 14.08.54.gif" alt=""><figcaption></figcaption></figure>
 
 Easy fix I thought. If we dial up the mass, then the momentum will make the coefficient of friction negligable.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.28.55@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-10 at 15.28.55@2x.png" alt=""><figcaption></figcaption></figure>
 
 Unfortunately, the orcale says:
 
@@ -180,17 +180,17 @@ Unfortunately, the orcale says:
 
 In the engine's rigidbody, I set these back to zero:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.40.00@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-10 at 15.40.00@2x.png" alt=""><figcaption></figcaption></figure>
 
 I honestly didn't think that would work, but that was it:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-10 at 15.41.07.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-10 at 15.41.07.gif" alt=""><figcaption></figcaption></figure>
 
 ### Constructing the Track
 
 First, take a cube. I scaled mine to look like an `H` like so:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.15.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.15.10.png" alt=""><figcaption></figcaption></figure>
 
 Next, I modified the script to include this to make the track follow the spline.&#x20;
 
@@ -221,27 +221,15 @@ void placePrefabsAlongSpline() {
 
 And now it works. I had to re-adjust some of the sharp turns.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.13.37.png" alt="" width="187"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.21.27.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.32.33.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.13.37.png" alt="" width="187"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.21.27.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.32.33.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### Eliminating Collisions
 
 Let's just move the track down & see what happens?
 
-![](<../../../.gitbook/assets/CleanShot 2024-03-11 at 17.59.32@2x.png>) So now that it's moved down we get:
+![](<../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.59.32@2x.png>) So now that it's moved down we get:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-11 at 17.57.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.57.43.png" alt=""><figcaption></figcaption></figure>
 
 ## Audio Triggers
 
@@ -274,7 +262,7 @@ And for the function:
 
 
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-12 at 10.22.21@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-12 at 10.22.21@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Tag Approach
 

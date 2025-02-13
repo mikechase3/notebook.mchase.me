@@ -83,7 +83,7 @@ Our goal is to solve this maximum flow problem
 
 **Constraints**
 
-![Graphical Depiction of Constraints](<../../.gitbook/assets/image (84).png>)
+![Graphical Depiction of Constraints](<../../../.gitbook/assets/image (84).png>)
 
 * There is an inequality constraint for every edge.
 * There is an equality constraint for every vertex.
@@ -136,17 +136,17 @@ See 21:30 [Link](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6
 {% tab title="Maximization" %}
 #### Maximization
 
-![Dr. Yao's slide summarizing slack form.](<../../.gitbook/assets/image (93).png>)
+![Dr. Yao's slide summarizing slack form.](<../../../.gitbook/assets/image (93).png>)
 
 **Givens**
 
 We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../../.gitbook/assets/image (88).png>)
 
 **Convert to Slack Form**
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../../.gitbook/assets/image (90).png>)
 
 * Now we have three more variables. All of them are subject to being greater than 0.
 * $$x_1,x_2,x_3,s_1,s_2,s_3 \geq0$$
@@ -159,7 +159,7 @@ We want to _maximize_ $$2x_1-6x_3$$ subject to the given constraints.
 Where did x' come from? What does it mean?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../../.gitbook/assets/image (91).png>)
 
 **Unknown Step**
 
@@ -167,11 +167,11 @@ Where did x' come from? What does it mean?
 How did we get here?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../../.gitbook/assets/image (92).png>)
 
 **Summary**
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../../.gitbook/assets/image (94).png>)
 {% endtab %}
 
 {% tab title="Minimization" %}
@@ -246,7 +246,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 * Let $$x_1 \text{ and } x_2$$ denote the number of cars and dolls produced by Danny.
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (85).png>)
 
 | Constraint            | Caption                                                |
 | --------------------- | ------------------------------------------------------ |
@@ -260,7 +260,7 @@ For instance, we can set $$x_1=x_2=x_3=0$$ because it satisfies all the given st
 
 The objective line is measured by the value of: $$z \text{ (which was defined to be) }= 15x_1 + 10x_2$$
 
-![](<../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (3).png>)
+![](<../../../.gitbook/assets/image (100) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (3).png>)
 
 **Step 4: Observe:**
 
@@ -273,7 +273,7 @@ Summary: The simplex method says: travel along the corner points until you reach
 
 **Phase Steps**
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../../.gitbook/assets/image (87).png>)
 
 Here, we'll iterate through all the points where there is an intersection between the feasible region and examine what `z` is at each point.
 
@@ -291,7 +291,7 @@ Here, we'll iterate through all the points where there is an intersection betwee
 
 ## Works Cited
 
-| Resource                                                                                                                                                                                                           | Author              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| [Chapter 29 Linear Programming](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true)                                               | Dr. Zhongmei Yao    |
-| [Linear Programming: LP, Reductions, Simplex](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6\_046JS15\_lec15.pdf) | Prof. Srini Devadas |
+| Resource                                                                                                                                                                                                         | Author              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Chapter 29 Linear Programming](https://udayton.zoom.us/rec/play/6ZF7fu2vq2g3GtycuASDAaAoW9S6L6msg3AeqPtZmUm2W3EBM1CkMLtGYeEe71GeSrQ-f5JB85E2soWm?continueMode=true)                                             | Dr. Zhongmei Yao    |
+| [Linear Programming: LP, Reductions, Simplex](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_lec15.pdf) | Prof. Srini Devadas |

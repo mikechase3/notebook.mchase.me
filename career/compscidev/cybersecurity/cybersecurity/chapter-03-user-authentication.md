@@ -5,7 +5,7 @@
 * Any authentication function is going to have these sub-routines in some manner or fashion.
 * There are 3 on the registration side, and 3 on the authentication side.
 
-![](<../../../.gitbook/assets/image (637).png>)
+![](<../../../../.gitbook/assets/image (637).png>)
 
 ### Means of Authentication
 
@@ -21,7 +21,7 @@
 
 This describes an organization's degree of certainty that a user has presented a credential that refers to his identity.
 
-![](<../../../.gitbook/assets/image (638).png>)
+![](<../../../../.gitbook/assets/image (638).png>)
 
 #### Potential Impact
 
@@ -48,9 +48,7 @@ This is self-explanatory.
 
 * Back in the day, unix passwords were limited to 8 characters.
 
-
-
-![](<../../../.gitbook/assets/image (639).png>)
+![](<../../../../.gitbook/assets/image (639).png>)
 
 * Salt is stored in plain-text in the password file and is prepended/appended to the user's file.
 
@@ -89,7 +87,7 @@ This is self-explanatory.
 ### Password Selection Strategies
 
 * User education
-* Computer generated passwords:&#x20;
+* Computer generated passwords:
   * Users had trouble remembering them.
   * And wrote them down.
 * Reactivate password checking
@@ -98,7 +96,7 @@ This is self-explanatory.
 
 ### Bloom Filter
 
-![](<../../../.gitbook/assets/image (640).png>)
+![](<../../../../.gitbook/assets/image (640).png>)
 
 * Used to built a table based on dictionary using hashes.
 * Check desired passwords against this table.
@@ -109,7 +107,7 @@ This is self-explanatory.
 
 ### Memory Cards
 
-![Embossed cards were read literally.](<../../../.gitbook/assets/image (641).png>)
+![Embossed cards were read literally.](<../../../../.gitbook/assets/image (641).png>)
 
 * Magnetic stripes.
 * Electronic memory inside.
@@ -118,4 +116,3 @@ This is self-explanatory.
 ### Smart Cards
 
 These are mini-computers with entire microprocessors inside.
-

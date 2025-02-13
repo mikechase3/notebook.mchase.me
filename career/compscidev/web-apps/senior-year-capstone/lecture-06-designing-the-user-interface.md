@@ -31,9 +31,9 @@ Web pages are text files in plaintext, written as an HTML document.
 * Adding features is hard
 * Pulling data from so many places is inefficient.
 
-![](<../../../.gitbook/assets/image (211).png>)
+![](<../../../../.gitbook/assets/image (211).png>)
 
-![](<../../../.gitbook/assets/image (243) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (243) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Documents
 
@@ -49,7 +49,7 @@ Web pages are text files in plaintext, written as an HTML document.
 
 ### Resources
 
-* [MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu\_E)
+* [MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
 
 ### Pricing
 

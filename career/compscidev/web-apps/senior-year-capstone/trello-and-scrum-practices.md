@@ -5,13 +5,13 @@
 * SCRUM helps you develop in a team.
 * **Project Backlog**: a prioritized list of user requirements for your project. What are the requirements?
 * **Product Owner:** The owner is the person controlling the backlog
-* **Scrum Master**: The project manager.&#x20;
+* **Scrum Master**: The project manager.
 
 ## SCRUM Cycles (Sprints)
 
 SCRUM is controlled by tight, smaller projects.
 
-![](<../../../.gitbook/assets/image (172).png>)
+![](<../../../../.gitbook/assets/image (172).png>)
 
 ### Backlog & Team Planning
 
@@ -43,20 +43,18 @@ See an [example ](http://bit.ly/cps490f20-trello)& demo.
 
 ### Gnatt Charts
 
-Gnatt charts are bar charts which illustrate a project schedule. We set a start and end date for each task card.&#x20;
+Gnatt charts are bar charts which illustrate a project schedule. We set a start and end date for each task card.
 
-![An example of a Gnatt Chart](<../../../.gitbook/assets/image (173).png>)
+![An example of a Gnatt Chart](<../../../../.gitbook/assets/image (173).png>)
 
 #### Extensions
 
 * Power-Ups within Trello
 * Elegantt Chrome Extension (doesn't work as well)
 
-
-
 ## Plans for Development
 
-![](<../../../.gitbook/assets/image (174).png>)
+![](<../../../../.gitbook/assets/image (174).png>)
 
 ### The Software Process
 
@@ -69,7 +67,7 @@ Gnatt charts are bar charts which illustrate a project schedule. We set a start 
 
 * Plan-driven processes are processes where all of the process activities are planned in advance and progress is measured against this plan.
 * In agile processes, planning is incremental and it is easier to change the process to reflect changing customer requirements.
-* In practice, most practical processes include elements of both plan-driven and agile approaches.&#x20;
+* In practice, most practical processes include elements of both plan-driven and agile approaches.
 * There are no right or wrong software processes.
 
 {% hint style="info" %}
@@ -77,10 +75,6 @@ We left off at 35:40
 {% endhint %}
 
 ### Rapid Software Development
-
-
-
-
 
 ## System Requirements
 

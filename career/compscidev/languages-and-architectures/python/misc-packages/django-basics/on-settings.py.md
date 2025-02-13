@@ -4,11 +4,11 @@
 
 PDF located in `"000-025 Educational Years\024 ITAndGradSchool\Career\Entrepreneurship DAM-IT\DjanoNotes 2024AUG26.pdf"`
 
-<figure><img src="../../../../../.gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (754).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 To read/write about:
 

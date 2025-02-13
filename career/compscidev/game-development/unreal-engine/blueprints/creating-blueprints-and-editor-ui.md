@@ -8,32 +8,32 @@ description: >-
 
 ## Creating New Blueprint Classes
 
-* **Add:** In the content browser: `Add New` -> `Blueprint Class`  -> `Actor`
+* **Add:** In the content browser: `Add New` -> `Blueprint Class` -> `Actor`
 * There are all types of classes to inherit from, but the generic `actor` class works most of the time.
 
 ## Blueprint Editor UI
 
 ### Components Panel
 
-![](<../../../../.gitbook/assets/image (183).png>)
+![](<../../../../../.gitbook/assets/image (183).png>)
 
 * Each of these components have some built-in functionality
 
 ### Toolbar
 
-![](<../../../../.gitbook/assets/image (184).png>)
+![](<../../../../../.gitbook/assets/image (184).png>)
 
 * Compile your blueprints before testing them
 * Save them.
 * `Class Settings` gives you the ability to define class-specific settings
 * `Class Defaults` lets you control the defaults for variables. You can access variables from the class defaults..
 * `Simulation` lets you see your blueprint running.
-* `Debug Filter` helps you debug blueprints.&#x20;
+* `Debug Filter` helps you debug blueprints.
   * The dropdown lets you _choose a specific instance._
 
 ### Details
 
-![](<../../../../.gitbook/assets/image (185).png>)
+![](<../../../../../.gitbook/assets/image (185).png>)
 
 * Controls all the _properties_ for each component you add.
 
@@ -43,7 +43,7 @@ description: >-
 
 ## Construction Strip
 
-![](<../../../../.gitbook/assets/image (187).png>)
+![](<../../../../../.gitbook/assets/image (187).png>)
 
 * Allows you to setup customized parameters for your blueprints
   * Called _**pre-faps**_
@@ -54,14 +54,14 @@ description: >-
 
 ## Event Graph
 
-![](<../../../../.gitbook/assets/image (186).png>)
+![](<../../../../../.gitbook/assets/image (186).png>)
 
 * Used for updating blueprints at run time.
 * Most of your scripting is done here.
 
 ## My Blueprint Panel
 
-![](<../../../../.gitbook/assets/image (188).png>)
+![](<../../../../../.gitbook/assets/image (188).png>)
 
 * Graphs
 * Functions
@@ -72,12 +72,12 @@ description: >-
   * Streamline the way blueprints are setup
 * Variables
   * View variables
-* Event Dispatchers&#x20;
+* Event Dispatchers
   * Used to communicate between different blueprints.
 
 ## Advanced Assets
 
-![](<../../../../.gitbook/assets/image (189).png>)
+![](<../../../../../.gitbook/assets/image (189).png>)
 
 * Under the create assets menu, you can create more things.
 * **Blueprint Function Library:** a collection of functions you can access from other blueprints
@@ -92,11 +92,10 @@ description: >-
 
 ## Converting Objects to Blueprint Class
 
-If you're working in the editor, you can group a bunch of components together and make them in a blueprint. It gives you a different approach if you want to build everything in the level first.&#x20;
+If you're working in the editor, you can group a bunch of components together and make them in a blueprint. It gives you a different approach if you want to build everything in the level first.
 
-![](<../../../../.gitbook/assets/image (190).png>)
+![](<../../../../../.gitbook/assets/image (190).png>)
 
 * You can create several components in the level.
 * Use `CTRL` to select a group of objects.
 * Go to `Blueprints` in the toolbar and select `Convert Selected Components to Blueprint Class`.
-

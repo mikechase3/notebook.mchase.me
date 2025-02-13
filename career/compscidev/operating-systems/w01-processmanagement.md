@@ -63,7 +63,7 @@ Context switching when you swap between processes. It is **expensive** because i
 3. **Running**: after the **scheduler dispatch**, it'll run and be in (`interrupt` || `I/O or event wait` | )
 4. **Terminated**: it'll exit peacefully and return a result.
 
-This is a redundant visual of what I said above but more complicated: Event waits are usually caused by hard drives and i/o devices. ![](<../../.gitbook/assets/image (153).png>)
+This is a redundant visual of what I said above but more complicated: Event waits are usually caused by hard drives and i/o devices. ![](<../../../.gitbook/assets/image (153).png>)
 
 | Process    | Comment                                                                                                                                                        |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -104,7 +104,7 @@ TOdo: 34:00
 
 Here's what I took to office hours:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **On Fork()**: Dr. X agreed my answer makes logical sense, but wasn't what she's looking for.&#x20;
   * Maybe a better answer includes that we can call an EXEC to replace the child's image with a new program?
@@ -147,7 +147,7 @@ So far, we know how processes access resources on the hardware platform, but in 
 
 ## Processes in Memory
 
-![](<../../.gitbook/assets/image (152).png>)
+![](<../../../.gitbook/assets/image (152).png>)
 
 * An operating system executes a variety of programs
   * Batch systems: **jobs**.
@@ -165,7 +165,7 @@ So far, we know how processes access resources on the hardware platform, but in 
 
 ## Process Control Block PCB
 
-![](<../../.gitbook/assets/image (154).png>)
+![](<../../../.gitbook/assets/image (154).png>)
 
 ### Process Scheduling
 

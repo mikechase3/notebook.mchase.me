@@ -909,27 +909,15 @@ int main(int argc,  char * argv[]) {
 
 #### Global Variables
 
-<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
 
 #### Important Structures
 
-<figure><img src="../../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (744).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 
@@ -1018,7 +1006,7 @@ current_y: int
 
 #### Ambience
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 15.48.25.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-05-03 at 15.48.25.gif" alt=""><figcaption></figcaption></figure>
 
 Ambience is just the background color. All we have to do is take the bunny's original color and multiply it by the bunny's. Something that confused me was the data structure used to represent this. While we have a `Color` class, we just represent this as `c` and iterate through each one of the three through `k`.
 
@@ -1034,27 +1022,27 @@ If that's all you do in your triangels function, you'll get something that looks
 
 #### Diffuse
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.17.38.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-05-03 at 19.17.38.gif" alt=""><figcaption></figcaption></figure>
 
 #### Fixing Dot & Cross Products
 
 Turns out we've got to implement these too & it's not provided in the `data` class.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.52.36@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-05-03 at 19.52.36@2x.png" alt=""><figcaption></figcaption></figure>
 
 This was the "whoa!!" moment for me. Like- I did this? I made it rotate and look like a real bunny?!
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 19.54.55.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-05-03 at 19.54.55.gif" alt=""><figcaption></figcaption></figure>
 
 #### Phong
 
 Phong incorporates more elements. I really had to use drastic values so I'm not sure what that's about.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.05.13.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-05-03 at 23.05.13.gif" alt=""><figcaption></figcaption></figure>
 
 Setting it to ten was a bit better:
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-05-03 at 23.07.21.gif" alt=""><figcaption><p>Phong part is blinking.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-05-03 at 23.07.21.gif" alt=""><figcaption><p>Phong part is blinking.</p></figcaption></figure>
 
 ## Working Code
 

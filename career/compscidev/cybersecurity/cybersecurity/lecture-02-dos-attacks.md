@@ -32,15 +32,13 @@
 #### Forged/Spoofed Source Addresses
 
 * It makes attacking systems harder to identify.
-* Attacker generates&#x20;
+* Attacker generates
 
 ### SYN Spoofing Attack
 
-![Retrieved from Dr. Baldwin's Slides.](<../../../.gitbook/assets/image (601).png>)
+![Retrieved from Dr. Baldwin's Slides.](<../../../../.gitbook/assets/image (601).png>)
 
 * It's trying to fill up a table such that you make a bunch of sessions the system wants to keep a track of, but the table is **filled up with illegitimate sessions.**
-
-
 
 ## 7.2 Flooding Attacks
 
@@ -59,23 +57,19 @@
 * Sends TCP packets to the target system.
 * Total volume of packets is the aim of the attack rather than the system code.
 
-
-
 ## 7.3: Distributed DoS Attacks
 
 * Use of multiple systems to generate attacks.
 * The attacker uses a falw in the OS or in a common application to gain access and install their programs on them, becoming a zombie for a bigger botnet.
 * Large collections of systems under the control of one attacker's can be created to form a botnet.
 
-
-
 ## 7.4: Application Based Bandwidth Attacks
 
 ### SIP Flood
 
-![When one INVITE request is sent, it uses 5 times the resources on the receiving end.](<../../../.gitbook/assets/image (602).png>)
+![When one INVITE request is sent, it uses 5 times the resources on the receiving end.](<../../../../.gitbook/assets/image (602).png>)
 
-* SIP is used to establish VoIP (voice over IP) sessions.&#x20;
+* SIP is used to establish VoIP (voice over IP) sessions.
 * It bombards SIP proxy servers with `INVITE` requests.
 * **Consumes considerable resources via a single invite** both on proxy and network servicing `INVITE`.
   * You get a 5-for-1. Where one request does 5 times the work for one botnet request.
@@ -102,7 +96,7 @@
 
 Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 
-![](<../../../.gitbook/assets/image (611).png>)
+![](<../../../../.gitbook/assets/image (611).png>)
 
 ### Amplification Attacks
 
@@ -121,7 +115,7 @@ Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 | Idea                                                  | Execution                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Block spoofed source addresses                        | <ul><li>Send a request to the suspected spoofed address.</li><li><p>The response if received should be consistent with the previously received packet.</p><ul><li>If what you receive/send should have the same number of hops.</li><li>If what you send has more hops, assume the original packet sent isn't legitimate.</li></ul></li></ul>                                                                                           |
-| Reverse path forwarding (RPF)                         | <p>Verifies the interface a packet was received on is on the same interface a path to the claimed source will use. If not, drop it.</p><p></p>                                                                                                                                                                                                                                                                                          |
+| Reverse path forwarding (RPF)                         | Verifies the interface a packet was received on is on the same interface a path to the claimed source will use. If not, drop it.                                                                                                                                                                                                                                                                                                        |
 | Use modified TCP connection handling code             | Cryptographically encode critical information in a cookie sent as the server's initial sequence number. If the cookie doesn't come back correctly, drop it.                                                                                                                                                                                                                                                                             |
 | Block IP directed broadcasts                          | Within the IP protocol, there are certain services that'll send something to every server on the network. You can just refuse to forward any broadcast packets on.                                                                                                                                                                                                                                                                      |
 | Block suspicious service/port combinations.           | If you get an incoming service on a strange port, it's probably not legitimate.                                                                                                                                                                                                                                                                                                                                                         |
@@ -143,4 +137,4 @@ Port 7 is an ICMP echo port which is carried out by using a spoofed address.
 
 ## Works Cited
 
-* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\
+* Stallings, William, and Lawrie Brown. _Computer Security_. Available from: VitalSource Bookshelf, (3rd Edition). Pearson Education (US), 2014.\\

@@ -10,9 +10,9 @@ I used a multitude of videos to understand this. I'd start there if you're learn
 2. [Numberphile](https://www.youtube.com/watch?v=Qcv1IqHWAzg)'s explanation without math.
 3. [Numberphile w/ Math](https://www.youtube.com/watch?v=LtTV6rIxhdo).
 4. MIT's Mathematics for Learning Library.
-   * [MIT Stable Marriage Problem Reading](https://openlearninglibrary.mit.edu/assets/courseware/v1/d654c70d7bd563a57216f76bd8bbf308/asset-v1:OCW+6.042J+2T2019+type@asset+block/MIT6\_042JS15\_Session22.pdf)
-   * [MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/courseware/2123f967fa994ff8a6d8bb681df65745/c722e6fd7da7492d9e165a6c987898e5/?activate\_block\_id=block-v1%3AOCW%2B6.042J%2B2T2019%2Btype%40sequential%2Bblock%40c722e6fd7da7492d9e165a6c987898e5)
-   * [6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/) MIT. Especially the [Recitation notes](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6\_042jf10\_rec07\_sol/).
+   * [MIT Stable Marriage Problem Reading](https://openlearninglibrary.mit.edu/assets/courseware/v1/d654c70d7bd563a57216f76bd8bbf308/asset-v1:OCW+6.042J+2T2019+type@asset+block/MIT6_042JS15_Session22.pdf)
+   * [MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/courseware/2123f967fa994ff8a6d8bb681df65745/c722e6fd7da7492d9e165a6c987898e5/?activate_block_id=block-v1%3AOCW%2B6.042J%2B2T2019%2Btype%40sequential%2Bblock%40c722e6fd7da7492d9e165a6c987898e5)
+   * [6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/) MIT. Especially the [Recitation notes](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6_042jf10_rec07_sol/).
    * [Stable Matching Ritual](https://www.youtube.com/watch?v=RE5PmdGNgj0)
 
 ## Questions for Review:
@@ -45,7 +45,7 @@ algorithm stable_matching:
 
 ## Scrap Notes
 
-<figure><img src="../../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Stable Matching Scrap Notes.png" alt=""><figcaption></figcaption></figure>
 
 ## Class Notes
 
@@ -55,11 +55,11 @@ algorithm stable_matching:
 
 ### Brute Force Approach
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 Another example:
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 ## How to Prove Correctness
 
@@ -97,13 +97,13 @@ Another example:
 
 ### Proof that women get the worse deal
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Unorganized
 
 Proof by contradiction?
 
-![](../../../.gitbook/assets/partners.png)
+![](../../../../.gitbook/assets/partners.png)
 
 ## Homework & Implementation
 

@@ -4,7 +4,7 @@
 
 Tentative Class Topics: Introduction to OS Processes and Process Management Threads and Concurrency Threads Design Consideration Threads Performance Consideration Scheduling Memory Management Inter-Process Communication Midterm Exam Synchronization Constructs I/O Management Virtualization Remote Procedure Calls Distributed File Systems Distributed Shared Memory Datacenter Tech Final Exam
 
-<figure><img src="../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
 ## Student Goals
 

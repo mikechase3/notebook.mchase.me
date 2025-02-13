@@ -19,16 +19,16 @@
 
 Project -> Project Settings
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-02 at 09.41.39.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-02 at 09.41.39.gif" alt=""><figcaption></figcaption></figure>
 
 ### Creating New Input Actions
 
 * We need: `rotate_left`, `rotate_right`, `thrust`, and `shoot`.&#x20;
 * You get a popup window after doing all of this.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-02 at 09.45.37@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-02 at 09.45.37@2x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-02 at 09.47.06.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-02 at 09.47.06.gif" alt=""><figcaption></figcaption></figure>
 
 ### Analog Mappings
 
@@ -50,11 +50,11 @@ Project -> Project Settings
 
 There are two types of properties for RigidBody2D nodes that can be customized.&#x20;
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-02 at 09.56.11@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-02 at 09.56.11@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Advanced Settings: Linear/Angular Dampening
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-02 at 09.58.30@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-02 at 09.58.30@2x.png" alt=""><figcaption></figcaption></figure>
 
 .
 

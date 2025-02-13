@@ -20,7 +20,7 @@ Skipped class for 4.1-4.5.
 
 ### ABAC Logical Architecture
 
-![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 09.48.19@2x.jpg>)
+![](<../../../../.gitbook/assets/CleanShot 2021-10-12 at 09.48.19@2x.jpg>)
 
 ### ABAC Policies
 
@@ -29,7 +29,7 @@ Skipped class for 4.1-4.5.
 * It's very inefficient.
 * You have to have a lot more 'trust' here to implement this.
 
-![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 09.51.35@2x.jpg>)
+![](<../../../../.gitbook/assets/CleanShot 2021-10-12 at 09.51.35@2x.jpg>)
 
 ## 4.7: ICAM: Identity, Credential, and Access Management
 
@@ -60,7 +60,7 @@ There are 3 elements you need for enterprise-wide access control facilities.
 
 Solutions: contracts and TOS agreements.
 
-![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 10.05.38@2x.jpg>)
+![](<../../../../.gitbook/assets/CleanShot 2021-10-12 at 10.05.38@2x.jpg>)
 
 ### Open Identity Trust Framework
 
@@ -73,7 +73,7 @@ Solutions: contracts and TOS agreements.
 
 #### Roles within Framework
 
-![](<../../../.gitbook/assets/CleanShot 2021-10-12 at 10.11.57@2x.jpg>)
+![](<../../../../.gitbook/assets/CleanShot 2021-10-12 at 10.11.57@2x.jpg>)
 
 ## Homework
 

@@ -16,7 +16,7 @@ description: Midnight Commander
 
 ## Basics
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-03-09 at 13.38.35@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-09 at 13.38.35@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Important Keyboard Shortcuts
 

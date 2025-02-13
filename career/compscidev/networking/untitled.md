@@ -35,7 +35,7 @@ The queuing will only happen with 2 or more users are transmitted.
 
 ## Links
 
-![](<../../.gitbook/assets/image (365).png>)
+![](<../../../.gitbook/assets/image (365).png>)
 
 #### What is the end-to-end delay of sending a packet of length L = 1000 bytes? (Ignore propagation delay and processing delay)
 
@@ -51,7 +51,7 @@ $$
 
 #### Suppose a file has 5M bytes. Estimate how long it takes to transfer the file to the receiving host.
 
-![7 sec + 20 seconds + 10 seconds to push the whole file onto the 3rd link.](<../../.gitbook/assets/image (366).png>)
+![7 sec + 20 seconds + 10 seconds to push the whole file onto the 3rd link.](<../../../.gitbook/assets/image (366).png>)
 
 ## HTTP Thing
 

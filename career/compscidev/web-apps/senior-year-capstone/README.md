@@ -1,7 +1,5 @@
 # Senior Year Capstone
 
-
-
 |            |                |
 | ---------- | -------------- |
 | Instructor | Dr. Phu Phung. |
@@ -9,15 +7,13 @@
 
 ## Career Skills & Proficiencies
 
-![](<../../../.gitbook/assets/image (117).png>)
+![](<../../../../.gitbook/assets/image (117).png>)
 
 ## Course Goals
 
-
-
 ## Course Description
 
-![](<../../../.gitbook/assets/image (118).png>)
+![](<../../../../.gitbook/assets/image (118).png>)
 
 ### How
 

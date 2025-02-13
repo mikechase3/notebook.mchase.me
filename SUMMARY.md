@@ -4,8 +4,8 @@
 * [Inbox](inbox/README.md)
   * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
 
+## 💼 Career
 
-## 💼 Career <a href="#career" id="career"></a>
 * [Accounting & Financial Statements](career/accounting-and-financial-statements/README.md)
   * [Software](career/accounting-and-financial-statements/software/README.md)
     * [GNU Cash](career/accounting-and-financial-statements/software/gnu-cash.md)
@@ -19,7 +19,7 @@
   * [O-Net](https://www.onetonline.org/)
   * [Salary Negotiation](career/paperwork/salary-negotiation.md)
 * [Code Reviews](career/code-reviews.md)
-* [CompSci-and-Development](career/compscidev/compscidev.md)
+* [CompSci-and-Development](career/compsci-and-development/README.md)
   * [AI](career/compscidev/ai/README.md)
     * [AI Tools Directory](https://www.futurepedia.io/)
     * [AWS Building Intelligent Systems](career/compscidev/ai/artificial-intelligence.md)
@@ -108,7 +108,8 @@
     * [py.Pandas Package](career/compscidev/data-analytics-and-vizualization/pandas/README.md)
       * [Codecademy Cheatsheet](https://www.codecademy.com/learn/data-processing-pandas/modules/dspath-intro-pandas/cheatsheet)
       * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-    * [py.Streamlit Package](career/compscidev/data-analytics-and-vizualization/py.streamlit-package.md)
+    * [py.Streamlit Package](career/compsci-and-development/data-analytics-and-vizualization/py.streamlit-package/README.md)
+      * [Streamlit Dashboard w/ DVC](career/compsci-and-development/data-analytics-and-vizualization/py.streamlit-package/streamlit-dashboard-w-dvc.md)
   * [Databases](career/compscidev/databases/databases.md)
     * [SQL](career/compscidev/databases/mysql.md)
       * [SQLZoo](https://sqlzoo.net/)
@@ -484,7 +485,6 @@
       * [Git/Github Codecademy](https://www.codecademy.com/learn/learn-git)
       * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
       * [Write Git](https://wyag.thb.lt)
-
 * [DoD](career/dod/README.md)
   * [2023](https://sites.google.com/d/1lMeESgjseLp6CShcteykDBZiPwGD2FBl/p/1Cjua4nV8Jxyo7BHo5G_boaaif87Z3VrU/edit)
   * [2023 Almanac](https://www.airandspaceforces.com/article/air-force-space-force-almanac-2023/)
@@ -557,6 +557,7 @@
   * [Innovate or Eliminate](career/time-management/innovate-or-eliminate.md)
 
 ## Communications
+
 * [Journalism](communications/journalism/README.md)
   * [Propaganda](communications/journalism/propaganda/README.md)
     * [Desperate for Attention](communications/journalism/propaganda/desperate-for-attention.md)
@@ -786,7 +787,6 @@
   * [Recommendations](maintenance/automotive/references/README.md)
     * [Crutchfield Car Audio/Video](https://www.crutchfield.com/)
     * [Tirerack Customer Direct](https://www.tirerack.com/content/tirerack/desktop/en/homepage.html)
-
 * [A/V](maintenance/av/av.md)
   * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech_background/TE-15/teces_15.html)
   * [Photography](maintenance/av/photography/README.md)
@@ -796,12 +796,11 @@
       * [Megapixel Limits](https://www.whatdigitalcamera.com/x-archive/megapixel-limits-10774)
   * [Projector Central](https://www.projectorcentral.com/)
   * [Tech Crew Notes](https://www.dropbox.com/sh/fvx3ihr6l8deahb/AAAoGVYLLnRQMr52HySWdyi-a?dl=0)
-  * [UCSC Tech Music Essays](maintenance/av/UCSC-EMS-TechEssays)
+  * [UCSC Tech Music Essays](maintenance/av/ucsc-tech-music-essays.md)
   * [Video Editing](maintenance/av/video-editing/README.md)
     * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse_QY)
     * [Youtube Tips & Tricks](maintenance/av/video-editing/youtube-tips-and-tricks/README.md)
       * [Youtube User/Creator Tips](https://www.youtube.com/watch?v=LicfHxvAlXI)
-
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
 

@@ -1,4 +1,4 @@
-# Graph Representations (L12)
+# Common Graph Operations
 
 ## Common Graph Operations
 
@@ -73,7 +73,7 @@ She describes the text-file as having an x and a y axis. Why? How? Why do node h
 
 #### Reading Data into the text file.
 
-![](<../../../.gitbook/assets/image (69) (5) (5) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (69) (5) (5) (1) (1) (1).png>)
 
 | Function                                        | Description                                 |
 | ----------------------------------------------- | ------------------------------------------- |
@@ -112,9 +112,9 @@ $$
 |V| \cdot |V| \text{ Matrix }A = a_{ij} = \begin{cases} &1 \text{ if } (i,j)\in E\\ &0 \text{ if } (i,j)\notin E \end{cases}
 $$
 
-![](<../../../.gitbook/assets/image (60).png>)
+![](<../../../../.gitbook/assets/image (60).png>)
 
-![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../../.gitbook/assets/image (61).png>)
 
 #### Adjacency Matrix Analysis
 
@@ -137,7 +137,7 @@ $$
 * The size of the array `adj[]` is the number of nodes on the graphs.
 * Each node # points to it's outgoing neighbors.
 
-![An Adjacency List Representation of the Graph](<../../../.gitbook/assets/image (63).png>)
+![An Adjacency List Representation of the Graph](<../../../../.gitbook/assets/image (63).png>)
 
 Adjacency lists maintain a vertex-indexed array of lists.
 
@@ -190,15 +190,15 @@ What is the iterator? Line 20? What is it iterating through? is v's neighbor set
 
 Directed graphs store the outgoing edges in their adjacency list.
 
-![](<../../../.gitbook/assets/image (79) (1).png>)
+![](<../../../../.gitbook/assets/image (79) (1).png>)
 
 ### Directed Graphs API
 
-![](<../../../.gitbook/assets/image (64).png>)
+![](<../../../../.gitbook/assets/image (64).png>)
 
 ### Directed Graphs Implementation
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../../.gitbook/assets/image (65).png>)
 
 ## Importing From a File
 
@@ -206,7 +206,7 @@ Directed graphs store the outgoing edges in their adjacency list.
 Go through this later to see if I understand it.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (66).png>)
+![](<../../../../.gitbook/assets/image (66).png>)
 
 ## Summary
 
@@ -216,8 +216,8 @@ Go through this later to see if I understand it.
 
 ## Works Cited
 
-| Title                      | Content Used           | Author                                                                                           |
-| -------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ |
-| CPS 450 Class              | Structure              | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao\_zhongmei.php) |
-| Introduction to Algorithms | Adjacency Matrix       | Thomas e.t. al.                                                                                  |
-| Graph                      | None, but see quizzes. | Visualgo                                                                                         |
+| Title                      | Content Used           | Author                                                                                          |
+| -------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------- |
+| CPS 450 Class              | Structure              | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
+| Introduction to Algorithms | Adjacency Matrix       | Thomas e.t. al.                                                                                 |
+| Graph                      | None, but see quizzes. | Visualgo                                                                                        |

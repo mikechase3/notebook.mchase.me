@@ -8,7 +8,7 @@ By the way - you should check out his videos because they're awesome. Even thoug
 
 ### Mathematical Representation
 
-* A [graph](https://en.wikipedia.org/wiki/Graph\_\(abstract\_data\_type\)) is a mathematical object that consists of a [set](https://en.wikipedia.org/wiki/Set\_\(mathematics\)) of vertices (or "nodes") and a set of edges connecting those nodes together.
+* A [graph](https://en.wikipedia.org/wiki/Graph_\(abstract_data_type\)) is a mathematical object that consists of a [set](https://en.wikipedia.org/wiki/Set_\(mathematics\)) of vertices (or "nodes") and a set of edges connecting those nodes together.
 * We stress that you see a graph as a mathematical object that takes the form `G = (V, E)`. A graph consists of a set of vertices and a set of edges.
 * We say this because many get confused by the many ways a graph can be _represented_ and get stuck on details. In the problem-solving process, it is of great help to "see the larger picture" and understand that a graph just consists of **2 sets** (`V` & `E`).
 
@@ -38,7 +38,7 @@ $$
 
 ### Vertices (V)
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../../.gitbook/assets/image (51).png>)
 
 * Vertices is the set of all the vertices.
 * These are connected by edges.
@@ -47,7 +47,7 @@ $$
 
 ### Edges
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../../../.gitbook/assets/image (52).png>)
 
 * Edges connect the vertices together.
 * The order in which you write out the edges doesn't matter
@@ -70,7 +70,7 @@ Terminology of edges, using the example `{u,v}`
 
 Digraphs mean that edges are directed edges. It's short for _directed graph_.
 
-![](<../../../.gitbook/assets/image (55).png>)
+![](<../../../../.gitbook/assets/image (55).png>)
 
 * The in-degree of vertex `v` is 2 because v is the head of two incoming tails.
 * The out-degree of vertex `v` is 3 because v is the tail of three outgoing heads.
@@ -131,7 +131,7 @@ A component is a subgraph is a graph that has all the properties of u and v in t
 
 The components are where we can find a path from every single pair of `u` and `v`'s.
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../../.gitbook/assets/image (57).png>)
 
 In this example:
 
@@ -152,9 +152,9 @@ Is this actually what a strong connection means?
 
 Strong connections between two nodes means there is a connection to each other. Given two vertices: `u` and `v`, a _strong connection_ implies`v` can get to `u` and `u` can get to `v`.
 
-![Strong Connection](<../../../.gitbook/assets/image (58).png>)
+![Strong Connection](<../../../../.gitbook/assets/image (58).png>)
 
-![No strong connection between u and v.](<../../../.gitbook/assets/image (59).png>)
+![No strong connection between u and v.](<../../../../.gitbook/assets/image (59).png>)
 
 ### Tree Terminology
 
@@ -187,8 +187,8 @@ Minimum spanning:
 
 ## Works Cited
 
-| Title                                                                                 | Content Used         | Author                                                                                           |
-| ------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
-| CPS 450 Class                                                                         | Structure            | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao\_zhongmei.php) |
-| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals)               |
-|                                                                                       |                      |                                                                                                  |
+| Title                                                                                 | Content Used         | Author                                                                                          |
+| ------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------- |
+| CPS 450 Class                                                                         | Structure            | [Dr. Zhongmei Yao](https://udayton.edu/directory/artssciences/computerscience/yao_zhongmei.php) |
+| [Graphs Fundamentals](https://backtobackswe.com/platform/content/graphs-fundamentals) | Fundamentals Section | [Back to Back SWE](https://backtobackswe.com/platform/content/graphs-fundamentals)              |
+|                                                                                       |                      |                                                                                                 |

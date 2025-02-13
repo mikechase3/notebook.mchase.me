@@ -74,13 +74,13 @@ Input validation must be implemented in both the client-side and server side.
 
 ### HTML5 Form Validation
 
-![Example HTML5 Form Validation](<../../../.gitbook/assets/image (451).png>)
+![Example HTML5 Form Validation](<../../../../.gitbook/assets/image (451).png>)
 
 ### HTML5 Placeholders
 
 A placeholder attribute is used to guide the user to the expected input:
 
-![](<../../../.gitbook/assets/image (453).png>)
+![](<../../../../.gitbook/assets/image (453).png>)
 
 ```markup
 <input type="text" class="text_field" name="username" 
@@ -91,7 +91,7 @@ A placeholder attribute is used to guide the user to the expected input:
 
 The `title` attribute is used to browsers to display a message in case of a mismatch.
 
-![](<../../../.gitbook/assets/image (452).png>)
+![](<../../../../.gitbook/assets/image (452).png>)
 
 ```markup
 <input type="text" name="username" required pattern="\w+"
@@ -101,7 +101,7 @@ onchange="this.setCustomValidity(this.validity.patternMismatch ? this.title : ' 
 
 ### Adding Validation Code
 
-Here is the code we should add to the `registrationform.php` file and upload to the server.  This code validates usernames, only if they accept a valid email.
+Here is the code we should add to the `registrationform.php` file and upload to the server. This code validates usernames, only if they accept a valid email.
 
 ```markup
 <!-- Must be an email address as username -->
@@ -128,7 +128,7 @@ onchange="this.setCustomValidity(this.validity.patternMismatch?this.title: '');"
 
 ### Validation Demonstration
 
-![](<../../../.gitbook/assets/image (454).png>)
+![](<../../../../.gitbook/assets/image (454).png>)
 
 {% embed url="https://www.aspsnippets.com/Articles/HTML5-Validations-example-Required-Email-Password-Strength-and-Compare-Password-validations-in-HTML5.aspx" %}
 

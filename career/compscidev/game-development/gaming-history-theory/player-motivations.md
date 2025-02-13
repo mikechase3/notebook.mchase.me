@@ -91,15 +91,15 @@
 
 Why do players play? What do they find interesting?
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-09-30 at 09.52.14@2x.png" alt=""><figcaption><p>Stiffler's Notes</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-09-30 at 09.52.14@2x.png" alt=""><figcaption><p>Stiffler's Notes</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-09-30 at 09.53.20@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-09-30 at 09.53.20@2x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-09-30 at 09.53.52@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-09-30 at 09.53.52@2x.png" alt=""><figcaption></figcaption></figure>
 
 Hero's Journey (from stiffler's slides):
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-09-30 at 09.58.20@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-09-30 at 09.58.20@2x.png" alt=""><figcaption></figcaption></figure>
 
 .
 

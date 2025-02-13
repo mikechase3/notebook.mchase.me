@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<figure><img src="../../../.gitbook/assets/image (663).png" alt=""><figcaption><p>Source: Wikipedia</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (663).png" alt=""><figcaption><p>Source: Wikipedia</p></figcaption></figure>
 
 * Bipartite graphs can be colored red & blue.
 * If you can represent a problem using bipartite graphs, you can find smart solutions.
@@ -24,5 +24,5 @@
 
 ## Bipartite Graphs
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,9 +4,9 @@
 
 * The **SMM** stands for the System Management Module. Before the operating system takes over and gets booted up, you can put an intel chip into a different configuration and have extremely low-level access to the chip before the operating system boots up.
 
-![](<../../../.gitbook/assets/image (627).png>)
+![](<../../../../.gitbook/assets/image (627).png>)
 
-* The **TPM** makes sure that the firmware of BIOS/SMM doesn't change.&#x20;
+* The **TPM** makes sure that the firmware of BIOS/SMM doesn't change.
 * **Physical hardware:** has a series of gates that you can re-configure the hardware on-the-fly. An `FPGA` has an array of gates with no particular configuration, but you can reconfigure them on-the-fly and corrupt the physical hardware.
   * Also... who is building these circuits?
   * Can China build it in a way that compromises US systems?
@@ -32,7 +32,7 @@
 * Who is going to be responsible for the responsibility of this system?
 * Identify all appropriate personnel and training to install/manage the system.
 
-![Source: Dr. Baldwin's slides.](<../../../.gitbook/assets/image (628).png>)
+![Source: Dr. Baldwin's slides.](<../../../../.gitbook/assets/image (628).png>)
 
 ## 12.3: Operating System Hardening
 
@@ -55,7 +55,7 @@ We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/
 
 ### OS Installation: Initial setup and patching.
 
-![](<../../../.gitbook/assets/image (629).png>)
+![](<../../../../.gitbook/assets/image (629).png>)
 
 1. Be disconnected from the network.
 2. Install minimum necessary for the desired system.
@@ -85,7 +85,7 @@ We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/
 
 ### Encryption Technology
 
-![Dr. Baldwin's Slides](<../../../.gitbook/assets/image (630).png>)
+![Dr. Baldwin's Slides](<../../../../.gitbook/assets/image (630).png>)
 
 * Encrypt your file system.
 * Encrypt SSH keys.
@@ -101,7 +101,7 @@ We'll be doing #2 in the project. Remove unnecessary services/apps/ports/groups/
 1. Logs can only inform you about bad things that already happened.
 2. Logs help system administrators figure out what happened more quickly.
 3. Range of data acquired: you can/should tailor which information you want logged.
-4. **Automated analysis** is preferred.&#x20;
+4. **Automated analysis** is preferred.
 5. Logs generate a large amount of information, so it's important space is allocated to them.
 
 ### Data Backup and Archive
@@ -164,11 +164,11 @@ Mediums are out of date.
 
 #### Integrity
 
-* **Mandatory Integrity Controls**:&#x20;
+* **Mandatory Integrity Controls**:
 * **Integrity Levels**: the windows system will not let it write any information to higher levels.
 * **Biba Integrity Model**: Biba was a researcher. It basically makes sure that objects with low integrity levels aren't messing with things of high integrity levels.
 
-![Integrity Controls](<../../../.gitbook/assets/image (633).png>)
+![Integrity Controls](<../../../../.gitbook/assets/image (633).png>)
 
 #### Low Privilege Service Accounts
 
@@ -199,21 +199,19 @@ Mediums are out of date.
 
 ### Virtualization Alternatives
 
-![](<../../../.gitbook/assets/image (634).png>)
+![](<../../../../.gitbook/assets/image (634).png>)
 
 ### Native Virtualization
 
-Native virtualization&#x20;
+Native virtualization
 
-![](<../../../.gitbook/assets/image (635).png>)
+![](<../../../../.gitbook/assets/image (635).png>)
 
 ### Host Virtualization
 
-Whatever you install it on,&#x20;
+Whatever you install it on,
 
-
-
-![](<../../../.gitbook/assets/image (636).png>)
+![](<../../../../.gitbook/assets/image (636).png>)
 
 ### Virtualization Security Issues
 
@@ -223,7 +221,7 @@ Whatever you install it on,&#x20;
 
 ### Securing Virtualization Systems
 
-* It's an operating system, so all of these things&#x20;
+* It's an operating system, so all of these things
 
 ## Works Cited
 

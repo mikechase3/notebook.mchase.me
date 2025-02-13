@@ -12,11 +12,11 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image (666).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (666).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (667).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (667).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -79,7 +79,7 @@ Reduces the number of bits & is lossless.
 
 ### Representations of Polynomials
 
-<figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
 * Currently, multiply (convolve) is expensive with the brute force approach and takes O(n^2) time.
 
@@ -112,7 +112,7 @@ How do we convert coefficient form to point value? That's the goal of this.
 
 #### Intuition Slide
 
-<figure><img src="../../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
 
 #### The "Fun Part"
 
@@ -120,7 +120,7 @@ How do we convert coefficient form to point value? That's the goal of this.
 * We don't have to re-execute because we have a value obtained in some operation.&#x20;
 * Just **multiply** things by **-x**.
 
-<figure><img src="../../../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
 
 ### Discrete Fourier Transform
 
@@ -130,7 +130,7 @@ How do we convert coefficient form to point value? That's the goal of this.
 
 {% embed url="https://www.youtube.com/watch?v=0r2qGONXTa4" %}
 
-<figure><img src="../../../.gitbook/assets/image (674).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (674).png" alt=""><figcaption></figcaption></figure>
 
 ### Tutorial: Nth roots of unity
 

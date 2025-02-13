@@ -17,7 +17,7 @@ How do I analyze the running time of algorithms so I can develop equations that 
 
 ## Recurrence Relations
 
-If this makes no sense to you, you might want to go back and check out [recurrence relations](https://users.cs.duke.edu/\~ola/ap/recurrence.html).
+If this makes no sense to you, you might want to go back and check out [recurrence relations](https://users.cs.duke.edu/~ola/ap/recurrence.html).
 
 ## Big-O Notation
 
@@ -25,7 +25,7 @@ If this makes no sense to you, you might want to go back and check out [recurren
 
 ###
 
-![Note: x is the same as n in the below definitions.](../../../../computer-science/.gitbook/assets/image%20\(35\).png)
+![Note: x is the same as n in the below definitions.](../../../../../computer-science/.gitbook/assets/image%20\(35\).png)
 
 ### Formal Definition
 
@@ -48,11 +48,11 @@ O(g(n)) = { f(n): there exist positive constants c and n0
 
 ### Common Orders
 
-![Source: Wikimedia Commons](../../../../computer-science/.gitbook/assets/image%20\(36\).png)
+![Source: Wikimedia Commons](../../../../../computer-science/.gitbook/assets/image%20\(36\).png)
 
-### [Applications](https://en.wikipedia.org/wiki/Big\_O\_notation#Orders\_of\_common\_functions)
+### [Applications](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
 
-![](../../../../computer-science/.gitbook/assets/image%20\(33\).png)
+![](../../../../../computer-science/.gitbook/assets/image%20\(33\).png)
 
 ## [Little Oh Notation (o)](https://www.tutorialspoint.com/little-oh-notation-o)
 
@@ -98,11 +98,11 @@ $$
 
 When I graphed them in Desmos, I got these:
 
-![The first, second, and third equation is red, blue, and green respectively.](../../../../computer-science/.gitbook/assets/desmos-graph.png)
+![The first, second, and third equation is red, blue, and green respectively.](../../../../../computer-science/.gitbook/assets/desmos-graph.png)
 
 The bounds also don't have to be touching exactly. Here's an [example](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) from [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation):
 
-![](../../../../computer-science/.gitbook/assets/image%20\(39\)%20\(1\)%20\(1\).png)
+![](../../../../../computer-science/.gitbook/assets/image%20\(39\)%20\(1\)%20\(1\).png)
 
 Note here that we don't care about the small cases, but only when `n` gets really large, or after the dashed line in this case.
 
@@ -118,11 +118,11 @@ Note here that we don't care about the small cases, but only when `n` gets reall
 
 ## Works Cited
 
-| Title                                                                                                                                | Content Used                                                                                                              | Author                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [Asymptotic Notations](https://www.programiz.com/dsa/asymptotic-notations)                                                           | Definitions, Graphs                                                                                                       | Programiz                                                                                                                      |
-| [Big O Notation](https://en.wikipedia.org/wiki/Big\_O\_notation)                                                                     | [Applications / Orders of Common Functions](https://en.wikipedia.org/wiki/Big\_O\_notation#Orders\_of\_common\_functions) | [Wikipedia](https://en.wikipedia.org/wiki/Big\_O\_notation#Orders\_of\_common\_functions)                                      |
-| [Little Oh Notation (o)](https://www.tutorialspoint.com/little-oh-notation-o)                                                        | Little-o notation.                                                                                                        | [Tutorials Point](https://www.tutorialspoint.com/little-oh-notation-o)                                                         |
-| [Big Theta and Asymptotic Notations Explained](https://www.freecodecamp.org/news/big-theta-and-asymptotic-notation-explained/)       | Pizza guy examples. Theta definition.                                                                                     | [FreeCodeCamp](https://www.freecodecamp.org/news/big-theta-and-asymptotic-notation-explained/)                                 |
-| [Big Theta Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) | Graph of running time with dash in it.                                                                                    | [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) |
-| [What is Big Omega Notation?](https://www.freecodecamp.org/news/big-omega-notation/)                                                 | Definitions                                                                                                               | Free Code Camp                                                                                                                 |
+| Title                                                                                                                                | Content Used                                                                                                         | Author                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [Asymptotic Notations](https://www.programiz.com/dsa/asymptotic-notations)                                                           | Definitions, Graphs                                                                                                  | Programiz                                                                                                                      |
+| [Big O Notation](https://en.wikipedia.org/wiki/Big_O_notation)                                                                       | [Applications / Orders of Common Functions](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions) | [Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)                                           |
+| [Little Oh Notation (o)](https://www.tutorialspoint.com/little-oh-notation-o)                                                        | Little-o notation.                                                                                                   | [Tutorials Point](https://www.tutorialspoint.com/little-oh-notation-o)                                                         |
+| [Big Theta and Asymptotic Notations Explained](https://www.freecodecamp.org/news/big-theta-and-asymptotic-notation-explained/)       | Pizza guy examples. Theta definition.                                                                                | [FreeCodeCamp](https://www.freecodecamp.org/news/big-theta-and-asymptotic-notation-explained/)                                 |
+| [Big Theta Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) | Graph of running time with dash in it.                                                                               | [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation) |
+| [What is Big Omega Notation?](https://www.freecodecamp.org/news/big-omega-notation/)                                                 | Definitions                                                                                                          | Free Code Camp                                                                                                                 |

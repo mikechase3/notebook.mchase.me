@@ -1,10 +1,10 @@
 # 04 Snapping
 
-## Snapping ![](<../../../.gitbook/assets/image (651) (1).png>)
+## Snapping ![](<../../../../.gitbook/assets/image (651) (1).png>)
 
 When we use transform operations, sometimes we want to snap things to the surface we're editing. We can do this by turning on snapping and changing the 'type' to `Face`:
 
-![Switch to "Face" and turn on "Project Individual Elements"](<../../../.gitbook/assets/image (643) (1) (1).png>)
+![Switch to "Face" and turn on "Project Individual Elements"](<../../../../.gitbook/assets/image (643) (1) (1).png>)
 
 ## Splitting/Joining Viewport
 
@@ -12,7 +12,7 @@ When we use transform operations, sometimes we want to snap things to the surfac
 
 ## Image Editor
 
-![](<../../../.gitbook/assets/image (654) (1).png>)
+![](<../../../../.gitbook/assets/image (654) (1).png>)
 
 ## Extruding a Mesh
 
@@ -22,7 +22,7 @@ When we use transform operations, sometimes we want to snap things to the surfac
 
 To select around the doughnut, select an edge loop by selecting a few vertices and using `Select => Select => Edge Ring`.
 
-![Doughnut with edge ring selected](<../../../.gitbook/assets/image (668).png>)
+![Doughnut with edge ring selected](<../../../../.gitbook/assets/image (668).png>)
 
 ## Shrink Wrap Modifier
 

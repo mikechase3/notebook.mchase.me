@@ -4,11 +4,11 @@
 
 ### Cloud Architectures
 
-![](<../../../.gitbook/assets/image (356).png>)
+![](<../../../../.gitbook/assets/image (356).png>)
 
 ### Cloud Service Providers
 
-![](<../../../.gitbook/assets/image (357).png>)
+![](<../../../../.gitbook/assets/image (357).png>)
 
 ### Heroku: Our Cloud Service Provider
 
@@ -41,27 +41,27 @@
 
 #### Create a new folder
 
-![](<../../../.gitbook/assets/image (359).png>)
+![](<../../../../.gitbook/assets/image (359).png>)
 
 #### NPM Init
 
-![](../../../.gitbook/assets/screenshot\_2020-09-22-14.28.26\_83xlba.jpg)
+![](../../../../.gitbook/assets/screenshot_2020-09-22-14.28.26_83xlba.jpg)
 
 #### Deploying on the Shell
 
-![](<../../../.gitbook/assets/image (360).png>)
+![](<../../../../.gitbook/assets/image (360).png>)
 
-![](<../../../.gitbook/assets/image (362).png>)
+![](<../../../../.gitbook/assets/image (362).png>)
 
-![](<../../../.gitbook/assets/image (361).png>)
+![](<../../../../.gitbook/assets/image (361).png>)
 
 ## Re-Deploying Your Code
 
-![](<../../../.gitbook/assets/image (363).png>)
+![](<../../../../.gitbook/assets/image (363).png>)
 
 ## Analysis to Design Implementation Model Flow
 
-![](<../../../.gitbook/assets/image (364).png>)
+![](<../../../../.gitbook/assets/image (364).png>)
 
 ##
 

@@ -6,21 +6,19 @@ description: Lecture 2, 3, 4.
 
 ## How Networks Work
 
-![](<../../../.gitbook/assets/image (404).png>)
+![](<../../../../.gitbook/assets/image (404).png>)
 
-![](<../../../.gitbook/assets/image (405).png>)
+![](<../../../../.gitbook/assets/image (405).png>)
 
-![](<../../../.gitbook/assets/image (406).png>)
+![](<../../../../.gitbook/assets/image (406).png>)
 
 ## Ubuntu & Git Setup
 
-![](<../../../.gitbook/assets/image (407).png>)
+![](<../../../../.gitbook/assets/image (407).png>)
 
+![](<../../../../.gitbook/assets/image (408).png>)
 
-
-![](<../../../.gitbook/assets/image (408).png>)
-
-![](<../../../.gitbook/assets/image (409).png>)
+![](<../../../../.gitbook/assets/image (409).png>)
 
 ## Network Security
 
@@ -42,4 +40,3 @@ description: Lecture 2, 3, 4.
 * The 'displayed' is the bottom number in the status bar.
 
 About the TCP stream, it'll be encrypted.
-

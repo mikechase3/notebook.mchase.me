@@ -30,9 +30,9 @@ Payload actions are performed by malware once it reaches a target.
 
 ### Terminology
 
-![Source: Brown and Stallings. Security Principles and Practices.](<../../../.gitbook/assets/image (562).png>)
+![Source: Brown and Stallings. Security Principles and Practices.](<../../../../.gitbook/assets/image (562).png>)
 
-![](<../../../.gitbook/assets/image (563).png>)
+![](<../../../../.gitbook/assets/image (563).png>)
 
 ### Attack Kits
 
@@ -70,7 +70,7 @@ There are a lot of different reasons why people attack systems.
 
 ### APT Characteristics
 
-![Brown and Stallings](<../../../.gitbook/assets/image (564).png>)
+![Brown and Stallings](<../../../../.gitbook/assets/image (564).png>)
 
 ### APT Attacks
 
@@ -101,7 +101,7 @@ Viruses goes through its propagation and tries to spread to any number of other 
 
 ### Virus Structure
 
-![Source: Brown Stallings.](<../../../.gitbook/assets/image (565).png>)
+![Source: Brown Stallings.](<../../../../.gitbook/assets/image (565).png>)
 
 #### More on Compression Virus
 
@@ -111,32 +111,32 @@ A compression virus inserts itself such that the virus size doesn't change.
 
 ### Virus Classifications
 
-![](<../../../.gitbook/assets/image (566).png>)
+![](<../../../../.gitbook/assets/image (566).png>)
 
-![](<../../../.gitbook/assets/image (567).png>)
+![](<../../../../.gitbook/assets/image (567).png>)
 
-![](<../../../.gitbook/assets/image (568).png>)
+![](<../../../../.gitbook/assets/image (568).png>)
 
 ### Macros and Scripting
 
-![](<../../../.gitbook/assets/image (569).png>)
+![](<../../../../.gitbook/assets/image (569).png>)
 
 ## 6.4: Worms
 
-![](<../../../.gitbook/assets/image (570).png>)
+![](<../../../../.gitbook/assets/image (570).png>)
 
 ### Worm Target Discovery: Scanning Strategies
 
 Every worm does some sort-of scanning. When you ping a particular port, if there is a service available on that port, it is going to respond in some manner or fashion. The software that services hat port might change depending on the version or who wrote that software. For example, TCP software adheres to that standard, but they have slightly different versions of TCP. By saying it's running this company's version of TCP on this versions of Windows, it can tell that there's an exploit for that.
 
-* **Random**: a very noisy attack which will generate high volumes of internet traffic.&#x20;
+* **Random**: a very noisy attack which will generate high volumes of internet traffic.
 * **Hit-List**: You know where you're trying to go. You have a list of particular machines you're interested in or know that you have an exploit for this. Once a machine is affected, it is assigned a portion of that list to work on. It results in a short scanning period and is a lot more efficient.
 * **Topological:** This uses information on the affected machine to decide where it's going to attack next.
 * **Local Subnet**: You have this one subnet where you trust everyone by default. Since everyone is trusted within this subnet, I'm going to start looking for machines that are already in this subnet.
 
 ### Worm Propagation Model
 
-![From "Computer Security Principles and Practices"](<../../../.gitbook/assets/image (582).png>)
+![From "Computer Security Principles and Practices"](<../../../../.gitbook/assets/image (582).png>)
 
 ### The Morris Worm (p.219)
 
@@ -149,7 +149,7 @@ Every worm does some sort-of scanning. When you ping a particular port, if there
 
 ### Recent Worms
 
-![Source: Rusty Baldwin's Slides](<../../../.gitbook/assets/image (583).png>)
+![Source: Rusty Baldwin's Slides](<../../../../.gitbook/assets/image (583).png>)
 
 * **Miria**: Interesting because it specifically targeted unsecured IoT devices. 600K infected devices induced a DDoS attack of 901 Gbps. A typical DDosS attack was 10-20Gbps.
 
@@ -191,7 +191,7 @@ These aren't mobile phones
 * Tricking users to assist in the compromise of their own systems.
 * **Spam:** unsolicited bulk email, significant carrier of malware, used for phishing attacks.
 * **Trojan Horse:** Idk.
-* **Mobile Phone Trojans:**&#x20;
+* **Mobile Phone Trojans:**
 
 ## 6.6: Payload System Corruption (227)
 
@@ -208,7 +208,7 @@ These aren't mobile phones
 
 ### Remote Control Facility (RCF)
 
-* RCF is a means of implementing the remote control facility&#x20;
+* RCF is a means of implementing the remote control facility
 * It issues all the commands for the bots.
 
 ### Keylogger
@@ -222,7 +222,7 @@ These aren't mobile phones
 ### Phishing
 
 * **Spear-Phishing**: is where recipients are carefully researched by the attacker.
-* They are only sending messages to you.&#x20;
+* They are only sending messages to you.
 
 ## 6.9: Payloads, Stealthing, Backdoors, Rootkits (233).
 
@@ -237,9 +237,9 @@ Incomplete
 
 #### Characteristics
 
-1. **Persistent**:&#x20;
-2. **Memory Based**:&#x20;
-3. **User Mode**:&#x20;
+1. **Persistent**:
+2. **Memory Based**:
+3. **User Mode**:
 4. **Kernel Mode**: At a super high level.
 5. **Virtual Machine Based**: Some root kits can break out of virtual machines.
 6. **External Mode**: Basically used to exfiltrate data with respect to their operation.
@@ -252,9 +252,7 @@ Dr. Baldwin - I hear the words coming out of you mouth, but I don't understand :
 
 This is an attack where you change the contents of memory and update something in the system call table.
 
-
-
-![](<../../../.gitbook/assets/image (584).png>)
+![](<../../../../.gitbook/assets/image (584).png>)
 
 * On a linux system, if you want to execute another process, it's called _forking_ a process. It executes another process for you.
 
@@ -282,7 +280,7 @@ This is an attack where you change the contents of memory and update something i
 
 * As software has been more sophisticated, the software has been moving to the _host_ level, not the server itself.
 * This integrates with the OS of the host itself and monitors behavior in real-time.
-* Let's monitor it and stop it before it does any damage.&#x20;
+* Let's monitor it and stop it before it does any damage.
 * **Limitations**: because malicious code must run on the target machine before all its behaviors can be identified, it has to cause harm before the _cat_ gets smarter. (Cat being blocking).
 
 ### (Network) Perimeter Scanning
@@ -302,44 +300,42 @@ This is an attack where you change the contents of memory and update something i
 Flashcards Available Here
 {% endembed %}
 
-6.1 What are three broad mechanisms that malware can use to propagate?&#x20;
+6.1 What are three broad mechanisms that malware can use to propagate?
 
 * Injection, exploits, and social engineering.
 
-6.2 What are four broad categories of payloads that malware may carry?&#x20;
+6.2 What are four broad categories of payloads that malware may carry?
 
 * DoS attacks
 *
 
-6.3 What characteristics of an advanced persistent threat give it that name?&#x20;
+6.3 What characteristics of an advanced persistent threat give it that name?
 
-6.4 What are typical phases of operation of a virus or worm?&#x20;
+6.4 What are typical phases of operation of a virus or worm?
 
-6.5 What mechanisms can a virus use to conceal itself?&#x20;
+6.5 What mechanisms can a virus use to conceal itself?
 
-6.6 What is the difference between machine executable and macro viruses?&#x20;
+6.6 What is the difference between machine executable and macro viruses?
 
-6.7 What means can a worm use to access remote systems to propagate?&#x20;
+6.7 What means can a worm use to access remote systems to propagate?
 
-6.8 What is a “drive-by-download” and how does it differ from a worm?&#x20;
+6.8 What is a “drive-by-download” and how does it differ from a worm?
 
-6.9 How does a Trojan enable malware to propagate? How common are Trojans on com-puter systems? Or on mobile platforms?&#x20;
+6.9 How does a Trojan enable malware to propagate? How common are Trojans on com-puter systems? Or on mobile platforms?
 
-6.10 What is a “logic bomb”?&#x20;
+6.10 What is a “logic bomb”?
 
-6.11 What is the difference between a backdoor, a bot, a keylogger, spyware, and a rootkit? Can they all be present in the same malware?&#x20;
+6.11 What is the difference between a backdoor, a bot, a keylogger, spyware, and a rootkit? Can they all be present in the same malware?
 
-6.12 What is the difference between a “phishing” attack and a “spear-phishing” attack, par-ticularly in terms of who the target may be?&#x20;
+6.12 What is the difference between a “phishing” attack and a “spear-phishing” attack, par-ticularly in terms of who the target may be?
 
-6.13 List some the different levels in a system that a rootkit may use.&#x20;
+6.13 List some the different levels in a system that a rootkit may use.
 
-6.14 Describe some malware countermeasure elements.&#x20;
+6.14 Describe some malware countermeasure elements.
 
-6.15 List three places malware mitigation mechanisms may be located.&#x20;
+6.15 List three places malware mitigation mechanisms may be located.
 
 6.16 Briefly describe the four generations of anti-virus software.
-
-
 
 ## 6.11: Summary/Homework Conflicted Copy
 
@@ -375,8 +371,6 @@ Flashcards Available Here
 14. List a few characteristics to classify rootkits.
 15. Briefly describe the elements of a GD scanner.
 16. Describe some rootkit countermeasures.
-
-
 
 ## Works Cited
 

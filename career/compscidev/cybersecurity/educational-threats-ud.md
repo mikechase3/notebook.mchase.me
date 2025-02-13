@@ -20,7 +20,7 @@
 * They have a license to collect 100GB of log data for something. Then, if it gets pulled into a central log solution they can start doing checks and vulnerability assessments. It sits in their environment & scans all the servers/appliances and if they're up to date.
 * **Aruba Clearpass**: \_\_idk\_\_
 
-<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
 
 ### Information
 

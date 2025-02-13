@@ -268,23 +268,23 @@ An important part of debugging is learning what went wrong & learning from it. I
 
 While debugging, I noticed that it's never activated when I hit shift and move the mouse. An important part of programming is figuring out what actually is going wrong&#x20;
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 08.43.16@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 08.43.16@2x.png" alt=""><figcaption></figcaption></figure>
 
 It is generally bad practice to be changing the same global variables in callbacks... especially since python now supports multithreading soon. As of April 2024, there was a GIL (global interperter lock) that prevented the same interperter from running things concurrently despite there being a threading library. I think you could disable the GIL if you were using that library but it wasn't encouraged by devs for some reason and instead they told me to go learn C, C++, and`Go.`&#x20;
 
 Looks like I just missed a function call (aka no parenthesis at the end):
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 08.54.30@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 08.54.30@2x.png" alt=""><figcaption></figcaption></figure>
 
 And oh nnooooooooo it turns out I didn't fix the last bug after all:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 08.55.28@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 08.55.28@2x.png" alt=""><figcaption></figcaption></figure>
 
 #### Refactoring to Split Handling Shift Into Multiple Functions
 
 The great oracle of chat gippity told me to refactor my crap code so I did. Wouldn't you? The more I do this, the better of a coder I become; however, I look incredibly suspicious when turning this for an assignment. Did anyone write code this good 10 years ago just to get things working? Probably senior devs who know better. Anyways, made these changes.&#x20;
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 09.02.17@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 09.02.17@2x.png" alt=""><figcaption></figcaption></figure>
 
 I don't like their suggestion because of how it's all coupled together, but whatever. Once I typed it in I realized that I had to register more callback functions within main which I thought would be inefficient but with few lines of code and no loops it runs smoothly.&#x20;
 
@@ -307,7 +307,7 @@ After making these changes, more stuff broke and I forget what I even fixed now 
         glEnd()
 ```
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 09.46.55@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 09.46.55@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Toggling with Space Instead
 
@@ -338,7 +338,7 @@ Before reading code, go back to the [quaternions](opengl-bunny-transformations.m
 
 
 
-<div><figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.26.14@2x.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/CleanShot 2024-04-14 at 10.24.30.gif" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 10.26.14@2x.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/CleanShot 2024-04-14 at 10.24.30.gif" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
@@ -367,17 +367,17 @@ def create_bunny():
 
 
 
-<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Then after some work I got my bunny to translate wrong again, but I think I know what's wrong. It's my viewing/camera angle!
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.38.07.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-15 at 22.38.07.gif" alt=""><figcaption></figcaption></figure>
 
 We'll come back to this with the rotational part with a new tool?
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 18.58.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 18.58.26.png" alt=""><figcaption></figcaption></figure>
 
 ### Debugging GL Variables
 
@@ -387,7 +387,7 @@ Let's just open the debugger's open variables and wham!:
 
 <summary>How many variables does OpenGL Need?</summary>
 
-<img src="../../.gitbook/assets/CleanShot 2024-04-15 at 21.36.30.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/CleanShot 2024-04-15 at 21.36.30.png" alt="" data-size="original">
 
 </details>
 
@@ -395,7 +395,7 @@ I thought that was a wonderful peek under the hood at what this library is keepi
 
 The issue with the program was not related to the viewing angle, but rather the lack of a proper implementation for mouseUP/Down. This caused the program to always refer to the last clicked position, without accounting for new clicks or mouse movement without clicking. I also inverted the y-axis because of how the coordinate system is referenced in OpenGL.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-15 at 22.58.47.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-15 at 22.58.47.gif" alt=""><figcaption></figcaption></figure>
 
 ### Code Analysis
 
@@ -463,7 +463,7 @@ Here's some theory. We did a derivation elsewhere but the equation is the most i
 
 The order in which you multiply matrices matters because the sequence determines how the transformations are applied to the object. Unfortunately all I know is R stands for rotation, T stands for translation. What's P? Who knows, but let's review the notes:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.26.36@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 09.26.36@2x.png" alt=""><figcaption></figcaption></figure>
 
 Professor gave us some guidance.&#x20;
 
@@ -522,7 +522,7 @@ This is a decent AI story I'll use if I ever become a professor and why it's goo
 
 
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-16 at 09.46.21.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-16 at 09.46.21.gif" alt=""><figcaption></figcaption></figure>
 
 ### Resources for Finding Expected Outputs
 
@@ -536,4 +536,4 @@ In my attempt to build matrices from my notes, I failed & used some helpful reso
 
 Got it working here:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-04-23 at 12.43.46.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2024-04-23 at 12.43.46.gif" alt=""><figcaption></figcaption></figure>

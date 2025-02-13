@@ -19,4 +19,7 @@ Example:
 In sorting algorithms, sometimes we divide arrays into smaller arrays so we can solve each small part by brute force and put them together.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Divide and Conquer .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Divide and Conquer .png" alt=""><figcaption></figcaption></figure>
+
+
+

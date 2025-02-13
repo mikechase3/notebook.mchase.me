@@ -22,7 +22,7 @@
 ### More on Tight Bounds
 
 * Tight bounds aren't really the average case.
-* If the limit of 2 functions converges to a positive constant though, we can say it's a tight bound. ![TightBounds](../../../.gitbook/assets/asymptotic-tight-bounds.png)
+* If the limit of 2 functions converges to a positive constant though, we can say it's a tight bound. ![TightBounds](../../../../.gitbook/assets/asymptotic-tight-bounds.png)
 
 ### Properties
 
@@ -36,7 +36,7 @@ Things in polynomial time _grow_ slower than functions that run in logarithm tim
 
 ## 2.3: Stable Matching with Lists and Arrays
 
-The [stable matching](../../../computer-science/data-structures-and-algorithms/algorithm-analysis/computer-science/data-structures-and-algorithms/StableMatching.md) problem can be implemented in O(n^2) time.
+The [stable matching](../../../../computer-science/data-structures-and-algorithms/algorithm-analysis/computer-science/data-structures-and-algorithms/StableMatching.md) problem can be implemented in O(n^2) time.
 
 ## 2.4: Common Running Times
 

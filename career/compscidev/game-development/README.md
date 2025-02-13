@@ -4,7 +4,7 @@
 
 There's a lot in game engines. Suggest peeking at this roadmap as it provides a nice overview rather than picking a game engine and just going at it. [Github](https://github.com/kamranahmedse/developer-roadmap). Site: [roadmap.sh](https://roadmap.sh)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>From roadmap.sh; licensed for use on my notebook 2024 JUL 02 by Kamran Ahmed. All rights reserved.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>From roadmap.sh; licensed for use on my notebook 2024 JUL 02 by Kamran Ahmed. All rights reserved.</p></figcaption></figure>
 
 {% embed url="https://quizlet.com/mikechase3/folders/game-development-knowledge" %}
 
@@ -62,11 +62,12 @@ PCs
 * What kind of video game (describe it)
 
 ## Review
+
 ### Difference between B2B and B2C Business Model
-* Deeloping for a computing platform provides more flexibility 
-with hardware/software but is harder to ensure compatibility across different systems.
-* Developing for consoles offers a consistent hardware setup, making optimization
-easier, but has limitations.
+
+* Deeloping for a computing platform provides more flexibility with hardware/software but is harder to ensure compatibility across different systems.
+* Developing for consoles offers a consistent hardware setup, making optimization easier, but has limitations.
 
 ### Hero's Journey
-* Most people crushed that question and someone drew the hurculean cycle. 
+
+* Most people crushed that question and someone drew the hurculean cycle.

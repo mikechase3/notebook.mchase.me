@@ -1,6 +1,6 @@
 # CAC Configuration
-TODO: Read through [this](https://github.com/M-Pepper/linux-cac-walkthrough) first.
-They match notes from previous years but describe it better.
+
+TODO: Read through [this](https://github.com/M-Pepper/linux-cac-walkthrough) first. They match notes from previous years but describe it better.
 
 I decided to spend 2hrs of my time figuring out how to login to my government email instead of studying for my Geology test. i thought it'd be simple, but I was wrong; however, the process wasn't too bad.
 
@@ -26,7 +26,7 @@ Here's the general process:
    3. Load the driver. Use `dpkg --contents <cackey_package_location>.deb`>which will reveal the location of where it got installed.
    4. Hit Load and navigate to the driver. My linux installation dropped it in `/usr/lib64/libcackey.so` but yours might be different.
 
-![Loading Certificates into Firefox](<../../../../.gitbook/assets/Screenshot from 2022-02-28 13-41-52.png>)
+![Loading Certificates into Firefox](<../../../../../.gitbook/assets/Screenshot from 2022-02-28 13-41-52.png>)
 
 ## Resources
 

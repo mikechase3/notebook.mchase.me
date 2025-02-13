@@ -11,7 +11,7 @@
 
 ### Office Hours
 
-![](../../.gitbook/assets/screen-shot-2020-09-09-at-5.08.15-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-09-09-at-5.08.15-pm.png)
 
 ## Phu Phung
 

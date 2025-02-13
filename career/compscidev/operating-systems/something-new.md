@@ -1,4 +1,4 @@
-# Something New
+# Semaphores
 
 {% hint style="info" %}
 This starts content under "Week 7"
@@ -8,11 +8,9 @@ This starts content under "Week 7"
 
 ### Semaphores
 
-![](<../../.gitbook/assets/image (370).png>)
+![](<../../../.gitbook/assets/image (370).png>)
 
 ### Mutex
-
-
 
 | Term               | Definition |
 | ------------------ | ---------- |

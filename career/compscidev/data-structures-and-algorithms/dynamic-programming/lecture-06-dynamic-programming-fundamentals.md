@@ -12,7 +12,7 @@ This heading is covered in Back to Back SWE. Not class.
 
 ### What is Dynamic Programming?
 
-There are three fundamental ideas of [dynamic programming](https://en.wikipedia.org/wiki/Dynamic\_programming).
+There are three fundamental ideas of [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming).
 
 > 1. Sub problems explicitly overlap.
 > 2. Sub-problems can be related together.
@@ -77,11 +77,11 @@ $$
 
 **Master Theorem**
 
-![Source: Brilliant, Master Theorem](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![Source: Brilliant, Master Theorem](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Roughly, this theorem says:
 
-![Source: Dr. Zhongmei Yao's Slides](<../../../.gitbook/assets/image (3) (2).png>)
+![Source: Dr. Zhongmei Yao's Slides](<../../../../.gitbook/assets/image (3) (2).png>)
 
 Here, `a=8`, `b=2`, and `f(n) = n^2`. We'll compare `f(n) = n^2` `to n^{\log_{b}a}`. Let's solve for that now:
 
@@ -131,7 +131,7 @@ $$
 
 We'll use the master theorem again to compare `f(n) = Θ(n^2)` to `n^{log_b(a)} = 2.81` and we'll clearly be using case a.
 
-![Source: Dr. Yao's Notes](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![Source: Dr. Yao's Notes](<../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Now, we're at `Θ(n^2.81)` time instead of `Θ(n^3)`, but hey, that's way better.
 

@@ -77,7 +77,7 @@ class Solution {
 
 When we analyze the running time of recurrence functions, we do so using piecewise functions.
 
-![An example of a piecewise function defining the running time.](../../../.gitbook/assets/recurrence-function-time-example.jpg)
+![An example of a piecewise function defining the running time.](../../../../.gitbook/assets/recurrence-function-time-example.jpg)
 
 ## Comparing to others
 

@@ -19,39 +19,39 @@ Common functions of interruptions:
 
 ## Computer System Structure
 
-![](<../../.gitbook/assets/image (127).png>)
+![](<../../../.gitbook/assets/image (127).png>)
 
 ## Components of a Computer System
 
-![](<../../.gitbook/assets/image (126).png>)
+![](<../../../.gitbook/assets/image (126).png>)
 
 ## What do Operating Systems Do?
 
-![](<../../.gitbook/assets/image (128).png>)
+![](<../../../.gitbook/assets/image (128).png>)
 
 ## Operating System Definition
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../../.gitbook/assets/image (129).png>)
 
-![](<../../.gitbook/assets/image (130).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 ## Computer Startup
 
-![](<../../.gitbook/assets/image (131).png>)
+![](<../../../.gitbook/assets/image (131).png>)
 
 ## Computer System Operation
 
-![](<../../.gitbook/assets/image (132).png>)
+![](<../../../.gitbook/assets/image (132).png>)
 
 ## Computer System Operation
 
-![](<../../.gitbook/assets/image (133).png>)
+![](<../../../.gitbook/assets/image (133).png>)
 
 ## Common Functions of Interrupts
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../../.gitbook/assets/image (134).png>)
 
-![](<../../.gitbook/assets/image (135).png>)
+![](<../../../.gitbook/assets/image (135).png>)
 
 ## Storage Structure
 

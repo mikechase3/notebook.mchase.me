@@ -2,7 +2,7 @@
 
 ## Instructor
 
-![Dr. Yao has two daughters.](<../../.gitbook/assets/image (200).png>)
+![Dr. Yao has two daughters.](<../../../.gitbook/assets/image (200).png>)
 
 * 2 Daughters
 * She likes running
@@ -33,11 +33,8 @@
 * Open it and return a bunch of information.
 * Check if it's a _unique_ host or not. _**Make sure the host is unique!**_
 * Check if the IP Address is unique. _**Make sure it's unique!**_
-* Connect on robots.&#x20;
+* Connect on robots.
 * Load the web page from the URL.
-
-
-
 * Parse the next URL.
   * Check the host name
   * Check the IP
@@ -65,13 +62,6 @@
 * Use a _**Queue**_ to store all the URLs.
 * Parse the URL.
 
-
-
 ## Works Cited
 
 [Dr. Zhongmei Yao's Networking Class](https://academic.udayton.edu/zhongmeiyao/)
-
-
-
-
-

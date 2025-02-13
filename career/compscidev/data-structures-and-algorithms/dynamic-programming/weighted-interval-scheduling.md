@@ -35,7 +35,7 @@ First, we'll create a formalization of our solution. We have to define a specifi
 
 * Find all the jobs that finish before job j starts & find the one that has the largest finish time & t
 
-<figure><img src="../../../.gitbook/assets/image (676).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (676).png" alt=""><figcaption></figcaption></figure>
 
 ### Binary Choice
 
@@ -43,7 +43,7 @@ First, we'll create a formalization of our solution. We have to define a specifi
 Review how this works cause I don't get it.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (680).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (680).png" alt=""><figcaption></figcaption></figure>
 
 ### Brute Force
 
@@ -61,7 +61,7 @@ Compute-Optimal(j){
 
 So the time complexity of this initial design is exponential. The reason for this high time complexity is because we're recalling our function with the same input multiple times so we need to memoize.
 
-<figure><img src="../../../.gitbook/assets/image (678).png" alt=""><figcaption><p>Ignore the text on the top left.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (678).png" alt=""><figcaption><p>Ignore the text on the top left.</p></figcaption></figure>
 
 ## Weighted Interval Scheduling with Memoization
 
@@ -71,24 +71,24 @@ So the time complexity of this initial design is exponential. The reason for thi
   * Value is the output.
   * Now, we don't have to recompute.
 
-<figure><img src="../../../.gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>
 
 ### Post Processing
 
 **Q**: Dynamic programming algs compute the optimal value. What if we want the optimal solution schedule itself? **A:** do some postprocessing.
 
-<figure><img src="../../../.gitbook/assets/image (682).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (682).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Example of "not the most efficient solution"
 
-<figure><img src="../../../.gitbook/assets/image (684).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (684).png" alt=""><figcaption></figcaption></figure>
 
 ## Best Method
 
 * Instead of starting from the last element, why don't we just start with the first & populate the table from left to right?
 
-<figure><img src="../../../.gitbook/assets/image (686).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (686).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (687).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (687).png" alt=""><figcaption></figcaption></figure>
