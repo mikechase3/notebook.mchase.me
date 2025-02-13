@@ -17,7 +17,7 @@ description: How to map, plan, and develop your staff. Presented by USAF Kent Et
 
 ## Importance of Task Consistency
 
-* Tasks are easier to automate when they are consistent ([Fitts & Posner 1967](https://www.researchgate.net/publication/233446680\_The\_role\_of\_working\_memory\_in\_sport))
+* Tasks are easier to automate when they are consistent ([Fitts & Posner 1967](https://www.researchgate.net/publication/233446680_The_role_of_working_memory_in_sport))
 * Some tasks are impossible to automate, particularly those that are inconsistent.
 
 ## Learning Curve
@@ -31,13 +31,13 @@ The rate of improving skills & knowledge is high initially, but eventually decre
 * Different types of models are used to predict skill acquisition prediction like exponential fits, power fits, hyperbolic fits, and logarithmic fits.&#x20;
   * For group data, power curves tend to be the best fit.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Practical Application Siu Et Al 2016
 
 
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
 
 

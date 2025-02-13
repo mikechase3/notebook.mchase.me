@@ -18,45 +18,39 @@ Images/works cited:
 
 * Products are sets of features helping users achieve their goals. They're called **functional requirements.**
   * For example: User checks the order status.
-* Non-functional requirements are also required.&#x20;
+* Non-functional requirements are also required.
   * For example: Must support 10K users at the same time
-
-
 
 ### User Experience UX Documentation
 
 #### User Personas
 
 * Often represented in comic book form.
-* Tells devs about **what users want**, need, and behave.&#x20;
+* Tells devs about **what users want**, need, and behave.
 
-<figure><img src="../../../.gitbook/assets/image%20(1)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### User Scenarios
 
-<figure><img src="../../../.gitbook/assets/image%20(2)%20(1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
 
 #### User Stories
 
 Can be like "as a parent with kids, I want to block content to keep them safe," so then you turn their story into items to get done.
 
-<figure><img src="../../../.gitbook/assets/image%20(3).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
 
 ### Architecture and Design Document
 
 This is what the developers come up with in terms of how they design it.
 
-<figure><img src="../../../.gitbook/assets/image%20(4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Testing Plan & Test Cases
 
 In test-driven development, you write the test cases before you even write the code.
 
-<figure><img src="../../../.gitbook/assets/image%20(5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Process Documentation
 
@@ -64,7 +58,7 @@ In test-driven development, you write the test cases before you even write the c
 
 First include gantt charts:
 
-<figure><img src="../../../.gitbook/assets/image%20(7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Technology roadmaps:
 
@@ -72,17 +66,14 @@ Release Plans:
 
 ### Metrics & Guidelines
 
-<figure><img src="../../../.gitbook/assets/image%20(8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### Standards/Guidelines
 
-* Preparing is easier than fixing.&#x20;
-* Written documentation is better than spoken documentation.&#x20;
+* Preparing is easier than fixing.
+* Written documentation is better than spoken documentation.
 * Code consistency.
-
-
 
 ## Works Cited
 
 * [AlexSoft "Software Planning and Technical Documentation". Youtube.](https://www.youtube.com/watch?v=2qlcY9LkFik)
-

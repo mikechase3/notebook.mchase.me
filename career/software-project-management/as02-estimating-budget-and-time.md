@@ -100,13 +100,13 @@ Project starts the 1st of january 2025
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 After learning some syntax and spending literally 45m on this tiny chart, I tried putting some subtasks into Chat GPT and having it write the UML code, but it always gets the syntax wrong and wasn't very helpful. Since subtasks weren't required for this project, I'm going to skip over them in this graph.&#x20;
 
 ## Proposed Budget Plot
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Actual cost estimate is $150, far from the $1M budget given in this assignment.&#x20;
