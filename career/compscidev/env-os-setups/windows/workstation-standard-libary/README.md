@@ -17,8 +17,7 @@ Standard practices for my Windows workstations. One day I'll sort by importance/
 During installation of stuff, disable windows search indexing. Run `services.msc` & stop/suspend it.
 
 1. Process Hacker - view more details about what's eaing up all your CPU.
-2. [Flameshot](https://flameshot.org)
-3. Enable save when copying.
-4. Change location to `Active Documents/Inbox/Flameshots`
-5. Alternatively try [Greenshot](https://getgreenshot.org/downloads/)
-6. Also see [troubleshooting](https://flameshot.org/docs/guide/troubleshooting/)
+2. Enable save when copying.
+3. Change location to `Active Documents/Inbox/Flameshots`
+4. Alternatively try [Greenshot](https://getgreenshot.org/downloads/)
+5. Also see [troubleshooting](https://flameshot.org/docs/guide/troubleshooting/)
