@@ -11,6 +11,7 @@ For re-imaging Mac OS without the crud.
   * start at login
   * SHIFT+CMD+,  assign hotkey for quick search menu bar items.
   * Change to an `<` to remember the hotkey.
+  * Don't install on desktops or devices without the (poorly implemented) notch.
 
 ### Better Touch Tool
 * TipTap Left Finger (of three): close window underneath cursor.
@@ -20,6 +21,7 @@ For re-imaging Mac OS without the crud.
 
 ### Bolt
 * **Hotkey**: CMD+Option+B
+* Import OpenAi key in Settings -> Services
 
 ### Cleanshot
 * Start at login

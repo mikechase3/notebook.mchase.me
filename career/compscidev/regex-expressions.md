@@ -4,18 +4,14 @@
 
 {% embed url="https://regexcrossword.com/" %}
 
-
-
 ## Quick Notes
 
 Regex Cheat Sheet
 
-
-
 **Quantifiers**
 
 | n\*    | 0 or more n |
-| ------ | ----------- |
+|--------|-------------|
 | n+     | 1 or more n |
 | n?     | 0 or 1 n    |
 | n{2}   | Exactly 2 n |
@@ -25,7 +21,7 @@ Regex Cheat Sheet
 **Ranges**
 
 | .         | Any character except new line (\n)                      |
-| --------- | ------------------------------------------------------- |
+|-----------|---------------------------------------------------------|
 | (A\|B)    | A or B                                                  |
 | (...)     | Group                                                   |
 | \[ABC]    | Range (A, B or C)                                       |
@@ -38,13 +34,13 @@ Regex Cheat Sheet
 **Anchors**
 
 | ^ | Start of line |
-| - | ------------- |
+|---|---------------|
 | $ | End of line   |
 
 **Character Classes**
 
 | \w | Word (a-z, A-Z, 0-9, including \_ (underscore)) |
-| -- | ----------------------------------------------- |
+|----|-------------------------------------------------|
 | \W | Non-word                                        |
 | \d | Digit (0-9)                                     |
 | \D | Non-digit                                       |
@@ -58,5 +54,5 @@ Regex Cheat Sheet
 **Assertions**
 
 | n(?=o) | <p>Lookahead, n followed by o<br>(not matching o)</p>              |
-| ------ | ------------------------------------------------------------------ |
+|--------|--------------------------------------------------------------------|
 | n(?!o) | <p>Negative lookahead, n not followed by o<br>(not matching o)</p> |

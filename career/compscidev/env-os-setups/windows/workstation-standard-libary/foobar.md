@@ -2,7 +2,7 @@
 
 This is hands down my favorite lightweight music app in recent times.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (762).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image%20(762).png" alt=""><figcaption></figcaption></figure>
 
 ## See Also
 

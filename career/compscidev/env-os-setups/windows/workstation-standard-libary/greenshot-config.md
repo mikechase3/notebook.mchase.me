@@ -12,7 +12,7 @@ The default is to use the printscrn button on a keyboard, but this hardly works 
 
 Therefore, I recommend changing the **capture region hotkey to CTRL+HOME** which I'm sure will cause conflicts later but it works for now.
 
-<figure><img src="../../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image%20(4).png" alt=""><figcaption></figcaption></figure>
 
 ### Disable the New Snipping Tool
 
@@ -20,13 +20,13 @@ I spent \~15m and couldn't get the default `printscsrn`button to work, so I'd ju
 
 
 
-<figure><img src="../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
 
 ### Disable via Registry
 
 I think disabling the snipping tool reverts you to the old-school version where it'll just print the screen. It still consumes input. You can disable the older functionality in the registry editor:
 
-<figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image%20(5).png" alt=""><figcaption></figcaption></figure>
 
 
 
