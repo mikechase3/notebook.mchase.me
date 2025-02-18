@@ -11,7 +11,7 @@
 ## Tools Used
 
 | Tool       | Use                                                             |   |
-| ---------- | --------------------------------------------------------------- | - |
+|------------|-----------------------------------------------------------------|---|
 | MatPlotLib | Graphing & Plotting                                             |   |
 | Pandas     | Imports/export tables from csv & others                         |   |
 | Seaborn    | Built on Matplotlib and leverages statistics in visualizations. |   |

@@ -23,7 +23,7 @@ Evaluating [python web frameworks](/compscidev/web-apps/onPythoNWebFrameworks.md
 * Should I look at [Docusaurus](https://docusaurus.io/docs)?\*
 
 ## Stock/Bond Analysis
-Moved [here](/finance/investments/README.md) temporarily.
+Moved [here](/maintenance/finance/investments/investments) temporarily.
 Will put in it's own page when I continue this research.
 
 ## Front End w/ HTML, CSS, JS fundamentals
