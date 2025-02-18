@@ -102,7 +102,7 @@
   * [Data Analytics and Vizualization](career/compscidev/data-analytics-and-vizualization/data-analytics-and-visualization)
     * [py.MatPlotLib Package](career/compscidev/data-analytics-and-vizualization/matplotlib/README.md)
       * [Anatomy of a Figure](https://matplotlib.org/stable/gallery/showcase/anatomy.html)
-    * [SciPy](career/compscidev/data-analytics-and-vizualization/scipy.md)
+    * [SciPy](career/compscidev/data-analytics-and-vizualization/scipy/scipy.md)
     * [py.Pandas Package](career/compscidev/data-analytics-and-vizualization/pandas/README.md)
       * [Codecademy Cheatsheet](https://www.codecademy.com/learn/data-processing-pandas/modules/dspath-intro-pandas/cheatsheet)
       * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
