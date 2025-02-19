@@ -18,7 +18,7 @@
   * [O-Net](https://www.onetonline.org/)
   * [Salary Negotiation](career/application-paperwork-interviews/salary-negotiation.md)
 * [Code Reviews](career/code-reviews.md)
-* [CompSci-and-Development](career/compscidev/compscidev)
+* [CompSci-and-Development](career/compsci-and-development/README.md)
   * [AI](career/compscidev/ai/README.md)
     * [AI Tools Directory](https://www.futurepedia.io/)
     * [AWS Building Intelligent Systems](career/compscidev/ai/artificial-intelligence.md)
@@ -30,7 +30,7 @@
       * [Theory](career/compscidev/ai/deep-learning/theory/README.md)
         * [Neural Networks](career/compscidev/ai/deep-learning/theory/neural-networks/README.md)
           * [BP Backwards Pass Backpropagation](career/compscidev/ai/deep-learning/bp-backwards-pass-backpropagation.md)
-        * [Understanding Deep Learning](<career/compscidev/ai/deep-learning/understanding-learning/README.md>)
+        * [Understanding Deep Learning](career/compscidev/ai/deep-learning/understanding-learning/README.md)
           * [Cheat Sheet](career/compscidev/ai/deep-learning/understanding-learning/cheat-sheet.md)
           * [Text Generation: Textgenrnn](career/compscidev/ai/deep-learning/understanding-learning/text-generation-textgenrnn.md)
       * [Optimization](career/compscidev/ai/deep-learning/optimization/README.md)
@@ -99,7 +99,7 @@
       * [L25: Input Validation and Regular Expressions](career/compscidev/cybersecurity/secure-app-development/l25-input-validation-and-regular-expressions.md)
       * [L26:](career/compscidev/cybersecurity/secure-app-development/l26.md)
     * [Tools (Misplaced)](career/compscidev/cybersecurity/tools-misplaced.md)
-  * [Data Analytics and Vizualization](career/compscidev/data-analytics-and-vizualization/data-analytics-and-visualization)
+  * [Data Analytics and Vizualization](career/compsci-and-development/data-analytics-and-vizualization/README.md)
     * [py.MatPlotLib Package](career/compscidev/data-analytics-and-vizualization/matplotlib/README.md)
       * [Anatomy of a Figure](https://matplotlib.org/stable/gallery/showcase/anatomy.html)
     * [SciPy](career/compscidev/data-analytics-and-vizualization/scipy/scipy.md)
@@ -480,10 +480,10 @@
       * [Git/Github Codecademy](https://www.codecademy.com/learn/learn-git)
       * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
       * [Write Git](https://wyag.thb.lt)
-* [Design](career/design/design)
+* [Design](career/design/README.md)
   * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
   * [Grids](https://www.reddit.com/r/graphic_design/comments/wftzdn/little_video_i_made_about_grids/)
-  * [Color Theory](career/design/colors-and-marketing/colors-and-marketing)
+  * [Color Theory](career/design/color-theory/README.md)
     * [Coolors](https://coolors.co/palettes/trending)
     * [On Logo Colors](https://www.webfx.com/logo-colors/)
 * [DoD](career/dod/README.md)
@@ -557,6 +557,7 @@
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
   * [Dealing with Distractions](career/time-management/dealing-with-distractions.md)
   * [Innovate or Eliminate](career/time-management/innovate-or-eliminate.md)
+* [Writing](career/writing.md)
 
 ## Communications
 
@@ -803,6 +804,7 @@
   * [Shoestringing](https://www.reddit.com/r/Shoestring/wiki/index)
 
 ## Math and Hard Sciences <a href="#math" id="math"></a>
+
 * [Chemistry](math/chemistry/README.md)
   * [Glue Cleaning Recipe](math/chemistry/glue-cleaning-recipe.md)
   * [Handwritten Notes](https://www.dropbox.com/sh/sjsr5ypsi4roijy/AACe33SIXiU3HlENzVfZ4QxRa?dl=0)
@@ -980,7 +982,6 @@
 
 ## 🤝 Relations
 
-* [Relations.Something](relations/relations.something.md)
 * [Charisma](relations/charisma/charisma.md)
   * [Greatfulness](relations/charisma/greatfulness.md)
   * [Breaking Up Gracefully](relations/charisma/breaking-up-gracefully.md)
