@@ -18,7 +18,7 @@ Everything is categorized into:
 
 ## Active Projects
 
-* [Hands On Machine Learning w/ Sci-kit Learn, Keras, TensorFlow](inbox/hands-on-ml.md)
+* [Hands On Machine Learning w/ Scikit-learn, Keras, TensorFlow](inbox/hands-on-ml.md)
   * [Google Collab Notebooks](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/)
 * Getting CACs to work with Ubuntu.
 
