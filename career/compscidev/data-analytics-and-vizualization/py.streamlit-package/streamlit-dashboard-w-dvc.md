@@ -6,11 +6,18 @@ description: >-
 
 # Streamlit Dashboard w/ DVC
 
-.
+Currently a work in progress. Work is scatterd across:
+* [Web](https://mikechase.streamlit.app)
+* OneNote Project Entry
+* ~/Active/Projects/streamlit-dash
+* (Here a little, but it's too "raw" to be useful even for myself if that makes any sense.)
 
-{% @github-files/github-code-block %}
+**WORK Mostly in OneNote until it's better!**
 
-\-
+
+## Rough, Rough Notes
+I really ought to write my own thoughts privatly, and "edit" them before publishing them in my notebook.
+I can't even understand my own notes to some degree just looking back at them now. 
 
 ## Project Initialization & Setup
 
@@ -32,7 +39,7 @@ I probably fiddled around with some other stuff
 
 <figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## Setup a Basic App & Data
+### Setup a Basic App & Data
 
 I had an LLM generate me a config file & some data to go along with it to get me started:
 
@@ -102,6 +109,3 @@ Cryptographic Algorithms,General,20
 When you're done, it'll look something like this:
 
 <figure><img src="../../../../.gitbook/assets/image (765).png" alt=""><figcaption></figcaption></figure>
-
-## Setting Up a DVC Remote
-
