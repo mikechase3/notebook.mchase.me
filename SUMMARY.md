@@ -237,6 +237,7 @@
       * [VirusTotal Sus File Scanner](https://www.virustotal.com/gui/home/upload)
     * [Bare Metal Server](career/compscidev/env-os-setups/bare-metal-server.md)
     * [Docker](career/compscidev/env-os-setups/docker.md)
+    * [How to Send a File](https://blog.xkcd.com/2019/08/26/how-to-send-a-file/)
   * [Game Development](career/compscidev/game-development/README.md)
     * [Blender (3D Modeling)](career/compscidev/game-development/blender-3d-modeling/README.md)
       * [Doughnut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw\&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
