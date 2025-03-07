@@ -796,6 +796,7 @@
 * [Kiwiah Beach Cam](https://kica.us/beach-cam/)
 * [Shopping](leisure/shopping.md)
 * [Travel](leisure/trip-logs/README.md)
+  * [An Awesome Adventure](leisure/trip-logs/an-awesome-adventure.md)
   * [MI Weekend Trip](leisure/trip-logs/mi-weekend-trip.md)
 
 ## ⚙️ Maintenance
