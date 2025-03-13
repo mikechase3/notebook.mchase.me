@@ -1,2 +1,0 @@
-# Accomplishment-Impact Bullets
-
