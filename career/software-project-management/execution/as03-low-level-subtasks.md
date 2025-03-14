@@ -1,20 +1,15 @@
-# AS03 Sprint Planning Task Breakdown
+# as03
 
 ## Project Overview
-The assignments I chose so far are part of a larger goal of creating my own
-platform for my small business, DAM-IT LLC
-which is a brick-and-mortar tech business that provides on-site service, affordable device rentals, and same day service.
-The "grand idea" is an uber-style service that manages inventory, availability, and gives customers access to that info.
 
-I'm going to select two tasks from the [second assignment.][1]
-Since the timeline of that entire project was one year and this takes over the course of two sprints, the timeline
-will be shortened to complete each task in two weeks. Specifically, it will be shortened to build a **prototype**
-application:
+The assignments I chose so far are part of a larger goal of creating my own platform for my small business, DAM-IT LLC which is a brick-and-mortar tech business that provides on-site service, affordable device rentals, and same day service. The "grand idea" is an uber-style service that manages inventory, availability, and gives customers access to that info.
+
+I'm going to select two tasks from the [second assignment.](../as02-estimating-budget-and-time.md) Since the timeline of that entire project was one year and this takes over the course of two sprints, the timeline will be shortened to complete each task in two weeks. Specifically, it will be shortened to build a **prototype** application:
 
 ## Selected Tasks with Descriptions
 
 1. Start a django application **prototype** on Google Cloud
-2. Build a **skeleton** site. 
+2. Build a **skeleton** site.
 
 My _as02_ table of the overarching project is listed below for reference; however, we'll only be focusing on the first two.
 
@@ -23,32 +18,27 @@ My _as02_ table of the overarching project is listed below for reference; howeve
 | Start                                      | Development begins                                                                                                                                                                             | Jan 1, 2025  |
 | Django skeleton site, auth, and databases. | Build the framework for the website, databases, etc. Implement smart-card authentication and deploy it to Google Cloud.                                                                        | May 1, 2025  |
 | Adaptive Scheduling System                 | Make a user-friendly scheduling interface for the front-end and an admin-side panel that integrates with Google Calendar and utilizes a matching algorithm to optimize technician assignments. | July 1, 2025 |
-| Real-Time Inventory Management Sys         | Make a comprehensive inventory management for everything quantifiable like labor\\[availability, skillLevel, qualifications], hardware, software keys/licenses, etc.                           | Oct 1, 2025  |
+| Real-Time Inventory Management Sys         | Make a comprehensive inventory management for everything quantifiable like labor\\\[availability, skillLevel, qualifications], hardware, software keys/licenses, etc.                          | Oct 1, 2025  |
 | Cross-platform mobile applications         | Develop iOS and Android apps allowing users to interact with scheduling systems, inventory systems, and make payments to confirm reservations.                                                 | Jan 1, 2026  |
 
-
 ### Task 1: Implementing User Authentication System
-In the first sprint, we'll handle the task of setting up a django server on Google Cloud and implementing basic authentication.
-The user authentication will allow employees to register and login to the app. They will be labeled as customers,
-employees, or administrators so customers/employees can't see sensitive information about other clients or details.
-Simple & static web pages will exist and be displayed depending on which type of user accesses URLs.
 
+In the first sprint, we'll handle the task of setting up a django server on Google Cloud and implementing basic authentication. The user authentication will allow employees to register and login to the app. They will be labeled as customers, employees, or administrators so customers/employees can't see sensitive information about other clients or details. Simple & static web pages will exist and be displayed depending on which type of user accesses URLs.
 
 ### Task 2: Implementing a Scheduling System
-The scheduling system will be designed to allow student employees maximum flexibility of their working hours. 
-Customers will be able to self-schedule appointments through the internal application w/ a front-facing interface,
-and they will be matched to qualified technicians by checking their qualifications (via tags) and the employee's
-availability by examining their Google Calendar entries, preventing scheduling conflicts in real time.
+
+The scheduling system will be designed to allow student employees maximum flexibility of their working hours. Customers will be able to self-schedule appointments through the internal application w/ a front-facing interface, and they will be matched to qualified technicians by checking their qualifications (via tags) and the employee's availability by examining their Google Calendar entries, preventing scheduling conflicts in real time.
 
 ## Sprint
+
 ### Goals for Tasks One & Two
+
 The goal of the sprint is to accomplish the two tasks above. The overarching goals are:
+
 1. Setup the Google Cloud Environment by making a compute instance and installing python & django library.
 2. Design and implement a database schema to support user roles, management, and scheduling.
-3. Implement a user authentication system w/ Django pages & the user database using the builtin django login mechanisms, 
-but securing it using password hashing, salting, and separating users into roles of customer, employee, and superuser.
-4. Develop the scheduling system allowing customers to specify needs & match them with technicians based on
-the employee's qualifications and their Google Calendar using G-Cal API calls.
+3. Implement a user authentication system w/ Django pages & the user database using the builtin django login mechanisms, but securing it using password hashing, salting, and separating users into roles of customer, employee, and superuser.
+4. Develop the scheduling system allowing customers to specify needs & match them with technicians based on the employee's qualifications and their Google Calendar using G-Cal API calls.
 
 ### Sprint Backlog
 
@@ -68,11 +58,10 @@ the employee's qualifications and their Google Calendar using G-Cal API calls.
 | Design Database Schema                    | Developer 4 | 16         | The schema is documented in repo & created in the database; tables are verified to match the application needs.  | Critical |
 
 Here's how their hours stack up:
+
 * Dev1: 64hrs
 * Dev2: 64hrs
 * Dev3: 72hrs
 * Dev4: 76hrs
 
 Following this sprint is one developing the inventory management system for equipment. Following that or perhaps concurrently, mobile development begins.
-
-[1]:	/career/software-project-management/as02-estimating-budget-and-time.md

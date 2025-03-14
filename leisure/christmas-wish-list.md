@@ -1,10 +1,6 @@
-# Christmas Wish List
+# Stuff I want
 
 If money were not object, here's what I want:
-
-1.
-
-
 
 ## Laser Welder
 

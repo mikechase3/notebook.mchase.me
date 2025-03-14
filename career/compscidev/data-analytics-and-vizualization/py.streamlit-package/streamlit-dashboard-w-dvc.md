@@ -7,17 +7,17 @@ description: >-
 # Streamlit Dashboard w/ DVC
 
 Currently a work in progress. Work is scatterd across:
+
 * [Web](https://mikechase.streamlit.app)
 * OneNote Project Entry
-* ~/Active/Projects/streamlit-dash
+* \~/Active/Projects/streamlit-dash
 * (Here a little, but it's too "raw" to be useful even for myself if that makes any sense.)
 
 **WORK Mostly in OneNote until it's better!**
 
-
 ## Rough, Rough Notes
-I really ought to write my own thoughts privatly, and "edit" them before publishing them in my notebook.
-I can't even understand my own notes to some degree just looking back at them now. 
+
+I really ought to write my own thoughts privatly, and "edit" them before publishing them in my notebook. I can't even understand my own notes to some degree just looking back at them now.
 
 ## Project Initialization & Setup
 
