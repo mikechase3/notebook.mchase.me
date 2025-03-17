@@ -1,10 +1,8 @@
 # Unreal Engine
 
-## Recommended References
+## UE5 Schematic
 
-1. The [Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4)
-2. [Blueprints Visual Scripting for UE](https://learning.oreilly.com/library/view/blueprints-visual-scripting/9781801811583/) (Blueprints Only)
-3. [Unreal Essentials for Games Onboarding Collection](https://dev.epicgames.com/community/learning/courses/aJM/unreal-engine-essentials-for-games-onboarding-collection/PdGj/unreal-engine-essentials-for-games)
+<figure><img src="../../../../.gitbook/assets/UE5-Schematic.png" alt=""><figcaption><p>UE5 Schematic - By Ectore Scuissiatto UE Essentials for Games Onboarding</p></figcaption></figure>
 
 
 
