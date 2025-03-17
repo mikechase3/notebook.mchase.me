@@ -1,7 +1,8 @@
 ---
 description: >-
   Create blueprints and tour the Blueprint Editor Interface. Create and assign
-  vars from my blueprint panel and place them into the level.
+  vars from my blueprint panel and place them into the level. (This is UE4 - a
+  bit outdated)
 ---
 
 # Creating Blueprints & Editor UI

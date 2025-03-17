@@ -276,7 +276,7 @@
     * [Unreal Engine](career/compscidev/game-development/unreal-engine/README.md)
       * [Blueprints](career/compscidev/game-development/unreal-engine/blueprints/README.md)
         * [Creating Blueprints & Editor UI](career/compscidev/game-development/unreal-engine/blueprints/creating-blueprints-and-editor-ui.md)
-      * [Editor basics](career/compscidev/game-development/unreal-engine/editor-basics.md)
+      * [UE Editor basics](career/compscidev/game-development/unreal-engine/editor-basics.md)
       * [UE4 Settings](career/compscidev/game-development/unreal-engine/settings.md)
       * [Projects and File Structure](career/compscidev/game-development/unreal-engine/projects-and-file-structure/README.md)
         * [Source Control](career/compscidev/game-development/unreal-engine/projects-and-file-structure/source-control.md)
