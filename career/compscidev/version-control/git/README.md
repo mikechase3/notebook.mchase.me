@@ -5,6 +5,7 @@
 * [Git-SCM](https://git-scm.com/)
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
 * [Oh My Git](https://blinry.itch.io/oh-my-git)
+* [Git Kraken](https://www.gitkraken.com/learn/git/tutorials) Docs - (Allan D's Favorite)
 
 
 
