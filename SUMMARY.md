@@ -501,6 +501,8 @@
   * [Marketing](career/communication/programiz-how-we-use-psychology-to-market-our-products/README.md)
     * [Phone Conversations](career/communication/programiz-how-we-use-psychology-to-market-our-products/magic-phrases.md)
     * [Programiz Psychology](career/communication/programiz-how-we-use-psychology-to-market-our-products/programiz_psychology_marketing.md)
+  * [Public Speaking](career/communication/public-speaking.md)
+  * [Sign Learner](https://signlearner.com/)
 * [Design](career/design/README.md)
   * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
   * [Grids](https://www.reddit.com/r/graphic_design/comments/wftzdn/little_video_i_made_about_grids/)
@@ -620,9 +622,6 @@
       * [2024 Presidential Election](career/writing/writing-samples/2024/2024-presidential-election.md)
 
 ## Communications
-
-* [Public Speaking](communications/public-speaking.md)
-* [Sign Learner](https://signlearner.com/)
 
 ## 🎒 Education
 
