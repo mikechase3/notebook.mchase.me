@@ -4,7 +4,7 @@
 
 ### White Propaganda
 
-* They're about us.&#x20;
+* They're about us.
 * Office of war and information
 * Easily verified for accuracy.
 
@@ -51,7 +51,7 @@ The idea here is tot hink what propaganda isn't.
 
 ## Old School Aristolitilian Philosophy
 
-* Forensic: Establishing Fact. Figuring out what happened in the past.&#x20;
+* Forensic: Establishing Fact. Figuring out what happened in the past.
 * Epidemic: Phrasing/Blaming. Is someone good or bad?
 * Deliberative: Let's find out the best solution.
 
@@ -59,7 +59,6 @@ The idea here is tot hink what propaganda isn't.
 
 Propaganda says "I want you to take this plan" instead of figuring out what the bes plan is.
 
-![](<../../../.gitbook/assets/image (168).png>)
+![](<../../../../.gitbook/assets/image (168).png>)
 
-![](<../../../.gitbook/assets/image (169).png>)
-
+![](<../../../../.gitbook/assets/image (169).png>)

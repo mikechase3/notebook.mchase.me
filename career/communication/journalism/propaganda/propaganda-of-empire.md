@@ -14,7 +14,7 @@
 
 ### Importance of Mass Media
 
-* Emergence of \*national\* newspaper chains.&#x20;
+* Emergence of \*national\* newspaper chains.
   * Powerful, influential publishers (Hearst, Pulitzer)
 
 ### The 'Shadow of the Civil War'
@@ -27,7 +27,7 @@
 
 ### Fears
 
-There are some cultural wars.&#x20;
+There are some cultural wars.
 
 * Racial identity
 * Massculinity
@@ -70,7 +70,7 @@ At this point, we're switching out of Spanish-American war and looking how propa
 
 ## Creating an Enemy
 
-![](<../../../.gitbook/assets/image (371).png>)
+![](<../../../../.gitbook/assets/image (371).png>)
 
 * Germany is a _threat to democracy._
   * And therefore, a threat to the US.

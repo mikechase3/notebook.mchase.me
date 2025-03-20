@@ -10,16 +10,14 @@
 
 ## Cameras are Subjective Points of View
 
-![Which photo looks worse?](<../../../.gitbook/assets/image (373).png>)
+![Which photo looks worse?](<../../../../.gitbook/assets/image (373).png>)
 
 ## Kuleshov Effect
 
 * Putting things together makes meaning.
 * Shots gain further meaning when placed near other shots. Relationship is assumed.
 
-![](<../../../.gitbook/assets/image (374).png>)
-
-
+![](<../../../../.gitbook/assets/image (374).png>)
 
 ## Batman
 
@@ -40,12 +38,10 @@
 
 ## Daffy Duck: Der Fuehrer's
 
-
-
 ## Assignment
 
 * Take a movie
 * Break it down as a potential piece of propaganda.
-* Pick a subtle one, not Rocky.&#x20;
+* Pick a subtle one, not Rocky.
   * Best one: Elf, an ideological breakdown.
 *

@@ -2,16 +2,12 @@
 
 ## Readings
 
-* [We Become Propagandists Thomas Sorenson](https://isidore.udayton.edu/access/content/group/5dd671b3-7334-4d36-b659-edc7c01d020d/Lessons/Week%2008%20--%20\_10\_12-10\_18\_/We%20Become%20Propagadists%20\_Sorenson\_.pdf)
-
-
+* [We Become Propagandists Thomas Sorenson](https://isidore.udayton.edu/access/content/group/5dd671b3-7334-4d36-b659-edc7c01d020d/Lessons/Week%2008%20--%20_10_12-10_18_/We%20Become%20Propagadists%20_Sorenson_.pdf)
 
 ## Purpose
 
 * Why is 75% lean beef better than 25% fat?
 * What makes slogan so successful?
-
-
 
 ## Equivocation & Amphibology
 
@@ -61,14 +57,14 @@
 * Labeling the opponent in impossible-to-agree-with terms
 * The boston **massacre**
 * **War** on **Terror**
-* Pro-choice & Pro-Life: _nobody is going to have an anti-choice shirt._&#x20;
+* Pro-choice & Pro-Life: _nobody is going to have an anti-choice shirt._
 * We need to **reduce violence** on television.
 
-We're silenced in criticism when we use the word "terror."&#x20;
+We're silenced in criticism when we use the word "terror."
 
 ### Defining Problems by Naming Them
 
-![Halitosis: bad breath.](<../../../.gitbook/assets/image (367).png>)
+![Halitosis: bad breath.](<../../../../.gitbook/assets/image (367).png>)
 
 #### Ad Over Time
 
@@ -81,17 +77,17 @@ This was pretty much invtented. It's baad. People don't want it.
 #### Body Odor
 
 * People smooked so much that you couldn't tell if people stunk.
-* They had to make you care&#x20;
+* They had to make you care
 
 #### Light Beer
 
 * It's not actually any healthier.
 * It's just watered-down.
-* You pay more for a crappier version of that product.&#x20;
+* You pay more for a crappier version of that product.
 
 ### Euphemisms: Weakening word power
 
-These words are almost too&#x20;
+These words are almost too
 
 #### Collateral Damage
 
@@ -140,16 +136,16 @@ Statements appear to be clear and concrete, but select words (often propositions
 
 ### Tell a Story
 
-* Stories are remembered much better&#x20;
+* Stories are remembered much better
 
 ## JUUL: Early Advertising
 
-![](<../../../.gitbook/assets/image (368).png>)
+![](<../../../../.gitbook/assets/image (368).png>)
 
 * The word JUUL doesn't imply this is invented to help people quit cigarettes.
 * Shows _super happy fun-time_
 * Fitting in the crowd.
-* The word **vaporized** is a _**euphemism**_ for smoking.&#x20;
+* The word **vaporized** is a _**euphemism**_ for smoking.
 * JUUL is not trying to tell us to smoke because smoking is bad. Vaping kinda sounds cool. The old people don't know how it works.
 * It does not look like the bad things.
 
@@ -162,17 +158,12 @@ Statements appear to be clear and concrete, but select words (often propositions
 
 * The complete fabrication of jaywalking.
 * The idea that jay walking is a problem is completely fabricated.
-* Rich people didn't want to look bad for mowing down peasants with their 2-ton vehicles.&#x20;
+* Rich people didn't want to look bad for mowing down peasants with their 2-ton vehicles.
   * Editorials
   * Newspaper caroons
 * Jay: red neck, folks out on the farm.
-  * Only stupid, ignorant, uncultured Jays don't get out of the way of the car.&#x20;
+  * Only stupid, ignorant, uncultured Jays don't get out of the way of the car.
   * They get mowed down.
   * By painting the literal victim of a crime as a country bumpkin, you make people ashamed and feel bad that they got in the way of someone who couldn't control their car.
 
-
-
-
-
 ##
-

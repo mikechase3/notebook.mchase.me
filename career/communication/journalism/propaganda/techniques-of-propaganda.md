@@ -12,7 +12,7 @@
 
 ### Authority and First Appearance
 
-![](<../../../.gitbook/assets/image (204).png>)
+![](<../../../../.gitbook/assets/image (204).png>)
 
 * Lab coat has more perceived authority
 * How fit are you, do they have facial symmetry, what is their emotional expression
@@ -20,13 +20,13 @@
 
 ### Authority and Putin
 
-![](<../../../.gitbook/assets/image (205).png>)
+![](<../../../../.gitbook/assets/image (205).png>)
 
 * Putin has photos of Putin as someone who is credible.
 
 ## Tradition and Culture
 
-![Kim Jong Un Riding](<../../../.gitbook/assets/image (206).png>)
+![Kim Jong Un Riding](<../../../../.gitbook/assets/image (206).png>)
 
 * Kim riding a horse links to Korean national identity.
   * Mount Paekdu part is part of ancient and modern Korean history.
@@ -89,9 +89,8 @@
 * It gets revealed every few years to publish studies that the Tobacco companies can say to defend tobacco.
   * _"Well, lots of things give you Tobacco."_
   * These aren't my numbers, you can trust me.
-* By claiming this trustworthy, reliable source, I'm deflecting the attacks on me as a propagandist.&#x20;
+* By claiming this trustworthy, reliable source, I'm deflecting the attacks on me as a propagandist.
 
 ## Self-Generated Persuasion
 
 ## Sympathetic Anthropomorphism
-
