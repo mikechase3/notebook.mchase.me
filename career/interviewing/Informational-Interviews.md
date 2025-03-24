@@ -1,13 +1,13 @@
 # Informational Interviews
-* Ten minutes is rreally easy for someone to spare. 
+* Ten minutes is really easy for someone to spare. 
 * Make it really simple. 
-* Could I have 5-10m of your time for a criique and psoition myself with my ability?
+* Could I have 5-10m of your time for a critique and position myself with my ability?
 
 
 
-* What happens is for 5-10m 'sure" and then they'll say send me your resume.
-* Then they have your resume & then you say "do you know anybody?"
-* They'll forward your resume to someone who's looking.
+* What happens is for 5-10m 'sure" and then they'll say send me your résumé.
+* Then they have your résumé & then you say "do you know anybody?"
+* They'll forward your résumé to someone who's looking.
 * Ask for permission to call someone. Don't cold call someone.
 
 
