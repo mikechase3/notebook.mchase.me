@@ -486,6 +486,7 @@
     * [Python: Flask/Django](https://notebook.mchase.me/development/languages-and-architectures/python/)
     * [P2P Pages (Self-Deleting)](career/compscidev/web-apps/p2p-pages-self-deleting.md)
 * [Communication](career/communication/README.md)
+  * [Customer Validation](career/communication/customer-validation.md)
   * [Journalism](career/communication/journalism/README.md)
     * [Propaganda](career/communication/journalism/propaganda/README.md)
       * [Desperate for Attention](career/communication/journalism/propaganda/desperate-for-attention.md)
@@ -537,8 +538,8 @@
 * [Media Production](career/media-production/README.md)
   * [Documentary Filmmaking](career/media-production/documentary-filmmaking/README.md)
     * [Inspirational Techniques](career/media-production/documentary-filmmaking/inspirational-techniques.md)
-* [Industry News](career/books/README.md)
-  * [2023](career/books/2023/README.md)
+* [Industry News](career/industry-news/README.md)
+  * [2023](career/industry-news/2023/README.md)
     * [Inside Elon Musk's "Extremely Hardcore" Twitter](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji)
     * [Metaverse that's Not Hype](https://www.thatssometa.news/p/the-metaverse-is-not-hype)
 * [Philosophies of Businesses](career/philosophies-of-businesses/README.md)
@@ -620,8 +621,6 @@
     * [2023](career/writing/writing-samples/2023/2023.md)
     * [2024](career/writing/writing-samples/2024/README.md)
       * [2024 Presidential Election](career/writing/writing-samples/2024/2024-presidential-election.md)
-
-## Communications
 
 ## 🎒 Education
 
