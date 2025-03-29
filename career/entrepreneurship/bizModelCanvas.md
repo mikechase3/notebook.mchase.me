@@ -1,21 +1,21 @@
-# Business model canvas (BMC)
+# Business Model Canvas
+
 ![BusinessModel](https://github.com/joelparkerhenderson/business-model-canvas/blob/main/README.png?raw=true)
 
 A business model canvas (BMC) is a strategic management template that gives a high-level overview of value propositions, customers, channels, resources, activities, partners, and more.
 
 Contents:
 
-* [Introduction](#introduction)
-* [Value propositions](#value-propositions)
-* [Revenue streams](#revenue-streams)
-* [Customer relationships](#customer-relationships)
-* [Distribution channels](#distribution-channels)
-* [Cost structures](#cost-structures)
-* [Target segments](#target-segments)
-* [Key activities](#key-activities)
-* [Key resources](#key-resources)
-* [Partner collaborations](#partner-collaborations)
-
+* [Introduction](bizModelCanvas.md#introduction)
+* [Value propositions](bizModelCanvas.md#value-propositions)
+* [Revenue streams](bizModelCanvas.md#revenue-streams)
+* [Customer relationships](bizModelCanvas.md#customer-relationships)
+* [Distribution channels](bizModelCanvas.md#distribution-channels)
+* [Cost structures](bizModelCanvas.md#cost-structures)
+* [Target segments](bizModelCanvas.md#target-segments)
+* [Key activities](bizModelCanvas.md#key-activities)
+* [Key resources](bizModelCanvas.md#key-resources)
+* [Partner collaborations](bizModelCanvas.md#partner-collaborations)
 
 ## Introduction
 
@@ -25,19 +25,17 @@ A business model canvas helps stakeholders communicate, helps align activities, 
 
 This page has our preferred business model canvas questions and ideas. This is based on our experiences with many software companies. Also see our resources for your [pitch deck](http://github.com/joelparkerhenderson/pitch_deck), [objectives and key results](http://github.com/joelparkerhenderson/objectives_and_key_results), [strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard), etc.
 
-See: 
+See:
 
 * [Wikipedia: Business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
-
 * [Creately: Business Model Canvas Explained](https://creately.com/blog/diagrams/business-model-canvas-explained/)
 
-
 ## Value propositions
+
 * What value do we deliver to the customer?
 * Which customer needs are we satisfying?
 * Which customer problems are we helping to solve?
 * What bundles of products and services are we offering to each of our customer segments?
-
 
 ## Revenue streams
 
@@ -45,7 +43,6 @@ See:
 * For what do they currently pay?
 * How are they currently paying?
 * How much does each revenue stream contribute to total revenue?
-
 
 ## Customer relationships
 
@@ -68,7 +65,6 @@ See:
 * Which key activities are most expensive?
 * What is our approach to value-driven activities (for example value creation, premium offerings) versus cost-driven activities (for example efficiency improvements, low prices)?
 
-
 ## Target segments
 
 * For whom are we creating value?
@@ -83,7 +79,6 @@ See:
 * What key activities do our distribution channels require?
 * What key activities do our revenue streams require?
 
-
 ## Key resources
 
 * What key resources do our value propositions require?
@@ -91,12 +86,9 @@ See:
 * What key resources do our distribution channels require?
 * What key resources do our revenue streams require?
 
-
 ## Partner collaborations
 
 * Who are our key partners and why?
 * Who are our key suppliers and why?
 * Which key resources are we getting from partners and why?
 * Which key activities are we getting from partners and why?
-
-
