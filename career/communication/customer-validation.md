@@ -41,6 +41,29 @@
 10. Give them time to answer, again.
 11. Look for inconsistencies.
 
+## Testing
+
+* Divide and conquer
+* Meet your goals
+* Go interview & talk to people
+
+## Measure
+
+* How does that data match our asssumptions?
+  * Did it meet our expectations?
+  * What surprised us?
+* What does this mean for the next phases of development?
+
+## Learning
+
+* First assumptions are rarely currect.
+
+## Summary
+
+1. Surveys don't validate, they can only verify.
+2. Go **interview** customers to validate if they had this problem
+3. Apply the "mom test"?
+
 
 
 
