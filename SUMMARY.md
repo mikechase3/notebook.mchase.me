@@ -3,6 +3,7 @@
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
   * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
+  * [EBITDA](inbox/ebitda.md)
 
 ## 💼 Career
 
