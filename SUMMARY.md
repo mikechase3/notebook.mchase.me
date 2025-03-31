@@ -515,6 +515,7 @@
   * [2023 Almanac](https://www.airandspaceforces.com/article/air-force-space-force-almanac-2023/)
   * [Clearances](career/dod/clearances.md)
   * [Dayton2DC](career/dod/dayton2dc.md)
+  * [DoD Instruction](career/dod/dod-instruction.md)
   * [Military Morale | Welfare | Recreation](career/dod/benefits_and_edu_resources/README.md)
     * [Library/Databases](https://daf.dodmwrlibraries.org/databases)
     * [Force Support Squadron](https://www.wrightpattfss.com)
