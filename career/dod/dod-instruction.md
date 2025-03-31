@@ -2,9 +2,9 @@
 
 ## Credential Strength
 
-<figure><img src="../../.gitbook/assets/image (768).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (769).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (770).png" alt=""><figcaption></figcaption></figure>
 
 ## DoD Instruction
 
@@ -12,5 +12,5 @@
 
 ## On Using the Wrong Tokens
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (768).png" alt=""><figcaption></figcaption></figure>
 

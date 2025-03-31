@@ -106,7 +106,7 @@ After learning some syntax and spending literally 45m on this tiny chart, I trie
 
 ## Proposed Budget Plot
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Actual cost estimate is $150, far from the $1M budget given in this assignment.&#x20;
