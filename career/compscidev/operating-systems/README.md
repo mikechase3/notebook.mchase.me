@@ -1,4 +1,8 @@
-# Operating Systems
+---
+description: This is for how operating systems work. See ENV/OS for particular OS's.
+---
+
+# Operating Systems Theory
 
 ## Operating Systems Coursework
 

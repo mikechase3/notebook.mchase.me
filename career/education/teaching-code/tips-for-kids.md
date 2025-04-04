@@ -87,7 +87,7 @@ There's information that says just the act of writing things down increases reta
 
 Below: - students learn via discovery to slide their finger up & down to learn operations with +/-. It increases self efficacy that they're capable of learning too!
 
-<figure><img src="../../.gitbook/assets/CleanShot 2023-01-13 at 13.48.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2023-01-13 at 13.48.17.png" alt=""><figcaption></figcaption></figure>
 
 ### **Load vocabulary when appropriate**:&#x20;
 
