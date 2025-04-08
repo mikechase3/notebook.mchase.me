@@ -490,6 +490,7 @@
     * [SSL & HTTPS Getting Started](https://support.google.com/domains/answer/7630973?authuser=2\&authuser=2\&hl=en\&visit_id=637978991464117998-3893459780\&rd=1#zippy=%2Cget-an-ssltls-certificate-from-a-certificate-authority-ca)
     * [Python: Flask/Django](https://notebook.mchase.me/development/languages-and-architectures/python/)
     * [P2P Pages (Self-Deleting)](career/compscidev/web-apps/p2p-pages-self-deleting.md)
+    * [Wisdom from the trees (Design Systems)](career/compsci-and-development/web-apps/wisdom-from-the-trees-design-systems.md)
 * [Communication](career/communication/README.md)
   * [Journalism](career/communication/journalism/README.md)
     * [Propaganda](career/communication/journalism/propaganda/README.md)
