@@ -321,6 +321,7 @@
       * [Altair 8800 Clone](https://altairclone.com/ordering.html)
       * [Altair 8800 Sim](https://s2js.com/altair/)
       * [What's Inside an Exe File](https://www.youtube.com/watch?v=-ojciptvVtY)
+      * [Finite State Automata](career/compsci-and-development/languages-and-architectures/integrators-and-compilers/finite-state-automata.md)
     * [Denigma Code Explainer](https://denigma.app/)
     * [Full Stack Development](career/compscidev/languages-and-architectures/full-stack-cloud-based-application-development/README.md)
       * [Comparing Angular, Vue, React, Vanilla](career/compscidev/languages-and-architectures/full-stack-cloud-based-application-development/comparing-angular-vue-react-vanilla.md)
