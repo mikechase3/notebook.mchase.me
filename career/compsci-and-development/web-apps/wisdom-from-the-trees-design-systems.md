@@ -1,6 +1,8 @@
 # Wisdom from the trees (Design Systems)
 
-.
+## Takeaways
+
+
 
 ## Speaker Info
 
@@ -84,9 +86,11 @@ Book: Braiding Sweetgrass: indigenous wisdom, scientific knowledge, and the teac
 * Describe the landscape of products your company offers?
 * How is your success measured by the organization?
 
-## Questions of Analysis?&#x20;
+## Miscellaneous?
 
-I guess everyone does this so he doesn't need it?&#x20;
+<figure><img src="../../../.gitbook/assets/CleanShot 2025-04-08 at 19.18.30@2x.png" alt=""><figcaption></figcaption></figure>
+
+* Everyone wants to throw AI at their bad problems w/ poor planning? But they really need to fix the underlying problems.
 
 
 
