@@ -1,7 +1,7 @@
 # Clearances
 
 {% hint style="info" %}
-Not my work nor do I know so I don't think I'm authorized to speak on anything & this if from [r/AskHistorians](https://www.reddit.com/r/AskHistorians/comments/2uylp8/how\_far\_back\_is\_the\_earliest\_known\_us\_usage\_of/)
+Security folks - this is from [r/AskHistorians](https://www.reddit.com/r/AskHistorians/comments/2uylp8/how_far_back_is_the_earliest_known_us_usage_of/) & this is all in the public domain.
 {% endhint %}
 
 This is really something that can not be determined.
