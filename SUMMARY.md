@@ -809,6 +809,7 @@
     * [Tesla JSON API](https://tesla-api.timdorr.com/)
   * [Imported Vehicles](maintenance/automotive/old-better-vehicles/README.md)
     * [Vans from Japan](https://www.vansfromjapan.com/)
+  * [Itasha](maintenance/automotive/itasha.md)
   * [Privacy Concerns](maintenance/automotive/privacy-concerns/README.md)
     * [A Survey of Automotive Attack Surfaces](https://illmatics.com/remote%20attack%20surfaces.pdf)
     * [Disabling Telemetrics](maintenance/automotive/privacy-concerns/disabling-telemetrics.md)
