@@ -677,6 +677,7 @@
   * [Don't Starve Together](gaming/guides/dont-starve-together/README.md)
     * [Console Commands](https://dontstarve.fandom.com/wiki/Console/Don't_Starve_Together_Commands)
     * [Crockpot Cheat Sheet](https://steamcommunity.com/sharedfiles/filedetails/?id=1937832167)
+  * [Quake Live](gaming/guides/quake-live.md)
 * [DND](gaming/dnd/dnd.md)
 * [ToPlay](gaming/video-games-to-play.md)
 
