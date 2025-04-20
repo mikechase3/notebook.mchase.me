@@ -4,7 +4,7 @@ WARNING: in-progress of being moved to [Gitlab](https://mikechase.gitlab.io/main
 
 When configuring Mac, it's important to prepare it for maximum productivity, which includes the time it takes to scan for whatever setting/menu item you are trying to find. If you are consistent across terminals, it will save people time.
 
-Computers at {redacted} use the [FOG](https://wiki.fogproject.org/wiki/index.php?title=Introduction#What\_is\_FOG) server so they can be recovered; however, for new images, you should configure it with the following setup (last revised 2022-05-21):
+Computers at {redacted} use the [FOG](https://wiki.fogproject.org/wiki/index.php?title=Introduction#What_is_FOG) server so they can be recovered; however, for new images, you should configure it with the following setup (last revised 2022-05-21):
 
 DELETEME
 
@@ -111,7 +111,7 @@ fi
 
 **Manage**
 
-1. ***
+1.
 
 **Productivity**
 
@@ -161,7 +161,7 @@ fi
 
 Menubar should be setup like this. Everything to the left of "new items here" is unstandardized, so you can leave it alone or use your best judgement:
 
-![Standard Bartender Configuration](<../.gitbook/assets/CleanShot 2022-05-21 at 19.38.10@2x.jpg>)
+![Standard Bartender Configuration](<../../../../.gitbook/assets/CleanShot 2022-05-21 at 19.38.10@2x.jpg>)
 
 ##
 
