@@ -203,6 +203,7 @@
       * [Enchiridion Mobile Apps](https://enchiridion.red/2019/1/18/mobile-apps/)
       * [MidnightCommander Evaluation](career/compscidev/env-os-setups/applications/midnightcommander-evaluation.md)
       * [OBS](career/compscidev/env-os-setups/applications/obs.md)
+      * [Web Browsers](career/compsci-and-development/env-os-setups/applications/web-browsers.md)
     * [Hardware](career/compscidev/env-os-setups/hardware/README.md)
       * [ThinkWiki](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
       * [Raid Controllers for Beginners](https://www.youtube.com/watch?v=G1E7ur0PS5k)
