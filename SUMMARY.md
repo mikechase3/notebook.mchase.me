@@ -219,6 +219,7 @@
         * [New "System Extensions" API](career/compsci-and-development/env-os-setups/mac-os/security-and-kernel-setup/new-system-extensions-api.md)
         * [New System Extensions](https://support.techsmith.com/hc/en-us/articles/360056384711-M1-Chip-and-the-Snagit-System-Audio-Capture-Component)
       * [Toggle System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection)
+      * [Setapp Blog](career/compsci-and-development/env-os-setups/mac-os/setapp-blog.md)
     * [Mac OSX](career/compscidev/env-os-setups/mac-osx.md)
     * [Ubuntu](career/compscidev/env-os-setups/ubuntu/README.md)
       * [CAC Configuration](career/compscidev/env-os-setups/ubuntu/cac-configuration/README.md)
