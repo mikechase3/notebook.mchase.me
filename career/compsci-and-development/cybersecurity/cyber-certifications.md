@@ -24,6 +24,7 @@ A table or list of folks that can accredit you for being a cybersecurity expert.
 * [ ] (OSCP)
 * [ ] (CREST)
 * [ ] (CISSP)
+* [ ] SANS certification - institute for ethical hackers. One of the most prestigeous certifications in the industry. go next month & see who wins the $2500 off cupon.&#x20;
 
 \--
 
