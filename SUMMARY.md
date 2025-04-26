@@ -96,7 +96,7 @@
     * [Educational Threats @ UD](career/compscidev/cybersecurity/educational-threats-ud.md)
     * [Electrical](career/compscidev/cybersecurity/electrical/README.md)
       * [App Electronics Toolkit](https://play.google.com/store/apps/details?id=com.daveyhollenberg.electronicstoolkit)
-    * [Penetration Testing](career/compsci-and-development/cybersecurity/penetration-testing.md)
+    * [Penetration Testing](career/compscidev/lostandfound/penetration-testing.md)
     * [Secure App Development](career/compscidev/cybersecurity/secure-app-development/README.md)
       * [Introduction](career/compscidev/cybersecurity/secure-app-development/introduction.md)
       * [Network Security](career/compscidev/cybersecurity/secure-app-development/lecture-2.md)
@@ -369,6 +369,7 @@
     * [Java](career/compscidev/languages-and-architectures/java/README.md)
       * [Resources](career/compscidev/languages-and-architectures/java/resources.md)
       * [Java Collections Framework](career/compscidev/languages-and-architectures/java/java.md)
+    * [Javascript](career/compsci-and-development/languages-and-architectures/javascript.md)
     * [JSON Data Interchange Std](career/compscidev/languages-and-architectures/json-data-interchange-std.md)
     * [MIPS](career/compscidev/languages-and-architectures/mips.md)
     * [.NET Ecosystem (C#, F#, VB)](career/compscidev/languages-and-architectures/.net-ecosystem-c-f-vb/README.md)
@@ -672,13 +673,6 @@
 
 ## 🥪 Food
 
-* [Dads Recipes](food/dads-recipes/README.md)
-  * [Baked Beans](food/dads-recipes/baked-beans.md)
-  * [Arugula Salad](food/dads-recipes/arugula-salad.md)
-* [Favorite Restaurants](food/favorite-restaurants.md)
-* [F\* Nestle](https://www.fucknestle.art/)
-* [NYT Cooking](https://cooking.nytimes.com/)
-
 ## 🕹️ Gaming
 
 * [Gaming Research Integration](gaming/gaming-research-integration.md)
@@ -718,18 +712,6 @@
   * [Barbie Workout](https://www.youtube.com/watch?v=sQfEqrXkSE0)
 * [Yoga](health-and-fitness/yoga/README.md)
   * [7 Chakras](https://www.mindbodygreen.com/articles/7-chakras-for-beginners)
-
-## 🏠 Household <a href="#house" id="house"></a>
-
-* [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
-* [Dream House](house/dream-house/README.md)
-  * [2022 Overstock Ideas](https://www.overstock.com/profile/OstkUser5482145/3527d5e5967a4d5995d9d9456fc3bf3b/lists/1327788571/items)
-  * [Star Trek Bridges](https://roddenberry.x.io/2371-uss-defiant-nx-74205/)
-* [Maintaining Household Appliances](house/maintaining-household-appliances.md)
-* [Morpholio](house/morpholio/README.md)
-  * [Morpholio Tutorials](https://www.youtube.com/watch?v=kf5lg3VlLoY\&list=PLdlz_3DMdbrpaZRw9ScLF0J4b_Zi0DfzU)
-* [Plan of work for small servantless house](house/plan-of-work-for-small-servantless-house.md)
-* [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 
 ## 🖥️ Infrastructure and IT
 
@@ -778,6 +760,7 @@
 
 * [Before The Internet](https://internetkhole.com/)
 * [Camper Rental Analysis](leisure/camper-rental-analysis.md)
+* [Favorite Restaurants](leisure/favorite-restaurants.md)
 * [Dayton OH](leisure/dayton-oh/README.md)
   * [Downtown Housing FY24](https://downtowndayton.org/wp-content/uploads/2024/05/housingtour2024guide.pdf)
   * [Gem City Catfe](leisure/dayton-oh/gem-city-catfe.md)
@@ -829,7 +812,13 @@
   * [Recommendations](maintenance/automotive/references/README.md)
     * [Crutchfield Car Audio/Video](https://www.crutchfield.com/)
     * [Tirerack Customer Direct](https://www.tirerack.com/content/tirerack/desktop/en/homepage.html)
-* [A/V](maintenance/av/av.md)
+* [Cooking](maintenance/cooking/README.md)
+  * [Dads Recipes](maintenance/cooking/dads-recipes/README.md)
+    * [Baked Beans](maintenance/cooking/dads-recipes/baked-beans.md)
+    * [Arugula Salad](maintenance/cooking/dads-recipes/arugula-salad.md)
+  * [F\* Nestle](https://www.fucknestle.art/)
+  * [NYT Cooking](https://cooking.nytimes.com/)
+* [AudioVideo](maintenance/av/av.md)
   * [Making Connections](http://artsites.ucsc.edu/EMS/music/tech_background/TE-15/teces_15.html)
   * [Photography](maintenance/av/photography/README.md)
     * [Hardware and Megapixel Limits](maintenance/av/photography/hardware-and-megapixel-limits/README.md)
@@ -843,6 +832,14 @@
     * [Hermet LTT Video Editor Tutorial Premiere](https://www.youtube.com/watch?v=O6ERELse_QY)
     * [Youtube Tips & Tricks](maintenance/av/video-editing/youtube-tips-and-tricks/README.md)
       * [Youtube User/Creator Tips](https://www.youtube.com/watch?v=LicfHxvAlXI)
+* [Properties](maintenance/properties/README.md)
+  * [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
+  * [Morpholio](maintenance/properties/morpholio/README.md)
+    * [Morpholio Tutorials](https://www.youtube.com/watch?v=kf5lg3VlLoY\&list=PLdlz_3DMdbrpaZRw9ScLF0J4b_Zi0DfzU)
+  * [Plan of work for small servantless house](maintenance/properties/plan-of-work-for-small-servantless-house.md)
+  * [Star Trek Bridges](https://roddenberry.x.io/2371-uss-defiant-nx-74205/)
+  * [Maintaining Household Appliances](maintenance/properties/maintaining-household-appliances.md)
+  * [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 * [Finance](maintenance/finance/finance.md)
   * [Dealing With Collections](maintenance/finance/collections.md)
   * [Cryptocurrency Activities](maintenance/finance/cryptocurrency-taxes.md)
