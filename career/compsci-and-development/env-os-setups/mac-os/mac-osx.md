@@ -1,4 +1,4 @@
-# Mac OSX
+# Noteworthy Apps ToSort
 
 For re-imaging Mac OS without the crud.
 
@@ -10,12 +10,12 @@ For re-imaging Mac OS without the crud.
 
 ### Double Commander
 
-<div><figure><img src="../../../.gitbook/assets/DoubleCommander 3@2x.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/DoubleCommanderUsage.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/DoubleCommander 3@2x.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/DoubleCommanderUsage.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * There are too many [shortcuts](https://doublecmd.github.io/doc/en/shortcuts.html) to list
 * Configure tabs in settings.
 
-<figure><img src="../../../.gitbook/assets/FavTabsDC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/FavTabsDC.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@ This is what Dual Commander took inspiration from, but it's a bit more stable I 
 
 
 
-<div><figure><img src="../../../.gitbook/assets/CleanShot 2025-04-02 at 18.48.23.png" alt="" width="180"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/CleanShot 2025-04-02 at 18.48.23.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/CleanShot 2025-04-02 at 18.48.23.png" alt="" width="180"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/CleanShot 2025-04-02 at 18.48.23.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -115,7 +115,7 @@ Has lots of shortcuts, but you have to make them:
 
 
 
-<img src="../../../.gitbook/assets/TweaksSystemSettings.png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/TweaksSystemSettings.png" alt="" data-size="original">
 
 
 

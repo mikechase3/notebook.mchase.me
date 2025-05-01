@@ -205,6 +205,7 @@
       * [MidnightCommander Evaluation](career/compscidev/env-os-setups/applications/midnightcommander-evaluation.md)
       * [OBS](career/compscidev/env-os-setups/applications/obs.md)
       * [Web Browsers](career/compsci-and-development/env-os-setups/applications/web-browsers.md)
+    * [Bare Metal Server](career/compscidev/env-os-setups/bare-metal-server.md)
     * [Hardware](career/compscidev/env-os-setups/hardware/README.md)
       * [ThinkWiki](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
       * [Raid Controllers for Beginners](https://www.youtube.com/watch?v=G1E7ur0PS5k)
@@ -219,9 +220,9 @@
         * [On Legacy Kernel Extensions](https://www.apriorit.com/dev-blog/430-macos-kext-development)
         * [New "System Extensions" API](career/compsci-and-development/env-os-setups/mac-os/security-and-kernel-setup/new-system-extensions-api.md)
         * [New System Extensions](https://support.techsmith.com/hc/en-us/articles/360056384711-M1-Chip-and-the-Snagit-System-Audio-Capture-Component)
-      * [Toggle System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection)
+      * [Noteworthy Apps ToSort](career/compsci-and-development/env-os-setups/mac-os/mac-osx.md)
       * [Setapp Blog](career/compsci-and-development/env-os-setups/mac-os/setapp-blog.md)
-    * [Mac OSX](career/compscidev/env-os-setups/mac-osx.md)
+      * [Toggle System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection)
     * [Ubuntu](career/compscidev/env-os-setups/ubuntu/README.md)
       * [CAC Configuration](career/compscidev/env-os-setups/ubuntu/cac-configuration/README.md)
         * [Ubuntu CAC Docs](https://help.ubuntu.com/community/CommonAccessCard)
@@ -251,7 +252,6 @@
       * [Google Colaboratory](career/compscidev/env-os-setups/misc-software/google-colaboratory.md)
       * [\[Web IDE\] Replit](https://replit.com/~)
       * [VirusTotal Sus File Scanner](https://www.virustotal.com/gui/home/upload)
-    * [Bare Metal Server](career/compscidev/env-os-setups/bare-metal-server.md)
     * [Docker](career/compscidev/env-os-setups/docker.md)
     * [How to Send a File](https://blog.xkcd.com/2019/08/26/how-to-send-a-file/)
   * [Game Development](career/compscidev/game-development/README.md)
@@ -670,8 +670,6 @@
     * [2023](career/writing/writing-samples/2023/2023.md)
     * [2024](career/writing/writing-samples/2024/README.md)
       * [2024 Presidential Election](career/writing/writing-samples/2024/2024-presidential-election.md)
-
-## 🥪 Food
 
 ## 🕹️ Gaming
 
