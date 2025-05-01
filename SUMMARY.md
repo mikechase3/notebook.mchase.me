@@ -4,7 +4,7 @@
 * [Inbox](inbox/README.md)
   * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
   * [EBITDA](inbox/ebitda.md)
-  * [Ode to BunBun](inbox/ode-to-bunbun.md)
+  * [Ode to BunBunn](inbox/ode-to-bunbun.md)
 
 ## 💼 Career
 
