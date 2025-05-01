@@ -1,6 +1,6 @@
 # SAT Solvers
 
-From [Dynamic](../../compsci-and-development/conferences-and-interest-groups/gem-city-tech/dynamic-languages-group.md) languages group. 2024 AUG 14
+From [Dynamic](../conferences-and-interest-groups/gem-city-tech/dynamic-languages-group.md) languages group. 2024 AUG 14
 
 ## Setup/Installation
 
