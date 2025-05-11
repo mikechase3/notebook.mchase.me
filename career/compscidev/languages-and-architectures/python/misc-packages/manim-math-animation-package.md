@@ -33,13 +33,13 @@ brew install ffmpeg mactex
 
 If this doesn't work, check for an updated command in this ReadMe file. This is for an unrelated program, but it worked for me:
 
-{% embed url="https://github.com/azeam/camset" %}
+{% @github-files/github-code-block url="https://github.com/azeam/camset" %}
 
 ### Other Platforms
 
 I used MacOSX, but other platforms have documentation. Checkout the official ReadMe.
 
-{% embed url="https://github.com/3b1b/manim" %}
+{% @github-files/github-code-block url="https://github.com/3b1b/manim" %}
 
 ### Video Installation
 

@@ -95,7 +95,7 @@ You do not have to tell anyone what company you’re joining if you don’t want
 
 You can certainly offer to pick up the phone and help if there's any questions, but as soon as you introduce money in the equation, things get complicated quickly. Your new employer likely has a policy against outside employment and especially if they're a competitor, it could really get you in trouble.
 
-Sometimes, a forced consulting period ("[garden leave](https://en.wikipedia.org/wiki/Garden\_leave)") is even part of the employment contract for senior employees, precisely because it prevents you from working for competitors.
+Sometimes, a forced consulting period ("[garden leave](https://en.wikipedia.org/wiki/Garden_leave)") is even part of the employment contract for senior employees, precisely because it prevents you from working for competitors.
 
 Our suggestion: the money involved in a consulting agreement is not worth the headache. Instead, be generous about offering to train your replacement, documenting your work and offering to answer any questions if they come up.If you're given a counteroffer
 
