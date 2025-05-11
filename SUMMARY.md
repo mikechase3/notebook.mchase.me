@@ -2,8 +2,6 @@
 
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
-  * [Hands On ML/AI Geron](inbox/hands-on-ml.md)
-  * [EBITDA](inbox/ebitda.md)
   * [Ode to BunBunn](inbox/ode-to-bunbun.md)
 
 ## 💼 Career
@@ -71,6 +69,7 @@
         * [MagicSchool](https://app.magicschool.ai/auth/signin)
       * [Expert Systems](career/compscidev/ai/deep-learning/expert-systems.md)
     * [Gymnasium Environment Setup](career/compscidev/ai/gymnasium-environment-setup.md)
+    * [Hands On ML/AI Geron](career/compsci-and-development/ai/hands-on-ml.md)
     * [Intro to A\* and DFS Search](career/compscidev/ai/ai_elementary.md)
     * [Reinforcement Learning](career/compscidev/ai/reinforcementlearning/README.md)
       * [Bipedal Walker](career/compscidev/ai/reinforcementlearning/crawler-practice.md)
@@ -435,8 +434,11 @@
           * [On Settings.Py](career/compscidev/languages-and-architectures/python/misc-packages/django-basics/on-settings.py.md)
         * [Flask](career/compscidev/languages-and-architectures/python/misc-packages/flask.md)
         * [Manim Math Animation Package](career/compscidev/languages-and-architectures/python/misc-packages/manim-math-animation-package.md)
+      * [Package Management](career/compsci-and-development/languages-and-architectures/python/package-management/README.md)
+        * [pip docs](https://pip.pypa.io/en/stable/)
+        * [uv docs](career/compsci-and-development/languages-and-architectures/python/package-management/uv-docs.md)
       * [Standard Library](career/compscidev/languages-and-architectures/python/standard-library/README.md)
-        * [📗 Standard Library Docs](https://docs.python.org/3/library/index.html)
+        * [Standard Library Docs](https://docs.python.org/3/library/index.html)
         * [Datetime Package](career/compscidev/languages-and-architectures/python/standard-library/datetime-module.md)
         * [re Regular Expressions Package](career/compscidev/languages-and-architectures/python/standard-library/re-regular-expressions-package.md)
         * [TKinter](career/compscidev/languages-and-architectures/python/standard-library/tkinter/README.md)
@@ -841,6 +843,7 @@
   * [Dealing With Collections](maintenance/finance/collections.md)
   * [Cryptocurrency Activities](maintenance/finance/cryptocurrency-taxes.md)
   * [Investments](maintenance/finance/investments/investments.md)
+    * [EBITDA](maintenance/finance/investments/ebitda.md)
     * [Mike Chase's Advice](maintenance/finance/investments/stocks.md)
     * [StocksAndBonds](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVJoep_XshasfnwHfCV_JMf)
     * [Stupidest Thing You Can Do With Your Money](https://freakonomics.com/podcast/the-stupidest-thing-you-can-do-with-your-money/)

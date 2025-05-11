@@ -1,4 +1,4 @@
-# Ode to BunBun
+# Ode to BunBunn
 
 .
 
@@ -26,5 +26,8 @@
 * When you're sad & you grieve, it makes me tired.
 * She'd want me to keep hopping along.
 * Doesn't run over to the fridge when I open it.
-*
+
+## Photos
+
+Maybe I should turn this into a Google Site at minimum and put my photos there.
 
