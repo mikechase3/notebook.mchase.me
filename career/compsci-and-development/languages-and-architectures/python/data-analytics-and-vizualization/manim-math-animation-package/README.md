@@ -2,7 +2,7 @@
 
 ## What is Manim
 
-![](<../../../../../.gitbook/assets/image (459).png>)
+![](<../../../../../../.gitbook/assets/image (459).png>)
 
 * Precise animations.
 * Designed for creating explanatory math videos.
@@ -62,3 +62,6 @@ Next, I watched the following video to further help me get started.
 {% embed url="https://www.youtube.com/watch?v=d9nbtyO2YcU" %}
 
 Second, I found an excellent youtube video that shows an overview of what i could create with this.
+
+
+
