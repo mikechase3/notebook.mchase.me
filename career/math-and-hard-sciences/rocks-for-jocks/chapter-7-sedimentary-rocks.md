@@ -15,7 +15,7 @@ description: Chapter 7
 
 ## Classes of Sedimentary Rocks
 
-There are 4 major classes of sedimentary rocks: clastic,&#x20;
+There are 4 major classes of sedimentary rocks: clastic,
 
 1. Clastic: rocks cemented together as clasts
 2. Biochemical: consists of shells grown by organisms.
@@ -43,7 +43,7 @@ See page 212.
 * Sedimentary maturity
 * Character of cement
 
-![](<../../.gitbook/assets/image (645).png>)
+![](<../../../.gitbook/assets/image (645).png>)
 
 ### Chemical Sedimentary Rocks
 
@@ -52,15 +52,15 @@ See page 212.
 * **Chert**: microcrystalline quartz.
 * **Evaporites:** halite, gypsum, annhydrite.
 
-![](<../../.gitbook/assets/image (642).png>)
+![](<../../../.gitbook/assets/image (642).png>)
 
 ### Interpreting Sedimentary Rocks
 
-* **Transport History**:&#x20;
-* **Sedimentary Structures**:&#x20;
+* **Transport History**:
+* **Sedimentary Structures**:
 * **Ripple Marks:** (see below)
 
-![Transport History](<../../.gitbook/assets/image (643).png>)
+![Transport History](<../../../.gitbook/assets/image (643).png>)
 
 ### Defining Sedimentary Rocks
 
@@ -74,7 +74,7 @@ See page 212.
 
 ### Ripples
 
-![](<../../.gitbook/assets/image (644).png>)
+![](<../../../.gitbook/assets/image (644).png>)
 
 ### Crossbeds
 
@@ -99,4 +99,3 @@ You cannot observe all these characteristics in every rock.
 1. There were mountains called the **ancestral rockies**
 2. A red magma body came up 60 million years ago. Magma pushed up through these sediments.
 3. In he modern-day rockies, the red pieces of sandstone are the remnants of ancestral rockies that weathered down and disappeared.
-

@@ -20,10 +20,10 @@ Be able to answer & explain early attempts to explain:
 #### Problems with their theory
 
 * Mountains show horizontal shortening/folding instead of vertical displacement.
-  * Assuming we start out with horizontal/flat layers, we can assume they are folded and deformed until they are really messed up.&#x20;
+  * Assuming we start out with horizontal/flat layers, we can assume they are folded and deformed until they are really messed up.
   * To get them to be messed up, what you need are compressional forces. This is going to squeeze the rocks and turn them into really deformed piece.
-  * In actuality, there aren't compressional/horizontal forces.&#x20;
-  * If you put the mountains back into flat line rocks, you'd have to shorten them a lot.&#x20;
+  * In actuality, there aren't compressional/horizontal forces.
+  * If you put the mountains back into flat line rocks, you'd have to shorten them a lot.
   * You cannot account for the shortening of those rocks in this model.
 * Gravity
   * It's a universal force between any two objects.
@@ -39,7 +39,7 @@ Be able to answer & explain early attempts to explain:
 
 ### Geosyncilinal Theory & James Hall (Wrong)
 
-![](<../../.gitbook/assets/CleanShot 2022-02-22 at 09.58.45@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-02-22 at 09.58.45@2x.jpg>)
 
 #### Problems
 
@@ -50,7 +50,7 @@ Be able to answer & explain early attempts to explain:
 
 ### Wegener's Continental Drift
 
-![](<../../.gitbook/assets/CleanShot 2022-02-22 at 10.17.02@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-02-22 at 10.17.02@2x.jpg>)
 
 * **Wegener** said there was a supercontinent called **Pangaea** that broke apart and drifted into these positions.
 
@@ -84,7 +84,7 @@ Ask about this
 
 ### Seismic Waves
 
-![](<../../.gitbook/assets/CleanShot 2022-02-22 at 10.30.33@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-02-22 at 10.30.33@2x.jpg>)
 
 Seismic waves give us information on:
 
@@ -93,5 +93,4 @@ Seismic waves give us information on:
 3. The internal structure of the earth
 4. How plates can move _(Brittle lithosphere floating on hot plastic asthenosphere)_
 
-![](<../../.gitbook/assets/CleanShot 2022-02-22 at 10.34.32@2x.jpg>)
-
+![](<../../../.gitbook/assets/CleanShot 2022-02-22 at 10.34.32@2x.jpg>)

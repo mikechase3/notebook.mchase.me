@@ -18,7 +18,7 @@
 
 ### Ionic Bonding
 
-![](<../../.gitbook/assets/image (590).png>)
+![](<../../../.gitbook/assets/image (590).png>)
 
 | Bond Type | Explanation                                              | Strength    | Example                       |
 | --------- | -------------------------------------------------------- | ----------- | ----------------------------- |
@@ -32,17 +32,17 @@
 Graphics from Earth Sciences: Marshak and Rauber. TODO: Remove/source.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (617).png>)
+![](<../../../.gitbook/assets/image (617).png>)
 
-![](<../../.gitbook/assets/image (615).png>)
+![](<../../../.gitbook/assets/image (615).png>)
 
 ## 6.6: Igneous Rock Classification
 
-![](<../../.gitbook/assets/image (620).png>)
+![](<../../../.gitbook/assets/image (620).png>)
 
-![](<../../.gitbook/assets/image (618).png>)
+![](<../../../.gitbook/assets/image (618).png>)
 
-![](<../../.gitbook/assets/image (619).png>)
+![](<../../../.gitbook/assets/image (619).png>)
 
 ## Extrusive Igneous Rocks: Volcanoes
 

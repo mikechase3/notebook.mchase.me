@@ -21,11 +21,11 @@
 
 Do I need to take the GRE Again?
 
-![](<../../.gitbook/assets/image (140).png>)
+![](<../../../.gitbook/assets/image (140).png>)
 
 ## Finding Your Ideal Grad School
 
-![US News & World Report](<../../.gitbook/assets/image (141).png>)
+![US News & World Report](<../../../.gitbook/assets/image (141).png>)
 
 * What are the best programs?
 * What are the specializations?
@@ -51,8 +51,3 @@ Do I need to take the GRE Again?
   * Faculty you will work with
   * Classes and/or internships will you take and experience
 * Look to see if there are any assistantships or funding opportunities list.
-
-
-
-
-

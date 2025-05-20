@@ -7,7 +7,7 @@
 
 ## Archean Rocks
 
-![](<../../.gitbook/assets/CleanShot 2022-03-08 at 09.47.11@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-03-08 at 09.47.11@2x.jpg>)
 
 ### Granulites
 
@@ -21,8 +21,8 @@
 * Komatiite Silvers (1700 C)
   * It crystalizes at 1700 degrees celsius. It does not form in today's planet.
   * Lots of Fe (Iron) & Mg (Magnesium), so it's very dense.
-  * As the rock melts, the minerals that melt at the lowest temperature are the more quartz rich.&#x20;
-  * As the komatiite plate melts,&#x20;
+  * As the rock melts, the minerals that melt at the lowest temperature are the more quartz rich.
+  * As the komatiite plate melts,
 * Pillow Bassalt
   * We interpert it as being ancient ocean basin.
   * Highly deformed, highly metamorphic.
@@ -37,7 +37,7 @@ Ask: why doesn't form. Convection currents are still occurring.
 
 ### Banded Iron Formation
 
-* They are very oxidized iron layers and black chert&#x20;
+* They are very oxidized iron layers and black chert
   * Chert: very fine quartz with oxidized iron. Forms with no oxygen.
   * Iron oxide: requires oxygen to oxidize.
   * Problem: how do these two form?
@@ -81,6 +81,3 @@ Ask: why doesn't form. Convection currents are still occurring.
 * More O2 in the atmosphere.
 * Appearance of extensive red beds about 2.5mya.
 * Evolution of the eukaryotic cells. We know that the mechanism for which they survive is dependent on more oxygen.
-
-
-
