@@ -1026,8 +1026,6 @@
   * [Maintaining Household Appliances](maintenance/properties/maintaining-household-appliances.md)
   * [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 
-## Math and Hard Sciences <a href="#math" id="math"></a>
-
 ## 🤝 Relations
 
 * [Charisma](relations/charisma/charisma.md)
