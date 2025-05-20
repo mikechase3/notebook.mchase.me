@@ -9,7 +9,7 @@
 Plan for this page:
 
 * Summary of tools/technologies I used.
-* Links to "[discipline](../../principles-and-values/discipline.md)" if it's more of that.
+* Links to "[discipline](../../relations/discipline.md)" if it's more of that.
 * Some consistent model to describe tools/tech. Maybe for each app:
   * Summary
   * Advantages
@@ -43,6 +43,6 @@ But first - why is this a good application to break up into smaller tasks? Here'
 | iThoughtsX (Mac/PC/iOS) | Mind mapping.                                                   |                   |
 | Taskheat (iOS/Mac)      | Basic flowchartting.                                            | Buggy. No export. |
 
-#### Pencil and Paper or [Battle Mat](https://smile.amazon.com/Chessex-Role-Playing-Play-Mat/dp/B0015IQO2O/ref=sr\_1\_13?crid=J63SKGLNQUA\&keywords=Battle+Mat\&qid=1640585275\&sprefix=battle+mat%2Caps%2C1051\&sr=8-13)
+#### Pencil and Paper or [Battle Mat](https://smile.amazon.com/Chessex-Role-Playing-Play-Mat/dp/B0015IQO2O/ref=sr_1_13?crid=J63SKGLNQUA\&keywords=Battle+Mat\&qid=1640585275\&sprefix=battle+mat%2Caps%2C1051\&sr=8-13)
 
 The first things I recommend is trying to model your problem in a flowchart on pen/paper. This is almost meta in that you're breaking down the problem of breaking down problems because you'll use this information to choose the correct model.
