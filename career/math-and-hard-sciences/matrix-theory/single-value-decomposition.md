@@ -2,8 +2,8 @@
 
 ## The Main Idea
 
-* Remember: $$A=U \Sigma V^T$$&#x20;
-* We use it to factor non-square matrices and do fun things like find determinants on that after they get turned into square matrices through voodoo multiplication.&#x20;
+* Remember: $$A=U \Sigma V^T$$
+* We use it to factor non-square matrices and do fun things like find determinants on that after they get turned into square matrices through voodoo multiplication.
 * It breaks down like this:
 
 $$
@@ -42,5 +42,4 @@ The first thing we'll want to do is calculate A'A.
 
 {% embed url="https://www.youtube.com/watch?index=64&list=PL221E2BBF13BECF6C&v=pSbafxDHdgE" %}
 
-![](<../../.gitbook/assets/CleanShot 2021-12-02 at 12.45.48@2x.jpg>)
-
+![](<../../../.gitbook/assets/CleanShot 2021-12-02 at 12.45.48@2x.jpg>)

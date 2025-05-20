@@ -40,12 +40,12 @@ In summary, just use the formula, set it equal to zero, and solve for lambda.
 
 * Do this process for each eigenvector.
 
-![](<../../.gitbook/assets/CleanShot 2021-12-02 at 12.40.39@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2021-12-02 at 12.40.39@2x.jpg>)
 
 ### 2nd Example to Find Eigenvectors
 
 > _**Problem Statement**_: find an eigenvector of the matrix $$A= \begin{bmatrix} -63 & 195 & 0 \\ -20 & 62 & 0 \\ 40 & -118 & 3 \end{bmatrix}$$corresponding to the eigenvalue $$\lambda = -3$$.
 
-![](<../../.gitbook/assets/CleanShot 2021-12-02 at 12.41.16@2x.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2021-12-02 at 12.41.16@2x.jpg>)
 
-![Your final answer would say that the eigenvectors are: .](<../../.gitbook/assets/CleanShot 2021-12-02 at 12.41.45@2x.jpg>)
+![Your final answer would say that the eigenvectors are: .](<../../../.gitbook/assets/CleanShot 2021-12-02 at 12.41.45@2x.jpg>)

@@ -24,11 +24,11 @@
 
 It's not easy to look at that formula and see what will happen, so I ran the numbers in Wolfram Alpha. Let's say this is some kid's part-time ice cream job and there's 4 kids.
 
-![](<../../.gitbook/assets/CleanShot 2022-01-20 at 04.25.12.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-01-20 at 04.25.12.jpg>)
 
 And what happens if I give everyone a $50 raise? The mean increases, but the population standard deviation remains the same.
 
-![](<../../.gitbook/assets/CleanShot 2022-01-20 at 04.25.42.jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-01-20 at 04.25.42.jpg>)
 
 ### The 5% raise question
 

@@ -11,7 +11,7 @@ Last Friday, we were talking about matrices and how to solve systems without hav
 
 ### Example: No Solution
 
-![](<../../.gitbook/assets/image (603).png>)
+![](<../../../.gitbook/assets/image (603).png>)
 
 Notice:
 
@@ -23,7 +23,7 @@ Notice:
 Why is there no solution? Is it because $$2x_3$$ can't equal 1 and 2? Can't -x2 be zero?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (605).png>)
+![](<../../../.gitbook/assets/image (605).png>)
 
 ### Example: Augmented Matrixes
 
@@ -33,7 +33,7 @@ $$
 \begin{bmatrix}A &| & \vec{b} \end{bmatrix} = \begin{bmatrix}1 & 1 & 2 & | & 3 \\ -2 & 3 & 1 & | & 1 \\ 2 & 2 & 2 & | & 1 \end{bmatrix}
 $$
 
-![](<../../.gitbook/assets/image (608).png>)
+![](<../../../.gitbook/assets/image (608).png>)
 
 * First, proceed to do column by column.
 * Start in column 1 and identify the pivot.
@@ -48,17 +48,17 @@ $$
 * Now, subtracting $$l_{i, 1}$$ copies of row 1 from row `i`
 * This is allowed because the correspondance to systems of equations:
 
-![](<../../.gitbook/assets/image (607).png>)
+![](<../../../.gitbook/assets/image (607).png>)
 
 {% hint style="warning" %}
 How did we get from the last step here?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (609).png>)
+![](<../../../.gitbook/assets/image (609).png>)
 
 ### Relation to Chapter 1: Elimination is Matrix Multiplication
 
-![](<../../.gitbook/assets/image (610).png>)
+![](<../../../.gitbook/assets/image (610).png>)
 
 Then he wrote down: $$l_{2,1} = -2 \implies E_{2,1}=\begin{bmatrix}1 & 0 & 0 \\ 2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$$
 

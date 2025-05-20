@@ -24,7 +24,7 @@ $$
 
 We can write a linear combination in a slightly more compact form:
 
-![](<../../../.gitbook/assets/image (533).png>)
+![](<../../../../.gitbook/assets/image (533).png>)
 
 The key equation for linear algebra is:
 
@@ -91,7 +91,7 @@ We next went over some cool stuff about column space with the following lab:
 
 #### Finding Angle Between Vectors
 
-![](<../../../.gitbook/assets/image (534).png>)
+![](<../../../../.gitbook/assets/image (534).png>)
 
 We solved this by using the formula:
 
@@ -99,7 +99,7 @@ $$cos(\theta)=\frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \ast ||\vec{b}||} = \frac
 
 #### Find Two Independent Vectors in the Plane
 
-![](<../../../.gitbook/assets/image (535).png>)
+![](<../../../../.gitbook/assets/image (535).png>)
 
 Here, we basically ran out of time. But we plugged things in and got the answers \[4,1,0] and \[3,0,3]
 
@@ -117,7 +117,7 @@ $$
 
 You're probably more familiar with the formula below:
 
-![](<../../../.gitbook/assets/image (551).png>)
+![](<../../../../.gitbook/assets/image (551).png>)
 
 ## Multiplying Matrices
 
@@ -128,7 +128,7 @@ You're probably more familiar with the formula below:
 
 #### Example: Column-Column Method of Multiplying Vectors
 
-![First example of multiplying vectors in Dr. Bush's Course.](<../../../.gitbook/assets/image (547).png>)
+![First example of multiplying vectors in Dr. Bush's Course.](<../../../../.gitbook/assets/image (547).png>)
 
 ### Row-Row Methods
 
@@ -136,7 +136,7 @@ You're probably more familiar with the formula below:
 
 Here, we're taking the rows
 
-![Example from Su p.51. Annotated by me.](<../../../.gitbook/assets/image (546).png>)
+![Example from Su p.51. Annotated by me.](<../../../../.gitbook/assets/image (546).png>)
 
 ## Factoring a Matrix Into Two Products
 
@@ -187,15 +187,15 @@ $$
    1. For the first column, how many of the first and how many of the 2nd do you need to equal the original?
    2. Do this for each set of columns to get `R`.
 
-![](<../../../.gitbook/assets/image (549) (1).png>)
+![](<../../../../.gitbook/assets/image (549) (1).png>)
 
-![](<../../../.gitbook/assets/image (550) (1).png>)
+![](<../../../../.gitbook/assets/image (550) (1).png>)
 
 ### Good Example
 
 Start here because I 100% understood this problem and how to do it at one point.
 
-![](<../../../.gitbook/assets/image (559).png>)
+![](<../../../../.gitbook/assets/image (559).png>)
 
 ## Second Model: Row-Column Model
 
@@ -314,7 +314,7 @@ $$
 
 ### Ex1
 
-![](<../../../.gitbook/assets/image (572).png>)
+![](<../../../../.gitbook/assets/image (572).png>)
 
 We should really think of this problem as:
 
