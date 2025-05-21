@@ -16,7 +16,7 @@ Abridges are when the community takes stuff & redoes the voices.
 |           |             |
 |           |             |
 
-<figure><img src="../../../.gitbook/assets/image (771).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (771).png" alt=""><figcaption></figcaption></figure>
 
 ## Works Cited
 
