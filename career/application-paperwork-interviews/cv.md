@@ -6,7 +6,15 @@ description: >-
 
 # CV Resources
 
-## Masters & Air Force Work
+## Masters & Air Force Work (Approx. 2020-Present)
+
+* **Current Role: Computer Scientist (PAQ Program)**
+  * *Organization*: Air Force Research Laboratory's 711th Human Performance Laboratory
+  * *Dates*: January 2025 - Present
+  * Contributed to AI-driven research focused on modeling human operator cognition and decision-making processes within complex simulated environments, specifically related to satellite operations.
+  * Developed and refactored a JavaScript/Vue codebase, aiding in efforts to transition key systems to open-source solutions and improve overall system architecture (e.g., migrating from Docker Desktop to Podman).
+  * Initiated and prototyped a voice-interactive game using LLMs to generate dynamic NPC dialogue for a deception-based scenario (e.g., players lying to gain access); showcased this independent project and its technical framework in a successful poster presentation at AFRL Discover.
+
 
 * **ACM Club:** project lead for rebuilding the UD website? Currently in-progress.
 * **Bravo 10**: team won runner-up for Bravo Biometrics, a plotly application for measuring pilot readiness and fatigue. Twas an effort to convince superiors to invest in more comfortable cockpits to reduce pilot turnover because it costs \~$12-20 million to train jet fighter pilots.

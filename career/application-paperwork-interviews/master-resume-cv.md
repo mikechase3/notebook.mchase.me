@@ -1,18 +1,19 @@
 # Master Resume/CV
 
-## History
+## META/History
 
 ### Mediums
 
 It's important to keep track of the different mediums I tried:
 
-| Method or Medium                 | Advantages                                                                                                                        | Disadvantages                                                                                                     |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Text File                        | Easy. Free.                                                                                                                       | Unorganized. Can't export.                                                                                        |
-| Google Docs Giant Table          | Easy. Just a table. Complete. Decently organized.                                                                                 | Can't export/share easily.                                                                                        |
-| Resume Star                      | iOS and Mac Apps. Exports to 'resume' format.                                                                                     | Can't customize. No place for notes.                                                                              |
-| [Resumake](https://resumake.io/) | All data stored in exportable JSON file.                                                                                          | Have to keep track of notes separately. Hard to easily chop down into what you need. Might not be hosted forever? |
-| Notebook.mchase.me               | Can attach photos. I can change it rapidly. More of a "living document". Can attach notes and be verbose. Cloud-synced using git. | Can't export to a professional looking document quickly.                                                          |
+| Method or Medium                | Advantages                                                                                                                        | Disadvantages                                                                                                     |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Text File                       | Easy. Free.                                                                                                                       | Unorganized. Can't export.                                                                                        |
+| Google Docs Giant Table         | Easy. Just a table. Complete. Decently organized.                                                                                 | Can't export/share easily.                                                                                        |
+| Resume Star                     | iOS and Mac Apps. Exports to 'resume' format.                                                                                     | Can't customize. No place for notes.                                                                              |
+| [Resumake](https://resumake.io) | All data stored in exportable JSON file.                                                                                          | Have to keep track of notes separately. Hard to easily chop down into what you need. Might not be hosted forever? |
+| Notebook.mchase.me              | Can attach photos. I can change it rapidly. More of a "living document". Can attach notes and be verbose. Cloud-synced using git. | Can't export to a professional looking document quickly.                                                          |
+| Home Inventory                  | I made one already.                                                                                                               | I never maintained it.                                                                                            |
 
 ## Strategies
 
