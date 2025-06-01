@@ -14,4 +14,5 @@ A [nonlinear junction detector](https://en.wikipedia.org/wiki/Nonlinear_junction
 
 "Absolutely do not point this on your head or eyes and it will likely cook your eyes and burn them opaque". Do not use with anyone with electronics in their body (pacemaker) and anything metalic may break.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-12-10 at 21.58.15@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-10 at 21.58.15@2x.png" alt=""><figcaption></figcaption></figure>
+

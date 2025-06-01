@@ -11,5 +11,5 @@ Internal note: search the hashmap for "Gem City Catfe foster training guide." fo
    2. Happy to receive pictures!
 2.
 
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
