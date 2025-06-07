@@ -908,6 +908,8 @@
     * [VHS Vault](https://archive.org/details/vhsvault)
     * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
     * [Star Wars A New Hope](https://swanh.net/)
+* [Sports](leisure/sports/README.md)
+  * [Soaring](leisure/sports/soaring.md)
 * [Before The Internet](https://internetkhole.com/)
 * [Camper Rental Analysis](leisure/camper-rental-analysis.md)
 * [Favorite Restaurants](leisure/favorite-restaurants.md)
