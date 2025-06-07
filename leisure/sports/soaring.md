@@ -7,4 +7,7 @@
 * Google Earth Pro
 * [OLC Gliding](https://www.onlinecontest.org/olc-3.0/segelflugszene/index.html)
 * skysight.io
+* [We Glide](https://www.weglide.org/)
+
+.
 
