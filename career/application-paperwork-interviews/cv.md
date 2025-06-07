@@ -10,7 +10,7 @@ description: >-
 
 * **Current Role: Computer Scientist (PAQ Program)**
   * *Organization*: Air Force Research Laboratory's 711th Human Performance Laboratory
-  * *Dates*: January 2025 - Present
+  * *Dates*: January 2025—Present
   * Contributed to AI-driven research focused on modeling human operator cognition and decision-making processes within complex simulated environments, specifically related to satellite operations.
   * Developed and refactored a JavaScript/Vue codebase, aiding in efforts to transition key systems to open-source solutions and improve overall system architecture (e.g., migrating from Docker Desktop to Podman).
   * Initiated and prototyped a voice-interactive game using LLMs to generate dynamic NPC dialogue for a deception-based scenario (e.g., players lying to gain access); showcased this independent project and its technical framework in a successful poster presentation at AFRL Discover.
