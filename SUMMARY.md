@@ -556,6 +556,7 @@
       * [Hollywood Cinema](career/communication/journalism/propaganda/hollywood-cinema.md)
       * [Midterm](career/communication/journalism/propaganda/midterm.md)
   * [Marketing](career/communication/programiz-how-we-use-psychology-to-market-our-products/README.md)
+    * [Harnessing Cold Emails](career/communication/programiz-how-we-use-psychology-to-market-our-products/harnessing-cold-emails.md)
     * [Phone Conversations](career/communication/programiz-how-we-use-psychology-to-market-our-products/magic-phrases.md)
     * [Programiz Psychology](career/communication/programiz-how-we-use-psychology-to-market-our-products/programiz_psychology_marketing.md)
   * [Public Speaking](career/communication/public-speaking/README.md)
