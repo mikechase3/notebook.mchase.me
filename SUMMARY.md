@@ -110,7 +110,7 @@
     * [Virtual Enginma Simulation](career/compsci-and-development/cybersecurity/electrical.md)
     * [Penetration Testing](career/compscidev/lostandfound/penetration-testing.md)
     * [Secure App Development](career/compscidev/cybersecurity/secure-app-development/README.md)
-      * [Introduction](career/compscidev/cybersecurity/secure-app-development/introduction.md)
+      * [SecureAppDev Syllabus/Intro](career/compscidev/cybersecurity/secure-app-development/introduction.md)
       * [Network Security](career/compscidev/cybersecurity/secure-app-development/lecture-2.md)
       * [C Programming Security](career/compscidev/cybersecurity/secure-app-development/introduction-to-c.md)
       * [Robust Programming](career/compscidev/cybersecurity/secure-app-development/robust-programming.md)
