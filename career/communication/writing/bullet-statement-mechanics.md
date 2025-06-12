@@ -4,7 +4,7 @@ description: >-
   drafting accomplishment-impact bullet
 ---
 
-# Accomplishment-Impact Bullets
+# Bullet Statement Mechanics
 
 ## Getting Started
 
@@ -49,15 +49,15 @@ The second step is to make it into an "accomplishment-impact bullet." **Group th
 
 * **Adverbs** modify the action \*\*\*\* verb. Connect $$adverb + verb = magic$$.
 
-![](<../.gitbook/assets/CleanShot 2021-12-01 at 22.55.31@2x.jpg>)
+![](../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.55.31@2x.jpg)
 
-![](<../.gitbook/assets/CleanShot 2021-12-01 at 22.39.33@2x.jpg>)
+![](../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.39.33@2x.jpg)
 
 #### **The Impact Element (Impact and Results)**
 
 The impact element explains how the person's actions had an effect on the organization. The scope should be consistent with the person's accomplishments.
 
-![](<../.gitbook/assets/CleanShot 2021-12-01 at 22.52.48@2x.jpg>)
+![](../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.52.48@2x.jpg)
 
 ### Step 3: Streamline the Final Product
 
@@ -119,7 +119,7 @@ Left off on page 253.
 
 ## Guidance on WARs
 
-![](<../.gitbook/assets/Scannable Document on Apr 2, 2022 at 12\_53\_47 AM.jpg>)
+![](../../writing/.gitbook/assets/Scannable%20Document%20on%20Apr%202,%202022%20at%2012_53_47%20AM.jpg)
 
 From analyzing a few examples, you discover a pattern. To write a good WAR, just follow this pattern:
 
