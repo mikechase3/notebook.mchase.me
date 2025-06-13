@@ -1,0 +1,64 @@
+# Michael Chase Master Resume
+
+A heavily annotated history so I can pick/choose experiences and condence them into a resume suited for the position I'm applying for.
+
+## Work Experience
+
+### Co-learning Branch
+
+* **Organization**: Air Force Research Laboratory; 711 HPW RHWOH, RHWOW, and RHWL before the re-organization.
+* **Location**: WPAFB, OH
+* **Dates**: January 2025-Present
+
+
+
+1. Contributed to AI Driven research focused on modeling human operator cognition and decision making processes within complex simulated environments, specifically related to satellite operations.
+   1. The Oko project is my primary contribution though I cannot say publicly my contributions.
+   2. Essentially, there's a JS/Typescript/Vue backend.
+   3. Several microservices are launched within Docker containers.&#x20;
+      1. I helped experiment with Podman
+      2. We made the decision to overrule OMC and make them get us Docker Engine & Docker Compose because they are free.
+      3. Docker Desktop is licensed, that was a headache and they wouldn't install it on my Defense Educational Research Network (DREN) machine.
+   4. Administered COLANET resources specific to AI/ML. Worked with Michael D on installing dependencies for PyTorch in an offline environment and getting that setup for projects I can't name.
+2. Developed and refactored a JavaScript/Vue codebase, aiding in efforts to transition key systems to open-source solutions and improve overall systems architecture (e.g., migrating from Docker Desktop to Podman).
+
+#### "Evaluating Of LLMs Ability to Make Scenario Based Training More Immersive And Improve Learning Outcomes"
+
+* **Resume Bullet:** Initiated and prototyped a voice-interactive game using LLMs to generate dynamic NPC dialogue for a deception-based scenario (e.g., players lying to gain access); showcased this independent project and its technical framework in a successful poster presentation.
+* Called it LLM Scenario Based Training Learning Outcomes
+
+<figure><img src="../../../.gitbook/assets/image (774).png" alt=""><figcaption><p>Proof can be found in  "AFRL Discover 2024 Poster List"</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (775).png" alt=""><figcaption><p>Poster is 031-Chase-EvaluatingOfLLMsAbilityToMakeScenarioBasedTrainingMoreImmersiveAndImproveLearningOutcomes</p></figcaption></figure>
+
+The presentation was generally well received. I was lauded for being able to communicate my work in a way everyone could understand versus other presentations which were highly complex and required specialized knowledge. Mine did too, but customers understood the problem, my approach, why it was unique, and why it was useful. I was given POCs of several interested customers before returning to my master's program.
+
+### Gaming Research Integration for Learning Laboratory
+
+* **Organization**: Air Force Research Laboratory; 711 HPW RHWL; Gaming Research Integration for Learning Laboratory.
+* **Location**: Kettering, OH
+* **Dates**: May 2020 - Jan 2025
+* Resume Bullets
+  * Led and contributed to developing impactful educational and research tools, including a UE5 MPERPG for officer training, a VR watchstanding simulator with gaze-tracking, and a VR system for capturing human expert data (e.g., spray painting techniques) to train AI/robotic systems.&#x20;
+  * Contributed to lab operational readiness by assisting with network administration, GitLab configurations, firewall adjustments, and resolving diverse IT support requests. \* Initiated, designed, and deployed a new lab website using Google Sites, significantly improving usability, content accessibility, and collaborative maintenance capabilities over the previous WordPress platform.
+  * Delivered technical instruction and outreach presentations to students and stakeholders, promoting GRILL's capabilities and fostering engagement with ongoing research initiatives.&#x20;
+  * Successfully transitioned from PCIP to PAQ status (May 2022) with an increase in responsibilities and leadership expectations.
+
+#### Current Evolution of VR Input Modalities
+
+Co-author "Current Evolution of VR Input Modalities" Rebensky et. al; presented at IT2EC 2023. See `FINAL_CurrentInputModalities.docx`. Should be published on I/ITSEC.
+
+<figure><img src="../../../.gitbook/assets/image (777).png" alt=""><figcaption></figcaption></figure>
+
+#### Team-Situational Awareness for Watchstanders
+
+* Aim was to create a 3D, VR maritime environment that enables instruction and investigation of various approaches and concepts such as alerting schemes, teaming arrangements, visualization capabilities, decision making aids, etc. Internal users may see`GRILL Challenge Problem Overview - 20240618` for more info.
+
+#### Multi-Player Educational Role Playing Game (MPERPG)
+
+f
+
+#### Miscellaneous Work
+
+* **"Tech Behind the Takeoff Brief/Presentation: Apps Beyond code, image, and text generation"** was  a presentation/brief I gave discussing how we organize files, how LLMs aid in research with PDF parsing & text abstraction, Google's DeepMind program searching, training at the GRILL, progressive upscaling, biology topics, design topics, IoT toolchains, operations, psychology applications (e.g. facial expression recognition), the potential for more insecure code w/ AI assistents/agents, robotics, security (e.g. jailbroken chatbots, techniques for jailbreaking, offensive cybersecurity, and ransomeware attacks. Worked w/ Dr. Stef Fussell gave an avaiation presentation & C1C Luke Kuklis in these briefs.
+*
