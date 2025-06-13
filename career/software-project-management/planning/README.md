@@ -28,29 +28,29 @@ Images/works cited:
 * Often represented in comic book form.
 * Tells devs about **what users want**, need, and behave.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### User Scenarios
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
 
 #### User Stories
 
 Can be like "as a parent with kids, I want to block content to keep them safe," so then you turn their story into items to get done.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>From AltexSoft video above.</p></figcaption></figure>
 
 ### Architecture and Design Document
 
 This is what the developers come up with in terms of how they design it.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Testing Plan & Test Cases
 
 In test-driven development, you write the test cases before you even write the code.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Process Documentation
 

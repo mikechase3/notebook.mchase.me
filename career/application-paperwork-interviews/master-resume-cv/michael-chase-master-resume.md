@@ -87,18 +87,48 @@ Here's the team I worked with in Hawaii:
 
 #### Bravo 10 Bravo Biometrics
 
-* **Timeline**: 2022?&#x20;
+* **Timeline**: 2022
 * **Location**: Destin–Fort Walton, Florida.
 * **Awards**: runner's up for best project via people's choice award.
 * **Purpose**: address pilot readiness and fatigue to reduce pilot turnover (where training cost btw $12-20M per pilot)
 * **Tools/Solution** a pilot dashboard built in Plotly consisting of physiological data (from loop smartwatch). It was a data-science application leveraging python's pandas, matplotlib, etc.
 
+#### GRILL Website
 
+{% hint style="info" %}
+TODO: describe how I singlehandedly just built the website because the old one sucked & I thought it would be easy to just make one. Tim didn't think I could, but I did it and it was so much better that we made it live.&#x20;
+{% endhint %}
 
-####
+#### Pollution Damage
+
+This was a simulation tracking pollution for NASIC because NASIC definitely cares about the environment... at the unclassified/PA approved level at least.
+
+#### Streamliner
+
+Another administrative application I bult in Python to track what students are doing and improve learning outcomes by providing mechanisms to gather information.&#x20;
+
+#### Kendall Hat Testbed
+
+* **Date**: 2023
+* Stayed at Golden Nugget Casino; wrote a report on my travels and new technologies
+* Presented to team about use cases & what to explore/purchase with other attendees.
+
+#### VR Dimentia
+
+TODO: review this project. My first real object-oriented UE4 project. Also helped with a SpaceX dragon capsule rescue mission this year.&#x20;
 
 #### Miscellaneous Work
 
 * **"Tech Behind the Takeoff Brief/Presentation: Apps Beyond code, image, and text generation"** was  a presentation/brief I gave to high-schoolers discussing how we organize files, how LLMs aid in research with PDF parsing & text abstraction, Google's DeepMind program searching, training at the GRILL, progressive upscaling, biology topics, design topics, IoT toolchains, operations, psychology applications (e.g. facial expression recognition), the potential for more insecure code w/ AI assistents/agents, robotics, security (e.g. jailbroken chatbots, techniques for jailbreaking, offensive cybersecurity, and ransomware attacks. Worked w/ Dr. Stef Fussell gave an avaiation presentation & C1C Luke Kuklis in these briefs.
-* TKinter/Turtles: I built a pyton using all standard/built-in libraries to teach K-12 kids python during COVID. Students solved codecademy-like challenges and I spoke for Southpointe Academy in Canada.
+* TKinter/Turtles: I built a Python using all standard/built-in libraries to teach K-12 kids python during COVID. Students solved codecademy-like challenges and I spoke for Southpointe Academy in Canada.
+* Attended & was involved wth the Montgomery County Educational Service Center with Gretchen Capogna.&#x20;
+* Single-handedly processed and provided 50 job shadows with experience making my Python Turtles drawing application.&#x20;
+* Lots of student/STEM work, helping teachers, going to career fairs, setting up VR simualtions.&#x20;
+* Evaluated JetBrains YouTrack for private, secured, government-approved private solutions to test productivity.&#x20;
+* CES Las Vegas 2023 - we stayed at Golden Nugget and reported on new technologies we saw and wanted to purchase for our research projects.
 
+## Education
+
+### Undergraduate
+
+TODO: get a transcript here or for my CV/Collections
