@@ -6,21 +6,24 @@ A heavily annotated history so I can pick/choose experiences and condence them i
 
 ### Co-learning Branch
 
+Unfortunately, most of the work falls under CUI or above, so I cannot discuss this experience publicly.&#x20;
+
 * **Organization**: Air Force Research Laboratory; 711 HPW RHWOH, RHWOW, and RHWL before the re-organization.
 * **Location**: WPAFB, OH
 * **Dates**: January 2025-Present
 
 
 
-1. Contributed to AI Driven research focused on modeling human operator cognition and decision making processes within complex simulated environments, specifically related to satellite operations.
-   1. The Oko project is my primary contribution though I cannot say publicly my contributions.
-   2. Essentially, there's a JS/Typescript/Vue backend.
-   3. Several microservices are launched within Docker containers.&#x20;
-      1. I helped experiment with Podman
-      2. We made the decision to overrule OMC and make them get us Docker Engine & Docker Compose because they are free.
-      3. Docker Desktop is licensed, that was a headache and they wouldn't install it on my Defense Educational Research Network (DREN) machine.
-   4. Administered COLANET resources specific to AI/ML. Worked with Michael D on installing dependencies for PyTorch in an offline environment and getting that setup for projects I can't name.
-2. Developed and refactored a JavaScript/Vue codebase, aiding in efforts to transition key systems to open-source solutions and improve overall systems architecture (e.g., migrating from Docker Desktop to Podman).
+Bullets:
+
+* Contributed to AI Driven research focused on modeling human operator cognition and decision making processes within complex simulated environments, specifically related to satellite operations.
+  * The Oko project is my primary contribution though I cannot say publicly my contributions.
+  * Essentially, there's a JS/Typescript/Vue backend.
+* Several microservices are launched within Docker containers.&#x20;
+* We made the decision to overrule OMC and make them get us Docker Engine & Docker Compose because they are free, but I was the guinea pig for Podman.
+* Docker Desktop is licensed, that was a headache and they wouldn't install it on my Defense Educational Research Network (DREN) machine.
+  * Administered COLANET resources specific to AI/ML. Worked with Michael D on installing dependencies for PyTorch in an offline environment and getting that setup for projects I can't name.
+* Developed and refactored a JavaScript/Vue codebase, aiding in efforts to transition key systems to open-source solutions and improve overall systems architecture (e.g., migrating from Docker Desktop to Podman).
 
 #### "Evaluating Of LLMs Ability to Make Scenario Based Training More Immersive And Improve Learning Outcomes"
 
@@ -34,6 +37,8 @@ A heavily annotated history so I can pick/choose experiences and condence them i
 The presentation was generally well received. I was lauded for being able to communicate my work in a way everyone could understand versus other presentations which were highly complex and required specialized knowledge. Mine did too, but customers understood the problem, my approach, why it was unique, and why it was useful. I was given POCs of several interested customers before returning to my master's program.
 
 ### Gaming Research Integration for Learning Laboratory
+
+<figure><img src="../../../.gitbook/assets/image (781).png" alt=""><figcaption></figcaption></figure>
 
 * **Organization**: Air Force Research Laboratory; 711 HPW RHWL; Gaming Research Integration for Learning Laboratory.
 * **Location**: Kettering, OH
@@ -52,13 +57,48 @@ Co-author "Current Evolution of VR Input Modalities" Rebensky et. al; presented 
 
 #### Team-Situational Awareness for Watchstanders
 
+* **Timeline**: Summer 2024
 * Aim was to create a 3D, VR maritime environment that enables instruction and investigation of various approaches and concepts such as alerting schemes, teaming arrangements, visualization capabilities, decision making aids, etc. Internal users may see`GRILL Challenge Problem Overview - 20240618` for more info.
 
 #### Multi-Player Educational Role Playing Game (MPERPG)
 
-f
+* **Timeline**: Summer 2024
+
+{% hint style="warning" %}
+TODO: find PA approved materials for this section.
+{% endhint %}
+
+#### Bravo 11: Gran Torino
+
+* **Location**: Schofield Barracks, Hawaii
+* **Dates**: Feb 2024.
+
+{% hint style="warning" %}
+TODO: find PA approved materials for this section.
+{% endhint %}
+
+Received an award and thank you letter from a brigadier general.
+
+<figure><img src="../../../.gitbook/assets/Letter-From-General.png" alt=""><figcaption></figcaption></figure>
+
+Here's the team I worked with in Hawaii:
+
+<figure><img src="../../../.gitbook/assets/image (780).png" alt=""><figcaption></figcaption></figure>
+
+#### Bravo 10 Bravo Biometrics
+
+* **Timeline**: 2022?&#x20;
+* **Location**: Destin–Fort Walton, Florida.
+* **Awards**: runner's up for best project via people's choice award.
+* **Purpose**: address pilot readiness and fatigue to reduce pilot turnover (where training cost btw $12-20M per pilot)
+* **Tools/Solution** a pilot dashboard built in Plotly consisting of physiological data (from loop smartwatch). It was a data-science application leveraging python's pandas, matplotlib, etc.
+
+
+
+####
 
 #### Miscellaneous Work
 
-* **"Tech Behind the Takeoff Brief/Presentation: Apps Beyond code, image, and text generation"** was  a presentation/brief I gave discussing how we organize files, how LLMs aid in research with PDF parsing & text abstraction, Google's DeepMind program searching, training at the GRILL, progressive upscaling, biology topics, design topics, IoT toolchains, operations, psychology applications (e.g. facial expression recognition), the potential for more insecure code w/ AI assistents/agents, robotics, security (e.g. jailbroken chatbots, techniques for jailbreaking, offensive cybersecurity, and ransomeware attacks. Worked w/ Dr. Stef Fussell gave an avaiation presentation & C1C Luke Kuklis in these briefs.
-*
+* **"Tech Behind the Takeoff Brief/Presentation: Apps Beyond code, image, and text generation"** was  a presentation/brief I gave to high-schoolers discussing how we organize files, how LLMs aid in research with PDF parsing & text abstraction, Google's DeepMind program searching, training at the GRILL, progressive upscaling, biology topics, design topics, IoT toolchains, operations, psychology applications (e.g. facial expression recognition), the potential for more insecure code w/ AI assistents/agents, robotics, security (e.g. jailbroken chatbots, techniques for jailbreaking, offensive cybersecurity, and ransomware attacks. Worked w/ Dr. Stef Fussell gave an avaiation presentation & C1C Luke Kuklis in these briefs.
+* TKinter/Turtles: I built a pyton using all standard/built-in libraries to teach K-12 kids python during COVID. Students solved codecademy-like challenges and I spoke for Southpointe Academy in Canada.
+
