@@ -44,6 +44,7 @@ The presentation was generally well received. I was lauded for being able to com
 * **Location**: Kettering, OH
 * **Dates**: May 2020 - Jan 2025
 * Resume Bullets
+  * Created virtual reality environments using the Unreal Engine, C++, and Blueprints Visual Scripting.
   * Led and contributed to developing impactful educational and research tools, including a UE5 MPERPG for officer training, a VR watchstanding simulator with gaze-tracking, and a VR system for capturing human expert data (e.g., spray painting techniques) to train AI/robotic systems.&#x20;
   * Contributed to lab operational readiness by assisting with network administration, GitLab configurations, firewall adjustments, and resolving diverse IT support requests. \* Initiated, designed, and deployed a new lab website using Google Sites, significantly improving usability, content accessibility, and collaborative maintenance capabilities over the previous WordPress platform.
   * Delivered technical instruction and outreach presentations to students and stakeholders, promoting GRILL's capabilities and fostering engagement with ongoing research initiatives.&#x20;
@@ -126,6 +127,80 @@ TODO: review this project. My first real object-oriented UE4 project. Also helpe
 * Lots of student/STEM work, helping teachers, going to career fairs, setting up VR simualtions.&#x20;
 * Evaluated JetBrains YouTrack for private, secured, government-approved private solutions to test productivity.&#x20;
 * CES Las Vegas 2023 - we stayed at Golden Nugget and reported on new technologies we saw and wanted to purchase for our research projects.
+
+### Student Stage Technician
+
+* **Dates**: Oct. 2017 - Oct. 2019
+* **Location**: University of Dayton | Dayton, OH
+* Resume Bullets
+  * Programmed an operated lights for various musicals, plays, and live events.
+  * Aided in set construction, fly operation, and stage management for major productions.
+  * Provided customer and personal service to clients.
+
+### Dean's Summer Fellowship
+
+* **Dates**: July 2019 - Aug. 2019
+* **Location**: University of Dayton | Dayton, OH
+* Resume-Worthy Bullets
+  * Produced technical drawings according to USITT standards into Vectorworks
+  * Dimensioned and modeled the PNC Arts Annex, a local theater.
+
+### Assistant Stage Manager
+
+* **Dates**: May 2019 - July 2019
+* **Location**: London, UK
+* Bullets
+  * Applied critical thinking skills to provide new and innovative data analytics practices.
+  * Setup DMX lighting fixtures and other technical aspects for Pictures of Dorian Gray.
+
+### Blue Crew Counsellor
+
+* **Dates**: July 2018 - Aug. 2018
+* **Location**: University of Dayton | Dayton, OH
+* Bullets
+  * Introduced new students to the university through a leadership focused camp.
+  * Aided in various logistical functions during the freshmen orientation experience.
+
+### Summer Intern, Somewhere Recording LLC
+
+* Aided in various logistical and technical funtions of the recording studio.
+* Gained experience in Pro Tools and Logic Pro.
+
+### Fitness Supervisor
+
+* **Dates**: Aug. 2016 - Juy 2018
+* **Location**: Brecksville, OH
+* Provided customer service to members.
+* Enforced gymnasium rules and policies
+
+### Lab Intern
+
+* **Location**: Chromascape Inc. | Twinsburg, OH
+* Bullets
+  * Developed formulas for color products that met all performance expectations.
+  * Collaborated with other chemists to develop and perform tests for color and chemical products.
+
+### NASA Student Shadow
+
+* **Location**: Glenn Research Center | Cleveland, OH
+* **Dates**: May 2017
+* Shadowed and aided civil and electrical engineers in a 3-week experience at NASA.
+
+## Skills
+
+<figure><img src="../../../.gitbook/assets/image (782).png" alt=""><figcaption></figcaption></figure>
+
+## Extracurricular Activities
+
+#### Newer
+
+* Piano Ensemble
+* Piano Performance
+* Caesar Creek Gliding Club. Flying, volunteer groundskeeping.
+
+#### Older
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Education
 
