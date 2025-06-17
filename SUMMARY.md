@@ -14,6 +14,7 @@
   * [CV Resources](career/application-paperwork-interviews/cv.md)
   * [Effective Resume Writing for STEM](https://www.tutorialspoint.com/effective_resume_writing.htm)
   * [Feedback and Performance Reviews](career/application-paperwork-interviews/feedback-and-performance-reviews.md)
+  * [Federal Resumes](career/application-paperwork-interviews/federal-resumes.md)
   * [Master Resume/CV](career/application-paperwork-interviews/master-resume-cv.md)
     * [Michael Chase Master Resume](career/application-paperwork-interviews/master-resume-cv/michael-chase-master-resume.md)
   * [O-Net](https://www.onetonline.org/)
