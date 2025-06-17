@@ -426,7 +426,7 @@
         * [py.MatPlotLib Package](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/matplotlib/README.md)
           * [Anatomy of a Figure](https://matplotlib.org/stable/gallery/showcase/anatomy.html)
         * [SciPy](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/scipy.md)
-        * [py.Pandas Package](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/pandas/README.md)
+        * [py.Pandas Package](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/pandas/pandas.md)
           * [Codecademy Cheatsheet](https://www.codecademy.com/learn/data-processing-pandas/modules/dspath-intro-pandas/cheatsheet)
           * [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
         * [py.Streamlit Package](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/py.streamlit-package/README.md)
