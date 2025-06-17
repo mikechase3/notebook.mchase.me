@@ -418,7 +418,7 @@
         * [Namespace & Scope](career/compscidev/languages-and-architectures/python/corepython/namespace-and-scope.md)
         * [Strings](career/compscidev/languages-and-architectures/python/corepython/strings/README.md)
           * [String Methods](https://docs.python.org/3/library/stdtypes.html?highlight=str#string-methods)
-      * [Data Analytics and Vizualization](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/README.md)
+      * [Data Analytics and Vizualization](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/data-analytics-and-visualization.md)
         * [Manim Math Animation Package](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/manim-math-animation-package/README.md)
           * [manim.community](https://www.manim.community/)
           * [Manim Installation](career/compsci-and-development/languages-and-architectures/python/data-analytics-and-vizualization/manim-math-animation-package/manim-installation.md)
