@@ -1,88 +1,92 @@
 # Bipedal Walker
-{% embed url="https://github.com/mikechase3/OptimalWalkingProblem" %}
-## Background Knowledge
-* **Reinforcement Learning (RL):**  Algorithms that allow an agent to learn by interacting with an environment and receiving rewards.
-* **Temporal Difference (TD) Learning:**  RL method that learns by adjusting predictions based on the difference between expected and actual rewards.
-* **SARSA:**  A TD algorithm updating Q-values based on (State, Action, Reward, next State, next Action).
-* **Q-values:**  Represent the expected future rewards of taking a specific action from a given state. 
 
-## Progress Made
-* **Environment Setup:**  Successfully installed dependencies and configured the PyCharm project.
-* **State Representation:**  Implemented a `State` class to represent the crawler's angles.
-* **Action Selection:**  Implemented the `chooseAction` function using the ε-greedy policy.
-* **Core TD Learning:**  Started implementing the SARSA algorithm in the `onTDLearning` function.
+## Bipedal Walker
 
-## Challenges and Future Work
+{% @github-files/github-code-block url="https://github.com/mikechase3/OptimalWalkingProblem" %}
 
-* **Major Challenges:**  Initially had difficulty calculating correct state indices and ensuring Q-value updates use integer division. Debugging helped resolve these issues.
-* **Negative Indices:**  Need to address the issue where the crawler tries to access negative indices, preventing correct Q-value updates.
-* **Debugging and Refinement:**  Continued debugging and testing of the SARSA implementation is required, and will need to visualize the crawler's behavior.
+### Background Knowledge
 
-## Additional Notes
+* **Reinforcement Learning (RL):** Algorithms that allow an agent to learn by interacting with an environment and receiving rewards.
+* **Temporal Difference (TD) Learning:** RL method that learns by adjusting predictions based on the difference between expected and actual rewards.
+* **SARSA:** A TD algorithm updating Q-values based on (State, Action, Reward, next State, next Action).
+* **Q-values:** Represent the expected future rewards of taking a specific action from a given state.
+
+### Progress Made
+
+* **Environment Setup:** Successfully installed dependencies and configured the PyCharm project.
+* **State Representation:** Implemented a `State` class to represent the crawler's angles.
+* **Action Selection:** Implemented the `chooseAction` function using the ε-greedy policy.
+* **Core TD Learning:** Started implementing the SARSA algorithm in the `onTDLearning` function.
+
+### Challenges and Future Work
+
+* **Major Challenges:** Initially had difficulty calculating correct state indices and ensuring Q-value updates use integer division. Debugging helped resolve these issues.
+* **Negative Indices:** Need to address the issue where the crawler tries to access negative indices, preventing correct Q-value updates.
+* **Debugging and Refinement:** Continued debugging and testing of the SARSA implementation is required, and will need to visualize the crawler's behavior.
+
+### Additional Notes
+
 {% embed url="https://quizlet.com/891442364/ai-cps-48x-f24-shen-monte-carlo-flash-cards/?funnelUUID=906ee232-b50a-4529-9d1c-94006f3e7038" %}
 
 * I used Gym's Bipedal Walker environment initially to understand the concepts.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.18.36.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-28 at 22.18.36.gif" alt=""><figcaption></figcaption></figure>
 
-* [x] &#x20;It compiles!
+* [x] It compiles!
 * [x] self.steps repeatedly lets the agent learn multiple episodes & generate random trajectories for each episode.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.08.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-28 at 22.08.52.png" alt=""><figcaption></figcaption></figure>
 
 * [ ] Correctly updates the Qvalue for each state by finding the right state and action index within the 2D list.
   * [x] Done, but major bugs
-  * [ ] Crawler tries to access negative indices that are nonexistant.&#x20;
+  * [ ] Crawler tries to access negative indices that are nonexistant.
   * [ ] Therefore, Q-values do not get updated.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.12.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-28 at 22.12.17.png" alt=""><figcaption></figcaption></figure>
 
-* [x] &#x20;Correctly implement the e-greedy algorithm for chooseAction()
+* [x] Correctly implement the e-greedy algorithm for chooseAction()
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-28%20at%2022.14.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-28 at 22.14.17.png" alt=""><figcaption></figcaption></figure>
 
-* [x] &#x20;Provide a document with what's implemented & not.
+* [x] Provide a document with what's implemented & not.
 
-
-
-# Draft & Scrap Notes
+## Draft & Scrap Notes
 
 {% embed url="https://gymnasium.farama.org/_images/bipedal_walker.gif" fullWidth="false" %}
-Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/](https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/)
+Bipedal Walker Gym Environment | Source: [https://www.gymlibrary.dev/environments/box2d/bipedal\_walker/](https://www.gymlibrary.dev/environments/box2d/bipedal_walker/)
 {% endembed %}
-
 
 This is a gymnasium environment, but it's basically what we're doing, but we're using Dr. Shen's proprietary environment instead. Let's first try it with Gym:
 
-## Pycharm Project Setup
+### Pycharm Project Setup
 
-I took Pycharm and opened up the folder as my project.&#x20;
+I took Pycharm and opened up the folder as my project.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2019.54.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-17 at 19.54.54.png" alt=""><figcaption></figcaption></figure>
 
-Something they never teach you about is how to setup interperters which I found confusing at first. Apparently, environments are fragile in code and while Python is easier than most languages, there are dependency conflicts when working with outdated code. To fix this, we have virtual environments of which there's pipenv and conda as the major ones. Anyways, if something is going wrong, the beginning of the arrow will let you add a new virtual environment interpreter and the IDE will use that.&#x20;
+Something they never teach you about is how to setup interperters which I found confusing at first. Apparently, environments are fragile in code and while Python is easier than most languages, there are dependency conflicts when working with outdated code. To fix this, we have virtual environments of which there's pipenv and conda as the major ones. Anyways, if something is going wrong, the beginning of the arrow will let you add a new virtual environment interpreter and the IDE will use that.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.06.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-17 at 20.06.46.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://gymnasium.farama.org/environments/box2d/bipedal_walker/" %}
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.06.46%20(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-17 at 20.06.46 (1).png" alt=""><figcaption></figcaption></figure>
 
-In ye older days, you could import it right from the context menu.&#x20;
+In ye older days, you could import it right from the context menu.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.15.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-17 at 20.15.43.png" alt=""><figcaption></figcaption></figure>
 
 But now they want you to use the package manager
 
-<figure><img src="../../../../.gitbook/assets/CleanShot%202024-04-17%20at%2020.16.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-17 at 20.16.51.png" alt=""><figcaption></figcaption></figure>
 
 You can verify this works successfully by opening up the python console right above it & typing `import numpy` into the interperter prompt (e.g. `>>>`). If you don't see that, type python3, unless you're using conda than you've got to activate it somehow but I'm doing a pipenv & it works for now. If you don't get any error when running import numpy, you're good to go.
 
-## Understanding the Environment
+### Understanding the Environment
 
 This is an AI chat to help me do a few things...
 
-### Understanding the Assignment
+#### Understanding the Assignment
 
 * **Temporal Difference (TD) Learning:** The key idea is to learn by adjusting predictions based on the difference between the predicted reward for a state and the actual reward received along with the estimated reward for the next state. In essence, it learns by refining its expectations with experience.
 * **Q-Values:** Represent the expected future rewards of taking a specific action from a given state. The goal of TD Learning is to find the optimal Q-values for each state-action pair.
@@ -93,7 +97,7 @@ This is an AI chat to help me do a few things...
   * \*\*S'\*\*tate (the next state the agent ends up in)
   * \*\*A'\*\*ction (the action chosen in the next state, based on policy)
 
-### Understanding the Design
+#### Understanding the Design
 
 1. **State:** Represents a combination of `angle1` and `angle2`.
 2. **Qvalue:** A 2D array storing Q-values for each state-action pair.
@@ -164,7 +168,7 @@ This is an AI chat to help me do a few things...
 * The `Crawler` executes the action, leading to a new state and a reward.
 * The key step is the Q-value update, which uses the immediate reward, the Q-value of the next state-action pair, and the discount factor (gamma).
 
-### Decision Pipeline
+#### Decision Pipeline
 
 I looked up how a robot makes a decision and learn from it (a bit more formally perhaps):
 
@@ -196,7 +200,7 @@ I looked up how a robot makes a decision and learn from it (a bit more formally 
 * **Data Structures:** Think about how to access and update your `Qvalue` array efficiently given the discretized `angle1` and `angle2` values.
 * **Debugging:** Print values of states, actions, rewards, and Q-values at different steps to help you visualize the process and spot errors.
 
-### Misc
+#### Misc
 
 Just gonna copy/paste my chat here:
 
@@ -204,8 +208,6 @@ Just gonna copy/paste my chat here:
 
 <summary>More Background Knowledge</summary>
 
-<img src="../../../../.gitbook/assets/CleanShot%202024-04-18%20at%2023.06.10@2x.png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/CleanShot 2024-04-18 at 23.06.10@2x.png" alt="" data-size="original">
 
 </details>
-
-
