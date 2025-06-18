@@ -1,0 +1,110 @@
+# my_resume.yaml
+
+# This is the main section for your personal information
+main:
+  full_name: Jane Doe
+  label: Senior Data Scientist & Researcher
+  email: jane.doe@example.com
+  phone: +1 (123) 456-7890
+  linkedin: janedoe
+  github: janedoe-dev
+  # You can add a short about me description here. Markdown is supported!
+  about_me: |
+    Passionate and results-driven **Senior Data Scientist** with 7+ years of experience
+    in building and deploying machine learning models. Proven ability to translate
+    complex data into actionable insights and to lead research initiatives
+    resulting in impactful publications.
+    * Specializations: Machine Learning, Deep Learning, Natural Language Processing,
+      Cloud Computing (AWS, GCP).
+
+# Define your sections. The order here determines the order in the PDF.
+sections:
+  # Work Experience Section
+  work_experience:
+    name: Work Experience
+    # Each item under a section is an entry
+    - title: Senior Data Scientist
+      company: Innovate Tech Solutions
+      location: New York, NY
+      dates: August 2021 – Present
+      description: | # Use | for multi-line descriptions with Markdown
+        * Led a team of 3 data scientists in developing a real-time fraud detection system, reducing losses by **15%**.
+        * Designed and implemented a scalable NLP pipeline for customer feedback analysis using *Hugging Face Transformers*.
+        * Mentored junior data scientists and established best practices for model deployment and monitoring.
+    - title: Data Scientist
+      company: Analytics Corp
+      location: Boston, MA
+      dates: June 2018 – July 2021
+      description: |
+        * Developed predictive models for customer churn, improving retention by **10%**.
+        * Performed extensive A/B testing and statistical analysis to inform product decisions.
+
+  # Education Section
+  education:
+    name: Education
+    - degree: Ph.D. in Computer Science
+      university: State University of Science & Tech
+      location: City, State
+      dates: September 2014 – May 2018
+      description: |
+        * Thesis: "Optimizing Neural Network Architectures for Time Series Forecasting."
+        * GPA: 3.9/4.0
+    - degree: M.Sc. in Data Science
+      university: Metropolitan Institute of Technology
+      location: City, State
+      dates: September 2013 – May 2014
+      description: Dean's List.
+
+  # Publications Section (as requested)
+  publications:
+    name: Publications
+    # You can list your publications here. Markdown for titles is also possible!
+    - title: "Novel Approach to **Predictive Maintenance** Using Sensor Data"
+      authors: J. Doe, A. Smith, R. Jones
+      conference_journal: IEEE Transactions on Industrial Informatics
+      date: 2023
+      url: https://example.com/publication1
+      description: |
+        * Presented a new model that reduced equipment downtime by **20%**.
+        * Implemented a proof-of-concept on a real-world manufacturing dataset.
+    - title: "Enhancing User Engagement with **Reinforcement Learning**"
+      authors: J. Doe, B. White
+      conference_journal: International Conference on Machine Learning (ICML)
+      date: 2022
+      url: https://example.com/publication2
+      description: |
+        * Explored the application of Q-learning for optimizing user interaction flows.
+
+  # Skills Section
+  skills:
+    name: Skills
+    # Skills can be categorized or listed directly
+    - name: Programming Languages
+      items: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch), SQL, R, Java
+    - name: Tools & Platforms
+      items: Docker, Git, AWS (S3, EC2, SageMaker), Google Cloud Platform, Kubernetes, Tableau
+    - name: Methodologies
+      items: Machine Learning, Deep Learning, Statistical Modeling, A/B Testing, Data Visualization, Agile Development
+
+  # Projects Section (Optional)
+  projects:
+    name: Projects
+    - title: Automated Text Summarizer
+      dates: 2024
+      url: https://github.com/janedoe-dev/text-summarizer
+      description: |
+        Developed a **Python-based NLP tool** to generate concise summaries of long articles.
+        Utilized `transformers` library and fine-tuned a BART model.
+
+# Optional: Configuration for styling
+# You can uncomment and modify these for customization
+configuration:
+  # theme: default # default, classic, modern
+  # font_size: 10pt
+  # page_size: A4
+  # margins:
+  #   top: 1cm
+  #   bottom: 1cm
+  #   left: 1cm
+  #   right: 1cm
+  # color: "#336699" # Example blue color
