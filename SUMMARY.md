@@ -42,6 +42,7 @@
       * [6.036 UG](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/)
       * [6.867 GR](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/)
       * [Lizard Book (Hands On ML/AI Geron)](career/compsci-and-development/ai/courses/hands-on-ml.md)
+    * [Colearning](career/compsci-and-development/ai/colearning.md)
     * [Deep Learning](career/compsci-and-development/ai/deep-learning/deep-learning.md)
       * [Theory](career/compsci-and-development/ai/deep-learning/theory/README.md)
         * [Neural Networks](career/compsci-and-development/ai/deep-learning/theory/neural-networks/README.md)
