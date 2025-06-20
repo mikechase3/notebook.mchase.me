@@ -150,3 +150,23 @@ GOAL: predict fixed point transitions as a function of time for quasi-chaotic tr
 * **Process 1**: propagate 400+ trajectories for 1,000 TU and divide into 100-TU increments for FFT computation.
 * **Process 2**: compute RMSE (root mean square error) of trajectories with periodic orbits.
 * **How to read chart**: if starting at orbit 1 from the x-axis, then where does the trajectory travel for the next 100-TU window?
+
+# Adaptive Tutoring
+Distribution A: AFRL-2025-2876
+
+## Adaptive Tutor Motivations
+* Cislunra space and knowing what's there is increasingly important
+* Space is hard. Cislunar space is harder because gravitational dynamics are complex.
+* Adaptive/intelligent tutors successfully developed ?
+* Adaptive tutoring software takes information from students and adapts course experiences (materials) to a student.
+  * Reduces instructor workload.
+  * Supplemental student instruction
+  * Adpative pracce probelm difficulty, and/or personalized feedback.
+* GIFT: Generalized intelligence... 
+* Driving and AI example is a great way to share/judge the "experience" of AIs
+  * [PSS14 Mine Detector](https://www.military.com/equipment/pss-14-mine-detector)
+  * Cognitive task analysises are good at the "they didn't even know they were doing it" for experts.
+    * Because they're so good.
+    * They may never talk about some of the cognitive processes that are automatic for them.
+
+
