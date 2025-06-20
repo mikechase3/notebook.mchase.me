@@ -6,4 +6,3 @@ Internal only. Shares too much personal info and you can imagine how posting thi
 
 {% embed url="https://gitlab.com/MikeChase/research/notebook/-/issues/2" %}
 
-##
