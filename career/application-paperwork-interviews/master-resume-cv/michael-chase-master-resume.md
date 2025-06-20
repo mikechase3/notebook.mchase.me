@@ -200,7 +200,7 @@ TODO: review this project. My first real object-oriented UE4 project. Also helpe
 
 #### Older
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Education
 

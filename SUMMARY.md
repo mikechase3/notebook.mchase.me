@@ -4,7 +4,7 @@
 * [Inbox](inbox/README.md)
   * [Ode to BunBunn](inbox/ode-to-bunbun.md)
 
-## 💼 Career
+## Career
 
 * [Accounting & Financial Statements](career/accounting-and-financial-statements/README.md)
   * [Software](career/accounting-and-financial-statements/software/README.md)
@@ -626,6 +626,7 @@
     * [Library/Databases](https://daf.dodmwrlibraries.org/databases)
     * [Force Support Squadron](https://www.wrightpattfss.com)
     * [WPAFB Outdoor Rec Rentals](https://www.wrightpattfss.com/document-manager/outdoor-recreation/424-2021-odr-price-list/file)
+  * [AFRL R\&D Activities](career/dod/afrl-r-and-d-activities.md)
 * [Education](career/education/README.md)
   * [Autism Spectrum Quotient](https://embrace-autism.com/autism-spectrum-quotient/)
   * [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom's_taxonomy)
@@ -898,7 +899,7 @@
   * [Dealing with Distractions](career/time-management/dealing-with-distractions.md)
   * [Innovate or Eliminate](career/time-management/innovate-or-eliminate.md)
 
-## 🌴 Leisure
+## Leisure
 
 * [Arts](leisure/arts/README.md)
   * [film-and-tv](leisure/arts/film/README.md)
@@ -935,7 +936,7 @@
     * [CHS Log](leisure/places/charleston-sc/chs-log.md)
   * [Great Smoky Mountains](leisure/places/great-smoky-mountains.md)
 
-## ⚙️ Maintenance
+## Maintenance
 
 * [Automotive](maintenance/automotive/automotive.md)
   * [Car Salesmen](maintenance/automotive/references/car-salesmen.md)
@@ -1040,7 +1041,7 @@
   * [Maintaining Household Appliances](maintenance/properties/maintaining-household-appliances.md)
   * [Smart Bulb Analysis (2022)](https://www.consumerreports.org/lightbulbs/best-smart-lightbulbs-a5007877095/)
 
-## 🤝 Relations
+## Relations
 
 * [Charisma](relations/charisma/charisma.md)
   * [Greatfulness](relations/charisma/greatfulness.md)
