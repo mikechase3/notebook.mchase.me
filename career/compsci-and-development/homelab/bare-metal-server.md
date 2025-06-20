@@ -1,4 +1,4 @@
-# Bare Metal Server
+# Bare Metal Servers
 
 ## Core Tools
 
