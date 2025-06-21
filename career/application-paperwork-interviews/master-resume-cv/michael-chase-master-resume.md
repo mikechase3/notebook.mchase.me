@@ -16,7 +16,7 @@ Unfortunately, most of the work falls under CUI or above, so I cannot discuss th
 
 Bullets:
 
-* Contributed to AI Driven research focused on modeling human operator cognition and decision making processes within complex simulated environments, specifically related to satellite operations.
+* Contributed to AI Driven research focused on modeling human operator cognition and decision-making processes within complex simulated environments, specifically related to satellite operations.
   * The Oko project is my primary contribution though I cannot say publicly my contributions.
   * Essentially, there's a JS/Typescript/Vue backend.
 * Several microservices are launched within Docker containers.&#x20;
@@ -52,7 +52,7 @@ The presentation was generally well received. I was lauded for being able to com
 
 #### Current Evolution of VR Input Modalities
 
-Co-author "Current Evolution of VR Input Modalities" Rebensky et. al; presented at IT2EC 2023. See `FINAL_CurrentInputModalities.docx`. Should be published on I/ITSEC.
+Co-author "Current Evolution of VR Input Modalities" Rebensky et al.; presented at IT2EC 2023. See `FINAL_CurrentInputModalities.docx`. Should be published on I/ITSEC.
 
 <figure><img src="../../../.gitbook/assets/image (777).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Michael Chase",
+    "label": "Data Scientist | Software Engineer | Researcher",
+    "email": "protectmikechase@gmail.com",
+    "phone": "(XXX) XXX-XXXX",
+    "url": "https://notebook.mchase.me",
+    "summary": "Highly motivated and results-driven professional with a strong interdisciplinary background in computer science, data science, and research, specializing in AI/ML and interactive systems. Proven ability to lead complex technical projects, innovate solutions, and communicate effectively across diverse audiences.",
+    "location": {
+      "address": "WPAFB Area",
+      "postalCode": "XXXXX",
+      "city": "Dayton",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mikechase3",
+        "url": "https://github.com/mikechase3/notebook.mchase.me"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "michaelchase",
+        "url": "https://linkedin.com/in/michaelchase"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Air Force Research Laboratory",
+      "position": "AI/ML Researcher & Software Engineer (Co-learning Branch)",
+      "location": "WPAFB, OH",
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "summary": "Contributed to advanced AI-driven research and software development within a secure environment, focusing on human-AI teaming and complex system modeling.",
+      "highlights": [
+        "Contributed to AI-driven research focused on modeling human operator cognition and decision-making within complex simulated environments (satellite operations), specifically on the Oko project (classified contributions).",
+        "Implemented and refactored JavaScript/Vue back-end code, aiding in open-source transitions (e.g., migrating from Docker Desktop to Podman) and improving system architecture; launched microservices within Docker containers.",
+        "Administered AI/ML-specific COLANET resources and assisted with PyTorch dependency installation in offline environments for unnamed projects."
+      ]
+    },
+    {
+      "name": "Air Force Research Laboratory",
+      "position": "Research Assistant & Game Developer (GRILL Lab)",
+      "location": "Kettering, OH",
+      "startDate": "2020-05-01",
+      "endDate": "2025-01-01",
+      "summary": "Led and contributed to diverse R&D initiatives, developing immersive educational and research tools using advanced simulation and IT infrastructure management.",
+      "highlights": [
+        "Created virtual reality environments using Unreal Engine, C++, and Blueprints Visual Scripting.",
+        "Led and contributed to developing impactful educational and research tools, including a UE5 MPERPG for officer training, a VR watchstanding simulator with gaze-tracking, and a VR system for capturing human expert data (e.g., spray painting techniques) to train AI/robotic systems.",
+        "Contributed to lab operational readiness by assisting with network administration, GitLab configurations, firewall adjustments, and resolving diverse IT support requests.",
+        "Initiated, designed, and deployed a new lab website using Google Sites, significantly improving usability, content accessibility, and collaborative maintenance capabilities over the previous WordPress platform.",
+        "Delivered technical instruction and outreach presentations to students and stakeholders, promoting GRILL’s capabilities and fostering engagement with ongoing research initiatives.",
+        "Successfully transitioned from PCIP to PAQ status (May 2022) with an increase in responsibilities and leadership expectations.",
+        "Received an award and thank you letter from a brigadier general for contributions to the Bravo 11: Gran Torino project (Feb 2024, Schofield Barracks, Hawaii).",
+        "Awarded runner-up for best project (People's Choice) at Bravo 10 Biometrics (2022, Destin–Fort Walton, Florida) for a pilot dashboard built in Plotly using Python (Pandas, Matplotlib) to address pilot readiness and fatigue.",
+        "Developed Python-based administrative applications (e.g., 'Streamliner') to track student progress and improve learning outcomes by gathering information.",
+        "Built a Python application using standard/built-in libraries (Tkinter/Turtles) to teach K-12 kids Python during COVID, delivering presentations to schools like Southpointe Academy in Canada.",
+        "Single-handedly processed and provided 50 job shadows, leveraging my Python Turtles drawing application for educational outreach.",
+        "Attended CES Las Vegas 2023, reporting on new technologies for research project purchasing."
+      ]
+    },
+    {
+      "name": "University of Dayton",
+      "position": "Student Stage Technician",
+      "location": "Dayton, OH",
+      "startDate": "2017-10-01",
+      "endDate": "2019-10-01",
+      "summary": "Managed technical aspects of live theatrical productions and events.",
+      "highlights": [
+        "Programmed and operated lighting for various musicals, plays, and live events.",
+        "Aided in set construction, fly operation, and stage management for major productions.",
+        "Provided customer and personal service to clients."
+      ]
+    },
+    {
+      "name": "University of Dayton",
+      "position": "Dean's Summer Fellow",
+      "location": "Dayton, OH",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
+      "summary": "Contributed to architectural modeling and technical documentation for campus facilities.",
+      "highlights": [
+        "Produced technical drawings according to USITT standards using Vectorworks.",
+        "Dimensioned and modeled the PNC Arts Annex, a local theater."
+      ]
+    },
+    {
+      "name": "London International Theatre Program",
+      "position": "Assistant Stage Manager",
+      "location": "London, UK",
+      "startDate": "2019-05-01",
+      "endDate": "2019-07-01",
+      "summary": "Assisted with technical and logistical coordination for theatrical productions.",
+      "highlights": [
+        "Applied critical thinking skills to provide new and innovative data analytics practices for production management.",
+        "Setup DMX lighting fixtures and other technical aspects for 'Pictures of Dorian Gray'."
+      ]
+    },
+    {
+      "name": "University of Dayton",
+      "position": "Blue Crew Counselor",
+      "location": "Dayton, OH",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "summary": "Guided new students through leadership-focused orientation programs.",
+      "highlights": [
+        "Introduced new students to the university through a leadership-focused camp.",
+        "Aided in various logistical functions during the freshmen orientation experience."
+      ]
+    },
+    {
+      "name": "Somewhere Recording LLC",
+      "position": "Summer Intern",
+      "location": "Confidential",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-01",
+      "summary": "Provided technical and logistical support in a professional recording studio.",
+      "highlights": [
+        "Aided in various logistical and technical functions of the recording studio.",
+        "Gained hands-on experience with Pro Tools and Logic Pro."
+      ]
+    },
+    {
+      "name": "Brecksville Community Center",
+      "position": "Fitness Supervisor",
+      "location": "Brecksville, OH",
+      "startDate": "2016-08-01",
+      "endDate": "2018-07-01",
+      "summary": "Ensured safety and provided customer service in a gymnasium environment.",
+      "highlights": [
+        "Provided customer service to members.",
+        "Enforced gymnasium rules and policies."
+      ]
+    },
+    {
+      "name": "Chromascape Inc.",
+      "position": "Lab Intern",
+      "location": "Twinsburg, OH",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Assisted in chemical formulation and product testing for color products.",
+      "highlights": [
+        "Developed formulas for color products that met all performance expectations.",
+        "Collaborated with other chemists to develop and perform tests for color and chemical products."
+      ]
+    },
+    {
+      "name": "NASA Glenn Research Center",
+      "position": "Student Shadow",
+      "location": "Cleveland, OH",
+      "startDate": "2017-05-01",
+      "endDate": "2017-05-31",
+      "summary": "Shadowed and assisted civil and electrical engineers in a 3-week immersive experience.",
+      "highlights": [
+        "Shadowed and aided civil and electrical engineers in a 3-week experience at NASA."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Dayton",
+      "url": "https://udayton.edu",
+      "area": "Computer Science",
+      "studyType": "Ph.D. (in progress)",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Currently pursuing Ph.D. in Computer Science.",
+      "courses": []
+    },
+    {
+      "institution": "University of Dayton",
+      "url": "https://udayton.edu",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2020-08-01",
+      "endDate": "2022-05-31",
+      "summary": "Master's degree focused on advanced topics in Computer Science."
+    },
+    {
+      "institution": "University of Dayton",
+      "url": "https://udayton.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-08-01",
+      "endDate": "2020-05-31",
+      "summary": "Undergraduate studies in Computer Science."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "C++",
+        "C#",
+        "SQL",
+        "R",
+        "Java"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "Proficient",
+      "keywords": [
+        "Unreal Engine (Blueprints)",
+        "Vue.js",
+        "PyTorch",
+        "TensorFlow",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Plotly",
+        "Tkinter",
+        "Jinja2",
+        "React"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "level": "Proficient",
+      "keywords": [
+        "Docker",
+        "Podman",
+        "Git",
+        "GitLab",
+        "AWS (EC2, S3, SageMaker)",
+        "Google Cloud Platform",
+        "Jira",
+        "YouTrack",
+        "Visual Studio Code",
+        "PyCharm",
+        "Microsoft Office 365"
+      ]
+    },
+    {
+      "name": "Research & Data Science",
+      "level": "Proficient",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing (NLP)",
+        "AI/ML Modeling",
+        "Statistical Analysis",
+        "Data Visualization",
+        "A/B Testing",
+        "Qualitative Analysis"
+      ]
+    },
+    {
+      "name": "System & Network Admin",
+      "level": "Intermediate",
+      "keywords": [
+        "Network Administration",
+        "Firewall Configuration",
+        "GitLab Administration",
+        "IT Support",
+        "Linux (Ubuntu)",
+        "Windows Server",
+        "Virtualization"
+      ]
+    },
+    {
+      "name": "Soft Skills & Communication",
+      "level": "Advanced",
+      "keywords": [
+        "Technical Communication",
+        "Public Speaking",
+        "Team Leadership",
+        "Mentorship",
+        "Project Management (Agile/Scrum)",
+        "Critical Thinking",
+        "Problem Solving",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "name": "Multimedia & Design",
+      "level": "Basic",
+      "keywords": [
+        "Blender (3D Modeling)",
+        "Video Editing (Adobe Premiere)",
+        "Photography",
+        "UI/UX Principles",
+        "Vectorworks"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Evaluating Of LLMs Ability to Make Scenario Based Training More Immersive And Improve Learning Outcomes",
+      "publisher": "AFRL Discover 2024 Poster Presentation",
+      "releaseDate": "2024-06-01",
+      "summary": "Initiated and prototyped a voice-interactive game using LLMs to generate dynamic NPC dialogue for a deception-based scenario; showcased this independent project and its technical framework in a successful poster presentation, lauded for clear communication to diverse audiences.",
+      "url": "https://notebook.mchase.me/career/compsci-and-development/ai/deep-learning/llm/llm-immersive-games.md"
+    },
+    {
+      "name": "Current Evolution of VR Input Modalities",
+      "publisher": "IT2EC 2023 Conference (Rebensky et al.)",
+      "releaseDate": "2023-11-01",
+      "summary": "Co-authored a paper presented at IT2EC 2023, discussing the current evolution and advancements in virtual reality input modalities.",
+      "url": "https://www.iitsec.org/past-events/it2ec-2023-archive"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Piano Ensemble",
+        "Piano Performance",
+        "Caesar Creek Gliding Club (Flying, Volunteer Groundskeeping)"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Game Design & Development",
+        "Gaming History & Theory"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "awards": [
+    {
+      "title": "Brigadier General Letter of Appreciation",
+      "date": "2024-02-01",
+      "awarder": "US Air Force",
+      "summary": "Received formal recognition for contributions to the Bravo 11: Gran Torino project."
+    },
+    {
+      "title": "Runner-Up, Best Project (People's Choice)",
+      "date": "2022-01-01",
+      "awarder": "Bravo 10 Biometrics",
+      "summary": "Awarded for outstanding work on a pilot readiness dashboard project."
+    }
+  ]
+}
