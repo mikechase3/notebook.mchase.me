@@ -6,20 +6,18 @@ A heavily annotated history so I can pick/choose experiences and condence them i
 
 ### Co-learning Branch
 
-Unfortunately, most of the work falls under CUI or above, so I cannot discuss this experience publicly.&#x20;
+Unfortunately, most of the work falls under CUI or above, so I cannot discuss this experience publicly.
 
 * **Organization**: Air Force Research Laboratory; 711 HPW RHWOH, RHWOW, and RHWL before the re-organization.
 * **Location**: WPAFB, OH
 * **Dates**: January 2025-Present
-
-
 
 Bullets:
 
 * Contributed to AI Driven research focused on modeling human operator cognition and decision-making processes within complex simulated environments, specifically related to satellite operations.
   * The Oko project is my primary contribution though I cannot say publicly my contributions.
   * Essentially, there's a JS/Typescript/Vue backend.
-* Several microservices are launched within Docker containers.&#x20;
+* Several microservices are launched within Docker containers.
 * We made the decision to overrule OMC and make them get us Docker Engine & Docker Compose because they are free, but I was the guinea pig for Podman.
 * Docker Desktop is licensed, that was a headache and they wouldn't install it on my Defense Educational Research Network (DREN) machine.
   * Administered COLANET resources specific to AI/ML. Worked with Michael D on installing dependencies for PyTorch in an offline environment and getting that setup for projects I can't name.
@@ -30,7 +28,7 @@ Bullets:
 * **Resume Bullet:** Initiated and prototyped a voice-interactive game using LLMs to generate dynamic NPC dialogue for a deception-based scenario (e.g., players lying to gain access); showcased this independent project and its technical framework in a successful poster presentation.
 * Called it LLM Scenario Based Training Learning Outcomes
 
-<figure><img src="../../../.gitbook/assets/image (774).png" alt=""><figcaption><p>Proof can be found in  "AFRL Discover 2024 Poster List"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (774).png" alt=""><figcaption><p>Proof can be found in "AFRL Discover 2024 Poster List"</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (775).png" alt=""><figcaption><p>Poster is 031-Chase-EvaluatingOfLLMsAbilityToMakeScenarioBasedTrainingMoreImmersiveAndImproveLearningOutcomes</p></figcaption></figure>
 
@@ -45,9 +43,9 @@ The presentation was generally well received. I was lauded for being able to com
 * **Dates**: May 2020 - Jan 2025
 * Resume Bullets
   * Created virtual reality environments using the Unreal Engine, C++, and Blueprints Visual Scripting.
-  * Led and contributed to developing impactful educational and research tools, including a UE5 MPERPG for officer training, a VR watchstanding simulator with gaze-tracking, and a VR system for capturing human expert data (e.g., spray painting techniques) to train AI/robotic systems.&#x20;
+  * Led and contributed to developing impactful educational and research tools, including a UE5 MPERPG for officer training, a VR watchstanding simulator with gaze-tracking, and a VR system for capturing human expert data (e.g., spray painting techniques) to train AI/robotic systems.
   * Contributed to lab operational readiness by assisting with network administration, GitLab configurations, firewall adjustments, and resolving diverse IT support requests. \* Initiated, designed, and deployed a new lab website using Google Sites, significantly improving usability, content accessibility, and collaborative maintenance capabilities over the previous WordPress platform.
-  * Delivered technical instruction and outreach presentations to students and stakeholders, promoting GRILL's capabilities and fostering engagement with ongoing research initiatives.&#x20;
+  * Delivered technical instruction and outreach presentations to students and stakeholders, promoting GRILL's capabilities and fostering engagement with ongoing research initiatives.
   * Successfully transitioned from PCIP to PAQ status (May 2022) with an increase in responsibilities and leadership expectations.
 
 #### Current Evolution of VR Input Modalities
@@ -97,7 +95,7 @@ Here's the team I worked with in Hawaii:
 #### GRILL Website
 
 {% hint style="info" %}
-TODO: describe how I singlehandedly just built the website because the old one sucked & I thought it would be easy to just make one. Tim didn't think I could, but I did it and it was so much better that we made it live.&#x20;
+TODO: describe how I singlehandedly just built the website because the old one sucked & I thought it would be easy to just make one. Tim didn't think I could, but I did it and it was so much better that we made it live.
 {% endhint %}
 
 #### Pollution Damage
@@ -106,7 +104,7 @@ This was a simulation tracking pollution for NASIC because NASIC definitely care
 
 #### Streamliner
 
-Another administrative application I bult in Python to track what students are doing and improve learning outcomes by providing mechanisms to gather information.&#x20;
+Another administrative application I bult in Python to track what students are doing and improve learning outcomes by providing mechanisms to gather information.
 
 #### Kendall Hat Testbed
 
@@ -116,16 +114,16 @@ Another administrative application I bult in Python to track what students are d
 
 #### VR Dimentia
 
-TODO: review this project. My first real object-oriented UE4 project. Also helped with a SpaceX dragon capsule rescue mission this year.&#x20;
+TODO: review this project. My first real object-oriented UE4 project. Also helped with a SpaceX dragon capsule rescue mission this year.
 
 #### Miscellaneous Work
 
-* **"Tech Behind the Takeoff Brief/Presentation: Apps Beyond code, image, and text generation"** was  a presentation/brief I gave to high-schoolers discussing how we organize files, how LLMs aid in research with PDF parsing & text abstraction, Google's DeepMind program searching, training at the GRILL, progressive upscaling, biology topics, design topics, IoT toolchains, operations, psychology applications (e.g. facial expression recognition), the potential for more insecure code w/ AI assistents/agents, robotics, security (e.g. jailbroken chatbots, techniques for jailbreaking, offensive cybersecurity, and ransomware attacks. Worked w/ Dr. Stef Fussell gave an avaiation presentation & C1C Luke Kuklis in these briefs.
+* **"Tech Behind the Takeoff Brief/Presentation: Apps Beyond code, image, and text generation"** was a presentation/brief I gave to high-schoolers discussing how we organize files, how LLMs aid in research with PDF parsing & text abstraction, Google's DeepMind program searching, training at the GRILL, progressive upscaling, biology topics, design topics, IoT toolchains, operations, psychology applications (e.g. facial expression recognition), the potential for more insecure code w/ AI assistents/agents, robotics, security (e.g. jailbroken chatbots, techniques for jailbreaking, offensive cybersecurity, and ransomware attacks. Worked w/ Dr. Stef Fussell gave an avaiation presentation & C1C Luke Kuklis in these briefs.
 * TKinter/Turtles: I built a Python using all standard/built-in libraries to teach K-12 kids python during COVID. Students solved codecademy-like challenges and I spoke for Southpointe Academy in Canada.
-* Attended & was involved wth the Montgomery County Educational Service Center with Gretchen Capogna.&#x20;
-* Single-handedly processed and provided 50 job shadows with experience making my Python Turtles drawing application.&#x20;
-* Lots of student/STEM work, helping teachers, going to career fairs, setting up VR simualtions.&#x20;
-* Evaluated JetBrains YouTrack for private, secured, government-approved private solutions to test productivity.&#x20;
+* Attended & was involved wth the Montgomery County Educational Service Center with Gretchen Capogna.
+* Single-handedly processed and provided 50 job shadows with experience making my Python Turtles drawing application.
+* Lots of student/STEM work, helping teachers, going to career fairs, setting up VR simualtions.
+* Evaluated JetBrains YouTrack for private, secured, government-approved private solutions to test productivity.
 * CES Las Vegas 2023 - we stayed at Golden Nugget and reported on new technologies we saw and wanted to purchase for our research projects.
 
 ### Student Stage Technician
@@ -200,7 +198,7 @@ TODO: review this project. My first real object-oriented UE4 project. Also helpe
 
 #### Older
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Education
 

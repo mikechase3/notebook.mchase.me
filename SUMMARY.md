@@ -913,6 +913,8 @@
     * [VHS Vault](https://archive.org/details/vhsvault)
     * [Reddit.Documentaries](https://www.reddit.com/r/Documentaries/wiki/index)
     * [Star Wars A New Hope](https://swanh.net/)
+  * [video games](leisure/arts/video-games/README.md)
+    * [Kerbal Space Program](leisure/arts/video-games/kerbal-space-program.md)
 * [Camper Rental Analysis](leisure/camper-rental-analysis.md)
 * [Favorite Restaurants](leisure/favorite-restaurants.md)
 * [lost+found](leisure/lostandfound/README.md)

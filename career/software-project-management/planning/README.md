@@ -28,7 +28,7 @@ Images/works cited:
 * Often represented in comic book form.
 * Tells devs about **what users want**, need, and behave.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### User Scenarios
 
