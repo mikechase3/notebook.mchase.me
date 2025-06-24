@@ -3,6 +3,7 @@
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
   * [Ode to BunBunn](inbox/ode-to-bunbun.md)
+  * [Akhil M](inbox/akhil-m.md)
 
 ## Career
 

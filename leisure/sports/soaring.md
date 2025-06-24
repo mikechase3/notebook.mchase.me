@@ -12,5 +12,5 @@
   * [Daniel Sazhin's Profile](https://www.weglide.org/user/20930)
   * [https://www.weglide.org/flight/529083](https://www.weglide.org/flight/529083)
   * [https://www.weglide.org/flight/529082](https://www.weglide.org/flight/529082)
-*
+* Condor glider flight simulator.
 
