@@ -1017,6 +1017,7 @@
   * [Purpose of Law](maintenance/emerging-legal-issues-in-compsci-2023/purpose-of-law.md)
   * [Courts, Jurisdiction, and International Law](maintenance/emerging-legal-issues-in-compsci-2023/courts-jurisdiction-and-international-law.md)
   * [Business Matters & Contracts](maintenance/emerging-legal-issues-in-compsci-2023/business-matters-and-contracts.md)
+  * [David Souter and Ethics of Justices](maintenance/emerging-legal-issues-in-compsci-2023/david-souter-and-ethics-of-justices.md)
   * [Privacy](maintenance/emerging-legal-issues-in-compsci-2023/privacy.md)
   * [Copyright](maintenance/emerging-legal-issues-in-compsci-2023/copyright.md)
   * [Patent Law](maintenance/emerging-legal-issues-in-compsci-2023/patent-law.md)
