@@ -8,7 +8,11 @@ David Souter may be my favorite supreme court justice who set a precedent. Rober
 * Show some heart. Remember that every decision affects humans in the end, so don't leave them out of the equation.
 * Integrity first; ethics above politics.
 * The suprme court justice is independent.
-* STARRY DECISIS is important.
+* STARE DECISIS - stand by things decided.
+  * Justice Souter believed he wasn't smarter/better than all the justices that came before him.
+  * For consistency/predictability purposes, it's better to rule closer to established common law principles.
+
+
 
 ## Works Cited
 
