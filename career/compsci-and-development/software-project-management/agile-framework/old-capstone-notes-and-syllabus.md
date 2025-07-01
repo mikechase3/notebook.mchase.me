@@ -74,7 +74,7 @@ An information system development process that emphasizes flexibility to anticip
 
 #### Iterative Development
 
-![A visualization of iterative development.](../../.gitbook/assets/image%20\(170\).png)
+![A visualization of iterative development.](../../../.gitbook/assets/image%20\(170\).png)
 
 An approach to system development in which the system is "grown" piece by piece through multiple iterations:
 
@@ -121,7 +121,7 @@ The approach we're using in our capstone.
 
 A sprint is a time-controlled mini-project that implements part of a larger program.
 
-![](../../.gitbook/assets/image%20\(171\).png)
+![](../../../.gitbook/assets/image%20\(171\).png)
 
 #### SCRUM Practices
 

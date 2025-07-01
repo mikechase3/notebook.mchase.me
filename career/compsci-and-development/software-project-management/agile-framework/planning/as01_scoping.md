@@ -2,7 +2,7 @@
 
 ## AS01 Scoping Slide
 
-<figure><img src="../../../.gitbook/assets/CleanShot%202024-09-03%20at%2012.23.18@2x.png" alt=""><figcaption><p>Project Scope Visual</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/CleanShot 2024-09-03 at 12.23.18@2x.png" alt=""><figcaption><p>Project Scope Visual</p></figcaption></figure>
 
 ## Q/A
 
@@ -20,16 +20,14 @@ My proposal is to integrate a custom backend, customer database, and real-time i
 
 ### Impact
 
-Upon success, I will have a customer database I can use to send blast emails to like a mailing list. By tying in their history, I can offer promotional pricing to certain/repeat customers like offering coupons for certain products they might be interested in. A dynamically generated website using information pulled from database information will decrease manual labor hours if scaled. Mobile apps and web apps will allow students to request/reserve equipment and services tied to their accounts for self-service work, payments, etc. If this is successful, I'll advertise myself as a cloud engineer and offer newer (and more lucrative) services because of my ability to add value to other small businesses.&#x20;
+Upon success, I will have a customer database I can use to send blast emails to like a mailing list. By tying in their history, I can offer promotional pricing to certain/repeat customers like offering coupons for certain products they might be interested in. A dynamically generated website using information pulled from database information will decrease manual labor hours if scaled. Mobile apps and web apps will allow students to request/reserve equipment and services tied to their accounts for self-service work, payments, etc. If this is successful, I'll advertise myself as a cloud engineer and offer newer (and more lucrative) services because of my ability to add value to other small businesses.
 
 ## Goals
 
 1. **Implement a comprehensive customer database:** this will store detailed information about customers, including their contact details, past interactions, service requests, and preferences. This will allow for personalized service, enabling me to maintain notes on each customer, build stronger connections, and establish trust. With a more central place for customer information (versus excel), our our team will improve the quality of service, tailor our repsonses based on past interactions, and ensure consistent follow-up which is essential for customer retention and satisfaction.
 2. **Develop a Scalable and Modular Web Application for Scheduling & Inventory Management**: the web application will integrate with Google Calendar for seamless scheduling and include real-time inventory management. This will automate the booking process, reduce manual errors, and allow customers to easily see available time slots and equipment. This will further reduce my administrative workload, freeing up time to focus on core services like actually fixing computers and delivering more equipment. It will also enhance the customer experience by providing them with easy access to booking and equipment availability, making the process mroe efficient and user friendly.
-3. **Launch Native Mobile Applications to Enhance User Interaction**: a less important goal would be to use native iOS and Android app UIs to for customers to browse available services, book appointments, and manage rentas directly from their mobile devices. This self-service capability aligns with the preferences of our target audience, primarily college students. Not only will it make our services more accessible/convenient, but it can increase engagement and customer satisfaction while driving down costs in the long-run. Mobile apps offer a more immersive, professional experience which will help differentiate us from our competitors.&#x20;
+3. **Launch Native Mobile Applications to Enhance User Interaction**: a less important goal would be to use native iOS and Android app UIs to for customers to browse available services, book appointments, and manage rentas directly from their mobile devices. This self-service capability aligns with the preferences of our target audience, primarily college students. Not only will it make our services more accessible/convenient, but it can increase engagement and customer satisfaction while driving down costs in the long-run. Mobile apps offer a more immersive, professional experience which will help differentiate us from our competitors.
 4. **Position as a Cloud Engineer and Expand Service Offerings**: completing this project will demonstrate my ability to design, deploy, and manage web applications using coud techonlogies. This expertise will enable me to offer specialized IT support and cloud services to help small businesses optimize operations via custom solutions similar to mine. The diversification in services will open higher revenue streams and allow me to cater to a broader client base, including businesses looking for reliable/scalable cloud services.
-
-
 
 ## Drafts & Duplicate Info
 

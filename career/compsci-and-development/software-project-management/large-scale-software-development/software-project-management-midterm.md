@@ -7,7 +7,7 @@ description: >-
 # Software Project Management Midterm
 
 {% hint style="info" %}
-Available as a PDF [here](softProjMgmtMidtermPdf.pdf)
+Available as a PDF [here](../../../software-project-management/large-scale-software-development/softProjMgmtMidtermPdf.pdf)
 {% endhint %}
 
 ## Digital Twin - Manufacturing, An AR/VR Simulation for Aircraft Maintenance Routine
@@ -66,13 +66,13 @@ TODO: include subtasks
 See appendix C for a digital approach I tried, but ended up being too time-consuming.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Deliverable 4: Labor Breakdowns
 
 Note - 3D Pay rate salaries are from Indeed.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-20 at 16.07.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-20 at 16.07.54.png" alt=""><figcaption></figcaption></figure>
 
 #### In Plaintext for Readability
 
@@ -80,7 +80,7 @@ Note - 3D Pay rate salaries are from Indeed.
 
 ### **Deliverable 5: Cumulative Cost Forecast**
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-27 at 00.52.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-27 at 00.52.50.png" alt=""><figcaption></figcaption></figure>
 
 ## Appendices
 
@@ -153,12 +153,12 @@ I used an LLM to clean this up, but left my original:
 
 ### Appendix C: Merlin Software
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-19 at 08.58.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-19 at 08.58.50.png" alt=""><figcaption></figcaption></figure>
 
 In the [prior](../as02-estimating-budget-and-time.md) software project management scenario, I learned plantuml which took too much time learning syntax. This time, I learned Merlin
 
 The printouts are a bit better, but I need to adjust the scale to a month-by-month view instead of individual weeks.
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2024-10-19 at 09.13.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2024-10-19 at 09.13.58.png" alt=""><figcaption></figcaption></figure>
 
 Overall, it was a great learning experience and I plan to use this with other projects. It's a great tool for communicating my timeline with others. Unfortunately, there was a learning curve and to use it efficiently, you must get familiar with keyboard shortcuts which slowed me down.
