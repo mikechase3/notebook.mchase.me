@@ -928,6 +928,7 @@
   * [Soaring](leisure/sports/soaring.md)
 * [Travel](leisure/places/README.md)
   * [An Awesome Adventure](leisure/places/an-awesome-adventure.md)
+  * [Chautauqua Institute](leisure/places/chautauqua-institute.md)
   * [Dayton OH](leisure/places/dayton-oh/README.md)
     * [Downtown Housing FY24](https://downtowndayton.org/wp-content/uploads/2024/05/housingtour2024guide.pdf)
     * [Gem City Catfe](leisure/places/dayton-oh/gem-city-catfe.md)
