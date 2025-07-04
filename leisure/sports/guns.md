@@ -1,4 +1,4 @@
-# Gun Laws & Animals
+# Gun Laws & Bears
 
 Need something for hiking.
 
@@ -25,4 +25,7 @@ Take some classes in my area that'll answer my questions if I get something. Som
 * Gunbroker will ship it to a gun store or someone with their FFL.
   * You got to them to pick it up and they do the background check.&#x20;
 
-\\\_
+## Takeaways
+
+* Big bullets/ammo are required for bears, and they're usually not legal for US consumers without special licensing for explosions and weapons manufacturers.&#x20;
+* Remember - bear spray is a good tool too.
