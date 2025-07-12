@@ -46,7 +46,7 @@ OUTSIDE:
     * Southern Cross: improves  rooms with four doors. Forms a `+`.&#x20;
     * Farmer's Apple: ? Looks liuke an apple.
     * Clavis the key: +1 key. Looks like a key.
-    * Diamondus Major +5 gems. Big diamond.
+    * Diamondus Major +5 gems. Big diaBmond.
     * Draxus, the dead: dead end rooms are more common. Looks like a smily face.
     * The Sail: two sails on a boat.&#x20;
     * Florealis, bloom of the sky: green rooms are more likely to contain special 'flowers' today. Stars are aligned symmetrically around five "inner" stars forming flower pedals around those five.&#x20;
@@ -92,7 +92,7 @@ OUTSIDE:
 
 
 
-## Special Rooms
+## By Rooms
 
 ### The Shrine
 
@@ -103,6 +103,8 @@ OUTSIDE:
 #### **A Sightseer's Guide to Reddington**: modest account of our town by Sir Andrew Darle.&#x20;
 
 <div><figure><img src="../../../.gitbook/assets/image (794).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (795).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
 
 Useful Facts?:
 
@@ -120,7 +122,98 @@ Useful Facts?:
 * Mainway Station Bazar
   * Underground marketplace.
   * Once a railway station.
-* Mount Holley Bomb Shelter
-  * Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
-  * A time-unlock can be set for 1+ hrs in the future (so 1-2hrs)
-  *
+
+### Mount Holley Bomb Shelter
+
+* Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
+* A time-unlock can be set for 1+ hrs in the future (so 1-2hrs)
+
+### Boiler Room
+
+A puzzle. Boiler sends power to one of three locations connected how?
+
+### Spare Bedroom
+
+* Handwritten/True?: Herbie is mean and really stupid and today is a good day because I threw away his airplane lol.
+
+### Dark room
+
+* Picture of a heart with 1652 I think. 2652. Code to the outdoor gate if I look closely. CORRECTION: magnifier glass reveals it's 11-28
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+This one reads "Green memos found in Hartley's room are always false.
+
+### Garage
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+* Drop off address: 14277 Sandy Heights. Small garage on south edge of trinsdale.
+* Goods are secured in a trunk.
+* Premediated death by car driver...  the sus one.
+
+
+
+### Drafting Room - Drafting Strategy Vol1
+
+Safe Combination?:
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* Violet: bedroom.
+* Orange: hallway.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+### Rumpus Room
+
+The great Alzara
+
+* First pass: the hidden room is separated by a body of water?
+* Second:  with Alzara. Look into my future. Car broke down by ruined mannor/building? Decrepit, rundown, disrepair. Sees EIGHT red envelopes upon 8 pedistals. In them are 8 letters by 8 different hands. Numbered. Which only ever I shall find/read 7 of them.
+
+### Commissary
+
+* Terminal Password: SWANSONG?
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+### Mail Room
+
+You can order a package and pick it up on the next day.
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+## Characters
+
+* Lord Evanston
+* Lord William Epsten (OG Owner of Mt. Holly?)
+* Bridgette: the made. 5 apples. 5 bananas. 5 oranges. 4 coins?
+* Mrs. Babbage: lead maid?
+* Denny Revane: has a payment for murder ready? Someone questions if thre was "proof" he stole the mail.&#x20;
+* Christoph: keeps disappearing for long periods of time with the car.
+

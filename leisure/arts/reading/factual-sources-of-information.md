@@ -4,7 +4,7 @@
 
 Copyright- visit ad fontes media for a better version & [intractable chart](https://app.adfontesmedia.com/chart/interactive?utm_source=adfontesmedia\&utm_medium=website). The photo/infographic below is a non-commercial license for personal/educational/nonprofit/civic use. (v13.0 - static version).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## Factcheck.org
 

@@ -66,7 +66,7 @@ TODO: include subtasks
 See appendix C for a digital approach I tried, but ended up being too time-consuming.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Deliverable 4: Labor Breakdowns
 
