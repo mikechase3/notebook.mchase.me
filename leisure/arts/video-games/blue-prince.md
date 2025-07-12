@@ -84,3 +84,43 @@ OUTSIDE:
 
 <figure><img src="../../../.gitbook/assets/image (792).png" alt="" width="139"><figcaption></figcaption></figure>
 
+
+
+
+
+<figure><img src="../../../.gitbook/assets/image (793).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Special Rooms
+
+### The Shrine
+
+* Gave it 5 coins and it blessed me with 8 courtyard blueprints into my pool for next 3 days.
+
+### Library
+
+#### **A Sightseer's Guide to Reddington**: modest account of our town by Sir Andrew Darle.&#x20;
+
+<div><figure><img src="../../../.gitbook/assets/image (794).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (795).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Useful Facts?:
+
+* Mountains, mystery, magic.
+* Featherhall Keep&#x20;
+  * Former home of Lord William Epsten made it?
+  * Lord Epsten was his oldest son & died. Daughter stayed until marriage in 1951. Then historic house/attraction in 1972.&#x20;
+  * Believed it was built by the first king of Orinda Aries.
+* Trinsdale Lake
+  * For rich people, traveled to by royalty.&#x20;
+* Mount Holly (Where I'm at)
+  * Highest peak.
+  * Few hours from reddington.
+  * Estate of Mount Holly 'on opposite side of the peak sees.
+* Mainway Station Bazar
+  * Underground marketplace.
+  * Once a railway station.
+* Mount Holley Bomb Shelter
+  * Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
+  * A time-unlock can be set for 1+ hrs in the future (so 1-2hrs)
+  *
