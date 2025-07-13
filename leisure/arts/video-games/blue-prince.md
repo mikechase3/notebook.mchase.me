@@ -167,13 +167,13 @@ Safe Combination?:
 * Violet: bedroom.
 * Orange: hallway.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
@@ -216,4 +216,8 @@ You can order a package and pick it up on the next day.
 * Mrs. Babbage: lead maid?
 * Denny Revane: has a payment for murder ready? Someone questions if thre was "proof" he stole the mail.&#x20;
 * Christoph: keeps disappearing for long periods of time with the car.
+* Simon: in a bunker?
 
+## Days
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
