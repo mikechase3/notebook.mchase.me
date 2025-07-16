@@ -94,9 +94,30 @@ OUTSIDE:
 
 ## By Rooms
 
+### Attic
+
+A letter to Ms. Marigold discusses the material is not goood fit with Ruffington's current catelogue. From ruffington red publishing. 205 Concetta Ct. 02117-2765.
+
+### Office
+
+* West and East levers are operational. Antechamber lever in the Greenhouse is broken AGAIN.
+
+Correct sequence of the power thing is:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
 ### The Shrine
 
 * Gave it 5 coins and it blessed me with 8 courtyard blueprints into my pool for next 3 days.
+* Took coins & was cursed for two days. Less steps/gold/etc.
+
+### Trading Post
+
+There's some sort-of puzzle here. I solved it by lining up the four yellow corners.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Library
 
@@ -123,6 +144,33 @@ Useful Facts?:
   * Underground marketplace.
   * Once a railway station.
 
+#### History of Orindia by Caleb Manning
+
+* Borrowed by Herbert S Sinclair, Mary Jones, Det. B on Margle, and me, Simon P Jones.
+* Material has been removed if it's "inaccurate or unsuitable" & very heavily redacted.
+* Foreward: redacted
+* Ajera: beginning is Ajera time. King Oris (not his real name) and was a merchant lord before king. Oris _expansion_ was goal.&#x20;
+* Second Era: fourt king split domain to 3 shares for his children. Fields/mountains for the eldest. **Arch Aries** was bestowed to youngest, land of northern storms. Middle child got southern region of **eraja**
+* Third Era: More divided but trade united them.
+* **FOURTH ERA:** King Desilets III drinking & left.
+* **NOTE:** from detective bon margle.
+* FITH ERA OF RUIN: King Desilets III of the fourth era died somehow. Very next day Prince Leerson of Fenn declared himself the true monarch but wasn't popular. Civil war & fennsurrection. Savage/bad. Gardens of Fenn were splendor & then a battlefield. Brutal. Allies came. Leveraged poliutical influence to persuade realms of ARCH ARIES and NUANCE to join cause; however, **war of fifth era** still lasted 22 years. Prince Leerson .
+  * Black flags flown for 5 eras were burned & red were hoisted in honor of the fallen Fenn. Rest of fam was forever exiled.
+* CURRENT ERA
+  * Realms einherited by the three fenn aries, arch aries, and eraja are united allies.
+  *
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+#### EPCW Pump System User Manual
+
+* It's for the pool system/spas.
+* Select a swater source using the WATER CONTROL PANEL . Then set pump to in/out.
+
+
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Mount Holley Bomb Shelter
 
 * Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
@@ -140,11 +188,11 @@ A puzzle. Boiler sends power to one of three locations connected how?
 
 * Picture of a heart with 1652 I think. 2652. Code to the outdoor gate if I look closely. CORRECTION: magnifier glass reveals it's 11-28
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-This one reads "Green memos found in Hartley's room are always false.
+This one reads "Green memos found in Hartley's room are always false."
 
 ### Garage
 
@@ -167,25 +215,25 @@ Safe Combination?:
 * Violet: bedroom.
 * Orange: hallway.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-.
-
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Rumpus Room
 
@@ -208,6 +256,41 @@ You can order a package and pick it up on the next day.
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
+### Laboratory
+
+Weird elements table:
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+There's a scientific machine requiring more power from the boiler room.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### Schoolhouse
+
+* Letter
+  * 38 years of schoolmaster in a tiny facility.&#x20;
+  * Lady Epstein fundraised.
+  * Mrs. Peterson, future principle/succcessor.
+  * Baron Sinclair is the architect.&#x20;
+  * "Remember to give Mrs. Peterson her gift"
+  * Whoever wrote this is anticipating death.&#x20;
+* Contains one of the valves needed for the torch puzzled.&#x20;
+
+### Music Room
+
+Sheet music is seven pages, but I only have four of them. Words in bold are:
+
+* first
+* words
+* on
+* Do?&#x20;
+* The
+
+### Apple Orchard
+
+*
+
 ## Characters
 
 * Lord Evanston
@@ -217,7 +300,14 @@ You can order a package and pick it up on the next day.
 * Denny Revane: has a payment for murder ready? Someone questions if thre was "proof" he stole the mail.&#x20;
 * Christoph: keeps disappearing for long periods of time with the car.
 * Simon: in a bunker?
+* Herbert S Sinclair. High status. My grandpa/uncle/smth?
+* Detective Bon Margle; redgard.
+
+## Items
+
+* Prism Key: if you unlock a door in green/hallways/bedroom/red/shop, you'll draw floorplans of that same color.
+* Treasure Map: points out some treasure.
 
 ## Days
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
