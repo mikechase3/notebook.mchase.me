@@ -8,7 +8,7 @@ Enigma is an older cryptographic simulation toy that has been broken, but it too
 
 Engima is a code cypher
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Works Cited - Hal Evans @ Univ of Cambridge; 2020</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Works Cited - Hal Evans @ Univ of Cambridge; 2020</p></figcaption></figure>
 
 ## Computerphile Engima Videos/Notes
 

@@ -2,7 +2,7 @@
 description: Miscellaneous notes while I play. CONTAINS SPOILERS
 ---
 
-# Blue Prince
+# Blue Princew
 
 ## META
 
@@ -94,6 +94,27 @@ OUTSIDE:
 
 ## By Rooms
 
+### Antechamber
+
+I MADE IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I AM SO UNREASONABLY EXCITED AND THIS IS PROBABLY ONLY THE FIRST STEP in a much bigger picture.
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* A note reads "to continue up, you must go down.
+* And that's it... no idea where to put this key now but the routunda I'm guessing.
+
+### Archives
+
+Lots of information here.
+
+* **Aug 22 '85:** Marigold wins award for _Swim Bird_ novel for children. Second time winning the award. Neise of Baron H.S. Sinclair.
+* See [#marion-marigold-aka-mary-matthew-jones](blue-princew.md#marion-marigold-aka-mary-matthew-jones "mention") for more info on articlea bout her. She's the point of interest.
+* Also covered is theives breaking into the royal capital of Fenn Aries & broke into the crown's closed exhibits.
+  * Museum authorities says there were several masked intruders. Broke south wall w/ firewarms.&#x20;
+  * Theft was politically motivated? Maybe the **RLCF** or children of black water?
+
 ### Attic
 
 A letter to Ms. Marigold discusses the material is not goood fit with Ruffington's current catelogue. From ruffington red publishing. 205 Concetta Ct. 02117-2765.
@@ -106,7 +127,7 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 Correct sequence of the power thing is:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -123,7 +144,7 @@ Correct sequence of the power thing is:
 
 There's some sort-of puzzle here. I solved it by lining up the four yellow corners.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Library
 
@@ -166,7 +187,7 @@ Useful Facts?:
   * Realms einherited by the three fenn aries, arch aries, and eraja are united allies.
   *
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### EPCW Pump System User Manual
 
@@ -175,7 +196,7 @@ Useful Facts?:
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Swim Bird by Marion Marigold
 
@@ -203,15 +224,15 @@ A puzzle. Boiler sends power to one of three locations connected how?
 
 * Picture of a heart with 1652 I think. 2652. Code to the outdoor gate if I look closely. CORRECTION: magnifier glass reveals it's 11-28
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This one reads "Green memos found in Hartley's room are always false."
 
 ### Garage
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Drop off address: 14277 Sandy Heights. Small garage on south edge of trinsdale.
 * Goods are secured in a trunk.
@@ -223,51 +244,46 @@ This one reads "Green memos found in Hartley's room are always false."
 
 Safe Combination?:
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * Violet: bedroom.
 * Orange: hallway.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-.
-
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Rumpus Room
+.
 
-The great Alzara
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* First pass: the hidden room is separated by a body of water?
-* Second:  with Alzara. Look into my future. Car broke down by ruined mannor/building? Decrepit, rundown, disrepair. Sees EIGHT red envelopes upon 8 pedistals. In them are 8 letters by 8 different hands. Numbered. Which only ever I shall find/read 7 of them.
+.
+
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### Commissary
 
 * Terminal Password: SWANSONG?
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Mail Room
 
 You can order a package and pick it up on the next day.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
@@ -277,11 +293,11 @@ You can order a package and pick it up on the next day.
 
 Weird elements table:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 There's a scientific machine requiring more power from the boiler room.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Schoolhouse
 
@@ -320,7 +336,81 @@ Sheet music is seven pages, but I only have four of them. Words in bold are:
 
 Revealed in the office terminal is an email telling you the states that each light should be on. Once you put them in the right sequence, it unlocks a secondary room with a lever. Pulling that lever reveals a gemstone cavern.
 
+
+
+### Gemstone Cavern
+
+* Unlocks after solving the electrical puzzle.
+* Letter: there's one more cart locked on a short track and too difficult to move from the reservoir side. Blocking the passage & needs to be moved from the "other side". There are 2 other ways to get into the site from the blocked side.
+
 <figure><img src="../../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Hovel
+
+* Contains another gas valve
+* Didn't seem to be anything else there.. unusually empty.
+
+### Morning Room
+
+* Newspaper dated November 5th.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Routunda
+
+* Rotates w/ press of a button; nothing super interesting
+* Oh that's not rue. UPDATE: the secret garden key works in the routunda!!!
+  * Basement key didn't work which surprised me, but try other doors next time?
+
+### Rumpus Room
+
+The great Alzara
+
+* First pass: the hidden room is separated by a body of water?
+* Second:  with Alzara. Look into my future. Car broke down by ruined mannor/building? Decrepit, rundown, disrepair. Sees EIGHT red envelopes upon 8 pedistals. In them are 8 letters by 8 different hands. Numbered. Which only ever I shall find/read 7 of them.
+
+#### Third Pass
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="188"><figcaption></figcaption></figure>
+
+
+
+### Secret Garden
+
+* Spreads fruit throughout the house, which is a nice perk.
+* Accessible using the secret garden key on the east part.
+* Algning all the arrows reveals a secret lever for the antechamber.
+
+### Servant's Quarters
+
+* Had 5 keys which was nice. Enough for the great hall.
+* Has a system of bells.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -328,24 +418,54 @@ Revealed in the office terminal is an email telling you the states that each lig
 
 * Bridgette: the made. 5 apples. 5 bananas. 5 oranges. 4 coins?
 * Mrs. Babbage: lead maid?
-* Denny Revane: has a payment for murder ready? Someone questions if thre was "proof" he stole the mail.&#x20;
+* Denny Revane: has a payment for murder ready? Someone questions if there was "proof" he stole the mail.&#x20;
 * Christoph: keeps disappearing for long periods of time with the car.
 * Simon: in a bunker?
 * Herbert S Sinclair.&#x20;
   * High status.
   * My grandpa?
-* Simon
+* Simon P Jones
   * Herbert writes to him (me) at the end.
-  *
+  * Son of Marion Marigold.
+  * I'm 14 years old & named provisional heir to the sprawling Synka empire. Named on November 4th.
+  * I'm an heir to the "sprawling Synka empire"
 * Detective Bon Margle; redgard.
 * Randolph M
   * Lab technician. Shows that the melting point of water btw 0.1ppt-0.5ppt.&#x20;
 * Kimberly Thompson
   * Typically works at SYNKA labs (where the safe was made)
-* Marion Marigold
-  * Wrote "Swim Bird" book.
 
+### Caleb Manning&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="208"><figcaption></figcaption></figure>
+
+* Friend/mentor of Marigold who was also arrested.
+
+### Hartley (Servant)
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### Marion Marigold (Aka Mary Matthew Jones)
+
+Much of Marygold's information is found in the archive newspaper binder.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* Wrote "Swim Bird" book.
+* Also wrote "The Red Prince." Based on her son & his inflexible love of the color red. Could've been a critique of the red royalist party.
+* Also known as "Mary Matthew Jones"
+* Presumptive heir of Mount Holley. Neice & closest living relative of Baron H.S. Sinclair
+* Presumed missing for six years.
+* Author of "A new clue" as well.
+* Detained by a red guard in Nov 11 '86 according to newspaper in archives. It's widely believed by authorities to be the work of the insurgent group **RLCF aka The Children of Black Water**. Ruffington Press was quick to dismiss rumors in a statement manitaining they were victims of unfortunate happenstance.&#x20;
+* Marigold then dropped publisher citing personal reasons on November 17th '86.
+  * Third prominent writer to distance themselves from publisher along wth Caleb Manning who was also arrested
+* Then she disappeared. Last seen around 3:45 Friday on newspaper dated Feb 22 '87.
+  * Got into a carrage after luncheon date @ Hundred Bells Tea Room in Trinsdale.
+  * Never arrived home; carriage driver lost.
+* Sep 2nd '87: theives/jewels... maybe she's connected?
 
 ## Items
 
@@ -354,4 +474,4 @@ Revealed in the office terminal is an email telling you the states that each lig
 
 ## Days
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
