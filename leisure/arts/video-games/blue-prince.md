@@ -100,11 +100,17 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 ### Office
 
+* There's a dial in one of the drawers. Don't know what it does.
 * West and East levers are operational. Antechamber lever in the Greenhouse is broken AGAIN.
+* There's also a safe in the office.
 
 Correct sequence of the power thing is:
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -170,6 +176,15 @@ Useful Facts?:
 
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Swim Bird by Marion Marigold
+
+* Borrowed this book in 1985 AND now 1993. Robert S Sinclair borrowed first, then Mrs. Peterson twice.
+* Important words
+  * DARE BIRD
+  * There is not a _dare_ I would not do.
+  * Friends (Red, Yellow, Green?) are not very open.
+* Book is blue... blue prince? I'm the blue prince I think because I checked out this book and others in this estate probably read or helped me read it to me.
 
 ### Mount Holley Bomb Shelter
 
@@ -258,6 +273,8 @@ You can order a package and pick it up on the next day.
 
 ### Laboratory
 
+* Kimberly Thompson & R
+
 Weird elements table:
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
@@ -281,27 +298,54 @@ There's a scientific machine requiring more power from the boiler room.
 
 Sheet music is seven pages, but I only have four of them. Words in bold are:
 
-* first
-* words
-* on
-* Do?&#x20;
-* The
+* first, words, on, do?, the...
+* Page 8: stone cut by hand, and letters wrought, do spell our secrets carved from thought. A **message** read is of ten lost among the bold words spoken soft. The note is read, the letter is not.
+*
 
 ### Apple Orchard
 
+### Tomb
+
+* A very well written letter to me, simon, explains how tradition chains us down, but we follow traidition like it is our destiny, even though it may hold us back. During our youth, we ponder, dream even. During our death, we only have regrets.
+* Each of our journeys come to a conclusion here in the tomb. This floor plan is the definitive dead end... or is it?
+* There seem to be several trap doors.
+
+### Workshop
+
 *
+
+
+
+### Electrical Room
+
+Revealed in the office terminal is an email telling you the states that each light should be on. Once you put them in the right sequence, it unlocks a secondary room with a lever. Pulling that lever reveals a gemstone cavern.
+
+<figure><img src="../../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Characters
 
-* Lord Evanston
-* Lord William Epsten (OG Owner of Mt. Holly?)
 * Bridgette: the made. 5 apples. 5 bananas. 5 oranges. 4 coins?
 * Mrs. Babbage: lead maid?
 * Denny Revane: has a payment for murder ready? Someone questions if thre was "proof" he stole the mail.&#x20;
 * Christoph: keeps disappearing for long periods of time with the car.
 * Simon: in a bunker?
-* Herbert S Sinclair. High status. My grandpa/uncle/smth?
+* Herbert S Sinclair.&#x20;
+  * High status.
+  * My grandpa?
+* Simon
+  * Herbert writes to him (me) at the end.
+  *
 * Detective Bon Margle; redgard.
+* Randolph M
+  * Lab technician. Shows that the melting point of water btw 0.1ppt-0.5ppt.&#x20;
+* Kimberly Thompson
+  * Typically works at SYNKA labs (where the safe was made)
+* Marion Marigold
+  * Wrote "Swim Bird" book.
+
+
 
 ## Items
 
