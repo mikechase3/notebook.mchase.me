@@ -2,7 +2,7 @@
 description: Miscellaneous notes while I play. CONTAINS SPOILERS
 ---
 
-# Blue Princew
+# Blue Prince
 
 ## META
 
@@ -110,7 +110,7 @@ I MADE IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I AM SO UNREASONABLY EXCITED AND THIS IS
 Lots of information here.
 
 * **Aug 22 '85:** Marigold wins award for _Swim Bird_ novel for children. Second time winning the award. Neise of Baron H.S. Sinclair.
-* See [#marion-marigold-aka-mary-matthew-jones](blue-princew.md#marion-marigold-aka-mary-matthew-jones "mention") for more info on articlea bout her. She's the point of interest.
+* See [#marion-marigold-aka-mary-matthew-jones](blue-prince.md#marion-marigold-aka-mary-matthew-jones "mention") for more info on articlea bout her. She's the point of interest.
 * Also covered is theives breaking into the royal capital of Fenn Aries & broke into the crown's closed exhibits.
   * Museum authorities says there were several masked intruders. Broke south wall w/ firewarms.&#x20;
   * Theft was politically motivated? Maybe the **RLCF** or children of black water?
