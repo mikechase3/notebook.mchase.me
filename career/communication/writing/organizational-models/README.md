@@ -1,2 +1,0 @@
-# Organizational Models
-

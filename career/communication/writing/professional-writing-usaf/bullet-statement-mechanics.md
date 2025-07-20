@@ -49,15 +49,15 @@ The second step is to make it into an "accomplishment-impact bullet." **Group th
 
 * **Adverbs** modify the action \*\*\*\* verb. Connect $$adverb + verb = magic$$.
 
-![](../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.55.31@2x.jpg)
+![](../../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.55.31@2x.jpg)
 
-![](../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.39.33@2x.jpg)
+![](../../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.39.33@2x.jpg)
 
 #### **The Impact Element (Impact and Results)**
 
 The impact element explains how the person's actions had an effect on the organization. The scope should be consistent with the person's accomplishments.
 
-![](../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.52.48@2x.jpg)
+![](../../../writing/.gitbook/assets/CleanShot%202021-12-01%20at%2022.52.48@2x.jpg)
 
 ### Step 3: Streamline the Final Product
 
@@ -119,7 +119,7 @@ Left off on page 253.
 
 ## Guidance on WARs
 
-![](../../writing/.gitbook/assets/Scannable%20Document%20on%20Apr%202,%202022%20at%2012_53_47%20AM.jpg)
+![](../../../writing/.gitbook/assets/Scannable%20Document%20on%20Apr%202,%202022%20at%2012_53_47%20AM.jpg)
 
 From analyzing a few examples, you discover a pattern. To write a good WAR, just follow this pattern:
 
