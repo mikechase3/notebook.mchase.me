@@ -119,6 +119,8 @@ Lots of information here.
 
 A letter to Ms. Marigold discusses the material is not goood fit with Ruffington's current catelogue. From ruffington red publishing. 205 Concetta Ct. 02117-2765.
 
+<figure><img src="../../../.gitbook/assets/image (817).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### Office
 
 * There's a dial in one of the drawers. Don't know what it does.
@@ -207,10 +209,28 @@ Useful Facts?:
   * Friends (Red, Yellow, Green?) are not very open.
 * Book is blue... blue prince? I'm the blue prince I think because I checked out this book and others in this estate probably read or helped me read it to me.
 
+#### The Fixed Stars
+
+* Today is Nov 25 1993! As checked out in the library. This is day 19. So that's the date I need to enter for the time safe & the time needs to be based on the sun dial!
+* Otherwise, it's the exact same thing as in the observatory.
+*
+
 ### Mount Holley Bomb Shelter
 
 * Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
 * A time-unlock can be set for 1+ hrs in the future (so 1-2hrs)
+
+### The Vault
+
+
+
+### Pool Room
+
+At the bottom if you drain it using the pump, there are coins.
+
+There's also a bluprint map with the letter 'E' which was also on a tombstone I found in the workshop once upon a time.
+
+<figure><img src="../../../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Boiler Room
 
@@ -404,15 +424,49 @@ The great Alzara
 
 
 
+### The Precipce
+
+#### Chess Game
+
+<figure><img src="../../../.gitbook/assets/image (813).png" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (814).png" alt="" width="188"><figcaption></figcaption></figure>
+
+* There exists a chess or puzzle game resembling the rooms. I suspect if one pays attention to which pieces lie in which rooms, this would unlock a secret.
+*
+
+#### Letter regarding Thomas Sinclair and Buried Chambers
+
+A letter from the foreman names Tomas Sinclair the current client in 1915. Someone might've had the chambers deliberately buried.
+
+<figure><img src="../../../.gitbook/assets/image (808).png" alt="" width="188"><figcaption></figcaption></figure>
 
 
 
 
 
+#### Foreman's Copy - Realm & ? Sigils of the Past and Present by William R. Willard (1905)
+
+* Key words: _red (scratched out)_ banners, martial, fog.
+* There are "Realm Sigils" which are marks of designation found on royal artifacts, buildings, docs.&#x20;
+* Each line, circle, variation tells a story of the land and borders have special meanings.,
+
+<figure><img src="../../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
+
+* Cores are O-, F-, E-, Co-, Ar-.&#x20;
+* Rays say things about ships or track based travel.
+
+<figure><img src="../../../.gitbook/assets/image (810).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
+<figure><img src="../../../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
+
+### Pump Room
+
+<figure><img src="../../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
 ## Characters
 

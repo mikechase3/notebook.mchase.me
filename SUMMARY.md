@@ -1051,6 +1051,7 @@
 
 ## Relations
 
+* [Casting Judgement](relations/casting-judgement.md)
 * [Charisma](relations/charisma/charisma.md)
   * [Greatfulness](relations/charisma/greatfulness.md)
   * [Breaking Up Gracefully](relations/charisma/breaking-up-gracefully.md)
@@ -1061,6 +1062,7 @@
   * [Placebo](relations/charisma/placebo.md)
   * [Uncertainty](relations/charisma/how-to-make-your-own-luck-or-freakonomics-424.md)
   * [What, So What, Now What](https://www.fastcompany.com/90867258/this-formula-introduce-yourself-like-a-pro?partner=rss\&utm_source=rss\&utm_medium=feed\&utm_campaign=rss+fastcompany\&utm_content=rss)
+* [Consent Outside the Bedroom](relations/consent-outside-the-bedroom.md)
 * [Communication Management](relations/communication-management/README.md)
   * [48 Laws of Power Cult Wiki](https://www.reddit.com/r/The48LawsOfPower/wiki/index)
   * [Decision-Making](relations/communication-management/decision-making.md)
@@ -1098,5 +1100,3 @@
   * [Computer Ethics](relations/information-ethics/computer-ethics.md)
   * [Virtue Ethics](relations/information-ethics/virtue-ethics.md)
 * [Don't do drugs](relations/dont-do-drugs.md)
-* [Casting Judgement](relations/casting-judgement.md)
-* [Consent Outside the Bedroom](relations/consent-outside-the-bedroom.md)
