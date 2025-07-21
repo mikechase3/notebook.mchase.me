@@ -11,7 +11,7 @@ description: Miscellaneous notes while I play. CONTAINS SPOILERS
 * It's a puzzle game where you must find the 46th room.&#x20;
 * An opening letter is odd. There are some odd "rules"
 
-<div><figure><img src="../../../.gitbook/assets/image (783).png" alt="" width="343"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2025-07-07 194937.png" alt="" width="350"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/image (783).png" alt="" width="343"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2025-07-07 194937.png" alt="" width="350"><figcaption></figcaption></figure></div>
 
 Wall Art:
 
@@ -23,7 +23,7 @@ OUTSIDE:
 * Has a campsight.
 * A locked gate I could jump over in real life.
 
-<figure><img src="../../../.gitbook/assets/image (785).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (785).png" alt=""><figcaption></figcaption></figure>
 
 ## First Day
 
@@ -65,12 +65,12 @@ OUTSIDE:
   * RED MEMOS are lies, unless they are handwritten.
   * Password potentially is:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (790).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (790).png" alt=""><figcaption></figcaption></figure>
 
 * BILLIARDS - chalkboard for a hint.
 * BREAKERS - get to purple sequentially.
 
-<figure><img src="../../../.gitbook/assets/image (791).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (791).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * DARKROOM
   * HS requests ladyship print... enlarged of enclosed.
@@ -82,13 +82,13 @@ OUTSIDE:
 * MAILROOM
   * Dad: 1809 Alice Dr Fenn Aries 63022 to Simon P Jones Mt Holly Estate 63080 w/ SKB 6789
 
-<figure><img src="../../../.gitbook/assets/image (792).png" alt="" width="139"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (792).png" alt="" width="139"><figcaption></figcaption></figure>
 
 
 
 
 
-<figure><img src="../../../.gitbook/assets/image (793).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (793).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -98,9 +98,9 @@ OUTSIDE:
 
 I MADE IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I AM SO UNREASONABLY EXCITED AND THIS IS PROBABLY ONLY THE FIRST STEP in a much bigger picture.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * A note reads "to continue up, you must go down.
 * And that's it... no idea where to put this key now but the routunda I'm guessing.
@@ -110,7 +110,7 @@ I MADE IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I AM SO UNREASONABLY EXCITED AND THIS IS
 Lots of information here.
 
 * **Aug 22 '85:** Marigold wins award for _Swim Bird_ novel for children. Second time winning the award. Neise of Baron H.S. Sinclair.
-* See [#marion-marigold-aka-mary-matthew-jones](blue-prince.md#marion-marigold-aka-mary-matthew-jones "mention") for more info on articlea bout her. She's the point of interest.
+* See [#marion-marigold-aka-mary-matthew-jones](./#marion-marigold-aka-mary-matthew-jones "mention") for more info on articlea bout her. She's the point of interest.
 * Also covered is theives breaking into the royal capital of Fenn Aries & broke into the crown's closed exhibits.
   * Museum authorities says there were several masked intruders. Broke south wall w/ firewarms.&#x20;
   * Theft was politically motivated? Maybe the **RLCF** or children of black water?
@@ -119,7 +119,61 @@ Lots of information here.
 
 A letter to Ms. Marigold discusses the material is not goood fit with Ruffington's current catelogue. From ruffington red publishing. 205 Concetta Ct. 02117-2765.
 
-<figure><img src="../../../.gitbook/assets/image (817).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (817).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Ball Room
+
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Bedroom (Master)
+
+* Contains a "Mora Jai Box" - fun for the family. A mechanical puzzle & lockbox. Also found in the trader's post. I received an allowance token labeled _Do not make allowances II_ interestingly enough.
+* Marygold wrote in the cover:
+  * To my encouraging uncle who opened many doors foe me.
+  * "PS: they made me change the ending of course as you predicted".&#x20;
+    * Means I'm a 'red prince', but marigold knows I'm the blue prince.
+* Note for Herb
+*
+
+    <figure><img src="../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+    * The controls for the foundation elevator are located behind the foundation wall. Controls can only be accessed by another room adjacent to the foundation. Unclear if this is a security meaure or a flaw...
+* In typewriter: "Simon, I never intended to finish this letter but by now you must know th-"
+
+
+
+### Bedroom - Servant's Quarters
+
+* Had 5 keys which was nice. Enough for the great hall.
+* Has a system of bells.
+* "There are 12 major keys" is written in Greene, but is false according to a picture found in the dark room I believer.
+
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Bedroom (Spare)
+
+* Handwritten/True?: Herbie is mean and really stupid and today is a good day because I threw away his airplane lol.
+
+### Classroom
+
+"Core" symbols have certain colors...
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure>
+
+### Foundation Room
+
+* Elevator's controls are located on the door behind.
+* Allows access to the basement once basement key is procured.
+
+### Greenhouse
+
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Office
 
@@ -129,11 +183,11 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 Correct sequence of the power thing is:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -146,13 +200,13 @@ Correct sequence of the power thing is:
 
 There's some sort-of puzzle here. I solved it by lining up the four yellow corners.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Library
 
 #### **A Sightseer's Guide to Reddington**: modest account of our town by Sir Andrew Darle.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/image (794).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (795).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/image (794).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (795).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
@@ -189,7 +243,7 @@ Useful Facts?:
   * Realms einherited by the three fenn aries, arch aries, and eraja are united allies.
   *
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### EPCW Pump System User Manual
 
@@ -198,7 +252,7 @@ Useful Facts?:
 
 
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Swim Bird by Marion Marigold
 
@@ -213,14 +267,21 @@ Useful Facts?:
 
 * Today is Nov 25 1993! As checked out in the library. This is day 19. So that's the date I need to enter for the time safe & the time needs to be based on the sun dial!
 * Otherwise, it's the exact same thing as in the observatory.
-*
+
+#### Drafting Vol 3
+
+
+
+#### Drafting Vol 4
+
+
 
 ### Mount Holley Bomb Shelter
 
 * Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
 * A time-unlock can be set for 1+ hrs in the future (so 1-2hrs)
 
-### The Vault
+
 
 
 
@@ -230,29 +291,27 @@ At the bottom if you drain it using the pump, there are coins.
 
 There's also a bluprint map with the letter 'E' which was also on a tombstone I found in the workshop once upon a time.
 
-<figure><img src="../../../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (816).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Boiler Room
 
 A puzzle. Boiler sends power to one of three locations connected how?
 
-### Spare Bedroom
 
-* Handwritten/True?: Herbie is mean and really stupid and today is a good day because I threw away his airplane lol.
 
 ### Dark room
 
 * Picture of a heart with 1652 I think. 2652. Code to the outdoor gate if I look closely. CORRECTION: magnifier glass reveals it's 11-28
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This one reads "Green memos found in Hartley's room are always false."
 
 ### Garage
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Drop off address: 14277 Sandy Heights. Small garage on south edge of trinsdale.
 * Goods are secured in a trunk.
@@ -260,36 +319,38 @@ This one reads "Green memos found in Hartley's room are always false."
 
 
 
-### Drafting Room - Drafting Strategy Vol1
+### Drafting Room
+
+Contains drafting Strategy Vol1
 
 Safe Combination?:
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * Violet: bedroom.
 * Orange: hallway.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -297,15 +358,31 @@ Safe Combination?:
 
 * Terminal Password: SWANSONG?
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Mail Room
 
 You can order a package and pick it up on the next day.
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+#### Letter from Randolph
+
+Simon,
+
+My name is Randolph Moore. I am the lead technician and have worked here at Mount Holly for over a decade. I was thriled to discover you have found our humble lab and have begun to run some experiments of your own. I tend to keep an eye on the small spikes in radiation levels on the estate as it's one of the only ways I can monitor your progress from the outside. (All off-site connections to the terminal network have been disabled during your stay).
+
+There has been much speculation among the staff about the progress you've been making in the house and they were all quite excited when I reported that you have been successfully running experiments! I wanted to write to you to let you know that even though you may not see us, we are rooting for you!
+
+Best of luck on the experiments and if you like I'll continue sending letters with some helpfull tips for you.
+
+-Randolph
+
+
+
+
 
 ### Laboratory
 
@@ -313,11 +390,11 @@ You can order a package and pick it up on the next day.
 
 Weird elements table:
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 There's a scientific machine requiring more power from the boiler room.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Schoolhouse
 
@@ -363,7 +440,7 @@ Revealed in the office terminal is an email telling you the states that each lig
 * Unlocks after solving the electrical puzzle.
 * Letter: there's one more cart locked on a short track and too difficult to move from the reservoir side. Blocking the passage & needs to be moved from the "other side". There are 2 other ways to get into the site from the blocked side.
 
-<figure><img src="../../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -386,7 +463,7 @@ Revealed in the office terminal is an email telling you the states that each lig
 
 * Newspaper dated November 5th.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -405,7 +482,7 @@ The great Alzara
 
 #### Third Pass
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt="" width="188"><figcaption></figcaption></figure>
 
 * Fourth pass. Hears the pattering steps of children running throgh the forest. The joyful echos of laughter in the courtyard. I see an old man sitting in an even older chair. A seat that has served many generations. Each with their own stories. Each with their own secrets. Each with their own endings. But all, in the same chair. What you have heard here has been forseen by the great Alzara.... until the dawn of the following day I will have nothing more to say.
 
@@ -415,12 +492,7 @@ The great Alzara
 * Accessible using the secret garden key on the east part.
 * Algning all the arrows reveals a secret lever for the antechamber.
 
-### Servant's Quarters
 
-* Had 5 keys which was nice. Enough for the great hall.
-* Has a system of bells.
-
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -428,9 +500,9 @@ The great Alzara
 
 #### Chess Game
 
-<figure><img src="../../../.gitbook/assets/image (813).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (813).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (814).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (814).png" alt="" width="188"><figcaption></figcaption></figure>
 
 * There exists a chess or puzzle game resembling the rooms. I suspect if one pays attention to which pieces lie in which rooms, this would unlock a secret.
 *
@@ -439,7 +511,7 @@ The great Alzara
 
 A letter from the foreman names Tomas Sinclair the current client in 1915. Someone might've had the chambers deliberately buried.
 
-<figure><img src="../../../.gitbook/assets/image (808).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (808).png" alt="" width="188"><figcaption></figcaption></figure>
 
 
 
@@ -451,28 +523,26 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 * There are "Realm Sigils" which are marks of designation found on royal artifacts, buildings, docs.&#x20;
 * Each line, circle, variation tells a story of the land and borders have special meanings.,
 
-<figure><img src="../../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
 
 * Cores are O-, F-, E-, Co-, Ar-.&#x20;
 * Rays say things about ships or track based travel.
 
-<figure><img src="../../../.gitbook/assets/image (810).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (810).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (812).png" alt=""><figcaption></figcaption></figure>
 
 ### Pump Room
 
-<figure><img src="../../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (815).png" alt=""><figcaption></figcaption></figure>
 
-### Ball Room
+### Vault
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+* Contains safe deposit boxes. Keys are items.
 
 ## Characters
 
@@ -497,21 +567,21 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 
 ### Caleb Manning&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="208"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="208"><figcaption></figcaption></figure>
 
 * Friend/mentor of Marigold who was also arrested.
 
 ### Hartley (Servant)
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Marion Marigold (Aka Mary Matthew Jones)
 
 Much of Marygold's information is found in the archive newspaper binder.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Wrote "Swim Bird" book.
 * Also wrote "The Red Prince." Based on her son & his inflexible love of the color red. Could've been a critique of the red royalist party.
@@ -534,4 +604,4 @@ Much of Marygold's information is found in the archive newspaper binder.
 
 ## Days
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
