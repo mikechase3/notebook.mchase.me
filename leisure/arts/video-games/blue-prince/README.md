@@ -486,6 +486,14 @@ The great Alzara
 
 * Fourth pass. Hears the pattering steps of children running throgh the forest. The joyful echos of laughter in the courtyard. I see an old man sitting in an even older chair. A seat that has served many generations. Each with their own stories. Each with their own secrets. Each with their own endings. But all, in the same chair. What you have heard here has been forseen by the great Alzara.... until the dawn of the following day I will have nothing more to say.
 
+#### Fourth Pass
+
+* Faintly in the midst, I see a figure. (King/sword). A statue cradeled in a courtyard of sentinel stone.&#x20;
+* You will find yourself one day wandering these paths; walking in the footsteps of the path. Wandering and waiting.
+* Searching for a shadow that will never be cast. Longing for the day to end. The hours to pass.&#x20;
+
+
+
 ### Secret Garden
 
 * Spreads fruit throughout the house, which is a nice perk.
