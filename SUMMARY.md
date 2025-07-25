@@ -180,7 +180,7 @@
       * [Wrap Up](career/compscidev/cybersecurity/cybersecurity/wrap-up.md)
     * [Educational Threats @ UD](career/compscidev/cybersecurity/educational-threats-ud.md)
     * [Gem City Tech Speakers](career/compsci-and-development/cybersecurity/gem-city-tech-speakers/README.md)
-      * [?? Speaker](career/compsci-and-development/cybersecurity/gem-city-tech-speakers/speaker.md)
+      * [Bryan Fite Guest Speaker](career/compsci-and-development/cybersecurity/gem-city-tech-speakers/bryan-fite-guest-speaker.md)
     * [Penetration Testing](career/compscidev/lostandfound/penetration-testing.md)
     * [Secure App Development](career/compscidev/cybersecurity/secure-app-development/README.md)
       * [SecureAppDev Syllabus/Intro](career/compscidev/cybersecurity/secure-app-development/introduction.md)

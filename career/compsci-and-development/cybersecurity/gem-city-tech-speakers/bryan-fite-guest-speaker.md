@@ -1,4 +1,6 @@
-# ?? Speaker
+# Bryan Fite Guest Speaker
+
+<figure><img src="../../../../.gitbook/assets/image (822).png" alt=""><figcaption></figcaption></figure>
 
 ## Background
 
