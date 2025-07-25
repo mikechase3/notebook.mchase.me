@@ -58,6 +58,7 @@
         * [Search Algorithms](career/compsci-and-development/ai/deep-learning/optimization/search-algorithms.md)
       * [AI-Driven Conversational Data Collection](career/compsci-and-development/ai/deep-learning/llm/ai-driven-conversational-data-collection.md)
       * [LLM](career/compsci-and-development/ai/deep-learning/llm/README.md)
+        * [How to setup Ollama and WebUI](career/compsci-and-development/ai/deep-learning/llm/how-to-setup-ollama-and-webui.md)
         * [How AI Large Lang Models Work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/?utm_source=nl\&utm_brand=ars\&utm_campaign=aud-dev\&utm_mailing=Ars_Orbital_080223\&utm_medium=email\&bxid=605c2758dc98ba405735a403\&cndid=70538325\&hasha=84cc46e6a2e38b6f501a0e64e8724912\&hashb=e74d526c55475a5c44c5ff64e3cbd54c96b5d417\&hashc=d3494e34127e58f63c9fc0f574d1661f3188cc205fa8ce2ee0c5d2e6fb515b63\&esrc=\&utm_content=B\&utm_term=ARS_OrbitalTransmission)
         * [Text Gen Temperature, K, P Lab](career/compsci-and-development/ai/deep-learning/llm/text-gen-temperature-k-p-lab.md)
         * [LLM Intro GemCityTech](career/compsci-and-development/ai/deep-learning/llm/llm-intro-gemcitytech.md)
