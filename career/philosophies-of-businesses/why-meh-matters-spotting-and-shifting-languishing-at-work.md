@@ -56,7 +56,7 @@ It impacts:
 
 What's the data show?
 
-<figure><img src="../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure>
 
 Some assumptions? Older people especially struggle to control my own destiny & hgave some level of autonnomy in my daily work which is one kind-of connection. Higher feelings of self-efficacy. Once you're over 55, you can say "if it gets any worse, I've got an exit strategy." The higher up you are, the more likely you recognize you have all the information. When you're down the ladder, there's a question about what's driving what I'm doing?
 
@@ -73,7 +73,7 @@ Some assumptions? Older people especially struggle to control my own destiny & h
 * Thinking through the most important/impactful things you can do during the week that align with your values & job function & trying to schedule that out throughout the week proactively. We tend to think more creatively when we're low-energy. When we're high-energy, do the deep research.
 * TIP: ask "what's my role in this meeting"&#x20;
 
-<figure><img src="../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
 
 * Step away from your desk to walk/talk
 * Exercise & recharge
@@ -88,7 +88,7 @@ Some assumptions? Older people especially struggle to control my own destiny & h
 
 Normalize talking up & speaking out about these types of feelings.&#x20;
 
-<figure><img src="../.gitbook/assets/image (825).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (825).png" alt=""><figcaption></figcaption></figure>
 
 ## Action Steps to Take
 
@@ -113,4 +113,4 @@ Normalize talking up & speaking out about these types of feelings.&#x20;
 
 ## References
 
-<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (826).png" alt=""><figcaption></figcaption></figure>

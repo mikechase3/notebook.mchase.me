@@ -2,7 +2,6 @@
 
 * [Mike Chase's Research](README.md)
 * [Inbox](inbox/README.md)
-  * [Why Meh Matters- Spotting & Shifting Languishing at Work](inbox/why-meh-matters-spotting-and-shifting-languishing-at-work.md)
   * [Ode to BunBunn](inbox/ode-to-bunbun.md)
   * [Akhil M](inbox/akhil-m.md)
 
@@ -871,6 +870,7 @@
   * [Musk Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
   * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
   * [Speed of Trust](https://www.speedoftrust.com/)
+  * [Why Meh Matters- Spotting & Shifting Languishing at Work](career/philosophies-of-businesses/why-meh-matters-spotting-and-shifting-languishing-at-work.md)
 * [Risk Management](career/risk-management.md)
 * [Social Sciences](career/social-sciences/README.md)
   * [Anthropology](career/social-sciences/anthropology/README.md)
