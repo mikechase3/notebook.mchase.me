@@ -52,7 +52,7 @@ Sample = Trajectory:
 
 Apparently there's some sort-of minecraft educational tool that'll help you design/study RL algorithms in a complex world.&#x20;
 
-{% embed url="https://github.com/microsoft/malmo" %}
+{% @github-files/github-code-block url="https://github.com/microsoft/malmo" %}
 
 ### Reading on RL
 
