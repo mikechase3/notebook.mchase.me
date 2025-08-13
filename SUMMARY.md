@@ -932,6 +932,7 @@
   * [Before The Internet](https://internetkhole.com/)
   * [Neal](https://neal.fun/)
 * [Shopping/Retail](leisure/shopping/README.md)
+  * [BIDFTA](https://www.bidfta.com/)
   * [Wish List](leisure/christmas-wish-list.md)
 * [Sports](leisure/sports/README.md)
   * [Gun Laws & Bears](leisure/sports/guns.md)
