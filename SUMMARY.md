@@ -924,6 +924,7 @@
     * [Factual Sources of Information](leisure/arts/reading/factual-sources-of-information.md)
   * [video games](leisure/arts/video-games/README.md)
     * [Kerbal Space Program](leisure/arts/video-games/kerbal-space-program.md)
+    * [BetterBluePrince](leisure/arts/video-games/betterblueprince.md)
     * [Blue Prince](leisure/arts/video-games/blue-prince/README.md)
       * [Blue Prince Letters](leisure/arts/video-games/blue-prince/blue-prince-letters.md)
 * [Camper Rental Analysis](leisure/camper-rental-analysis.md)

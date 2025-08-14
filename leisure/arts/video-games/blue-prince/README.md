@@ -613,3 +613,6 @@ Much of Marygold's information is found in the archive newspaper binder.
 ## Days
 
 <figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+
+.
+
