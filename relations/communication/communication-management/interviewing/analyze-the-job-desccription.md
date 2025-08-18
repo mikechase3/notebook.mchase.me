@@ -19,7 +19,7 @@
 
 ### Example
 
-![](../../../.gitbook/assets/cleanshot-2021-10-04-at-10.04.25.png)
+![](../../../../.gitbook/assets/cleanshot-2021-10-04-at-10.04.25.png)
 
 #### Identify Competencies
 
