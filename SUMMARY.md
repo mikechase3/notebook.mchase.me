@@ -870,6 +870,7 @@
   * [Linus Tech tips](career/philosophies-of-businesses/linus-tech-tips.md)
   * [Musk Work Ethic](https://www.youtube.com/watch?v=-U5dEdWouDY)
   * [$NFLX Onboarding](https://www.dropbox.com/s/6o01oh025eovlor/Netflix%20Culture%20Employee%20Presentation.pdf?dl=0)
+  * [Seven Deadly Sins (Evil Thoughts)](career/philosophies-of-businesses/seven-deadly-sins-evil-thoughts.md)
   * [Speed of Trust](https://www.speedoftrust.com/)
   * [Why Meh Matters- Spotting & Shifting Languishing at Work](career/philosophies-of-businesses/why-meh-matters-spotting-and-shifting-languishing-at-work.md)
 * [Risk Management](career/risk-management.md)
