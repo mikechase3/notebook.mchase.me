@@ -53,5 +53,5 @@ What strategies can we use to differentiate between the sin of sloth & other sim
 * "[Is sloth a sin or a virtue](https://freakonomics.com/podcast/is-sloth-a-sin-or-a-virtue/)" No Stupid Questions #136 _Freakonomics Radio Network_
 * Thomas Schelling (prior smoker)&#x20;
 * Adam Smith "Theory of Moral Sentiments"
-* Bertrand russel - writer/philosopher. "In Praise of Idleness"
+* Bertrand russel - writer/philosopher. "[In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/)"
 
