@@ -4,6 +4,7 @@
 * [Inbox](inbox/README.md)
   * [Ode to BunBunn](inbox/ode-to-bunbun.md)
   * [Akhil M](inbox/akhil-m.md)
+  * [Page 1](inbox/page-1.md)
 
 ## Career
 
@@ -931,7 +932,7 @@
       * [Blue Prince Letters](leisure/arts/video-games/blue-prince/blue-prince-letters.md)
 * [Camper Rental Analysis](leisure/camper-rental-analysis.md)
 * [Favorite Restaurants](leisure/favorite-restaurants.md)
-* [lost+found](leisure/lostandfound/README.md)
+* [Websites (Cool Ones)](leisure/websites-cool-ones/README.md)
   * [Before The Internet](https://internetkhole.com/)
   * [Neal](https://neal.fun/)
 * [Shopping/Retail](leisure/shopping/README.md)
@@ -986,6 +987,7 @@
     * [Arugula Salad](maintenance/cooking/dads-recipes/arugula-salad.md)
   * [F\* Nestle](https://www.fucknestle.art/)
   * [NYT Cooking](https://cooking.nytimes.com/)
+  * [What's For Dinner](https://whatthefuckshouldimakefordinner.com/)
 * [Finance](maintenance/finance/finance.md)
   * [Dealing With Collections](maintenance/finance/collections.md)
   * [Cryptocurrency Activities](maintenance/finance/cryptocurrency-taxes.md)
