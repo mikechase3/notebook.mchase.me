@@ -597,6 +597,8 @@
   * [Public Speaking](career/communication/public-speaking/README.md)
     * [AI Slidedeck Tools](career/communication/public-speaking/ai-slidedeck-tools.md)
     * [Charisma on Command](https://www.charismaoncommand.com/)
+  * [Research](career/communication/research/README.md)
+    * [Academic Databases](career/communication/research/academic-databases.md)
   * [Sign Learner](https://signlearner.com/)
   * [Quitting](career/how-to-quit/README.md)
   * [Writing](career/communication/writing/README.md)
