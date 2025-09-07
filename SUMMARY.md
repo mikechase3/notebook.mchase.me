@@ -641,6 +641,7 @@
     * [Semantics and Grammar](career/communication/writing/semantics-and-grammar/README.md)
       * [Grammar Rock](https://archive.org/details/School_House_Rock_Grammar_Rock_1995_Tape)
       * [Latin Cheat Sheet](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf)
+    * [Sentences (Code)](career/communication/writing/sentences-code.md)
     * [Tools and Technologies](career/communication/writing/tools-and-technologies.md)
 * [Design](career/design/README.md)
   * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
