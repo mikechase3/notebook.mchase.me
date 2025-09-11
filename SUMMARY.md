@@ -4,7 +4,7 @@
 * [Inbox](inbox/README.md)
   * [Ode to BunBunn](inbox/ode-to-bunbun.md)
   * [Akhil M](inbox/akhil-m.md)
-  * [Page 1](inbox/page-1.md)
+  * [Perceptions of Probability](inbox/perceptions-of-probability.md)
 
 ## Career
 
