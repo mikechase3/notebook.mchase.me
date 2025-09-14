@@ -545,6 +545,7 @@
     * [Risk Management Frameworks & Cybersecurity Applications](career/compsci-and-development/software-project-management/risk-management-frameworks-and-cybersecurity-applications.md)
   * [Tech Evaluations (Development)](career/compsci-and-development/tech-evaluations-development/README.md)
     * [AI Tools Directory](https://www.futurepedia.io/)
+    * [Element.io (Matrix Chat)](career/compsci-and-development/tech-evaluations-development/element.io-matrix-chat.md)
     * [FamousAI Eval](career/compsci-and-development/tech-evaluations-development/famousai-eval.md)
   * [UI/HI Guides](career/compscidev/ui-hi-guides/README.md)
     * [Gnome HIG](https://developer.gnome.org/hig/)
