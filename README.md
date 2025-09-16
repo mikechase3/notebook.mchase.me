@@ -26,6 +26,8 @@ Everything is categorized into:
 * RUFF python package for linting.
 
 ## Workflows/Toolchain
+Oh shoot - they depreciated it :(((((
+
 Testing/ignore:
 ```uml
 @startuml
