@@ -26,6 +26,22 @@ Everything is categorized into:
 * RUFF python package for linting.
 
 ## Workflows/Toolchain
+Testing/ignore:
+```
+@startuml
+class Triangle {
+  +v_idx[] : int[3]
+  +c[] : Color[3]
+}
+@enduml
+
+@startuml
+class Color {
+  +channel[] : float[3] 
+}
+@enduml
+```
+
 ```
 @startuml
 start
@@ -51,8 +67,9 @@ endif
 stop
 
 @enduml
-
 ```
+
+
 1. Scrapwork
   * Kindle Scribe
   * OneNote
