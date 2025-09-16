@@ -52,9 +52,7 @@ stop
 
 @enduml
 
-
-
-
+```
 1. Scrapwork
   * Kindle Scribe
   * OneNote
@@ -63,8 +61,6 @@ stop
   * A file in `Inbox`
 2. Google Drive Projects Folder OR Repository
 3. Notebook OR 
-```
-
 
 ## Legal
 
