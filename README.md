@@ -27,7 +27,7 @@ Everything is categorized into:
 
 ## Workflows/Toolchain
 Testing/ignore:
-```
+```uml
 @startuml
 class Triangle {
   +v_idx[] : int[3]
@@ -42,7 +42,7 @@ class Color {
 @enduml
 ```
 
-```
+```uml
 @startuml
 start
 
