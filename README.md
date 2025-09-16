@@ -17,12 +17,54 @@ Everything is categorized into:
 * Studies App (Internal)
 * [Stack Overflow](https://stackoverflow.com/users/4777844/mike-chase)
 
+
 ## Active Projects
 
 * [Hands On Machine Learning w/ Scikit-learn, Keras, TensorFlow](career/compsci-and-development/ai/courses/hands-on-ml.md)
   * [Google Collab Notebooks](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/)
 * Getting CACs to work with Ubuntu.
 * RUFF python package for linting.
+
+## Workflows/Toolchain
+```
+@startuml
+start
+
+:Anything;
+note right
+  Example Note and can contain <b>HTML</b>
+  ====
+  * Or Markdown works
+  * As an example
+end  note
+if (junk?) then (yes)
+  :delete it;
+  stop
+elseif (isPhoto) then (yes)
+  :keep on camera;
+  :sync with collections/photos;
+  :delete photos on camera;
+  stop
+else (nothing)
+  :Text else;
+endif
+stop
+
+@enduml
+
+
+
+
+1. Scrapwork
+  * Kindle Scribe
+  * OneNote
+  * A picture
+  * iThoughts File
+  * A file in `Inbox`
+2. Google Drive Projects Folder OR Repository
+3. Notebook OR 
+```
+
 
 ## Legal
 
