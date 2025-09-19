@@ -18,7 +18,7 @@ First, the center of mass needs to be ahead of the center of pressure/thust/lift
 
 Generally, keeping the mass/forces centered & symmetric is good.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Control
 
