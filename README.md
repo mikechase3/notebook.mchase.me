@@ -1,11 +1,18 @@
 # Mike Chase's Research
 
-Everything is categorized into:
+## Rules
 
-1. Career
-2. Maintenance
-3. Leisure
-4. Relations
+1. Split into broad subsections/groups:
+   1. Career
+   2. Maintenance
+   3. Leisure
+   4. Relations
+
+
+
+### Ideas
+
+1. What if I had a 'drafts' page & moved things here when I'm done for completed projects instead of this inbox that I never clean up here?
 
 ## Platforms/Socials
 
@@ -17,7 +24,6 @@ Everything is categorized into:
 * Studies App (Internal)
 * [Stack Overflow](https://stackoverflow.com/users/4777844/mike-chase)
 
-
 ## Active Projects
 
 * [Hands On Machine Learning w/ Scikit-learn, Keras, TensorFlow](career/compsci-and-development/ai/courses/hands-on-ml.md)
@@ -26,9 +32,11 @@ Everything is categorized into:
 * RUFF python package for linting.
 
 ## Workflows/Toolchain
+
 Oh shoot - they depreciated it :(((((
 
 Testing/ignore:
+
 ```uml
 @startuml
 class Triangle {
@@ -71,15 +79,16 @@ stop
 @enduml
 ```
 
-
 1. Scrapwork
-  * Kindle Scribe
-  * OneNote
-  * A picture
-  * iThoughts File
-  * A file in `Inbox`
+
+* Kindle Scribe
+* OneNote
+* A picture
+* iThoughts File
+* A file in `Inbox`
+
 2. Google Drive Projects Folder OR Repository
-3. Notebook OR 
+3. Notebook OR
 
 ## Legal
 
