@@ -10,19 +10,55 @@
 
 
 
-### Ideas
+## Experiments
+
+#### For File Organization
+
+Keep Files Organized
+
+```markdown
+for any new project:
+    while not-useful:
+        if isFile:
+            
+        pass  # keep on the original platform
+        
+
+placeInInbox(newFile)
+```
+
+
+
+1. Scrapework can start on any platform until it's useful.
+2. Then,&#x20;
+3. GDrive -> Projects for active projects
+4. 025 -> "Archive"
+5. On mchase.synology.me/192.168.1.200 (SMB, SFTP, SSH) for the real archives.
+
+
 
 1. What if I had a 'drafts' page & moved things here when I'm done for completed projects instead of this inbox that I never clean up here?
 
-## Platforms/Socials
+## Primary Keys
 
 * [Github](https://github.com/mikechase3)
 * [Gitlab](https://gitlab.com/MikeChase)
-* [GoogleDevs](https://g.dev/MikeChase)
 * [LinkedIn](https://www.linkedin.com/in/michaelgchase/)
 * [Quizlet](https://quizlet.com/mikechase3/folders)
-* Studies App (Internal)
 * [Stack Overflow](https://stackoverflow.com/users/4777844/mike-chase)
+* [Website](https://www.mchase.me/) (Pretty empty)
+
+<details>
+
+<summary>Old/Outdated Platforms</summary>
+
+* [Codesignal](https://codesignal.com/learn/profile/cm6yfuanc00076s9vq5wgw03b)
+* [GoogleDevs](https://g.dev/MikeChase)
+* Studies App (Internal)
+* [Youtube ](https://www.youtube.com/@MacCh33se)(protectmikechase)
+* [Youtube ](https://www.youtube.com/@MikeChaseJr)(mikechasejr)
+
+</details>
 
 ## Active Projects
 
@@ -33,54 +69,7 @@
 
 ## Workflows/Toolchain
 
-Oh shoot - they depreciated it :(((((
-
-Testing/ignore:
-
-```uml
-@startuml
-class Triangle {
-  +v_idx[] : int[3]
-  +c[] : Color[3]
-}
-@enduml
-
-@startuml
-class Color {
-  +channel[] : float[3] 
-}
-@enduml
-```
-
-```uml
-@startuml
-start
-
-:Anything;
-note right
-  Example Note and can contain <b>HTML</b>
-  ====
-  * Or Markdown works
-  * As an example
-end  note
-if (junk?) then (yes)
-  :delete it;
-  stop
-elseif (isPhoto) then (yes)
-  :keep on camera;
-  :sync with collections/photos;
-  :delete photos on camera;
-  stop
-else (nothing)
-  :Text else;
-endif
-stop
-
-@enduml
-```
-
-1. Scrapwork
-
+* Scrapwork
 * Kindle Scribe
 * OneNote
 * A picture
