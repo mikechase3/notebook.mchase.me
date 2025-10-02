@@ -7,6 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.9 (notebook.mchase.me)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Machine-Learning-Data-Science-and-Generative-AI-with-Python" />
+    <orderEntry type="module" module-name="thoughts" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />

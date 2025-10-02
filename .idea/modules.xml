@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$USER_HOME$/Dropbox/Active/Projects/MLAI-Training/Machine-Learning-Data-Science-and-Generative-AI-with-Python/.idea/Machine-Learning-Data-Science-and-Generative-AI-with-Python.iml" filepath="$USER_HOME$/Dropbox/Active/Projects/MLAI-Training/Machine-Learning-Data-Science-and-Generative-AI-with-Python/.idea/Machine-Learning-Data-Science-and-Generative-AI-with-Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/notebook-mchase-me.iml" filepath="$PROJECT_DIR$/.idea/notebook-mchase-me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thoughts/.idea/thoughts.iml" filepath="$PROJECT_DIR$/../thoughts/.idea/thoughts.iml" />
     </modules>
   </component>
 </project>
