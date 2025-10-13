@@ -579,6 +579,8 @@
     * [SSL & HTTPS Getting Started](https://support.google.com/domains/answer/7630973?authuser=2\&authuser=2\&hl=en\&visit_id=637978991464117998-3893459780\&rd=1#zippy=%2Cget-an-ssltls-certificate-from-a-certificate-authority-ca)
     * [Wisdom from the trees (Design Systems)](career/compsci-and-development/web-apps/wisdom-from-the-trees-design-systems.md)
 * [Communication (Written, Oral, Biz)](career/communication/README.md)
+  * [Communication Tools & Technologies](career/communication/communication-tools-and-technologies/README.md)
+    * [Enable Google Chats](career/communication/communication-tools-and-technologies/enable-google-chats.md)
   * [DEARMAN Difficult Conversations](career/communication/dearman-difficult-conversations.md)
   * [Journalism](career/communication/journalism/README.md)
     * [Propaganda](career/communication/journalism/propaganda/README.md)

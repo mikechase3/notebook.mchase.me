@@ -10,34 +10,7 @@
 
 
 
-## Experiments
 
-#### For File Organization
-
-Keep Files Organized
-
-```markdown
-for any new project:
-    while not-useful:
-        if isFile:
-            
-        pass  # keep on the original platform
-        
-
-placeInInbox(newFile)
-```
-
-
-
-1. Scrapework can start on any platform until it's useful.
-2. Then,&#x20;
-3. GDrive -> Projects for active projects
-4. 025 -> "Archive"
-5. On mchase.synology.me/192.168.1.200 (SMB, SFTP, SSH) for the real archives.
-
-
-
-1. What if I had a 'drafts' page & moved things here when I'm done for completed projects instead of this inbox that I never clean up here?
 
 ## Primary Keys
 
