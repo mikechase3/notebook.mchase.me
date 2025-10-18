@@ -198,7 +198,7 @@
       * [SQLZoo](https://sqlzoo.net/)
     * [University Coursework](career/compscidev/databases/university-coursework.md)
   * [Domain Administration](career/compsci-and-development/domain-administration/README.md)
-    * [How To Setup Gmail as Mail Server](career/compsci-and-development/domain-administration/how-to-setup-gmail-as-mail-server.md)
+    * [How To Setup iCloud Mail Server Settings for Custom Domains](career/compsci-and-development/domain-administration/how-to-setup-icloud-mail-server-settings-for-custom-domains.md)
     * [WhatsMyDNS CheckPropogation](https://www.whatsmydns.net/#TXT/dam-it.tech)
   * [Data Structures, Algorithms, Analysis](career/compscidev/data-structures-and-algorithms/README.md)
     * [Alg Design Kleinberg Tardos](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
