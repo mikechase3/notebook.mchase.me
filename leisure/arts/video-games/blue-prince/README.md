@@ -125,7 +125,7 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Bedroom (Master)
 
@@ -137,7 +137,7 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 * Note for Herb
 *
 
-    <figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
     * The controls for the foundation elevator are located behind the foundation wall. Controls can only be accessed by another room adjacent to the foundation. Unclear if this is a security meaure or a flaw...
 * In typewriter: "Simon, I never intended to finish this letter but by now you must know th-"
@@ -160,9 +160,9 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 "Core" symbols have certain colors...
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -183,7 +183,7 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 Correct sequence of the power thing is:
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@ Correct sequence of the power thing is:
 
 There's some sort-of puzzle here. I solved it by lining up the four yellow corners.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Library
 
@@ -332,17 +332,17 @@ Safe Combination?:
 * Violet: bedroom.
 * Orange: hallway.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-.
-
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+
+
 .
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
@@ -463,7 +463,7 @@ Revealed in the office terminal is an email telling you the states that each lig
 
 * Newspaper dated November 5th.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -575,7 +575,7 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 
 ### Caleb Manning&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="208"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="208"><figcaption></figcaption></figure>
 
 * Friend/mentor of Marigold who was also arrested.
 
@@ -589,7 +589,7 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 
 Much of Marygold's information is found in the archive newspaper binder.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Wrote "Swim Bird" book.
 * Also wrote "The Red Prince." Based on her son & his inflexible love of the color red. Could've been a critique of the red royalist party.
