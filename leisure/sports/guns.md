@@ -8,7 +8,15 @@ Need something for hiking.
 
 Likes HK a lot.
 
+## Taurus Judge (A Bad Recommendation)
 
+Apparently, there's a gun that can kill bears (as it shoots shotgun shells), but is [otherwise mediocre](https://www.reddit.com/r/Firearms/comments/1bxm841/what_are_your_thoughts_on_the_taurus_judge/). This was recommended to me as it could probably kill bears; however, some preliminary research on Googe says it's woefully inadequate for this purpose as:
+
+1. Ammunition is not powerful enough. .410 shotgun shells are weak & don't have energy to penetrade a bear's thick hide and heavy bone to reach vital organs.
+2. A .410 slug has low power coming from a pistol, less than a .45 Colt ammunition & won't penetrate on large/tough animals.
+3. .45 colt ammos are supported w/ this gun, but too weak. You could get +P, high-pressure, bear loads but the Taurus Judge is not typically rated to handle htis.&#x20;
+
+The real problem is a bear's stopping power.&#x20;
 
 ## Laws & All (JUL 2024)
 
