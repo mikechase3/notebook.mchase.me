@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Inbox](inbox.md)
+* [Project Backlog](inbox/README.md)
+  * [File Organization](inbox/file-organization.md)
 
 ## Career
 
@@ -920,12 +921,12 @@
 ## Leisure
 
 * [Arts](leisure/arts/README.md)
-  * [Music Collection](leisure/arts/performance/README.md)
+  * [Music Collection](career/music/performance/README.md)
     * [Clowncore NSFW](https://www.bitchute.com/video/GTOe7ewclPkR/)
-    * [Labrynth/Sia - LSD](leisure/arts/performance/lsd.md)
+    * [Labrynth/Sia - LSD](career/music/performance/lsd.md)
     * [IGORRR - ADHD](leisure/arts/performance/igorrr-adhd.md)
-    * [Portrait of Tracy](leisure/arts/performance/inspiration.md)
-    * [Severance Work Playlist](leisure/arts/performance/noteworthy-music.md)
+    * [Portrait of Tracy](career/music/performance/inspiration.md)
+    * [Severance Work Playlist](career/music/performance/noteworthy-music.md)
   * [film-and-tv](leisure/arts/film/README.md)
     * [Anecdotal Reviews](leisure/arts/film/reports/README.md)
       * [Harley Quinn](leisure/arts/film/reports/harley-quinn.md)

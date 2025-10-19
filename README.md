@@ -1,17 +1,5 @@
 # Mike Chase's Research
 
-## Rules
-
-1. Split into broad subsections/groups:
-   1. Career
-   2. Maintenance
-   3. Leisure
-   4. Relations
-
-
-
-
-
 ## Primary Keys
 
 * [Github](https://github.com/mikechase3)

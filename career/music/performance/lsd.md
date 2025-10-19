@@ -1,4 +1,4 @@
-# LSD
+# Labrynth/Sia - LSD
 
 ## LSD (Labrynth/Sia/Diplo)
 
@@ -12,7 +12,7 @@ Perhaps my favorite part of the album is that I'm rarely bored. Like any album, 
 
 The album isn't too serious about love and it's titled LSD, but if I used drugs and were living that lifestyle I'd imagine this is awfully relevant. I don't do drugs but went to college & know some people who do and I so, and this album is so fast-paced and amazing that it would make drug-users like it (though maybe I'm overestimating their comprehension & few others analyze songs like an engineer. I'll probably find/make a lead sheet for one or two songs down the road & try to study/reproduce it for the sake of learning one day.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/IMG_1306.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_1306.jpeg" alt=""><figcaption></figcaption></figure>
 
 The other part is it's so rhythmically interesting. In the song `Genius`, the meter is in 4/4, but it could be 12/8 or 12/4 because Sia sings over it sometimes in triplets.
 
