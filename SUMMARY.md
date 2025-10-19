@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Inbox](inbox/README.md)
-  * [Akhil M](inbox/akhil-m.md)
+* [Inbox](inbox.md)
 
 ## Career
 
@@ -886,6 +885,8 @@
   * [Seven Deadly Sins (Evil Thoughts)](career/philosophies-of-businesses/seven-deadly-sins-evil-thoughts.md)
   * [Speed of Trust](https://www.speedoftrust.com/)
   * [Why Meh Matters- Spotting & Shifting Languishing at Work](career/philosophies-of-businesses/why-meh-matters-spotting-and-shifting-languishing-at-work.md)
+* [Research](career/research/README.md)
+  * [Human Factors](career/research/akhil-m.md)
 * [Risk Management](career/risk-management.md)
 * [Social Sciences](career/social-sciences/README.md)
   * [Anthropology](career/social-sciences/anthropology/README.md)
