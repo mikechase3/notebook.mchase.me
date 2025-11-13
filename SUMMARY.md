@@ -2,6 +2,7 @@
 
 * [Mike Chase's Research](README.md)
 * [Project Backlog](inbox/README.md)
+  * [Catherine On Supervillians and Databases](inbox/catherine-on-supervillians-and-databases.md)
   * [File Organization](inbox/file-organization.md)
 
 ## Career
