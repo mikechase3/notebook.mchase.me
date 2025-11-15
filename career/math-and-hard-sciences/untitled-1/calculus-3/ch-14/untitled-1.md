@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![Calc 1 Chain Rule](<../../../../../.gitbook/assets/image (379) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (2).png>)
+![Calc 1 Chain Rule](<../../../../../.gitbook/assets/image (379) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1).png>)
 
 * In calc 1, we learned the Chain Rule
 * Now, we're going to learn the chain rule with multiple values
@@ -11,11 +11,11 @@
 
 ### The Dependency Diagram
 
-![](<../../../../../.gitbook/assets/image (379) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (5).png>)
+![](<../../../../../.gitbook/assets/image (379) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1).png>)
 
 ## Functions of 2 Variables
 
-![](<../../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (1) (5).png>)
+![](<../../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (1) (1).png>)
 
 ## Theorem 6
 
@@ -23,9 +23,9 @@
 No idea what this is
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (1) (3).png>)
+![](<../../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (1) (1).png>)
 
-![](<../../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (1) (4).png>)
+![](<../../../../../.gitbook/assets/image (377) (6) (6) (1) (1) (1) (1).png>)
 
 ### Note on Exercises
 

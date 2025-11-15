@@ -8,11 +8,11 @@ First, make an enum.
 
 <figure><img src="../../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Second, assign teams.&#x20;
+Second, assign teams.
 
 <figure><img src="../../../../.gitbook/assets/2024-07-03_10-20.jpg" alt=""><figcaption></figcaption></figure>
 
-The Game Mode has a function `GetGameState()` which contains the `PlayerArray` of all player's `Player State` references in an array. Zero is the server, and if you add another one it gets `1` and `2` and so on. To add more, you can allegedly just set it to `-1` and UE will append it to the end of `PlayerArray`.&#x20;
+The Game Mode has a function `GetGameState()` which contains the `PlayerArray` of all player's `Player State` references in an array. Zero is the server, and if you add another one it gets `1` and `2` and so on. To add more, you can allegedly just set it to `-1` and UE will append it to the end of `PlayerArray`.
 
 ## Debugging
 
@@ -30,9 +30,7 @@ In the `BP_FirstPersonCharacter` Blueprint, I have a macro called `getPlayerStat
 
 It's successfully set in the game mode. The Hellos don't fire off.
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (747) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Steps to Reproduce
 
@@ -43,7 +41,7 @@ It's successfully set in the game mode. The Hellos don't fire off.
 
 <figure><img src="../../../../.gitbook/assets/image (750).png" alt=""><figcaption></figcaption></figure>
 
-### Expected Behavior&#x20;
+### Expected Behavior
 
 The `getPlayerState` macro should successfully cast the `PlayerState` reference to `BP_MyPlayerState` and output the casted reference.
 
@@ -75,7 +73,7 @@ Troubleshooting Steps:
   * Didn't work; can't add delay nodes in construction scripts.
 * **Print Player State Class:** Add a print statement (or log message) to display the actual class of the `PlayerState` object before attempting the cast. This will help verify if it's the correct type.
   * Tried this, but output was empty & didn't show the type.
-  * I got excited that the warning went away, but I didn't have anything after the print string.&#x20;
+  * I got excited that the warning went away, but I didn't have anything after the print string.
 
 <figure><img src="../../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -83,9 +81,7 @@ Troubleshooting Steps:
 
 <figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macro.&#x20;
-
-
+Turns out I put the `Debug.BP_FPC Invalid` error within my `GetPlayerState` macro.
 
 ## Debug Solution
 
@@ -93,7 +89,7 @@ First, we **removed the construction script pin** and deleted the macro moving t
 
 <figure><img src="../../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
-We set the team inside an event (within  `BP_FirstPersonCharacter` )
+We set the team inside an event (within `BP_FirstPersonCharacter` )
 
 <figure><img src="../../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -103,9 +99,7 @@ To debug & get the name, we pulled off of `Event Possessed` now because it wasn'
 
 And I learned about a few new functions within the Game Mode
 
-<figure><img src="../../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (3) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Initial Design
 
@@ -114,4 +108,3 @@ And I learned about a few new functions within the Game Mode
 ## Output Log Tags
 
 You can perform output log tagging by appending `Warning` or `Error` to a print string.
-

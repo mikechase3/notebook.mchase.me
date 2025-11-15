@@ -9,7 +9,7 @@
 * Introduct/understand theory of cyber security
 * Provide practical experience in hardening a system to achieve resilience against cyber attacks.
 
-![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../../../.gitbook/assets/image (553).png>)
+![Subtopics. Source: Dr. Buckley's Fundamentals of Cyber Security](<../../../../.gitbook/assets/image (552) (1).png>)
 
 ### Fundamental Topics
 

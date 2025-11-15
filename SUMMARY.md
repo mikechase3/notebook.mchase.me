@@ -692,7 +692,7 @@
   * [Skill Acquisition](career/education/skill-acquisition.md)
   * [Teaching Code](career/education/teaching-code/README.md)
     * [Feedback on TurtleToy](career/education/teaching-code/feedback.md)
-    * [Microsoft MakeCode](career/education/teaching-code/microsoft-makecode.md)
+    *
     * [Python Resources](career/education/teaching-code/resources.md)
     * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
     * [Tips for Kids](career/education/teaching-code/tips-for-kids.md)

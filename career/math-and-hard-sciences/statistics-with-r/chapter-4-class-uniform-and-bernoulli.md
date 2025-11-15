@@ -72,7 +72,7 @@ Re-write. Missing notes from this.
 
 ### Ex: German Tank Problem
 
-![](<../../../.gitbook/assets/CleanShot 2022-02-23 at 16.23.58@2x (1) (1) (1) (2).jpg>)
+![](<../../../.gitbook/assets/CleanShot 2022-02-23 at 16.23.58@2x (1) (1) (1) (1).jpg>)
 
 ## Exponential Distribution
 

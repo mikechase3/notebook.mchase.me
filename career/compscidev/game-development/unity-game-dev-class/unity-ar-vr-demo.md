@@ -12,11 +12,9 @@ Go into your target manager.
 
 ## Back to Unity
 
-On their website, download the Unity package.&#x20;
+On their website, download the Unity package.
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 **License Key Setup:** Put your license key here. Note that your image won't be imported yet; I went back to show where this field was after completing this part.
 
@@ -28,17 +26,9 @@ Once your assets are on the cloud somewhere, those devs will give you a download
 
 <figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 <figure><img src="../../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 Then, nest the sphere under that…
 
@@ -46,11 +36,9 @@ Then, nest the sphere under that…
 
 ### AR Camera Setup
 
-Just place the camera there & disable the Main Camera by checking it.&#x20;
+Just place the camera there & disable the Main Camera by checking it.
 
 <figure><img src="../../../../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -65,9 +53,7 @@ Just place the camera there & disable the Main Camera by checking it.&#x20;
 * We applied the stylized lava PBR texture onto the walls.
 * The Stone monster is a nice slightly goofy monster. We replaced the sphere with this asset and animation.
 
-<figure><img src="../../../../.gitbook/assets/CleanShot 2024-04-09 at 10.35.08@2x.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (707) (1).png" alt=""><figcaption></figcaption></figure>
 
 \==
 

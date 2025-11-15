@@ -190,7 +190,7 @@ What is the iterator? Line 20? What is it iterating through? is v's neighbor set
 
 Directed graphs store the outgoing edges in their adjacency list.
 
-![](<../../../../.gitbook/assets/image (79) (1).png>)
+![](<../../../../.gitbook/assets/image (68) (1).png>)
 
 ### Directed Graphs API
 

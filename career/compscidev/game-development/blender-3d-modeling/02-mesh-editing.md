@@ -47,7 +47,7 @@ To fix the rough silhouette, you'll use the `subdivision surface` tool. This is 
 
 #### Edit Mode #`1`
 
-![You can control the proportion between each vertex. Default is smooth.](<../../../../.gitbook/assets/image (645) (1) (3).png>)
+![You can control the proportion between each vertex. Default is smooth.](<../../../../.gitbook/assets/image (645) (1) (2).png>)
 
 * To edit the influence radius, hold the left mouse button down while performing the transform operation and scroll up/down on the mouse.
 

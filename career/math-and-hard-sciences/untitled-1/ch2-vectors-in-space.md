@@ -6,7 +6,7 @@
 
 ## Formulas
 
-![](<../../../.gitbook/assets/image (480).png>)
+![](<../../../.gitbook/assets/image (479) (1).png>)
 
 ## Key Concepts
 
