@@ -565,6 +565,7 @@
       * [Purging Git History](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
       * [Write Git](https://wyag.thb.lt)
     * [Gitlab](career/compsci-and-development/version-control/gitlab/README.md)
+      * [curl howto](https://curl.se/docs/tutorial.html)
       * [GitLab CICD Pipeline](career/compsci-and-development/version-control/gitlab/gitlab-cicd-pipeline.md)
       * [glab cli docs](career/compsci-and-development/version-control/gitlab/glab-cli-docs.md)
   * [Web App Development](career/compscidev/web-apps/README.md)
