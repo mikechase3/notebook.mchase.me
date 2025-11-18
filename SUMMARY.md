@@ -668,6 +668,7 @@
   * [DAF 365 Hub/Help](https://usaf.dps.mil/sites/The-Hub)
   * [Dayton2DC](career/dod/dayton2dc.md)
   * [Ethical Dilemmas](career/dod/ethical-dilemmas/README.md)
+    * [Joint Staff Annual Ethics Training](career/dod/ethical-dilemmas/joint-staff-annual-ethics-training.md)
     * [Political Activity](career/dod/ethical-dilemmas/political-activity.md)
   * [GTC Training](career/dod/gtc-training.md)
   * [Identity Auth for Info Systems 8520.33](career/dod/dod-instruction.md)
