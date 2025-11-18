@@ -61,11 +61,11 @@ It's easier to read about it elsewhere, but here's my notes:
 
 <figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Scripting
 
-This is a first-pass of me reading the provided scripts.&#x20;
+This is a first-pass of me reading the provided scripts.
 
 ### Booster Script
 
@@ -107,7 +107,7 @@ Essentially, this script applies a nudge to help maintain the speed of GameObjec
 
 <details>
 
-<summary>Jibber Jabber </summary>
+<summary>Jibber Jabber</summary>
 
 When a game object collides with a trigger box, you can use the `OnTriggerStay (Collider other)` to run custom code through that function because it inherits Monobehaviour. Because we have a reference to that object, we can grab it's rigidbody. Rigidbodies give them mass such that they react to the laws of physics and we can assign them a mass. Because they have mass, we can make them react to other game objects which have mass because they are rigid bodies. The `Booster.cs` shares the game object with the trigger box, so we'll grab it and change it's speed by applying "forward".
 
@@ -118,19 +118,17 @@ Forward by my rough definition on the x-z axis. I should lookup what's the prope
 otherRigidbody.AddForce(forceMagnitude * other.gameObject.transform.forward);
 ```
 
-And once again I forgot how to print stuff to the console so I'll save this for when it's an actual problem & come back to it. I believe it'll be forward on the x-z plane of whatever we define to be the front (which is the front of the roller coaster). Just use common sense in orienting things.&#x20;
+And once again I forgot how to print stuff to the console so I'll save this for when it's an actual problem & come back to it. I believe it'll be forward on the x-z plane of whatever we define to be the front (which is the front of the roller coaster). Just use common sense in orienting things.
 
-First, the forceMagnitude variable holds however much force is applied to that other game object's rigidbody. I wonder - is there a convention for books? Am I referring to the class? Like... yeah, but really an instance of a game object defined by the class. Interesting conundrum for a fellow commenter. `miniumSpeed` is just a float. You can put a sound clip in here too, that's nice.&#x20;
+First, the forceMagnitude variable holds however much force is applied to that other game object's rigidbody. I wonder - is there a convention for books? Am I referring to the class? Like... yeah, but really an instance of a game object defined by the class. Interesting conundrum for a fellow commenter. `miniumSpeed` is just a float. You can put a sound clip in here too, that's nice.
 
 When we start the script, it'll add an audio component to itself & set the sound to play continuously in a loop until `OnTriggerExit());`
 
 </details>
 
-
-
 ### Spline Follow Script
 
-Engine is the only game object in the provided scene that uses the game object. The engine spawns the car mesh and somehow glides it along the spline.&#x20;
+Engine is the only game object in the provided scene that uses the game object. The engine spawns the car mesh and somehow glides it along the spline.
 
 Recall that an engine has the following **components**: rigidbody, box collider, audio files, booster script, and this spline follow script. We'd expect this to be in the beginning as a puiblic/serializable field and there's almost too many to keep track of holy moly:
 
@@ -158,13 +156,11 @@ The `Start()` method gets the rigidbody component of itself which is the car. Up
 
 ### Spline Transform Notes
 
-We're going to apply a 200x200 offset in the x/z axis to keep the track on the terrain at 0,0 without having to re-draw the beginning of the spline.&#x20;
+We're going to apply a 200x200 offset in the x/z axis to keep the track on the terrain at 0,0 without having to re-draw the beginning of the spline.
 
 <figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-10 at 01.07.48@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Building the Track
-
-
 
 I started by using a top-view and drawing the different points & stopped after a few after noticng that I wasn't reaching the top. I figured there might be a little friction, but I'm only reaching halfway up the other spline:
 
@@ -192,7 +188,7 @@ First, take a cube. I scaled mine to look like an `H` like so:
 
 <figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-11 at 17.15.10.png" alt=""><figcaption></figcaption></figure>
 
-Next, I modified the script to include this to make the track follow the spline.&#x20;
+Next, I modified the script to include this to make the track follow the spline.
 
 ```csharp
 [SerializedField] prefa;
@@ -259,8 +255,6 @@ And for the function:
     }
     
 ```
-
-
 
 <figure><img src="../../../../.gitbook/assets/CleanShot 2024-03-12 at 10.22.21@2x.png" alt=""><figcaption></figcaption></figure>
 

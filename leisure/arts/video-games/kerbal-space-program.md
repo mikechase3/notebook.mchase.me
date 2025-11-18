@@ -1,6 +1,6 @@
 # Kerbal Space Program
 
-I'm learning this to learn the essentials about aerodynamics because I am learning aestrodynamics for reasons. This is a good educational game that rewards you for understanding physics in aestrodynamics.&#x20;
+I'm learning this to learn the essentials about aerodynamics because I am learning aestrodynamics for reasons. This is a good educational game that rewards you for understanding physics in aestrodynamics.
 
 ## Recommended Resources
 
@@ -16,9 +16,9 @@ First, the center of mass needs to be ahead of the center of pressure/thust/lift
 
 {% embed url="https://www.youtube.com/watch?v=yzWtqejYXmQ" %}
 
-Generally, keeping the mass/forces centered & symmetric is good.&#x20;
+Generally, keeping the mass/forces centered & symmetric is good.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Control
 

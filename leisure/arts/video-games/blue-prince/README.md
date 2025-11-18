@@ -8,7 +8,7 @@ description: Miscellaneous notes while I play. CONTAINS SPOILERS
 
 * It's a maze that you 'generate' as you go.
 * The premise is someone left their nephew (me), an estate to explore.
-* It's a puzzle game where you must find the 46th room.&#x20;
+* It's a puzzle game where you must find the 46th room.
 * An opening letter is odd. There are some odd "rules"
 
 <div><figure><img src="../../../../.gitbook/assets/image (783).png" alt="" width="343"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2025-07-07 194937.png" alt="" width="350"><figcaption></figcaption></figure></div>
@@ -27,8 +27,6 @@ OUTSIDE:
 
 ## First Day
 
-
-
 * Bedroom: woman picture, down arrow art, locked trunk.
 * Nook: key.
 * HALL: found a staff notice. June 15 1983. Told not to draft floor plans associated with the wing.
@@ -43,18 +41,18 @@ OUTSIDE:
     * Twins: 2 trunks added to enterance hall
     * Slice: +3 steps
     * Diamondus Minor: +1 Gem. Four points.
-    * Southern Cross: improves  rooms with four doors. Forms a `+`.&#x20;
+    * Southern Cross: improves rooms with four doors. Forms a `+`.
     * Farmer's Apple: ? Looks liuke an apple.
     * Clavis the key: +1 key. Looks like a key.
     * Diamondus Major +5 gems. Big diaBmond.
     * Draxus, the dead: dead end rooms are more common. Looks like a smily face.
-    * The Sail: two sails on a boat.&#x20;
-    * Florealis, bloom of the sky: green rooms are more likely to contain special 'flowers' today. Stars are aligned symmetrically around five "inner" stars forming flower pedals around those five.&#x20;
-    * Pages 1, 2, 3, 4, 5, 7, 8, 11, 12, 15, 20,&#x20;
+    * The Sail: two sails on a boat.
+    * Florealis, bloom of the sky: green rooms are more likely to contain special 'flowers' today. Stars are aligned symmetrically around five "inner" stars forming flower pedals around those five.
+    * Pages 1, 2, 3, 4, 5, 7, 8, 11, 12, 15, 20,
   * Chess piece
 * PARLOR
-  * Wind-up key; "a component of the parlor game".&#x20;
-  * Letter from Mr. Lowryt -> Herbert: 5/2/??:&#x20;
+  * Wind-up key; "a component of the parlor game".
+  * Letter from Mr. Lowryt -> Herbert: 5/2/??:
 * HALWAY: west wing doors are more likely to be locked.
 * SECURITY: S
   * Mrs. Babbage "House Manager"
@@ -63,7 +61,7 @@ OUTSIDE:
   * RULE: keycard access is required in higher ranked rooms. Normal doors are more likely to be locked as you move north.
   * BLUE: true memos.
   * RED MEMOS are lies, unless they are handwritten.
-  * Password potentially is:&#x20;
+  * Password potentially is:
 
 <figure><img src="../../../../.gitbook/assets/image (790).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +74,7 @@ OUTSIDE:
   * HS requests ladyship print... enlarged of enclosed.
 * MEETING ROOM
   * After meetings ajurn, all notes are placed in office safes
-  * LIE: safe code is 9083.&#x20;
+  * LIE: safe code is 9083.
 * Boudoir
   * Safe is hidden inside of red gift wrap.
 * MAILROOM
@@ -84,13 +82,7 @@ OUTSIDE:
 
 <figure><img src="../../../../.gitbook/assets/image (792).png" alt="" width="139"><figcaption></figcaption></figure>
 
-
-
-
-
 <figure><img src="../../../../.gitbook/assets/image (793).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## By Rooms
 
@@ -112,7 +104,7 @@ Lots of information here.
 * **Aug 22 '85:** Marigold wins award for _Swim Bird_ novel for children. Second time winning the award. Neise of Baron H.S. Sinclair.
 * See [#marion-marigold-aka-mary-matthew-jones](./#marion-marigold-aka-mary-matthew-jones "mention") for more info on articlea bout her. She's the point of interest.
 * Also covered is theives breaking into the royal capital of Fenn Aries & broke into the crown's closed exhibits.
-  * Museum authorities says there were several masked intruders. Broke south wall w/ firewarms.&#x20;
+  * Museum authorities says there were several masked intruders. Broke south wall w/ firewarms.
   * Theft was politically motivated? Maybe the **RLCF** or children of black water?
 
 ### Attic
@@ -125,24 +117,27 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Bedroom (Master)
 
 * Contains a "Mora Jai Box" - fun for the family. A mechanical puzzle & lockbox. Also found in the trader's post. I received an allowance token labeled _Do not make allowances II_ interestingly enough.
 * Marygold wrote in the cover:
   * To my encouraging uncle who opened many doors foe me.
-  * "PS: they made me change the ending of course as you predicted".&#x20;
+  * "PS: they made me change the ending of course as you predicted".
     * Means I'm a 'red prince', but marigold knows I'm the blue prince.
 * Note for Herb
 *
 
-    <figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+```
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+```
 
-    * The controls for the foundation elevator are located behind the foundation wall. Controls can only be accessed by another room adjacent to the foundation. Unclear if this is a security meaure or a flaw...
+```
+* The controls for the foundation elevator are located behind the foundation wall. Controls can only be accessed by another room adjacent to the foundation. Unclear if this is a security meaure or a flaw...
+```
+
 * In typewriter: "Simon, I never intended to finish this letter but by now you must know th-"
-
-
 
 ### Bedroom - Servant's Quarters
 
@@ -160,9 +155,9 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 "Core" symbols have certain colors...
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -183,13 +178,9 @@ A letter to Ms. Marigold discusses the material is not goood fit with Ruffington
 
 Correct sequence of the power thing is:
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### The Shrine
 
@@ -200,25 +191,23 @@ Correct sequence of the power thing is:
 
 There's some sort-of puzzle here. I solved it by lining up the four yellow corners.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Library
 
-#### **A Sightseer's Guide to Reddington**: modest account of our town by Sir Andrew Darle.&#x20;
+#### **A Sightseer's Guide to Reddington**: modest account of our town by Sir Andrew Darle.
 
 <div><figure><img src="../../../../.gitbook/assets/image (794).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (795).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-
 
 Useful Facts?:
 
 * Mountains, mystery, magic.
-* Featherhall Keep&#x20;
+* Featherhall Keep
   * Former home of Lord William Epsten made it?
-  * Lord Epsten was his oldest son & died. Daughter stayed until marriage in 1951. Then historic house/attraction in 1972.&#x20;
+  * Lord Epsten was his oldest son & died. Daughter stayed until marriage in 1951. Then historic house/attraction in 1972.
   * Believed it was built by the first king of Orinda Aries.
 * Trinsdale Lake
-  * For rich people, traveled to by royalty.&#x20;
+  * For rich people, traveled to by royalty.
 * Mount Holly (Where I'm at)
   * Highest peak.
   * Few hours from reddington.
@@ -232,7 +221,7 @@ Useful Facts?:
 * Borrowed by Herbert S Sinclair, Mary Jones, Det. B on Margle, and me, Simon P Jones.
 * Material has been removed if it's "inaccurate or unsuitable" & very heavily redacted.
 * Foreward: redacted
-* Ajera: beginning is Ajera time. King Oris (not his real name) and was a merchant lord before king. Oris _expansion_ was goal.&#x20;
+* Ajera: beginning is Ajera time. King Oris (not his real name) and was a merchant lord before king. Oris _expansion_ was goal.
 * Second Era: fourt king split domain to 3 shares for his children. Fields/mountains for the eldest. **Arch Aries** was bestowed to youngest, land of northern storms. Middle child got southern region of **eraja**
 * Third Era: More divided but trade united them.
 * **FOURTH ERA:** King Desilets III drinking & left.
@@ -249,8 +238,6 @@ Useful Facts?:
 
 * It's for the pool system/spas.
 * Select a swater source using the WATER CONTROL PANEL . Then set pump to in/out.
-
-
 
 <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -270,20 +257,12 @@ Useful Facts?:
 
 #### Drafting Vol 3
 
-
-
 #### Drafting Vol 4
-
-
 
 ### Mount Holley Bomb Shelter
 
 * Measurement of radiation levels in Mt. Holly's lab can make radiation 12 uSv+ and all doors will unlock when this test is taken.
 * A time-unlock can be set for 1+ hrs in the future (so 1-2hrs)
-
-
-
-
 
 ### Pool Room
 
@@ -296,8 +275,6 @@ There's also a bluprint map with the letter 'E' which was also on a tombstone I 
 ### Boiler Room
 
 A puzzle. Boiler sends power to one of three locations connected how?
-
-
 
 ### Dark room
 
@@ -315,9 +292,7 @@ This one reads "Green memos found in Hartley's room are always false."
 
 * Drop off address: 14277 Sandy Heights. Small garage on south edge of trinsdale.
 * Goods are secured in a trunk.
-* Premediated death by car driver...  the sus one.
-
-
+* Premediated death by car driver... the sus one.
 
 ### Drafting Room
 
@@ -327,22 +302,18 @@ Safe Combination?:
 
 <figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 * Violet: bedroom.
 * Orange: hallway.
-
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-.
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+.
+
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
 
@@ -351,8 +322,6 @@ Safe Combination?:
 .
 
 <figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Commissary
 
@@ -380,10 +349,6 @@ Best of luck on the experiments and if you like I'll continue sending letters wi
 
 -Randolph
 
-
-
-
-
 ### Laboratory
 
 * Kimberly Thompson & R
@@ -399,13 +364,13 @@ There's a scientific machine requiring more power from the boiler room.
 ### Schoolhouse
 
 * Letter
-  * 38 years of schoolmaster in a tiny facility.&#x20;
+  * 38 years of schoolmaster in a tiny facility.
   * Lady Epstein fundraised.
   * Mrs. Peterson, future principle/succcessor.
-  * Baron Sinclair is the architect.&#x20;
+  * Baron Sinclair is the architect.
   * "Remember to give Mrs. Peterson her gift"
-  * Whoever wrote this is anticipating death.&#x20;
-* Contains one of the valves needed for the torch puzzled.&#x20;
+  * Whoever wrote this is anticipating death.
+* Contains one of the valves needed for the torch puzzled.
 
 ### Music Room
 
@@ -427,13 +392,9 @@ Sheet music is seven pages, but I only have four of them. Words in bold are:
 
 *
 
-
-
 ### Electrical Room
 
 Revealed in the office terminal is an email telling you the states that each light should be on. Once you put them in the right sequence, it unlocks a secondary room with a lever. Pulling that lever reveals a gemstone cavern.
-
-
 
 ### Gemstone Cavern
 
@@ -441,18 +402,6 @@ Revealed in the office terminal is an email telling you the states that each lig
 * Letter: there's one more cart locked on a short track and too difficult to move from the reservoir side. Blocking the passage & needs to be moved from the "other side". There are 2 other ways to get into the site from the blocked side.
 
 <figure><img src="../../../../.gitbook/assets/image (806).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Hovel
 
@@ -463,9 +412,7 @@ Revealed in the office terminal is an email telling you the states that each lig
 
 * Newspaper dated November 5th.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Routunda
 
@@ -478,7 +425,7 @@ Revealed in the office terminal is an email telling you the states that each lig
 The great Alzara
 
 * First pass: the hidden room is separated by a body of water?
-* Second:  with Alzara. Look into my future. Car broke down by ruined mannor/building? Decrepit, rundown, disrepair. Sees EIGHT red envelopes upon 8 pedistals. In them are 8 letters by 8 different hands. Numbered. Which only ever I shall find/read 7 of them.
+* Second: with Alzara. Look into my future. Car broke down by ruined mannor/building? Decrepit, rundown, disrepair. Sees EIGHT red envelopes upon 8 pedistals. In them are 8 letters by 8 different hands. Numbered. Which only ever I shall find/read 7 of them.
 
 #### Third Pass
 
@@ -488,21 +435,15 @@ The great Alzara
 
 #### Fourth Pass
 
-* Faintly in the midst, I see a figure. (King/sword). A statue cradeled in a courtyard of sentinel stone.&#x20;
+* Faintly in the midst, I see a figure. (King/sword). A statue cradeled in a courtyard of sentinel stone.
 * You will find yourself one day wandering these paths; walking in the footsteps of the path. Wandering and waiting.
-* Searching for a shadow that will never be cast. Longing for the day to end. The hours to pass.&#x20;
-
-
+* Searching for a shadow that will never be cast. Longing for the day to end. The hours to pass.
 
 ### Secret Garden
 
 * Spreads fruit throughout the house, which is a nice perk.
 * Accessible using the secret garden key on the east part.
 * Algning all the arrows reveals a secret lever for the antechamber.
-
-
-
-
 
 ### The Precipce
 
@@ -521,24 +462,18 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 
 <figure><img src="../../../../.gitbook/assets/image (808).png" alt="" width="188"><figcaption></figcaption></figure>
 
-
-
-
-
 #### Foreman's Copy - Realm & ? Sigils of the Past and Present by William R. Willard (1905)
 
 * Key words: _red (scratched out)_ banners, martial, fog.
-* There are "Realm Sigils" which are marks of designation found on royal artifacts, buildings, docs.&#x20;
+* There are "Realm Sigils" which are marks of designation found on royal artifacts, buildings, docs.
 * Each line, circle, variation tells a story of the land and borders have special meanings.,
 
 <figure><img src="../../../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
 
-* Cores are O-, F-, E-, Co-, Ar-.&#x20;
+* Cores are O-, F-, E-, Co-, Ar-.
 * Rays say things about ships or track based travel.
 
 <figure><img src="../../../../.gitbook/assets/image (810).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
 
@@ -556,10 +491,10 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 
 * Bridgette: the made. 5 apples. 5 bananas. 5 oranges. 4 coins?
 * Mrs. Babbage: lead maid?
-* Denny Revane: has a payment for murder ready? Someone questions if there was "proof" he stole the mail.&#x20;
+* Denny Revane: has a payment for murder ready? Someone questions if there was "proof" he stole the mail.
 * Christoph: keeps disappearing for long periods of time with the car.
 * Simon: in a bunker?
-* Herbert S Sinclair.&#x20;
+* Herbert S Sinclair.
   * High status.
   * My grandpa?
 * Simon P Jones
@@ -569,13 +504,13 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
   * I'm an heir to the "sprawling Synka empire"
 * Detective Bon Margle; redgard.
 * Randolph M
-  * Lab technician. Shows that the melting point of water btw 0.1ppt-0.5ppt.&#x20;
+  * Lab technician. Shows that the melting point of water btw 0.1ppt-0.5ppt.
 * Kimberly Thompson
   * Typically works at SYNKA labs (where the safe was made)
 
-### Caleb Manning&#x20;
+### Caleb Manning
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="208"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="208"><figcaption></figcaption></figure>
 
 * Friend/mentor of Marigold who was also arrested.
 
@@ -589,7 +524,7 @@ A letter from the foreman names Tomas Sinclair the current client in 1915. Someo
 
 Much of Marygold's information is found in the archive newspaper binder.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Wrote "Swim Bird" book.
 * Also wrote "The Red Prince." Based on her son & his inflexible love of the color red. Could've been a critique of the red royalist party.
@@ -597,7 +532,7 @@ Much of Marygold's information is found in the archive newspaper binder.
 * Presumptive heir of Mount Holley. Neice & closest living relative of Baron H.S. Sinclair
 * Presumed missing for six years.
 * Author of "A new clue" as well.
-* Detained by a red guard in Nov 11 '86 according to newspaper in archives. It's widely believed by authorities to be the work of the insurgent group **RLCF aka The Children of Black Water**. Ruffington Press was quick to dismiss rumors in a statement manitaining they were victims of unfortunate happenstance.&#x20;
+* Detained by a red guard in Nov 11 '86 according to newspaper in archives. It's widely believed by authorities to be the work of the insurgent group **RLCF aka The Children of Black Water**. Ruffington Press was quick to dismiss rumors in a statement manitaining they were victims of unfortunate happenstance.
 * Marigold then dropped publisher citing personal reasons on November 17th '86.
   * Third prominent writer to distance themselves from publisher along wth Caleb Manning who was also arrested
 * Then she disappeared. Last seen around 3:45 Friday on newspaper dated Feb 22 '87.
@@ -615,4 +550,3 @@ Much of Marygold's information is found in the archive newspaper binder.
 <figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
-

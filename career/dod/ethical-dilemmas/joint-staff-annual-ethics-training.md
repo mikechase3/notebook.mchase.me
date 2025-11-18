@@ -33,4 +33,11 @@ _The following general principles apply to every employee and may form the basis
 
 ***
 
-Basically the rest of this training are examples of how to get fired from the government by basically stealing money throughout various schemes like racking up hotel points and joining defense contractors to receive huge bonuses.&#x20;
+## POCs
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Answers to Missed Questions
+
+1. WAG or widely attended gatherings are exempt from the $20 gift limit.
+2. Retired E-6s can take positions with foreign governments with permission from a service secretary I think.
