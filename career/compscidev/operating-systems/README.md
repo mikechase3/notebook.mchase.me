@@ -27,9 +27,9 @@ Ranked in order of usefulness:
 
 #### Mindmap (Large)
 
-A more readable text version of the mindmap follows this relatively gigantic image.&#x20;
+A more readable text version of the mindmap follows this relatively gigantic image.
 
-<figure><img src="../../../old_computer-science/operating-systems/CPS 536 Operating Systems Mindmap DEC112023.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CPS 536 Operating Systems Mindmap DEC112023.png" alt=""><figcaption></figcaption></figure>
 
 ## Operating Systems Mind Map
 
@@ -485,9 +485,8 @@ Progress: 90%
   * DMA controller handles the movement freeing up the CPU to do other work.
   * Faster than PIO because CPU isn't involved.
 * A technique that uses special hardware to move data between the CPU & devices.
-* Example: to send a network packet using DMA, the CPU would:
-  *
-    1. Write a command to the network card's command register to start a transmission.
+* Example: to send a network packet using DMA, the CPU would: \*
+  1. Write a command to the network card's command register to start a transmission.
   *
     2. Configure the DMA controller with the information about the memory address and size of the buffer that holds the packet data.
     3. Drawback - many more cycles than a _memory store_
@@ -520,9 +519,8 @@ Progress: 90%
 
 **PIO (Programmable Input/Output)**
 
-* **Example: sending network packet using PIO**. To do this:
-  *
-    1. Write a command to the network card's command register to start a transmission.
+* **Example: sending network packet using PIO**. To do this: \*
+  1. Write a command to the network card's command register to start a transmission.
   *
     2. Copy the packet data into the network card's data registers
   *
@@ -811,10 +809,9 @@ Progress: 0%
     * Binary translator intercepts the execution of the original code, analyzes it, and generates a new version of the code without problematic instructions. The new code is executed instead of the original code.
   * Achieve full virtualization.
   * Allows the virtual machine to run w/o modifications to the guest OS.
-* Steps
-  *
-    1. Inspect Code Blocks
-    2. As code is executed, the binary translator inspects each code block to determine whether it contains any of the problematic privileged instructions
+* Steps \*
+  1. Inspect Code Blocks
+  2. As code is executed, the binary translator inspects each code block to determine whether it contains any of the problematic privileged instructions
   *
     2. Mark safe blocks
     3. If code doesn't contain problematic instructions, mark it as safe.
@@ -1014,9 +1011,8 @@ Progress: 0%
     * Dev must make client application & whenever necessary, call the wrapper function
   * For the server side application
     * Implementation of the actual service procedure
-* How to generate RPC interface modules using RPCGEN?
-  *
-    1. Create a `.x` file that contains the RPC program specification. This file is written int he RPC language & describes the procedures available to clients as well as the data types that are used in the RPC calls.
+* How to generate RPC interface modules using RPCGEN? \*
+  1. Create a `.x` file that contains the RPC program specification. This file is written int he RPC language & describes the procedures available to clients as well as the data types that are used in the RPC calls.
   *
     2. Run RPCGEN compiler on the `.x` file. It'll generate the 4 output files described
   *
@@ -1055,9 +1051,8 @@ Progress: 0%
         * All data types are encoded in multiples of 4 bytes.
         * IEEE format is used for floating point.
         * Two's complement is used for integers.
-      * Steps
-        *
-          1. The RPC header is encoded. This includes the service procedure ID, version number, and request ID.
+      * Steps \*
+        1. The RPC header is encoded. This includes the service procedure ID, version number, and request ID.
         *
           2. The arguments to the RPC procedure are encoded.
         *

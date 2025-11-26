@@ -1,5 +1,3 @@
 # Markov Decision
 
-
-
-<figure><img src="../markovDecisionProcess.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/markovDecisionProcess.png" alt=""><figcaption></figcaption></figure>

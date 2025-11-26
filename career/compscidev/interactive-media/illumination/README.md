@@ -1,7 +1,5 @@
 # Illumination w/ Diffuse, Ambience, Phong
 
-
-
 ## Illumination and Shading
 
 * **Illumination** computes the color of each vertex.
@@ -183,7 +181,4 @@ For example, what is the normal of n`* \vec(v_4)` and `n(v_2)`.
 
 .
 
-Now I'm working on more cool stuff! ![Bunny](../bunnyPhotos.png)
-
-
-
+Now I'm working on more cool stuff! ![Bunny](../../../../.gitbook/assets/bunnyPhotos.png)
