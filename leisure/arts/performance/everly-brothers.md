@@ -8,3 +8,14 @@ Love, Love me Do is the first osng I heard, probably from my dad or my grandpa. 
 * It helps if you're sibblings/brothers and have roughly the same type of voice. I would love to sing with my sister.
 * Being overly romantic, yet wise, is always entertaining to listen to and you can talk a lot about love in your songs.
 
+#### Personal Favorites
+
+* All I Have to Do Is Dream
+
+
+
+#### See Also - Other Incredible Vocals
+
+* The Beatles: _This Boy (Takes 12 And 13), Happiness is a Warm Gun,_&#x20;
+* The Beach Boys: _don't worry baby._
+

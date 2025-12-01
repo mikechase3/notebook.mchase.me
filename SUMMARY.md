@@ -928,6 +928,7 @@
 
 * [Arts](leisure/arts/README.md)
   * [Music Collection](career/music/performance/README.md)
+    * [Beatles](leisure/arts/performance/beatles.md)
     * [Clowncore NSFW](https://www.bitchute.com/video/GTOe7ewclPkR/)
     * [Everly Brothers](leisure/arts/performance/everly-brothers.md)
     * [Labrynth/Sia - LSD](career/music/performance/lsd.md)
