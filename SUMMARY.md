@@ -929,6 +929,7 @@
 * [Arts](leisure/arts/README.md)
   * [Music Collection](career/music/performance/README.md)
     * [Clowncore NSFW](https://www.bitchute.com/video/GTOe7ewclPkR/)
+    * [Everly Brothers](leisure/arts/performance/everly-brothers.md)
     * [Labrynth/Sia - LSD](career/music/performance/lsd.md)
     * [IGORRR - ADHD](leisure/arts/performance/igorrr-adhd.md)
     * [Portrait of Tracy](career/music/performance/inspiration.md)
