@@ -918,6 +918,7 @@
     * [\[Book\] What Maisie Knew](career/social-sciences/psychology/book-what-maisie-knew.md)
   * [Satire](career/social-sciences/satire/README.md)
     * [Corporate Translations](career/social-sciences/satire/corporate-translations.md)
+* [Page](career/page.md)
 * [Time Management](career/time-management/README.md)
   * [Breaking Up Hard Tasks](career/time-management/breaking-up-hard-tasks.md)
   * [\[HowTo\] Time Blocking](https://todoist.com/productivity-methods/time-blocking)
