@@ -55,3 +55,6 @@ glab config get editor --global
 glab config set editor vim --global
 ```
 
+## Flash Cards
+Testing a TSV sheet real quick to copy/paste elsewhere for studying versus a markdown table.
+
