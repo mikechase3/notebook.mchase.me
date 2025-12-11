@@ -4,6 +4,7 @@
 * [Project Backlog](inbox/README.md)
   * [Catherine On Supervillians and Databases](inbox/catherine-on-supervillians-and-databases.md)
   * [File Organization](inbox/file-organization.md)
+  * [An Evening with the CLI](inbox/an-evening-with-the-cli.md)
 
 ## Career
 
@@ -694,7 +695,6 @@
   * [Skill Acquisition](career/education/skill-acquisition.md)
   * [Teaching Code](career/education/teaching-code/README.md)
     * [Feedback on TurtleToy](career/education/teaching-code/feedback.md)
-    *
     * [Python Resources](career/education/teaching-code/resources.md)
     * [Socratica Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
     * [Tips for Kids](career/education/teaching-code/tips-for-kids.md)
