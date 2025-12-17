@@ -6,6 +6,7 @@
   * [File Organization](inbox/file-organization.md)
   * [An Evening with the CLI](inbox/an-evening-with-the-cli.md)
   * [Gemini API Quickstart Docs](https://ai.google.dev/gemini-api/docs/quickstart)
+  * [Field Oriented Control HowTo](https://www.youtube.com/watch?v=ujofKWmGChw)
 
 ## Career
 
