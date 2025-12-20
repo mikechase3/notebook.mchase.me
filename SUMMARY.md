@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
+* [Reading List](reading-list.md)
 * [Project Backlog](inbox/README.md)
   * [Catherine On Supervillians and Databases](inbox/catherine-on-supervillians-and-databases.md)
   * [File Organization](inbox/file-organization.md)
