@@ -35,7 +35,7 @@ _The following general principles apply to every employee and may form the basis
 
 ## POCs
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Answers to Missed Questions
 

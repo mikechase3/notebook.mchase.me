@@ -22,7 +22,7 @@ When you search for it, you'll likely come across this article: [https://support
 
 Setup your @custom-domain.com, but in the authentication settings, use your @icloud.com email address.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here's what a successful sign-in looks like for outgoing SMTP emails only:
 

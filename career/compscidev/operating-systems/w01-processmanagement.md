@@ -104,22 +104,22 @@ TOdo: 34:00
 
 Here's what I took to office hours:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **On Fork()**: Dr. X agreed my answer makes logical sense, but wasn't what she's looking for.&#x20;
+* **On Fork()**: Dr. X agreed my answer makes logical sense, but wasn't what she's looking for.
   * Maybe a better answer includes that we can call an EXEC to replace the child's image with a new program?
 
 {% hint style="warning" %}
-She said my answers make sense, but the first one isn't what she's looking for. While the first makes sense,&#x20;
+She said my answers make sense, but the first one isn't what she's looking for. While the first makes sense,
 {% endhint %}
 
 ## Process Scheduling
 
 * **Role of the CPU Scheduler**: it's an OS component managing how processes use CPU resources. It decides which process is dispatched/running. The OS therefore must be able to:
-  * **Preempt**: describes how an OS interrupts and save the current context.&#x20;
+  * **Preempt**: describes how an OS interrupts and save the current context.
   * **Schedule:** runs the scheduler to choose the next process
   * **Dispatch**: dispatches process & switches into its context
-* **Cpu Resources are Expensive**: so the OS needs to minimize the amount of time it's scheduling.&#x20;
+* **Cpu Resources are Expensive**: so the OS needs to minimize the amount of time it's scheduling.
 
 ### Calculating Useful CPU Work
 
@@ -134,16 +134,16 @@ $$
 
 ### IO Process Scheduling
 
-So far, we know how processes access resources on the hardware platform, but in addition to memory/CPU we have other I/O devices.&#x20;
+So far, we know how processes access resources on the hardware platform, but in addition to memory/CPU we have other I/O devices.
 
 * I/O devices are slower and normally, the process will remain "waiting" in the queue until the I/O event is complete.
-* The I/O device gets complete & notifies the CPU it's done.&#x20;
+* The I/O device gets complete & notifies the CPU it's done.
 
 ## Inter-Process Communication
 
 * IPC mechanisms transfer data/info from one address space to another maintaining protection/isolating that OSes enforce.
-* **Message Passing IPC**: the OS provides a communication channel like a shared buffer. Processes write/read messages to/from channels. This approach means the OS will manage the channel and provides the same APIs and system calls for writing/sending/receiving data from the channel; however, there is overhead.&#x20;
-* **Shared Memory IPC**: it's a faster path of cmmunicating by reading from RAM.&#x20;
+* **Message Passing IPC**: the OS provides a communication channel like a shared buffer. Processes write/read messages to/from channels. This approach means the OS will manage the channel and provides the same APIs and system calls for writing/sending/receiving data from the channel; however, there is overhead.
+* **Shared Memory IPC**: it's a faster path of cmmunicating by reading from RAM.
 
 ## Processes in Memory
 
