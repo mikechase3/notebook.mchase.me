@@ -13,7 +13,7 @@
 ### Sample Table:
 
 | Task                  | Assignee    | Priority  |
-| --------------------- | ----------- | --------- |
+|-----------------------|-------------|-----------|
 | Setup monitors        | Mike Chase  | Required  |
 | Setup 3x oculus rifts | Mike Chase  | Important |
 | Setup tablecloth      | John Doe    | Normal    |
