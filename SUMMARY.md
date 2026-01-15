@@ -4,6 +4,7 @@
 * [Reading List](reading-list.md)
 * [Project Backlog](inbox/README.md)
   * [Catherine On Supervillians and Databases](inbox/catherine-on-supervillians-and-databases.md)
+  * [AI Coding Agent Talk](inbox/ai-coding-agent-talk.md)
   * [ETM 1010](inbox/etm-1010.md)
   * [ETM 1020](inbox/etm-1020.md)
   * [ETM 1030 Requirements Definition & Analysis Fundamentals](inbox/etm-1030-requirements-definition-and-analysis-fundamentals.md)
