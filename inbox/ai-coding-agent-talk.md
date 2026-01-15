@@ -122,5 +122,22 @@ test('user searches invalid ticker and sees no matches message prview, async() =
 }
 ```
 
+### Planning
 
+* He has a markdown file of a backlog.
+* It's sorted into "stories", like "User sees detailed metrics and sock card".&#x20;
+  * Descrioption: stock cards display comprehensive criteria...
+* Aceptance Criteria
+* Scenario: user sees 52-week range information on stock card
+  * Given user tpyed
+  * When
+  * Then...
+
+Definitely checkout [Gherkin](https://cucumber.io/docs/gherkin/) sometime. Also , get claude code & check that out. Claude Code will also tell you the the cost & context window too which is great!
+
+
+
+And at this point - I'm leaving to go to a different talk. But I see how this roughly works & how he's querying it all. Some questions for later:
+
+1. What is a skill? How do you "invoke" a skill?
 
