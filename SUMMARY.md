@@ -2,8 +2,7 @@
 
 * [Mike Chase's Research](README.md)
 * [Reading List](reading-list.md)
-* [Project Backlog](inbox/README.md)
-  * [8bit-Computers](inbox/8bit-computers.md)
+* [Inbox](inbox/README.md)
   * [AI Coding Agent Talk](inbox/ai-coding-agent-talk.md)
   * [Catherine On Supervillians and Databases](inbox/catherine-on-supervillians-and-databases.md)
   * [ETM 1010](inbox/etm-1010.md)
@@ -284,6 +283,7 @@
     * [Obsidian MD Knowledge Base](https://obsidian.md/)
     * [Table Convert](https://tableconvert.com/)
   * [Electrical/Hardware Topics](career/compscidev/electrical-hardware-topics/README.md)
+    * [8-Bit Computer Workshop (6502)](career/compscidev/electrical-hardware-topics/8bit-computer-workshop/README.md)
     * [FPGAs](career/compscidev/electrical-hardware-topics/fpgas.md)
     * [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
     * [MIPS](career/compscidev/electrical-hardware-topics/mips.md)
