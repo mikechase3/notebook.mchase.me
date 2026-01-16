@@ -264,3 +264,26 @@ He's going way faster so I have to just bullet points:
   * **UncleRus** maintains a lot of libraries for Github.
 * ESP-IDF demo is now shown.&#x20;
 
+## CircuitPython & Micropython
+
+Circuit python is generally more supported & better because Adafruit makes all the libraries and stuff for it. You install the runtime for the board & you don't have to do much else.
+
+### Installing
+
+```
+cd $IOT; git clone https://github.com/adafruit/circuiitpython.git
+python -m pip install --upgrade circup --break-system-packages
+```
+
+Circuit python is a native C/C++ thing on the baord. When you plug it in, the python library will mount it as a DRIVE and allow you to copy the code over. This is true for both CircuitPython and Micropython.&#x20;
+
+Sometimes, there's certain key combinations to get it back to boot mode. You might have to hold down a button to get it to boot mode. This is the hardest part of doing python development on the board is **switching the bootloader**.
+
+Picboboard has a picoboard reboot that's similar? If it can find its board, it can go into the boot select mode and that's with `picotool reboot`.&#x20;
+
+Some do not have actual butons. And you have to actually ground the pin to put it back into that mode. Here's an example documentation one:
+
+* Press and Hold `BOOTSEL`
+* Pull Pin 30 to GND
+* Then Release BOOTSEL
+
