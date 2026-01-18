@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Mike Chase's Research](README.md)
-* [Reading List](reading-list.md)
 * [Inbox](inbox/README.md)
+  * [Reading List](reading-list.md)
   * [AI Coding Agent Talk](inbox/ai-coding-agent-talk.md)
   * [Catherine On Supervillians and Databases](inbox/catherine-on-supervillians-and-databases.md)
   * [Codemash 2026 Slides](inbox/codemash-2026-slides.md)
@@ -48,6 +48,7 @@
       * [Youtube User/Creator Tips](https://www.youtube.com/watch?v=LicfHxvAlXI)
 * [CompSci-and-Development](career/compsci-and-development/README.md)
   * [AI](career/compsci-and-development/ai/ai.md)
+    * [AI Zeitgeist](career/compsci-and-development/ai/ai-zeitgeist.md)
     * [AWS Building Intelligent Systems](career/compsci-and-development/ai/artificial-intelligence.md)
     * [Books & Courses](career/compsci-and-development/ai/courses/courses.md)
       * [3B1B ML](https://www.youtube.com/watch?v=aircAruvnKk\&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
